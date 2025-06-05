@@ -5,4 +5,5 @@ SQLAlchemy==2.0.23
 Mastodon.py==1.8.1
 Pillow==10.2.0
 opencv-python==4.9.0.80
-requests==2.31.0 
+requests==2.31.0
+notion-client==2.2.1 

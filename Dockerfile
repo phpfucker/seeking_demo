@@ -1,13 +1,10 @@
-FROM node:20-slim
+FROM python:3.11-slim
 
-WORKDIR /app
+WORKDIR /app/src
 
-# アプリケーションの依存関係をインストール
-COPY package*.json ./
-RUN npm install
+COPY requirements.txt /app/
+RUN pip install --no-cache-dir -r /app/requirements.txt
 
-# アプリケーションのコピー
-COPY . .
+COPY ./src /app/src
 
-# アプリケーションの起動
-CMD ["npm", "start"] 
+CMD ["python", "app.py"] 
