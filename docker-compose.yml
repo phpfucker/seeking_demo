@@ -2,15 +2,18 @@ version: '3.8'
 
 services:
   app:
-    build:
-      context: .
-      dockerfile: Dockerfile
+    build: .
     ports:
-      - "3000:3000"
+      - "${PORT:-3000}:3000"
     volumes:
       - ./src:/app/src
-    env_file:
-      - .env
+    environment:
+      - FLASK_APP=src/app.py
+      - FLASK_ENV=development
+      - FLASK_DEBUG=1
+      - DATABASE_URL=postgresql://postgres:postgres@db:5432/seekin_demo
+      - NOTION_TOKEN=${NOTION_TOKEN}
+      - NOTION_PAGE_ID=${NOTION_PAGE_ID}
     depends_on:
       - db
 
@@ -24,6 +27,7 @@ services:
       - "5432:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
+      - ./src/db/init.sql:/docker-entrypoint-initdb.d/init.sql
 
 volumes:
   postgres_data: 

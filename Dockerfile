@@ -1,10 +1,10 @@
 FROM python:3.11-slim
 
-WORKDIR /app/src
+WORKDIR /app
 
-COPY requirements.txt /app/
-RUN pip install --no-cache-dir -r /app/requirements.txt
+COPY requirements.txt .
+RUN pip install -r requirements.txt
 
-COPY ./src /app/src
+COPY . .
 
-CMD ["python", "app.py"] 
+CMD ["flask", "run", "--host=0.0.0.0", "--port=3000"] 

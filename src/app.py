@@ -1,11 +1,53 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, send_from_directory
 import os
 import psycopg2
 from psycopg2.extras import RealDictCursor
 from datetime import datetime
 from services.notion_service import NotionService
+from werkzeug.utils import secure_filename
 
 app = Flask(__name__)
+
+# 画像アップロード用の設定
+UPLOAD_FOLDER = 'uploads'
+ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg', 'gif'}
+
+app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+
+# アップロードフォルダの作成
+os.makedirs(UPLOAD_FOLDER, exist_ok=True)
+
+def allowed_file(filename):
+    return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
+
+# 画像アップロード用のエンドポイント
+@app.route('/upload-image', methods=['POST'])
+def upload_image():
+    if 'file' not in request.files:
+        return jsonify({"error": "ファイルがありません"}), 400
+    
+    file = request.files['file']
+    if file.filename == '':
+        return jsonify({"error": "ファイルが選択されていません"}), 400
+    
+    if file and allowed_file(file.filename):
+        filename = secure_filename(file.filename)
+        file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+        file.save(file_path)
+        
+        # 画像URLを返す
+        image_url = f"/images/{filename}"
+        return jsonify({
+            "message": "画像のアップロードが完了しました",
+            "image_url": image_url
+        })
+    
+    return jsonify({"error": "許可されていないファイル形式です"}), 400
+
+# 画像ファイルを提供するエンドポイント
+@app.route('/images/<filename>')
+def serve_image(filename):
+    return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
 
 # データベース接続
 def get_db_connection():
@@ -13,12 +55,39 @@ def get_db_connection():
     conn.cursor_factory = RealDictCursor
     return conn
 
+# NotionデータベースIDを取得
+def get_notion_database_id():
+    conn = get_db_connection()
+    try:
+        with conn.cursor() as cur:
+            cur.execute("SELECT database_id FROM notion_settings ORDER BY id DESC LIMIT 1")
+            result = cur.fetchone()
+            return result['database_id'] if result else None
+    finally:
+        conn.close()
+
+# NotionデータベースIDを保存
+def save_notion_database_id(database_id):
+    conn = get_db_connection()
+    try:
+        with conn.cursor() as cur:
+            cur.execute(
+                "INSERT INTO notion_settings (database_id) VALUES (%s) RETURNING id",
+                (database_id,)
+            )
+            conn.commit()
+    finally:
+        conn.close()
+
 # Notionデータベースの初期化
 @app.route("/init-notion", methods=["POST"])
 def init_notion():
     try:
         # データベースの作成
         database_id = NotionService.create_database_if_not_exists()
+        
+        # データベースIDを保存
+        save_notion_database_id(database_id)
         
         # 今日の日付の記事を作成
         today = datetime.now().strftime("%Y-%m-%d")
@@ -107,5 +176,28 @@ def delete_article(article_id):
         return jsonify({"error": "Article not found"}), 404
     return jsonify(article)
 
-if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=3000) 
+@app.route('/update-article', methods=['POST'])
+def update_notion_article():
+    try:
+        # データベースIDを取得
+        database_id = get_notion_database_id()
+        if not database_id:
+            return jsonify({"error": "Notionデータベースが初期化されていません"}), 400
+
+        data = request.get_json()
+        title = data.get('title')
+        content = data.get('content')
+        
+        if not title or not content:
+            return jsonify({"error": "タイトルと内容は必須です"}), 400
+
+        NotionService.update_article(database_id, title, content)
+        
+        return jsonify({
+            "message": "記事の更新が完了しました"
+        })
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 3000)), debug=True) 
