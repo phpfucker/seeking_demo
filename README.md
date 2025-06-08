@@ -1,26 +1,18 @@
 # Seekin Demo
 
-Notionと連携した記事管理アプリケーション
+Notionと連携した記事管理・画像自動貼り付けアプリケーション
 
 ## 概要
 
-このアプリケーションは、Notionのデータベースと連携して記事を管理するためのAPIを提供します。
-Flask + PostgreSQL + Notionの構成で、Dockerコンテナとして動作します。
-また、OpenAIのDALL·E APIを使用した画像生成機能も提供しています。
+このアプリケーションは、ChatGPTでストーリーを生成し、Stable Diffusionで漫画画像を生成、S3に保存し、Notionにストーリーや画像を自動で貼り付ける自動化フローを提供します。
+Python + Docker + Flask構成で、API経由で日報や画像をNotionに自動追記できます。
 
-## 機能
-
-- Notionデータベースの自動作成
-- 日付ベースの記事自動作成
-- 記事のCRUD操作（作成・読み取り・更新・削除）
-- OpenAI DALL·Eを使用した画像生成
-
-## 技術スタック
-
-- Backend: Python 3.11 + Flask
-- Database: PostgreSQL 14
-- External API: Notion API, OpenAI API (DALL·E)
-- Container: Docker + Docker Compose
+## システム構成
+- ChatGPTでストーリー生成
+- Stable Diffusionで漫画画像生成
+- S3に画像保存
+- Notionにストーリーや画像を自動で貼り付け
+- すべてPython/Docker/Flaskで自動化
 
 ## セットアップ
 
@@ -37,105 +29,58 @@ cp .env.example .env
 ```
 
 必要な環境変数：
-- `GITHUB_TOKEN`: GitHubのPersonal Access Token
 - `NOTION_TOKEN`: Notionのインテグレーショントークン
-- `NOTION_PAGE_ID`: NotionのページID（データベースを作成するページのID）
-- `OPENAI_API_KEY`: OpenAI APIキー（画像生成機能用）
+- `NOTION_PAGE_ID`: NotionのデータベースID
+- `OPENAI_API_KEY`: OpenAI APIキー
+- `AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY`, `AWS_S3_BUCKET_NAME`: S3用
 
 3. Dockerコンテナの起動
 ```bash
 docker-compose up -d
 ```
 
+## 運用フロー
+
+1. ChatGPTでストーリー生成
+2. Stable Diffusionでコマごとに漫画画像生成
+3. 画像をS3にアップロード
+4. Notionにストーリー本文・画像を自動貼り付け
+
 ## APIエンドポイント
 
-### Notionデータベースの初期化
+### 日報・記事の追記
 ```http
-POST /init-notion
+POST /update-article
 ```
-- Notionデータベースを作成
-- 今日の日付の記事を作成
+- 指定したタイトル（例：日付）ページに本文を追記します
+- タイトルが一致するページがない場合は何も追記されません
 
-### 記事の操作
-```http
-GET /articles
-POST /articles
-GET /articles/<id>
-PUT /articles/<id>
-DELETE /articles/<id>
+#### サンプルリクエスト
+```bash
+curl -X POST http://localhost:3000/update-article -H "Content-Type: application/json" -d @report.json
 ```
 
-## 画像生成機能
-
-### 使用方法
-
-```python
-from services.image_generator import ImageGenerator
-
-# インスタンスの作成
-generator = ImageGenerator()
-
-# 画像の生成と保存
-prompt = "あなたのプロンプト"
-saved_path = generator.generate_and_save_image(prompt)
+#### report.json サンプル
+```json
+{
+  "title": "2025-06-08",
+  "content": "本日の作業まとめ..."
+}
 ```
 
-### パラメータ
+### 画像追加API
+（省略。必要に応じて add_image_to_article エンドポイントを追記してください）
 
-- `prompt`: 画像生成のためのプロンプト（必須）
-- `size`: 画像サイズ（オプション）
-  - "256x256"（デフォルト、最も安価）
-  - "512x512"
-  - "1024x1024"
-- `filename`: 保存するファイル名（オプション、指定がない場合は自動生成）
+## 開発・運用のポイント
+- タイトル（title）はNotion上のページと完全一致させてください
+- 画像追加・テキスト追記のAPIはDockerコンテナ起動後すぐ利用可能です
+- 主要な自動化フローは `test_story_to_notion.py` などで一括テストできます
 
-### 料金について
+## 参考
+- Notion API: https://developers.notion.com/
+- OpenAI API: https://platform.openai.com/
+- Stable Diffusion: https://github.com/CompVis/stable-diffusion
 
-OpenAI DALL·Eの料金は以下の要因で変動します：
+---
 
-1. 画像サイズ
-   - 256x256: 最も安価
-   - 512x512: 中程度
-   - 1024x1024: 最も高価
-
-2. 生成数
-   - 一度に生成する画像数（1-10枚）
-
-3. プロンプト
-   - 短く、シンプルなプロンプトを使用することで、より効率的に生成できます
-
-### 料金を抑えるためのヒント
-
-1. 開発・テスト時は256x256サイズを使用
-2. プロンプトは必要最小限に
-3. 一度に1枚ずつ生成
-4. テスト後に本番用のサイズに変更
-
-## 開発環境のセットアップ
-
-1. Notionインテグレーションの作成
-   - [Notion Developers](https://developers.notion.com/)にアクセス
-   - 新しいインテグレーションを作成
-   - インテグレーショントークンを取得
-
-2. Notionページの設定
-   - 新しいページを作成
-   - ページのURLからIDを取得（例：`https://www.notion.so/workspace/1234567890abcdef` の場合、`1234567890abcdef`がID）
-   - インテグレーションをページに接続（ページの「...」メニュー → 「コネクション」）
-
-3. OpenAI APIの設定
-   - [OpenAI Platform](https://platform.openai.com/)にアクセス
-   - APIキーを取得
-   - 画像生成（DALL·E）の利用を有効化
-
-4. 環境変数の設定
-   - `.env.example`をコピーして`.env`を作成
-   - 取得したトークンとページIDを設定
-
-## 注意事項
-
-- `.env`ファイルはGitで管理されません。機密情報を含むため、ローカル環境でのみ管理してください。
-- Notionのインテグレーショントークンは適切な権限（Contents）を付与してください。
-- データベースの作成には、ページへの適切なアクセス権限が必要です。
-- OpenAI APIの利用には料金が発生します。開発時は256x256サイズを使用することを推奨します。
-- 生成された画像は一時的なURLで提供され、一定時間後にアクセスできなくなります。 
+本READMEは2025年6月時点の運用フローに基づいています。 
