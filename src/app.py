@@ -1,10 +1,14 @@
+print('Flask app started')
 from flask import Flask, request, jsonify, send_from_directory
 import os
 import psycopg2
 from psycopg2.extras import RealDictCursor
 from datetime import datetime
-from services.notion_service import NotionService
+from src.services.notion_service import NotionService
 from werkzeug.utils import secure_filename
+from src.services.s3_service import S3Service
+from src.config.s3 import *
+import openai
 
 app = Flask(__name__)
 
@@ -178,6 +182,7 @@ def delete_article(article_id):
 
 @app.route('/update-article', methods=['POST'])
 def update_notion_article():
+    print('call update_article')
     try:
         # データベースIDを取得
         database_id = get_notion_database_id()
@@ -196,6 +201,95 @@ def update_notion_article():
         return jsonify({
             "message": "記事の更新が完了しました"
         })
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route('/upload-to-s3', methods=['POST'])
+def upload_to_s3():
+    data = request.get_json()
+    filename = data.get('filename')
+    if not filename:
+        return jsonify({"error": "filenameは必須です"}), 400
+    
+    file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+    if not os.path.exists(file_path):
+        return jsonify({"error": "指定されたファイルが存在しません"}), 404
+    
+    # S3にアップロード
+    s3_url = S3Service.upload_image(file_path)
+    if not s3_url:
+        return jsonify({"error": "S3へのアップロードに失敗しました"}), 500
+    
+    return jsonify({
+        "message": "S3へのアップロードが完了しました",
+        "s3_url": s3_url
+    })
+
+@app.route('/add-image-to-notion', methods=['POST'])
+def add_image_to_notion():
+    data = request.get_json()
+    filename = data.get('filename')
+    if not filename:
+        return jsonify({"error": "filenameは必須です"}), 400
+    
+    file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+    if not os.path.exists(file_path):
+        return jsonify({"error": "指定されたファイルが存在しません"}), 404
+    
+    try:
+        # データベースIDを取得
+        database_id = get_notion_database_id()
+        if not database_id:
+            # データベースが存在しない場合は作成
+            database_id = NotionService.create_database_if_not_exists()
+            save_notion_database_id(database_id)
+        
+        # 今日の日付の記事を作成または取得
+        today = datetime.now().strftime("%Y-%m-%d")
+        
+        # S3に画像をアップロード
+        s3_url = S3Service.upload_image(file_path)
+        if not s3_url:
+            return jsonify({"error": "S3へのアップロードに失敗しました"}), 500
+        
+        # 記事に画像を追加
+        try:
+            NotionService.add_image_to_article(
+                database_id=database_id,
+                title=today,
+                image_path=file_path,
+                caption=f"Generated image for {today}"
+            )
+        except Exception as e:
+            return jsonify({"error": str(e)}), 500
+        
+        return jsonify({
+            "message": "Notionへの画像追加が完了しました",
+            "s3_url": s3_url
+        })
+        
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+STORY_PROMPT_PATH = os.path.join(os.path.dirname(__file__), 'prompts', 'story_prompt.txt')
+
+@app.route('/generate-story', methods=['POST'])
+def generate_story():
+    try:
+        client = openai.OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+        with open(STORY_PROMPT_PATH, 'r', encoding='utf-8') as f:
+            STORY_PROMPT = f.read()
+        response = client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {"role": "system", "content": "あなたは優秀な漫画原作者です。"},
+                {"role": "user", "content": STORY_PROMPT}
+            ],
+            max_tokens=1500,
+            temperature=0.8
+        )
+        story = response.choices[0].message.content.strip()
+        return jsonify({"story": story})
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
