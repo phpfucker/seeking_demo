@@ -1,96 +1,136 @@
+# -*- coding: utf-8 -*-
+
 import os
 import sys
+import unittest
 import requests
-from pathlib import Path
 from dotenv import load_dotenv
-from openai import OpenAI
+from pathlib import Path
+from PIL import Image
+from datetime import datetime
+import logging
 
 # プロジェクトのルートディレクトリをPythonパスに追加
-sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+project_root = str(Path(__file__).parent.parent.parent)
+sys.path.append(project_root)
 
 from src.services.manga_generator import MangaGenerator
+from src.services.manga_improver import MangaImprover
+from src.services.notion_service import NotionService
+from src.services.story_splitter import StorySplitter
 
-# 環境変数の読み込み
-load_dotenv()
-
-BASE_URL = "http://localhost:3000"
-UPLOADS_DIR = Path("uploads")
-FILENAME = "story1_page1.png"
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-
-UPLOADS_DIR.mkdir(exist_ok=True)
-
-# OpenAI APIクライアントの初期化
-client = OpenAI(api_key=OPENAI_API_KEY)
-
-def generate_story():
-    """ストーリーを生成する"""
-    print("1. ストーリー生成...")
-    res = requests.post(f"{BASE_URL}/generate-story")
-    res.raise_for_status()
-    story = res.json()["story"]
-    print(story)
-    return story
-
-def generate_manga_image(story):
-    """ストーリーから漫画画像を生成する"""
-    print("2. 漫画画像を生成中...")
+# ログ設定
+def setup_logger():
+    # ログディレクトリの作成
+    log_dir = Path("src/data")
+    log_dir.mkdir(exist_ok=True)
     
-    # MangaGeneratorの初期化
-    generator = MangaGenerator()
+    # ログファイル名の設定（日時を含む）
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    log_file = log_dir / f"test_story_to_notion_{timestamp}.log"
     
-    # ストーリーの最初の部分をプロンプトとして使用
-    prompt = story.split('\n')[0]  # 最初の行を使用
+    # ロガーの設定
+    logger = logging.getLogger()
+    logger.setLevel(logging.DEBUG)
     
-    # 画像生成
-    image = generator.generate_manga_page(
-        prompt=prompt,
-        negative_prompt="low quality, blurry, distorted",
-        num_inference_steps=30,
-        guidance_scale=7.5
-    )
+    # ファイルハンドラの設定
+    file_handler = logging.FileHandler(log_file, encoding='utf-8')
+    file_handler.setLevel(logging.DEBUG)
     
-    # 画像を保存
-    image_path = UPLOADS_DIR / FILENAME
-    generator.save_image(image, str(image_path))
+    # コンソールハンドラの設定
+    console_handler = logging.StreamHandler()
+    console_handler.setLevel(logging.INFO)
     
-    print(f"画像を保存しました: {image_path}")
-    return FILENAME
+    # フォーマッタの設定
+    formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+    file_handler.setFormatter(formatter)
+    console_handler.setFormatter(formatter)
+    
+    # ハンドラの追加
+    logger.addHandler(file_handler)
+    logger.addHandler(console_handler)
+    
+    return logger
 
-def upload_to_s3(filename):
-    """画像をS3にアップロードする"""
-    print("3. S3にアップロード中...")
-    res = requests.post(f"{BASE_URL}/upload-to-s3", json={"filename": filename})
-    res.raise_for_status()
-    s3_url = res.json()["s3_url"]
-    print("S3 URL:", s3_url)
-    return s3_url
-
-def add_image_to_notion(filename):
-    """画像をNotionに追加する"""
-    print("4. Notionに画像を保存中...")
-    res = requests.post(f"{BASE_URL}/add-image-to-notion", json={"filename": filename})
-    res.raise_for_status()
-    print("Notion連携完了:", res.json())
-
-def main():
-    """メイン処理"""
-    try:
-        # 1. ストーリー生成
-        story = generate_story()
+class TestStoryToNotion(unittest.TestCase):
+    def setUp(self):
+        load_dotenv()
+        self.logger = setup_logger()
+        self.logger.info("テストを開始します")
+        self.manga_generator = MangaGenerator()
+        self.manga_improver = MangaImprover()
+        self.notion_service = NotionService()
+        self.story_splitter = StorySplitter()
+        self.base_url = "http://localhost:3000"
         
-        # 2. 漫画画像生成
-        filename = generate_manga_image(story)
-        
-        # 3. S3アップロード
-        upload_to_s3(filename)
-        
-        # 4. Notion連携
-        add_image_to_notion(filename)
-        
-    except Exception as e:
-        print(f"エラーが発生しました: {str(e)}")
-        sys.exit(1)
+        # 画像保存先をuploadsディレクトリに変更
+        self.test_dir = os.path.join(project_root, "uploads")
+        os.makedirs(self.test_dir, exist_ok=True)
+    
+    def test_full_flow(self):
+        """ストーリー生成からNotion連携までの一連のフローをテスト（イラスト専用）"""
+        try:
+            self.logger.info("1. ストーリー生成を開始...")
+            response = requests.post(f"{self.base_url}/generate-story")
+            response.raise_for_status()
+            story = response.json()["story"]
+            self.assertIsNotNone(story)
+            self.logger.info("ストーリー生成完了")
+            
+            self.logger.info("2. ストーリーをイラスト用プロンプトに変換...")
+            prompt = self.story_splitter.convert_to_illustration_prompt(story)
+            self.logger.info("イラスト用プロンプト:")
+            self.logger.info(prompt)
+            
+            self.logger.info("3. イラスト生成を開始...")
+            image = self.manga_generator.generate_illustration(
+                prompt,
+                num_inference_steps=5,
+                guidance_scale=3.0,
+                negative_prompt="blurry, low quality, low resolution, deformed, disfigured, bad anatomy, ugly, bad proportions, extra limbs, NSFW, inappropriate content"
+            )
+            manga_path = os.path.join(self.test_dir, "test_illustration.png")
+            self.manga_generator.save_image(image, manga_path)
+            self.assertIsNotNone(manga_path)
+            self.assertTrue(os.path.exists(manga_path))
+            self.logger.info("イラスト生成完了")
+            
+            self.logger.info("4. 画像分析とプロンプト改善を開始...")
+            improved_prompt, analysis = self.manga_improver.analyze_and_improve(manga_path, prompt)
+            self.assertIsNotNone(improved_prompt)
+            self.assertIsNotNone(analysis)
+            self.logger.info("画像分析とプロンプト改善完了")
+            
+            # 分析結果をdaily reportに追加
+            daily_report = f"""
+## 画像分析レポート
+### 生成された画像の分析
+{analysis}
+
+### 改善されたプロンプト
+{improved_prompt}
+
+### 元のストーリー
+{story}
+"""
+            self.logger.info("5. Notion連携テスト開始...")
+            page_id = self.notion_service.create_page(
+                title=datetime.now().strftime("%Y-%m-%d"),
+                content=daily_report,
+                image_path=manga_path,
+                analysis=analysis
+            )
+            self.assertIsNotNone(page_id)
+            self.logger.info(f"Notionへの保存完了: {page_id}")
+            
+            self.logger.info("テスト完了: すべての処理が正常に実行されました")
+        except Exception as e:
+            self.logger.error(f"テスト中にエラーが発生しました: {str(e)}")
+            raise
+    
+    def tearDown(self):
+        # uploadsディレクトリは削除しない（ホストから閲覧できるようにするため）
+        pass
 
 if __name__ == "__main__":
-    main() 
+    unittest.main() 

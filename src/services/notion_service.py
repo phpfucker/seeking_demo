@@ -4,17 +4,26 @@ import requests
 import os
 from src.services.s3_service import S3Service
 import logging
+from notion_client import Client
+from dotenv import load_dotenv
 
 logging.basicConfig(level=logging.DEBUG)
 
 class NotionService:
-    @staticmethod
-    def create_database_if_not_exists():
+    def __init__(self):
+        """NotionServiceの初期化"""
+        load_dotenv()
+        self.client = Client(auth=os.getenv("NOTION_TOKEN"))
+        self.database_id = os.getenv("NOTION_DATABASE_ID")
+        if not self.database_id:
+            raise ValueError('NOTION_DATABASE_ID is not set in environment variables')
+    
+    def create_database_if_not_exists(self):
         """データベースが存在しない場合は作成する"""
         try:
             # 新しいデータベースを作成
-            database = notion.databases.create(
-                parent={"type": "page_id", "page_id": PARENT_PAGE_ID},
+            database = self.client.databases.create(
+                parent={"type": "page_id", "page_id": os.getenv("NOTION_PAGE_ID")},
                 title=[{"type": "text", "text": {"content": "Daily Report"}}],
                 properties={
                     "Title": {
@@ -35,12 +44,30 @@ class NotionService:
         except Exception as e:
             raise Exception(f"データベースの作成に失敗しました: {str(e)}")
 
-    @staticmethod
-    def create_article_if_not_exists(database_id, title, content):
-        """指定されたタイトルの記事が存在しない場合は作成する"""
+    def _split_text_blocks(self, text, max_length=2000):
+        """テキストをmax_lengthごとに分割しリストで返す"""
+        return [text[i:i+max_length] for i in range(0, len(text), max_length)]
+
+    def _create_text_block(self, text: str) -> dict:
+        """テキストブロックを作成する"""
+        return {
+            "object": "block",
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": text
+                        }
+                    }
+                ]
+            }
+        }
+
+    def create_article_if_not_exists(self, database_id, title, content):
         try:
-            # データベース内の記事を検索
-            response = notion.databases.query(
+            response = self.client.databases.query(
                 database_id=database_id,
                 filter={
                     "property": "Title",
@@ -51,9 +78,8 @@ class NotionService:
             )
             print(f"[DEBUG] create_article_if_not_exists: query response: {response}")
 
-            # 記事が存在しない場合は作成
             if not response["results"]:
-                create_resp = notion.pages.create(
+                create_resp = self.client.pages.create(
                     parent={"database_id": database_id},
                     properties={
                         "Title": {
@@ -65,15 +91,6 @@ class NotionService:
                                 }
                             ]
                         },
-                        "Content": {
-                            "rich_text": [
-                                {
-                                    "text": {
-                                        "content": content
-                                    }
-                                }
-                            ]
-                        },
                         "Created At": {
                             "date": {
                                 "start": datetime.now().isoformat()
@@ -81,19 +98,29 @@ class NotionService:
                         }
                     }
                 )
+                # 本文（blocks）にテキストを追加
+                if content:
+                    blocks = [self._create_text_block(t) for t in self._split_text_blocks(content)]
+                    for block in blocks:
+                        self.client.blocks.children.append(
+                            block_id=create_resp["id"],
+                            children=[block]
+                        )
                 print(f"[DEBUG] create_article_if_not_exists: create response: {create_resp}")
                 return True
-            return False
+            else:
+                # 記事が存在する場合は上書き
+                self.update_article(database_id, title, content)
+                return True
         except Exception as e:
             print(f"[DEBUG] create_article_if_not_exists: error: {str(e)}")
             raise Exception(f"記事の作成に失敗しました: {str(e)}")
 
-    @staticmethod
-    def update_article(database_id, title, content):
+    def update_article(self, database_id, title, content):
         print('update_article reached')
         try:
             print(f"[DEBUG] update_article: database_id: {database_id}, title: {title}, content: {content}")
-            response = notion.databases.query(
+            response = self.client.databases.query(
                 database_id=database_id,
                 filter={
                     "property": "Title",
@@ -106,18 +133,12 @@ class NotionService:
             if response["results"]:
                 page_id = response["results"][0]["id"]
                 print(f"[DEBUG] update_article: page_id: {page_id}")
-                resp = notion.blocks.children.append(
-                    block_id=page_id,
-                    children=[{
-                        "object": "block",
-                        "type": "paragraph",
-                        "paragraph": {
-                            "rich_text": [
-                                {"type": "text", "text": {"content": content}}
-                            ]
-                        }
-                    }]
-                )
+                blocks = [self._create_text_block(t) for t in self._split_text_blocks(content)]
+                for block in blocks:
+                    resp = self.client.blocks.children.append(
+                        block_id=page_id,
+                        children=[block]
+                    )
                 print(f"[DEBUG] update_article: append response: {resp}")
                 return True
             return False
@@ -125,16 +146,13 @@ class NotionService:
             print(f"update_article error: {str(e)}")
             raise Exception(f"記事の更新に失敗しました: {str(e)}")
 
-    @staticmethod
-    def upload_image_to_notion(page_id, image_path, caption=None):
+    def upload_image_to_notion(self, page_id, image_path, caption=None):
         """
-        画像をNotionページにアップロードします
-        
+        画像をNotionページにアップロードします（既存内容を消さずに追記）
         Args:
             page_id (str): NotionページのID
             image_path (str): アップロードする画像のパス
             caption (str, optional): 画像のキャプション
-            
         Returns:
             bool: アップロードが成功したかどうか
         """
@@ -146,7 +164,7 @@ class NotionService:
                 return False
             
             # 画像をNotionに追加
-            response = notion.blocks.children.append(
+            response = self.client.blocks.children.append(
                 block_id=page_id,
                 children=[{
                     "object": "block",
@@ -166,23 +184,62 @@ class NotionService:
             print(f"[DEBUG] upload_image_to_notion: error: {str(e)}")
             return False
 
-    @staticmethod
-    def add_image_to_article(database_id, title, image_path, caption=None):
+    def create_page(self, title, content, image_path, analysis=None, report=None):
+        """Notionにページを作成し、画像とレポートを添付する（本文は消さずに追記）
+        既存ページがあればそのページに追記、新規なら作成
+        """
+        try:
+            # 既存ページを検索
+            response = self.client.databases.query(
+                database_id=self.database_id,
+                filter={
+                    "property": "Title",
+                    "title": {"equals": title}
+                }
+            )
+            if response["results"]:
+                # 既存ページがあれば本文に追記
+                page_id = response["results"][0]["id"]
+                if content:
+                    blocks = [self._create_text_block(t) for t in self._split_text_blocks(content)]
+                    for block in blocks:
+                        self.client.blocks.children.append(
+                            block_id=page_id,
+                            children=[block]
+                        )
+                if image_path:
+                    self.upload_image_to_notion(page_id, image_path)
+                return page_id
+            else:
+                # なければ新規作成
+                page = self.client.pages.create(
+                    parent={"database_id": self.database_id},
+                    properties={
+                        "Title": {"title": [{"text": {"content": title}}]},
+                        "Created At": {"date": {"start": datetime.now().isoformat()}}
+                    }
+                )
+                if content:
+                    blocks = [self._create_text_block(t) for t in self._split_text_blocks(content)]
+                    for block in blocks:
+                        self.client.blocks.children.append(
+                            block_id=page["id"],
+                            children=[block]
+                        )
+                if image_path:
+                    self.upload_image_to_notion(page["id"], image_path)
+                return page["id"]
+        except Exception as e:
+            print(f"Notionへの保存中にエラーが発生しました: {str(e)}")
+            return None
+
+    def add_image_to_article(self, database_id, title, image_path, caption=None):
         """
         指定されたタイトルの記事に画像を追加します
-        
-        Args:
-            database_id (str): NotionデータベースのID
-            title (str): 記事のタイトル
-            image_path (str): アップロードする画像のパス
-            caption (str, optional): 画像のキャプション
-            
-        Returns:
-            bool: 画像の追加が成功したかどうか
         """
         try:
             # データベース内の記事を検索
-            response = notion.databases.query(
+            response = self.client.databases.query(
                 database_id=database_id,
                 filter={
                     "property": "Title",
@@ -195,13 +252,13 @@ class NotionService:
 
             # 記事が存在しない場合は作成
             if not response["results"]:
-                NotionService.create_article_if_not_exists(
+                self.create_article_if_not_exists(
                     database_id=database_id,
                     title=title,
                     content="今日の記事です。"
                 )
                 # 作成した記事を再検索
-                response = notion.databases.query(
+                response = self.client.databases.query(
                     database_id=database_id,
                     filter={
                         "property": "Title",
@@ -215,7 +272,7 @@ class NotionService:
             # 記事に画像を追加
             if response["results"]:
                 page_id = response["results"][0]["id"]
-                return NotionService.upload_image_to_notion(page_id, image_path, caption)
+                return self.upload_image_to_notion(page_id, image_path, caption)
             
             raise Exception("記事の作成に失敗しました")
             

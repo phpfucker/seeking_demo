@@ -1,0 +1,239 @@
+2025-06-10 12:34:47,872 - INFO - テストを開始します
+2025-06-10 12:34:47,890 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-06-10 12:34:48,436 - DEBUG - https://huggingface.co:443 "GET /api/models/runwayml/stable-diffusion-v1-5 HTTP/1.1" 307 90
+2025-06-10 12:34:48,641 - DEBUG - https://huggingface.co:443 "GET /api/models/stable-diffusion-v1-5/stable-diffusion-v1-5 HTTP/1.1" 200 6194
+2025-06-10 12:34:48,853 - DEBUG - https://huggingface.co:443 "HEAD /runwayml/stable-diffusion-v1-5/resolve/main/model_index.json HTTP/1.1" 307 0
+2025-06-10 12:34:49,054 - DEBUG - https://huggingface.co:443 "HEAD /stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/model_index.json HTTP/1.1" 200 0
+2025-06-10 12:34:57,029 - INFO - 1. ストーリー生成を開始...
+2025-06-10 12:34:57,041 - DEBUG - Starting new HTTP connection (1): localhost:3000
+2025-06-10 12:35:08,475 - DEBUG - http://localhost:3000 "POST /generate-story HTTP/1.1" 200 3975
+2025-06-10 12:35:08,480 - INFO - ストーリー生成完了
+2025-06-10 12:35:08,483 - INFO - 2. ストーリーをイラスト用プロンプトに変換...
+2025-06-10 12:35:09,007 - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'idempotency_key': 'stainless-python-retry-a1ed3f5b-6bd9-40c7-8e30-659c2be7a175', 'json_data': {'messages': [{'role': 'system', 'content': 'You are a professional illustrator and prompt engineer. Given the following story, create a single, vivid English prompt suitable for Stable Diffusion image generation. The prompt should be structured in groups separated by BREAK, with each group focusing on different aspects: 1. Main subject and characters (weight: 1.2) 2. Scene and background (weight: 1.0) 3. Style and atmosphere (weight: 0.8) 4. Technical details (weight: 0.6) Each group should be concise and focused. Use BREAK to separate groups. Format: (subject:1.2), (background:1.0), (style:0.8), (technical:0.6)'}, {'role': 'user', 'content': 'Story:\nテーマ：「膝と膝」\n場面：森の中の小さなクリアリング。夕暮れ時、柔らかな光が木々を照らし、穏やかな雰囲気が漂っている。\n登場キャラクター：\n1. リーダーシップのあるゴリラ獣人 - 堂々とした雄姿で立ち、腕組みをしている。力強い表情が特徴。\n2. 癒し系で優しい宝石少女 - 艶やかな宝石の髪飾りが輝き、温かな微笑みを浮かべている。優美なポーズで座っている。\n3. いらずら好きのトリックスター - いたずらっぽい表情で、小さなトリックを仕掛けている。手には遊び心が満ちた小道具が描かれている。\n4. ひょうきんなイラストレーター - 芸術的な服装で、大きなスケッチブックを広げてイラストを描いている。顔には創作意欲が溢れている。\n5. 陰気で孤独な読書人 - 書物を手にしたまま、影に隠れて静かに読書をしている。深い知識を秘めた眼差しで周囲を見つめている。\n\nシーンの中央には、5人のキャラクターが円を作って座り、膝と膝を突き合わせている様子が描かれています。ゴリラ獣人が中心に位置し、他のキャラクターたちがその周囲に並んでいます。彼らの表情はそれぞれ異なり、リーダーシップ、癒し、いたずら、創造性、知識といった個性が表現されています。\n\n背景には森の緑が広がり、微かな光が葉っぱを透過して地面に模様を描いています。クリアリングの奥には静かな小川が流れ、夕日が水面に映り込んでいます。この穏やかな光景が、キャラクターたちの膝と膝を突き合わせた関係を包み込んでいます。\n\n全体的には、温かみと個性が溢れるシーンでありながら、奥には深いつながりとコミュニケーションの重要性が描かれています。'}], 'model': 'gpt-4', 'max_tokens': 200}}
+2025-06-10 12:35:09,023 - DEBUG - Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+2025-06-10 12:35:09,046 - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=5.0 socket_options=None
+2025-06-10 12:35:14,112 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7f31aac21150>
+2025-06-10 12:35:14,119 - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x7f31abac9520> server_hostname='api.openai.com' timeout=5.0
+2025-06-10 12:35:14,165 - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7f31ab0cc510>
+2025-06-10 12:35:14,175 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-06-10 12:35:14,181 - DEBUG - send_request_headers.complete
+2025-06-10 12:35:14,187 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-06-10 12:35:14,195 - DEBUG - send_request_body.complete
+2025-06-10 12:35:14,197 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-06-10 12:35:22,899 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Tue, 10 Jun 2025 12:35:23 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-yp71vr5e7ytqmp5r0elaafpl'), (b'openai-processing-ms', b'8318'), (b'openai-version', b'2020-10-01'), (b'x-envoy-upstream-service-time', b'8320'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'10000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'9353'), (b'x-ratelimit-reset-requests', b'8.64s'), (b'x-ratelimit-reset-tokens', b'3.882s'), (b'x-request-id', b'req_401f2d49d6244921bdf5aa5c940ae556'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=5XoRA7Cz.m8cEN4k7vxmjGs1pBJUDXFcRY1NqAXQSwI-1749558923-1.0.1.1-KzeZ8PYqfXh1L06As2BXLTkMmhYBxnxL9a8HQThZw8vBvVu1fI15f9LdqPEtTL4MpcRErcalGhXqIT_i9PQqWG87I0lWemuaqw9yExoLb04; path=/; expires=Tue, 10-Jun-25 13:05:23 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=URNAv8e0pj7we2d66hrMqSPn5PVGQFNOU4f5hRY4HOQ-1749558923059-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'94d8e84ecfeb0087-KIX'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-06-10 12:35:22,903 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 12:35:22,909 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-06-10 12:35:22,918 - DEBUG - receive_response_body.complete
+2025-06-10 12:35:22,924 - DEBUG - response_closed.started
+2025-06-10 12:35:22,927 - DEBUG - response_closed.complete
+2025-06-10 12:35:22,940 - DEBUG - HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers([('date', 'Tue, 10 Jun 2025 12:35:23 GMT'), ('content-type', 'application/json'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('access-control-expose-headers', 'X-Request-ID'), ('openai-organization', 'user-yp71vr5e7ytqmp5r0elaafpl'), ('openai-processing-ms', '8318'), ('openai-version', '2020-10-01'), ('x-envoy-upstream-service-time', '8320'), ('x-ratelimit-limit-requests', '10000'), ('x-ratelimit-limit-tokens', '10000'), ('x-ratelimit-remaining-requests', '9999'), ('x-ratelimit-remaining-tokens', '9353'), ('x-ratelimit-reset-requests', '8.64s'), ('x-ratelimit-reset-tokens', '3.882s'), ('x-request-id', 'req_401f2d49d6244921bdf5aa5c940ae556'), ('strict-transport-security', 'max-age=31536000; includeSubDomains; preload'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=5XoRA7Cz.m8cEN4k7vxmjGs1pBJUDXFcRY1NqAXQSwI-1749558923-1.0.1.1-KzeZ8PYqfXh1L06As2BXLTkMmhYBxnxL9a8HQThZw8vBvVu1fI15f9LdqPEtTL4MpcRErcalGhXqIT_i9PQqWG87I0lWemuaqw9yExoLb04; path=/; expires=Tue, 10-Jun-25 13:05:23 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('x-content-type-options', 'nosniff'), ('set-cookie', '_cfuvid=URNAv8e0pj7we2d66hrMqSPn5PVGQFNOU4f5hRY4HOQ-1749558923059-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '94d8e84ecfeb0087-KIX'), ('content-encoding', 'gzip'), ('alt-svc', 'h3=":443"; ma=86400')])
+2025-06-10 12:35:22,955 - DEBUG - request_id: req_401f2d49d6244921bdf5aa5c940ae556
+2025-06-10 12:35:22,979 - INFO - イラスト用プロンプト:
+2025-06-10 12:35:22,984 - INFO - (subject:1.2) A majestic gorilla beast-man in a leader's posture, a gentle gemstone girl with a radiant hair ornament, a playful trickster with a mischievous expression, a humorous illustrator holding a large sketchbook, and a gloomy, loner bookworm hidden in the shadows, all forming a circle with their knees touching in a forest clearing. BREAK (background:1.0) A tranquil forest scene with soft evening light filtering through the trees, creating patterns on the ground, and a quiet stream reflecting the sunset in a distance. BREAK (style:0.8) A scene filled with warmth and individuality, yet illustrating deep connections and the importance of communication. BREAK (technical:0.6) The gorilla beast-man is positioned at the center with the other characters around, each showing different expressions embodying leadership, healing, mischief, creativity, and knowledge. The forest background extends throughout, with subtle light creating shadow and light patterns on the ground.
+2025-06-10 12:35:22,991 - INFO - 3. イラスト生成を開始...
+2025-06-10 12:40:49,705 - INFO - イラスト生成完了
+2025-06-10 12:40:49,777 - INFO - 4. 画像分析とプロンプト改善を開始...
+2025-06-10 12:40:50,176 - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'idempotency_key': 'stainless-python-retry-d85ba41e-f3f1-49ca-98e3-40a0d62c187c', 'json_data': {'messages': [{'role': 'user', 'content': [{'type': 'text', 'text': 'このイラスト画像を分析し、以下の点について詳細に説明してください：\n1. メインサブジェクトとキャラクターの表現\n2. 森の背景や雰囲気\n3. 色彩やスタイル\n4. 技術的な品質\n5. 改善点'}, {'type': 'image_url', 'image_url': {'url': 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAADACAIAAABkjyoxAAAApklEQVR4nO3BMQEAAADCoPVPbQlPoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPgZA3gAB7eZfogAAAABJRU5ErkJggg=='}}]}], 'model': 'gpt-4o', 'max_tokens': 1000}}
+2025-06-10 12:40:50,652 - DEBUG - Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+2025-06-10 12:40:50,726 - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=5.0 socket_options=None
+2025-06-10 12:40:52,037 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7f31aac22e10>
+2025-06-10 12:40:52,100 - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x7f31abac92e0> server_hostname='api.openai.com' timeout=5.0
+2025-06-10 12:40:53,312 - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7f31aac98590>
+2025-06-10 12:40:53,392 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-06-10 12:40:53,462 - DEBUG - send_request_headers.complete
+2025-06-10 12:40:53,469 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-06-10 12:40:53,473 - DEBUG - send_request_body.complete
+2025-06-10 12:40:53,504 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-06-10 12:41:22,235 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Tue, 10 Jun 2025 12:41:22 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-yp71vr5e7ytqmp5r0elaafpl'), (b'openai-processing-ms', b'27781'), (b'openai-version', b'2020-10-01'), (b'x-envoy-upstream-service-time', b'27732'), (b'x-ratelimit-limit-input-images', b'50000'), (b'x-ratelimit-limit-requests', b'500'), (b'x-ratelimit-limit-tokens', b'30000'), (b'x-ratelimit-remaining-input-images', b'49999'), (b'x-ratelimit-remaining-requests', b'499'), (b'x-ratelimit-remaining-tokens', b'29171'), (b'x-ratelimit-reset-input-images', b'1ms'), (b'x-ratelimit-reset-requests', b'120ms'), (b'x-ratelimit-reset-tokens', b'1.658s'), (b'x-request-id', b'req_f1ea1e537b2847a29232f25c51406e54'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=CgJcbsJahh8TENJX8rfOPp1myvuD7n0G1nAo5oPWNHk-1749559282-1.0.1.1-Mcep83dm3Dfqp1GRnB.ztjZ9k3GQ1m3b1tY0KBFq4vjOOMc8R8I0.Kc52QDaw7XnQHd4cfvd12zdHrSqf7QhZ39BH33qhjcZql4uuHSpUPA; path=/; expires=Tue, 10-Jun-25 13:11:22 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=Q2duMuXO0geeQvloZDM58081XeIabQy_OvYAsofAC3A-1749559282389-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'94d8f097487d1a32-KIX'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-06-10 12:41:22,406 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 12:41:22,431 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-06-10 12:41:22,447 - DEBUG - receive_response_body.complete
+2025-06-10 12:41:22,474 - DEBUG - response_closed.started
+2025-06-10 12:41:22,477 - DEBUG - response_closed.complete
+2025-06-10 12:41:22,493 - DEBUG - HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers([('date', 'Tue, 10 Jun 2025 12:41:22 GMT'), ('content-type', 'application/json'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('access-control-expose-headers', 'X-Request-ID'), ('openai-organization', 'user-yp71vr5e7ytqmp5r0elaafpl'), ('openai-processing-ms', '27781'), ('openai-version', '2020-10-01'), ('x-envoy-upstream-service-time', '27732'), ('x-ratelimit-limit-input-images', '50000'), ('x-ratelimit-limit-requests', '500'), ('x-ratelimit-limit-tokens', '30000'), ('x-ratelimit-remaining-input-images', '49999'), ('x-ratelimit-remaining-requests', '499'), ('x-ratelimit-remaining-tokens', '29171'), ('x-ratelimit-reset-input-images', '1ms'), ('x-ratelimit-reset-requests', '120ms'), ('x-ratelimit-reset-tokens', '1.658s'), ('x-request-id', 'req_f1ea1e537b2847a29232f25c51406e54'), ('strict-transport-security', 'max-age=31536000; includeSubDomains; preload'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=CgJcbsJahh8TENJX8rfOPp1myvuD7n0G1nAo5oPWNHk-1749559282-1.0.1.1-Mcep83dm3Dfqp1GRnB.ztjZ9k3GQ1m3b1tY0KBFq4vjOOMc8R8I0.Kc52QDaw7XnQHd4cfvd12zdHrSqf7QhZ39BH33qhjcZql4uuHSpUPA; path=/; expires=Tue, 10-Jun-25 13:11:22 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('x-content-type-options', 'nosniff'), ('set-cookie', '_cfuvid=Q2duMuXO0geeQvloZDM58081XeIabQy_OvYAsofAC3A-1749559282389-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '94d8f097487d1a32-KIX'), ('content-encoding', 'gzip'), ('alt-svc', 'h3=":443"; ma=86400')])
+2025-06-10 12:41:22,504 - DEBUG - request_id: req_f1ea1e537b2847a29232f25c51406e54
+2025-06-10 12:41:22,640 - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'idempotency_key': 'stainless-python-retry-66273513-d2b7-424f-a188-8fdf7b88a310', 'json_data': {'messages': [{'role': 'system', 'content': '画像分析結果から問題点と改善提案を抽出してください。'}, {'role': 'user', 'content': '分析結果：\nこの画像についてお答えするには、視覚的なコンテンツを分析する必要がありますが、画像が表示されていません。内容についてお伝えできるのは以下の一般的なガイドラインです。\n\n1. メインサブジェクトとキャラクターの表現：\n   - メインキャラクターやサブジェクトは、しばしばポーズや表情、衣装などで特定される。\n   - 感情やストーリーを伝えるために顔の表情や身体の動きが重要。\n\n2. 森の背景や雰囲気：\n   - 木々の配置、影の利用、光の反射で森の雰囲気が表現されることが多い。\n   - 自然の要素を活用して、リラックスした、または神秘的な雰囲気を作る。\n\n3. 色彩やスタイル：\n   - 森の色合いは一般的に緑や茶系統が多く使われる。\n   - スタイルはリアルからカートゥーンまで様々で、それにより全体的な雰囲気が変わる。\n\n4. 技術的な品質：\n   - ラインアートのクオリティ、色の塗り方、陰影の付け方などが品質に影響。\n   - サイズや解像度も鮮明さに影響を与える。\n\n5. 改善点：\n   - 具体的な改善点は作風や目的により異なるが、構図の調整、色彩のバランス、特定のディテールの強調などが考えられる。\n\nもし具体的な画像を参照して詳細なフィードバックが必要であれば、実際のイラストをアップロードまたは詳細を提供してください。ただし、その際には画像形式を正確に提供するようお願いいたします。\n\n上記の分析結果から、以下の形式で問題点と改善提案を抽出してください：\n\n問題点：\n- 問題1\n- 問題2\n\n改善提案：\n- 提案1\n- 提案2'}], 'model': 'gpt-3.5-turbo-1106', 'max_tokens': 200, 'temperature': 0.7}}
+2025-06-10 12:41:22,887 - DEBUG - Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+2025-06-10 12:41:22,895 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-06-10 12:41:22,902 - DEBUG - send_request_headers.complete
+2025-06-10 12:41:22,905 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-06-10 12:41:22,917 - DEBUG - send_request_body.complete
+2025-06-10 12:41:22,922 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-06-10 12:41:24,293 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Tue, 10 Jun 2025 12:41:24 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-yp71vr5e7ytqmp5r0elaafpl'), (b'openai-processing-ms', b'680'), (b'openai-version', b'2020-10-01'), (b'x-envoy-upstream-service-time', b'684'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'199513'), (b'x-ratelimit-reset-requests', b'8.64s'), (b'x-ratelimit-reset-tokens', b'145ms'), (b'x-request-id', b'req_81ed12c9223509379cf293e6526c20fc'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'94d8f14f4df51a32-KIX'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-06-10 12:41:24,315 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 12:41:24,326 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-06-10 12:41:24,336 - DEBUG - receive_response_body.complete
+2025-06-10 12:41:24,343 - DEBUG - response_closed.started
+2025-06-10 12:41:24,354 - DEBUG - response_closed.complete
+2025-06-10 12:41:24,376 - DEBUG - HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers({'date': 'Tue, 10 Jun 2025 12:41:24 GMT', 'content-type': 'application/json', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'access-control-expose-headers': 'X-Request-ID', 'openai-organization': 'user-yp71vr5e7ytqmp5r0elaafpl', 'openai-processing-ms': '680', 'openai-version': '2020-10-01', 'x-envoy-upstream-service-time': '684', 'x-ratelimit-limit-requests': '10000', 'x-ratelimit-limit-tokens': '200000', 'x-ratelimit-remaining-requests': '9999', 'x-ratelimit-remaining-tokens': '199513', 'x-ratelimit-reset-requests': '8.64s', 'x-ratelimit-reset-tokens': '145ms', 'x-request-id': 'req_81ed12c9223509379cf293e6526c20fc', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'cf-cache-status': 'DYNAMIC', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '94d8f14f4df51a32-KIX', 'content-encoding': 'gzip', 'alt-svc': 'h3=":443"; ma=86400'})
+2025-06-10 12:41:24,389 - DEBUG - request_id: req_81ed12c9223509379cf293e6526c20fc
+2025-06-10 12:41:24,403 - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'idempotency_key': 'stainless-python-retry-70e04a59-54e7-4902-824e-74b2d601dbc4', 'json_data': {'messages': [{'role': 'system', 'content': 'あなたはイラストのプロンプトエンジニアです。与えられた分析結果に基づいて、Stable Diffusionのイラスト用プロンプトを改善してください。以下の点に注意してください：\n1. キャラクターや雰囲気が明確で安全であること\n2. 背景や色彩がストーリーに合っていること\n3. 一貫性のあるスタイル\n4. 不適切な表現や危険ワードを含まないこと'}, {'role': 'user', 'content': "元のプロンプト：\n(subject:1.2) A majestic gorilla beast-man in a leader's posture, a gentle gemstone girl with a radiant hair ornament, a playful trickster with a mischievous expression, a humorous illustrator holding a large sketchbook, and a gloomy, loner bookworm hidden in the shadows, all forming a circle with their knees touching in a forest clearing. BREAK (background:1.0) A tranquil forest scene with soft evening light filtering through the trees, creating patterns on the ground, and a quiet stream reflecting the sunset in a distance. BREAK (style:0.8) A scene filled with warmth and individuality, yet illustrating deep connections and the importance of communication. BREAK (technical:0.6) The gorilla beast-man is positioned at the center with the other characters around, each showing different expressions embodying leadership, healing, mischief, creativity, and knowledge. The forest background extends throughout, with subtle light creating shadow and light patterns on the ground.\n\n分析で見つかった問題点：\n- 画像が表示されていないため、具体的な視覚的問題点を特定できません。\n- 画像を提供していただけると、より具体的な問題点と改善提案を提供できます。\n\n改善提案：\n- 画像を提供していただけると、より具体的な問題点と改善提案を提供できます。\n\nこれらの問題点を解決するように、イラスト用プロンプトを改善してください。"}], 'model': 'gpt-3.5-turbo-1106', 'max_tokens': 100, 'temperature': 0.7}}
+2025-06-10 12:41:24,412 - DEBUG - Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+2025-06-10 12:41:24,433 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-06-10 12:41:24,446 - DEBUG - send_request_headers.complete
+2025-06-10 12:41:24,453 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-06-10 12:41:24,462 - DEBUG - send_request_body.complete
+2025-06-10 12:41:24,479 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-06-10 12:41:26,131 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Tue, 10 Jun 2025 12:41:26 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-yp71vr5e7ytqmp5r0elaafpl'), (b'openai-processing-ms', b'856'), (b'openai-version', b'2020-10-01'), (b'x-envoy-upstream-service-time', b'859'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9998'), (b'x-ratelimit-remaining-tokens', b'199507'), (b'x-ratelimit-reset-requests', b'15.703s'), (b'x-ratelimit-reset-tokens', b'147ms'), (b'x-request-id', b'req_93a858a8014d2155d238765ecec0fd59'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'94d8f158fe521a32-KIX'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-06-10 12:41:26,140 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 12:41:26,154 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-06-10 12:41:26,161 - DEBUG - receive_response_body.complete
+2025-06-10 12:41:26,172 - DEBUG - response_closed.started
+2025-06-10 12:41:26,183 - DEBUG - response_closed.complete
+2025-06-10 12:41:26,238 - DEBUG - HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers({'date': 'Tue, 10 Jun 2025 12:41:26 GMT', 'content-type': 'application/json', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'access-control-expose-headers': 'X-Request-ID', 'openai-organization': 'user-yp71vr5e7ytqmp5r0elaafpl', 'openai-processing-ms': '856', 'openai-version': '2020-10-01', 'x-envoy-upstream-service-time': '859', 'x-ratelimit-limit-requests': '10000', 'x-ratelimit-limit-tokens': '200000', 'x-ratelimit-remaining-requests': '9998', 'x-ratelimit-remaining-tokens': '199507', 'x-ratelimit-reset-requests': '15.703s', 'x-ratelimit-reset-tokens': '147ms', 'x-request-id': 'req_93a858a8014d2155d238765ecec0fd59', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'cf-cache-status': 'DYNAMIC', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '94d8f158fe521a32-KIX', 'content-encoding': 'gzip', 'alt-svc': 'h3=":443"; ma=86400'})
+2025-06-10 12:41:26,253 - DEBUG - request_id: req_93a858a8014d2155d238765ecec0fd59
+2025-06-10 12:41:26,480 - INFO - 画像分析とプロンプト改善完了
+2025-06-10 12:41:26,487 - INFO - 5. Notion連携テスト開始...
+2025-06-10 12:41:26,535 - DEBUG - connect_tcp.started host='api.notion.com' port=443 local_address=None timeout=60.0 socket_options=None
+2025-06-10 12:41:26,684 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7f31aac9a950>
+2025-06-10 12:41:26,690 - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x7f31abac9400> server_hostname='api.notion.com' timeout=60.0
+2025-06-10 12:41:26,813 - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7f31aac9bad0>
+2025-06-10 12:41:26,819 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-06-10 12:41:26,823 - DEBUG - send_request_headers.complete
+2025-06-10 12:41:26,833 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-06-10 12:41:26,842 - DEBUG - send_request_body.complete
+2025-06-10 12:41:26,857 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-06-10 12:41:27,131 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Tue, 10 Jun 2025 12:41:27 GMT'), (b'Content-Type', b'application/json; charset=utf-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'CF-Ray', b'94d8f167cd6019dd-KIX'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Content-Encoding', b'gzip'), (b'ETag', b'W/"4ba-AqZQc99vXwn/SA0I99p+QjDemMU"'), (b'Strict-Transport-Security', b'max-age=31536000; includeSubDomains; preload'), (b'Vary', b'Accept-Encoding'), (b'content-security-policy', b"default-src 'none'"), (b'referrer-policy', b'strict-origin-when-cross-origin'), (b'x-content-type-options', b'nosniff'), (b'x-dns-prefetch-control', b'off'), (b'x-download-options', b'noopen'), (b'x-frame-options', b'SAMEORIGIN'), (b'x-notion-request-id', b'2a636bcc-f1bc-4e0b-bbdd-2341aa01cd9a'), (b'x-permitted-cross-domain-policies', b'none'), (b'x-xss-protection', b'0'), (b'Set-Cookie', b'__cf_bm=8RVos6w6D.GMtQ06o2v1g3A2rUoOhCLr42wnxOvxKr0-1749559287-1.0.1.1-S8ial8.NEetueoGikxO3HFJujWeAgDcZdvpN7NND6YdiuE.KSrL5a6abS8mbPjSC_rjpZWOqSWpwt2bxiNjks4sLhy_xWFFgCHqQWCWnBdA; path=/; expires=Tue, 10-Jun-25 13:11:27 GMT; domain=.notion.com; HttpOnly; Secure; SameSite=None'), (b'Set-Cookie', b'_cfuvid=UhJ6jBqWV4tl.OCKV_8b_1f21.vnS56mvcgX16KCN30-1749559287298-0.0.1.1-604800000; path=/; domain=.notion.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-06-10 12:41:27,151 - INFO - HTTP Request: POST https://api.notion.com/v1/databases/20a2d8facbd481909a8ef38e509dcaa0/query "HTTP/1.1 200 OK"
+2025-06-10 12:41:27,155 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-06-10 12:41:27,159 - DEBUG - receive_response_body.complete
+2025-06-10 12:41:27,172 - DEBUG - response_closed.started
+2025-06-10 12:41:27,181 - DEBUG - response_closed.complete
+2025-06-10 12:41:27,208 - DEBUG - send_request_headers.started request=<Request [b'PATCH']>
+2025-06-10 12:41:27,222 - DEBUG - send_request_headers.complete
+2025-06-10 12:41:27,248 - DEBUG - send_request_body.started request=<Request [b'PATCH']>
+2025-06-10 12:41:27,254 - DEBUG - send_request_body.complete
+2025-06-10 12:41:27,274 - DEBUG - receive_response_headers.started request=<Request [b'PATCH']>
+2025-06-10 12:41:28,157 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Tue, 10 Jun 2025 12:41:28 GMT'), (b'Content-Type', b'application/json; charset=utf-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'CF-Ray', b'94d8f16a496919dd-KIX'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Content-Encoding', b'gzip'), (b'ETag', b'W/"234e-Wngf4nJK61Q66XbU3dmMaPRmLU4"'), (b'Strict-Transport-Security', b'max-age=31536000; includeSubDomains; preload'), (b'Vary', b'Accept-Encoding'), (b'content-security-policy', b"default-src 'none'"), (b'referrer-policy', b'strict-origin-when-cross-origin'), (b'x-content-type-options', b'nosniff'), (b'x-dns-prefetch-control', b'off'), (b'x-download-options', b'noopen'), (b'x-frame-options', b'SAMEORIGIN'), (b'x-notion-request-id', b'1c3e3a2e-e52a-4fe6-98d2-0a754cf6b0db'), (b'x-permitted-cross-domain-policies', b'none'), (b'x-xss-protection', b'0'), (b'Server', b'cloudflare'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-06-10 12:41:28,226 - INFO - HTTP Request: PATCH https://api.notion.com/v1/blocks/20e2d8fa-cbd4-81ac-a5dc-e0575a496273/children "HTTP/1.1 200 OK"
+2025-06-10 12:41:28,260 - DEBUG - receive_response_body.started request=<Request [b'PATCH']>
+2025-06-10 12:41:28,276 - DEBUG - receive_response_body.complete
+2025-06-10 12:41:28,309 - DEBUG - response_closed.started
+2025-06-10 12:41:28,348 - DEBUG - response_closed.complete
+2025-06-10 12:41:28,451 - DEBUG - Opting out of CRT Transfer Manager. Preferred client: auto, CRT available: False, Instance Optimized: False.
+2025-06-10 12:41:28,500 - DEBUG - Using default client. pid: 241, thread: 139855244053376
+2025-06-10 12:41:28,977 - DEBUG - Acquiring 0
+2025-06-10 12:41:29,132 - DEBUG - UploadSubmissionTask(transfer_id=0, {'transfer_future': <s3transfer.futures.TransferFuture object at 0x7f31b0c2f8d0>}) about to wait for the following futures []
+2025-06-10 12:41:29,138 - DEBUG - UploadSubmissionTask(transfer_id=0, {'transfer_future': <s3transfer.futures.TransferFuture object at 0x7f31b0c2f8d0>}) done waiting for dependent futures
+2025-06-10 12:41:29,502 - DEBUG - Executing task UploadSubmissionTask(transfer_id=0, {'transfer_future': <s3transfer.futures.TransferFuture object at 0x7f31b0c2f8d0>}) with kwargs {'client': <botocore.client.S3 object at 0x7f31bc837810>, 'config': <boto3.s3.transfer.TransferConfig object at 0x7f31aaca7d10>, 'osutil': <s3transfer.utils.OSUtils object at 0x7f31b02e8bd0>, 'request_executor': <s3transfer.futures.BoundedExecutor object at 0x7f31aaca7790>, 'transfer_future': <s3transfer.futures.TransferFuture object at 0x7f31b0c2f8d0>}
+2025-06-10 12:41:29,631 - DEBUG - Submitting task PutObjectTask(transfer_id=0, {'bucket': 'phpfuckertest', 'key': 'generated/20250610_124128_test_illustration.png', 'extra_args': {}}) to executor <s3transfer.futures.BoundedExecutor object at 0x7f31aaca7790> for transfer request: 0.
+2025-06-10 12:41:29,641 - DEBUG - Acquiring 0
+2025-06-10 12:41:29,667 - DEBUG - PutObjectTask(transfer_id=0, {'bucket': 'phpfuckertest', 'key': 'generated/20250610_124128_test_illustration.png', 'extra_args': {}}) about to wait for the following futures []
+2025-06-10 12:41:29,744 - DEBUG - Releasing acquire 0/None
+2025-06-10 12:41:29,738 - DEBUG - PutObjectTask(transfer_id=0, {'bucket': 'phpfuckertest', 'key': 'generated/20250610_124128_test_illustration.png', 'extra_args': {}}) done waiting for dependent futures
+2025-06-10 12:41:29,792 - DEBUG - Executing task PutObjectTask(transfer_id=0, {'bucket': 'phpfuckertest', 'key': 'generated/20250610_124128_test_illustration.png', 'extra_args': {}}) with kwargs {'client': <botocore.client.S3 object at 0x7f31bc837810>, 'fileobj': <s3transfer.utils.ReadFileChunk object at 0x7f31b02e5410>, 'bucket': 'phpfuckertest', 'key': 'generated/20250610_124128_test_illustration.png', 'extra_args': {}}
+2025-06-10 12:41:30,290 - DEBUG - Event before-parameter-build.s3.PutObject: calling handler <function validate_ascii_metadata at 0x7f31bc3fb880>
+2025-06-10 12:41:30,323 - DEBUG - Event before-parameter-build.s3.PutObject: calling handler <function sse_md5 at 0x7f31bc3fab60>
+2025-06-10 12:41:30,387 - DEBUG - Event before-parameter-build.s3.PutObject: calling handler <function convert_body_to_file_like_object at 0x7f31bc41c2c0>
+2025-06-10 12:41:30,404 - DEBUG - Event before-parameter-build.s3.PutObject: calling handler <function validate_bucket_name at 0x7f31bc3faac0>
+2025-06-10 12:41:30,443 - DEBUG - Event before-parameter-build.s3.PutObject: calling handler <function remove_bucket_from_url_paths_from_model at 0x7f31bc41ccc0>
+2025-06-10 12:41:30,485 - DEBUG - Event before-parameter-build.s3.PutObject: calling handler <bound method S3RegionRedirectorv2.annotate_request_context of <botocore.utils.S3RegionRedirectorv2 object at 0x7f31b0c9ce50>>
+2025-06-10 12:41:30,492 - DEBUG - Event before-parameter-build.s3.PutObject: calling handler <bound method ClientCreator._inject_s3_input_parameters of <botocore.client.ClientCreator object at 0x7f31b117d190>>
+2025-06-10 12:41:30,569 - DEBUG - Event before-parameter-build.s3.PutObject: calling handler <function generate_idempotent_uuid at 0x7f31bc3fa8e0>
+2025-06-10 12:41:30,636 - DEBUG - Event before-endpoint-resolution.s3: calling handler <function customize_endpoint_resolver_builtins at 0x7f31bc41cea0>
+2025-06-10 12:41:30,670 - DEBUG - Event before-endpoint-resolution.s3: calling handler <bound method S3RegionRedirectorv2.redirect_from_cache of <botocore.utils.S3RegionRedirectorv2 object at 0x7f31b0c9ce50>>
+2025-06-10 12:41:30,821 - DEBUG - Calling endpoint provider with parameters: {'Bucket': 'phpfuckertest', 'Region': 'ap-northeast-1', 'UseFIPS': False, 'UseDualStack': False, 'ForcePathStyle': False, 'Accelerate': False, 'UseGlobalEndpoint': False, 'Key': 'generated/20250610_124128_test_illustration.png', 'DisableMultiRegionAccessPoints': False, 'UseArnRegion': True}
+2025-06-10 12:41:31,688 - DEBUG - Endpoint provider result: https://phpfuckertest.s3.ap-northeast-1.amazonaws.com
+2025-06-10 12:41:31,696 - DEBUG - Selecting from endpoint provider's list of auth schemes: "sigv4". User selected auth scheme is: "s3v4"
+2025-06-10 12:41:31,701 - DEBUG - Selected auth type "v4" as "s3v4" with signing context params: {'region': 'ap-northeast-1', 'signing_name': 's3', 'disableDoubleEncoding': True}
+2025-06-10 12:41:31,918 - DEBUG - Event before-call.s3.PutObject: calling handler <function conditionally_calculate_checksum at 0x7f31bc49a020>
+2025-06-10 12:41:31,954 - DEBUG - Event before-call.s3.PutObject: calling handler <function add_expect_header at 0x7f31bc3fae80>
+2025-06-10 12:41:31,968 - DEBUG - Adding expect 100 continue header to request.
+2025-06-10 12:41:31,970 - DEBUG - Event before-call.s3.PutObject: calling handler <bound method S3ExpressIdentityResolver.apply_signing_cache_key of <botocore.utils.S3ExpressIdentityResolver object at 0x7f31b0c9d990>>
+2025-06-10 12:41:31,974 - DEBUG - Event before-call.s3.PutObject: calling handler <function add_recursion_detection_header at 0x7f31bc3f91c0>
+2025-06-10 12:41:31,979 - DEBUG - Event before-call.s3.PutObject: calling handler <function inject_api_version_header_if_needed at 0x7f31bc41c400>
+2025-06-10 12:41:31,982 - DEBUG - Making request for OperationModel(name=PutObject) with params: {'url_path': '/generated/20250610_124128_test_illustration.png', 'query_string': {}, 'method': 'PUT', 'headers': {'User-Agent': 'Boto3/1.34.69 md/Botocore#1.34.162 ua/2.0 os/linux#5.10.104-linuxkit md/arch#x86_64 lang/python#3.11.13 md/pyimpl#CPython cfg/retry-mode#standard Botocore/1.34.162', 'Content-MD5': 'fpIRfsN3+S7frPYLsDXGAQ==', 'Expect': '100-continue'}, 'body': <s3transfer.utils.ReadFileChunk object at 0x7f31b02e5410>, 'auth_path': '/phpfuckertest/generated/20250610_124128_test_illustration.png', 'url': 'https://phpfuckertest.s3.ap-northeast-1.amazonaws.com/generated/20250610_124128_test_illustration.png', 'context': {'client_region': 'ap-northeast-1', 'client_config': <botocore.config.Config object at 0x7f31b0c88850>, 'has_streaming_input': True, 'auth_type': 's3v4', 's3_redirect': {'redirected': False, 'bucket': 'phpfuckertest', 'params': {'Bucket': 'phpfuckertest', 'Key': 'generated/20250610_124128_test_illustration.png', 'Body': <s3transfer.utils.ReadFileChunk object at 0x7f31b02e5410>}}, 'input_params': {'Bucket': 'phpfuckertest', 'Key': 'generated/20250610_124128_test_illustration.png'}, 'signing': {'region': 'ap-northeast-1', 'signing_name': 's3', 'disableDoubleEncoding': True}, 'endpoint_properties': {'authSchemes': [{'disableDoubleEncoding': True, 'name': 'sigv4', 'signingName': 's3', 'signingRegion': 'ap-northeast-1'}]}}}
+2025-06-10 12:41:32,013 - DEBUG - Event request-created.s3.PutObject: calling handler <function signal_not_transferring at 0x7f31b11009a0>
+2025-06-10 12:41:32,023 - DEBUG - Event request-created.s3.PutObject: calling handler <bound method RequestSigner.handler of <botocore.signers.RequestSigner object at 0x7f31b0c88810>>
+2025-06-10 12:41:32,220 - DEBUG - Event choose-signer.s3.PutObject: calling handler <function set_operation_specific_signer at 0x7f31bc3fa7a0>
+2025-06-10 12:41:32,261 - DEBUG - Event before-sign.s3.PutObject: calling handler <function remove_arn_from_signing_path at 0x7f31bc41ce00>
+2025-06-10 12:41:32,269 - DEBUG - Event before-sign.s3.PutObject: calling handler <bound method S3ExpressIdentityResolver.resolve_s3express_identity of <botocore.utils.S3ExpressIdentityResolver object at 0x7f31b0c9d990>>
+2025-06-10 12:41:32,342 - DEBUG - Calculating signature using v4 auth.
+2025-06-10 12:41:32,352 - DEBUG - CanonicalRequest:
+PUT
+/generated/20250610_124128_test_illustration.png
+
+content-md5:fpIRfsN3+S7frPYLsDXGAQ==
+host:phpfuckertest.s3.ap-northeast-1.amazonaws.com
+x-amz-content-sha256:UNSIGNED-PAYLOAD
+x-amz-date:20250610T124132Z
+
+content-md5;host;x-amz-content-sha256;x-amz-date
+UNSIGNED-PAYLOAD
+2025-06-10 12:41:32,358 - DEBUG - StringToSign:
+AWS4-HMAC-SHA256
+20250610T124132Z
+20250610/ap-northeast-1/s3/aws4_request
+d7eff129b72fe4e1d252e9cab6aba0ef75a352b45e6a7f9d97b6ab37b3b4cb65
+2025-06-10 12:41:32,607 - DEBUG - Signature:
+26a5853362d458f8b4a53fd1dd644b46b6b655116008a32c9b9459668cbb491c
+2025-06-10 12:41:32,618 - DEBUG - Event request-created.s3.PutObject: calling handler <function signal_transferring at 0x7f31b1100a40>
+2025-06-10 12:41:32,622 - DEBUG - Event request-created.s3.PutObject: calling handler <function add_retry_headers at 0x7f31bc41cc20>
+2025-06-10 12:41:32,629 - DEBUG - Sending http request: <AWSPreparedRequest stream_output=False, method=PUT, url=https://phpfuckertest.s3.ap-northeast-1.amazonaws.com/generated/20250610_124128_test_illustration.png, headers={'User-Agent': b'Boto3/1.34.69 md/Botocore#1.34.162 ua/2.0 os/linux#5.10.104-linuxkit md/arch#x86_64 lang/python#3.11.13 md/pyimpl#CPython cfg/retry-mode#standard Botocore/1.34.162', 'Content-MD5': b'fpIRfsN3+S7frPYLsDXGAQ==', 'Expect': b'100-continue', 'X-Amz-Date': b'20250610T124132Z', 'X-Amz-Content-SHA256': b'UNSIGNED-PAYLOAD', 'Authorization': b'AWS4-HMAC-SHA256 Credential=AKIAS4J7W4GLMR5IV6UL/20250610/ap-northeast-1/s3/aws4_request, SignedHeaders=content-md5;host;x-amz-content-sha256;x-amz-date, Signature=26a5853362d458f8b4a53fd1dd644b46b6b655116008a32c9b9459668cbb491c', 'amz-sdk-invocation-id': b'e4526a4e-70d5-48bc-a013-51325a7275d8', 'amz-sdk-request': b'attempt=1', 'Content-Length': '223'}>
+2025-06-10 12:41:33,087 - DEBUG - Certificate path: /usr/local/lib/python3.11/site-packages/certifi/cacert.pem
+2025-06-10 12:41:33,110 - DEBUG - Starting new HTTPS connection (1): phpfuckertest.s3.ap-northeast-1.amazonaws.com:443
+2025-06-10 12:41:35,174 - DEBUG - Waiting for 100 Continue response.
+2025-06-10 12:41:35,263 - DEBUG - 100 Continue response seen, now sending request body.
+2025-06-10 12:41:35,724 - DEBUG - https://phpfuckertest.s3.ap-northeast-1.amazonaws.com:443 "PUT /generated/20250610_124128_test_illustration.png HTTP/1.1" 200 0
+2025-06-10 12:41:35,806 - DEBUG - Response headers: {'x-amz-id-2': 'aSUA2RQ8iz1VPtrfrpIOeSUvxtGxATx+xwcz7YJg/PtzVzvXRYMH5BCCvbwAnuVAowRFkqxmiL7nDyaCoI11ok1pzAlKAhrYDT2d5C2Xqrs=', 'x-amz-request-id': '7ZYCYMCKV8HTFYYM', 'Date': 'Tue, 10 Jun 2025 12:41:36 GMT', 'x-amz-version-id': 'ymk7RTKZHmgWvZLfNiVCqP0B41FuaNke', 'x-amz-server-side-encryption': 'AES256', 'ETag': '"7e92117ec377f92edfacf60bb035c601"', 'x-amz-checksum-crc64nvme': '5C8l2Q73V20=', 'x-amz-checksum-type': 'FULL_OBJECT', 'Content-Length': '0', 'Server': 'AmazonS3'}
+2025-06-10 12:41:35,816 - DEBUG - Response body:
+b''
+2025-06-10 12:41:35,857 - DEBUG - Event needs-retry.s3.PutObject: calling handler <bound method RetryHandler.needs_retry of <botocore.retries.standard.RetryHandler object at 0x7f31b0c9d490>>
+2025-06-10 12:41:35,881 - DEBUG - Not retrying request.
+2025-06-10 12:41:35,886 - DEBUG - Event needs-retry.s3.PutObject: calling handler <bound method S3RegionRedirectorv2.redirect_from_error of <botocore.utils.S3RegionRedirectorv2 object at 0x7f31b0c9ce50>>
+2025-06-10 12:41:35,899 - DEBUG - Event after-call.s3.PutObject: calling handler <bound method RetryQuotaChecker.release_retry_quota of <botocore.retries.standard.RetryQuotaChecker object at 0x7f31b105dbd0>>
+2025-06-10 12:41:35,911 - DEBUG - Releasing acquire 0/None
+2025-06-10 12:41:35,923 - DEBUG - Event before-parameter-build.s3.GetObject: calling handler <function sse_md5 at 0x7f31bc3fab60>
+2025-06-10 12:41:35,926 - DEBUG - Event before-parameter-build.s3.GetObject: calling handler <function validate_bucket_name at 0x7f31bc3faac0>
+2025-06-10 12:41:35,930 - DEBUG - Event before-parameter-build.s3.GetObject: calling handler <function remove_bucket_from_url_paths_from_model at 0x7f31bc41ccc0>
+2025-06-10 12:41:35,937 - DEBUG - Event before-parameter-build.s3.GetObject: calling handler <bound method S3RegionRedirectorv2.annotate_request_context of <botocore.utils.S3RegionRedirectorv2 object at 0x7f31b0c9ce50>>
+2025-06-10 12:41:35,941 - DEBUG - Event before-parameter-build.s3.GetObject: calling handler <bound method ClientCreator._inject_s3_input_parameters of <botocore.client.ClientCreator object at 0x7f31b117d190>>
+2025-06-10 12:41:35,948 - DEBUG - Event before-parameter-build.s3.GetObject: calling handler <function generate_idempotent_uuid at 0x7f31bc3fa8e0>
+2025-06-10 12:41:35,961 - DEBUG - Event before-endpoint-resolution.s3: calling handler <function customize_endpoint_resolver_builtins at 0x7f31bc41cea0>
+2025-06-10 12:41:35,966 - DEBUG - Event before-endpoint-resolution.s3: calling handler <bound method S3RegionRedirectorv2.redirect_from_cache of <botocore.utils.S3RegionRedirectorv2 object at 0x7f31b0c9ce50>>
+2025-06-10 12:41:35,972 - DEBUG - Calling endpoint provider with parameters: {'Bucket': 'phpfuckertest', 'Region': 'aws-global', 'UseFIPS': False, 'UseDualStack': False, 'ForcePathStyle': False, 'Accelerate': False, 'UseGlobalEndpoint': True, 'Key': 'generated/20250610_124128_test_illustration.png', 'DisableMultiRegionAccessPoints': False, 'UseArnRegion': True}
+2025-06-10 12:41:35,977 - DEBUG - Endpoint provider result: https://phpfuckertest.s3.amazonaws.com
+2025-06-10 12:41:35,988 - DEBUG - Selecting from endpoint provider's list of auth schemes: "sigv4". User selected auth scheme is: "s3v4"
+2025-06-10 12:41:35,994 - DEBUG - Selected auth type "v4" as "s3v4" with signing context params: {'region': 'us-east-1', 'signing_name': 's3', 'disableDoubleEncoding': True}
+2025-06-10 12:41:36,000 - DEBUG - Event choose-signer.s3.GetObject: calling handler <function set_operation_specific_signer at 0x7f31bc3fa7a0>
+2025-06-10 12:41:36,006 - DEBUG - Event before-sign.s3.GetObject: calling handler <function remove_arn_from_signing_path at 0x7f31bc41ce00>
+2025-06-10 12:41:36,012 - DEBUG - Event before-sign.s3.GetObject: calling handler <bound method S3ExpressIdentityResolver.resolve_s3express_identity of <botocore.utils.S3ExpressIdentityResolver object at 0x7f31b0c9d990>>
+2025-06-10 12:41:36,024 - DEBUG - Calculating signature using v4 auth.
+2025-06-10 12:41:36,026 - DEBUG - CanonicalRequest:
+GET
+/generated/20250610_124128_test_illustration.png
+X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAS4J7W4GLMR5IV6UL%2F20250610%2Fap-northeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250610T124136Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host
+host:phpfuckertest.s3.amazonaws.com
+
+host
+UNSIGNED-PAYLOAD
+2025-06-10 12:41:36,032 - DEBUG - StringToSign:
+AWS4-HMAC-SHA256
+20250610T124136Z
+20250610/ap-northeast-1/s3/aws4_request
+31886fb42db9c5e427b65e824e57e19ead95ef11e2e8afc875dba86dc37ba988
+2025-06-10 12:41:36,076 - DEBUG - Signature:
+70c9efb62120b577068123d1408c86ac27ae919f09fba38f3bafc676ab34684a
+2025-06-10 12:41:36,096 - DEBUG - close.started
+2025-06-10 12:41:36,142 - DEBUG - close.complete
+2025-06-10 12:41:36,150 - DEBUG - connect_tcp.started host='api.notion.com' port=443 local_address=None timeout=60.0 socket_options=None
+2025-06-10 12:41:36,215 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7f31aacbed90>
+2025-06-10 12:41:36,235 - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x7f31abac9400> server_hostname='api.notion.com' timeout=60.0
+2025-06-10 12:41:36,281 - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7f31aacbe090>
+2025-06-10 12:41:36,335 - DEBUG - send_request_headers.started request=<Request [b'PATCH']>
+2025-06-10 12:41:36,392 - DEBUG - send_request_headers.complete
+2025-06-10 12:41:36,411 - DEBUG - send_request_body.started request=<Request [b'PATCH']>
+2025-06-10 12:41:36,415 - DEBUG - send_request_body.complete
+2025-06-10 12:41:36,420 - DEBUG - receive_response_headers.started request=<Request [b'PATCH']>
+2025-06-10 12:41:36,792 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Tue, 10 Jun 2025 12:41:36 GMT'), (b'Content-Type', b'application/json; charset=utf-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'CF-Ray', b'94d8f1a34c9019cd-KIX'), (b'CF-Cache-Status', b'DYNAMIC'), (b'ETag', b'W/"3f8-TRxBfFVJE0cUv3ld9V5gaNJ/F+A"'), (b'Strict-Transport-Security', b'max-age=31536000; includeSubDomains; preload'), (b'Vary', b'Accept-Encoding'), (b'content-security-policy', b"default-src 'none'"), (b'referrer-policy', b'strict-origin-when-cross-origin'), (b'x-content-type-options', b'nosniff'), (b'x-dns-prefetch-control', b'off'), (b'x-download-options', b'noopen'), (b'x-frame-options', b'SAMEORIGIN'), (b'x-notion-request-id', b'c779d041-31a6-4516-a155-5294718bf96b'), (b'x-permitted-cross-domain-policies', b'none'), (b'x-xss-protection', b'0'), (b'Server', b'cloudflare'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-06-10 12:41:36,895 - INFO - HTTP Request: PATCH https://api.notion.com/v1/blocks/20e2d8fa-cbd4-81ac-a5dc-e0575a496273/children "HTTP/1.1 200 OK"
+2025-06-10 12:41:36,906 - DEBUG - receive_response_body.started request=<Request [b'PATCH']>
+2025-06-10 12:41:36,918 - DEBUG - receive_response_body.complete
+2025-06-10 12:41:36,940 - DEBUG - response_closed.started
+2025-06-10 12:41:36,953 - DEBUG - response_closed.complete
+2025-06-10 12:41:37,036 - INFO - Notionへの保存完了: 20e2d8fa-cbd4-81ac-a5dc-e0575a496273
+2025-06-10 12:41:37,112 - INFO - テスト完了: すべての処理が正常に実行されました
+2025-06-10 12:41:54,638 - DEBUG - close.started
+2025-06-10 12:41:54,663 - DEBUG - close.complete
+2025-06-10 12:41:54,672 - DEBUG - close.started
+2025-06-10 12:41:54,707 - DEBUG - close.complete
