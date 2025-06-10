@@ -1,17 +1,17 @@
 # Seekin Demo
 
-Notionと連携した記事管理・画像自動貼り付けアプリケーション
+Notionと連携した記事管理・イラスト自動生成アプリケーション
 
 ## 概要
 
-このアプリケーションは、ChatGPTでストーリーを生成し、Stable Diffusionで漫画画像を生成、S3に保存し、Notionにストーリーや画像を自動で貼り付ける自動化フローを提供します。
-Python + Docker + Flask構成で、API経由で日報や画像をNotionに自動追記できます。
+このアプリケーションは、ChatGPTでストーリーを生成し、Stable Diffusionでイラストを生成、S3に保存し、Notionにストーリーやイラストを自動で貼り付ける自動化フローを提供します。
+Python + Docker + Flask構成で、API経由で日報やイラストをNotionに自動追記できます。
 
 ## システム構成
 - ChatGPTでストーリー生成
-- Stable Diffusionで漫画画像生成
+- Stable Diffusionでイラスト生成
 - S3に画像保存
-- Notionにストーリーや画像を自動で貼り付け
+- Notionにストーリーやイラストを自動で貼り付け
 - すべてPython/Docker/Flaskで自動化
 
 ## セットアップ
@@ -39,12 +39,26 @@ cp .env.example .env
 docker-compose up -d
 ```
 
+## テスト実行
+
+一連の処理（ストーリー生成→イラスト生成→S3アップロード→Notion連携）をテスト実行するには：
+
+```bash
+docker-compose exec app python src/tests/test_story_to_notion.py
+```
+
+このコマンドで以下の処理が自動実行されます：
+1. ChatGPTでストーリーを生成
+2. Stable Diffusionでイラストを生成
+3. 生成したイラストをS3にアップロード
+4. Notionにストーリーとイラストを自動貼り付け
+
 ## 運用フロー
 
 1. ChatGPTでストーリー生成
-2. Stable Diffusionでコマごとに漫画画像生成
-3. 画像をS3にアップロード
-4. Notionにストーリー本文・画像を自動貼り付け
+2. Stable Diffusionでイラスト生成
+3. イラストをS3にアップロード
+4. Notionにストーリー本文・イラストを自動貼り付け
 
 ## APIエンドポイント
 
@@ -69,12 +83,17 @@ curl -X POST http://localhost:3000/update-article -H "Content-Type: application/
 ```
 
 ### 画像追加API
-（省略。必要に応じて add_image_to_article エンドポイントを追記してください）
+```http
+POST /add-image-to-article
+```
+- 指定したタイトルのページに画像を追加します
+- 画像はS3にアップロードされ、Notionページに追記されます
 
 ## 開発・運用のポイント
 - タイトル（title）はNotion上のページと完全一致させてください
 - 画像追加・テキスト追記のAPIはDockerコンテナ起動後すぐ利用可能です
-- 主要な自動化フローは `test_story_to_notion.py` などで一括テストできます
+- 主要な自動化フローは `test_story_to_notion.py` で一括テストできます
+- イラスト生成はStable Diffusionを使用し、NSFWフィルターを適用しています
 
 ## 参考
 - Notion API: https://developers.notion.com/
