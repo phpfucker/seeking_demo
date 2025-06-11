@@ -102,7 +102,23 @@ class TestStoryToNotion(unittest.TestCase):
             self.assertIsNotNone(analysis)
             self.logger.info("画像分析とプロンプト改善完了")
             
-            # 分析結果をdaily reportに追加
+            # ストーリーとイラストをstory記事に保存
+            story_content = f"""
+## 生成されたストーリー
+{story}
+
+## 生成されたイラスト
+"""
+            self.logger.info("5. ストーリーとイラストをstory記事に保存...")
+            story_page_id = self.notion_service.create_page(
+                title="story",
+                content=story_content,
+                image_path=manga_path
+            )
+            self.assertIsNotNone(story_page_id)
+            self.logger.info(f"ストーリーとイラストの保存完了: {story_page_id}")
+            
+            # 分析レポートをDaily Reportテーブルに保存
             daily_report = f"""
 ## 画像分析レポート
 ### 生成された画像の分析
@@ -110,19 +126,14 @@ class TestStoryToNotion(unittest.TestCase):
 
 ### 改善されたプロンプト
 {improved_prompt}
-
-### 元のストーリー
-{story}
 """
-            self.logger.info("5. Notion連携テスト開始...")
-            page_id = self.notion_service.create_page(
+            self.logger.info("6. 分析レポートをDaily Reportテーブルに保存...")
+            report_page_id = self.notion_service.create_page(
                 title=datetime.now().strftime("%Y-%m-%d"),
-                content=daily_report,
-                image_path=manga_path,
-                analysis=analysis
+                content=daily_report
             )
-            self.assertIsNotNone(page_id)
-            self.logger.info(f"Notionへの保存完了: {page_id}")
+            self.assertIsNotNone(report_page_id)
+            self.logger.info(f"分析レポートの保存完了: {report_page_id}")
             
             self.logger.info("テスト完了: すべての処理が正常に実行されました")
         except Exception as e:

@@ -1,14 +1,4 @@
 # メインプロンプトテンプレート
-MAIN_PROMPT_TEMPLATE = "A gorilla beastman with a confident smile and a gemstone girl with a gentle expression are sitting close together in a cozy room, having a friendly conversation. Anime style, highly detailed, soft warm lighting, beautiful background."
+MAIN_PROMPT_TEMPLATE = "A confident gorilla beastman and a gentle gemstone girl are sitting together in a cozy, sunlit meadow, sharing a peaceful moment. The beastman is wearing a contented smile, and the gemstone girl has a serene expression. The warm sunlight filters through the trees, casting dappled shadows on the grass and illuminating the scene with a soft, golden glow. The atmosphere is tranquil and harmonious, with a feeling of quiet companionship between the two characters. The focus is"
 
-# ネガティブプロンプト
-NEGATIVE_PROMPT = "abstract, blurry, low quality, extra limbs, text, watermark, nsfw, human, photo, monochrome, deformed, mutated, poorly drawn, out of frame, bad anatomy"
-
-# Improved Prompt
-MAIN_PROMPT_TEMPLATE = "1.2) A group of fantastical characters gathered in a cozy, half-lit room - a gentle giant with impressive horns sitting confidently, a glowing gemstone girl with a tender smile, a mischievous trickster reaching into his coat full of props, a jovial illustrator sketching blissfully with his art tools scattered around, and a gloomy, solitary bibliophile buried in his books. Each character is seated knee-to-knee"
-
-# Improved Prompt
-MAIN_PROMPT_TEMPLATE = "A confident gorilla beastman with a friendly smile and a gentle gemstone girl with sparkling eyes are sitting together in a cozy forest clearing, illuminated by the warm glow of the setting sun. The atmosphere is peaceful and inviting, with playful shadows dancing around them. The style should be illustrative, enchanting, and slightly mysterious, with vibrant characters. The focus should be on enhancing the details and clarity of the characters and the background, while maintaining a sense of camaraderie and intimacy."
-
-# Improved Prompt
-MAIN_PROMPT_TEMPLATE = "A gorilla beastman with a confident smile and a gemstone girl with a gentle expression are sitting close together in a cozy room, having a friendly conversation. The room is softly lit with warm, comforting colors, and there is a sense of harmony and connection between the two characters. The gorilla beastman is leaning slightly towards the gemstone girl, exuding a sense of protective warmth, while the gemstone girl is leaning in, radiating a serene and gentle aura. Their body language and"
+NEGATIVE_PROMPT = "EasyNegativeV2, (worst quality:2), (low quality), bad anatomy, bad face, (moles:2), out of focus, blurry, nsfw, nipples, extra limbs, multiple people, crowd, deformed, more than one character, group, background people, animal, creature, sexy"
