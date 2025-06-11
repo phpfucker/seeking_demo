@@ -34,7 +34,7 @@ class MangaGenerator:
             elif line.startswith("NEGATIVE_PROMPT = "):
                 self.negative_prompt = line.split("=", 1)[1].strip().strip('"')
 
-    def generate_illustration(self, prompt, negative_prompt=None, num_inference_steps=30, guidance_scale=7.5, image_size=(256, 192)):
+    def generate_illustration(self, prompt, negative_prompt=None, num_inference_steps=30, guidance_scale=7.5, image_size=(512, 512)):
         """
         一枚のイラストを生成する
         Args:

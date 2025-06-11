@@ -1,0 +1,10 @@
+2025-06-10 15:26:21,011 - INFO - テストを開始します
+2025-06-10 15:26:21,025 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-06-10 15:26:21,851 - DEBUG - https://huggingface.co:443 "GET /api/models/runwayml/stable-diffusion-v1-5 HTTP/1.1" 307 90
+2025-06-10 15:26:22,553 - DEBUG - https://huggingface.co:443 "GET /api/models/stable-diffusion-v1-5/stable-diffusion-v1-5 HTTP/1.1" 200 6194
+2025-06-10 15:26:22,756 - DEBUG - https://huggingface.co:443 "HEAD /runwayml/stable-diffusion-v1-5/resolve/main/model_index.json HTTP/1.1" 307 0
+2025-06-10 15:26:22,955 - DEBUG - https://huggingface.co:443 "HEAD /stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/model_index.json HTTP/1.1" 200 0
+2025-06-10 15:26:25,548 - INFO - 1. ストーリー生成を開始...
+2025-06-10 15:26:25,558 - DEBUG - Starting new HTTP connection (1): localhost:3000
+2025-06-10 15:26:25,589 - DEBUG - http://localhost:3000 "POST /generate-story HTTP/1.1" 500 493
+2025-06-10 15:26:25,592 - ERROR - テスト中にエラーが発生しました: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:3000/generate-story

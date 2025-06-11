@@ -9,3 +9,6 @@ MAIN_PROMPT_TEMPLATE = "1.2) A group of fantastical characters gathered in a coz
 
 # Improved Prompt
 MAIN_PROMPT_TEMPLATE = "A confident gorilla beastman with a friendly smile and a gentle gemstone girl with sparkling eyes are sitting together in a cozy forest clearing, illuminated by the warm glow of the setting sun. The atmosphere is peaceful and inviting, with playful shadows dancing around them. The style should be illustrative, enchanting, and slightly mysterious, with vibrant characters. The focus should be on enhancing the details and clarity of the characters and the background, while maintaining a sense of camaraderie and intimacy."
+
+# Improved Prompt
+MAIN_PROMPT_TEMPLATE = "A gorilla beastman with a confident smile and a gemstone girl with a gentle expression are sitting close together in a cozy room, having a friendly conversation. The room is softly lit with warm, comforting colors, and there is a sense of harmony and connection between the two characters. The gorilla beastman is leaning slightly towards the gemstone girl, exuding a sense of protective warmth, while the gemstone girl is leaning in, radiating a serene and gentle aura. Their body language and"

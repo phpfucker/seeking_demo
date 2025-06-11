@@ -22,7 +22,7 @@ from src.services.story_splitter import StorySplitter
 # ログ設定
 def setup_logger():
     # ログディレクトリの作成
-    log_dir = Path("src/data")
+    log_dir = Path("src/data/log")
     log_dir.mkdir(exist_ok=True)
     
     # ログファイル名の設定（日時を含む）
@@ -63,8 +63,8 @@ class TestStoryToNotion(unittest.TestCase):
         self.story_splitter = StorySplitter()
         self.base_url = "http://localhost:3000"
         
-        # 画像保存先をuploadsディレクトリに変更
-        self.test_dir = os.path.join(project_root, "uploads")
+        # 画像保存先をsrc/data/imgディレクトリに変更
+        self.test_dir = os.path.join(project_root, "src", "data", "img")
         os.makedirs(self.test_dir, exist_ok=True)
     
     def test_full_flow(self):
@@ -87,6 +87,7 @@ class TestStoryToNotion(unittest.TestCase):
                 prompt,
                 num_inference_steps=5,
                 guidance_scale=3.0,
+                image_size=(512, 512),
                 negative_prompt="blurry, low quality, low resolution, deformed, disfigured, bad anatomy, ugly, bad proportions, extra limbs, NSFW, inappropriate content"
             )
             manga_path = os.path.join(self.test_dir, "test_illustration.png")
