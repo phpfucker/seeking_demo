@@ -124,11 +124,11 @@ class MangaImprover:
             response = self.client.chat.completions.create(
                 model="gpt-3.5-turbo-1106",
                 messages=[
-                    {"role": "system", "content": "あなたはイラストのプロンプトエンジニアです。与えられた分析結果に基づいて、Stable Diffusionのイラスト用プロンプトを改善してください。以下の点に特に注意してください：\n1. 主題・キャラクター・状況をシンプルかつ具体的に記述すること（例：A gorilla beastman with a confident smile and a gemstone girl with a gentle expression are sitting close together in a cozy room, having a friendly conversation.）\n2. 比喩や抽象的・複雑な表現は避けること\n3. キャラクター数は2体程度に絞ること（まずはゴリラ獣人と宝石少女）\n4. 背景や雰囲気も明確に指定すること\n5. 一貫性のあるスタイル、危険ワードを含まないこと"},
+                    {"role": "system", "content": "あなたはイラストのプロンプトエンジニアです。与えられた分析結果に基づいて、Stable Diffusionのイラスト用プロンプトを改善してください。必ずシンプルかつ具体的に、短く明確な英語プロンプトのみを出力してください。余計な説明や修飾語、抽象的な表現は避けてください。以下の点に特に注意してください：\n1. 主題・キャラクター・状況をシンプルかつ具体的に記述すること（例：A gorilla beastman with a confident smile and a gemstone girl with a gentle expression are sitting close together in a cozy room, having a friendly conversation.）\n2. 比喩や抽象的・複雑な表現は避けること\n3. キャラクター数は2体程度に絞ること（まずはゴリラ獣人と宝石少女）\n4. 背景や雰囲気も明確に指定すること\n5. 一貫性のあるスタイル、危険ワードを含まないこと"},
                     {"role": "user", "content": f"元のプロンプト：\n{original_prompt}\n\n分析で見つかった問題点：\n{issues}\n\n改善提案：\n{suggestions}\n\nこれらの問題点を解決するように、イラスト用プロンプトを改善してください。"}
                 ],
                 temperature=0.7,
-                max_tokens=100
+                max_tokens=200
             )
             improved_prompt = response.choices[0].message.content.strip()
             improved_prompt = self._optimize_prompt(improved_prompt)
@@ -176,11 +176,13 @@ class MangaImprover:
             return prompt
 
     def _update_prompt_template(self, improved_prompt):
-        """改善されたプロンプトをmanga_prompt.txtに追記"""
+        """改善されたプロンプトをmanga_prompt.txtに上書き"""
         try:
             prompt_file_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "prompts", "manga_prompt.txt")
-            with open(prompt_file_path, "a", encoding="utf-8") as f:
-                f.write(f'\n# Improved Prompt\nMAIN_PROMPT_TEMPLATE = "{improved_prompt}"\n')
-            print(f"プロンプトテンプレートを追記しました: {prompt_file_path}")
+            with open(prompt_file_path, "w", encoding="utf-8") as f:
+                f.write('# メインプロンプトテンプレート\n')
+                f.write(f'MAIN_PROMPT_TEMPLATE = "{improved_prompt}"\n\n')
+                f.write('NEGATIVE_PROMPT = "EasyNegativeV2, (worst quality:2), (low quality), bad anatomy, bad face, (moles:2), out of focus, blurry, nsfw, nipples, extra limbs, multiple people, crowd, deformed, more than one character, group, background people, animal, creature, sexy"')
+            print(f"プロンプトテンプレートを更新しました: {prompt_file_path}")
         except Exception as e:
-            print(f"プロンプトテンプレートの追記中にエラーが発生しました: {str(e)}") 
+            print(f"プロンプトテンプレートの更新中にエラーが発生しました: {str(e)}") 

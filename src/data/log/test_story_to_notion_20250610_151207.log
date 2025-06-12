@@ -1,6 +1,0 @@
-2025-06-10 15:12:07,515 - INFO - テストを開始します
-2025-06-10 15:12:07,665 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
-2025-06-10 15:12:08,512 - DEBUG - https://huggingface.co:443 "GET /api/models/runwayml/stable-diffusion-v1-5 HTTP/1.1" 307 90
-2025-06-10 15:12:09,135 - DEBUG - https://huggingface.co:443 "GET /api/models/stable-diffusion-v1-5/stable-diffusion-v1-5 HTTP/1.1" 200 6194
-2025-06-10 15:12:09,352 - DEBUG - https://huggingface.co:443 "HEAD /runwayml/stable-diffusion-v1-5/resolve/main/model_index.json HTTP/1.1" 307 0
-2025-06-10 15:12:09,553 - DEBUG - https://huggingface.co:443 "HEAD /stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/model_index.json HTTP/1.1" 200 0

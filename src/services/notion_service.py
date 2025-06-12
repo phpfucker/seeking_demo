@@ -184,7 +184,7 @@ class NotionService:
             print(f"[DEBUG] upload_image_to_notion: error: {str(e)}")
             return False
 
-    def create_page(self, title, content, image_path, analysis=None, report=None):
+    def create_page(self, title, content, image_path=None):
         """Notionにページを作成し、画像とレポートを添付する（本文は消さずに追記）
         既存ページがあればそのページに追記、新規なら作成
         """

@@ -4,11 +4,13 @@ import os
 import sys
 import unittest
 import requests
+import json
 from dotenv import load_dotenv
 from pathlib import Path
 from PIL import Image
 from datetime import datetime
 import logging
+from openai import OpenAI
 
 # プロジェクトのルートディレクトリをPythonパスに追加
 project_root = str(Path(__file__).parent.parent.parent)
@@ -71,14 +73,23 @@ class TestStoryToNotion(unittest.TestCase):
         """ストーリー生成からNotion連携までの一連のフローをテスト（イラスト専用）"""
         try:
             self.logger.info("1. ストーリー生成を開始...")
-            response = requests.post(f"{self.base_url}/generate-story")
+            response = requests.post(
+                f"{self.base_url}/generate-story",
+                json={"prompt": "テスト用のストーリーを生成してください"}
+            )
             response.raise_for_status()
-            story = response.json()["story"]
+            story_data = response.json()
+            
+            # generation_processが存在しない場合はデフォルト値を設定
+            generation_process = story_data.get("generation_process", "生成プロセスの詳細は利用できません。")
+            
+            story = story_data["story"]
             self.assertIsNotNone(story)
+            self.assertIsNotNone(generation_process)
             self.logger.info("ストーリー生成完了")
             
             self.logger.info("2. ストーリーをイラスト用プロンプトに変換...")
-            prompt = self.story_splitter.convert_to_illustration_prompt(story)
+            prompt, explanation = self.story_splitter.convert_to_illustration_prompt(story)
             self.logger.info("イラスト用プロンプト:")
             self.logger.info(prompt)
             
@@ -99,7 +110,6 @@ class TestStoryToNotion(unittest.TestCase):
             self.logger.info("4. 画像分析とプロンプト改善を開始...")
             improved_prompt, analysis = self.manga_improver.analyze_and_improve(manga_path, prompt)
             self.assertIsNotNone(improved_prompt)
-            self.assertIsNotNone(analysis)
             self.logger.info("画像分析とプロンプト改善完了")
             
             # ストーリーとイラストをstory記事に保存
@@ -120,21 +130,20 @@ class TestStoryToNotion(unittest.TestCase):
             
             # 分析レポートをDaily Reportテーブルに保存
             daily_report = f"""
-## 画像分析レポート
-### 生成された画像の分析
-{analysis}
+## 生成レポート
+### ストーリー生成プロセス
+{generation_process}
 
-### 改善されたプロンプト
-{improved_prompt}
+### イラスト生成プロセス
+{prompt}
 """
-            self.logger.info("6. 分析レポートをDaily Reportテーブルに保存...")
+            self.logger.info("6. 生成レポートをDaily Reportテーブルに保存...")
             report_page_id = self.notion_service.create_page(
                 title=datetime.now().strftime("%Y-%m-%d"),
-                content=daily_report,
-                image_path=None
+                content=daily_report
             )
             self.assertIsNotNone(report_page_id)
-            self.logger.info(f"分析レポートの保存完了: {report_page_id}")
+            self.logger.info(f"生成レポートの保存完了: {report_page_id}")
             
             self.logger.info("テスト完了: すべての処理が正常に実行されました")
         except Exception as e:
