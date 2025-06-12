@@ -130,7 +130,8 @@ class TestStoryToNotion(unittest.TestCase):
             self.logger.info("6. 分析レポートをDaily Reportテーブルに保存...")
             report_page_id = self.notion_service.create_page(
                 title=datetime.now().strftime("%Y-%m-%d"),
-                content=daily_report
+                content=daily_report,
+                image_path=None
             )
             self.assertIsNotNone(report_page_id)
             self.logger.info(f"分析レポートの保存完了: {report_page_id}")
