@@ -17,3 +17,8 @@ Thumbs.db
 
 # その他
 *.mdc 
+
+# データファイル
+src/data/img/
+src/data/log/
+src/data/state.json 
