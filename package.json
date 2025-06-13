@@ -1,0 +1,25 @@
+{
+  "name": "seek-in",
+  "version": "1.0.0",
+  "description": "2体の膝形生命体の進化を観察するWebアプリケーション",
+  "main": "scripts/auto-evolution.js",
+  "scripts": {
+    "evolve": "node scripts/auto-evolution.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "keywords": [
+    "ai",
+    "evolution",
+    "simulation",
+    "canvas",
+    "openai"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+} 
