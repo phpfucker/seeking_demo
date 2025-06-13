@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>seek-in（飼育員）</title>
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>seek-in（飼育員）</h1>
+            <p>2体の膝形生命体の進化を観察する</p>
+        </header>
+
+        <main>
+            <div class="canvas-container">
+                <canvas id="lifeCanvas"></canvas>
+                <div class="controls">
+                    <button id="evolveBtn">手動進化実行</button>
+                    <span id="status">準備完了</span>
+                </div>
+            </div>
+
+            <div class="reports-container">
+                <h2>進化レポート</h2>
+                <div id="reportsList"></div>
+            </div>
+        </main>
+
+        <footer>
+            <p>© 2024 seek-in Project</p>
+        </footer>
+    </div>
+
+    <script src="scripts/evolution.js"></script>
+    <script src="scripts/main.js"></script>
+</body>
+</html> 
