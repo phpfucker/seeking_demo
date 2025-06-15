@@ -203,21 +203,21 @@ function drawSVG(svgCode) {
 // 現在の状態を描画する
 function drawCurrentState() {
     const svgContainer = document.getElementById('svgContainer');
-    // SVGがあればSVGを描画、なければCanvas描画
     if (currentState && currentState.svg) {
         svgContainer.style.display = 'block';
         drawSVG(currentState.svg);
-        // Canvasは非表示
         canvas.style.display = 'none';
-    } else {
+    } else if (currentState && currentState.entityA && currentState.entityB) {
         svgContainer.style.display = 'none';
         canvas.style.display = 'block';
-        // キャンバスをクリア
         ctx.clearRect(0, 0, canvas.width, canvas.height);
-        if (currentState) {
-            drawEntity(currentState.entityA.cells);
-            drawEntity(currentState.entityB.cells);
-        }
+        drawEntity(currentState.entityA.cells);
+        drawEntity(currentState.entityB.cells);
+    } else {
+        // どちらもない場合は何も描画しない
+        svgContainer.style.display = 'none';
+        canvas.style.display = 'block';
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
     }
 }
 
