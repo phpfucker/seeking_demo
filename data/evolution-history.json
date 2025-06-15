@@ -319,5 +319,24 @@
       }
     },
     "timestamp": 1749971771387
+  },
+  {
+    "entityA": {
+      "svg": "<svg width='400' height='400' xmlns='http://www.w3.org/2000/svg'><rect x='50' y='50' width='300' height='300' fill='purple' /><circle cx='200' cy='200' r='150' fill='yellow' /></svg>",
+      "report": {
+        "appearance": "紫色の四角形の体に黄色の円形の頭を持つ生物。体全体は光沢のある質感を持つ。",
+        "reason": "進化の理由は、異なる形状のパーツを組み合わせることで、新たな特性や能力が生まれる可能性があったため。",
+        "thought": "内面は好奇心旺盛で、自分の異なる外見に興味を持っている。他者と異なることを受け入れる心を持っている。"
+      }
+    },
+    "entityB": {
+      "svg": "<svg width='400' height='400' xmlns='http://www.w3.org/2000/svg'><circle cx='100' cy='200' r='100' fill='green' /><ellipse cx='300' cy='200' rx='150' ry='50' fill='orange' /></svg>",
+      "report": {
+        "appearance": "緑色の円形の体に、橙色の楕円形の尾を持つ生物。体は滑らかな曲線で構成されている。",
+        "reason": "進化の理由は、異なる形状のパーツを組み合わせることで、環境への適応性が高まる可能性があったため。",
+        "thought": "内面は穏やかでバランス感覚に優れており、自らの特異な外見を受け入れている。周囲と調和を大切にする優しい性格を持っている。"
+      }
+    },
+    "timestamp": 1749972298944
   }
 ]
