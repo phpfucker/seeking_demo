@@ -737,5 +737,24 @@
       }
     },
     "timestamp": 1750022091691
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"purple\" /><rect x=\"175\" y=\"100\" width=\"50\" height=\"100\" fill=\"gold\" /><circle cx=\"175\" cy=\"300\" r=\"25\" fill=\"gold\" /><circle cx=\"225\" cy=\"300\" r=\"25\" fill=\"gold\" /><path d=\"M150 150 Q200 50 250 150\" fill=\"none\" stroke=\"black\" /><path d=\"M150 150 Q200 250 250 150\" fill=\"none\" stroke=\"black\" /></svg>",
+      "report": {
+        "appearance": "体は大きな紫色の円形で、金色の四角い模様が胴体にあります。手は金色の丸い円、足は金色の小さな円で、顔には黒色の角が2本あります。",
+        "reason": "この進化は、環境の変化により、金色の光沢がある模様が有機的な保護色として進化した結果です。",
+        "thought": "『誇り高き輝き』"
+      }
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"120\" fill=\"teal\" /><rect x=\"175\" y=\"100\" width=\"50\" height=\"100\" fill=\"darkorange\" /><rect x=\"175\" y=\"200\" width=\"50\" height=\"25\" fill=\"darkorange\" /><rect x=\"175\" y=\"225\" width=\"10\" height=\"50\" fill=\"darkorange\" /><rect x=\"240\" y=\"200\" width=\"10\" height=\"75\" fill=\"darkorange\" /><path d=\"M200 150 Q150 200 200 250\" fill=\"none\" stroke=\"black\" /><path d=\"M200 150 Q250 200 200 250\" fill=\"none\" stroke=\"black\" /></svg>",
+      "report": {
+        "appearance": "体は大きな青緑色の円形で、濃いオレンジ色の四角い模様が胴体にあります。手は濃いオレンジ色の四角形と細長い形、足は濃いオレンジ色の四角い形と細長い形で、顔には黒色の角が2本あります。",
+        "reason": "この進化は、食物の変化により、濃いオレンジ色の模様が毒性を示すシグナルとして進化した結果です。",
+        "thought": "『色彩の警告』"
+      }
+    },
+    "timestamp": 1750025724824
   }
 ]
