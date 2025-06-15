@@ -52,30 +52,15 @@ function drawSVG(svgCode, containerId) {
     svgContainer.innerHTML = svgWithId;
 }
 
-// SVG全体をゆらゆら揺らすアニメーション
-function animateSVG(containerId) {
-    const svg = document.querySelector(`#${containerId} svg`);
-    if (!svg) return;
-    let angle = 0;
-    function animate() {
-        angle += 0.05;
-        const deg = Math.sin(angle) * 5; // -5〜+5度で揺れる
-        svg.style.transform = `rotate(${deg}deg)`;
-        svg.style.transition = 'transform 0.1s linear';
-        requestAnimationFrame(animate);
-    }
-    animate();
-}
-
 // 現在の状態を描画する
 function drawCurrentState() {
     // entityA, entityBのSVGをそれぞれ描画
     if (currentState && currentState.entityA && currentState.entityB) {
         drawSVG(currentState.entityA.svg, 'svgContainerA');
         drawSVG(currentState.entityB.svg, 'svgContainerB');
-        // アニメーション開始
-        animateSVG('svgContainerA');
-        animateSVG('svgContainerB');
+        // アニメーション開始（削除）
+        // animateSVG('svgContainerA');
+        // animateSVG('svgContainerB');
     }
 }
 
@@ -167,24 +152,11 @@ async function executeEvolution() {
 }
 
 function startSVGAnimation() {
-    stopSVGAnimation();
-    const svg = document.querySelector('#svgContainer svg');
-    if (!svg) return;
-    svgAnimationAngle = 0;
-    function animate() {
-        svgAnimationAngle += 0.5;
-        const angle = Math.sin(svgAnimationAngle * Math.PI / 90) * 5; // -5〜+5度でゆらゆら
-        svg.setAttribute('style', `transform: rotate(${angle}deg); transition: transform 0.1s linear;`);
-        svgAnimationFrame = requestAnimationFrame(animate);
-    }
-    animate();
+    // 完全削除
 }
 
 function stopSVGAnimation() {
-    if (svgAnimationFrame) {
-        cancelAnimationFrame(svgAnimationFrame);
-        svgAnimationFrame = null;
-    }
+    // 完全削除
 }
 
 // メインの初期化処理
@@ -226,4 +198,4 @@ document.addEventListener('DOMContentLoaded', () => {
 initialize();
 
 // ページ遷移や再描画時にアニメーション停止
-window.addEventListener('beforeunload', stopSVGAnimation); 
+window.addEventListener('beforeunload', () => {}); 

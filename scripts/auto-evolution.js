@@ -69,58 +69,24 @@ class AutoEvolutionEngine {
               ).join('\n')}\n\n`
             : '';
 
-        return `${historyText}現在の2体の膝形生命体の状態は以下の通りです：
-
-entityA:
-- 細胞数: ${currentState.entityA.cells.length}
-- 位置: ${currentState.entityA.cells.map(c => `(${c.x}, ${c.y})`).join(', ')}
-- 色相: ${currentState.entityA.cells.map(c => c.color_h).join(', ')}
-- 形状ファクター: ${currentState.entityA.cells.map(c => c.shapeFactor).join(', ')}
-- 前回の思考: ${currentState.entityA.report.thought}
-
-entityB:
-- 細胞数: ${currentState.entityB.cells.length}
-- 位置: ${currentState.entityB.cells.map(c => `(${c.x}, ${c.y})`).join(', ')}
-- 色相: ${currentState.entityB.cells.map(c => c.color_h).join(', ')}
-- 形状ファクター: ${currentState.entityB.cells.map(c => c.shapeFactor).join(', ')}
-- 前回の思考: ${currentState.entityB.report.thought}
-
-これらの生命体は「膝」をテーマとした存在で、互いに影響を与えながら進化します。
-進化ステップ数: ${evolutionHistory.length + 1}
-
-次の進化ステップを以下のJSON形式で生成してください：
-
-{
+        return `${historyText}現在の2体の生命体の状態は以下の通りです：\n\nentityA:\n- 細胞数: ${currentState.entityA.cells.length}\n- 位置: ${currentState.entityA.cells.map(c => `(${c.x}, ${c.y})`).join(', ')}\n- 色相: ${currentState.entityA.cells.map(c => c.color_h).join(', ')}\n- 形状ファクター: ${currentState.entityA.cells.map(c => c.shapeFactor).join(', ')}\n- 前回の思考: ${currentState.entityA.report.thought}\n\nentityB:\n- 細胞数: ${currentState.entityB.cells.length}\n- 位置: ${currentState.entityB.cells.map(c => `(${c.x}, ${c.y})`).join(', ')}\n- 色相: ${currentState.entityB.cells.map(c => c.color_h).join(', ')}\n- 形状ファクター: ${currentState.entityB.cells.map(c => c.shapeFactor).join(', ')}\n- 前回の思考: ${currentState.entityB.report.thought}\n\nこれらの生命体は「膝」をテーマとした存在で、互いに影響を与えながら進化します。進化ステップ数: ${evolutionHistory.length + 1}\n\n次の進化ステップを以下のJSON形式で日本語で生成してください：\n\n{
   "entityA": {
-    "cells": [
-      {"x": 数値, "y": 数値, "radius": 数値(5-15), "color_h": 数値(0-360), "shapeFactor": 数値(0-1)}
-    ],
+    "svg": "<svg ...>...</svg>",
     "report": {
-      "appearance": "現在の見た目の詳細な説明",
-      "reason": "なぜこの進化が起こったのかの理由",
-      "thought": "生命体の内面や感情を表す一言（『』で囲む）"
+      "appearance": "現在の姿の詳細な日本語説明",
+      "reason": "なぜこの進化が起こったのかの日本語理由",
+      "thought": "生命体の内面や感情を表す日本語の一言（『』で囲む）"
     }
   },
   "entityB": {
-    "cells": [
-      {"x": 数値, "y": 数値, "radius": 数値(5-15), "color_h": 数値(0-360), "shapeFactor": 数値(0-1)}
-    ],
+    "svg": "<svg ...>...</svg>",
     "report": {
-      "appearance": "現在の見た目の詳細な説明",
-      "reason": "なぜこの進化が起こったのかの理由",
-      "thought": "生命体の内面や感情を表す一言（『』で囲む）"
+      "appearance": "現在の姿の詳細な日本語説明",
+      "reason": "なぜこの進化が起こったのかの日本語理由",
+      "thought": "生命体の内面や感情を表す日本語の一言（『』で囲む）"
     }
   }
-}
-
-制約：
-- x座標は50-350の範囲
-- y座標は50-350の範囲
-- 細胞数は1-8個の範囲
-- 2体は互いに影響を与え合う関係
-- 進化は段階的で劇的すぎない変化
-- 膝というテーマを保ちつつ、創造的な進化を
-- 進化が進むにつれて、膝以外の形状に変化してもよい`;
+}\n\n制約：\n- SVGは必ずviewBox=\"0 0 400 400\"内に全身（体・顔・手足・しっぽ・角・模様など）を大きく中央に描いてください\n- 顔だけのキャラクターは禁止。必ず体・手足・しっぽ・角・模様など複数のパーツを含めてください\n- 目・口・手足・体・模様・しっぽ・角など各パーツにはidまたはclass属性を付与してください\n- フレームや背景は動かさず、生命体のパーツのみを描画してください\n- 多様な模様・色・形状・パーツを使い、イラストや写真のような生き物らしさ・複雑さ・有機的な形を重視してください\n- 実在の動物・昆虫・魚・空想生物・複合生物（例：ケンタウロス、ユニコーン、馬の足＋魚の頭＋シマウマの模様＋ピカチュウのしっぽ等）を参考にしても構いません\n- 進化ごとにパーツ・模様・色・形・大きさ・配置が必ず変化し、前回の特徴を一部引き継ぎつつ新しい特徴を加えてください\n- できるだけイラストや写真のような生き物らしい表現を目指してください\n- 単純な図形だけでなく、曲線・複雑なパーツ・模様・表情・手足・しっぽ・角などを必ず含めてください\n- 参考画像：[BRUTUS生物イラスト例](https://media.brutus.jp/wp-content/uploads/2023/02/8dd59338902d132e8ac8dd69d8ba72d6.jpg)、[Pixivオリジナルモンスター特集](https://embed.pixiv.net/spotlight.php?id=1373&lang=ja)、ポケモン・デジモン・モンスターハンター等\n- x座標は50-350の範囲\n- y座標は50-350の範囲\n- 細胞数は1-8個の範囲\n- 2体は互いに影響を与え合う関係\n- 進化は段階的で劇的すぎない変化\n- 膝というテーマを保ちつつ、創造的な進化を\n- 進化が進むにつれて、膝以外の形状に変化してもよい`;
     }
 
     /**
