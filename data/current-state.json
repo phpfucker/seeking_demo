@@ -1,18 +1,18 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#FFA07A' class='body'/><circle cx='100' cy='300' r='20' fill='#FF6347' class='eye'/><circle cx='300' cy='300' r='20' fill='#FF6347' class='eye'/><path d='M200 100 Q150 50 100 100 Q50 150 100 200 Q150 250 200 200 Q250 150 200 100' fill='#FFA07A' class='mouth'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc00' class='body'/><rect x='180' y='120' width='40' height='60' fill='#99cc00' class='arms'/><rect x='160' y='210' width='80' height='30' fill='#99cc00' class='legs'/><polygon points='200,80 240,120 160,120' fill='#9966cc' class='tail'/><circle cx='180' cy='180' r='10' fill='#ffffff' class='eyes'/><path d='M170,190 Q200,160 230,190' fill='none' stroke='#000000' stroke-width='3' class='mouth'/></svg>",
     "report": {
-      "appearance": "EntityA has a peach-colored body with two red eyes and a curved mouth.",
-      "reason": "The evolution focused on enhancing facial features for better expression and communication.",
-      "thought": "EntityA feels more expressive and hopes to communicate better with its peers."
+      "appearance": "EntityA has a round yellow body with green arms, legs, and a purple tail. It has white eyes and a smiling mouth.",
+      "reason": "This evolution emphasizes agility and balance in movement.",
+      "thought": "EntityA feels lighter and more flexible, ready to explore new environments."
     }
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='150' fill='#87CEEB' class='body'/><circle cx='150' cy='300' r='20' fill='#4682B4' class='eye'/><circle cx='250' cy='300' r='20' fill='#4682B4' class='eye'/><path d='M200 150 Q175 125 150 150 Q125 175 150 200 Q175 225 200 200 Q225 175 200 150' fill='#87CEEB' class='mouth'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='100' fill='#3399ff' class='body'/><circle cx='130' cy='140' r='20' fill='#ff6666' class='eyes'/><path d='M150,170 Q200,150 250,170' fill='none' stroke='#000000' stroke-width='3' class='mouth'/><rect x='160' y='130' width='20' height='50' fill='#ff6666' class='arms'/><rect x='220' y='130' width='20' height='50' fill='#ff6666' class='arms'/><rect x='160' y='200' width='20' height='50' fill='#ff6666' class='legs'/><rect x='220' y='200' width='20' height='50' fill='#ff6666' class='legs'/><polygon points='200,250 210,270 190,270' fill='#ff6666' class='tail'/></svg>",
     "report": {
-      "appearance": "EntityB now has a light blue body with two dark blue eyes and an improved mouth shape.",
-      "reason": "The evolution aimed to enhance facial expression and body color coordination.",
-      "thought": "EntityB feels more confident with its new appearance and hopes to express emotions effectively."
+      "appearance": "EntityB now has a blue rectangular body with red eyes and mouth. It has red arms, legs, and a red tail.",
+      "reason": "This evolution emphasizes strength and stability for various tasks.",
+      "thought": "EntityB feels robust and powerful, ready to take on challenges ahead."
     }
   }
 }

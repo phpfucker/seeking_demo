@@ -452,5 +452,24 @@
       }
     },
     "timestamp": 1749979015831
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#FFA07A' class='body'/><circle cx='100' cy='300' r='20' fill='#FF6347' class='eye'/><circle cx='300' cy='300' r='20' fill='#FF6347' class='eye'/><path d='M200 100 Q150 50 100 100 Q50 150 100 200 Q150 250 200 200 Q250 150 200 100' fill='#FFA07A' class='mouth'/></svg>",
+      "report": {
+        "appearance": "EntityA has a peach-colored body with two red eyes and a curved mouth.",
+        "reason": "The evolution focused on enhancing facial features for better expression and communication.",
+        "thought": "EntityA feels more expressive and hopes to communicate better with its peers."
+      }
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='150' fill='#87CEEB' class='body'/><circle cx='150' cy='300' r='20' fill='#4682B4' class='eye'/><circle cx='250' cy='300' r='20' fill='#4682B4' class='eye'/><path d='M200 150 Q175 125 150 150 Q125 175 150 200 Q175 225 200 200 Q225 175 200 150' fill='#87CEEB' class='mouth'/></svg>",
+      "report": {
+        "appearance": "EntityB now has a light blue body with two dark blue eyes and an improved mouth shape.",
+        "reason": "The evolution aimed to enhance facial expression and body color coordination.",
+        "thought": "EntityB feels more confident with its new appearance and hopes to express emotions effectively."
+      }
+    },
+    "timestamp": 1749982650299
   }
 ]
