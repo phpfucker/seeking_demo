@@ -116,11 +116,11 @@ async function generateNextEvolution(currentState, history) {
         // JSONパース
         const nextState = JSON.parse(aiText);
         return nextState;
-    } catch (error) {
+        } catch (error) {
         console.error('Evolution JSON generation failed:', error);
-        return null;
+            return null;
+        }
     }
-}
 
 // 状態のバリデーション
 function validateState(state) {
