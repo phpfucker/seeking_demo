@@ -88,19 +88,63 @@ function displayReport(entity, entityName, timestamp = null) {
     return reportElement;
 }
 
-// 全ての進化レポートを表示する
+// 進化履歴を保存する
+async function saveEvolutionHistory(history) {
+    const MAX_HISTORY = 30;
+    
+    // 30件を超える場合、古い履歴をアーカイブ
+    if (history.length > MAX_HISTORY) {
+        // 古い履歴をアーカイブ
+        const archiveData = history.slice(0, history.length - MAX_HISTORY);
+        try {
+            const response = await fetch('/api/archive-history', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(archiveData)
+            });
+            if (!response.ok) {
+                console.error('Failed to archive history');
+            }
+        } catch (error) {
+            console.error('Error archiving history:', error);
+        }
+        
+        // 現在の履歴を30件に制限
+        history = history.slice(-MAX_HISTORY);
+    }
+    
+    // 現在の履歴を保存
+    try {
+        const response = await fetch('/api/save-history', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(history)
+        });
+        if (!response.ok) {
+            console.error('Failed to save history');
+        }
+    } catch (error) {
+        console.error('Error saving history:', error);
+    }
+}
+
+// 進化レポートを表示する
 function displayAllReports() {
     const reportsList = document.getElementById('reportsList');
     reportsList.innerHTML = '';
-    if (currentState && currentState.entityA && currentState.entityB) {
-        reportsList.appendChild(displayReport(currentState.entityA, 'Entity A'));
-        reportsList.appendChild(displayReport(currentState.entityB, 'Entity B'));
-    }
-    evolutionHistory.slice().reverse().forEach(step => {
-        if (step.entityA && step.entityB) {
-            reportsList.appendChild(displayReport(step.entityA, 'Entity A', step.timestamp));
-            reportsList.appendChild(displayReport(step.entityB, 'Entity B', step.timestamp));
-        }
+    
+    // 現在の状態を表示
+    reportsList.appendChild(displayReport(currentState.entityA, 'Entity A'));
+    reportsList.appendChild(displayReport(currentState.entityB, 'Entity B'));
+    
+    // 履歴を表示（最新30件まで）
+    evolutionHistory.slice(-30).reverse().forEach(step => {
+        reportsList.appendChild(displayReport(step.entityA, 'Entity A', step.timestamp));
+        reportsList.appendChild(displayReport(step.entityB, 'Entity B', step.timestamp));
     });
 }
 
