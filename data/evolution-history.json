@@ -300,5 +300,24 @@
       }
     },
     "timestamp": 1749971732975
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='purple'/><rect x='100' y='100' width='200' height='200' fill='green'/><ellipse cx='200' cy='200' rx='100' ry='50' fill='yellow'/></svg>",
+      "report": {
+        "appearance": "紫色の円形の頭部に、緑色の四角い胴体、黄色の楕円形の尾を持つ生物。体全体がコントラストの強い色彩で覆われている。",
+        "reason": "進化の理由は、異なる地域での食物調達や警戒色としての機能を果たすため。",
+        "thought": "内面は探求心と柔軟性を持ち、環境への適応力に富んでいる。"
+      }
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><path d='M200 50 L100 200 L200 350 L300 200 Z' fill='orange'/><circle cx='200' cy='200' r='100' fill='blue'/><ellipse cx='200' cy='200' rx='150' ry='50' fill='pink'/></svg>",
+      "report": {
+        "appearance": "青い円形の頭部に、オレンジ色の尖った三角形の胴体、ピンク色の楕円形の尾を持つ生物。異なる形状のパーツが組み合わさっている。",
+        "reason": "進化の理由は、捕食者からの警戒や獲物の誤認を防ぐために、派手な色彩や形状が形成された。",
+        "thought": "内面は創造性と戦略性を持っており、状況に応じて変化する柔軟性がある。"
+      }
+    },
+    "timestamp": 1749971771387
   }
 ]
