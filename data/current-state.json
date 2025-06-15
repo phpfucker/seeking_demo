@@ -1,18 +1,18 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='purple'/><rect x='150' y='150' width='100' height='100' fill='yellow'/><polygon points='200,50 250,150 150,150' fill='green'/><line x1='100' y1='300' x2='300' y2='300' stroke='blue' stroke-width='10'/></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"#ffcc00\" /><rect x=\"150\" y=\"150\" width=\"100\" height=\"200\" fill=\"#993300\" /><polygon points=\"100,300 200,400 300,300\" fill=\"#996633\" /><circle cx=\"150\" cy=\"100\" r=\"20\" fill=\"#ff9966\" /><circle cx=\"250\" cy=\"100\" r=\"20\" fill=\"#ff9966\" /></svg>",
     "report": {
-      "appearance": "entityAは紫色の丸い体に黄色の四角い模様、緑色の三角形、青色の太い線が特徴的な生命体です。",
-      "reason": "進化の理由は、周囲の環境に合わせてより派手な模様と色彩を身につけることで、仲間とのコミュニケーションや捕食の効率を高めるためです。",
-      "thought": "『変化が命を彩る』"
+      "appearance": "体は丸くて大きな円形の黄色い体に、茶色い四角い頭を持ち、三角形の耳とピンクの目を持つ。背中には三角形の茶色い模様がある。四本の脚は黄色で、手足はそれぞれ大きな丸い形をしている。",
+      "reason": "この進化は、生存環境の変化により、より大きな体で食料を確保しやすくなるために発生した。",
+      "thought": "『満腹』"
     }
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='150' ry='100' fill='orange'/><path d='M100 100 L200 50 L300 100 Z' fill='pink'/><circle cx='150' cy='250' r='50' fill='cyan'/><line x1='300' y1='200' x2='350' y2='250' stroke='red' stroke-width='5'/></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"120\" fill=\"#3366cc\" /><rect x=\"180\" y=\"150\" width=\"40\" height=\"200\" fill=\"#ff6600\" /><polygon points=\"100,300 200,400 300,300\" fill=\"#ffcc00\" /><circle cx=\"160\" cy=\"100\" r=\"15\" fill=\"#66cc66\" /><circle cx=\"240\" cy=\"100\" r=\"15\" fill=\"#66cc66\" /></svg>",
     "report": {
-      "appearance": "entityBはオレンジ色の楕円形の体にピンクの不規則な形、青緑色の丸い模様、赤い太い線が特徴的な生命体です。",
-      "reason": "進化の理由は、新たな生息地での生存競争において、より目立つ模様や体の形状を持つことで、敵からの警告や仲間との視覚的コミュニケーションを強化するためです。",
-      "thought": "『輝く未来への挑戦』"
+      "appearance": "小さな青い丸い体に、オレンジ色の四角い頭がついている。頭には大きな三角形の黄色い模様があり、目は黄色で六角形の形をしている。四つの細い脚は緑色で、手足は小さな丸い形をしている。",
+      "reason": "狩りを行う際に、より俊敏な動きができるように、体を小さくし、脚を細く長くする進化が起こった。",
+      "thought": "『自由』"
     }
   }
 }
