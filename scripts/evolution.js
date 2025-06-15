@@ -56,41 +56,39 @@ async function saveCurrentState(state) {
 
 // 2体分のSVG＋レポート生成用プロンプト
 function generatePrompt(currentState, history) {
-    return `あなたは2体の想像上の生物（entityA, entityB）の進化をSVG形式と進化レポートで生成するAIです。
-以下の条件を満たすJSONを生成してください。
+    return `You are an AI that generates the evolution of two imaginary life forms (entityA, entityB) as SVG illustrations and evolution reports.
+Please generate JSON that meets the following requirements:
 
-- entityA, entityBそれぞれにSVGコード（<svg ...>...</svg>）を生成
-- 各SVGは400x400の範囲で描画
-- 各entityに進化レポート（appearance, reason, thought）を付与
-- SVGは地球上に存在しない生物（例：馬の足＋魚の頭＋シマウマの模様＋ピカチュウのしっぽ等、複数特徴の合成）
-- 顔（目・口）、手足、体のパーツが複数あることを必須とする
-- 模様や色のバリエーションを持たせること
-- 動物・昆虫・魚など既存生物の要素や空想生物も参考にしてよい
-- 進化ごとにパーツや模様・色・形状・サイズが少しずつ変化し、前の姿を引き継ぐ"連続性"を持たせること
-- 体の大きさも変化してよい
-- 主要なパーツ（目・口・手・足・体・模様など）にはidやclass属性を付与し、アニメーション制御しやすい構造にする
-- できるだけ生物的・有機的な形状を意識する
-- 進化ごとに全体が大きく変化してもよいが、必ず前の特徴を一部引き継ぐこと
-- 参考イメージ：[BRUTUSの生き物イラスト例](https://media.brutus.jp/wp-content/uploads/2023/02/8dd59338902d132e8ac8dd69d8ba72d6.jpg)、[Pixivの創作モンスター特集](https://embed.pixiv.net/spotlight.php?id=1373&lang=ja)、ポケモン・デジモン・モンスターハンターのモンスターのような生き物
-- 図形の単純な組み合わせだけでなく、線・曲線・複雑なパーツ・模様・表情・手足・しっぽ・ツノなどを使い、イラスト・キャラクター風にすること
-- 各パーツ（目・口・手足・体・模様など）にはidやclass属性を必ず付与し、アニメーション制御しやすい構造にすること
+- For each entityA and entityB, generate SVG code (<svg ...>...</svg>)
+- Each SVG must be drawn within a 400x400 viewBox, and the entire body (body, face, arms, legs, tail, horns, etc.) must be large and centered within the viewBox (0-400, 0-400)
+- Characters with only a face are prohibited. The SVG must always include body, arms, legs, tail, horns, or other parts in addition to the face
+- Each part (eyes, mouth, arms, legs, body, patterns, tail, horns, etc.) must have id or class attributes for easy animation control
+- Do not animate or move the frame or background; only the lifeform parts should move
+- Use a variety of patterns and colors
+- You may reference real animals, insects, fish, or create completely original creatures
+- With each evolution, parts, patterns, colors, shapes, and sizes should change gradually, inheriting features from the previous form (continuity)
+- The body size may also change
+- Aim for as organic and biological a shape as possible
+- It is acceptable for the overall appearance to change significantly with each evolution, but always inherit some features from the previous form
+- Reference images: [BRUTUS creature illustration example](https://media.brutus.jp/wp-content/uploads/2023/02/8dd59338902d132e8ac8dd69d8ba72d6.jpg), [Pixiv original monster feature](https://embed.pixiv.net/spotlight.php?id=1373&lang=ja), creatures like Pokemon, Digimon, Monster Hunter
+- Do not use only simple shapes; use lines, curves, complex parts, patterns, facial expressions, arms, legs, tails, horns, etc. to make it look like an illustration or character
 
-以下のJSON形式で返してください（マークダウンや説明文は不要）：
+Return the following JSON format (no markdown or explanations):
 {
   "entityA": {
     "svg": "<svg ...>...</svg>",
     "report": {
-      "appearance": "現在の姿の説明",
-      "reason": "進化の理由",
-      "thought": "内面の描写"
+      "appearance": "Description of current appearance",
+      "reason": "Reason for this evolution",
+      "thought": "Description of inner thoughts"
     }
   },
   "entityB": {
     "svg": "<svg ...>...</svg>",
     "report": {
-      "appearance": "現在の姿の説明",
-      "reason": "進化の理由",
-      "thought": "内面の描写"
+      "appearance": "Description of current appearance",
+      "reason": "Reason for this evolution",
+      "thought": "Description of inner thoughts"
     }
   }
 }`;
