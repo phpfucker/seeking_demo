@@ -97,11 +97,14 @@ async function generateNextEvolution(currentState, history) {
     
     try {
         const response = await openai.createCompletion({
-            model: "gpt-3.5-turbo-instruct",
+            model: "text-davinci-003",
             prompt: prompt,
             max_tokens: 1000,
             temperature: 0.7,
         });
+        
+        // AIの返答内容を出力
+        console.log('AI response:', response.data.choices[0].text);
         
         const nextState = JSON.parse(response.data.choices[0].text.trim());
         
@@ -109,11 +112,11 @@ async function generateNextEvolution(currentState, history) {
         validateState(nextState);
         
         return nextState;
-        } catch (error) {
+    } catch (error) {
         console.error('Evolution generation failed:', error);
-            return null;
-        }
+        return null;
     }
+}
 
 // 状態のバリデーション
 function validateState(state) {
