@@ -1,18 +1,18 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"#ffcc00\" id=\"body\"/><rect x=\"160\" y=\"100\" width=\"80\" height=\"40\" fill=\"#cc3333\" id=\"head\"/><circle cx=\"180\" cy=\"220\" r=\"20\" fill=\"#3366cc\" id=\"eye\"/><circle cx=\"220\" cy=\"220\" r=\"20\" fill=\"#3366cc\" id=\"eye\"/><path d=\"M180,260 Q200,280 220,260\" fill=\"none\" stroke=\"#000\" stroke-width=\"3\" id=\"mouth\"/><line x1=\"160\" y1=\"240\" x2=\"140\" y2=\"300\" stroke=\"#663300\" stroke-width=\"5\" id=\"horn\"/><line x1=\"240\" y1=\"240\" x2=\"260\" y2=\"300\" stroke=\"#663300\" stroke-width=\"5\" id=\"horn\"/><circle cx=\"170\" cy=\"300\" r=\"10\" fill=\"#ffcc00\" id=\"pattern\"/><circle cx=\"240\" cy=\"300\" r=\"10\" fill=\"#ffcc00\" id=\"pattern\"/><rect x=\"160\" y=\"340\" width=\"80\" height=\"20\" fill=\"#cc3333\" id=\"tail\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='purple'/><rect x='175' y='175' width='50' height='50' fill='pink'/><path d='M200,100 L250,150 L150,150 Z' fill='yellow'/><ellipse cx='180' cy='220' rx='20' ry='10' fill='green'/></svg>",
     "report": {
-      "appearance": "体は円形で黄色、頭は四角形で赤色、目は青色の丸、口は曲線、角は二本の太く短い直線、模様は黄色の円、しっぽは四角形で赤色。異形の生き物。",
-      "reason": "エネルギー源の変化により、生存に有利な形態へと進化したため。",
-      "thought": "『未知との遭遇』"
+      "appearance": "エンティティAは、紫色の球体の体にピンクの四角い模様を持ち、顔は黄色の三角形で、緑色の楕円形の口を持つ進化した生命体です。",
+      "reason": "エンティティAは、自然環境での生存競争において、より色鮮やかな模様を持つことで、パートナーを引きつけるために進化を遂げました。",
+      "thought": "『鮮やかな色で自分をアピール！』"
     }
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><ellipse cx=\"200\" cy=\"200\" rx=\"150\" ry=\"100\" fill=\"#ff6699\" id=\"body\"/><rect x=\"160\" y=\"100\" width=\"80\" height=\"40\" fill=\"#9933cc\" id=\"head\"/><circle cx=\"180\" cy=\"220\" r=\"20\" fill=\"#3366cc\" id=\"eye\"/><circle cx=\"220\" cy=\"220\" r=\"20\" fill=\"#3366cc\" id=\"eye\"/><path d=\"M180,260 Q200,280 220,260\" fill=\"none\" stroke=\"#000\" stroke-width=\"3\" id=\"mouth\"/><line x1=\"160\" y1=\"240\" x2=\"140\" y2=\"300\" stroke=\"#663300\" stroke-width=\"5\" id=\"horn\"/><line x1=\"240\" y1=\"240\" x2=\"260\" y2=\"300\" stroke=\"#663300\" stroke-width=\"5\" id=\"horn\"/><circle cx=\"170\" cy=\"300\" r=\"10\" fill=\"#ff6699\" id=\"pattern\"/><circle cx=\"230\" cy=\"300\" r=\"10\" fill=\"#ff6699\" id=\"pattern\"/><rect x=\"160\" y=\"340\" width=\"80\" height=\"20\" fill=\"#9933cc\" id=\"tail\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='blue'/><circle cx='200' cy='150' r='20' fill='yellow'/><path d='M175,150 Q200,50 225,150 Z' fill='green'/><ellipse cx='180' cy='250' rx='15' ry='10' fill='red'/></svg>",
     "report": {
-      "appearance": "体は楕円形でピンク、頭は四角形で紫色、目は青色の丸、口は曲線、角は二本の太く短い直線、模様はピンクの円、しっぽは四角形で紫色。幻想的な生き物。",
-      "reason": "環境の変化により、新たな生態系に適応するための進化が起こったため。",
-      "thought": "『夢の中の世界』"
+      "appearance": "エンティティBは、青い四角い体に黄色の丸い模様を持ち、顔は緑色の奇妙な形状で、赤色の楕円形の尾を持つ進化した生命体です。",
+      "reason": "エンティティBは、狩りや捕食から身を守るために、より頑丈な体と奇抜な模様を持つことで進化を遂げました。",
+      "thought": "『目立つ模様で敵を驚かせる！』"
     }
   }
 }
