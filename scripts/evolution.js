@@ -96,17 +96,25 @@ async function generateNextEvolution(currentState, history) {
     const prompt = generatePrompt(currentState, history);
     
     try {
-        const response = await openai.createCompletion({
-            model: "text-davinci-003",
-            prompt: prompt,
-            max_tokens: 1000,
+        const response = await openai.createChatCompletion({
+            model: "gpt-3.5-turbo",
+            messages: [
+                {
+                    role: "system",
+                    content: "You are an AI that generates the next evolution state in JSON format."
+                },
+                {
+                    role: "user",
+                    content: prompt
+                }
+            ],
             temperature: 0.7,
         });
         
         // AIの返答内容を出力
-        console.log('AI response:', response.data.choices[0].text);
+        console.log('AI response:', response.data.choices[0].message.content);
         
-        const nextState = JSON.parse(response.data.choices[0].text.trim());
+        const nextState = JSON.parse(response.data.choices[0].message.content.trim());
         
         // バリデーション
         validateState(nextState);
