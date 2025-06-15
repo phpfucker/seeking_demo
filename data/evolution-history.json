@@ -395,5 +395,24 @@
       }
     },
     "timestamp": 1749975384947
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#ffcc00'/><circle cx='200' cy='200' r='150' fill='#ff9900'/><ellipse cx='200' cy='200' rx='120' ry='50' fill='#cc6600'/><polygon points='100,200 150,300 250,300 300,200' fill='#993300'/><circle cx='120' cy='120' r='20' fill='#ffffff'/><circle cx='280' cy='120' r='20' fill='#ffffff'/><rect x='180' y='280' width='40' height='20' fill='#999999'/></svg>",
+      "report": {
+        "appearance": "オレンジ色の円形体に金色の四角形模様、白い目の付いた生物",
+        "reason": "環境への適応による進化",
+        "thought": "新たな姿で世界を探検する喜びを感じている"
+      }
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#3366cc'/><circle cx='200' cy='150' r='100' fill='#003399'/><path d='M100 250 Q150 200 200 250 Q250 200 300 250 Q250 300 200 250 150 200 200 150' fill='#6699cc'/><circle cx='160' cy='120' r='20' fill='#ffffff'/><circle cx='240' cy='120' r='20' fill='#ffffff'/><rect x='180' y='260' width='40' height='20' fill='#999999'/></svg>",
+      "report": {
+        "appearance": "青色の四角形体に水色の楕円模様、白い目と三角形の口を持つ生物",
+        "reason": "食物源の変化に伴う進化",
+        "thought": "新しい手足で素早く進化した環境で生き抜くことを楽しんでいる"
+      }
+    },
+    "timestamp": 1749975611737
   }
 ]
