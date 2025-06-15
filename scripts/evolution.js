@@ -94,11 +94,11 @@ async function generateNextEvolution(currentState, history) {
         
         // SVGコードをそのまま返す
         return { svg: response.data.choices[0].message.content };
-    } catch (error) {
+        } catch (error) {
         console.error('Evolution SVG generation failed:', error);
-        return null;
+            return null;
+        }
     }
-}
 
 // 状態のバリデーション
 function validateState(state) {
