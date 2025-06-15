@@ -1,18 +1,18 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"#ffcc00\"/><rect x=\"175\" y=\"200\" width=\"50\" height=\"100\" fill=\"#993300\"/><path d=\"M200 200 L150 300 L250 300 Z\" fill=\"#996633\"/><circle cx=\"180\" cy=\"180\" r=\"10\" fill=\"#000\"/><circle cx=\"220\" cy=\"180\" r=\"10\" fill=\"#000\"/><path d=\"M180 250 C180 270 220 270 220 250\" fill=\"none\" stroke=\"#000\" stroke-width=\"2\"/><circle cx=\"180\" cy=\"320\" r=\"5\" fill=\"#000\"/><circle cx=\"220\" cy=\"320\" r=\"5\" fill=\"#000\"/></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"#FF5733\" /><rect x=\"175\" y=\"200\" width=\"50\" height=\"150\" fill=\"#FFC300\" /><polygon points=\"200,50 250,150 150,150\" fill=\"#2E86C1\" /><circle cx=\"175\" cy=\"200\" r=\"15\" fill=\"#DAF7A6\" /><circle cx=\"225\" cy=\"200\" r=\"15\" fill=\"#DAF7A6\" /><path d=\"M175 350 Q200 400 225 350\" stroke=\"#000\" fill=\"none\" /><text x=\"200\" y=\"390\" font-family=\"Arial\" font-size=\"20\" fill=\"#000\" text-anchor=\"middle\">EntityA</text></svg>",
     "report": {
-      "appearance": "体は大きな円形で黄色、腕は四角形で茶色、脚は三角形で茶色。顔には黒い目が2つあり、口は無い。尻尾は変形した三角形、背中に模様がある。",
-      "reason": "エネルギー源の変化に伴い、生命体は大型でシンプルな形状に進化した。",
-      "thought": "『安定感』"
+      "appearance": "EntityAは、円形の赤い体に黄色い四角形の胴体、青い三角形の頭部、緑色の目を持つ。手は小さな円形であり、足は前方に伸びる形状をしている。しっぽは波状の曲線を描き、頭部に角がある。",
+      "reason": "EntityAは、周囲の環境への適応を目的として、運動能力を強化し、視覚を発達させるためにこの進化が起こった。",
+      "thought": "『成長と進化の喜び』"
     }
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"120\" fill=\"#3366cc\"/><rect x=\"180\" y=\"200\" width=\"40\" height=\"120\" fill=\"#ff6666\"/><path d=\"M200 200 L160 280 L240 280 Z\" fill=\"#996600\"/><circle cx=\"180\" cy=\"180\" r=\"10\" fill=\"#000\"/><circle cx=\"220\" cy=\"180\" r=\"10\" fill=\"#000\"/><path d=\"M180 240 C180 260 220 260 220 240\" fill=\"none\" stroke=\"#000\" stroke-width=\"2\"/><circle cx=\"180\" cy=\"320\" r=\"5\" fill=\"#000\"/><circle cx=\"220\" cy=\"320\" r=\"5\" fill=\"#000\"/></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"#8E44AD\" /><circle cx=\"150\" cy=\"150\" r=\"50\" fill=\"#3498DB\" /><circle cx=\"250\" cy=\"150\" r=\"50\" fill=\"#3498DB\" /><circle cx=\"150\" cy=\"250\" r=\"50\" fill=\"#3498DB\" /><circle cx=\"250\" cy=\"250\" r=\"50\" fill=\"#3498DB\" /><circle cx=\"175\" cy=\"175\" r=\"20\" fill=\"#F4D03F\" /><circle cx=\"225\" cy=\"175\" r=\"20\" fill=\"#F4D03F\" /><circle cx=\"175\" cy=\"225\" r=\"20\" fill=\"#F4D03F\" /><circle cx=\"225\" cy=\"225\" r=\"20\" fill=\"#F4D03F\" /><path d=\"M200 300 Q150 350 100 300 Q150 350 200 300 Q250 350 300 300 Q250 350 200 300\" stroke=\"#000\" fill=\"none\" /><text x=\"200\" y=\"390\" font-family=\"Arial\" font-size=\"20\" fill=\"#000\" text-anchor=\"middle\">EntityB</text></svg>",
     "report": {
-      "appearance": "体は大きな円形で青色、腕は四角形で赤色、脚は三角形で赤色。顔には黒い目が2つあり、口は無い。尻尾は変形した三角形、背中に模様がある。",
-      "reason": "環境の変化により、生命体はよりスリムでスピーディーな形状に進化した。",
-      "thought": "『自由』"
+      "appearance": "EntityBは、紫色の四角形の体に青い円形の頭部と4つの腕と脚を持つ。黄色い目が4つあり、それぞれの手と足には黄色い円形がある。しっぽは縦に長く伸び、体には黄色い模様がある。",
+      "reason": "EntityBは、生存競争において他の生物との戦闘能力を高めるため、複数の腕と脚を持つことで進化した。",
+      "thought": "『多足の強さ』"
     }
   }
 }
