@@ -414,5 +414,24 @@
       }
     },
     "timestamp": 1749975611737
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#FF5733'/><circle cx='200' cy='200' r='100' fill='#FFD700'/><polygon points='100,200 200,300 300,200' fill='#6C3483'/><ellipse cx='200' cy='150' rx='50' ry='30' fill='#45B39D'/><circle cx='140' cy='250' r='20' fill='#FF5733'/><circle cx='260' cy='250' r='20' fill='#FF5733'/></svg>",
+      "report": {
+        "appearance": "多角的な体の形を持ち、赤い体と黄色い頭、青い模様が特徴の生物",
+        "reason": "環境の変化により、高い識別性が生存に有利であったため",
+        "thought": "新たな体の形や色により、自己表現も豊かになった"
+      }
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#45B39D'/><circle cx='200' cy='200' r='100' fill='#FF5733'/><polygon points='100,200 200,300 300,200' fill='#6C3483'/><ellipse cx='200' cy='150' rx='50' ry='30' fill='#FFD700'/><circle cx='140' cy='250' r='20' fill='#FF5733'/><circle cx='260' cy='250' r='20' fill='#FF5733'/></svg>",
+      "report": {
+        "appearance": "青い体と赤い頭、黄色い模様が特徴の生物で、entityAと対照的な色合い",
+        "reason": "繁殖相手の識別や環境適応のため、色彩パターンが逆転した",
+        "thought": "進化の過程で様々な色の組み合わせを試した結果、新たな個体として生まれ変わった"
+      }
+    },
+    "timestamp": 1749976341642
   }
 ]

@@ -1,18 +1,18 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#FF5733'/><circle cx='200' cy='200' r='100' fill='#FFD700'/><polygon points='100,200 200,300 300,200' fill='#6C3483'/><ellipse cx='200' cy='150' rx='50' ry='30' fill='#45B39D'/><circle cx='140' cy='250' r='20' fill='#FF5733'/><circle cx='260' cy='250' r='20' fill='#FF5733'/></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"#ffcc00\" id=\"body\"/><ellipse cx=\"150\" cy=\"170\" rx=\"30\" ry=\"20\" fill=\"#993300\" id=\"face\"/><line x1=\"130\" y1=\"190\" x2=\"170\" y2=\"190\" stroke=\"#993300\" stroke-width=\"2\" id=\"mouth\"/><circle cx=\"140\" cy=\"160\" r=\"5\" fill=\"#ffffff\" id=\"eye1\"/><circle cx=\"160\" cy=\"160\" r=\"5\" fill=\"#ffffff\" id=\"eye2\"/><rect x=\"140\" y=\"210\" width=\"20\" height=\"10\" fill=\"#ffcc00\" id=\"arm1\"/><rect x=\"240\" y=\"210\" width=\"20\" height=\"10\" fill=\"#ffcc00\" id=\"arm2\"/><rect x=\"180\" y=\"250\" width=\"10\" height=\"40\" fill=\"#ffcc00\" id=\"leg1\"/><rect x=\"210\" y=\"250\" width=\"10\" height=\"40\" fill=\"#ffcc00\" id=\"leg2\"/></svg>",
     "report": {
-      "appearance": "多角的な体の形を持ち、赤い体と黄色い頭、青い模様が特徴の生物",
-      "reason": "環境の変化により、高い識別性が生存に有利であったため",
-      "thought": "新たな体の形や色により、自己表現も豊かになった"
+      "appearance": "EntityA has evolved into a creature with a large circular body, oval-shaped face, two round eyes, and rectangular arms and legs.",
+      "reason": "Evolution is driven by the need for better stability and mobility.",
+      "thought": "Feeling stronger and more balanced in this new form."
     }
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#45B39D'/><circle cx='200' cy='200' r='100' fill='#FF5733'/><polygon points='100,200 200,300 300,200' fill='#6C3483'/><ellipse cx='200' cy='150' rx='50' ry='30' fill='#FFD700'/><circle cx='140' cy='250' r='20' fill='#FF5733'/><circle cx='260' cy='250' r='20' fill='#FF5733'/></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"150\" width=\"200\" height=\"200\" fill=\"#6600cc\" id=\"body\"/><ellipse cx=\"200\" cy=\"130\" rx=\"40\" ry=\"30\" fill=\"#ffcc00\" id=\"face\"/><path d=\"M170 180 Q200 220 230 180\" fill=\"none\" stroke=\"#ffcc00\" stroke-width=\"2\" id=\"mouth\"/><circle cx=\"180\" cy=\"120\" r=\"7\" fill=\"#ffffff\" id=\"eye1\"/><circle cx=\"220\" cy=\"120\" r=\"7\" fill=\"#ffffff\" id=\"eye2\"/><polygon points=\"120,200 100,250 150,250\" fill=\"#6600cc\" id=\"horn1\"/><polygon points=\"280,200 300,250 250,250\" fill=\"#6600cc\" id=\"horn2\"/><rect x=\"150\" y=\"250\" width=\"20\" height=\"10\" fill=\"#6600cc\" id=\"leg1\"/><rect x=\"230\" y=\"250\" width=\"20\" height=\"10\" fill=\"#6600cc\" id=\"leg2\"/></svg>",
     "report": {
-      "appearance": "青い体と赤い頭、黄色い模様が特徴の生物で、entityAと対照的な色合い",
-      "reason": "繁殖相手の識別や環境適応のため、色彩パターンが逆転した",
-      "thought": "進化の過程で様々な色の組み合わせを試した結果、新たな個体として生まれ変わった"
+      "appearance": "EntityB has transformed into a creature with a rectangular body, oval face, curved mouth, and horned head.",
+      "reason": "Evolution is influenced by the need for improved defense and communication signals.",
+      "thought": "Feeling more confident and assertive with these new horns."
     }
   }
 }
