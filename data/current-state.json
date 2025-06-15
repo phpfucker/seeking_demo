@@ -1,18 +1,18 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"#FF5733\" /><rect x=\"175\" y=\"200\" width=\"50\" height=\"150\" fill=\"#FFC300\" /><polygon points=\"200,50 250,150 150,150\" fill=\"#2E86C1\" /><circle cx=\"175\" cy=\"200\" r=\"15\" fill=\"#DAF7A6\" /><circle cx=\"225\" cy=\"200\" r=\"15\" fill=\"#DAF7A6\" /><path d=\"M175 350 Q200 400 225 350\" stroke=\"#000\" fill=\"none\" /><text x=\"200\" y=\"390\" font-family=\"Arial\" font-size=\"20\" fill=\"#000\" text-anchor=\"middle\">EntityA</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='purple'/><rect x='150' y='150' width='100' height='100' fill='yellow'/><polygon points='200,50 250,150 150,150' fill='green'/><line x1='100' y1='300' x2='300' y2='300' stroke='blue' stroke-width='10'/></svg>",
     "report": {
-      "appearance": "EntityAは、円形の赤い体に黄色い四角形の胴体、青い三角形の頭部、緑色の目を持つ。手は小さな円形であり、足は前方に伸びる形状をしている。しっぽは波状の曲線を描き、頭部に角がある。",
-      "reason": "EntityAは、周囲の環境への適応を目的として、運動能力を強化し、視覚を発達させるためにこの進化が起こった。",
-      "thought": "『成長と進化の喜び』"
+      "appearance": "entityAは紫色の丸い体に黄色の四角い模様、緑色の三角形、青色の太い線が特徴的な生命体です。",
+      "reason": "進化の理由は、周囲の環境に合わせてより派手な模様と色彩を身につけることで、仲間とのコミュニケーションや捕食の効率を高めるためです。",
+      "thought": "『変化が命を彩る』"
     }
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"#8E44AD\" /><circle cx=\"150\" cy=\"150\" r=\"50\" fill=\"#3498DB\" /><circle cx=\"250\" cy=\"150\" r=\"50\" fill=\"#3498DB\" /><circle cx=\"150\" cy=\"250\" r=\"50\" fill=\"#3498DB\" /><circle cx=\"250\" cy=\"250\" r=\"50\" fill=\"#3498DB\" /><circle cx=\"175\" cy=\"175\" r=\"20\" fill=\"#F4D03F\" /><circle cx=\"225\" cy=\"175\" r=\"20\" fill=\"#F4D03F\" /><circle cx=\"175\" cy=\"225\" r=\"20\" fill=\"#F4D03F\" /><circle cx=\"225\" cy=\"225\" r=\"20\" fill=\"#F4D03F\" /><path d=\"M200 300 Q150 350 100 300 Q150 350 200 300 Q250 350 300 300 Q250 350 200 300\" stroke=\"#000\" fill=\"none\" /><text x=\"200\" y=\"390\" font-family=\"Arial\" font-size=\"20\" fill=\"#000\" text-anchor=\"middle\">EntityB</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='150' ry='100' fill='orange'/><path d='M100 100 L200 50 L300 100 Z' fill='pink'/><circle cx='150' cy='250' r='50' fill='cyan'/><line x1='300' y1='200' x2='350' y2='250' stroke='red' stroke-width='5'/></svg>",
     "report": {
-      "appearance": "EntityBは、紫色の四角形の体に青い円形の頭部と4つの腕と脚を持つ。黄色い目が4つあり、それぞれの手と足には黄色い円形がある。しっぽは縦に長く伸び、体には黄色い模様がある。",
-      "reason": "EntityBは、生存競争において他の生物との戦闘能力を高めるため、複数の腕と脚を持つことで進化した。",
-      "thought": "『多足の強さ』"
+      "appearance": "entityBはオレンジ色の楕円形の体にピンクの不規則な形、青緑色の丸い模様、赤い太い線が特徴的な生命体です。",
+      "reason": "進化の理由は、新たな生息地での生存競争において、より目立つ模様や体の形状を持つことで、敵からの警告や仲間との視覚的コミュニケーションを強化するためです。",
+      "thought": "『輝く未来への挑戦』"
     }
   }
 }
