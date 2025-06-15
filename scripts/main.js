@@ -6,23 +6,12 @@
  * @description 生命体の描画と進化レポートの表示を管理する
  */
 
-// キャンバスとコンテキストの設定
-const canvas = document.getElementById('lifeCanvas');
-const ctx = canvas.getContext('2d');
-
 // 進化履歴を保存する配列
 let evolutionHistory = [];
 let currentState = null;
 
 let svgAnimationFrame = null;
 let svgAnimationAngle = 0;
-
-// キャンバスのサイズを設定
-function resizeCanvas() {
-    const container = canvas.parentElement;
-    canvas.width = container.clientWidth;
-    canvas.height = 400;
-}
 
 // 現在の状態を読み込む（current-state.jsonが優先、なければinitial-state.json）
 async function loadCurrentState() {
@@ -53,27 +42,6 @@ async function loadEvolutionHistory() {
         console.error('Error loading evolution history:', error);
         return [];
     }
-}
-
-// セルを描画する
-function drawCell(cell) {
-    ctx.fillStyle = `hsl(${cell.color_h}, 80%, 60%)`;
-    ctx.beginPath();
-    ctx.ellipse(
-        cell.x,
-        cell.y,
-        cell.radius * (1 + cell.shapeFactor),
-        cell.radius * (1 - cell.shapeFactor),
-        0,
-        0,
-        Math.PI * 2
-    );
-    ctx.fill();
-}
-
-// エンティティを描画する
-function drawEntity(cells) {
-    cells.forEach(drawCell);
 }
 
 // SVGコードを描画する
@@ -223,7 +191,6 @@ async function initialize() {
 
 // ウィンドウのリサイズ時にキャンバスを調整
 window.addEventListener('resize', () => {
-    resizeCanvas();
     drawCurrentState();
 });
 
@@ -236,7 +203,6 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 // 初期化
-resizeCanvas();
 initialize();
 
 // ページ遷移や再描画時にアニメーション停止
