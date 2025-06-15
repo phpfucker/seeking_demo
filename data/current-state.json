@@ -1,3 +1,18 @@
 {
-  "svg": "```svg\n<svg width=\"400\" height=\"400\" xmlns=\"http://www.w3.org/2000/svg\">\n  <!-- 魚の頭 -->\n  <ellipse cx=\"200\" cy=\"100\" rx=\"80\" ry=\"60\" fill=\"blue\" />\n  <!-- 馬の足 -->\n  <rect x=\"150\" y=\"200\" width=\"30\" height=\"100\" fill=\"brown\" />\n  <rect x=\"220\" y=\"200\" width=\"30\" height=\"100\" fill=\"brown\" />\n  <!-- シマウマの模様 -->\n  <circle cx=\"200\" cy=\"100\" r=\"50\" fill=\"black\" />\n  <circle cx=\"170\" cy=\"130\" r=\"20\" fill=\"white\" />\n  <circle cx=\"230\" cy=\"130\" r=\"20\" fill=\"white\" />\n  <!-- ピカチュウのしっぽ -->\n  <path d=\"M220 300 Q250 310 220 320\" stroke=\"yellow\" stroke-width=\"10\" fill=\"none\" />\n  <path d=\"M220 320 Q250 330 220 340\" stroke=\"yellow\" stroke-width=\"10\" fill=\"none\" />\n</svg>\n```"
+  "entityA": {
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><circle cx='200' cy='200' r='150' fill='purple'/><rect x='100' y='100' width='200' height='200' fill='pink'/><polygon points='200,50 250,150 150,150' fill='orange'/><ellipse cx='200' cy='300' rx='100' ry='50' fill='yellow'/></svg>",
+    "report": {
+      "appearance": "紫色の円形の体に、ピンク色の四角形の胴体、オレンジ色の三角形の頭、黄色の楕円形の尾を持つ生物",
+      "reason": "進化の過程で異なる生物の特徴が混ざり合い、新たな形態が生まれた",
+      "thought": "新しい体の使い方や適応について考えている"
+    }
+  },
+  "entityB": {
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><rect x='50' y='50' width='300' height='300' fill='green'/><circle cx='200' cy='200' r='150' fill='blue'/><polygon points='100,200 200,100 300,200' fill='red'/><ellipse cx='200' cy='300' rx='100' ry='50' fill='yellow'/></svg>",
+    "report": {
+      "appearance": "緑色の四角形の体に、青色の円形の胴体、赤色の三角形の頭、黄色の楕円形の尾を持つ生物",
+      "reason": "進化の過程で異なる生物の特徴が融合し、新たな外観が生まれた",
+      "thought": "新しい姿に適応する方法を模索している"
+    }
+  }
 }
