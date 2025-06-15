@@ -54,74 +54,48 @@ async function saveCurrentState(state) {
     );
 }
 
-// プロンプトを生成する
+// SVG進化体生成用プロンプト
 function generatePrompt(currentState, history) {
-    return `以下の2体の膝形生命体の現在の状態と進化履歴に基づいて、次の進化状態を生成してください。
+    return `あなたは想像上の生物の進化をSVG形式で生成するAIです。
+以下の条件を満たすSVGコードを生成してください。
 
-現在の状態:
-${JSON.stringify(currentState, null, 2)}
+- 地球上に存在しない生物（例：馬の足＋魚の頭＋シマウマの模様＋ピカチュウのしっぽ等、複数特徴の合成）
+- 色、大きさ、パーツの数、形状は毎回大きく変化してよい
+- SVGは400x400の範囲で描画
+- 例: <svg width="400" height="400" ...>...</svg>
+- できるだけ生物的・有機的な形状を意識する
+- 進化ごとに全体が大きく変化する
 
-進化履歴:
-${JSON.stringify(history, null, 2)}
-
-以下の形式でJSONを返してください:
-{
-  "entityA": {
-    "cells": [
-      {"x": 数値, "y": 数値, "radius": 数値, "color_h": 数値, "shapeFactor": 数値},
-      ...
-    ],
-    "report": {
-      "appearance": "現在の姿の説明",
-      "reason": "進化の理由",
-      "thought": "内面の描写"
-    }
-  },
-  "entityB": {
-    // entityAと同じ形式
-  }
-}
-
-注意:
-- x, yは0-400の範囲
-- radiusは5-20の範囲
-- color_hは0-360の範囲
-- shapeFactorは0-1の範囲
-- 2体の生命体は互いに影響を与え合う
-- 進化は自然で意味のある変化であること`;
+SVGコードのみを返してください。`;
 }
 
 // 次の進化状態を生成する
 async function generateNextEvolution(currentState, history) {
     const prompt = generatePrompt(currentState, history);
-    
     try {
         const response = await openai.createChatCompletion({
             model: "gpt-3.5-turbo",
             messages: [
                 {
                     role: "system",
-                    content: "You are an AI that generates the next evolution state in JSON format."
+                    content: "You are an AI that generates the next evolution state as SVG code."
                 },
                 {
                     role: "user",
                     content: prompt
                 }
             ],
-            temperature: 0.7,
+            temperature: 0.8,
+            max_tokens: 1500
         });
         
         // AIの返答内容を出力
-        console.log('AI response:', response.data.choices[0].message.content);
+        console.log('AI SVG response:', response.data.choices[0].message.content);
         
-        const nextState = JSON.parse(response.data.choices[0].message.content.trim());
-        
-        // バリデーション
-        validateState(nextState);
-        
-        return nextState;
+        // SVGコードをそのまま返す
+        return { svg: response.data.choices[0].message.content };
     } catch (error) {
-        console.error('Evolution generation failed:', error);
+        console.error('Evolution SVG generation failed:', error);
         return null;
     }
 }
@@ -151,9 +125,10 @@ async function main() {
         const nextState = await generateNextEvolution(currentState, history);
         
         if (nextState) {
-            // 現在の状態を履歴に追加
+            // 現在の状態を履歴に追加（SVGも含める）
             history.push({
                 ...currentState,
+                svg: currentState.svg,
                 timestamp: Date.now()
             });
             

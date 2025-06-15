@@ -14,6 +14,9 @@ const ctx = canvas.getContext('2d');
 let evolutionHistory = [];
 let currentState = null;
 
+let svgAnimationFrame = null;
+let svgAnimationAngle = 0;
+
 // キャンバスのサイズを設定
 function resizeCanvas() {
     const container = canvas.parentElement;
@@ -81,7 +84,14 @@ function displayReport(entity, entityName, timestamp = null) {
     
     const timeText = timestamp ? new Date(timestamp).toLocaleString('ja-JP') : '初期状態';
     
+    // SVGサムネイルを追加
+    let svgHtml = '';
+    if (entity.svg) {
+        svgHtml = `<div class="report-svg-thumb">${entity.svg}</div>`;
+    }
+    
     reportElement.innerHTML = `
+        ${svgHtml}
         <h4>${entityName} - ${timeText}</h4>
         <h3>現在の姿</h3>
         <p>${report.appearance}</p>
@@ -105,7 +115,7 @@ function displayAllReports() {
         reportsList.appendChild(displayReport(currentState.entityB, 'Entity B'));
     }
     
-    // 進化履歴を新しい順に表示
+    // 進化履歴を新しい順に表示（降順）
     evolutionHistory.slice().reverse().forEach(step => {
         reportsList.appendChild(displayReport(step.entityA, 'Entity A', step.timestamp));
         reportsList.appendChild(displayReport(step.entityB, 'Entity B', step.timestamp));
@@ -162,15 +172,52 @@ async function executeEvolution() {
     }
 }
 
+function startSVGAnimation() {
+    stopSVGAnimation();
+    const svg = document.querySelector('#svgContainer svg');
+    if (!svg) return;
+    svgAnimationAngle = 0;
+    function animate() {
+        svgAnimationAngle += 0.5;
+        const angle = Math.sin(svgAnimationAngle * Math.PI / 90) * 5; // -5〜+5度でゆらゆら
+        svg.setAttribute('style', `transform: rotate(${angle}deg); transition: transform 0.1s linear;`);
+        svgAnimationFrame = requestAnimationFrame(animate);
+    }
+    animate();
+}
+
+function stopSVGAnimation() {
+    if (svgAnimationFrame) {
+        cancelAnimationFrame(svgAnimationFrame);
+        svgAnimationFrame = null;
+    }
+}
+
+// drawSVG内でアニメーション開始
+function drawSVG(svgCode) {
+    const svgContainer = document.getElementById('svgContainer');
+    svgContainer.innerHTML = svgCode;
+    startSVGAnimation();
+}
+
 // 現在の状態を描画する
 function drawCurrentState() {
-    // キャンバスをクリア
-    ctx.clearRect(0, 0, canvas.width, canvas.height);
-    
-    if (currentState) {
-        // エンティティを描画
-        drawEntity(currentState.entityA.cells);
-        drawEntity(currentState.entityB.cells);
+    const svgContainer = document.getElementById('svgContainer');
+    // SVGがあればSVGを描画、なければCanvas描画
+    if (currentState && currentState.svg) {
+        svgContainer.style.display = 'block';
+        drawSVG(currentState.svg);
+        // Canvasは非表示
+        canvas.style.display = 'none';
+    } else {
+        svgContainer.style.display = 'none';
+        canvas.style.display = 'block';
+        // キャンバスをクリア
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        if (currentState) {
+            drawEntity(currentState.entityA.cells);
+            drawEntity(currentState.entityB.cells);
+        }
     }
 }
 
@@ -212,4 +259,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // 初期化
 resizeCanvas();
-initialize(); 
+initialize();
+
+// ページ遷移や再描画時にアニメーション停止
+window.addEventListener('beforeunload', stopSVGAnimation); 
