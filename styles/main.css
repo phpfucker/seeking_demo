@@ -48,6 +48,11 @@ main {
 
 /* キャンバスコンテナ */
 .canvas-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
     background-color: #fff;
     padding: 20px;
     border-radius: 8px;
@@ -59,6 +64,15 @@ main {
     height: 400px;
     background-color: #f8f9fa;
     border-radius: 4px;
+}
+
+#svgContainerA, #svgContainerB {
+    width: 320px;
+    height: 320px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: none;
 }
 
 .controls {
@@ -155,4 +169,17 @@ footer {
     padding: 20px;
     color: #666;
     font-size: 0.9em;
+}
+
+@media (max-width: 700px) {
+    .canvas-container {
+        flex-direction: column;
+        gap: 20px;
+    }
+    #svgContainerA, #svgContainerB {
+        width: 90vw;
+        height: 90vw;
+        max-width: 320px;
+        max-height: 320px;
+    }
 } 
