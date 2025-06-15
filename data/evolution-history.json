@@ -376,5 +376,24 @@
       }
     },
     "timestamp": 1749974653664
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><rect x='0' y='0' width='400' height='400' fill='lightblue'/><circle cx='200' cy='200' r='150' fill='orange'/><ellipse cx='200' cy='200' rx='120' ry='180' fill='pink'/><rect x='150' y='250' width='100' height='20' fill='gray'/><rect x='190' y='270' width='20' height='100' fill='gray'/><circle cx='180' cy='220' r='10' fill='black'/><circle cx='220' cy='220' r='10' fill='black'/><text x='50' y='30' font-family='Arial' font-size='20' fill='black'>EntityA</text></svg>",
+      "report": {
+        "appearance": "現在の姿は、オレンジ色の円形の頭部とピンクの楕円形の体を持ち、灰色の四角い手足が4本あります。目は黒い円形で、顔は優しそうな印象です。",
+        "reason": "進化の理由は、新たな環境への適応と生存競争によるもので、地球外の未知の環境において効率的に生活するために体の形状や色彩が変化したと考えられます。",
+        "thought": "内面には好奇心と探究心があり、新たな環境への挑戦を楽しんでいます。"
+      }
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><rect x='0' y='0' width='400' height='400' fill='lightgreen'/><rect x='180' y='50' width='40' height='100' fill='brown'/><rect x='180' y='250' width='40' height='100' fill='brown'/><circle cx='200' cy='200' r='150' fill='yellow'/><ellipse cx='200' cy='200' rx='120' ry='180' fill='purple'/><circle cx='180' cy='150' r='30' fill='black'/><circle cx='220' cy='150' r='30' fill='black'/><text x='50' y='30' font-family='Arial' font-size='20' fill='black'>EntityB</text></svg>",
+      "report": {
+        "appearance": "現在の姿は、黄色の円形の頭部と紫色の楕円形の体を持ち、茶色の四角い手足が4本あります。目は黒い円形で、顔は力強さを感じさせます。",
+        "reason": "進化の理由は、食物の入手方法や群れの中での地位確立のために体の形状や色彩が変化したと考えられます。",
+        "thought": "内面にはリーダーシップと協調性があり、群れの中での調和を大切にしています。"
+      }
+    },
+    "timestamp": 1749975384947
   }
 ]

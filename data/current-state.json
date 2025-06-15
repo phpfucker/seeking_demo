@@ -1,18 +1,18 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><rect x='0' y='0' width='400' height='400' fill='lightblue'/><circle cx='200' cy='200' r='150' fill='orange'/><ellipse cx='200' cy='200' rx='120' ry='180' fill='pink'/><rect x='150' y='250' width='100' height='20' fill='gray'/><rect x='190' y='270' width='20' height='100' fill='gray'/><circle cx='180' cy='220' r='10' fill='black'/><circle cx='220' cy='220' r='10' fill='black'/><text x='50' y='30' font-family='Arial' font-size='20' fill='black'>EntityA</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#ffcc00'/><circle cx='200' cy='200' r='150' fill='#ff9900'/><ellipse cx='200' cy='200' rx='120' ry='50' fill='#cc6600'/><polygon points='100,200 150,300 250,300 300,200' fill='#993300'/><circle cx='120' cy='120' r='20' fill='#ffffff'/><circle cx='280' cy='120' r='20' fill='#ffffff'/><rect x='180' y='280' width='40' height='20' fill='#999999'/></svg>",
     "report": {
-      "appearance": "現在の姿は、オレンジ色の円形の頭部とピンクの楕円形の体を持ち、灰色の四角い手足が4本あります。目は黒い円形で、顔は優しそうな印象です。",
-      "reason": "進化の理由は、新たな環境への適応と生存競争によるもので、地球外の未知の環境において効率的に生活するために体の形状や色彩が変化したと考えられます。",
-      "thought": "内面には好奇心と探究心があり、新たな環境への挑戦を楽しんでいます。"
+      "appearance": "オレンジ色の円形体に金色の四角形模様、白い目の付いた生物",
+      "reason": "環境への適応による進化",
+      "thought": "新たな姿で世界を探検する喜びを感じている"
     }
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><rect x='0' y='0' width='400' height='400' fill='lightgreen'/><rect x='180' y='50' width='40' height='100' fill='brown'/><rect x='180' y='250' width='40' height='100' fill='brown'/><circle cx='200' cy='200' r='150' fill='yellow'/><ellipse cx='200' cy='200' rx='120' ry='180' fill='purple'/><circle cx='180' cy='150' r='30' fill='black'/><circle cx='220' cy='150' r='30' fill='black'/><text x='50' y='30' font-family='Arial' font-size='20' fill='black'>EntityB</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#3366cc'/><circle cx='200' cy='150' r='100' fill='#003399'/><path d='M100 250 Q150 200 200 250 Q250 200 300 250 Q250 300 200 250 150 200 200 150' fill='#6699cc'/><circle cx='160' cy='120' r='20' fill='#ffffff'/><circle cx='240' cy='120' r='20' fill='#ffffff'/><rect x='180' y='260' width='40' height='20' fill='#999999'/></svg>",
     "report": {
-      "appearance": "現在の姿は、黄色の円形の頭部と紫色の楕円形の体を持ち、茶色の四角い手足が4本あります。目は黒い円形で、顔は力強さを感じさせます。",
-      "reason": "進化の理由は、食物の入手方法や群れの中での地位確立のために体の形状や色彩が変化したと考えられます。",
-      "thought": "内面にはリーダーシップと協調性があり、群れの中での調和を大切にしています。"
+      "appearance": "青色の四角形体に水色の楕円模様、白い目と三角形の口を持つ生物",
+      "reason": "食物源の変化に伴う進化",
+      "thought": "新しい手足で素早く進化した環境で生き抜くことを楽しんでいる"
     }
   }
 }
