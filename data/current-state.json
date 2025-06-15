@@ -1,18 +1,18 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='100' fill='purple' class='body'/><circle cx='200' cy='100' r='30' fill='yellow' class='head'/><line x1='175' y1='150' x2='175' y2='250' stroke='black' stroke-width='5' class='left-arm'/><line x1='225' y1='150' x2='225' y2='250' stroke='black' stroke-width='5' class='right-arm'/><line x1='175' y1='250' x2='150' y2='300' stroke='black' stroke-width='5' class='left-leg'/><line x1='225' y1='250' x2='250' y2='300' stroke='black' stroke-width='5' class='right-leg'/></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"purple\"/><rect x=\"150\" y=\"150\" width=\"100\" height=\"100\" fill=\"pink\"/><rect x=\"180\" y=\"250\" width=\"40\" height=\"50\" fill=\"yellow\"/><polygon points=\"160,150 240,150 200,100\" fill=\"orange\"/><circle cx=\"180\" cy=\"180\" r=\"10\" fill=\"black\"/><circle cx=\"220\" cy=\"180\" r=\"10\" fill=\"black\"/><text x=\"190\" y=\"220\" font-size=\"20\" fill=\"black\">A</text></svg>",
     "report": {
-      "appearance": "The creature has a purple body with a yellow head. It has distinct arms and legs.",
-      "reason": "Evolution towards a more balanced and stable form for enhanced survival.",
-      "thought": "Feeling stronger and more capable in this new form."
+      "appearance": "entityAは、紫色の大きな円形の体にピンクの四角い身体を持ち、黄色い手足を持つ姿をしています。顔はオレンジの三角形の口を持ち、黒い目が２つあります。背中には大きな文字Aが書かれています。",
+      "reason": "この進化は、entityAが新たな環境に適応するために、より鮮やかで目立つ姿に変化したためです。",
+      "thought": "『遊び心』"
     }
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='100' fill='blue' class='body'/><circle cx='200' cy='100' r='40' fill='green' class='head'/><line x1='150' y1='150' x2='130' y2='220' stroke='black' stroke-width='8' class='left-arm'/><line x1='250' y1='150' x2='270' y2='220' stroke='black' stroke-width='8' class='right-arm'/><line x1='150' y1='250' x2='100' y2='300' stroke='black' stroke-width='8' class='left-leg'/><line x1='250' y1='250' x2='300' y2='300' stroke='black' stroke-width='8' class='right-leg'/></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"120\" fill=\"green\"/><polygon points=\"180,150 220,150 200,100\" fill=\"blue\"/><rect x=\"180\" y=\"250\" width=\"40\" height=\"50\" fill=\"yellow\"/><circle cx=\"180\" cy=\"180\" r=\"10\" fill=\"black\"/><circle cx=\"220\" cy=\"180\" r=\"10\" fill=\"black\"/><text x=\"190\" y=\"220\" font-size=\"20\" fill=\"black\">B</text></svg>",
     "report": {
-      "appearance": "The creature now has a blue body and a larger green head. Its arms and legs are more robust.",
-      "reason": "Adaptation to a more competitive environment, requiring increased strength and agility.",
-      "thought": "Feeling more powerful and ready for challenges in this evolved state."
+      "appearance": "entityBは、緑色の中サイズの円形の体に、青色の三角形の口を持つ姿をしています。手足は黄色で、顔には黒い目が２つあります。背中には大きな文字Bが書かれています。",
+      "reason": "entityBは、狩猟の効率を上げるために、より俊敏な外見に進化しました。",
+      "thought": "『勝利への渇望』"
     }
   }
 }
