@@ -54,19 +54,38 @@ async function saveCurrentState(state) {
     );
 }
 
-// SVG進化体生成用プロンプト
+// 2体分のSVG＋レポート生成用プロンプト
 function generatePrompt(currentState, history) {
-    return `あなたは想像上の生物の進化をSVG形式で生成するAIです。
-以下の条件を満たすSVGコードを生成してください。
+    return `あなたは2体の想像上の生物（entityA, entityB）の進化をSVG形式と進化レポートで生成するAIです。
+以下の条件を満たすJSONを生成してください。
 
-- 地球上に存在しない生物（例：馬の足＋魚の頭＋シマウマの模様＋ピカチュウのしっぽ等、複数特徴の合成）
+- entityA, entityBそれぞれにSVGコード（<svg ...>...</svg>）を生成
+- 各SVGは400x400の範囲で描画
+- 各entityに進化レポート（appearance, reason, thought）を付与
+- SVGは地球上に存在しない生物（例：馬の足＋魚の頭＋シマウマの模様＋ピカチュウのしっぽ等、複数特徴の合成）
 - 色、大きさ、パーツの数、形状は毎回大きく変化してよい
-- SVGは400x400の範囲で描画
-- 例: <svg width="400" height="400" ...>...</svg>
 - できるだけ生物的・有機的な形状を意識する
 - 進化ごとに全体が大きく変化する
 
-SVGコードのみを返してください。`;
+以下のJSON形式で返してください（マークダウンや説明文は不要）：
+{
+  "entityA": {
+    "svg": "<svg ...>...</svg>",
+    "report": {
+      "appearance": "現在の姿の説明",
+      "reason": "進化の理由",
+      "thought": "内面の描写"
+    }
+  },
+  "entityB": {
+    "svg": "<svg ...>...</svg>",
+    "report": {
+      "appearance": "現在の姿の説明",
+      "reason": "進化の理由",
+      "thought": "内面の描写"
+    }
+  }
+}`;
 }
 
 // 次の進化状態を生成する
@@ -78,7 +97,7 @@ async function generateNextEvolution(currentState, history) {
             messages: [
                 {
                     role: "system",
-                    content: "You are an AI that generates the next evolution state as SVG code."
+                    content: "You are an AI that generates the next evolution state for two entities as JSON (SVG+report)."
                 },
                 {
                     role: "user",
@@ -86,19 +105,22 @@ async function generateNextEvolution(currentState, history) {
                 }
             ],
             temperature: 0.8,
-            max_tokens: 1500
+            max_tokens: 2000
         });
         
         // AIの返答内容を出力
-        console.log('AI SVG response:', response.data.choices[0].message.content);
-        
-        // SVGコードをそのまま返す
-        return { svg: response.data.choices[0].message.content };
-        } catch (error) {
-        console.error('Evolution SVG generation failed:', error);
-            return null;
-        }
+        let aiText = response.data.choices[0].message.content;
+        console.log('AI JSON response:', aiText);
+        // 不要なマークダウン記法を除去
+        aiText = aiText.replace(/```json|```svg|```/g, '').trim();
+        // JSONパース
+        const nextState = JSON.parse(aiText);
+        return nextState;
+    } catch (error) {
+        console.error('Evolution JSON generation failed:', error);
+        return null;
     }
+}
 
 // 状態のバリデーション
 function validateState(state) {

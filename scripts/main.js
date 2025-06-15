@@ -76,20 +76,32 @@ function drawEntity(cells) {
     cells.forEach(drawCell);
 }
 
+// SVGコードを描画する
+function drawSVG(svgCode, containerId) {
+    const svgContainer = document.getElementById(containerId);
+    svgContainer.innerHTML = svgCode;
+}
+
+// 現在の状態を描画する
+function drawCurrentState() {
+    // entityA, entityBのSVGをそれぞれ描画
+    if (currentState && currentState.entityA && currentState.entityB) {
+        drawSVG(currentState.entityA.svg, 'svgContainerA');
+        drawSVG(currentState.entityB.svg, 'svgContainerB');
+    }
+}
+
 // 進化レポートを表示する
 function displayReport(entity, entityName, timestamp = null) {
+    if (!entity || !entity.report) return document.createElement('div');
     const report = entity.report;
     const reportElement = document.createElement('div');
     reportElement.className = 'report-card';
-    
     const timeText = timestamp ? new Date(timestamp).toLocaleString('ja-JP') : '初期状態';
-    
-    // SVGサムネイルを追加
     let svgHtml = '';
     if (entity.svg) {
         svgHtml = `<div class="report-svg-thumb">${entity.svg}</div>`;
     }
-    
     reportElement.innerHTML = `
         ${svgHtml}
         <h4>${entityName} - ${timeText}</h4>
@@ -100,7 +112,6 @@ function displayReport(entity, entityName, timestamp = null) {
         <h3>内面</h3>
         <p>${report.thought}</p>
     `;
-    
     return reportElement;
 }
 
@@ -108,25 +119,20 @@ function displayReport(entity, entityName, timestamp = null) {
 function displayAllReports() {
     const reportsList = document.getElementById('reportsList');
     reportsList.innerHTML = '';
-    
-    // 初期状態を表示
-    if (currentState) {
+    if (currentState && currentState.entityA && currentState.entityB) {
         reportsList.appendChild(displayReport(currentState.entityA, 'Entity A'));
         reportsList.appendChild(displayReport(currentState.entityB, 'Entity B'));
     }
-    
-    // 進化履歴を新しい順に表示（降順）
     evolutionHistory.slice().reverse().forEach(step => {
-        reportsList.appendChild(displayReport(step.entityA, 'Entity A', step.timestamp));
-        reportsList.appendChild(displayReport(step.entityB, 'Entity B', step.timestamp));
+        if (step.entityA && step.entityB) {
+            reportsList.appendChild(displayReport(step.entityA, 'Entity A', step.timestamp));
+            reportsList.appendChild(displayReport(step.entityB, 'Entity B', step.timestamp));
+        }
     });
 }
 
-// UIの状態を更新する
-function updateStatus(message) {
-    const statusElement = document.getElementById('status');
-    statusElement.textContent = message;
-}
+// ステータス表示を削除
+function updateStatus(message) {}
 
 // 手動進化を実行する
 async function executeEvolution() {
@@ -190,34 +196,6 @@ function stopSVGAnimation() {
     if (svgAnimationFrame) {
         cancelAnimationFrame(svgAnimationFrame);
         svgAnimationFrame = null;
-    }
-}
-
-// drawSVG内でアニメーション開始
-function drawSVG(svgCode) {
-    const svgContainer = document.getElementById('svgContainer');
-    svgContainer.innerHTML = svgCode;
-    startSVGAnimation();
-}
-
-// 現在の状態を描画する
-function drawCurrentState() {
-    const svgContainer = document.getElementById('svgContainer');
-    if (currentState && currentState.svg) {
-        svgContainer.style.display = 'block';
-        drawSVG(currentState.svg);
-        canvas.style.display = 'none';
-    } else if (currentState && currentState.entityA && currentState.entityB) {
-        svgContainer.style.display = 'none';
-        canvas.style.display = 'block';
-        ctx.clearRect(0, 0, canvas.width, canvas.height);
-        drawEntity(currentState.entityA.cells);
-        drawEntity(currentState.entityB.cells);
-    } else {
-        // どちらもない場合は何も描画しない
-        svgContainer.style.display = 'none';
-        canvas.style.display = 'block';
-        ctx.clearRect(0, 0, canvas.width, canvas.height);
     }
 }
 
