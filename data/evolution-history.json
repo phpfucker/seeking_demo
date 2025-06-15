@@ -1,0 +1,65 @@
+[
+  {
+    "entityA": {
+      "cells": [
+        {
+          "x": 100,
+          "y": 120,
+          "radius": 10,
+          "color_h": 210,
+          "shapeFactor": 0.4
+        },
+        {
+          "x": 110,
+          "y": 130,
+          "radius": 9,
+          "color_h": 215,
+          "shapeFactor": 0.5
+        },
+        {
+          "x": 90,
+          "y": 110,
+          "radius": 8,
+          "color_h": 205,
+          "shapeFactor": 0.3
+        }
+      ],
+      "report": {
+        "appearance": "膝のような形状をした生命体。青みがかった色調で、柔らかな曲線を描いている。",
+        "reason": "初期状態として、膝の形状を模した基本的な構造を持つ。",
+        "thought": "『私は誰？ここはどこ？』"
+      }
+    },
+    "entityB": {
+      "cells": [
+        {
+          "x": 300,
+          "y": 120,
+          "radius": 10,
+          "color_h": 190,
+          "shapeFactor": 0.4
+        },
+        {
+          "x": 290,
+          "y": 130,
+          "radius": 9,
+          "color_h": 185,
+          "shapeFactor": 0.5
+        },
+        {
+          "x": 310,
+          "y": 110,
+          "radius": 8,
+          "color_h": 195,
+          "shapeFactor": 0.3
+        }
+      ],
+      "report": {
+        "appearance": "entityAと対をなす膝形生命体。緑がかった色調で、やや硬質な印象を与える。",
+        "reason": "初期状態として、entityAと対称的な位置に配置された。",
+        "thought": "『向こうに何かいる...』"
+      }
+    },
+    "timestamp": 1749962955784
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "entityA": {
+    "cells": [
+      {
+        "x": 105,
+        "y": 115,
+        "radius": 12,
+        "color_h": 220,
+        "shapeFactor": 0.6
+      },
+      {
+        "x": 115,
+        "y": 125,
+        "radius": 10,
+        "color_h": 225,
+        "shapeFactor": 0.7
+      },
+      {
+        "x": 95,
+        "y": 105,
+        "radius": 9,
+        "color_h": 215,
+        "shapeFactor": 0.5
+      }
+    ],
+    "report": {
+      "appearance": "膝形生命体がより複雑な曲線と色調を持つように進化した。柔らかさと力強さを兼ね備えている。",
+      "reason": "膝形状をより美しく表現し、運動能力を向上させるため。",
+      "thought": "『新たなる進化の力を感じる...』"
+    }
+  },
+  "entityB": {
+    "cells": [
+      {
+        "x": 295,
+        "y": 115,
+        "radius": 12,
+        "color_h": 200,
+        "shapeFactor": 0.6
+      },
+      {
+        "x": 285,
+        "y": 125,
+        "radius": 10,
+        "color_h": 195,
+        "shapeFactor": 0.7
+      },
+      {
+        "x": 305,
+        "y": 105,
+        "radius": 9,
+        "color_h": 205,
+        "shapeFactor": 0.5
+      }
+    ],
+    "report": {
+      "appearance": "entityAに対して、より強い対比を持つ膝形生命体として進化。色調の変化が印象的。",
+      "reason": "entityAに対抗するため、より強靭で印象的な姿形を獲得する必要があった。",
+      "thought": "『entityAの進化を感じる...そしてそれに対抗しなければならない。』"
+    }
+  }
+}
