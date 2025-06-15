@@ -756,5 +756,24 @@
       }
     },
     "timestamp": 1750025724824
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"purple\" /><rect x=\"50\" y=\"50\" width=\"300\" height=\"300\" fill=\"pink\" /><line x1=\"150\" y1=\"250\" x2=\"250\" y2=\"250\" stroke=\"black\" stroke-width=\"10\" /><line x1=\"150\" y1=\"300\" x2=\"200\" y2=\"350\" stroke=\"black\" stroke-width=\"10\" /><line x1=\"250\" y1=\"300\" x2=\"200\" y2=\"350\" stroke=\"black\" stroke-width=\"10\" /><circle cx=\"150\" cy=\"150\" r=\"20\" fill=\"yellow\" /><circle cx=\"250\" cy=\"150\" r=\"20\" fill=\"yellow\" /></svg>",
+      "report": {
+        "appearance": "体は丸く大きな紫色の円形で構成され、ピンク色の四角形の胴体を持ち、黒い線で手足と尻尾が描かれている。顔には黄色い目が2つ配置されている。",
+        "reason": "この進化は、生存競争においてより派手な色や複雑な模様が警告や魅力になり、獲得した適応的な特性である。",
+        "thought": "『輝く色に魅了されて』"
+      }
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\"><ellipse cx=\"200\" cy=\"200\" rx=\"150\" ry=\"100\" fill=\"green\" /><polygon points=\"200,100 100,300 300,300\" fill=\"yellow\" /><line x1=\"150\" y1=\"250\" x2=\"250\" y2=\"250\" stroke=\"black\" stroke-width=\"10\" /><line x1=\"150\" y1=\"300\" x2=\"200\" y2=\"350\" stroke=\"black\" stroke-width=\"10\" /><line x1=\"250\" y1=\"300\" x2=\"200\" y2=\"350\" stroke=\"black\" stroke-width=\"10\" /><circle cx=\"150\" cy=\"150\" r=\"20\" fill=\"blue\" /><circle cx=\"250\" cy=\"150\" r=\"20\" fill=\"blue\" /></svg>",
+      "report": {
+        "appearance": "緑色の楕円形の体に黄色い三角形の模様を持ち、黒い線で手足と尻尾が表現されている。顔には青い目が2つ描かれている。",
+        "reason": "この進化は、環境への適応と求愛行動のために、新しい色や形状が生まれ、生態系での立ち位置や個体間のコミュニケーションで重要な役割を果たしている。",
+        "thought": "『自然と一体になって』"
+      }
+    },
+    "timestamp": 1750029317948
   }
 ]
