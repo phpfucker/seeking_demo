@@ -1,18 +1,18 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><rect x='50' y='50' width='300' height='300' fill='purple'/><circle cx='200' cy='200' r='150' fill='yellow'/><ellipse cx='200' cy='200' rx='100' ry='50' fill='green'/><polygon points='150,300 250,300 200,350' fill='orange'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><circle cx='200' cy='200' r='150' fill='orange' /><rect x='100' y='100' width='200' height='200' fill='green' /></svg>",
     "report": {
-      "appearance": "四角形の体に円形の頭、楕円形の目、三角形の尾を持つ生物",
-      "reason": "各図形の組み合わせにより様々な環境で生存をサポートする形態に進化した",
-      "thought": "外見からは想像できないほど、環境に適応する能力を持っている"
+      "appearance": "円形のオレンジ色の頭部に、四角形の緑色の体を持つ生物",
+      "reason": "環境の変化により、食物摂取方法が変化し、新たな特徴が適応的に進化した",
+      "thought": "新たな形状にも適応し、強靭な生存能力を身につけた"
     }
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><circle cx='200' cy='200' r='180' fill='blue'/><rect x='100' y='100' width='200' height='200' fill='red'/><polygon points='100,100 200,50 300,100' fill='yellow'/><ellipse cx='200' cy='200' rx='120' ry='60' fill='green'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><polygon points='200,50 350,200 200,350 50,200' fill='purple' /><circle cx='200' cy='200' r='100' fill='yellow' /></svg>",
     "report": {
-      "appearance": "円形の体に四角形の頭、三角形の耳、楕円形の目を持つ生物",
-      "reason": "異なる形状の組み合わせにより、捕食や繁殖の戦略を大きく変化させた",
-      "thought": "外見の異質さと内面の複雑さから、他の生物との関係性を深めることができる"
+      "appearance": "紫色の多角形の頭部に、黄色の円形の体を持つ生物",
+      "reason": "生態系の変化により、新たな捕食方法のための特殊な形状が進化した",
+      "thought": "多角形の頭部は戦略的な利点を生み出し、進化の成功に貢献した"
     }
   }
 }
