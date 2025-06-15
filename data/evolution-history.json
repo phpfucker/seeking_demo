@@ -357,5 +357,24 @@
       }
     },
     "timestamp": 1749973624733
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><circle cx='200' cy='200' r='150' fill='orange' /><rect x='100' y='100' width='200' height='200' fill='green' /></svg>",
+      "report": {
+        "appearance": "円形のオレンジ色の頭部に、四角形の緑色の体を持つ生物",
+        "reason": "環境の変化により、食物摂取方法が変化し、新たな特徴が適応的に進化した",
+        "thought": "新たな形状にも適応し、強靭な生存能力を身につけた"
+      }
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><polygon points='200,50 350,200 200,350 50,200' fill='purple' /><circle cx='200' cy='200' r='100' fill='yellow' /></svg>",
+      "report": {
+        "appearance": "紫色の多角形の頭部に、黄色の円形の体を持つ生物",
+        "reason": "生態系の変化により、新たな捕食方法のための特殊な形状が進化した",
+        "thought": "多角形の頭部は戦略的な利点を生み出し、進化の成功に貢献した"
+      }
+    },
+    "timestamp": 1749974653664
   }
 ]
