@@ -604,5 +604,24 @@
       }
     },
     "timestamp": 1749996858910
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"pink\" /><rect x=\"175\" y=\"150\" width=\"50\" height=\"100\" fill=\"purple\" /><polygon points=\"200,100 225,150 175,150\" fill=\"purple\" /><line x1=\"200\" y1=\"250\" x2=\"175\" y2=\"300\" stroke=\"purple\" stroke-width=\"5\" /><line x1=\"200\" y1=\"250\" x2=\"225\" y2=\"300\" stroke=\"purple\" stroke-width=\"5\" /><circle cx=\"170\" cy=\"170\" r=\"10\" fill=\"black\" /><circle cx=\"230\" cy=\"170\" r=\"10\" fill=\"black\" /></svg>",
+      "report": {
+        "appearance": "頭部が大きくなり、ピンクの柔らかな円形の体を持つ。紫色の四角い胴体と、大きな紫色の角を持つ。足は短く太く、手足には爪が生えている。目は大きく真っ直ぐで、黒い瞳を持つ。",
+        "reason": "周囲の環境が変化し、より柔軟で運動能力の高い生命体が有利になったため、頭部を大きくし、筋力を強化するために体を丸くした。",
+        "thought": "『進化は生き抜くための適応』"
+      }
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"120\" fill=\"lightblue\" /><rect x=\"175\" y=\"150\" width=\"50\" height=\"100\" fill=\"orange\" /><polygon points=\"200,100 225,150 175,150\" fill=\"orange\" /><path d=\"M200 250 Q220 240 225 270 Q230 240 250 250 Q230 260 225 290 Q220 260 200 250\" fill=\"orange\" stroke=\"black\" /><circle cx=\"175\" cy=\"160\" r=\"10\" fill=\"black\" /><circle cx=\"225\" cy=\"160\" r=\"10\" fill=\"black\" /></svg>",
+      "report": {
+        "appearance": "青い円形の体に、橙色の四角い胴体がついている。角は大きく鋭い形状で、体の側面に位置する。脚は短く太く、手足には鋭い爪が生えている。目は丸く大きく、橙色の瞳を持つ。",
+        "reason": "餌を求めるために、角を鋭くし、運動能力を高めるために体を円くした。胴体が四角いのは、自己防衛のためである。",
+        "thought": "『自然界の摂理を受け入れ、自己を守る』"
+      }
+    },
+    "timestamp": 1750000546044
   }
 ]
