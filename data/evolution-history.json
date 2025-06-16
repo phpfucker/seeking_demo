@@ -1174,5 +1174,24 @@
       }
     },
     "timestamp": 1750112188332
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"purple\" /><rect x=\"175\" y=\"175\" width=\"50\" height=\"50\" fill=\"yellow\" /><polygon points=\"100,250 150,200 200,250\" fill=\"blue\" /><circle cx=\"150\" cy=\"100\" r=\"20\" fill=\"red\" /><line x1=\"180\" y1=\"100\" x2=\"220\" y2=\"100\" stroke=\"black\" stroke-width=\"5\" /><circle cx=\"250\" cy=\"150\" r=\"30\" fill=\"green\" /></svg>",
+      "report": {
+        "appearance": "体は大きな紫色の円形、顔は赤い丸と黒い線、四肢や尾は青い多角形と緑の円形から構成される。各パーツが鮮やかな色彩で組み合わさり、独特な外見を持つ。",
+        "reason": "環境の変化に適応するため、生命体Aはより複雑で派手な外見を持つことで、捕食者を驚かせる効果を狙った。",
+        "thought": "『色彩は我々の個性を示す』"
+      }
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"50\" width=\"300\" height=\"300\" fill=\"orange\" /><circle cx=\"200\" cy=\"100\" r=\"50\" fill=\"green\" /><polygon points=\"150,200 200,150 250,200\" fill=\"blue\" /><circle cx=\"150\" cy=\"250\" r=\"30\" fill=\"purple\" /><line x1=\"180\" y1=\"250\" x2=\"220\" y2=\"250\" stroke=\"black\" stroke-width=\"5\" /><circle cx=\"250\" cy=\"300\" r=\"20\" fill=\"yellow\" /></svg>",
+      "report": {
+        "appearance": "全体がオレンジ色の四角形で覆われ、緑色の円形の頭部、青い多角形の体、紫色と黄色の円形パーツ、黒い線などが特徴。異なる色彩と形状が調和した独特な姿を持つ。",
+        "reason": "繁殖競争において、生命体Bはより目立つ外見を持つことで異性を引きつけ、適切な繁殖相手を選ぶためのアピールとして進化した。",
+        "thought": "『美は生存戦略』"
+      }
+    },
+    "timestamp": 1750115745470
   }
 ]
