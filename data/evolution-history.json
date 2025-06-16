@@ -1041,5 +1041,24 @@
       }
     },
     "timestamp": 1750087129252
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"lightgreen\" /><rect x=\"175\" y=\"200\" width=\"50\" height=\"100\" fill=\"darkgreen\" /><path d=\"M150 150 L200 100 L250 150 Z\" fill=\"green\" /><circle cx=\"175\" cy=\"250\" r=\"10\" fill=\"green\" /><circle cx=\"225\" cy=\"250\" r=\"10\" fill=\"green\" /><line x1=\"200\" y1=\"300\" x2=\"175\" y2=\"350\" stroke=\"green\" stroke-width=\"5\" /><line x1=\"200\" y1=\"300\" x2=\"225\" y2=\"350\" stroke=\"green\" stroke-width=\"5\" /></svg>",
+      "report": {
+        "appearance": "体色は淡い緑色で、背中に3つの葉のような模様がある。前足が2本あり、後ろ足はなく、手のような形状をしている。顔は三角形の形をしており、目立つ特徴はない。",
+        "reason": "周囲の環境が植物豊かであり、足の代わりに手が発達して植物を扱いやすい環境に適応したため。",
+        "thought": "『自然と一体化』"
+      }
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"120\" fill=\"lightblue\" /><rect x=\"175\" y=\"200\" width=\"50\" height=\"100\" fill=\"blue\" /><path d=\"M150 150 L200 100 L250 150 Z\" fill=\"darkblue\" /><circle cx=\"175\" cy=\"250\" r=\"15\" fill=\"blue\" /><circle cx=\"225\" cy=\"250\" r=\"15\" fill=\"blue\" /><line x1=\"200\" y1=\"300\" x2=\"175\" y2=\"350\" stroke=\"blue\" stroke-width=\"7\" /><line x1=\"200\" y1=\"300\" x2=\"225\" y2=\"350\" stroke=\"blue\" stroke-width=\"7\" /></svg>",
+      "report": {
+        "appearance": "体色は淡い青色で、背中に2つの羽のような模様がある。前足が2本あり、後ろ足は1本だけで、鳥のような足の形状をしている。顔は円形で大きな瞳が特徴的。",
+        "reason": "周囲の環境が高い場所であり、飛ぶ能力が必要となったため、翼状の模様と飛行に適した足が進化した。",
+        "thought": "『自由な空を目指して』"
+      }
+    },
+    "timestamp": 1750090918805
   }
 ]

@@ -1,18 +1,18 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"lightgreen\" /><rect x=\"175\" y=\"200\" width=\"50\" height=\"100\" fill=\"darkgreen\" /><path d=\"M150 150 L200 100 L250 150 Z\" fill=\"green\" /><circle cx=\"175\" cy=\"250\" r=\"10\" fill=\"green\" /><circle cx=\"225\" cy=\"250\" r=\"10\" fill=\"green\" /><line x1=\"200\" y1=\"300\" x2=\"175\" y2=\"350\" stroke=\"green\" stroke-width=\"5\" /><line x1=\"200\" y1=\"300\" x2=\"225\" y2=\"350\" stroke=\"green\" stroke-width=\"5\" /></svg>",
+    "svg": "<svg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'><circle cx='200' cy='200' r='150' fill='orange'/><rect x='150' y='250' width='100' height='50' fill='brown'/><polygon points='180,150 220,150 200,120' fill='black'/></svg>",
     "report": {
-      "appearance": "体色は淡い緑色で、背中に3つの葉のような模様がある。前足が2本あり、後ろ足はなく、手のような形状をしている。顔は三角形の形をしており、目立つ特徴はない。",
-      "reason": "周囲の環境が植物豊かであり、足の代わりに手が発達して植物を扱いやすい環境に適応したため。",
-      "thought": "『自然と一体化』"
+      "appearance": "entityAは全身がオレンジ色の丸い体を持ち、茶色の四角い足が4本あります。頭部には黒い三角形の耳がついています。",
+      "reason": "この進化が起こった理由は、周囲の環境の変化により、地面に対する適応性を高めるためです。",
+      "thought": "『安定した地上での生活が喜び』"
     }
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"120\" fill=\"lightblue\" /><rect x=\"175\" y=\"200\" width=\"50\" height=\"100\" fill=\"blue\" /><path d=\"M150 150 L200 100 L250 150 Z\" fill=\"darkblue\" /><circle cx=\"175\" cy=\"250\" r=\"15\" fill=\"blue\" /><circle cx=\"225\" cy=\"250\" r=\"15\" fill=\"blue\" /><line x1=\"200\" y1=\"300\" x2=\"175\" y2=\"350\" stroke=\"blue\" stroke-width=\"7\" /><line x1=\"200\" y1=\"300\" x2=\"225\" y2=\"350\" stroke=\"blue\" stroke-width=\"7\" /></svg>",
+    "svg": "<svg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'><circle cx='200' cy='200' r='120' fill='purple'/><rect x='180' y='250' width='80' height='40' fill='green'/><polygon points='180,150 220,150 200,120' fill='white'/></svg>",
     "report": {
-      "appearance": "体色は淡い青色で、背中に2つの羽のような模様がある。前足が2本あり、後ろ足は1本だけで、鳥のような足の形状をしている。顔は円形で大きな瞳が特徴的。",
-      "reason": "周囲の環境が高い場所であり、飛ぶ能力が必要となったため、翼状の模様と飛行に適した足が進化した。",
-      "thought": "『自由な空を目指して』"
+      "appearance": "entityBは全身が紫色の丸い体を持ち、緑色の四角い足が4本あります。頭部には白い三角形の耳がついています。",
+      "reason": "この進化が起こった理由は、食物の入手方法の変化により、高い木に登る能力が求められたためです。",
+      "thought": "『高い木々を目指す楽しさ』"
     }
   }
 }
