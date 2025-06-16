@@ -870,5 +870,24 @@
       }
     },
     "timestamp": 1750055235679
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"lightblue\" /><rect x=\"175\" y=\"250\" width=\"50\" height=\"100\" fill=\"pink\" /><path d=\"M150 150 L200 100 L250 150 Z\" fill=\"purple\" /><ellipse cx=\"170\" cy=\"260\" rx=\"20\" ry=\"10\" fill=\"yellow\" /><ellipse cx=\"230\" cy=\"260\" rx=\"20\" ry=\"10\" fill=\"yellow\" /></svg>",
+      "report": {
+        "appearance": "体は青色の円形をしており、手足はピンクの四角形。顔は紫色の三角形で、黄色の目が2つあります。",
+        "reason": "この進化は、生命体が水中に適応するために、魚のような特徴を身につけたためです。",
+        "thought": "『泳ぐことが楽しい』"
+      }
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"150\" width=\"200\" height=\"200\" fill=\"green\" /><circle cx=\"200\" cy=\"100\" r=\"50\" fill=\"orange\" /><path d=\"M150 250 Q200 300 250 250 T150 250 Z\" fill=\"yellow\" /><ellipse cx=\"170\" cy=\"260\" rx=\"20\" ry=\"10\" fill=\"blue\" /><ellipse cx=\"230\" cy=\"260\" rx=\"20\" ry=\"10\" fill=\"blue\" /></svg>",
+      "report": {
+        "appearance": "体は緑色の四角形で、顔はオレンジ色の円形。背中に黄色の模様があり、青色の目が2つあります。",
+        "reason": "この進化は、生命体が陸上で生活するために、植物を模倣して緑色の体を持つように進化したためです。",
+        "thought": "『大地と一体化する』"
+      }
+    },
+    "timestamp": 1750058312067
   }
 ]
