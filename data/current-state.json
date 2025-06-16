@@ -1,18 +1,18 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"purple\" /><rect x=\"150\" y=\"250\" width=\"100\" height=\"50\" fill=\"pink\" /><line x1=\"150\" y1=\"250\" x2=\"100\" y2=\"200\" stroke=\"black\" stroke-width=\"5\" /><line x1=\"250\" y1=\"250\" x2=\"300\" y2=\"200\" stroke=\"black\" stroke-width=\"5\" /><circle cx=\"180\" cy=\"180\" r=\"10\" fill=\"white\" /><circle cx=\"220\" cy=\"180\" r=\"10\" fill=\"white\" /><polygon points=\"180,230 200,250 220,230\" fill=\"yellow\" /></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"purple\" /><rect x=\"175\" y=\"180\" width=\"50\" height=\"70\" fill=\"pink\" /><rect x=\"160\" y=\"250\" width=\"80\" height=\"20\" fill=\"pink\" /><circle cx=\"180\" cy=\"150\" r=\"5\" fill=\"white\" /><circle cx=\"220\" cy=\"150\" r=\"5\" fill=\"white\" /><rect x=\"185\" y=\"230\" width=\"10\" height=\"20\" fill=\"purple\" /><rect x=\"205\" y=\"230\" width=\"10\" height=\"20\" fill=\"purple\" /></svg>",
     "report": {
-      "appearance": "エンティティAは、紫色の大きな体にピンクの尾と四本の足を持つ生物です。頭には白い目と黄色い口があります。",
-      "reason": "この進化が起こったのは、環境の変化に適応するためであり、四肢の強化や色彩の変化が生存に有利だったためです。",
-      "thought": "『未知なる力に挑む』"
+      "appearance": "体全体が紫色で、大きな丸い頭部にピンクの四角い体と手足、白い目、紫色の模様がある生命体。手足は短く太めで、表情はかわいらしい。",
+      "reason": "進化が起こった理由は、環境の変化により色彩的な適応が進化に有利だったため。",
+      "thought": "『平和な色合いに彩られて』"
     }
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"120\" fill=\"blue\" /><rect x=\"170\" y=\"250\" width=\"60\" height=\"40\" fill=\"green\" /><circle cx=\"180\" cy=\"180\" r=\"15\" fill=\"orange\" /><circle cx=\"220\" cy=\"180\" r=\"15\" fill=\"orange\" /><polygon points=\"170,230 200,250 230,230\" fill=\"red\" /></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"150\" y=\"100\" width=\"100\" height=\"200\" fill=\"green\" /><circle cx=\"200\" cy=\"150\" r=\"50\" fill=\"yellow\" /><circle cx=\"180\" cy=\"130\" r=\"10\" fill=\"white\" /><circle cx=\"220\" cy=\"130\" r=\"10\" fill=\"white\" /><polygon points=\"180,200 200,220 220,200\" fill=\"red\" /><rect x=\"180\" y=\"250\" width=\"40\" height=\"10\" fill=\"blue\" /></svg>",
     "report": {
-      "appearance": "エンティティBは、青い体に緑色の尾と四つの足を持つ生物で、頭には二つの瞳とオレンジ色の模様があります。",
-      "reason": "この進化は、エンティティBがより速く敏捷に動く必要が生じたためであり、体の小型化や模様の追加がその要求に適応するために起こった。",
-      "thought": "『自然と一体化する』"
+      "appearance": "緑色の四角い体に、黄色い大きな丸い頭部を持つ生命体。目は白く、細長い手足と赤い口、青い模様が特徴的。体は幅広く、力強い印象を与える。",
+      "reason": "進化が起こった理由は、生息地の環境に適応するため、体の形状と色彩が変化したため。",
+      "thought": "『自然に寄り添いながら』"
     }
   }
 }
