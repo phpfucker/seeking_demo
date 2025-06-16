@@ -1136,5 +1136,24 @@
       }
     },
     "timestamp": 1750105135817
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"purple\" /><rect x=\"175\" y=\"180\" width=\"50\" height=\"70\" fill=\"pink\" /><rect x=\"160\" y=\"250\" width=\"80\" height=\"20\" fill=\"pink\" /><circle cx=\"180\" cy=\"150\" r=\"5\" fill=\"white\" /><circle cx=\"220\" cy=\"150\" r=\"5\" fill=\"white\" /><rect x=\"185\" y=\"230\" width=\"10\" height=\"20\" fill=\"purple\" /><rect x=\"205\" y=\"230\" width=\"10\" height=\"20\" fill=\"purple\" /></svg>",
+      "report": {
+        "appearance": "体全体が紫色で、大きな丸い頭部にピンクの四角い体と手足、白い目、紫色の模様がある生命体。手足は短く太めで、表情はかわいらしい。",
+        "reason": "進化が起こった理由は、環境の変化により色彩的な適応が進化に有利だったため。",
+        "thought": "『平和な色合いに彩られて』"
+      }
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"150\" y=\"100\" width=\"100\" height=\"200\" fill=\"green\" /><circle cx=\"200\" cy=\"150\" r=\"50\" fill=\"yellow\" /><circle cx=\"180\" cy=\"130\" r=\"10\" fill=\"white\" /><circle cx=\"220\" cy=\"130\" r=\"10\" fill=\"white\" /><polygon points=\"180,200 200,220 220,200\" fill=\"red\" /><rect x=\"180\" y=\"250\" width=\"40\" height=\"10\" fill=\"blue\" /></svg>",
+      "report": {
+        "appearance": "緑色の四角い体に、黄色い大きな丸い頭部を持つ生命体。目は白く、細長い手足と赤い口、青い模様が特徴的。体は幅広く、力強い印象を与える。",
+        "reason": "進化が起こった理由は、生息地の環境に適応するため、体の形状と色彩が変化したため。",
+        "thought": "『自然に寄り添いながら』"
+      }
+    },
+    "timestamp": 1750108572423
   }
 ]
