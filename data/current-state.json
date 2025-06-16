@@ -1,18 +1,18 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"#ffcc00\" /><rect x=\"150\" y=\"200\" width=\"100\" height=\"150\" fill=\"#ff9966\" /><circle cx=\"130\" cy=\"180\" r=\"20\" fill=\"#ff9966\" /><circle cx=\"270\" cy=\"180\" r=\"20\" fill=\"#ff9966\" /><rect x=\"160\" y=\"150\" width=\"80\" height=\"30\" fill=\"#ff9966\" /><polyline points=\"190,350 210,350 200,370\" fill=\"none\" stroke=\"#9966ff\" stroke-width=\"2\" /><polygon points=\"170,200 230,200 200,240\" fill=\"#9966ff\" /><circle cx=\"200\" cy=\"280\" r=\"5\" fill=\"#000\" /><circle cx=\"200\" cy=\"310\" r=\"5\" fill=\"#000\" /></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"purple\" /><rect x=\"175\" y=\"175\" width=\"50\" height=\"50\" fill=\"yellow\" /><polygon points=\"100,250 150,200 200,250\" fill=\"blue\" /><circle cx=\"150\" cy=\"100\" r=\"20\" fill=\"red\" /><line x1=\"180\" y1=\"100\" x2=\"220\" y2=\"100\" stroke=\"black\" stroke-width=\"5\" /><circle cx=\"250\" cy=\"150\" r=\"30\" fill=\"green\" /></svg>",
     "report": {
-      "appearance": "黄色い体にオレンジ色の四角い胴体を持ち、顔に2つの小さなオレンジ色の円がある。手は紫色の円形で、足は紫色の四角形。背中には青い模様が入り、頭部には紫色の角が2本生えている。",
-      "reason": "環境の変化により、新たな捕食者が現れたため、より派手で目立つ姿に進化した。",
-      "thought": "『自分も変わらないと、生き残れない』"
+      "appearance": "体は大きな紫色の円形、顔は赤い丸と黒い線、四肢や尾は青い多角形と緑の円形から構成される。各パーツが鮮やかな色彩で組み合わさり、独特な外見を持つ。",
+      "reason": "環境の変化に適応するため、生命体Aはより複雑で派手な外見を持つことで、捕食者を驚かせる効果を狙った。",
+      "thought": "『色彩は我々の個性を示す』"
     }
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"120\" fill=\"#66ccff\" /><rect x=\"170\" y=\"200\" width=\"60\" height=\"130\" fill=\"#ff6666\" /><circle cx=\"155\" cy=\"190\" r=\"15\" fill=\"#ff6666\" /><circle cx=\"245\" cy=\"190\" r=\"15\" fill=\"#ff6666\" /><rect x=\"180\" y=\"160\" width=\"40\" height=\"20\" fill=\"#ff6666\" /><polyline points=\"195,330 205,330 200,350\" fill=\"none\" stroke=\"#ff66cc\" stroke-width=\"2\" /><polygon points=\"180,200 220,200 200,235\" fill=\"#ff66cc\" /><circle cx=\"200\" cy=\"270\" r=\"5\" fill=\"#000\" /><circle cx=\"200\" cy=\"300\" r=\"5\" fill=\"#000\" /></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"50\" width=\"300\" height=\"300\" fill=\"orange\" /><circle cx=\"200\" cy=\"100\" r=\"50\" fill=\"green\" /><polygon points=\"150,200 200,150 250,200\" fill=\"blue\" /><circle cx=\"150\" cy=\"250\" r=\"30\" fill=\"purple\" /><line x1=\"180\" y1=\"250\" x2=\"220\" y2=\"250\" stroke=\"black\" stroke-width=\"5\" /><circle cx=\"250\" cy=\"300\" r=\"20\" fill=\"yellow\" /></svg>",
     "report": {
-      "appearance": "青い体に赤い四角い胴体を持ち、顔に2つの小さな赤い円がある。手は赤い円形で、足は赤い四角形。背中にはピンクの模様が入り、頭部には赤い角が2本生えている。",
-      "reason": "食物連鎖の変化により、より速く逃げる必要が生じ、体を軽くすることで進化した。",
-      "thought": "『速さが命を救う』"
+      "appearance": "全体がオレンジ色の四角形で覆われ、緑色の円形の頭部、青い多角形の体、紫色と黄色の円形パーツ、黒い線などが特徴。異なる色彩と形状が調和した独特な姿を持つ。",
+      "reason": "繁殖競争において、生命体Bはより目立つ外見を持つことで異性を引きつけ、適切な繁殖相手を選ぶためのアピールとして進化した。",
+      "thought": "『美は生存戦略』"
     }
   }
 }
