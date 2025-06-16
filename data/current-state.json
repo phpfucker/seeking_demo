@@ -1,18 +1,18 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightblue'/><rect x='175' y='200' width='50' height='150' fill='purple'/><polygon points='200,100 250,200 150,200' fill='yellow'/><circle cx='180' cy='180' r='20' fill='white'/><circle cx='220' cy='180' r='20' fill='white'/><rect x='190' y='240' width='20' height='50' fill='purple'/></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"lightgreen\" /><rect x=\"175\" y=\"200\" width=\"50\" height=\"100\" fill=\"darkgreen\" /><path d=\"M150 150 L200 100 L250 150 Z\" fill=\"green\" /><circle cx=\"175\" cy=\"250\" r=\"10\" fill=\"green\" /><circle cx=\"225\" cy=\"250\" r=\"10\" fill=\"green\" /><line x1=\"200\" y1=\"300\" x2=\"175\" y2=\"350\" stroke=\"green\" stroke-width=\"5\" /><line x1=\"200\" y1=\"300\" x2=\"225\" y2=\"350\" stroke=\"green\" stroke-width=\"5\" /></svg>",
     "report": {
-      "appearance": "entityAは、頭部が半円形の黄色の突起物を持ち、体は青色の円形で、紫色の四角形の腕が伸び、紫色と白色の模様が特徴的な存在である。",
-      "reason": "entityAは、環境の色彩的変化に適応するため、体色や模様が変化した。",
-      "thought": "『変化を楽しもう』"
+      "appearance": "体色は淡い緑色で、背中に3つの葉のような模様がある。前足が2本あり、後ろ足はなく、手のような形状をしている。顔は三角形の形をしており、目立つ特徴はない。",
+      "reason": "周囲の環境が植物豊かであり、足の代わりに手が発達して植物を扱いやすい環境に適応したため。",
+      "thought": "『自然と一体化』"
     }
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='120' fill='pink'/><rect x='180' y='150' width='40' height='100' fill='green'/><polygon points='170,250 200,300 230,250' fill='orange'/><circle cx='180' cy='180' r='15' fill='white'/><circle cx='220' cy='180' r='15' fill='white'/><rect x='190' y='240' width='15' height='40' fill='green'/></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"120\" fill=\"lightblue\" /><rect x=\"175\" y=\"200\" width=\"50\" height=\"100\" fill=\"blue\" /><path d=\"M150 150 L200 100 L250 150 Z\" fill=\"darkblue\" /><circle cx=\"175\" cy=\"250\" r=\"15\" fill=\"blue\" /><circle cx=\"225\" cy=\"250\" r=\"15\" fill=\"blue\" /><line x1=\"200\" y1=\"300\" x2=\"175\" y2=\"350\" stroke=\"blue\" stroke-width=\"7\" /><line x1=\"200\" y1=\"300\" x2=\"225\" y2=\"350\" stroke=\"blue\" stroke-width=\"7\" /></svg>",
     "report": {
-      "appearance": "entityBは、ピンク色の円形の体に緑色の四角形の手足を持ち、頭部にはオレンジ色の角がある。白い丸い目が特徴的である。",
-      "reason": "entityBは、狩猟の成功率を高めるために、手足や角の形状が変化し、目が白くなった。",
-      "thought": "『狩りを楽しもう』"
+      "appearance": "体色は淡い青色で、背中に2つの羽のような模様がある。前足が2本あり、後ろ足は1本だけで、鳥のような足の形状をしている。顔は円形で大きな瞳が特徴的。",
+      "reason": "周囲の環境が高い場所であり、飛ぶ能力が必要となったため、翼状の模様と飛行に適した足が進化した。",
+      "thought": "『自由な空を目指して』"
     }
   }
 }
