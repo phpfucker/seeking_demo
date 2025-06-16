@@ -1,18 +1,18 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"#ffcc00\" /><rect x=\"175\" y=\"200\" width=\"50\" height=\"100\" fill=\"#993300\" /><rect x=\"150\" y=\"300\" width=\"100\" height=\"20\" fill=\"#993300\" /><circle cx=\"175\" cy=\"175\" r=\"10\" fill=\"#ffffff\" /><circle cx=\"225\" cy=\"175\" r=\"10\" fill=\"#ffffff\" /><circle cx=\"180\" cy=\"185\" r=\"5\" fill=\"#000000\" /><circle cx=\"220\" cy=\"185\" r=\"5\" fill=\"#000000\" /><line x1=\"180\" y1=\"210\" x2=\"160\" y2=\"230\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"220\" y1=\"210\" x2=\"240\" y2=\"230\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"150\" y1=\"320\" x2=\"130\" y2=\"340\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"250\" y1=\"320\" x2=\"270\" y2=\"340\" stroke=\"black\" stroke-width=\"2\" /></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"purple\" /><rect x=\"175\" y=\"150\" width=\"50\" height=\"100\" fill=\"pink\" /><circle cx=\"175\" cy=\"250\" r=\"10\" fill=\"white\" /><circle cx=\"225\" cy=\"250\" r=\"10\" fill=\"white\" /><line x1=\"200\" y1=\"250\" x2=\"200\" y2=\"300\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"200\" y1=\"300\" x2=\"175\" y2=\"350\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"200\" y1=\"300\" x2=\"225\" y2=\"350\" stroke=\"black\" stroke-width=\"2\" /></svg>",
     "report": {
-      "appearance": "体は円形で黄色、手足は茶色の四角形、目は白い円形で黒い瞳、顔には小さな口を持ち、しっぽが短く尾びれ状に広がる。前回の特徴を引き継ぎつつ、より円滑な形状と色彩に進化した。",
-      "reason": "周囲の環境が変化し、より視覚的に識別しやすくなることで生存率が向上したため。",
-      "thought": "『太陽のような温かさを感じる』"
+      "appearance": "体は紫色の丸い形をしており、手足はピンク色で四角い形状をしています。顔には白い目が二つあり、口元には笑みが浮かんでいます。",
+      "reason": "環境の変化により、姿勢を保つために四角い手足を持つことが適していたため進化した。",
+      "thought": "『平和』"
     }
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><rect x=\"150\" y=\"100\" width=\"100\" height=\"200\" fill=\"#ff6666\" /><circle cx=\"200\" cy=\"75\" r=\"25\" fill=\"#ffffff\" /><circle cx=\"175\" cy=\"150\" r=\"15\" fill=\"#ffffff\" /><circle cx=\"225\" cy=\"150\" r=\"15\" fill=\"#ffffff\" /><path d=\"M200 200 Q175 225 150 200 Q175 175 200 200\" fill=\"#ff6666\" /><path d=\"M150 300 Q175 325 200 300 Q225 325 250 300 Q225 275 200 300 Q175 275 150 300\" fill=\"#ff6666\" /></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\"><ellipse cx=\"200\" cy=\"200\" rx=\"150\" ry=\"100\" fill=\"green\" /><polygon points=\"150,200 200,100 250,200\" fill=\"yellow\" /><circle cx=\"180\" cy=\"220\" r=\"10\" fill=\"black\" /><circle cx=\"220\" cy=\"220\" r=\"10\" fill=\"black\" /><path d=\"M200 220 Q190 250 180 270\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" /><path d=\"M200 220 Q210 250 220 270\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" /></svg>",
     "report": {
-      "appearance": "体は赤い四角形、顔には3つの白い円形が並ぶ。頭部がより突出し、複雑な模様が入る。手足は円滑な曲線を持ち、尾びれがより長く発達した。",
-      "reason": "食物の入手方法や求愛行動の変化に適応するため、より器用で効率的な形態へ進化した。",
-      "thought": "『未来への希望を抱く』"
+      "appearance": "体は緑色の楕円形状をしており、頭部には黄色い三角形の模様があります。目は黒く、うれしい表情をしています。",
+      "reason": "食物を探しやすくするため、頭部に目立つ模様を持ち、より効率的に捕食できる姿に進化した。",
+      "thought": "『成長』"
     }
   }
 }
