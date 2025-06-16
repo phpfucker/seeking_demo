@@ -1060,5 +1060,24 @@
       }
     },
     "timestamp": 1750090918805
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'><circle cx='200' cy='200' r='150' fill='orange'/><rect x='150' y='250' width='100' height='50' fill='brown'/><polygon points='180,150 220,150 200,120' fill='black'/></svg>",
+      "report": {
+        "appearance": "entityAは全身がオレンジ色の丸い体を持ち、茶色の四角い足が4本あります。頭部には黒い三角形の耳がついています。",
+        "reason": "この進化が起こった理由は、周囲の環境の変化により、地面に対する適応性を高めるためです。",
+        "thought": "『安定した地上での生活が喜び』"
+      }
+    },
+    "entityB": {
+      "svg": "<svg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'><circle cx='200' cy='200' r='120' fill='purple'/><rect x='180' y='250' width='80' height='40' fill='green'/><polygon points='180,150 220,150 200,120' fill='white'/></svg>",
+      "report": {
+        "appearance": "entityBは全身が紫色の丸い体を持ち、緑色の四角い足が4本あります。頭部には白い三角形の耳がついています。",
+        "reason": "この進化が起こった理由は、食物の入手方法の変化により、高い木に登る能力が求められたためです。",
+        "thought": "『高い木々を目指す楽しさ』"
+      }
+    },
+    "timestamp": 1750094137817
   }
 ]
