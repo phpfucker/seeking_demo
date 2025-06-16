@@ -1,18 +1,18 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"#ffcc00\" /><rect x=\"160\" y=\"250\" width=\"80\" height=\"50\" fill=\"#9966cc\" /><path d=\"M 200 150 L 180 200 L 220 200 Z\" fill=\"#ff9966\" /><ellipse cx=\"170\" cy=\"180\" rx=\"10\" ry=\"5\" fill=\"#ff9966\" /><ellipse cx=\"230\" cy=\"180\" rx=\"10\" ry=\"5\" fill=\"#ff9966\" /><path d=\"M 180 250 L 170 270 L 200 270 L 190 250 Z\" fill=\"#9966cc\" /><path d=\"M 220 250 L 210 270 L 240 270 L 230 250 Z\" fill=\"#9966cc\" /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='purple' /><rect x='175' y='200' width='50' height='100' fill='pink' /><circle cx='175' cy='300' r='10' fill='black' /><circle cx='225' cy='300' r='10' fill='black' /><path d='M150,150 Q200,50 250,150' fill='none' stroke='black' stroke-width='5' /><path d='M160,155 Q200,80 240,155' fill='none' stroke='black' stroke-width='5' /><path d='M165,160 Q200,110 235,160' fill='none' stroke='black' stroke-width='5' /></svg>",
     "report": {
-      "appearance": "体は大きな黄色い円形で、紫色の四角形の足を持ち、ピンク色の顔には赤い角とオレンジ色の模様がある。手はオレンジ色の楕円形で、足は紫色の三角形。体の下部には紫色の模様が入っている。",
-      "reason": "環境の変化により、色彩の明るさが重要となったため、より明るい色合いへ進化した。",
-      "thought": "『輝く未来が見える』"
+      "appearance": "体全体が紫色で覆われ、胴体にピンク色の四角い模様がある。四つん這いの姿勢で、背中には黒い模様がある。",
+      "reason": "生息環境の変化により、地面を這う動きが必要となり、四つん這いの姿勢が採用された。",
+      "thought": "『地を這うことで、新たな視点と環境にアクセスできる』"
     }
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><rect x=\"150\" y=\"150\" width=\"100\" height=\"100\" fill=\"#336699\" /><circle cx=\"200\" cy=\"270\" r=\"20\" fill=\"#ffcc00\" /><circle cx=\"180\" cy=\"200\" r=\"10\" fill=\"#9966cc\" /><circle cx=\"220\" cy=\"200\" r=\"10\" fill=\"#9966cc\" /><polygon points=\"180,250 200,200 220,250\" fill=\"#ff9966\" /><circle cx=\"190\" cy=\"220\" r=\"5\" fill=\"#ff9966\" /><circle cx=\"210\" cy=\"220\" r=\"5\" fill=\"#ff9966\" /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='150' ry='100' fill='green' /><path d='M180,200 Q200,50 220,200' fill='none' stroke='blue' stroke-width='10' /><path d='M170,190 Q200,100 230,190' fill='none' stroke='blue' stroke-width='10' /><circle cx='170' cy='200' r='20' fill='yellow' /><circle cx='230' cy='200' r='20' fill='yellow' /><polygon points='180,250 220,250 200,300' fill='orange' /></svg>",
     "report": {
-      "appearance": "四角形の体に青色の大きな円形の頭部を持ち、黄色い円形の胴体には紫色の三角形の手足がついている。頭部には2つの紫色の模様があり、顔はオレンジ色の円形となっている。",
-      "reason": "食物の変化に適応するため、より堅い物質を食べる必要が生じ、強固な体と頭部の進化が必要となった。",
-      "thought": "『力強く進化する』"
+      "appearance": "体は緑色の楕円形であり、背中に青い模様が走っている。四本の脚を持ち、頭部に黄色い目が二つある。尾にはオレンジ色のとがった模様がある。",
+      "reason": "食物探しのための機動性が求められ、四本の脚が進化した。青い模様は種族を守るシグナルとして機能する。",
+      "thought": "『速さと協力こそが生き残りの鍵』"
     }
   }
 }
