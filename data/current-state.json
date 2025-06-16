@@ -1,18 +1,18 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"pink\" /><rect x=\"150\" y=\"250\" width=\"100\" height=\"50\" fill=\"purple\" /><polygon points=\"180,100 220,100 200,130\" fill=\"yellow\" /><line x1=\"180\" y1=\"300\" x2=\"220\" y2=\"300\" stroke=\"blue\" stroke-width=\"5\" /><ellipse cx=\"200\" cy=\"150\" rx=\"30\" ry=\"20\" fill=\"green\" /></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"lightblue\" /><rect x=\"175\" y=\"200\" width=\"50\" height=\"100\" fill=\"navy\" /><circle cx=\"175\" cy=\"180\" r=\"10\" fill=\"white\" /><circle cx=\"225\" cy=\"180\" r=\"10\" fill=\"white\" /><line x1=\"160\" y1=\"250\" x2=\"140\" y2=\"300\" stroke=\"black\" stroke-width=\"5\" /><line x1=\"240\" y1=\"250\" x2=\"260\" y2=\"300\" stroke=\"black\" stroke-width=\"5\" /></svg>",
     "report": {
-      "appearance": "エンティティAは、ピンクの大きな円形の体に紫色の四角い足、黄色い三角形模様、青い直線の尾と緑色の楕円形の顔を持つ。非常にカラフルで個性的な外見をしている。",
-      "reason": "この進化は、色と形の複雑さを増し、生存競争においてより相手を驚かせるために起こった。",
-      "thought": "『色彩は個性の表れ』"
+      "appearance": "進化後、entityAは頭部に2本の角を持ち、青色の大きな体と白い目を持つ生物となった。四肢が太く短くなり、青と白の色合いが特徴的である。",
+      "reason": "環境の変化により、entityAはより派手で目立つ体色や角を進化させる必要があったため、このような形態に進化した。",
+      "thought": "『強くなった！』"
     }
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><rect x=\"50\" y=\"150\" width=\"300\" height=\"200\" fill=\"lightblue\" /><circle cx=\"200\" cy=\"150\" r=\"50\" fill=\"orange\" /><polygon points=\"180,250 220,250 200,280\" fill=\"red\" /><line x1=\"150\" y1=\"350\" x2=\"250\" y2=\"350\" stroke=\"black\" stroke-width=\"10\" /><ellipse cx=\"200\" cy=\"100\" rx=\"20\" ry=\"30\" fill=\"yellow\" /></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"120\" fill=\"purple\" /><rect x=\"175\" y=\"200\" width=\"50\" height=\"100\" fill=\"darkgreen\" /><circle cx=\"175\" cy=\"180\" r=\"10\" fill=\"black\" /><circle cx=\"225\" cy=\"180\" r=\"10\" fill=\"black\" /><line x1=\"160\" y1=\"250\" x2=\"140\" y2=\"300\" stroke=\"darkgreen\" stroke-width=\"5\" /><line x1=\"240\" y1=\"250\" x2=\"260\" y2=\"300\" stroke=\"darkgreen\" stroke-width=\"5\" /></svg>",
     "report": {
-      "appearance": "エンティティBは、青色の四角い体にオレンジの丸い頭部、赤い三角形模様、黒い太い尾、黄色の楕円形の顔を持つ。外見はシンプルだが、色使いが鮮やかで目を引く。",
-      "reason": "進化の理由は、シンプルながらも目立つデザインにより、仲間とのコミュニケーションや集団内での地位を確立するためである。",
-      "thought": "『目立つ色が仲間たちとの絆を強める』"
+      "appearance": "entityBは進化により、紫色の体と濃い緑色の模様を持つ生物となった。四肢は短くなり、頭部には黒い目と大きな口が特徴的である。",
+      "reason": "獲物を捕食する際により効率的に捕らえるため、entityBはより鋭い牙や暗い色合いの模様を進化させた。",
+      "thought": "『狩りが楽しい！』"
     }
   }
 }
