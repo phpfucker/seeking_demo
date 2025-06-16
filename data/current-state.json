@@ -1,18 +1,18 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='lightblue'/><circle cx='200' cy='200' r='150' fill='pink'/><path d='M150 250 L200 350 L250 250 Z' fill='yellow'/><circle cx='150' cy='150' r='20' fill='black'/><circle cx='250' cy='150' r='20' fill='black'/><path d='M100 100 Q200 50 300 100' fill='none' stroke='black'/></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"#ffcc00\" /><rect x=\"160\" y=\"250\" width=\"80\" height=\"50\" fill=\"#9966cc\" /><path d=\"M 200 150 L 180 200 L 220 200 Z\" fill=\"#ff9966\" /><ellipse cx=\"170\" cy=\"180\" rx=\"10\" ry=\"5\" fill=\"#ff9966\" /><ellipse cx=\"230\" cy=\"180\" rx=\"10\" ry=\"5\" fill=\"#ff9966\" /><path d=\"M 180 250 L 170 270 L 200 270 L 190 250 Z\" fill=\"#9966cc\" /><path d=\"M 220 250 L 210 270 L 240 270 L 230 250 Z\" fill=\"#9966cc\" /></svg>",
     "report": {
-      "appearance": "entityAは、青い体にピンクの円形の頭部を持ち、黄色い模様の翼を持つ生命体である。頭部には黒い目が2つあり、曲線のしっぽがある。",
-      "reason": "entityAは、環境の変化により空を飛ぶ必要性が高まり、翼を持つよう進化した。",
-      "thought": "『自由に舞い上がる』"
+      "appearance": "体は大きな黄色い円形で、紫色の四角形の足を持ち、ピンク色の顔には赤い角とオレンジ色の模様がある。手はオレンジ色の楕円形で、足は紫色の三角形。体の下部には紫色の模様が入っている。",
+      "reason": "環境の変化により、色彩の明るさが重要となったため、より明るい色合いへ進化した。",
+      "thought": "『輝く未来が見える』"
     }
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='purple'/><path d='M150 250 L200 350 L250 250 Z' fill='green'/><rect x='175' y='175' width='50' height='50' fill='orange'/><circle cx='150' cy='150' r='20' fill='black'/><circle cx='250' cy='150' r='20' fill='black'/><path d='M100 100 Q200 50 300 100' fill='none' stroke='black'/></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\"><rect x=\"150\" y=\"150\" width=\"100\" height=\"100\" fill=\"#336699\" /><circle cx=\"200\" cy=\"270\" r=\"20\" fill=\"#ffcc00\" /><circle cx=\"180\" cy=\"200\" r=\"10\" fill=\"#9966cc\" /><circle cx=\"220\" cy=\"200\" r=\"10\" fill=\"#9966cc\" /><polygon points=\"180,250 200,200 220,250\" fill=\"#ff9966\" /><circle cx=\"190\" cy=\"220\" r=\"5\" fill=\"#ff9966\" /><circle cx=\"210\" cy=\"220\" r=\"5\" fill=\"#ff9966\" /></svg>",
     "report": {
-      "appearance": "entityBは、紫色の円形の体に緑色の模様の翼を持つ生命体である。中央には四角形のオレンジ色の模様がある。",
-      "reason": "entityBは、地上での生活に適応するため、四角形の模様を持つように進化した。",
-      "thought": "『大地と共に在る』"
+      "appearance": "四角形の体に青色の大きな円形の頭部を持ち、黄色い円形の胴体には紫色の三角形の手足がついている。頭部には2つの紫色の模様があり、顔はオレンジ色の円形となっている。",
+      "reason": "食物の変化に適応するため、より堅い物質を食べる必要が生じ、強固な体と頭部の進化が必要となった。",
+      "thought": "『力強く進化する』"
     }
   }
 }
