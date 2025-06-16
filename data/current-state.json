@@ -1,18 +1,18 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"#ffcc00\" /><rect x=\"150\" y=\"250\" width=\"100\" height=\"100\" fill=\"#ff9966\" /><circle cx=\"170\" cy=\"170\" r=\"20\" fill=\"#ffffff\" /><circle cx=\"230\" cy=\"170\" r=\"20\" fill=\"#ffffff\" /><path d=\"M150 300 Q200 350 250 300\" fill=\"none\" stroke=\"#663300\" stroke-width=\"5\" /><path d=\"M150 400 Q200 450 250 400\" fill=\"none\" stroke=\"#663300\" stroke-width=\"5\" /><path d=\"M100 250 Q150 200 200 250\" fill=\"none\" stroke=\"#663300\" stroke-width=\"5\" /><path d=\"M300 250 Q350 200 400 250\" fill=\"none\" stroke=\"#663300\" stroke-width=\"5\" /></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"lightblue\" /><rect x=\"175\" y=\"250\" width=\"50\" height=\"100\" fill=\"pink\" /><path d=\"M150 150 L200 100 L250 150 Z\" fill=\"purple\" /><ellipse cx=\"170\" cy=\"260\" rx=\"20\" ry=\"10\" fill=\"yellow\" /><ellipse cx=\"230\" cy=\"260\" rx=\"20\" ry=\"10\" fill=\"yellow\" /></svg>",
     "report": {
-      "appearance": "体は大きな黄色い円形を基調とし、四角い手足を持ち、顔は白い目を持つ。しっぽは茶色で、角状の模様がある。",
-      "reason": "食性の変化により、四角い手足がより効率的な移動手段となるため、進化した。",
-      "thought": "『成長と変化を受け入れる』"
+      "appearance": "体は青色の円形をしており、手足はピンクの四角形。顔は紫色の三角形で、黄色の目が2つあります。",
+      "reason": "この進化は、生命体が水中に適応するために、魚のような特徴を身につけたためです。",
+      "thought": "『泳ぐことが楽しい』"
     }
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><rect x=\"150\" y=\"150\" width=\"100\" height=\"200\" fill=\"#6699cc\" /><circle cx=\"200\" cy=\"150\" r=\"50\" fill=\"#99cc99\" /><circle cx=\"200\" cy=\"250\" r=\"50\" fill=\"#99cc99\" /><path d=\"M150 150 Q200 50 250 150\" fill=\"none\" stroke=\"#ffcc00\" stroke-width=\"5\" /><path d=\"M150 250 Q200 350 250 250\" fill=\"none\" stroke=\"#ffcc00\" stroke-width=\"5\" /><circle cx=\"180\" cy=\"120\" r=\"20\" fill=\"#ffffff\" /><circle cx=\"220\" cy=\"120\" r=\"20\" fill=\"#ffffff\" /><path d=\"M200 220 Q150 200 100 250\" fill=\"none\" stroke=\"#663300\" stroke-width=\"5\" /><path d=\"M200 220 Q250 200 300 250\" fill=\"none\" stroke=\"#663300\" stroke-width=\"5\" /></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"150\" width=\"200\" height=\"200\" fill=\"green\" /><circle cx=\"200\" cy=\"100\" r=\"50\" fill=\"orange\" /><path d=\"M150 250 Q200 300 250 250 T150 250 Z\" fill=\"yellow\" /><ellipse cx=\"170\" cy=\"260\" rx=\"20\" ry=\"10\" fill=\"blue\" /><ellipse cx=\"230\" cy=\"260\" rx=\"20\" ry=\"10\" fill=\"blue\" /></svg>",
     "report": {
-      "appearance": "青い四角い体に、上下対称の緑色の円形の頭部を持つ。手足は黄色い丸い形状で、顔は白い目を持つ。背中に黄色の斑点がある。",
-      "reason": "環境の変化により、水中生活への適応を果たすため、体の形状と模様が変化した。",
-      "thought": "『水の中でも輝くことができる』"
+      "appearance": "体は緑色の四角形で、顔はオレンジ色の円形。背中に黄色の模様があり、青色の目が2つあります。",
+      "reason": "この進化は、生命体が陸上で生活するために、植物を模倣して緑色の体を持つように進化したためです。",
+      "thought": "『大地と一体化する』"
     }
   }
 }
