@@ -1098,5 +1098,24 @@
       }
     },
     "timestamp": 1750098267493
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"lightblue\" /><rect x=\"175\" y=\"200\" width=\"50\" height=\"100\" fill=\"navy\" /><circle cx=\"175\" cy=\"180\" r=\"10\" fill=\"white\" /><circle cx=\"225\" cy=\"180\" r=\"10\" fill=\"white\" /><line x1=\"160\" y1=\"250\" x2=\"140\" y2=\"300\" stroke=\"black\" stroke-width=\"5\" /><line x1=\"240\" y1=\"250\" x2=\"260\" y2=\"300\" stroke=\"black\" stroke-width=\"5\" /></svg>",
+      "report": {
+        "appearance": "進化後、entityAは頭部に2本の角を持ち、青色の大きな体と白い目を持つ生物となった。四肢が太く短くなり、青と白の色合いが特徴的である。",
+        "reason": "環境の変化により、entityAはより派手で目立つ体色や角を進化させる必要があったため、このような形態に進化した。",
+        "thought": "『強くなった！』"
+      }
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"120\" fill=\"purple\" /><rect x=\"175\" y=\"200\" width=\"50\" height=\"100\" fill=\"darkgreen\" /><circle cx=\"175\" cy=\"180\" r=\"10\" fill=\"black\" /><circle cx=\"225\" cy=\"180\" r=\"10\" fill=\"black\" /><line x1=\"160\" y1=\"250\" x2=\"140\" y2=\"300\" stroke=\"darkgreen\" stroke-width=\"5\" /><line x1=\"240\" y1=\"250\" x2=\"260\" y2=\"300\" stroke=\"darkgreen\" stroke-width=\"5\" /></svg>",
+      "report": {
+        "appearance": "entityBは進化により、紫色の体と濃い緑色の模様を持つ生物となった。四肢は短くなり、頭部には黒い目と大きな口が特徴的である。",
+        "reason": "獲物を捕食する際により効率的に捕らえるため、entityBはより鋭い牙や暗い色合いの模様を進化させた。",
+        "thought": "『狩りが楽しい！』"
+      }
+    },
+    "timestamp": 1750101188718
   }
 ]
