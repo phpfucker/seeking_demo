@@ -8,6 +8,17 @@
 
 const fs = require('fs').promises;
 const path = require('path');
+
+// .envファイルが存在する場合のみ読み込む
+try {
+    const envPath = path.join(__dirname, '../.env');
+    if (fs.existsSync(envPath)) {
+        require('dotenv').config();
+    }
+} catch (error) {
+    console.log('Using environment variables directly');
+}
+
 const { Configuration, OpenAIApi } = require('openai');
 
 // OpenAI APIの設定
@@ -59,6 +70,7 @@ function generatePrompt(currentState, history) {
     return `あなたは2体の想像上の生命体（entityA, entityB）の進化を、SVGイラストと進化レポートとして生成するAIです。
 以下の要件をすべて満たすJSONを日本語で生成してください：
 
+- entityAは女性、entityBは男性の生命体として生成してください
 - entityA, entityBそれぞれについて、<svg ...>...</svg>形式のSVGコードを生成してください
 - SVGは必ずviewBox=\"0 0 400 400\"内に全身（体・顔・手足・しっぽ・角・模様など）を大きく中央に描いてください
 - 顔だけのキャラクターは禁止。必ず体・手足・しっぽ・角・模様など複数のパーツを含めてください
@@ -76,7 +88,7 @@ function generatePrompt(currentState, history) {
   "entityA": {
     "svg": "<svg ...>...</svg>",
     "report": {
-      "appearance": "現在の姿の詳細な日本語説明",
+      "appearance": "現在の姿の詳細な日本語説明（女性の特徴を含める）",
       "reason": "なぜこの進化が起こったのかの日本語理由",
       "thought": "生命体の内面や感情を表す日本語の一言（『』で囲む）"
     }
@@ -84,7 +96,7 @@ function generatePrompt(currentState, history) {
   "entityB": {
     "svg": "<svg ...>...</svg>",
     "report": {
-      "appearance": "現在の姿の詳細な日本語説明",
+      "appearance": "現在の姿の詳細な日本語説明（男性の特徴を含める）",
       "reason": "なぜこの進化が起こったのかの日本語理由",
       "thought": "生命体の内面や感情を表す日本語の一言（『』で囲む）"
     }

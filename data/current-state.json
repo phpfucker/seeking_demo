@@ -1,18 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"orange\" /><rect x=\"150\" y=\"250\" width=\"100\" height=\"50\" fill=\"green\" /><line x1=\"150\" y1=\"250\" x2=\"100\" y2=\"200\" stroke=\"black\" stroke-width=\"5\" /><line x1=\"250\" y1=\"250\" x2=\"300\" y2=\"200\" stroke=\"black\" stroke-width=\"5\" /><circle cx=\"175\" cy=\"175\" r=\"10\" fill=\"black\" /><circle cx=\"225\" cy=\"175\" r=\"10\" fill=\"black\" /></svg>",
+    "gender": "female",
+    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"purple\" /><rect x=\"150\" y=\"250\" width=\"100\" height=\"50\" fill=\"pink\" /><polygon points=\"100,100 150,200 200,150\" fill=\"yellow\" /><line x1=\"50\" y1=\"150\" x2=\"350\" y2=\"150\" stroke=\"black\" stroke-width=\"5\" /><ellipse cx=\"250\" cy=\"300\" rx=\"50\" ry=\"30\" fill=\"green\" /></svg>",
     "report": {
-      "appearance": "体は大きなオレンジ色の球体で、手足は緑色の四角形で表現されており、顔には2つの小さな黒い目がある。",
-      "reason": "生存環境の変化により、姿を大きく変えて進化した。",
-      "thought": "『新たな姿、新しい力』"
+      "appearance": "エンティティAは、紫色の円形の体とピンクの四角い足、黄色い三角形の模様、黒い直線の腕、緑の楕円形のしっぽを持つ生命体である。",
+      "reason": "エンティティAは、新たな環境に適応するため、より大きな足としっぽを持つ進化を遂げた。",
+      "thought": "『成長と変化』"
     }
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"120\" fill=\"purple\" /><path d=\"M200 150 Q250 100 300 150 Q250 200 200 150Z\" fill=\"pink\" /><line x1=\"200\" y1=\"150\" x2=\"170\" y2=\"120\" stroke=\"black\" stroke-width=\"5\" /><line x1=\"200\" y1=\"150\" x2=\"230\" y2=\"120\" stroke=\"black\" stroke-width=\"5\" /><circle cx=\"170\" cy=\"120\" r=\"10\" fill=\"black\" /><circle cx=\"230\" cy=\"120\" r=\"10\" fill=\"black\" /></svg>",
+    "gender": "male",
+    "svg": "<svg viewBox=\"0 0 400 400\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"blue\" /><circle cx=\"150\" cy=\"150\" r=\"50\" fill=\"orange\" /><path d=\"M 250,150 Q 300,100 350,150\" fill=\"red\" /><line x1=\"150\" y1=\"300\" x2=\"250\" y2=\"350\" stroke=\"gray\" stroke-width=\"5\" /><polygon points=\"100,300 150,350 200,300\" fill=\"yellow\" /></svg>",
     "report": {
-      "appearance": "紫色の球体の体に、ピンク色の特徴的な模様を持ち、顔は独特な形状で目が2つあり、2本の角がある。",
-      "reason": "食性の変化から、環境に適応するために進化した。",
-      "thought": "『新たな姿、新たな旅』"
+      "appearance": "エンティティBは、青色の四角い体とオレンジの円形の頭、赤色の曲線模様、灰色の腕、黄色の三角形の尾を持つ生命体である。",
+      "reason": "エンティティBは、食物調達の効率を高めるため、より複雑な口を持つ進化を遂げた。",
+      "thought": "『進化と適応』"
     }
   }
 }
