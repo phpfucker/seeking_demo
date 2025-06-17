@@ -1638,5 +1638,28 @@
       "gender": "男性"
     },
     "timestamp": 1750187598146
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='200' width='200' height='150' fill='#ffcccc'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#ff9999'/><polygon points='150,250 250,250 200,300' fill='#ff6666'/><circle cx='170' cy='100' r='10' fill='#663333'/><circle cx='230' cy='100' r='10' fill='#663333'/><rect x='160' y='230' width='10' height='30' fill='#ff6666'/><rect x='230' y='230' width='10' height='30' fill='#ff6666'/><path d='M190 150 Q200 130 210 150' fill='none' stroke='#663333' stroke-width='2'/><path d='M210 150 Q220 130 230 150' fill='none' stroke='#663333' stroke-width='2'/><text x='140' y='30' font-family='Arial' font-size='20' fill='#663333'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかい皮膚を持ち、赤い目と口を持つ女性型の生命体です。頭部には大きな薄桃色の楕円形があり、頭頂部に三角形の装飾があります。腕と脚は赤い色で構成され、脚には四本の指があります。胴体は赤い長方形で、腰には薄桃色の三角形を持っています。",
+        "reason": "イヴは自然のバランスと調和を表現するため、より柔らかく優しい色調とデザインに進化しました。",
+        "thought": "『調和と美を愛でる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='200' width='200' height='150' fill='#9999ff'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#6666ff'/><polygon points='150,250 250,250 200,300' fill='#3333ff'/><circle cx='170' cy='100' r='10' fill='#333366'/><circle cx='230' cy='100' r='10' fill='#333366'/><rect x='160' y='230' width='10' height='30' fill='#3333ff'/><rect x='230' y='230' width='10' height='30' fill='#3333ff'/><line x1='190' y1='150' x2='210' y2='150' stroke='#333366' stroke-width='2'/><line x1='210' y1='150' x2='230' y2='180' stroke='#333366' stroke-width='2'/><text x='140' y='30' font-family='Arial' font-size='20' fill='#333366'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青色の皮膚を持ち、紫色の目と口を持つ男性型の生命体です。頭部には大きな青い楕円形があり、頭頂部に三角形の装飾があります。腕と脚は紫色で構成され、脚には四本の指があります。胴体は青い長方形で、腰には青と紫の三角形を持っています。",
+        "reason": "アダムは進化により強さと知恵を表現するため、より洗練された色調とシャープなデザインに進化しました。",
+        "thought": "『知恵と力を結ぶ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750191520400
   }
 ]
