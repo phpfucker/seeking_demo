@@ -1661,5 +1661,28 @@
       "gender": "男性"
     },
     "timestamp": 1750191520400
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb' /><circle cx='200' cy='100' r='80' fill='#ffe4e1' /><ellipse cx='150' cy='250' rx='50' ry='30' fill='#ffb6c1' /><path d='M200,150 Q220,170 240,150' fill='none' stroke='#d81b60' stroke-width='3' /><path d='M200,170 Q220,190 240,170' fill='none' stroke='#d81b60' stroke-width='3' /><path d='M200,130 Q180,150 160,130' fill='none' stroke='#d81b60' stroke-width='3' /><path d='M200,130 Q220,150 240,130' fill='none' stroke='#d81b60' stroke-width='3' /><path d='M175,200 Q185,210 195,200' fill='none' stroke='#d81b60' stroke-width='3' /><path d='M225,200 Q235,210 245,200' fill='none' stroke='#d81b60' stroke-width='3' /><polygon points='180,240 220,240 200,280' fill='#d81b60' /><polygon points='190,220 210,220 200,240' fill='#d81b60' /><ellipse cx='180' cy='70' rx='10' ry='5' fill='#333333' /><ellipse cx='220' cy='70' rx='10' ry='5' fill='#333333' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に赤い顔と手足を持つ生命体です。頭部には薄いピンク色の楕円形があり、口元には薄いピンクの折れ線があります。体の背中には濃いピンクの模様があり、両腕には赤い三角形が配置されています。",
+        "reason": "進化の過程で、イヴはより柔らかな色合いと女性らしさを強調する特徴を身につけました。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#b0e0e6' /><circle cx='200' cy='100' r='80' fill='#add8e6' /><ellipse cx='150' cy='250' rx='50' ry='30' fill='#87ceeb' /><path d='M200,150 Q220,170 240,150' fill='none' stroke='#4169e1' stroke-width='3' /><path d='M200,170 Q220,190 240,170' fill='none' stroke='#4169e1' stroke-width='3' /><path d='M200,130 Q180,150 160,130' fill='none' stroke='#4169e1' stroke-width='3' /><path d='M200,130 Q220,150 240,130' fill='none' stroke='#4169e1' stroke-width='3' /><path d='M175,200 Q185,210 195,200' fill='none' stroke='#4169e1' stroke-width='3' /><path d='M225,200 Q235,210 245,200' fill='none' stroke='#4169e1' stroke-width='3' /><polygon points='180,240 220,240 200,280' fill='#4169e1' /><polygon points='190,220 210,220 200,240' fill='#4169e1' /><ellipse cx='180' cy='70' rx='10' ry='5' fill='#333333' /><ellipse cx='220' cy='70' rx='10' ry='5' fill='#333333' /></svg>",
+      "report": {
+        "appearance": "アダムは、水色の体に青い顔と手足を持つ生命体です。頭部には薄い水色の楕円形があり、口元には薄い水色の折れ線があります。体の背中には青い模様があり、両腕には水色の三角形が配置されています。",
+        "reason": "進化の過程で、アダムはより涼しげな色合いと男性らしさを強調する特徴を身につけました。",
+        "thought": "『知識と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750194997205
   }
 ]
