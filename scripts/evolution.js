@@ -65,48 +65,26 @@ async function saveCurrentState(state) {
     );
 }
 
+// evolution_prompt.mdからプロンプトを抽出する関数
+async function loadPromptFromMarkdown() {
+    const promptPath = path.join(__dirname, '../evolution_prompt.md');
+    const md = await fs.readFile(promptPath, 'utf8');
+    // セクションごとに分割
+    const fixedMatch = md.match(/## 固定プロンプト([\s\S]*?)(?=##|$)/);
+    const freeMatch = md.match(/## 追加・編集自由プロンプト([\s\S]*?)(?=##|$)/);
+    const fixed = fixedMatch ? fixedMatch[1].trim() : '';
+    const free = freeMatch ? freeMatch[1].trim() : '';
+    return fixed + '\n' + free;
+}
+
 // 2体分のSVG＋レポート生成用プロンプト
-function generatePrompt(currentState, history) {
-    return `あなたは2体の想像上の生命体（entityA, entityB）の進化を、SVGイラストと進化レポートとして生成するAIです。
-以下の要件をすべて満たすJSONを日本語で生成してください：
-
-- entityAの名前は「イヴ」、性別は「女性」とし、entityBの名前は「アダム」、性別は「男性」として固定してください（進化しても変わりません）
-- entityA, entityBそれぞれについて、<svg ...>...</svg>形式のSVGコードを生成してください
-- SVGは必ずviewBox=\"0 0 400 400\"内に全身（体・顔・手足・しっぽ・角・模様など）を大きく中央に描いてください
-- 顔だけのキャラクターは禁止。必ず体・手足・しっぽ・角・模様など複数のパーツを含めてください
-- SVGの動きやアニメーションは一切不要です。静的なイラストのみを生成してください
-- フレームや背景は動かさず、生命体のパーツのみを描画してください
-- 多様な模様・色・形状・パーツを使い、イラストや写真のような生き物らしさ・複雑さ・有機的な形を重視してください
-- 実在の動物・昆虫・魚・空想生物・複合生物（例：ケンタウロス、ユニコーン、馬の足＋魚の頭＋シマウマの模様＋ピカチュウのしっぽ等）を参考にしても構いません
-- 進化ごとにパーツ・模様・色・形・大きさ・配置が必ず変化し、前回の特徴を一部引き継ぎつつ新しい特徴を加えてください
-- できるだけイラストや写真のような生き物らしい表現を目指してください
-- 単純な図形ではなく、曲線・複雑なパーツ・模様・表情・手足・しっぽ・角などを必ず含めてください
-- 参考画像：[BRUTUS生物イラスト例](https://media.brutus.jp/wp-content/uploads/2023/02/8dd59338902d132e8ac8dd69d8ba72d6.jpg)、[Pixivオリジナルモンスター特集](https://embed.pixiv.net/spotlight.php?id=1373&lang=ja)
-
-以下のJSON形式で、必ず日本語で出力してください（マークダウンや説明文は不要）:
-{
-  "entityA": {
-    "svg": "<svg ...>...</svg>",
-    "report": {
-      "appearance": "現在の姿の詳細な日本語説明（女性の特徴を含める）",
-      "reason": "なぜこの進化が起こったのかの日本語理由",
-      "thought": "生命体の内面や感情を表す日本語の一言（『』で囲む）"
-    }
-  },
-  "entityB": {
-    "svg": "<svg ...>...</svg>",
-    "report": {
-      "appearance": "現在の姿の詳細な日本語説明（男性の特徴を含める）",
-      "reason": "なぜこの進化が起こったのかの日本語理由",
-      "thought": "生命体の内面や感情を表す日本語の一言（『』で囲む）"
-    }
-  }
-}`;
+async function generatePrompt(currentState, history) {
+    return await loadPromptFromMarkdown();
 }
 
 // 次の進化状態を生成する
 async function generateNextEvolution(currentState, history) {
-    const prompt = generatePrompt(currentState, history);
+    const prompt = await generatePrompt(currentState, history);
     try {
         const response = await openai.createChatCompletion({
             model: "gpt-3.5-turbo",
