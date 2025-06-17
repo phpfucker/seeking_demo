@@ -1,18 +1,18 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"lightblue\" /><rect x=\"150\" y=\"250\" width=\"100\" height=\"100\" fill=\"pink\" /><rect x=\"175\" y=\"150\" width=\"50\" height=\"100\" fill=\"purple\" /><circle cx=\"175\" cy=\"150\" r=\"10\" fill=\"black\" /><circle cx=\"225\" cy=\"150\" r=\"10\" fill=\"black\" /><rect x=\"160\" y=\"250\" width=\"20\" height=\"50\" fill=\"purple\" /><rect x=\"220\" y=\"250\" width=\"20\" height=\"50\" fill=\"purple\" /></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"lightblue\" /><polygon points=\"150,250 200,350 250,250\" fill=\"purple\" /><rect x=\"175\" y=\"150\" width=\"50\" height=\"15\" fill=\"gray\" /><circle cx=\"180\" cy=\"180\" r=\"5\" fill=\"black\" /><circle cx=\"220\" cy=\"180\" r=\"5\" fill=\"black\" /><line x1=\"195\" y1=\"210\" x2=\"225\" y2=\"210\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"190\" y1=\"220\" x2=\"210\" y2=\"230\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"210\" y1=\"230\" x2=\"230\" y2=\"220\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"180\" y1=\"250\" x2=\"220\" y2=\"250\" stroke=\"black\" stroke-width=\"2\" /><circle cx=\"200\" cy=\"280\" r=\"20\" fill=\"purple\" /></svg>",
     "report": {
-      "appearance": "体は大きな青い円形で構成され、手足はピンクの四角形、模様は紫の長方形や円形であり、顔は丸い形状で目が2つあります。",
-      "reason": "進化の理由は、生息環境の変化により、色彩と形状の変化が適応的な利点を提供したためです。",
-      "thought": "『自然に身を任せる』"
+      "appearance": "体は青い円形を基調とし、紫色の三角形の角を持ち、グレーの四角形の手足を持つ。両目は黒い丸で表現し、口はなく、細長い四角形のしっぽが後ろに伸びている。背中には紫色の丸い模様がある。",
+      "reason": "環境の変化により、青色が保護色となり、紫色の模様が進化して視覚的な刺激となったため、新たな形状のパーツを持つように進化した。",
+      "thought": "『奇抜な模様で目立ちたい』"
     }
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><rect x=\"150\" y=\"200\" width=\"100\" height=\"150\" fill=\"purple\" /><circle cx=\"200\" cy=\"150\" r=\"50\" fill=\"yellow\" /><polygon points=\"175,200 225,200 200,250\" fill=\"yellow\" /><rect x=\"190\" y=\"250\" width=\"20\" height=\"50\" fill=\"purple\" /><rect x=\"185\" y=\"300\" width=\"30\" height=\"10\" fill=\"purple\" /><circle cx=\"185\" cy=\"150\" r=\"10\" fill=\"black\" /><circle cx=\"215\" cy=\"150\" r=\"10\" fill=\"black\" /></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\"><rect x=\"150\" y=\"150\" width=\"100\" height=\"200\" fill=\"orange\" /><circle cx=\"200\" cy=\"100\" r=\"50\" fill=\"pink\" /><polygon points=\"150,250 200,350 250,250\" fill=\"yellow\" /><rect x=\"175\" y=\"150\" width=\"50\" height=\"15\" fill=\"brown\" /><circle cx=\"180\" cy=\"180\" r=\"5\" fill=\"black\" /><circle cx=\"220\" cy=\"180\" r=\"5\" fill=\"black\" /><line x1=\"195\" y1=\"210\" x2=\"225\" y2=\"210\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"190\" y1=\"220\" x2=\"210\" y2=\"230\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"210\" y1=\"230\" x2=\"230\" y2=\"220\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"180\" y1=\"250\" x2=\"220\" y2=\"250\" stroke=\"black\" stroke-width=\"2\" /><circle cx=\"200\" cy=\"280\" r=\"20\" fill=\"yellow\" /></svg>",
     "report": {
-      "appearance": "体が紫色の四角形で、頭部が黄色の円形であり、手は三角形、足は四角形で構成されています。目は2つあり、顔の表情は明るい印象を与えます。",
-      "reason": "進化が起こった理由は、食性の変化により、体の形状と色彩が捕食や警戒に有利であるためです。",
-      "thought": "『新たな旅立ち』"
+      "appearance": "オレンジ色の四角い体を持ち、頭部はピンク色の丸で、黄色い三角形の角を持つ。手足は茶色の四角形で、目と口は黒い円で表現されている。しっぽはなく、背中には黄色い模様がある。",
+      "reason": "食性の変化により、オレンジ色が環境に適応し、ピンク色の頭部が仲間とのコミュニケーションを促すために発達し、黄色い模様がパートナーへのアピールに役立ったため、外見が変化した。",
+      "thought": "『色と形で仲間を引き寄せたい』"
     }
   }
 }
