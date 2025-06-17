@@ -1684,5 +1684,28 @@
       "gender": "男性"
     },
     "timestamp": 1750194997205
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='120' ry='170' fill='#ffccff' /><path d='M140 200 Q200 100 260 200 Q200 300 140 200 Z' fill='#ff99cc' /><ellipse cx='155' cy='180' rx='20' ry='15' fill='#ff99cc' /><ellipse cx='245' cy='180' rx='20' ry='15' fill='#ff99cc' /><rect x='175' y='240' width='50' height='20' fill='#ffccff' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に大きな赤い瞳を持ち、優雅な曲線の姿をしています。頭部にはピンクと紫の誇張された耳があり、体全体には柔らかな色のグラデーションが施されています。胴体には小さな紫の装飾が施され、腰には短いピンクのしっぽがあります。",
+        "reason": "イヴは自然界の美しさを表現するため、より優美で柔らかな特徴を持つよう進化しました。",
+        "thought": "『調和と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='130' ry='180' fill='#b3e6ff' /><path d='M140 200 Q200 100 260 200 Q200 300 140 200 Z' fill='#66b3ff' /><ellipse cx='155' cy='180' rx='20' ry='15' fill='#3399ff' /><ellipse cx='245' cy='180' rx='20' ry='15' fill='#3399ff' /><polygon points='190,240 210,240 200,260' fill='#b3e6ff' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に大きな深い青の眼を持ち、力強い体つきをしています。頭部には鮮やかな青と紺の角があり、体表には鮮やかな青色のグラデーションが広がっています。腰には短く太い青いしっぽが付いています。",
+        "reason": "アダムは生存競争において優位性を持つため、より力強く堅固な特徴を備えるよう進化しました。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750198553464
   }
 ]
