@@ -1,18 +1,18 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"pink\" /><rect x=\"150\" y=\"250\" width=\"100\" height=\"50\" fill=\"purple\" /><circle cx=\"180\" cy=\"180\" r=\"10\" fill=\"black\" /><circle cx=\"220\" cy=\"180\" r=\"10\" fill=\"black\" /><line x1=\"180\" y1=\"220\" x2=\"150\" y2=\"250\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"220\" y1=\"220\" x2=\"250\" y2=\"250\" stroke=\"black\" stroke-width=\"2\" /><polygon points=\"150,250 170,280 130,280\" fill=\"blue\" /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink'/><rect x='150' y='250' width='100' height='50' fill='purple'/><line x1='150' y1='150' x2='100' y2='100' stroke='black' stroke-width='5'/><line x1='250' y1='150' x2='300' y2='100' stroke='black' stroke-width='5'/></svg>",
     "report": {
-      "appearance": "エンティティAは、ピンクの体に紫の衣装をまとった女性である。黒い瞳を持ち、青い髪の毛に翼のような模様がある。手足は幾何学的な形状をしており、複雑なパターンが全身に広がる。",
-      "reason": "生存競争において、エレガントで洗練された特徴が進化上の利益をもたらしたため。",
-      "thought": "『優雅さが強さを生む』"
+      "appearance": "entityAは、ピンクの体に紫色のドレスを着用し、角のような突起物が頭に生えており、四本の腕を持つ女性の生命体です。",
+      "reason": "新たな環境での生存戦略を模索し、適応するために進化した。",
+      "thought": "『新たな姿で未来に挑む』"
     }
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\"><rect x=\"150\" y=\"150\" width=\"100\" height=\"200\" fill=\"blue\" /><circle cx=\"200\" cy=\"150\" r=\"50\" fill=\"yellow\" /><circle cx=\"180\" cy=\"200\" r=\"10\" fill=\"black\" /><circle cx=\"220\" cy=\"200\" r=\"10\" fill=\"black\" /><line x1=\"180\" y1=\"250\" x2=\"150\" y2=\"300\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"220\" y1=\"250\" x2=\"250\" y2=\"300\" stroke=\"black\" stroke-width=\"2\" /><polygon points=\"150,300 170,330 130,330\" fill=\"purple\" /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='blue'/><rect x='150' y='250' width='100' height='50' fill='green'/><polygon points='200,100 175,150 225,150' fill='yellow'/><line x1='150' y1='250' x2='100' y2='300' stroke='black' stroke-width='5'/><line x1='250' y1='250' x2='300' y2='300' stroke='black' stroke-width='5'/></svg>",
     "report": {
-      "appearance": "エンティティBは、青い体に黄色い頭部を持つ男性である。黒い目と、矢印のような髪型をしている。手足は太く頑丈で、全身に紫の斑点が散らばる。",
-      "reason": "繁殖上の適応により、頑丈な外見と目立つ色合いが発達したため。",
-      "thought": "『強さと美しさの調和』"
+      "appearance": "entityBは、青い体に緑色の服を纏い、黄色い角を持ち、四つの脚を持つ男性の生命体です。",
+      "reason": "繁殖競争において、より効果的な提案を行うために進化した。",
+      "thought": "『新たな力を手に入れた』"
     }
   }
 }
