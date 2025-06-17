@@ -1250,5 +1250,24 @@
       }
     },
     "timestamp": 1750134348388
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='blue'/><rect x='175' y='250' width='50' height='100' fill='yellow'/><path d='M150 200 L100 300 L200 300 Z' fill='green'/></svg>",
+      "report": {
+        "appearance": "entityAは青い円形の体を持ち、黄色い四角形の手足を持っている。緑色の三角形のしっぽが特徴的である。",
+        "reason": "環境の変化により、entityAは青色の体表面に緑色の模様を持つことで、捕食者から身を守るための進化を遂げた。",
+        "thought": "『自然に溶け込む』"
+      }
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='150' ry='100' fill='purple'/><path d='M200 150 C150 100 250 100 200 150 Z' fill='pink'/><polygon points='175,250 225,250 200,300' fill='orange'/></svg>",
+      "report": {
+        "appearance": "entityBは紫色の楕円形の体を持ち、ピンク色の曲線が特徴的な顔を持つ。オレンジ色の角が頭部に生えている。",
+        "reason": "食物源の変化に適応するため、entityBは紫色の体表面にピンク色の模様を持つように進化した。",
+        "thought": "『変化に適応する』"
+      }
+    },
+    "timestamp": 1750137418607
   }
 ]

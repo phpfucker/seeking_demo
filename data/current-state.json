@@ -1,18 +1,18 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='blue'/><rect x='175' y='250' width='50' height='100' fill='yellow'/><path d='M150 200 L100 300 L200 300 Z' fill='green'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='purple' /><rect x='175' y='150' width='50' height='100' fill='yellow' /><polygon points='200,50 250,150 150,150' fill='orange' /><circle cx='180' cy='220' r='10' fill='black' /><circle cx='220' cy='220' r='10' fill='black' /><circle cx='180' cy='220' r='5' fill='white' /><circle cx='220' cy='220' r='5' fill='white' /><line x1='160' y1='250' x2='140' y2='300' stroke='black' stroke-width='5' /><line x1='240' y1='250' x2='260' y2='300' stroke='black' stroke-width='5' /></svg>",
     "report": {
-      "appearance": "entityAは青い円形の体を持ち、黄色い四角形の手足を持っている。緑色の三角形のしっぽが特徴的である。",
-      "reason": "環境の変化により、entityAは青色の体表面に緑色の模様を持つことで、捕食者から身を守るための進化を遂げた。",
-      "thought": "『自然に溶け込む』"
+      "appearance": "entityAは紫色の円形の体に黄色い四角い模様があり、頭部はオレンジ色の三角形であり、黒い目と白い目が2つずつあり、黒い腕と脚があります。",
+      "reason": "これらの進化は、環境の変化に適応するために色と形状を変える必要があったためです。",
+      "thought": "『変化は進化の始まり』"
     }
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='150' ry='100' fill='purple'/><path d='M200 150 C150 100 250 100 200 150 Z' fill='pink'/><polygon points='175,250 225,250 200,300' fill='orange'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='150' ry='100' fill='green' /><polygon points='180,190 200,150 220,190' fill='brown' /><circle cx='180' cy='210' r='10' fill='blue' /><circle cx='220' cy='210' r='10' fill='blue' /><line x1='180' y1='250' x2='160' y2='300' stroke='black' stroke-width='5' /><line x1='220' y1='250' x2='240' y2='300' stroke='black' stroke-width='5' /><path d='M150 200 Q200 250 250 200 Q200 150 150 200 Z' fill='yellow' /></svg>",
     "report": {
-      "appearance": "entityBは紫色の楕円形の体を持ち、ピンク色の曲線が特徴的な顔を持つ。オレンジ色の角が頭部に生えている。",
-      "reason": "食物源の変化に適応するため、entityBは紫色の体表面にピンク色の模様を持つように進化した。",
-      "thought": "『変化に適応する』"
+      "appearance": "entityBは緑色の楕円形の体に茶色の模様があり、青い目が2つあり、青い腕と脚があります。背中には黄色の模様があります。",
+      "reason": "この進化は、食物調達に適した環境で生存するために、色と形状が変化した結果です。",
+      "thought": "『自然の摂理に従って進化する』"
     }
   }
 }
