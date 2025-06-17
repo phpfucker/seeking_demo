@@ -1231,5 +1231,24 @@
       }
     },
     "timestamp": 1750130147537
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='blue'/><rect x='175' y='200' width='50' height='100' fill='white'/></svg>",
+      "report": {
+        "appearance": "entityAは青い体を持ち、白い四角い顔を持つように進化しました。手足やしっぽなどの詳細は省略している。",
+        "reason": "環境の変化により、視覚的カモフラージュを利用することで生存率を高めるため進化しました。",
+        "thought": "『変化に適応する』"
+      }
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='120' fill='red'/><ellipse cx='200' cy='300' rx='50' ry='20' fill='green'/></svg>",
+      "report": {
+        "appearance": "entityBは赤い体と緑の楕円形の模様を持つように進化しました。詳細な特徴は省略している。",
+        "reason": "食物源の変化により、色彩的な警告信号を発することで敵を避けるため進化しました。",
+        "thought": "『警戒心を持つ』"
+      }
+    },
+    "timestamp": 1750134348388
   }
 ]
