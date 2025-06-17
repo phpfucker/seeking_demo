@@ -1345,5 +1345,24 @@
       }
     },
     "timestamp": 1750151938749
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"#ffcc00\"/><rect x=\"175\" y=\"250\" width=\"50\" height=\"100\" fill=\"#993300\"/><path d=\"M100 150 L50 250 L150 250 Z\" fill=\"#336699\"/><line x1=\"100\" y1=\"150\" x2=\"150\" y2=\"200\" stroke=\"#663333\" stroke-width=\"5\"/><text x=\"200\" y=\"350\" font-family=\"Verdana\" font-size=\"20\" fill=\"black\">Entity A</text></svg>",
+      "report": {
+        "appearance": "黄色い球体の体に、茶色の四角い足と青い三角形の模様を持つ生命体。頭部には茶色の角が一つあり、体の中央に太い黒い線が入る。",
+        "reason": "この進化が起こった理由は、生存競争の中でより派手な模様や角を持つことで、仲間や敵からの注目を引き、繁殖の成功率を高めるため。",
+        "thought": "『輝く未来へ』"
+      }
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\"><ellipse cx=\"200\" cy=\"200\" rx=\"120\" ry=\"180\" fill=\"#990066\"/><polygon points=\"150,250 200,150 250,250\" fill=\"#ff9900\"/><path d=\"M100 150 Q150 50 200 150 Q250 250 300 150\" fill=\"none\" stroke=\"#336633\" stroke-width=\"5\"/><circle cx=\"200\" cy=\"220\" r=\"20\" fill=\"#996633\"/><text x=\"200\" y=\"350\" font-family=\"Verdana\" font-size=\"20\" fill=\"black\">Entity B</text></svg>",
+      "report": {
+        "appearance": "紫色の楕円形の体に、オレンジ色の三角形の顔と緑色の波状の模様を持つ生命体。頭部には茶色の円形の口があり、背中には緑の波を描いた尾がある。",
+        "reason": "この進化が起こった理由は、環境の変化に適応するために、体の形状や模様を変化させ、新たな生存戦略を獲得するため。",
+        "thought": "『自然と共に』"
+      }
+    },
+    "timestamp": 1750155545713
   }
 ]
