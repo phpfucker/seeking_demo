@@ -1592,5 +1592,28 @@
       "gender": "男性"
     },
     "timestamp": 1750180561014
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff99cc' /><ellipse cx='200' cy='180' rx='80' ry='120' fill='#ffccff' /><rect x='170' y='160' width='60' height='20' fill='#ff66cc' /><rect x='170' y='220' width='60' height='20' fill='#ff66cc' /><path d='M180 220 L170 230 L200 240 L210 230 Z' fill='#ff66cc' /><circle cx='150' cy='180' r='10' fill='#ffffff' /><circle cx='250' cy='180' r='10' fill='#ffffff' /><rect x='160' y='100' width='80' height='50' fill='#ffccff' /><polygon points='175,100 220,100 200,80' fill='#ffccff' /><polyline points='175,100 165,120 165,150' fill='none' stroke='#ffccff' stroke-width='2' /><polyline points='220,100 230,120 230,150' fill='none' stroke='#ffccff' stroke-width='2' /><path d='M180 150 Q200 140 220 150' fill='none' stroke='#000000' stroke-width='2' /><text x='140' y='260' font-family='Arial' font-size='18' fill='#000000'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとパープルの色調を持つ優雅な女性で、様々な曲線と複雑なパーツで構成されています。体の上半分は楕円形で、腰の周りに細いリボンのような模様があります。手足は短めで丸みを帯び、顔には小さな白い目が描かれています。",
+        "reason": "イヴは自然の摂理から、より美しく優雅な姿に進化しました。芸術的な要素が加わり、独自の魅力を持つようになりました。",
+        "thought": "『美しさは内面から生まれる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#3399ff' /><ellipse cx='200' cy='180' rx='80' ry='120' fill='#66ccff' /><rect x='170' y='160' width='60' height='20' fill='#3366ff' /><rect x='170' y='220' width='60' height='20' fill='#3366ff' /><path d='M180 220 L170 230 L200 240 L210 230 Z' fill='#3366ff' /><circle cx='150' cy='180' r='10' fill='#ffffff' /><circle cx='250' cy='180' r='10' fill='#ffffff' /><rect x='160' y='100' width='80' height='50' fill='#66ccff' /><polygon points='175,100 220,100 200,80' fill='#66ccff' /><polyline points='175,100 165,120 165,150' fill='none' stroke='#66ccff' stroke-width='2' /><polyline points='220,100 230,120 230,150' fill='none' stroke='#66ccff' stroke-width='2' /><path d='M180 150 Q200 140 220 150' fill='none' stroke='#000000' stroke-width='2' /><text x='140' y='260' font-family='Arial' font-size='18' fill='#000000'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青色系の色合いを持つ男性で、力強い印象を与えるように進化しました。体の形状はイヴと似ていますが、より筋肉質で頑丈な外観を持ち、青いリボン模様が腰を飾っています。顔には真っすぐな眉と力強い口元が特徴です。",
+        "reason": "アダムは強さと頼りになる性質への進化を遂げました。より力強く、保護者的な特性が強調されました。",
+        "thought": "『力強さは責任と共に』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750184664015
   }
 ]
