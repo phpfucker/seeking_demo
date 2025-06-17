@@ -1454,5 +1454,28 @@
       "gender": "男性"
     },
     "timestamp": 1750162580590
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='pink'/><ellipse cx='200' cy='200' rx='100' ry='120' fill='lightblue'/><circle cx='150' cy='150' r='10' fill='black'/><circle cx='250' cy='150' r='10' fill='black'/><path d='M150 300 Q200 350 250 300' stroke='black' fill='none'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクの体に青い楕円形の顔を持ち、目の周りには黒い点があります。体の中央には黒いラインが描かれ、体の形状は長方形と楕円形の組み合わせです。",
+        "reason": "この進化は、イヴが新たな環境に適応するために体の形状を変化させた結果です。",
+        "thought": "『生命の喜び』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='lightgreen'/><ellipse cx='200' cy='200' rx='100' ry='120' fill='yellow'/><circle cx='150' cy='150' r='10' fill='black'/><circle cx='250' cy='150' r='10' fill='black'/><polygon points='180,300 220,300 200,330' fill='red'/></svg>",
+      "report": {
+        "appearance": "アダムは、緑色の体に黄色い楕円形の顔を持ち、目の周りには黒い点があります。体の中央には赤い三角形の模様があり、体の形状は長方形と楕円形の組み合わせです。",
+        "reason": "この進化は、アダムが新たな食物源に適応するために特定の模様が発達した結果です。",
+        "thought": "『自然の力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750163767038
   }
 ]
