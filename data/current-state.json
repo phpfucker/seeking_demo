@@ -1,20 +1,18 @@
 {
   "entityA": {
-    "gender": "female",
-    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"purple\" /><rect x=\"150\" y=\"250\" width=\"100\" height=\"50\" fill=\"pink\" /><polygon points=\"100,100 150,200 200,150\" fill=\"yellow\" /><line x1=\"50\" y1=\"150\" x2=\"350\" y2=\"150\" stroke=\"black\" stroke-width=\"5\" /><ellipse cx=\"250\" cy=\"300\" rx=\"50\" ry=\"30\" fill=\"green\" /></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"pink\" /><rect x=\"150\" y=\"250\" width=\"100\" height=\"50\" fill=\"purple\" /><circle cx=\"180\" cy=\"180\" r=\"10\" fill=\"black\" /><circle cx=\"220\" cy=\"180\" r=\"10\" fill=\"black\" /><line x1=\"180\" y1=\"220\" x2=\"150\" y2=\"250\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"220\" y1=\"220\" x2=\"250\" y2=\"250\" stroke=\"black\" stroke-width=\"2\" /><polygon points=\"150,250 170,280 130,280\" fill=\"blue\" /></svg>",
     "report": {
-      "appearance": "エンティティAは、紫色の円形の体とピンクの四角い足、黄色い三角形の模様、黒い直線の腕、緑の楕円形のしっぽを持つ生命体である。",
-      "reason": "エンティティAは、新たな環境に適応するため、より大きな足としっぽを持つ進化を遂げた。",
-      "thought": "『成長と変化』"
+      "appearance": "エンティティAは、ピンクの体に紫の衣装をまとった女性である。黒い瞳を持ち、青い髪の毛に翼のような模様がある。手足は幾何学的な形状をしており、複雑なパターンが全身に広がる。",
+      "reason": "生存競争において、エレガントで洗練された特徴が進化上の利益をもたらしたため。",
+      "thought": "『優雅さが強さを生む』"
     }
   },
   "entityB": {
-    "gender": "male",
-    "svg": "<svg viewBox=\"0 0 400 400\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"blue\" /><circle cx=\"150\" cy=\"150\" r=\"50\" fill=\"orange\" /><path d=\"M 250,150 Q 300,100 350,150\" fill=\"red\" /><line x1=\"150\" y1=\"300\" x2=\"250\" y2=\"350\" stroke=\"gray\" stroke-width=\"5\" /><polygon points=\"100,300 150,350 200,300\" fill=\"yellow\" /></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\"><rect x=\"150\" y=\"150\" width=\"100\" height=\"200\" fill=\"blue\" /><circle cx=\"200\" cy=\"150\" r=\"50\" fill=\"yellow\" /><circle cx=\"180\" cy=\"200\" r=\"10\" fill=\"black\" /><circle cx=\"220\" cy=\"200\" r=\"10\" fill=\"black\" /><line x1=\"180\" y1=\"250\" x2=\"150\" y2=\"300\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"220\" y1=\"250\" x2=\"250\" y2=\"300\" stroke=\"black\" stroke-width=\"2\" /><polygon points=\"150,300 170,330 130,330\" fill=\"purple\" /></svg>",
     "report": {
-      "appearance": "エンティティBは、青色の四角い体とオレンジの円形の頭、赤色の曲線模様、灰色の腕、黄色の三角形の尾を持つ生命体である。",
-      "reason": "エンティティBは、食物調達の効率を高めるため、より複雑な口を持つ進化を遂げた。",
-      "thought": "『進化と適応』"
+      "appearance": "エンティティBは、青い体に黄色い頭部を持つ男性である。黒い目と、矢印のような髪型をしている。手足は太く頑丈で、全身に紫の斑点が散らばる。",
+      "reason": "繁殖上の適応により、頑丈な外見と目立つ色合いが発達したため。",
+      "thought": "『強さと美しさの調和』"
     }
   }
 }
