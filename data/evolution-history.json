@@ -1546,5 +1546,28 @@
       "gender": "男性"
     },
     "timestamp": 1750173541928
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#ffcc99' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='#ffaa66' /><ellipse cx='200' cy='280' rx='80' ry='50' fill='#ffaa66' /><path d='M190 180 a15 50 0 1 0 20 0' fill='none' stroke='#664422' stroke-width='4' /><polygon points='180,150 200,100 220,150' fill='#664422' /><line x1='180' y1='280' x2='160' y2='320' stroke='#664422' stroke-width='4' /><line x1='220' y1='280' x2='240' y2='320' stroke='#664422' stroke-width='4' /><path d='M200 200 q-30 20 0 40 q30 -20 0 -40' fill='none' stroke='#664422' stroke-width='4' /><circle cx='175' cy='140' r='5' fill='#000' /><circle cx='225' cy='140' r='5' fill='#000' /><circle cx='190' cy='160' r='10' fill='#fff' /><circle cx='210' cy='160' r='10' fill='#fff' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、黄色い眼と角のある美しい女性。体は丸みを帯び、優雅なフォルムを持っている。背中には大きな羽が生えている。",
+        "reason": "イヴは新たな知識と知恵を求め、進化した。その進化により、より優れた知性と洗練された美しさを得た。",
+        "thought": "『知識の果てに、美しさがある』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#99ccff' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='#6699ff' /><ellipse cx='200' cy='280' rx='80' ry='50' fill='#6699ff' /><path d='M190 180 a15 50 0 1 0 20 0' fill='none' stroke='#224466' stroke-width='4' /><polygon points='180,150 200,100 220,150' fill='#224466' /><line x1='180' y1='280' x2='160' y2='320' stroke='#224466' stroke-width='4' /><line x1='220' y1='280' x2='240' y2='320' stroke='#224466' stroke-width='4' /><path d='M200 200 q-30 20 0 40 q30 -20 0 -40' fill='none' stroke='#224466' stroke-width='4' /><circle cx='175' cy='140' r='5' fill='#000' /><circle cx='225' cy='140' r='5' fill='#000' /><circle cx='190' cy='160' r='10' fill='#fff' /><circle cx='210' cy='160' r='10' fill='#fff' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い肌と銀色の目を持つ男性で、角のある強靭な体つきが特徴。背中には翼が生え、力強い足と尾を持っている。",
+        "reason": "アダムは力と勇気を求め、進化した。その進化により、より強靭な体と逞しい精神力を手に入れた。",
+        "thought": "『強さこそが、全てを乗り越える鍵』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750177325471
   }
 ]
