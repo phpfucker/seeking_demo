@@ -1,18 +1,18 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='orange'/><rect x='175' y='250' width='50' height='100' fill='brown'/><circle cx='170' cy='180' r='20' fill='black'/><circle cx='230' cy='180' r='20' fill='black'/><line x1='200' y1='230' x2='150' y2='300' stroke='black' stroke-width='5'/><line x1='200' y1='230' x2='250' y2='300' stroke='black' stroke-width='5'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightblue' /><rect x='175' y='210' width='50' height='100' fill='navy' /><circle cx='175' cy='210' r='10' fill='white' /><circle cx='225' cy='210' r='10' fill='white' /><path d='M150 300 Q200 350 250 300' stroke='black' stroke-width='5' fill='transparent' /><path d='M200 150 Q220 100 240 150' stroke='black' stroke-width='5' fill='transparent' /><rect x='185' y='310' width='30' height='10' fill='navy' /></svg>",
     "report": {
-      "appearance": "体は大きなオレンジ色の円形で覆われ、足は茶色の四角形で表現されています。顔は2つの小さな黒い円で目を持ち、手は黒い線で表現されています。",
-      "reason": "環境の変化により、体の大きさと色彩が変化し、手足の形状が四角形に進化しました。",
-      "thought": "『進化の力』"
+      "appearance": "体は丸くて青色の丸い体を持ち、四角い脚と白い目を持つ。頭には角があり、しっぽは海の波をイメージした形状となっている。",
+      "reason": "生息地の環境の変化により、より水中での泳ぎやすさと視認性を高めるために、青色の体と海の波を模したしっぽが進化した。",
+      "thought": "『波に乗る喜び』"
     }
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='200' fill='purple'/><circle cx='200' cy='150' r='50' fill='yellow'/><circle cx='150' cy='100' r='20' fill='black'/><circle cx='250' cy='100' r='20' fill='black'/><line x1='150' y1='220' x2='100' y2='300' stroke='black' stroke-width='5'/><line x1='250' y1='220' x2='300' y2='300' stroke='black' stroke-width='5'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='120' fill='purple' /><rect x='175' y='210' width='50' height='100' fill='darkorange' /><circle cx='175' cy='210' r='15' fill='white' /><circle cx='225' cy='210' r='15' fill='white' /><path d='M150 300 Q200 350 250 300' stroke='black' stroke-width='5' fill='transparent' /><path d='M200 150 Q220 100 240 150' stroke='black' stroke-width='5' fill='transparent' /><polygon points='180,320 190,340 200,330' fill='darkorange' /></svg>",
     "report": {
-      "appearance": "身体は紫色の四角形で形成され、頭部は大きな黄色い円形を持っています。目は2つの小さな黒い円で表現され、手は黒い線で描かれています。",
-      "reason": "食物源の変化により、体の色と形状が変化し、頭部の円形が発達しました。",
-      "thought": "『進化の過程』"
+      "appearance": "体は紫色の丸い体を持ち、四角い脚と大きな白い目を持つ。頭部には2つの角があり、しっぽの先端には三角形の模様がある。",
+      "reason": "獲物との競争が激化し、より俊敏な動きと攻撃力を得るために、紫色の体と三角形の模様を持つしっぽが進化した。",
+      "thought": "『闘争本能の覚醒』"
     }
   }
 }
