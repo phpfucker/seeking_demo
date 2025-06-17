@@ -2,6 +2,7 @@
   "entityA": {
     "name": "イヴ",
     "gender": "女性",
+    "svg": "<svg viewBox=\"0 0 400 300\"><rect x=\"80\" y=\"170\" width=\"120\" height=\"50\" rx=\"20\" fill=\"#ffd699\" transform=\"rotate(-20 140 190)\" /><rect x=\"160\" y=\"160\" width=\"120\" height=\"35\" rx=\"20\" fill=\"#ffd699\" transform=\"rotate(30 180 180)\" /></svg>",
     "cells": [
       {"x": 100, "y": 120, "radius": 10, "color_h": 210, "shapeFactor": 0.4},
       {"x": 110, "y": 130, "radius": 9, "color_h": 215, "shapeFactor": 0.5},
@@ -16,6 +17,7 @@
   "entityB": {
     "name": "アダム",
     "gender": "男性",
+    "svg": "<svg viewBox=\"0 0 400 300\"><rect x=\"80\" y=\"170\" width=\"120\" height=\"50\" rx=\"20\" fill=\"#ffd699\" transform=\"rotate(-20 140 190)\" /><rect x=\"160\" y=\"160\" width=\"120\" height=\"35\" rx=\"20\" fill=\"#ffd699\" transform=\"rotate(30 180 180)\" /></svg>",
     "cells": [
       {"x": 300, "y": 120, "radius": 10, "color_h": 190, "shapeFactor": 0.4},
       {"x": 290, "y": 130, "radius": 9, "color_h": 185, "shapeFactor": 0.5},
