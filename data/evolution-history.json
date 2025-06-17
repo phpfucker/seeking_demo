@@ -1212,5 +1212,24 @@
       }
     },
     "timestamp": 1750123323483
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightblue' /><rect x='175' y='210' width='50' height='100' fill='navy' /><circle cx='175' cy='210' r='10' fill='white' /><circle cx='225' cy='210' r='10' fill='white' /><path d='M150 300 Q200 350 250 300' stroke='black' stroke-width='5' fill='transparent' /><path d='M200 150 Q220 100 240 150' stroke='black' stroke-width='5' fill='transparent' /><rect x='185' y='310' width='30' height='10' fill='navy' /></svg>",
+      "report": {
+        "appearance": "体は丸くて青色の丸い体を持ち、四角い脚と白い目を持つ。頭には角があり、しっぽは海の波をイメージした形状となっている。",
+        "reason": "生息地の環境の変化により、より水中での泳ぎやすさと視認性を高めるために、青色の体と海の波を模したしっぽが進化した。",
+        "thought": "『波に乗る喜び』"
+      }
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='120' fill='purple' /><rect x='175' y='210' width='50' height='100' fill='darkorange' /><circle cx='175' cy='210' r='15' fill='white' /><circle cx='225' cy='210' r='15' fill='white' /><path d='M150 300 Q200 350 250 300' stroke='black' stroke-width='5' fill='transparent' /><path d='M200 150 Q220 100 240 150' stroke='black' stroke-width='5' fill='transparent' /><polygon points='180,320 190,340 200,330' fill='darkorange' /></svg>",
+      "report": {
+        "appearance": "体は紫色の丸い体を持ち、四角い脚と大きな白い目を持つ。頭部には2つの角があり、しっぽの先端には三角形の模様がある。",
+        "reason": "獲物との競争が激化し、より俊敏な動きと攻撃力を得るために、紫色の体と三角形の模様を持つしっぽが進化した。",
+        "thought": "『闘争本能の覚醒』"
+      }
+    },
+    "timestamp": 1750130147537
   }
 ]
