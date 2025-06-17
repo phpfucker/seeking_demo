@@ -1523,5 +1523,28 @@
       "gender": "男性"
     },
     "timestamp": 1750169855178
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='lightpink' /><circle cx='200' cy='200' r='150' fill='pink' /><ellipse cx='200' cy='120' rx='80' ry='40' fill='white' /><path d='M180 230 Q200 250 220 230' stroke='black' fill='none' /><polygon points='180,250 220,250 200,280' fill='black' /><line x1='190' y1='150' x2='170' y2='160' stroke='black' stroke-width='2' /><line x1='210' y1='150' x2='230' y2='160' stroke='black' stroke-width='2' /><line x1='170' y1='160' x2='230' y2='160' stroke='black' stroke-width='2' /><line x1='180' y1='200' x2='200' y2='210' stroke='black' stroke-width='2' /><line x1='220' y1='200' x2='200' y2='210' stroke='black' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の美しい体を持ち、白い楕円形の胸部を特徴とする。頭部には黒い瞳を持つ目があり、側面から見るとV字型の模様が入っている。手足は細くしなやかで、しっぽが優雅に後ろに伸びている。",
+        "reason": "進化の理由は、環境がより美的価値を重要視する方向に進化したためであり、生存に美しさがより重要になったからだ。",
+        "thought": "『優美な美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='lightblue' /><circle cx='200' cy='200' r='150' fill='skyblue' /><ellipse cx='200' cy='120' rx='80' ry='40' fill='white' /><path d='M180 230 Q200 250 220 230' stroke='black' fill='none' /><polygon points='180,250 220,250 200,280' fill='black' /><line x1='190' y1='150' x2='170' y2='160' stroke='black' stroke-width='2' /><line x1='210' y1='150' x2='230' y2='160' stroke='black' stroke-width='2' /><line x1='170' y1='160' x2='230' y2='160' stroke='black' stroke-width='2' /><line x1='180' y1='200' x2='200' y2='210' stroke='black' stroke-width='2' /><line x1='220' y1='200' x2='200' y2='210' stroke='black' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体を持ち、白い楕円形の胸部を特徴とする。頭部には黒い瞳を持つ目があり、側面から見るとV字型の模様が入っている。手足は細くしなやかで、しっぽが優雅に後ろに伸びている。",
+        "reason": "進化の理由は、環境がより知的能力を重要視する方向に進化したためであり、生存に知性がより重要になったからだ。",
+        "thought": "『深い知性』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750173541928
   }
 ]
