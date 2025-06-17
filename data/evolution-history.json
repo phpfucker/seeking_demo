@@ -1408,5 +1408,28 @@
       }
     },
     "timestamp": 1750159660678
+  },
+  {
+    "entityA": {
+      "name": "イヴ",
+      "gender": "女性",
+      "svg": "<svg viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"purple\" /><rect x=\"150\" y=\"250\" width=\"100\" height=\"50\" fill=\"pink\" /><polygon points=\"100,100 150,200 200,150\" fill=\"yellow\" /><line x1=\"50\" y1=\"150\" x2=\"350\" y2=\"150\" stroke=\"black\" stroke-width=\"5\" /><ellipse cx=\"250\" cy=\"300\" rx=\"50\" ry=\"30\" fill=\"green\" /></svg>",
+      "report": {
+        "appearance": "entityAは、ピンクの体に紫色のドレスを着用し、角のような突起物が頭に生えており、四本の腕を持つ女性の生命体です。",
+        "reason": "新たな環境での生存戦略を模索し、適応するために進化した。",
+        "thought": "『新たな姿で未来に挑む』"
+      }
+    },
+    "entityB": {
+      "name": "アダム",
+      "gender": "男性",
+      "svg": "<svg viewBox=\"0 0 400 400\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"blue\" /><circle cx=\"150\" cy=\"150\" r=\"50\" fill=\"orange\" /><path d=\"M 250,150 Q 300,100 350,150\" fill=\"red\" /><line x1=\"150\" y1=\"300\" x2=\"250\" y2=\"350\" stroke=\"gray\" stroke-width=\"5\" /><polygon points=\"100,300 150,350 200,300\" fill=\"yellow\" /></svg>",
+      "report": {
+        "appearance": "entityBは、青い体に緑色の服を纏い、黄色い角を持ち、四つの脚を持つ男性の生命体です。",
+        "reason": "繁殖競争において、より効果的な提案を行うために進化した。",
+        "thought": "『新たな力を手に入れた』"
+      }
+    },
+    "timestamp": 1750161197184
   }
 ]
