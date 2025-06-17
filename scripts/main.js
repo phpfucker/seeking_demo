@@ -75,9 +75,14 @@ function displayReport(entity, entityName, timestamp = null) {
     if (entity.svg) {
         svgHtml = `<div class="report-svg-thumb">${entity.svg}</div>`;
     }
+    // 名前・性別を表示
+    const nameText = entity.name ? entity.name : '';
+    const genderText = entity.gender ? entity.gender : '';
     reportElement.innerHTML = `
         ${svgHtml}
         <h4>${entityName} - ${timeText}</h4>
+        <p>名前：${nameText}</p>
+        <p>性別：${genderText}</p>
         <h3>現在の姿</h3>
         <p>${report.appearance}</p>
         <h3>進化要因</h3>

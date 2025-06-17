@@ -70,7 +70,7 @@ function generatePrompt(currentState, history) {
     return `あなたは2体の想像上の生命体（entityA, entityB）の進化を、SVGイラストと進化レポートとして生成するAIです。
 以下の要件をすべて満たすJSONを日本語で生成してください：
 
-- entityAは女性、entityBは男性の生命体として生成してください
+- entityAの名前は「イヴ」、性別は「女性」とし、entityBの名前は「アダム」、性別は「男性」として固定してください（進化しても変わりません）
 - entityA, entityBそれぞれについて、<svg ...>...</svg>形式のSVGコードを生成してください
 - SVGは必ずviewBox=\"0 0 400 400\"内に全身（体・顔・手足・しっぽ・角・模様など）を大きく中央に描いてください
 - 顔だけのキャラクターは禁止。必ず体・手足・しっぽ・角・模様など複数のパーツを含めてください
@@ -131,12 +131,17 @@ async function generateNextEvolution(currentState, history) {
         aiText = aiText.replace(/```json|```svg|```/g, '').trim();
         // JSONパース
         const nextState = JSON.parse(aiText);
+        // nameとgenderを必ず引き継ぐ
+        nextState.entityA.name = currentState.entityA.name;
+        nextState.entityA.gender = currentState.entityA.gender;
+        nextState.entityB.name = currentState.entityB.name;
+        nextState.entityB.gender = currentState.entityB.gender;
         return nextState;
-        } catch (error) {
+    } catch (error) {
         console.error('Evolution JSON generation failed:', error);
-            return null;
-        }
+        return null;
     }
+}
 
 // 状態のバリデーション
 function validateState(state) {

@@ -1,7 +1,8 @@
 [
   {
     "entityA": {
-      "gender": "female",
+      "name": "イヴ",
+      "gender": "女性",
       "cells": [
         {
           "x": 100,
@@ -32,7 +33,8 @@
       }
     },
     "entityB": {
-      "gender": "male",
+      "name": "アダム",
+      "gender": "男性",
       "cells": [
         {
           "x": 300,
@@ -1027,7 +1029,7 @@
   },
   {
     "entityA": {
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightblue'/><rect x='175' y='200' width='50' height='150' fill='purple'/><polygon points='200,100 250,200 150,200' fill='yellow'/><circle cx='180' cy='180' r='20' fill='white'/><circle cx='220' cy='180' r='20' fill='white'/><rect x='190' y='240' width='20' height='50' fill='purple'/></svg>",
+      "svg": "<svg viewBox=\"0 0 400 400\"><circle cx='200' cy='200' r='150' fill='lightblue'/><rect x='175' y='200' width='50' height='150' fill='purple'/><polygon points='200,100 250,200 150,200' fill='yellow'/><circle cx='180' cy='180' r='20' fill='white'/><circle cx='220' cy='180' r='20' fill='white'/><rect x='190' y='240' width='20' height='50' fill='purple'/></svg>",
       "report": {
         "appearance": "entityAは、頭部が半円形の黄色の突起物を持ち、体は青色の円形で、紫色の四角形の腕が伸び、紫色と白色の模様が特徴的な存在である。",
         "reason": "entityAは、環境の色彩的変化に適応するため、体色や模様が変化した。",
@@ -1035,7 +1037,7 @@
       }
     },
     "entityB": {
-      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='120' fill='pink'/><rect x='180' y='150' width='40' height='100' fill='green'/><polygon points='170,250 200,300 230,250' fill='orange'/><circle cx='180' cy='180' r='15' fill='white'/><circle cx='220' cy='180' r='15' fill='white'/><rect x='190' y='240' width='15' height='40' fill='green'/></svg>",
+      "svg": "<svg viewBox=\"0 0 400 400\"><circle cx='200' cy='200' r='120' fill='pink'/><rect x='180' y='150' width='40' height='100' fill='green'/><polygon points='170,250 200,300 230,250' fill='orange'/><circle cx='180' cy='180' r='15' fill='white'/><circle cx='220' cy='180' r='15' fill='white'/><rect x='190' y='240' width='15' height='40' fill='green'/></svg>",
       "report": {
         "appearance": "entityBは、ピンク色の円形の体に緑色の四角形の手足を持ち、頭部にはオレンジ色の角がある。白い丸い目が特徴的である。",
         "reason": "entityBは、狩猟の成功率を高めるために、手足や角の形状が変化し、目が白くなった。",

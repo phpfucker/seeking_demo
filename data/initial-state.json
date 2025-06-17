@@ -1,5 +1,7 @@
 {
   "entityA": {
+    "name": "イヴ",
+    "gender": "女性",
     "cells": [
       {"x": 100, "y": 120, "radius": 10, "color_h": 210, "shapeFactor": 0.4},
       {"x": 110, "y": 130, "radius": 9, "color_h": 215, "shapeFactor": 0.5},
@@ -12,6 +14,8 @@
     }
   },
   "entityB": {
+    "name": "アダム",
+    "gender": "男性",
     "cells": [
       {"x": 300, "y": 120, "radius": 10, "color_h": 190, "shapeFactor": 0.4},
       {"x": 290, "y": 130, "radius": 9, "color_h": 185, "shapeFactor": 0.5},
