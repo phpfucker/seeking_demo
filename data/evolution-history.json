@@ -1960,5 +1960,28 @@
       "gender": "男性"
     },
     "timestamp": 1750245316236
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffccff' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='#ffcce6' /><circle cx='160' cy='170' r='10' fill='#ffffff' /><circle cx='240' cy='170' r='10' fill='#ffffff' /><path d='M190 240 Q200 260 210 240' stroke='#ff99cc' stroke-width='2' fill='none' /><path d='M210 240 Q220 260 230 240' stroke='#ff99cc' stroke-width='2' fill='none' /><polygon points='170,220 200,240 230,220' fill='#ff99cc' /><line x1='160' y1='260' x2='180' y2='280' stroke='#ff99cc' stroke-width='2' /><line x1='240' y1='260' x2='220' y2='280' stroke='#ff99cc' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、紫色の長い髪がやわらかく輝いています。体は卵型で、大きな紫色の目を持ち、瞳は白色です。頭部には小さな白い角が2本あり、薄紫色のシースルーな翼が背中に生えています。手は4本指でやさしく丸く、足は3本指で尖っています。しっかりとした足裏には薄い紫色の模様があります。",
+        "reason": "イヴは感情豊かな力強い女性性をより強調するために、柔らかで美しい特徴を持つよう進化しました。",
+        "thought": "『自然と調和する』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#b3e0ff' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='#99ccff' /><circle cx='160' cy='170' r='10' fill='#ffffff' /><circle cx='240' cy='170' r='10' fill='#ffffff' /><path d='M190 240 Q200 260 210 240' stroke='#66b3ff' stroke-width='2' fill='none' /><path d='M210 240 Q220 260 230 240' stroke='#66b3ff' stroke-width='2' fill='none' /><polygon points='170,220 200,240 230,220' fill='#66b3ff' /><line x1='160' y1='260' x2='180' y2='280' stroke='#66b3ff' stroke-width='2' /><line x1='240' y1='260' x2='220' y2='280' stroke='#66b3ff' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の鱗が光沢を放つ体を持ち、薄青色の短い髪が頭部を覆っています。大きな青い目には黒い瞳があり、頭には1本の太い角が生えています。薄青色の羽が両腕に生え、背中にも小さな羽があります。手は5本指で鋭く尖り、足は3本指で強靭な尾を持っています。",
+        "reason": "アダムの進化は、生存競争で強さと優位性を示す外見へ変化しました。",
+        "thought": "『未来への戦い』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750253486233
   }
 ]

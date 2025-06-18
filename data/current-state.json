@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffccff' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='#ffcce6' /><circle cx='160' cy='170' r='10' fill='#ffffff' /><circle cx='240' cy='170' r='10' fill='#ffffff' /><path d='M190 240 Q200 260 210 240' stroke='#ff99cc' stroke-width='2' fill='none' /><path d='M210 240 Q220 260 230 240' stroke='#ff99cc' stroke-width='2' fill='none' /><polygon points='170,220 200,240 230,220' fill='#ff99cc' /><line x1='160' y1='260' x2='180' y2='280' stroke='#ff99cc' stroke-width='2' /><line x1='240' y1='260' x2='220' y2='280' stroke='#ff99cc' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(241, 98, 229);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(151, 65, 144);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradA)' /><circle cx='200' cy='150' r='50' fill='rgb(255, 220, 248)' /><circle cx='165' cy='140' r='10' fill='white' /><circle cx='235' cy='140' r='10' fill='white' /><ellipse cx='180' cy='180' rx='20' ry='10' fill='rgb(241, 98, 229)' /><ellipse cx='220' cy='180' rx='20' ry='10' fill='rgb(241, 98, 229)' /><rect x='180' y='230' width='40' height='20' fill='rgb(255, 220, 248)' /><path d='M150 230 Q200 250 250 230' fill='none' stroke='rgb(241, 98, 229)' stroke-width='5' /><polygon points='190,200 180,210 200,210' fill='rgb(241, 98, 229)' /><polygon points='210,200 200,210 220,210' fill='rgb(241, 98, 229)' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、紫色の長い髪がやわらかく輝いています。体は卵型で、大きな紫色の目を持ち、瞳は白色です。頭部には小さな白い角が2本あり、薄紫色のシースルーな翼が背中に生えています。手は4本指でやさしく丸く、足は3本指で尖っています。しっかりとした足裏には薄い紫色の模様があります。",
-      "reason": "イヴは感情豊かな力強い女性性をより強調するために、柔らかで美しい特徴を持つよう進化しました。",
-      "thought": "『自然と調和する』"
+      "appearance": "イヴは、透き通るような薄紫色の輝く肌を持ち、頭部には短い角が生え、流れるような紫と白の髪が特徴です。体はピンクと紫のグラデーションで覆われ、背中には柔らかな模様が浮かんでいます。四肢は華奢で柔らかなフォルムを持ち、愛らしい表情が印象的です。",
+      "reason": "イヴは内面の進化から、より優美で柔らかな特徴を身に纏うようになりました。",
+      "thought": "『輝きを纏う』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#b3e0ff' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='#99ccff' /><circle cx='160' cy='170' r='10' fill='#ffffff' /><circle cx='240' cy='170' r='10' fill='#ffffff' /><path d='M190 240 Q200 260 210 240' stroke='#66b3ff' stroke-width='2' fill='none' /><path d='M210 240 Q220 260 230 240' stroke='#66b3ff' stroke-width='2' fill='none' /><polygon points='170,220 200,240 230,220' fill='#66b3ff' /><line x1='160' y1='260' x2='180' y2='280' stroke='#66b3ff' stroke-width='2' /><line x1='240' y1='260' x2='220' y2='280' stroke='#66b3ff' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(50, 178, 241);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0, 123, 167);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradB)' /><circle cx='200' cy='150' r='50' fill='rgb(0, 200, 255)' /><circle cx='180' cy='140' r='10' fill='white' /><circle cx='220' cy='140' r='10' fill='white' /><ellipse cx='180' cy='180' rx='20' ry='10' fill='rgb(50, 178, 241)' /><ellipse cx='220' cy='180' rx='20' ry='10' fill='rgb(50, 178, 241)' /><rect x='180' y='230' width='40' height='20' fill='rgb(0, 200, 255)' /><path d='M150 230 Q200 250 250 230' fill='none' stroke='rgb(50, 178, 241)' stroke-width='5' /><polygon points='190,200 180,210 200,210' fill='rgb(50, 178, 241)' /><polygon points='210,200 200,210 220,210' fill='rgb(50, 178, 241)' /></svg>",
     "report": {
-      "appearance": "アダムは、青色の鱗が光沢を放つ体を持ち、薄青色の短い髪が頭部を覆っています。大きな青い目には黒い瞳があり、頭には1本の太い角が生えています。薄青色の羽が両腕に生え、背中にも小さな羽があります。手は5本指で鋭く尖り、足は3本指で強靭な尾を持っています。",
-      "reason": "アダムの進化は、生存競争で強さと優位性を示す外見へ変化しました。",
-      "thought": "『未来への戦い』"
+      "appearance": "アダムは、深い青色の肌と透明感のある白い輪郭が特徴で、頭部には鮮やかな青と白の模様があります。煌めく瞳と円滑なフォルムの体、大きな透明な翼が生えています。体全体にはブルーグラデーションが美しく広がり、優雅さを漂わせています。",
+      "reason": "アダムは外見の進化により、飛翔能力と優美な特徴を獲得しました。",
+      "thought": "『飛翔する喜び』"
     },
     "name": "アダム",
     "gender": "男性"
