@@ -1937,5 +1937,28 @@
       "gender": "男性"
     },
     "timestamp": 1750241914389
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffacb7' /><ellipse cx='200' cy='130' rx='60' ry='80' fill='#f1c27d' /><ellipse cx='140' cy='130' rx='20' ry='30' fill='#f1c27d' /><ellipse cx='260' cy='130' rx='20' ry='30' fill='#f1c27d' /><path d='M170 230 Q200 280 230 230' stroke='#f1c27d' stroke-width='8' fill='none' /><path d='M170 230 Q200 250 230 230' stroke='#f1c27d' stroke-width='8' fill='none' /><circle cx='160' cy='120' r='10' fill='#ffffff' /><circle cx='240' cy='120' r='10' fill='#ffffff' /><circle cx='200' cy='150' r='5' fill='#000000' /><circle cx='190' cy='125' r='5' fill='#000000' /><circle cx='210' cy='125' r='5' fill='#000000' /><rect x='160' y='240' width='80' height='20' fill='#ffacb7' /><rect x='150' y='260' width='100' height='40' fill='#ffacb7' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとイエローのカラーリングを持つ女性で、体型は丸みを帯びた柔らかな形状です。顔には大きな瞳と笑顔が特徴で、耳がなくなり、手足は細くなって踵が浮いています。背中には2つの柔らかな翼が生えています。しっぽはなくなり、胸元に小さな模様がある。",
+        "reason": "進化の過程で、イヴはより華やかで柔らかな外見を求めるようになり、新しい特徴を取り入れました。",
+        "thought": "『愛と優しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#6eb5ff' /><rect x='170' y='100' width='60' height='80' fill='#f1c27d' /><rect x='170' y='180' width='60' height='80' fill='#f1c27d' /><circle cx='195' cy='90' r='15' fill='#ffffff' /><circle cx='205' cy='90' r='15' fill='#ffffff' /><circle cx='200' cy='140' r='10' fill='#000000' /><circle cx='190' cy='170' r='10' fill='#000000' /><circle cx='210' cy='170' r='10' fill='#000000' /><path d='M150 300 Q200 350 250 300' stroke='#6eb5ff' stroke-width='8' fill='none' /><path d='M150 300 Q200 320 250 300' stroke='#6eb5ff' stroke-width='8' fill='none' /><polygon points='150,100 130,70 150,40 170,70' fill='#f1c27d' /><polygon points='250,100 270,70 250,40 230,70' fill='#f1c27d' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い体色を持つ男性で、四角い体型と力強い印象を与えます。顔はシンプルで口元にはニッコリ笑顔が見られ、耳や髪の毛がなくなり、目立つ青い装飾が体の両側に配置されています。手足は太くて頑丈で、背中には2つの翼が生えています。",
+        "reason": "進化のプロセスで、アダムはより力強く頼りがいのある外観を模索し、体力と勇気を象徴する新たな特徴を獲得しました。",
+        "thought": "『勇気と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750245316236
   }
 ]
