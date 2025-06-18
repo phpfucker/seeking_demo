@@ -2029,5 +2029,28 @@
       "gender": "男性"
     },
     "timestamp": 1750259929387
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#f0c8e1'><rect x='100' y='100' width='200' height='200'/></g><g fill='#ffb6c1'><circle cx='200' cy='150' r='50'/><circle cx='200' cy='250' r='50'/><circle cx='150' cy='200' r='50'/><circle cx='250' cy='200' r='50'/></g><g fill='#ff69b4'><path d='M200 250c25-40 75-40 100 0z'/><path d='M200 150c-25 40-75 40-100 0z'/></g><g fill='#ff1493'><ellipse cx='180' cy='150' rx='15' ry='10'/><ellipse cx='220' cy='150' rx='15' ry='10'/></g></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の大きな四角形の体を持ち、顔には薄いピンクの円形の目と薄紫の楕円形の口があります。四肢はピンクと薄紫の短い円形の手足で構成されています。",
+        "reason": "イヴは美しい色彩と柔らかな曲線を持つ進化を遂げました。これにより、より優美で優しい外観を獲得しました。",
+        "thought": "『愛と美しさの象徴』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#add8e6'><rect x='100' y='100' width='200' height='200'/></g><g fill='#87cefa'><circle cx='200' cy='150' r='50'/><circle cx='200' cy='250' r='50'/><circle cx='150' cy='200' r='50'/><circle cx='250' cy='200' r='50'/></g><g fill='#4682b4'><path d='M200 250c25-40 75-40 100 0z'/><path d='M200 150c-25 40-75 40-100 0z'/></g><g fill='#4169e1'><polygon points='180,150 220,150 200,200'/></g></svg>",
+      "report": {
+        "appearance": "アダムは青色の大きな四角形の体を持ち、顔には薄い青の円形の目と濃い青色の楕円形の口があります。四肢は青と濃い青の短い円形の手足で構成されています。",
+        "reason": "アダムは進化の過程で青色の濃淡や幾何学的なパターンを取り入れ、より知的で強い外観を獲得しました。",
+        "thought": "『知性と力の象徴』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750263720959
   }
 ]
