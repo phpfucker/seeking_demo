@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#f9c6d3'/><ellipse cx='200' cy='150' rx='80' ry='120' fill='#f9c6d3'/><rect x='150' y='240' width='100' height='60' fill='#f9c6d3'/><circle cx='150' cy='170' r='15' fill='#52322b'/><circle cx='150' cy='230' r='15' fill='#52322b'/><circle cx='250' cy='170' r='15' fill='#52322b'/><circle cx='250' cy='230' r='15' fill='#52322b'/><path d='M175 300 L190 330 L210 330 L225 300 Z' fill='#52322b'/><path d='M190 320 Q200 340 210 320' fill='none' stroke='#52322b'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#FFC0CB' /><ellipse cx='200' cy='220' rx='80' ry='100' fill='#FFC0CB' /><path d='M200 250 L170 280 L230 280 Z' fill='#FF99CC' /><path d='M185 200 Q200 180 215 200 Z' fill='#FF99CC' /><polygon points='180 170 185 190 195 190 200 170 205 190 215 190 220 170' fill='#FF99CC' /><circle cx='180' cy='240' r='10' fill='#FFFFFF' /><circle cx='220' cy='240' r='10' fill='#FFFFFF' /><ellipse cx='180' cy='220' rx='10' ry='5' fill='#FFFFFF' /><ellipse cx='220' cy='220' rx='10' ry='5' fill='#FFFFFF' /><path d='M190 240 Q200 260 210 240 Z' fill='#FFCCFF' /><path d='M195 280 Q200 290 205 280 Z' fill='#FFCCFF' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな体に、大きな眼と長い尾を持つ女性型生命体です。頭部には角があり、愛らしい表情をしています。",
-      "reason": "生態系内での環境変化により、イヴはより柔らかく魅力的な外観を進化させ、新たな特徴を獲得しました。",
-      "thought": "『自然の中で輝く』"
+      "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、長い髪と大きな目を持つ女性型生命体です。体には優しい曲線があり、優雅な雰囲気を醸し出しています。背中には小さな蝶々の模様が見られます。",
+      "reason": "新たな進化段階において、イヴはより美しい色彩と優しい特徴を獲得し、生命の源である女性らしさをより強調するために進化しました。",
+      "thought": "『自然と調和し、愛と美しさを宿している』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#bdd7ee'/><polygon points='175,100 225,100 200,60' fill='#bdd7ee'/><circle cx='200' cy='90' r='15' fill='#5c6d7e'/><circle cx='200' cy='130' r='15' fill='#5c6d7e'/><circle cx='175' cy='170' r='15' fill='#5c6d7e'/><circle cx='225' cy='170' r='15' fill='#5c6d7e'/><line x1='160' y1='300' x2='160' y2='360' stroke='#5c6d7e' stroke-width='10'/><line x1='240' y1='300' x2='240' y2='360' stroke='#5c6d7e' stroke-width='10'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='100' width='120' height='150' fill='#4682B4' /><circle cx='200' cy='220' r='70' fill='#4682B4' /><path d='M180 230 Q200 250 220 230 Z' fill='#87CEEB' /><path d='M180 230 Q200 215 220 230 Z' fill='#87CEEB' /><circle cx='180' cy='210' r='10' fill='#FFFFFF' /><circle cx='220' cy='210' r='10' fill='#FFFFFF' /><rect x='160' y='240' width='80' height='20' fill='#FFFFFF' /></svg>",
     "report": {
-      "appearance": "アダムは、青い体と大きな脚を持つ男性型生命体です。頭部にはツノがあり、力強い印象を与えています。",
-      "reason": "生存競争において、アダムはより頑丈で力強い外観を進化させ、狩りや防御に適した特徴を獲得しました。",
-      "thought": "『未来を切り拓く』"
+      "appearance": "アダムは、青色の堅い外皮と丸い体を持つ男性型生命体です。短い髪と大きな手足を備え、堅実で力強い印象を与えています。体には青い海の波の模様が描かれています。",
+      "reason": "進化の過程で、アダムはより力強く頼りがいのある姿を獲得し、生命の継承と保護の役割をより強調するために進化しました。",
+      "thought": "『誠実さと強さを持ち、生命を守る』"
     },
     "name": "アダム",
     "gender": "男性"
