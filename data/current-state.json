@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcc99'/><ellipse cx='200' cy='250' rx='80' ry='100' fill='#ffd699'/><path d='M180 160 L200 140 L220 160 Z' fill='#ffaa66'/><path d='M170 280 Q200 300 230 280' fill='none' stroke='#ffaa66' stroke-width='2'/><polygon points='170,180 200,130 230,180' fill='#ffcc99'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffbd88'/><ellipse cx='200' cy='150' rx='100' ry='130' fill='#ffa07a'/><rect x='160' y='250' width='80' height='100' fill='#ff7f50'/><polygon points='200,90 220,110 180,110' fill='#ff6347'/><path d='M180 140 Q200 120 220 140' fill='none' stroke='#ff7f50'/><line x1='180' y1='250' x2='200' y2='280' stroke='#ff7f50' stroke-width='5'/><line x1='220' y1='250' x2='200' y2='280' stroke='#ff7f50' stroke-width='5'/><circle cx='180' cy='150' r='8' fill='#000'/><circle cx='220' cy='150' r='8' fill='#000'/><path d='M180 180 Q200 200 220 180' fill='none' stroke='#000' stroke-width='2'/><path d='M190 190 Q200 180 210 190' fill='none' stroke='#000' stroke-width='2'/><path d='M195 195 Q200 200 205 195' fill='none' stroke='#000' stroke-width='2'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンクとオレンジの色合いの肌を持ち、大きな青い目を持つ女性。頭部には繊細なホーンがあり、しっぽの先には小さな花が咲いている。手足は細長く、葉っぱのような模様があしらわれている。",
-      "reason": "環境の変化により、植物と動物の要素が融合した新たな生命体が誕生した。",
-      "thought": "『自然と調和する』"
+      "appearance": "イヴは、オレンジ色の体と桃色の頭部を持つ女性の生命体です。体は丸みを帯びた形状で、頭部は楕円形であり、足元には四角い装飾があります。顔には三角形の模様が入り、耳には小さな円が描かれています。",
+      "reason": "進化の過程で、イヴの色彩がより鮮やかになり、装飾も増えたことで、より美しい姿に進化しました。",
+      "thought": "『輝きを求めて』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#85c1e9'/><ellipse cx='200' cy='250' rx='80' ry='100' fill='#a5d6a7'/><path d='M180 160 L200 140 L220 160 Z' fill='#7fb3d5'/><path d='M170 280 Q200 300 230 280' fill='none' stroke='#7fb3d5' stroke-width='2'/><polygon points='170,180 200,130 230,180' fill='#85c1e9'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#8ac926'/><ellipse cx='200' cy='150' rx='100' ry='130' fill='#6ab04c'/><rect x='160' y='250' width='80' height='100' fill='#3d9970'/><polygon points='200,90 220,110 180,110' fill='#2e7d32'/><path d='M180 140 Q200 120 220 140' fill='none' stroke='#3d9970'/><line x1='180' y1='250' x2='200' y2='280' stroke='#3d9970' stroke-width='5'/><line x1='220' y1='250' x2='200' y2='280' stroke='#3d9970' stroke-width='5'/><circle cx='180' cy='150' r='8' fill='#000'/><circle cx='220' cy='150' r='8' fill='#000'/><path d='M180 180 Q200 200 220 180' fill='none' stroke='#000' stroke-width='2'/><path d='M190 190 Q200 180 210 190' fill='none' stroke='#000' stroke-width='2'/><path d='M195 195 Q200 200 205 195' fill='none' stroke='#000' stroke-width='2'/></svg>",
     "report": {
-      "appearance": "アダムは、青と緑の色調の肌を持ち、大きな灰色の目を持つ男性。頭部には角があり、しっぽの先には鮮やかな実が付いている。手足は力強く、岩のような模様が彫り込まれている。",
-      "reason": "生存競争の激化により、自然界の堅牢な要素が取り入れられた進化が生じた。",
-      "thought": "『自然の中で生き抜く』"
+      "appearance": "アダムは、緑色の体と淡緑色の頭部を持つ男性の生命体です。体は丸みを帯びた形状で、頭部は楕円形であり、足元には四角い装飾があります。顔には三角形の模様が入り、耳には小さな円が描かれています。",
+      "reason": "進化の過程で、アダムの色彩がより自然な緑色に変化し、より力強いイメージを持つ姿に進化しました。",
+      "thought": "『自然の力を宿す』"
     },
     "name": "アダム",
     "gender": "男性"
