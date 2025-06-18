@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFC0CB' /><rect x='125' y='250' width='150' height='100' fill='#FF69B4' /><ellipse cx='160' cy='180' rx='25' ry='15' fill='#FF69B4' /><ellipse cx='240' cy='180' rx='25' ry='15' fill='#FF69B4' /><path d='M150,220 Q200,250 250,220' fill='none' stroke='#FF69B4' stroke-width='5' /><path d='M150,220 Q200,270 250,220' fill='none' stroke='#FF69B4' stroke-width='5' /><circle cx='170' cy='180' r='5' fill='#000' /><circle cx='230' cy='180' r='5' fill='#000' /><line x1='190' y1='270' x2='210' y2='270' stroke='#000' stroke-width='5' /><line x1='180' y1='270' x2='190' y2='260' stroke='#000' stroke-width='5' /><line x1='220' y1='270' x2='230' y2='260' stroke='#000' stroke-width='5' /><line x1='210' y1='260' x2='220' y2='270' stroke='#000' stroke-width='5' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcc99'/><ellipse cx='200' cy='250' rx='80' ry='100' fill='#ffd699'/><path d='M180 160 L200 140 L220 160 Z' fill='#ffaa66'/><path d='M170 280 Q200 300 230 280' fill='none' stroke='#ffaa66' stroke-width='2'/><polygon points='170,180 200,130 230,180' fill='#ffcc99'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の体に、紫色のドレスを着用しています。太めの眉毛と大きな目が特徴で、ロマンチックな雰囲気を持っています。",
-      "reason": "イヴは、美しさと知性を兼ね備えた進化を遂げました。",
-      "thought": "『愛と知恵』"
+      "appearance": "イヴは、ピンクとオレンジの色合いの肌を持ち、大きな青い目を持つ女性。頭部には繊細なホーンがあり、しっぽの先には小さな花が咲いている。手足は細長く、葉っぱのような模様があしらわれている。",
+      "reason": "環境の変化により、植物と動物の要素が融合した新たな生命体が誕生した。",
+      "thought": "『自然と調和する』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><polygon points='200,50 100,200 300,200' fill='#87CEEB' /><rect x='175' y='200' width='50' height='150' fill='#4682B4' /><circle cx='200' cy='170' r='20' fill='#4682B4' /><circle cx='170' cy='160' r='10' fill='#4682B4' /><circle cx='230' cy='160' r='10' fill='#4682B4' /><ellipse cx='170' cy='220' rx='10' ry='5' fill='#4682B4' /><ellipse cx='230' cy='220' rx='10' ry='5' fill='#4682B4' /><line x1='185' y1='200' x2='185' y2='170' stroke='#000' stroke-width='5' /><line x1='215' y1='200' x2='215' y2='170' stroke='#000' stroke-width='5' /><line x1='185' y1='350' x2='195' y2='350' stroke='#000' stroke-width='5' /><line x1='205' y1='350' x2='215' y2='350' stroke='#000' stroke-width='5' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#85c1e9'/><ellipse cx='200' cy='250' rx='80' ry='100' fill='#a5d6a7'/><path d='M180 160 L200 140 L220 160 Z' fill='#7fb3d5'/><path d='M170 280 Q200 300 230 280' fill='none' stroke='#7fb3d5' stroke-width='2'/><polygon points='170,180 200,130 230,180' fill='#85c1e9'/></svg>",
     "report": {
-      "appearance": "アダムは、青色の体に、濃紺のマントを身に纏っています。鋭い目元と力強い体つきが特徴で、威厳を感じさせます。",
-      "reason": "アダムは、力強さと勇気を象徴する進化を遂げました。",
-      "thought": "『勇気と誇り』"
+      "appearance": "アダムは、青と緑の色調の肌を持ち、大きな灰色の目を持つ男性。頭部には角があり、しっぽの先には鮮やかな実が付いている。手足は力強く、岩のような模様が彫り込まれている。",
+      "reason": "生存競争の激化により、自然界の堅牢な要素が取り入れられた進化が生じた。",
+      "thought": "『自然の中で生き抜く』"
     },
     "name": "アダム",
     "gender": "男性"
