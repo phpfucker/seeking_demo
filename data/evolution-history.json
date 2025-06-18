@@ -2190,5 +2190,28 @@
       "gender": "男性"
     },
     "timestamp": 1750284967027
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#FFC0CB' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#FFA07A' /><path d='M150,250 L250,250 L200,300 Z' fill='#FF1493' /><circle cx='160' cy='130' r='10' fill='#000' /><circle cx='240' cy='130' r='10' fill='#000' /><line x1='160' y1='250' x2='200' y2='270' stroke='#000' stroke-width='2' /><line x1='240' y1='250' x2='200' y2='270' stroke='#000' stroke-width='2' /><polygon points='190,200 210,200 200,220' fill='#FF69B4' /><circle cx='200' cy='290' r='10' fill='#FFD700' /><circle cx='180' cy='175' r='5' fill='#FFF' /><circle cx='220' cy='175' r='5' fill='#FFF' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかい肌を持ち、オレンジ色の長い髪と大きな赤い瞳を持っています。体の中央に大きなピンク色の楕円形の胴体があり、胸の下に三角形のピンクのスカートがついています。手は小さく、ピンクの手袋をはめ、足は細長く、赤いハイヒールを履いています。頭には小さな角が1本あり、背中には明るい黄色の円が浮かんでいます。",
+        "reason": "イヴは生命の多様性と美しさを象徴するために、より華やかで柔らかい外見へと進化しました。",
+        "thought": "『調和と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#4682B4' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#87CEEB' /><path d='M150,250 L250,250 L200,300 Z' fill='#4169E1' /><circle cx='160' cy='130' r='10' fill='#000' /><circle cx='240' cy='130' r='10' fill='#000' /><line x1='160' y1='250' x2='200' y2='270' stroke='#000' stroke-width='2' /><line x1='240' y1='250' x2='200' y2='270' stroke='#000' stroke-width='2' /><polygon points='190,200 210,200 200,220' fill='#6495ED' /><circle cx='200' cy='290' r='10' fill='#FFD700' /><path d='M180,175 Q200,150 220,175' fill='none' stroke='#FFF' stroke-width='5' /><circle cx='180' cy='190' r='5' fill='#FFF' /><circle cx='220' cy='190' r='5' fill='#FFF' /></svg>",
+      "report": {
+        "appearance": "アダムは青色の肌を持ち、淡い青色の短い髪と大きな青い瞳をしています。体の中央に大きな青い楕円形の胴体があり、胸の下に三角形の青いパンツがついています。手は大きく、青い腕輪をつけ、足はがっしりとしています。頭には大きな角が2本あり、背中には金色の円が浮かんでいます。",
+        "reason": "アダムは生命の力強さと堅固さを象徴するために、より精悍で強靭な外見へと進化しました。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750288566504
   }
 ]
