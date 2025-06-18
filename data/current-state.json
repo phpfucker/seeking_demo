@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='100' rx='80' ry='50' fill='#ff9999'/><circle cx='140' cy='100' r='10' fill='#fff'/><circle cx='260' cy='100' r='10' fill='#fff'/><path d='M180 150 L160 200 L220 200 Z' fill='#ff6666'/><path d='M180 220 Q200 260 220 220' fill='none' stroke='#ff6666' stroke-width='5'/><polygon points='170,190 180,170 190,190' fill='#ff6666'/><line x1='180' y1='260' x2='200' y2='280' stroke='#333' stroke-width='5'/><line x1='220' y1='260' x2='200' y2='280' stroke='#333' stroke-width='5'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#f0c8e1'><rect x='100' y='100' width='200' height='200'/></g><g fill='#ffb6c1'><circle cx='200' cy='150' r='50'/><circle cx='200' cy='250' r='50'/><circle cx='150' cy='200' r='50'/><circle cx='250' cy='200' r='50'/></g><g fill='#ff69b4'><path d='M200 250c25-40 75-40 100 0z'/><path d='M200 150c-25 40-75 40-100 0z'/></g><g fill='#ff1493'><ellipse cx='180' cy='150' rx='15' ry='10'/><ellipse cx='220' cy='150' rx='15' ry='10'/></g></svg>",
     "report": {
-      "appearance": "イヴは、ピンクの肌に赤い髪を持つ女性の姿をしています。体は大きな赤い楕円形で描かれ、顔は小さめの楕円形で表現されています。赤い服をまとい、細く長い腕と脚が特徴です。",
-      "reason": "イヴは新たな環境に適応するため、より柔らかく美しい外観を手に入れました。",
-      "thought": "『調和と美しさ』"
+      "appearance": "イヴはピンク色の大きな四角形の体を持ち、顔には薄いピンクの円形の目と薄紫の楕円形の口があります。四肢はピンクと薄紫の短い円形の手足で構成されています。",
+      "reason": "イヴは美しい色彩と柔らかな曲線を持つ進化を遂げました。これにより、より優美で優しい外観を獲得しました。",
+      "thought": "『愛と美しさの象徴』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#add8e6'/><ellipse cx='200' cy='100' rx='80' ry='50' fill='#87ceeb'/><circle cx='140' cy='100' r='10' fill='#fff'/><circle cx='260' cy='100' r='10' fill='#fff'/><path d='M180 150 L160 200 L220 200 Z' fill='#4682b4'/><path d='M180 220 Q200 260 220 220' fill='none' stroke='#4682b4' stroke-width='5'/><polygon points='170,190 180,170 190,190' fill='#4682b4'/><line x1='180' y1='260' x2='200' y2='280' stroke='#333' stroke-width='5'/><line x1='220' y1='260' x2='200' y2='280' stroke='#333' stroke-width='5'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#add8e6'><rect x='100' y='100' width='200' height='200'/></g><g fill='#87cefa'><circle cx='200' cy='150' r='50'/><circle cx='200' cy='250' r='50'/><circle cx='150' cy='200' r='50'/><circle cx='250' cy='200' r='50'/></g><g fill='#4682b4'><path d='M200 250c25-40 75-40 100 0z'/><path d='M200 150c-25 40-75 40-100 0z'/></g><g fill='#4169e1'><polygon points='180,150 220,150 200,200'/></g></svg>",
     "report": {
-      "appearance": "アダムは、青い肌と眼を持つ男性の姿をしています。体は大きな青い矩形で表現され、顔は楕円形で描かれています。青い服を身にまとい、たくましい腕と脚が特徴です。",
-      "reason": "アダムは強さと知恵を求めて、より頑丈で知的な外見に進化しました。",
-      "thought": "『力と知恵の調和』"
+      "appearance": "アダムは青色の大きな四角形の体を持ち、顔には薄い青の円形の目と濃い青色の楕円形の口があります。四肢は青と濃い青の短い円形の手足で構成されています。",
+      "reason": "アダムは進化の過程で青色の濃淡や幾何学的なパターンを取り入れ、より知的で強い外観を獲得しました。",
+      "thought": "『知性と力の象徴』"
     },
     "name": "アダム",
     "gender": "男性"
