@@ -2075,5 +2075,28 @@
       "gender": "男性"
     },
     "timestamp": 1750267021251
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,0,0);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,255,0);stop-opacity:1' /></linearGradient></defs><rect x='50' y='50' width='300' height='300' fill='url(#gradA)' /><circle cx='200' cy='200' r='120' fill='white' /><ellipse cx='150' cy='150' rx='25' ry='40' fill='rgb(255,200,200)' /><ellipse cx='250' cy='150' rx='25' ry='40' fill='rgb(255,200,200)' /><path d='M150 250 Q200 300 250 250 Q200 275 150 250 Z' fill='rgb(255,150,150)' /><path d='M170 170 Q200 190 230 170' fill='none' stroke='black' stroke-width='2' /><path d='M170 230 Q200 210 230 230' fill='none' stroke='black' stroke-width='2' /><line x1='150' y1='250' x2='250' y2='250' stroke='black' stroke-width='3' /><circle cx='170' cy='180' r='5' fill='black' /><circle cx='230' cy='180' r='5' fill='black' /><polygon points='185,180 195,170 205,180' fill='white' /><polygon points='215,180 225,170 235,180' fill='white' /><text x='200' y='320' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、鮮やかな赤と黄色のグラデーションが美しい女性型生命体です。全身を覆う白い皮膚と、赤い角を持ち、心温まる笑顔が特徴です。精巧に描かれた体と優美な仕草が、存在感を放っています。",
+        "reason": "イヴは自然界の美しさと強さを象徴した進化を遂げました。色彩豊かな外観は、環境への適応と共存の力を表しています。",
+        "thought": "『愛と美の力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(0,0,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,255,255);stop-opacity:1' /></linearGradient></defs><rect x='50' y='50' width='300' height='300' fill='url(#gradB)' /><circle cx='200' cy='200' r='120' fill='white' /><ellipse cx='150' cy='150' rx='25' ry='40' fill='rgb(200,200,255)' /><ellipse cx='250' cy='150' rx='25' ry='40' fill='rgb(200,200,255)' /><polygon points='170,170 200,150 230,170' fill='rgb(150,150,255)' /><path d='M150 250 Q200 270 250 250 Q200 280 150 250 Z' fill='rgb(150,150,255)' /><path d='M170 170 Q200 190 230 170' fill='none' stroke='black' stroke-width='2' /><path d='M170 230 Q200 210 230 230' fill='none' stroke='black' stroke-width='2' /><line x1='150' y1='250' x2='250' y2='250' stroke='black' stroke-width='3' /><circle cx='170' cy='180' r='5' fill='black' /><circle cx='230' cy='180' r='5' fill='black' /><text x='200' y='320' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、輝く青と水色のグラデーションが美しい男性型生命体です。全身を包む白い皮膚と、青い角を持ち、知的な表情が特徴です。シャープな体と優雅な動きが、高い知性を示しています。",
+        "reason": "アダムは知性と進化の象徴として、美しい色彩と複雑な形状を備えて進化しました。青い外観は、洞察力と学習能力の高さを表しています。",
+        "thought": "『知恵と調和の在り方』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750271037906
   }
 ]
