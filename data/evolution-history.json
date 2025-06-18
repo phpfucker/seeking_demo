@@ -1822,5 +1822,28 @@
       "gender": "男性"
     },
     "timestamp": 1750223840394
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#FFC0CB' /><ellipse cx='200' cy='220' rx='80' ry='100' fill='#FFC0CB' /><path d='M200 250 L170 280 L230 280 Z' fill='#FF99CC' /><path d='M185 200 Q200 180 215 200 Z' fill='#FF99CC' /><polygon points='180 170 185 190 195 190 200 170 205 190 215 190 220 170' fill='#FF99CC' /><circle cx='180' cy='240' r='10' fill='#FFFFFF' /><circle cx='220' cy='240' r='10' fill='#FFFFFF' /><ellipse cx='180' cy='220' rx='10' ry='5' fill='#FFFFFF' /><ellipse cx='220' cy='220' rx='10' ry='5' fill='#FFFFFF' /><path d='M190 240 Q200 260 210 240 Z' fill='#FFCCFF' /><path d='M195 280 Q200 290 205 280 Z' fill='#FFCCFF' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、長い髪と大きな目を持つ女性型生命体です。体には優しい曲線があり、優雅な雰囲気を醸し出しています。背中には小さな蝶々の模様が見られます。",
+        "reason": "新たな進化段階において、イヴはより美しい色彩と優しい特徴を獲得し、生命の源である女性らしさをより強調するために進化しました。",
+        "thought": "『自然と調和し、愛と美しさを宿している』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='100' width='120' height='150' fill='#4682B4' /><circle cx='200' cy='220' r='70' fill='#4682B4' /><path d='M180 230 Q200 250 220 230 Z' fill='#87CEEB' /><path d='M180 230 Q200 215 220 230 Z' fill='#87CEEB' /><circle cx='180' cy='210' r='10' fill='#FFFFFF' /><circle cx='220' cy='210' r='10' fill='#FFFFFF' /><rect x='160' y='240' width='80' height='20' fill='#FFFFFF' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の堅い外皮と丸い体を持つ男性型生命体です。短い髪と大きな手足を備え、堅実で力強い印象を与えています。体には青い海の波の模様が描かれています。",
+        "reason": "進化の過程で、アダムはより力強く頼りがいのある姿を獲得し、生命の継承と保護の役割をより強調するために進化しました。",
+        "thought": "『誠実さと強さを持ち、生命を守る』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750227927698
   }
 ]
