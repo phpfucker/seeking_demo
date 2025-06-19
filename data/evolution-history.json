@@ -2213,5 +2213,28 @@
       "gender": "男性"
     },
     "timestamp": 1750288566504
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><path d='M200 80 Q200 30 250 70 L150 70 Q200 30 200 80' fill='#ff99cc'/><path d='M160 200 A40 40 0 1 0 240 200 A40 40 0 1 0 160 200 Z' fill='#ff99cc'/><path d='M150 250 Q100 300 150 350 L150 250 Q200 300 150 350' fill='#ff99cc'/><path d='M250 250 Q300 300 250 350 L250 250 Q200 300 250 350' fill='#ff99cc'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクの肌を持つ女性の姿をしています。体の一部には薄いピンクの模様が施され、優雅な曲線を持つ髪と角が特徴です。",
+        "reason": "進化の過程で、イヴは自然と調和し、美しさと柔らかさを強調する方向へ進化しました。",
+        "thought": "『自然と調和する』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='120' ry='170' fill='#87ceeb'/><path d='M180 170 Q200 130 220 170 L180 170 Q200 130 220 170' fill='#4682b4'/><circle cx='170' cy='150' r='20' fill='#4682b4'/><circle cx='230' cy='150' r='20' fill='#4682b4'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い体を持つ男性の姿をしています。体の一部には濃い青の模様があり、力強い脚と腕が特徴です。",
+        "reason": "進化の過程で、アダムは力強さと勇敢さを強調する方向へ進化しました。",
+        "thought": "『力強さと勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750296119893
   }
 ]
