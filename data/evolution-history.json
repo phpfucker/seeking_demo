@@ -2259,5 +2259,28 @@
       "gender": "男性"
     },
     "timestamp": 1750302931041
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='150' rx='80' ry='120' fill='#ffcccb' /><path d='M160,200 C160,250 240,250 240,200 Q200,240 160,200' fill='#ffb6c1' /><path d='M240,200 C240,250 320,250 320,200 Q280,240 240,200' fill='#ffb6c1' /><ellipse cx='180' cy='140' rx='10' ry='20' fill='#ffffff' /><ellipse cx='220' cy='140' rx='10' ry='20' fill='#ffffff' /><rect x='180' y='250' width='40' height='80' fill='#ff69b4' /><path d='M160,330 Q200,370 240,330' fill='none' stroke='#ff69b4' stroke-width='3' /><path d='M170,250 Q200,210 230,250' fill='none' stroke='#ff69b4' stroke-width='3' /><polygon points='190,330 210,330 200,340' fill='#ff69b4' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の椭圆形の体に、薄いピンク色の翼を持ち、白い目を持つ女性の姿をしています。手はピンクの楕円形で、足は薄いピンクの短い直線状です。背中には赤い尾があります。",
+        "reason": "進化の理由は、豊かな自然環境と共に生命力を高め、より優美な外観と繊細な特徴を獲得したためです。",
+        "thought": "『生命の息吹』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='150' rx='70' ry='130' fill='#87ceeb' /><path d='M160,200 C160,250 240,250 240,200 Q200,240 160,200' fill='#4682b4' /><path d='M240,200 C240,250 320,250 320,200 Q280,240 240,200' fill='#4682b4' /><ellipse cx='180' cy='140' rx='10' ry='20' fill='#ffffff' /><ellipse cx='220' cy='140' rx='10' ry='20' fill='#ffffff' /><rect x='180' y='250' width='40' height='80' fill='#4169e1' /><path d='M160,330 Q200,370 240,330' fill='none' stroke='#4169e1' stroke-width='3' /><path d='M170,250 Q200,210 230,250' fill='none' stroke='#4169e1' stroke-width='3' /><polygon points='190,330 210,330 200,340' fill='#4169e1' /></svg>",
+      "report": {
+        "appearance": "アダムは、空色の椭圆形の体に、濃い青色の翼を持ち、白い目を持つ男性の姿をしています。手は空色の楕円形で、足は濃い青色の短い直線状です。背中には青い尾があります。",
+        "reason": "進化の理由は、自然環境の変化に適応し、より力強く、素早く、美しい外観を獲得するためです。",
+        "thought": "『永遠の探求』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750307129852
   }
 ]
