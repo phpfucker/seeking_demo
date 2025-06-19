@@ -2696,5 +2696,28 @@
       "gender": "男性"
     },
     "timestamp": 1750371359766
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='150' width='300' height='200' fill='#F9B8D2'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#FFC0CB'/><polygon points='120,250 280,250 200,350' fill='#FF69B4'/><circle cx='170' cy='120' r='10' fill='#FFFFFF'/><circle cx='230' cy='120' r='10' fill='#FFFFFF'/><path d='M160,150 Q200,180 240,150' fill='none' stroke='#000000' stroke-width='2'/><path d='M160,150 Q200,200 240,150' fill='none' stroke='#000000' stroke-width='2'/><path d='M180,200 Q200,220 220,200' fill='none' stroke='#000000' stroke-width='2'/><polygon points='150,250 250,250 200,320' fill='#FF1493'/><polygon points='160,180 200,140 240,180' fill='#FFC0CB'/><polygon points='160,210 200,250 240,210' fill='#FFC0CB'/><rect x='190' y='250' width='20' height='40' fill='#FFFFFF'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の肌を持ち、大きな赤い眼と薄いピンク色の髪を持つ女性型の生命体。背中には2つのピンク色の翼があり、全身には複数のピンク色の模様がある。",
+        "reason": "生態系において、新たな繁殖戦略を必要としたため、イヴの進化により多様な特徴が生じた。",
+        "thought": "『調和と愛を守ります』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='150' width='300' height='200' fill='#ADD8E6'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#87CEEB'/><polygon points='120,250 280,250 200,350' fill='#4682B4'/><circle cx='170' cy='120' r='10' fill='#FFFFFF'/><circle cx='230' cy='120' r='10' fill='#FFFFFF'/><path d='M160,150 Q200,180 240,150' fill='none' stroke='#000000' stroke-width='2'/><path d='M160,150 Q200,200 240,150' fill='none' stroke='#000000' stroke-width='2'/><path d='M180,200 Q200,220 220,200' fill='none' stroke='#000000' stroke-width='2'/><polygon points='150,250 250,250 200,320' fill='#87CEFA'/><polygon points='160,180 200,140 240,180' fill='#ADD8E6'/><polygon points='160,210 200,250 240,210' fill='#ADD8E6'/><rect x='190' y='250' width='20' height='40' fill='#FFFFFF'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の肌を持ち、大きな青い眼と濃い青色の髪を持つ男性型の生命体。背中には2つの青色の翼があり、全身には複数の青色の模様がある。",
+        "reason": "環境の変化により、アダムの進化が生じ、共生と協力の重要性が高まったため、新たな特徴が発達した。",
+        "thought": "『勇気と誠実を示します』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750374972676
   }
 ]
