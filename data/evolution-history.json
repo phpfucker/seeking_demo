@@ -2535,5 +2535,28 @@
       "gender": "男性"
     },
     "timestamp": 1750346258105
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#FFD700'/><ellipse cx='200' cy='150' rx='100' ry='50' fill='#FFD700'/><circle cx='150' cy='150' r='10' fill='#000'/><circle cx='250' cy='150' r='10' fill='#000'/><path d='M150 250 Q200 300 250 250' fill='none' stroke='#000' stroke-width='2'/><path d='M150 250 Q200 320 250 250' fill='none' stroke='#000' stroke-width='2'/><path d='M150 250 Q200 280 250 250' fill='none' stroke='#000' stroke-width='2'/><rect x='180' y='225' width='40' height='30' fill='#000'/></svg>",
+      "report": {
+        "appearance": "イヴは、金色の体と大きな黄色い卵形の目を持つ女性の生命体です。頭には黒い角が生え、しっぽがあります。手足は丸みを帯びた形状で、しっかりとした黒い靴を履いています。",
+        "reason": "イヴは、自然の調和と生成力を象徴する進化を遂げました。",
+        "thought": "『生命の源泉』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#6495ED'/><ellipse cx='200' cy='150' rx='100' ry='50' fill='#6495ED'/><circle cx='150' cy='150' r='10' fill='#000'/><circle cx='250' cy='150' r='10' fill='#000'/><path d='M150 250 Q200 300 250 250' fill='none' stroke='#000' stroke-width='2'/><path d='M150 250 Q200 320 250 250' fill='none' stroke='#000' stroke-width='2'/><path d='M150 250 Q200 280 250 250' fill='none' stroke='#000' stroke-width='2'/><rect x='180' y='225' width='40' height='30' fill='#000'/></svg>",
+      "report": {
+        "appearance": "アダムは、青紫色の体と大きな青い卵形の目を持つ男性の生命体です。頭には黒い角が生え、しっぽがあります。手足は丸みを帯びた形状で、しっかりとした黒い靴を履いています。",
+        "reason": "アダムは、知性と創造性を象徴する進化を遂げました。",
+        "thought": "『知恵の探求』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750350056798
   }
 ]
