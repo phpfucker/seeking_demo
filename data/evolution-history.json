@@ -2351,5 +2351,28 @@
       "gender": "男性"
     },
     "timestamp": 1750317414930
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcc80'/><ellipse cx='200' cy='240' rx='80' ry='50' fill='#ffecb3'/><path d='M180 270 Q200 310 220 270' fill='none' stroke='#e0ac69' stroke-width='3'/><circle cx='170' cy='230' r='10' fill='#e0ac69'/><circle cx='230' cy='230' r='10' fill='#e0ac69'/><path d='M200 240 L190 255 L210 255 Z' fill='#e0ac69'/><line x1='185' y1='230' x2='190' y2='220' stroke='#e0ac69' stroke-width='2'/><line x1='215' y1='230' x2='210' y2='220' stroke='#e0ac69' stroke-width='2'/><path d='M200 255 Q230 245 200 280 Q170 245 200 255 Z' fill='#e0ac69'/></svg>",
+      "report": {
+        "appearance": "イヴは、オレンジ色の体に淡いイエローの胴体を持ち、顔には柔らかいオレンジ色の模様があります。両腕には複雑な模様が施され、しっぽも細やかなデザインが施されています。",
+        "reason": "イヴは環境への適応性を高めるため、より複雑な模様や色彩を身に纏う進化を遂げました。",
+        "thought": "『色と模様で自分を表現する』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#80b3ff'/><ellipse cx='200' cy='240' rx='80' ry='50' fill='#b3d1ff'/><path d='M180 270 Q200 310 220 270' fill='none' stroke='#668cff' stroke-width='3'/><circle cx='170' cy='230' r='10' fill='#668cff'/><circle cx='230' cy='230' r='10' fill='#668cff'/><path d='M200 240 L190 255 L210 255 Z' fill='#668cff'/><line x1='185' y1='230' x2='190' y2='220' stroke='#668cff' stroke-width='2'/><line x1='215' y1='230' x2='210' y2='220' stroke='#668cff' stroke-width='2'/><path d='M200 255 Q230 245 200 280 Q170 245 200 255 Z' fill='#668cff'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に淡い青色の胴体を持ち、顔には涼しげな青色の模様があります。両腕には流れるようなデザインが施され、しっぽも繊細な形状で飾られています。",
+        "reason": "アダムは新たな環境に対応するため、より流れるような模様や色調を取り入れた進化を遂げました。",
+        "thought": "『流れるような美しさを持つ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750321391102
   }
 ]
