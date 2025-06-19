@@ -2673,5 +2673,28 @@
       "gender": "男性"
     },
     "timestamp": 1750367722344
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcc99'/><ellipse cx='200' cy='250' rx='80' ry='110' fill='#ffddb3'/><circle cx='150' cy='200' r='10' fill='#663300'/><circle cx='250' cy='200' r='10' fill='#663300'/><path d='M200 270 Q180 290 200 310 Q220 290 200 270 Z' fill='#ff9999'/><path d='M160 240 Q180 230 200 240 Q220 230 240 240 Q220 250 200 260 Q180 250 160 240 Z' fill='#ffcc99'/></svg>",
+      "report": {
+        "appearance": "イヴは、橙色のふんわりとした体と、ピンク色の優しげな顔を持つ。体は楕円形で、体色は明るいオレンジ色。顔は小さくて円形で、内側には大きな目と小さな口が描かれている。顔の周りには桃色のほっぺたがある。",
+        "reason": "イヴは、新たな感性と創造性を持つように進化した。",
+        "thought": "『愛と創造性』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#6699ff'/><ellipse cx='200' cy='250' rx='80' ry='110' fill='#99ccff'/><circle cx='150' cy='200' r='10' fill='#0066cc'/><circle cx='250' cy='200' r='10' fill='#0066cc'/><polygon points='180,270 200,300 220,270' fill='#ff6666'/><polygon points='160,240 200,220 240,240 220,260 180,260' fill='#ff9999'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の力強い体と、明るい青色の顔を持つ。体は四角形で、体色は深い青色。顔はやや長めの楕円形で、大きな目と丸い口が特徴的。頬は青色で、顔全体が優しい表情を浮かべている。",
+        "reason": "アダムは、知識と勇気を持つように進化した。",
+        "thought": "『知識と勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750371359766
   }
 ]
