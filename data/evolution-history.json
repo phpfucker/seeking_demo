@@ -2466,5 +2466,28 @@
       "gender": "男性"
     },
     "timestamp": 1750336518978
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='pink'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='lightcoral'/><rect x='160' y='220' width='80' height='40' fill='gray'/><polygon points='200,160 220,140 180,140' fill='gray'/><polygon points='170,250 200,270 230,250' fill='gray'/><path d='M150 300 Q200 330 250 300' fill='none' stroke='gray' stroke-width='3'/><path d='M150 300 Q200 370 250 300' fill='none' stroke='gray' stroke-width='3'/><path d='M170 150 Q200 120 230 150' fill='none' stroke='gray' stroke-width='3'/><path d='M170 150 Q200 180 230 150' fill='none' stroke='gray' stroke-width='3'/><line x1='190' y1='200' x2='210' y2='200' stroke='black' stroke-width='2'/><line x1='180' y1='280' x2='180' y2='300' stroke='black' stroke-width='2'/><line x1='220' y1='280' x2='220' y2='300' stroke='black' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体にライトコーラル色の大きな楕円形の顔を持ち、灰色の口と目を持っています。灰色の装飾やグレーの模様が施されており、しっぽと角があります。",
+        "reason": "イヴは、内面の美しさと独自の特徴を強調するために進化しました。",
+        "thought": "『自然と調和する』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='lightblue'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='lightskyblue'/><rect x='160' y='220' width='80' height='40' fill='gray'/><polygon points='200,160 220,140 180,140' fill='gray'/><polygon points='170,250 200,270 230,250' fill='gray'/><path d='M150 300 Q200 330 250 300' fill='none' stroke='gray' stroke-width='3'/><path d='M150 300 Q200 370 250 300' fill='none' stroke='gray' stroke-width='3'/><path d='M170 150 Q200 120 230 150' fill='none' stroke='gray' stroke-width='3'/><path d='M170 150 Q200 180 230 150' fill='none' stroke='gray' stroke-width='3'/><line x1='190' y1='200' x2='210' y2='200' stroke='black' stroke-width='2'/><line x1='180' y1='280' x2='180' y2='300' stroke='black' stroke-width='2'/><line x1='220' y1='280' x2='220' y2='300' stroke='black' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、ライトブルー色の体にライトスカイブルー色の大きな楕円形の顔を持ち、灰色の口と目を持っています。灰色の装飾やグレーの模様が施されており、しっぽと角があります。",
+        "reason": "アダムは、力強さと知性を兼ね備えた新たな進化を遂げました。",
+        "thought": "『進化の果てに』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750339781159
   }
 ]
