@@ -2581,5 +2581,28 @@
       "gender": "男性"
     },
     "timestamp": 1750353289916
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='rgb(255,204,229)' /><ellipse cx='200' cy='200' rx='100' ry='120' fill='rgb(255,153,204)' /><path d='M150 200 Q200 60 250 200 Q200 340 150 200' fill='rgb(255,153,204)' /><circle cx='150' cy='180' r='10' fill='black' /><circle cx='250' cy='180' r='10' fill='black' /><path d='M175 240 L185 240 L180 260 Z' fill='black' /><path d='M225 240 L235 240 L230 260 Z' fill='black' /><path d='M190 320 Q200 340 210 320' fill='none' stroke='black' stroke-width='2' /><path d='M170 280 Q150 320 130 280' fill='none' stroke='black' stroke-width='2' /><path d='M230 280 Q250 320 270 280' fill='none' stroke='black' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌を持ち、背中には大きな淡紫色の翼があります。頭部には長い髪の毛があり、顔には優しい表情が浮かんでいます。手足は細長く、指先には小さな爪があります。体全体からは神秘的な輝きが感じられます。",
+        "reason": "イヴは自然界の美しさと調和を体現するため、進化によって美しい翼を持つ姿に変化しました。",
+        "thought": "『自然と調和する喜び』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='rgb(102,178,255)' /><ellipse cx='200' cy='200' rx='100' ry='120' fill='rgb(51,133,255)' /><path d='M150 200 Q200 60 250 200 Q200 340 150 200' fill='rgb(51,133,255)' /><circle cx='150' cy='180' r='10' fill='black' /><circle cx='250' cy='180' r='10' fill='black' /><path d='M180 240 L180 250 L160 245 Z' fill='black' /><path d='M220 240 L220 250 L240 245 Z' fill='black' /><path d='M190 320 Q200 340 210 320' fill='none' stroke='black' stroke-width='2' /><path d='M170 280 Q150 320 130 280' fill='none' stroke='black' stroke-width='2' /><path d='M230 280 Q250 320 270 280' fill='none' stroke='black' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌を持ち、背中には大きな青い鱗が並んでいます。頭部には短い角があり、顔つきは力強く引き締まっています。手足は筋肉質で頑丈で、足裏には大きな爪があります。体全体からは力強さと頼もしさが感じられます。",
+        "reason": "アダムは自然の中での生存能力を高めるため、鱗と角を持つ姿に進化しました。",
+        "thought": "『自然と共に生きる強さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750357380921
   }
 ]
