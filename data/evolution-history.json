@@ -2627,5 +2627,28 @@
       "gender": "男性"
     },
     "timestamp": 1750360357162
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='170' rx='100' ry='120' fill='#ffc0cb' /><rect x='160' y='200' width='80' height='120' fill='#ff99cc' /><polygon points='180,320 220,320 200,380' fill='#ff6699' /><polygon points='160,200 200,160 240,200' fill='#ff6699' /><circle cx='170' cy='180' r='10' fill='#ffffff' /><circle cx='230' cy='180' r='10' fill='#ffffff' /><path d='M200 250 Q190 270 200 290 Q210 270 200 250' fill='none' stroke='#ff6699' stroke-width='4' /><path d='M185 220 Q195 210 205 220' fill='none' stroke='#000000' stroke-width='2' /><path d='M215 220 Q205 210 195 220' fill='none' stroke='#000000' stroke-width='2' /><polygon points='180,210 200,220 220,210' fill='#ff99cc' /><polygon points='190,230 200,240 210,230' fill='#ff99cc' /><polygon points='190,250 200,260 210,250' fill='#ff99cc' /><text x='200' y='350' text-anchor='middle' font-family='Arial' font-size='20' fill='#000000'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、背中に小さな翼が生えた女性型の生命体です。顔には白い大きな瞳とつぶらない笑みが特徴的です。頭部には角が2本あり、薄いピンク色の長い髪が背中まで垂れています。体は丸みを帯び、後ろ足が2本あり前足はなく、しっぽは短くてふさふさしています。",
+        "reason": "イヴは、新たな環境に適応するため、空を飛ぶ力を持つ翼を発達させた。そして、より優美な外見を持つように進化した。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#87ceeb' /><rect x='160' y='200' width='80' height='120' fill='#87cefa' /><rect x='160' y='320' width='40' height='60' fill='#6495ed' /><rect x='200' y='320' width='40' height='60' fill='#6495ed' /><polygon points='180,320 220,320 200,380' fill='#4169e1' /><polygon points='160,200 200,160 240,200' fill='#4169e1' /><circle cx='170' cy='180' r='10' fill='#ffffff' /><circle cx='230' cy='180' r='10' fill='#ffffff' /><line x1='185' y1='220' x2='215' y2='220' stroke='#000000' stroke-width='2' /><polygon points='180,210 200,220 220,210' fill='#87cefa' /><polygon points='190,230 200,240 210,230' fill='#b0e0e6' /><polygon points='190,250 200,260 210,250' fill='#b0e0e6' /><text x='200' y='350' text-anchor='middle' font-family='Arial' font-size='20' fill='#000000'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体毛を持つ男性型の生命体で、背中に小さな水色の羽が生えています。顔は真っ青で、大きな青い瞳と穏やかな表情が特徴です。2本の角が頭部に生えており、後ろ足が2本、前足がなく、青いしっぽがあります。",
+        "reason": "アダムは、水中での生活に順応するため、水を素早く泳ぐことができる羽を進化させた。その結果、より流線型で美しい外見を獲得した。",
+        "thought": "『静かな深海』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750364394418
   }
 ]
