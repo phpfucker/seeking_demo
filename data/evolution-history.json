@@ -2305,5 +2305,28 @@
       "gender": "男性"
     },
     "timestamp": 1750310229994
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#ffcccb'/><circle cx='200' cy='90' r='80' fill='#ffe0bd'/><circle cx='140' cy='80' r='20' fill='#ff99c3'/><circle cx='260' cy='80' r='20' fill='#ff99c3'/><path d='M160 160 Q200 140 240 160 Q200 180 160 160' fill='none' stroke='#000' stroke-width='2'/><ellipse cx='170' cy='180' rx='40' ry='20' fill='#fff'/> <ellipse cx='230' cy='180' rx='40' ry='20' fill='#fff'/><circle cx='170' cy='180' r='10' fill='#000'/><circle cx='230' cy='180' r='10' fill='#000'/><path d='M160 190 Q200 210 240 190' fill='none' stroke='#000' stroke-width='2'/><path d='M140 250 Q200 230 260 250' fill='none' stroke='#000' stroke-width='2'/><rect x='130' y='250' width='140' height='30' fill='#fff'/><polygon points='200,280 190,250 210,250' fill='#ffcccb'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色のやわらかい皮膚を持ち、大きな目と小さな口を持つ女性の姿をしています。頭には2本の短い角があり、柔らかな笑顔を浮かべています。体は丸みを帯び、優しい雰囲気を醸し出しています。",
+        "reason": "イヴは自然界の調和と進化の一環として、より優美で美しい姿へと進化しました。",
+        "thought": "『生命の力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#afeeee'/><circle cx='200' cy='90' r='80' fill='#f0e68c'/><circle cx='140' cy='80' r='20' fill='#b0e0e6'/><circle cx='260' cy='80' r='20' fill='#b0e0e6'/><path d='M160 160 Q200 140 240 160 Q200 180 160 160' fill='none' stroke='#000' stroke-width='2'/><ellipse cx='170' cy='180' rx='40' ry='20' fill='#fff'/><ellipse cx='230' cy='180' rx='40' ry='20' fill='#fff'/><circle cx='170' cy='180' r='10' fill='#000'/><circle cx='230' cy='180' r='10' fill='#000'/><path d='M160 190 Q200 210 240 190' fill='none' stroke='#000' stroke-width='2'/><path d='M140 250 Q200 230 260 250' fill='none' stroke='#000' stroke-width='2'/><rect x='130' y='250' width='140' height='30' fill='#fff'/><polygon points='200,280 190,250 210,250' fill='#afeeee'/></svg>",
+      "report": {
+        "appearance": "アダムは水色の肌を持ち、大きな目と小さな口を持つ男性の姿をしています。頭部には2本の短い角があり、穏やかな表情を浮かべています。体は筋肉質で力強く、安定感のある雰囲気が漂っています。",
+        "reason": "アダムは進化の過程で、より力強く健康的な外見へと変化しました。",
+        "thought": "『絶えぬ力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750314338044
   }
 ]
