@@ -2489,5 +2489,28 @@
       "gender": "男性"
     },
     "timestamp": 1750339781159
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='100' rx='80' ry='110' fill='#ffcccb'/><path d='M150,150 Q200,50 250,150' fill='#ffcccb'/><path d='M150,150 Q200,250 250,150' fill='#ffcccb'/><ellipse cx='170' cy='130' rx='15' ry='10' fill='#ffe4e1'/><ellipse cx='230' cy='130' rx='15' ry='10' fill='#ffe4e1'/><path d='M180,180 Q200,190 220,180' stroke='#000' stroke-width='2' fill='none'/><path d='M220,180 Q230,170 220,160' stroke='#000' stroke-width='2' fill='none'/><path d='M220,180 Q230,190 220,200' stroke='#000' stroke-width='2' fill='none'/><rect x='190' y='170' width='20' height='30' fill='#000'/><polygon points='195,200 205,200 200,220' fill='#000'/><polygon points='165,205 180,205 172.5,220' fill='#000'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に大きな目と優雅な体つきを持ち、優しい表情と角のような飾りが特徴的です。手足は細長く、しっぽが繊細な曲線を描いています。",
+        "reason": "イヴは自然界の美しさと優雅さからインスピレーションを受け、より洗練された外見を求めて進化しました。",
+        "thought": "『優しさと美しさが世界をつないでいく』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='100' rx='80' ry='110' fill='#87ceeb'/><path d='M150,150 Q200,50 250,150' fill='#87ceeb'/><path d='M150,150 Q200,250 250,150' fill='#87ceeb'/><ellipse cx='170' cy='130' rx='15' ry='10' fill='#add8e6'/><ellipse cx='230' cy='130' rx='15' ry='10' fill='#add8e6'/><path d='M180,180 Q200,190 220,180' stroke='#000' stroke-width='2' fill='none'/><path d='M220,180 Q230,170 220,160' stroke='#000' stroke-width='2' fill='none'/><path d='M220,180 Q230,190 220,200' stroke='#000' stroke-width='2' fill='none'/><rect x='190' y='170' width='20' height='30' fill='#000'/><polygon points='195,200 205,200 200,220' fill='#000'/><polygon points='165,205 180,205 172.5,220' fill='#000'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に力強い体つきと鋭い目つきを持ち、角のような装飾としっかりとした手足が特徴です。しっぽはしなやかな動きを表現しています。",
+        "reason": "アダムは強さと知恵を象徴する外見を追求し、自らをより強く表現するために進化しました。",
+        "thought": "『力強さと知恵を持ち合わせ、前に進む』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750342591280
   }
 ]
