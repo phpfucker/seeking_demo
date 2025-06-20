@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,153,153);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,0,0);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='160' cy='150' rx='20' ry='10' fill='rgb(255,255,255)' /><ellipse cx='240' cy='150' rx='20' ry='10' fill='rgb(255,255,255)' /><path d='M190 230 Q200 250 210 230' stroke='black' fill='none' /><path d='M190 230 Q200 240 210 230' stroke='black' fill='none' /><polygon points='180,220 190,190 200,210' fill='rgb(255,153,153)' /><polygon points='220,220 210,190 200,210' fill='rgb(255,153,153)' /><rect x='180' y='250' width='40' height='10' fill='rgb(255,153,153)' /><rect x='160' y='240' width='80' height='20' fill='rgb(255,153,153)' /><ellipse cx='180' cy='200' rx='5' ry='10' fill='rgb(255,0,0)' /><ellipse cx='220' cy='200' rx='5' ry='10' fill='rgb(255,0,0)' /><line x1='190' y1='260' x2='190' y2='280' stroke='black' stroke-width='2' /><line x1='210' y1='260' x2='210' y2='280' stroke='black' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='250' rx='80' ry='110' fill='#ffc0cb'/><path d='M150 300 L200 350 L250 300 Z' fill='#ff69b4'/><ellipse cx='180' cy='230' rx='10' ry='15' fill='#000'/><ellipse cx='220' cy='230' rx='10' ry='15' fill='#000'/><polygon points='200,240 210,260 190,260' fill='#fff'/></svg>",
     "report": {
-      "appearance": "イヴは、赤と白のグラデーションが美しい女性型生命体です。丸い顔に白い角や赤い模様が特徴的で、愛らしい印象を与えます。体の中心には赤い胸部があり、しなやかな赤いしっぽが優雅に伸びています。",
-      "reason": "進化の過程で、イヴは新たなエレガントな模様や美しいグラデーションを身にまとい、より魅力的な姿を手に入れました。",
-      "thought": "『新たな美しさが心を満たす』"
+      "appearance": "イヴは、ピンク色の柔らかな肌を持ち、大きな赤い目と長いピンク色の髪を持っています。体はエレガントな楕円形で、背中には桃色の翼があります。",
+      "reason": "イヴは自然との調和を求める進化を遂げました。その優美さと美しさは、新たな環境で役立つことで生存競争に勝利するためです。",
+      "thought": "『愛と平和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(153,204,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,102,255);stop-opacity:1' /></linearGradient></defs><rect x='150' y='180' width='100' height='150' fill='url(#gradB)' /><circle cx='200' cy='150' r='50' fill='rgb(255,255,255)' /><ellipse cx='180' cy='140' rx='10' ry='8' fill='rgb(0,0,255)' /><ellipse cx='220' cy='140' rx='10' ry='8' fill='rgb(0,0,255)' /><line x1='190' y1='160' x2='210' y2='160' stroke='black' stroke-width='2' /><polygon points='190,200 200,220 210,200' fill='rgb(153,204,255)' /><polygon points='180,220 200,240 220,220' fill='rgb(153,204,255)' /><polyline points='170,250 185,260 200,250 215,260 230,250' fill='none' stroke='rgb(0,102,255)' stroke-width='2' /><polyline points='170,260 185,270 200,260 215,270 230,260' fill='none' stroke='rgb(0,102,255)' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#87ceeb'/><ellipse cx='200' cy='250' rx='80' ry='110' fill='#add8e6'/><path d='M150 300 L200 350 L250 300 Z' fill='#4682b4'/><rect x='185' y='230' width='30' height='20' fill='#000'/><rect x='165' y='260' width='10' height='20' fill='#fff'/><rect x='225' y='260' width='10' height='20' fill='#fff'/></svg>",
     "report": {
-      "appearance": "アダムは、青と白のグラデーションが豊かな男性型生命体です。四角い体に青い模様が刻まれ、凛とした風格を持っています。中央の円形顔には真っ青な目が光り、知性と強さを感じさせます。",
-      "reason": "アダムは新たな色合いや凛々しい模様を身にまとい、より力強く颯爽とした姿へと進化しました。",
-      "thought": "『誇り高き進化の果て』"
+      "appearance": "アダムは、青い体と青みがかった淡い青色の肌を持ち、大きな青い目と短い青い髪を持っています。体はしっかりとした四角形で、背中には青い鱗があります。",
+      "reason": "アダムは力強く進化し、環境への適応力を高めました。その頑強さと防御能力は、新たな脅威に立ち向かうために必要な変化です。",
+      "thought": "『勇気と力』"
     },
     "name": "アダム",
     "gender": "男性"
