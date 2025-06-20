@@ -3156,5 +3156,28 @@
       "gender": "男性"
     },
     "timestamp": 1750450723053
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff88aa' /><ellipse cx='160' cy='180' rx='25' ry='40' fill='#ffaac2' /><ellipse cx='240' cy='180' rx='25' ry='40' fill='#ffaac2' /><path d='M160 220 Q200 260 240 220' fill='none' stroke='#663333' stroke-width='2' /><line x1='210' y1='220' x2='210' y2='260' stroke='#663333' stroke-width='2' /><polygon points='180,180 190,170 200,180' fill='#663333' /><polygon points='220,180 230,170 240,180' fill='#663333' /><circle cx='180' cy='200' r='8' fill='#663333' /><circle cx='220' cy='200' r='8' fill='#663333' /><rect x='180' y='260' width='40' height='15' fill='#ffaac2' /><rect x='170' y='240' width='60' height='20' fill='#ffaac2' /><polygon points='160,205 140,230 160,240' fill='#ffaac2' /><polygon points='240,205 260,230 240,240' fill='#ffaac2' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌と、愛らしい顔立ちを持つ女性型の生命体です。長い髪と優しい表情が特徴で、身体の一部には複雑な模様が美しく描かれています。",
+        "reason": "イヴは新たな進化を遂げ、より美しく優雅な姿に成長しました。進化は種の繁栄と美しさを追求する自然の摂理によるものです。",
+        "thought": "『愛と美しさの輝き』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='200' fill='#5566aa' /><rect x='150' y='150' width='100' height='100' fill='#7788cc' /><circle cx='200' cy='145' r='45' fill='#7788cc' /><circle cx='180' cy='120' r='8' fill='#333366' /><circle cx='220' cy='120' r='8' fill='#333366' /><polygon points='180,150 190,140 200,150' fill='#333366' /><polygon points='220,150 230,140 240,150' fill='#333366' /><rect x='170' y='250' width='60' height='15' fill='#7788cc' /><rect x='160' y='230' width='80' height='20' fill='#7788cc' /><polygon points='150,180 130,200 150,210' fill='#7788cc' /><polygon points='250,180 270,200 250,210' fill='#7788cc' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の筋肉質な体とマッシブな顔つきの男性型の生命体です。力強い体つきと落ち着いた表情が特徴で、頭部に複数の角が生えています。",
+        "reason": "アダムは新たな進化を遂げ、より力強く頼もしい姿に成長しました。進化は生存と強さを求める自然の摂理によるものです。",
+        "thought": "『力強き未来への挑戦』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750454132820
   }
 ]
