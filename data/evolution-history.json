@@ -2788,5 +2788,28 @@
       "gender": "男性"
     },
     "timestamp": 1750393464606
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ff99cc'/><ellipse cx='200' cy='180' rx='80' ry='100' fill='#ffcc99'/><circle cx='150' cy='150' r='10' fill='#ff6699'/><circle cx='250' cy='150' r='10' fill='#ff6699'/><path d='M180 220 Q200 270 220 220' fill='none' stroke='#ff6699'/><path d='M160 220 Q200 250 240 220' fill='none' stroke='#ff6699'/><path d='M180 250 Q200 270 220 250' fill='none' stroke='#ff6699'/><path d='M180 250 Q220 260 220 250' fill='none' stroke='#ff6699'/><line x1='150' y1='300' x2='160' y2='350' stroke='#ff6699' stroke-width='2'/><line x1='250' y1='300' x2='240' y2='350' stroke='#ff6699' stroke-width='2'/><polygon points='180,180 200,170 220,180' fill='none' stroke='#ff6699'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の肌を持ち、柔らかな表情と大きな目を特徴とします。背中には小さな翼が生えており、愛らしい姿をしています。",
+        "reason": "生態系における新たな役割を果たすため、空を舞う能力を身につけた。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#3399ff'/><circle cx='200' cy='180' r='60' fill='#99ccff'/><circle cx='170' cy='160' r='10' fill='#3366cc'/><circle cx='230' cy='160' r='10' fill='#3366cc'/><path d='M160 220 Q200 250 240 220' fill='none' stroke='#3366cc'/><path d='M160 220 Q200 270 240 220' fill='none' stroke='#3366cc'/><path d='M160 250 Q200 270 240 250' fill='none' stroke='#3366cc'/><path d='M160 250 Q200 260 240 250' fill='none' stroke='#3366cc'/><line x1='150' y1='300' x2='160' y2='350' stroke='#3366cc' stroke-width='2'/><line x1='250' y1='300' x2='240' y2='350' stroke='#3366cc' stroke-width='2'/><polygon points='180,180 200,170 220,180' fill='none' stroke='#3366cc'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の肌を持ち、凛々しい表情と鋭い目つきを特徴とします。背中には羽根模様が浮かび上がり、力強い姿勢を示しています。",
+        "reason": "求められる力強さと知恵を持つ新たな生存戦略に適応したため、飛翔能力を獲得した。",
+        "thought": "『勇気と知恵』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750396661595
   }
 ]
