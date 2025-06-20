@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='160' fill='#F9A7BC' /><ellipse cx='200' cy='180' rx='80' ry='100' fill='#FFDBE9' /><path d='M150,260 Q200,320 250,260' fill='none' stroke='#FFDBE9' stroke-width='10' /><path d='M160,180 Q200,120 240,180' fill='none' stroke='#FFDBE9' stroke-width='10' /><path d='M110,200 Q200,300 290,200' fill='none' stroke='#FFDBE9' stroke-width='10' /><ellipse cx='160' cy='180' rx='20' ry='10' fill='#FFFFFF' /><ellipse cx='240' cy='180' rx='20' ry='10' fill='#FFFFFF' /><circle cx='180' cy='180' r='5' fill='#000000' /><circle cx='220' cy='180' r='5' fill='#000000' /><path d='M180,220 Q200,240 220,220' fill='none' stroke='#000000' stroke-width='5' /><path d='M180,230 Q200,250 220,230' fill='none' stroke='#000000' stroke-width='5' /><path d='M180,260 Q200,275 220,260' fill='none' stroke='#000000' stroke-width='5' /><path d='M200,260 Q200,275 200,260' fill='none' stroke='#000000' stroke-width='5' /><path d='M220,260 Q200,275 180,260' fill='none' stroke='#000000' stroke-width='5' /><path d='M150,220 Q200,200 250,220' fill='none' stroke='#000000' stroke-width='10' /><path d='M150,240 Q200,220 250,240' fill='none' stroke='#000000' stroke-width='10' /><path d='M150,250 Q200,230 250,250' fill='none' stroke='#000000' stroke-width='10' /><path d='M150,260 Q200,240 250,260' fill='none' stroke='#000000' stroke-width='10' /><text x='200' y='350' text-anchor='middle' font-family='Arial' font-size='20' fill='#000000'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><polygon points='200,50 250,200 150,200' fill='#ff99cc' /><circle cx='160' cy='200' r='25' fill='#d9bfd9' /><circle cx='240' cy='200' r='25' fill='#d9bfd9' /><ellipse cx='160' cy='200' rx='15' ry='10' fill='#954a97' /><ellipse cx='240' cy='200' rx='15' ry='10' fill='#954a97' /><path d='M185,240 Q200,260 215,240' fill='none' stroke='#954a97' stroke-width='5' /><path d='M150,150 Q175,130 200,150 Q225,130 250,150' fill='none' stroke='#954a97' stroke-width='5' /><line x1='130' y1='220' x2='170' y2='220' stroke='#954a97' stroke-width='5' /><line x1='230' y1='220' x2='270' y2='220' stroke='#954a97' stroke-width='5' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンクと白の柔らかな色合いの体を持ち、体の一部には淡いピンクの模様が施されています。頭部には大きな白い目と小さな口があり、柔らかな角が生えています。四肢は長くて華奢で、手には指がなく、足の先には細い尾が付いています。",
-      "reason": "イヴは新たな生態系での生存を支援するため、より柔らかで控えめな色合いと細長い四肢を持つよう進化しました。",
-      "thought": "『守護と優しさ』"
+      "appearance": "イヴは、ピンクとパープルの色合いの柔らかな肌を持ち、丸い頭に大きな目と小さな口を持つ女性型生命体です。頭部には二本の短い角があり、愛らしい表情をしています。四肢は細く、体全体が優雅で華やかな雰囲気を醸し出しています。",
+      "reason": "生態系において、色彩的な魅力や柔らかな外見が求められ、イヴはより美しく魅力的な姿に進化しました。",
+      "thought": "『優しさと美しさの力』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='160' width='120' height='160' fill='#85BFE9' /><ellipse cx='200' cy='180' rx='70' ry='90' fill='#CBE3F2' /><path d='M180,220 Q200,240 220,220' fill='none' stroke='#CBE3F2' stroke-width='10' /><path d='M180,260 Q200,275 220,260' fill='none' stroke='#CBE3F2' stroke-width='10' /><path d='M170,220 Q200,200 230,220' fill='none' stroke='#CBE3F2' stroke-width='10' /><path d='M170,240 Q200,220 230,240' fill='none' stroke='#CBE3F2' stroke-width='10' /><path d='M160,180 Q200,120 240,180' fill='none' stroke='#CBE3F2' stroke-width='10' /><polygon points='160,160 200,120 240,160' fill='#CBE3F2' /><polygon points='160,320 200,360 240,320' fill='#CBE3F2' /><circle cx='170' cy='240' r='5' fill='#000000' /><circle cx='230' cy='240' r='5' fill='#000000' /><path d='M170,260 Q200,275 230,260' fill='none' stroke='#000000' stroke-width='5' /><path d='M160,180 Q200,100 240,180' fill='none' stroke='#000000' stroke-width='10' /><text x='200' y='350' text-anchor='middle' font-family='Arial' font-size='20' fill='#000000'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='80' width='100' height='240' fill='#87ceeb' /><polygon points='200,50 250,200 150,200' fill='#4682b4' /><circle cx='160' cy='200' r='25' fill='#87cefa' /><circle cx='240' cy='200' r='25' fill='#87cefa' /><ellipse cx='160' cy='200' rx='15' ry='10' fill='#4682b4' /><ellipse cx='240' cy='200' rx='15' ry='10' fill='#4682b4' /><path d='M185,240 Q200,260 215,240' fill='none' stroke='#4682b4' stroke-width='5' /><path d='M150,150 Q175,130 200,150 Q225,130 250,150' fill='none' stroke='#4682b4' stroke-width='5' /><line x1='140' y1='220' x2='180' y2='220' stroke='#4682b4' stroke-width='5' /><line x1='230' y1='220' x2='270' y2='220' stroke='#4682b4' stroke-width='5' /></svg>",
     "report": {
-      "appearance": "アダムは、青色の体と明るい青の背びれを持つ男性的な特徴を示しています。体の一部には淡い青色の模様が浮かび上がり、四角い頭部に大きな目と口を持ちます。丸い尾と腕、脚が頑丈で筋肉質です。",
-      "reason": "アダムは狩りを助けるため、強靭で頑丈な体と明るい青色の背びれを持つよう進化しました。",
-      "thought": "『闘志と勇気』"
+      "appearance": "アダムは、青と水色の色調の全身を持つ男性型生命体で、四角い頭部に大きな口と小さな目を持ちます。角ばった形状と筋肉質な体つきが特徴で、頭部には一本の太く短い角が生えています。力強くたくましい外見をしています。",
+      "reason": "生態系において、力強さや堅牢性が重要視され、アダムはより頑丈で力強い姿に進化しました。",
+      "thought": "『力と堅牢さの誇り』"
     },
     "name": "アダム",
     "gender": "男性"
