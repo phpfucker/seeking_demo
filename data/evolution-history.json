@@ -2903,5 +2903,28 @@
       "gender": "男性"
     },
     "timestamp": 1750411088246
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='230' rx='70' ry='90' fill='#ff99cc'/><circle cx='150' cy='180' r='10' fill='#ff66cc'/><circle cx='250' cy='180' r='10' fill='#ff66cc'/><path d='M190 240 Q200 280 210 240' fill='none' stroke='#663399'/><path d='M170 260 Q200 300 230 260' fill='none' stroke='#663399'/><path d='M150 200 Q170 190 150 180' fill='none' stroke='#663399'/><path d='M250 200 Q230 190 250 180' fill='none' stroke='#663399'/><polygon points='180,210 200,190 220,210' fill='#663399'/><text x='150' y='50' font-family='Arial' font-size='20' fill='#663399'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に大きな紫色の目を持つ女性の姿をしています。体は柔らかい曲線と角ばった要素が組み合わさり、優美な印象を与えます。",
+        "reason": "イヴは自然界の美しさと力強さを組み合わせた進化を遂げました。美しい色彩と力強いデザインが生存において優位性をもたらしました。",
+        "thought": "『自然の中で美しさと強さが共存する』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#add8e6'/><ellipse cx='200' cy='230' rx='70' ry='90' fill='#87ceeb'/><circle cx='150' cy='180' r='10' fill='#4682b4'/><circle cx='250' cy='180' r='10' fill='#4682b4'/><path d='M190 240 Q200 280 210 240' fill='none' stroke='#2e8b57'/><path d='M170 260 Q200 300 230 260' fill='none' stroke='#2e8b57'/><path d='M150 200 Q170 190 150 180' fill='none' stroke='#2e8b57'/><path d='M250 200 Q230 190 250 180' fill='none' stroke='#2e8b57'/><polygon points='180,210 200,190 220,210' fill='#2e8b57'/><text x='150' y='50' font-family='Arial' font-size='20' fill='#2e8b57'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、水色の体に大きな青色の目を持つ男性の姿をしています。体のラインは滑らかでありつつも力強さを感じさせ、青色の要素が清澄な印象を与えます。",
+        "reason": "アダムは進化によって、力強さと知性を兼ね備えた姿となりました。知性と洗練された外観が新たな環境での適応力を高めました。",
+        "thought": "『知識と力強さが調和する』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750414703297
   }
 ]
