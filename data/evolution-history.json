@@ -3018,5 +3018,28 @@
       "gender": "男性"
     },
     "timestamp": 1750428995166
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='0%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,202,229);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,141,184);stop-opacity:1' /></linearGradient></defs><rect x='120' y='120' width='160' height='240' fill='url(#gradA)' /><ellipse cx='200' cy='100' rx='80' ry='60' fill='url(#gradA)' /><path d='M180 160 Q200 220 220 160 Q200 200 180 160 Z' fill='rgb(255,202,229)' /><circle cx='160' cy='260' r='20' fill='rgb(255,141,184)' /><circle cx='240' cy='260' r='20' fill='rgb(255,141,184)' /><polygon points='180,280 220,280 200,320' fill='rgb(255,141,184)' /><circle cx='180' cy='200' r='10' fill='white' /><circle cx='220' cy='200' r='10' fill='white' /><path d='M160 180 Q180 190 200 180 Q220 190 240 180' fill='none' stroke='black' stroke-width='2' /><path d='M160 300 Q180 310 200 300 Q220 310 240 300' fill='none' stroke='black' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは全身がピンクと白のグラデーションで覆われ、優雅な女性らしい体つきを持ち、頭部に角を持つ。手足は丸くて柔らかい印象であり、しっぽは繊細な模様がある。",
+        "reason": "女性的な美しさと優雅さを強調するため、色と形状を調和させた進化が起こった。",
+        "thought": "『優しさの輝き』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='0%' y2='100%'><stop offset='0%' style='stop-color:rgb(134,198,227);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(68,153,187);stop-opacity:1' /></linearGradient></defs><rect x='120' y='120' width='160' height='240' fill='url(#gradB)' /><ellipse cx='200' cy='100' rx='80' ry='60' fill='url(#gradB)' /><path d='M180 160 Q200 220 220 160 Q200 200 180 160 Z' fill='rgb(134,198,227)' /><circle cx='160' cy='260' r='20' fill='rgb(68,153,187)' /><circle cx='240' cy='260' r='20' fill='rgb(68,153,187)' /><polygon points='180,280 220,280 200,320' fill='rgb(68,153,187)' /><circle cx='180' cy='200' r='10' fill='white' /><circle cx='220' cy='200' r='10' fill='white' /><line x1='160' y1='180' x2='200' y2='180' stroke='black' stroke-width='2' /><line x1='200' y1='180' x2='240' y2='180' stroke='black' stroke-width='2' /><line x1='160' y1='300' x2='200' y2='300' stroke='black' stroke-width='2' /><line x1='200' y1='300' x2='240' y2='300' stroke='black' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは全身が青と水色のグラデーションで覆われ、力強い男性らしい体つきを持ち、頭部に角を持つ。手足はがっしりとした作りであり、しっぽはシンプルで頑丈な印象がある。",
+        "reason": "男性的な力強さと頼もしさを表現するため、色と形状を調和させた進化が起こった。",
+        "thought": "『誇り高き勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750432665387
   }
 ]
