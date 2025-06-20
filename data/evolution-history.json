@@ -2834,5 +2834,28 @@
       "gender": "男性"
     },
     "timestamp": 1750400733145
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightpink'/><ellipse cx='200' cy='200' rx='120' ry='180' fill='pink'/><circle cx='140' cy='150' r='20' fill='black'/><circle cx='260' cy='150' r='20' fill='black'/><path d='M160 220 Q200 250 240 220' stroke='black' stroke-width='5' fill='none'/><path d='M180 150 Q200 130 220 150' stroke='black' stroke-width='5' fill='none'/><rect x='180' y='250' width='40' height='20' fill='black'/><polygon points='190,280 210,280 200,300' fill='black'/><circle cx='200' cy='180' r='10' fill='white'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の卵型の体に、黒い瞳を持つ女性です。体の周りには白い装飾があり、優雅な雰囲気を醸し出しています。",
+        "reason": "性別に基づいた進化が起こり、華やかで美しい特徴が強調されました。",
+        "thought": "『愛と美の調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='130' ry='180' fill='lightblue'/><polygon points='170,230 200,280 230,230' fill='darkblue'/><polygon points='190,170 200,140 210,170' fill='darkblue'/><circle cx='175' cy='200' r='20' fill='black'/><circle cx='225' cy='200' r='20' fill='black'/><line x1='180' y1='230' x2='220' y2='230' stroke='black' stroke-width='5'/><line x1='190' y1='170' x2='210' y2='170' stroke='black' stroke-width='5'/><rect x='180' y='250' width='40' height='20' fill='black'/></svg>",
+      "report": {
+        "appearance": "アダムは、水色の楕円形の体に、ダークブルーの三角形模様を持つ男性です。クールで力強い印象を与える外見を持っています。",
+        "reason": "男性らしさを強調するために、シャープで凛々しい特徴が進化しました。",
+        "thought": "『力と知恵の調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750403795816
   }
 ]
