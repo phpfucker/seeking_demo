@@ -141,7 +141,8 @@
 🔄 **AIによるデータ生成＋GeckoLib対応MOD方式（本プロジェクトの主方針）**
 
 - 本プロジェクトは「GeckoLib対応の独自MOD」を基盤とし、**Blockbenchで作成した多様なモデル・スキン・アニメーションを用意**します。
-- **AI（ChatGPT等）は、進化・誕生・社会性・形状・スキン・アニメーションなどをJSONデータとして自動生成**し、MOD本体がそのデータを定期的に読み込んで反映します。
+- **AI（ChatGPT等）は、最初にadamとeve（2体）を生成し、以降は親2体の特徴を受け継いだ子孫（世代・家系情報付き）を進化サイクルに沿って自動生成します。**
+- 各個体のJSONには「親ID」「世代」「DNA」などの家系・進化情報を含め、MOD本体がそのデータを定期的に読み込んで反映します。
 
 #### この方式の特徴
 - **モデル（形状）・スキン（テクスチャ）・アニメーションの切り替えが非常に柔軟**
@@ -176,4 +177,27 @@
 
 ---
 
-ご質問・ご要望は随時Issueまたはチャットでお知らせください。 
+ご質問・ご要望は随時Issueまたはチャットでお知らせください。
+
+---
+
+## MOD・リソースパック導入手順（1.20.1/Forge）
+
+1. Forge（MODローダー）
+   - https://files.minecraftforge.net/net/minecraftforge/forge/
+   - 1.20.1用Installerをダウンロードし、「Install client」でインストール
+
+2. Entity Model Features（EMF）
+   - https://modrinth.com/mod/entity-model-features
+   - 1.20.1用Forge版jarをクライアント・サーバー両方のmodsフォルダに設置
+
+3. Entity Texture Features（ETF）
+   - https://modrinth.com/mod/entitytexturefeatures
+   - 1.20.1用Forge版jarをクライアント・サーバー両方のmodsフォルダに設置
+
+4. Fresh Animations（リソースパック）
+   - https://modrinth.com/resourcepack/fresh-animations/versions
+   - 1.20.1対応zipをクライアントのresourcepacksフォルダに設置
+
+※ Forgeプロファイルで起動しないとMODは有効になりません
+※ mods/resourcepacksフォルダがなければ自分で作成 

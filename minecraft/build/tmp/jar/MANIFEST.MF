@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: ailife
+Specification-Vendor: YourName
+Specification-Version: 1
+Implementation-Title: minecraft
+Implementation-Version: 1.0.0
+Implementation-Vendor: YourName
+Implementation-Timestamp: 2025-06-20T21:25:18+0900
+

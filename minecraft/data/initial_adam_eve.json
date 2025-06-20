@@ -1,0 +1,30 @@
+[
+  {
+    "entity_id": "adam",
+    "name": "adam",
+    "gender": "male",
+    "parent_ids": [],
+    "generation": 1,
+    "dna": "ACGTACGTACGTACGT",
+    "model": "models/entity/villager.geo.json",
+    "texture": "textures/entity/villager/villager.png",
+    "animation": "animations/entity/villager.animation.json",
+    "behavior": "curious",
+    "sociality": "leader",
+    "lifespan": 1500
+  },
+  {
+    "entity_id": "eve",
+    "name": "eve",
+    "gender": "female",
+    "parent_ids": [],
+    "generation": 1,
+    "dna": "TGCATGCATGCATGCA",
+    "model": "models/entity/witch.geo.json",
+    "texture": "textures/entity/witch/witch.png",
+    "animation": "animations/entity/witch.animation.json",
+    "behavior": "passive",
+    "sociality": "herd",
+    "lifespan": 1500
+  }
+] 
