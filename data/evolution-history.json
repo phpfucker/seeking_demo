@@ -3087,5 +3087,28 @@
       "gender": "男性"
     },
     "timestamp": 1750439697804
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradA)' /><circle cx='200' cy='150' r='40' fill='white' /><circle cx='160' cy='145' r='10' fill='black' /><circle cx='240' cy='145' r='10' fill='black' /><path d='M180 220 Q200 250 220 220' fill='none' stroke='black' stroke-width='2' /><path d='M180 220 Q200 230 220 220' fill='none' stroke='black' stroke-width='2' /><path d='M160 240 Q200 250 240 240' fill='none' stroke='black' stroke-width='2' /><path d='M160 240 Q200 230 240 240' fill='none' stroke='black' stroke-width='2' /><path d='M150 150 L130 170' fill='none' stroke='black' stroke-width='2' /><path d='M250 150 L270 170' fill='none' stroke='black' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクからオレンジへとグラデーションした美しい体色を持ち、白い丸い顔に黒い目を持ちます。肩から始まる曲線的な角を持ち、手足はしなやかで滑らかなラインで描かれています。",
+        "reason": "イヴは内面からの輝きを外に表現するため、美しいグラデーションの体色と滑らかなラインで進化しました。",
+        "thought": "『輝く愛』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(173,216,230);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradB)' /><ellipse cx='200' cy='150' rx='50' ry='40' fill='white' /><ellipse cx='180' cy='145' rx='10' ry='7' fill='black' /><ellipse cx='220' cy='145' rx='10' ry='7' fill='black' /><path d='M180 220 Q200 250 220 220' fill='none' stroke='black' stroke-width='2' /><path d='M180 220 Q200 230 220 220' fill='none' stroke='black' stroke-width='2' /><path d='M160 240 Q200 250 240 240' fill='none' stroke='black' stroke-width='2' /><path d='M160 240 Q200 230 240 240' fill='none' stroke='black' stroke-width='2' /><polyline points='150,150 130,170' fill='none' stroke='black' stroke-width='2' /><polyline points='250,150 270,170' fill='none' stroke='black' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青から水色へとグラデーションした体色を持ち、白い楕円形の顔に小さな黒い目を持っています。体は大きな楕円形で描かれ、手足は丸みを帯びた形状です。",
+        "reason": "アダムは内面の冷静な力強さを外に表現するため、青系のグラデーションの体色と丸みを帯びた形状で進化しました。",
+        "thought": "『静かな力強さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750443798262
   }
 ]
