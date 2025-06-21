@@ -1,3 +1,5 @@
+package jp.seekin.minecraft.ailife;
+
 import com.google.gson.*;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.event.server.ServerStartingEvent;

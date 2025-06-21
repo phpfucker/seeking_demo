@@ -132,4 +132,9 @@ Sorting
 Writing Output: /Users/motosue/Documents/seekin_demo/minecraft/build/reobfJar/output.jar
   META-INF/
   META-INF/MANIFEST.MF
-  AiLifeMod.class
+  META-INF/mods.toml
+  jp/
+  jp/seekin/
+  jp/seekin/minecraft/
+  jp/seekin/minecraft/ailife/
+  jp/seekin/minecraft/ailife/AiLifeMod.class
