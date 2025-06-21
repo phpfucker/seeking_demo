@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,179,186);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,94,101);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='200' cy='160' rx='80' ry='100' fill='white' /><ellipse cx='150' cy='160' rx='15' ry='25' fill='rgb(255,94,101)' /><ellipse cx='250' cy='160' rx='15' ry='25' fill='rgb(255,94,101)' /><path d='M170 240 Q200 280 230 240' stroke='black' stroke-width='2' fill='none' /><path d='M170 240 Q200 260 230 240' stroke='black' stroke-width='2' fill='none' /><circle cx='170' cy='150' r='10' fill='black' /><circle cx='230' cy='150' r='10' fill='black' /><rect x='185' y='270' width='30' height='10' fill='rgb(255,94,101)' /><polygon points='150,200 200,280 250,200' fill='rgb(255,179,186)' /><polygon points='170,220 200,200 230,220' fill='white' /></svg>",
     "report": {
-      "appearance": "イヴは、輝く羽毛で覆われた美しい女性型生命体です。透き通るような翼と、優雅な角を持ち、深い森の守護者のような存在です。",
-      "reason": "大気中の微粒子が変化し、環境のエネルギーを吸収することで姿が進化しました。",
-      "thought": "『自然と共に在り、光と闇の調和を守る』"
+      "appearance": "イヴは、ピンクと白のグラデーションを持つ美しい女性。体は柔らかなピンク色で覆われ、長い髪と優雅な角が特徴です。顔には赤い目と優しい笑顔があり、足元にはピンクと白の模様が施されています。",
+      "reason": "イヴは進化し、より美しく、優雅な姿となった。新たな特徴を身につけ、生態系での存在感を高めるためだ。",
+      "thought": "『調和と美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(142,216,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(51,179,255);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradB)' /><ellipse cx='200' cy='160' rx='80' ry='100' fill='white' /><ellipse cx='150' cy='160' rx='15' ry='25' fill='rgb(51,179,255)' /><ellipse cx='250' cy='160' rx='15' ry='25' fill='rgb(51,179,255)' /><path d='M170 240 Q200 280 230 240' stroke='black' stroke-width='2' fill='none' /><path d='M170 240 Q200 260 230 240' stroke='black' stroke-width='2' fill='none' /><circle cx='170' cy='150' r='10' fill='black' /><circle cx='230' cy='150' r='10' fill='black' /><rect x='185' y='270' width='30' height='10' fill='rgb(51,179,255)' /><polygon points='150,200 200,280 250,200' fill='rgb(142,216,255)' /><polygon points='170,220 200,200 230,220' fill='white' /></svg>",
     "report": {
-      "appearance": "アダムは、荒々しい炎をまとった男性型生命体です。炎のような鬣と、剛毛なしっぽで、戦いの勇者のような風格を持っています。",
-      "reason": "火山の噴火により熱量が増し、炎のエネルギーが生命体に影響を与え進化しました。",
-      "thought": "『燃え盛る情熱で、未来を切り拓く』"
+      "appearance": "アダムは、青と白のグラデーションを持つ強壮な男性。体は深い青色で覆われ、角や大きな尾が特徴です。顔には威厳ある目つきと力強い口元があり、足元には青と白の模様が施されています。",
+      "reason": "アダムは進化し、より力強く、威厳ある姿となった。新たな特徴を身につけ、生存競争において優位性を高めるためだ。",
+      "thought": "『力と誇り』"
     },
     "name": "アダム",
     "gender": "男性"
