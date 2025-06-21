@@ -3,14 +3,14 @@
  * adamとeveの2体の個体データJSONをgenerated_entities.jsonに出力するスクリプト。
  * 
  * 実行方法: node generate_entities.js
- * 出力: ../data/generated_entities.json
+ * 出力: ../config/generated_entities.json
  */
 
 const fs = require('fs');
 const path = require('path');
 
-const INPUT_PATH = path.join(__dirname, '../data/initial_adam_eve.json');
-const OUTPUT_PATH = path.join(__dirname, '../data/generated_entities.json');
+const INPUT_PATH = path.join(__dirname, '../config/initial_adam_eve.json');
+const OUTPUT_PATH = path.join(__dirname, '../config/generated_entities.json');
 
 /**
  * adam/eve個体データ（性別付き）を外部ファイルから読み込み、ファイルに出力する

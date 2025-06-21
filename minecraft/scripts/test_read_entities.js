@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const entitiesPath = path.join(__dirname, '../data/generated_entities.json');
+const entitiesPath = path.join(__dirname, '../config/generated_entities.json');
 
 if (!fs.existsSync(entitiesPath)) {
   console.error('generated_entities.jsonが存在しません');
