@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#FFB6C1'><path d='M200,120 l30,60 l-60,0 z'/><path d='M170,180 l60,0 l-30,60 z'/><path d='M180,240 l40,0 l-20,40 z'/></g><g fill='#DDA0DD'><path d='M180,140 l-20,-40 l40,0 z'/><path d='M180,200 l-25,-25 l50,0 z'/><path d='M180,260 l-20,40 l40,0 z'/></g><circle cx='200' cy='100' r='20' fill='#FFB6C1'/><circle cx='200' cy='90' r='8' fill='#000'/><path d='M190,105 a10,8 0 1,0 20,0 z' fill='#000'/><path d='M195,105 a2,2 0 1,0 4,0 z' fill='#FFF'/><path d='M180,120 l-10,-10 l-5,5 z' fill='#000'/><path d='M220,120 l10,-10 l5,5 z' fill='#000'/><rect x='195' y='140' width='10' height='30' fill='#000'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' width='400' height='400'><rect x='100' y='50' width='200' height='300' fill='#ffcc66' /><ellipse cx='200' cy='200' rx='100' ry='150' fill='#ffcc66' /><circle cx='150' cy='150' r='10' fill='#ffd699' /><circle cx='250' cy='150' r='10' fill='#ffd699' /><path d='M150 250 Q200 300 250 250' stroke='#996633' stroke-width='5' fill='none' /><path d='M170 300 Q200 320 230 300' stroke='#996633' stroke-width='3' fill='none' /><polygon points='190,200 210,200 200,220' fill='#996633' /><polygon points='170,220 230,220 200,250' fill='#996633' /><line x1='140' y1='170' x2='110' y2='210' stroke='#996633' stroke-width='3' /><line x1='260' y1='170' x2='290' y2='210' stroke='#996633' stroke-width='3' /><polygon points='180,270 220,270 200,300' fill='#996633' /><text x='200' y='350' font-family='Arial' font-size='18' fill='black' text-anchor='middle'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴはピンクと紫色の美しい体色を持ち、頭部には長い角があります。胴体は柔らかい曲線で描かれており、手足には繊細な模様があります。",
-      "reason": "イヴは進化の過程で独自の美しさを追求し、より優雅な姿に変化しました。",
-      "thought": "『優しさが力になる』"
+      "appearance": "イヴは、美しいオレンジ色の体に大きな眼と角を持つ女性型生命体です。腕は黒い模様が入り、しっぽは茶色で先端に三角形の模様があります。",
+      "reason": "イヴは新たなる環境への適応により、美しい模様や目立つ特徴を持つよう進化しました。",
+      "thought": "『奇跡』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#87CEEB'><path d='M200,120 l30,60 l-60,0 z'/><path d='M170,180 l60,0 l-30,60 z'/><path d='M180,240 l40,0 l-20,40 z'/></g><g fill='#4682B4'><path d='M180,140 l-20,-40 l40,0 z'/><path d='M180,200 l-25,-25 l50,0 z'/><path d='M180,260 l-20,40 l40,0 z'/></g><circle cx='200' cy='100' r='20' fill='#87CEEB'/><circle cx='200' cy='90' r='8' fill='#000'/><path d='M190,105 a10,8 0 1,0 20,0 z' fill='#000'/><path d='M195,105 a2,2 0 1,0 4,0 z' fill='#FFF'/><path d='M180,120 l-10,-10 l-5,5 z' fill='#000'/><path d='M220,120 l10,-10 l5,5 z' fill='#000'/><rect x='195' y='140' width='10' height='30' fill='#000'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' width='400' height='400'><rect x='100' y='50' width='200' height='300' fill='#6699ff' /><ellipse cx='200' cy='200' rx='100' ry='150' fill='#6699ff' /><circle cx='150' cy='150' r='10' fill='#99ccff' /><circle cx='250' cy='150' r='10' fill='#99ccff' /><path d='M150 250 Q200 300 250 250' stroke='#003366' stroke-width='5' fill='none' /><path d='M170 300 Q200 320 230 300' stroke='#003366' stroke-width='3' fill='none' /><polygon points='190,200 210,200 200,220' fill='#003366' /><polygon points='170,220 230,220 200,250' fill='#003366' /><line x1='140' y1='170' x2='110' y2='210' stroke='#003366' stroke-width='3' /><line x1='260' y1='170' x2='290' y2='210' stroke='#003366' stroke-width='3' /><polygon points='180,270 220,270 200,300' fill='#003366' /><text x='200' y='350' font-family='Arial' font-size='18' fill='black' text-anchor='middle'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは青色と水色を基調とした体色を持ち、頭部にも角があります。体は頑丈な印象を与え、手足にはシンプルで力強い模様が描かれています。",
-      "reason": "アダムは進化の過程で力強さと落ち着きを重視し、より堅固な姿に変化しました。",
-      "thought": "『堅固な心が全てを支える』"
+      "appearance": "アダムは、カッコイイ青色の体に大きな眼と角を持つ男性型生命体です。腕は青と白のストライプ模様が入り、しっぽは青くて先端に星型の模様があります。",
+      "reason": "アダムは新たな狩猟地での生存競争に適応するため、派手で目立つ模様や長大な角を持つよう進化しました。",
+      "thought": "『勝利』"
     },
     "name": "アダム",
     "gender": "男性"
