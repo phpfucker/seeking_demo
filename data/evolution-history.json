@@ -3501,5 +3501,28 @@
       "gender": "男性"
     },
     "timestamp": 1750512296449
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='200' rx='120' ry='170' fill='#ffc0cb' /><path d='M120 200 L200 300 L280 200 Z' fill='#ff9999' /><rect x='180' y='150' width='40' height='20' fill='#ff6666' /><polygon points='150,280 200,320 250,280' fill='#ff9999' /><line x1='150' y1='150' x2='170' y2='170' stroke='#cc6666' stroke-width='1' /><line x1='250' y1='150' x2='230' y2='170' stroke='#cc6666' stroke-width='1' /><polygon points='180,220 190,240 170,240' fill='#cc6666' /><polygon points='220,220 210,240 230,240' fill='#cc6666' /><ellipse cx='190' cy='195' rx='8' ry='5' fill='#660000' /><ellipse cx='210' cy='195' rx='8' ry='5' fill='#660000' /><rect x='170' y='300' width='60' height='10' fill='#cc6666' /><polygon points='188,290 200,321 212,290' fill='#ff6666' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、女性らしい曲線を強調した体型をしています。頭部には赤い角が2本生え、表情豊かな目と口元が特徴です。胴体には赤い模様が施され、しっぽも優雅に広がっています。",
+        "reason": "女性らしさと美しさを強調するため、柔らかなピンク色と曲線を取り入れました。赤い色や模様は強さや情熱を表現し、角やしっぽは独自の個性を与えるために追加しました。",
+        "thought": "『生命の花が咲く』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#00ccff' /><rect x='160' y='130' width='80' height='140' fill='#00bfff' /><polygon points='200,80 160,130 240,130' fill='#00bfff' /><path d='M160 130 Q200 40 240 130 Z' fill='#00aaff' /><rect x='190' y='140' width='20' height='10' fill='#0066cc' /><rect x='180' y='280' width='40' height='10' fill='#0066cc' /><polygon points='170,290 200,320 230,290' fill='#0066cc' /><ellipse cx='180' cy='195' rx='8' ry='5' fill='#003366' /><ellipse cx='220' cy='195' rx='8' ry='5' fill='#003366' /><line x1='150' y1='200' x2='170' y2='220' stroke='#003366' stroke-width='1' /><line x1='250' y1='200' x2='230' y2='220' stroke='#003366' stroke-width='1' /><polygon points='180,220 190,240 170,240' fill='#003366' /><polygon points='220,220 210,240 230,240' fill='#003366' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体と男性らしいシルエットを持っています。四角い顔立ちと力強い体つきが特徴で、頭部には青い角が1本生えています。胴体には濃い青色の模様が施され、しっかりした足としっぽがあります。",
+        "reason": "男性らしさと力強さを表現するため、青色と四角い形状を採用しました。角やしっぽは個性を際立たせるために追加し、濃い青色の模様は強さと落ち着きを演出しています。",
+        "thought": "『未来への一歩』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750515338850
   }
 ]
