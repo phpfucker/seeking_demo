@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#ffcccb'/><circle cx='200' cy='150' r='50' fill='#ffd700'/><ellipse cx='150' cy='250' rx='30' ry='20' fill='#ff69b4'/><ellipse cx='250' cy='250' rx='30' ry='20' fill='#ff69b4'/><polygon points='180,180 220,180 200,200' fill='#ff4500'/><polygon points='150,210 160,200 170,210' fill='#ffffff'/><polygon points='240,210 250,200 260,210' fill='#ffffff'/><path d='M180 280 Q200 300 220 280' fill='none' stroke='#000' stroke-width='2'/><line x1='180' y1='280' x2='220' y2='280' stroke='#000' stroke-width='2'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff99cc' /><ellipse cx='200' cy='140' rx='100' ry='120' fill='#ffc0cb' /><ellipse cx='150' cy='165' rx='20' ry='40' fill='#ffffff' /><ellipse cx='250' cy='165' rx='20' ry='40' fill='#ffffff' /><ellipse cx='160' cy='140' rx='12' ry='25' fill='#ff99cc' /><ellipse cx='240' cy='140' rx='12' ry='25' fill='#ff99cc' /><path d='M150 250 Q200 300 250 250 L220 280 Q200 300 180 280 Z' fill='#ff99cc' /><path d='M150 250 Q200 200 250 250' fill='none' stroke='#000' stroke-width='2' /><path d='M180 250 Q200 230 220 250' fill='none' stroke='#000' stroke-width='2' /><ellipse cx='170' cy='130' rx='5' ry='10' fill='#000' /><ellipse cx='230' cy='130' rx='5' ry='10' fill='#000' /><polygon points='175,80 200,40 225,80' fill='#ff99cc' /><polygon points='160,100 200,60 240,100' fill='#ff99cc' /><polygon points='190,60 200,90 210,60' fill='#ffc0cb' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の体に金色の円形の頭部を持ち、頭にはピンクの耳があります。胴体には2つの紫の楕円形の羽があり、手足は赤色で、手には白い爪があります。",
-      "reason": "新たな進化により、イヴはより美しく、そして独自の特徴を持つ存在となりました。",
-      "thought": "『調和と美しさ』"
+      "appearance": "イヴは、ピンク色の大きな円形の体に、淡いピンク色の楕円形の胴体を持ち、白い眼を持っています。両側にはピンク色の楕円形の耳があり、中心にはピンク色の小さな三角形の鼻があります。手はピンク色の特徴的な模様が入った腕と手首になっており、しっぽは一本のピンク色の三角形です。",
+      "reason": "イヴは新たなる生命の誕生を象徴し、優しさと美しさを追求する進化を遂げました。",
+      "thought": "『愛と善意』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#add8e6'/><circle cx='200' cy='150' r='50' fill='#ffa500'/><rect x='180' y='200' width='40' height='80' fill='#778899'/><polygon points='220,220 240,220 230,240' fill='#ffffff'/><polygon points='180,220 200,220 190,240' fill='#ffffff'/><polygon points='180,280 190,260 200,280' fill='#ff4500'/><polygon points='220,280 230,260 240,280' fill='#ff4500'/><line x1='200' y1='280' x2='200' y2='300' stroke='#000' stroke-width='2'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='50' width='100' height='200' fill='#6495ed' /><polygon points='150,250 200,400 250,250' fill='#6495ed' /><ellipse cx='200' cy='50' rx='50' ry='30' fill='#87cefa' /><ellipse cx='200' cy='250' rx='60' ry='100' fill='#87cefa' /><ellipse cx='180' cy='50' rx='10' ry='20' fill='#ffffff' /><ellipse cx='220' cy='50' rx='10' ry='20' fill='#ffffff' /><polygon points='170,250 200,200 230,250' fill='#87cefa' /><line x1='170' y1='250' x2='230' y2='250' stroke='#000' stroke-width='2' /><line x1='170' y1='250' x2='200' y2='200' stroke='#000' stroke-width='2' /><line x1='200' y1='200' x2='230' y2='250' stroke='#000' stroke-width='2' /><ellipse cx='180' cy='250' rx='5' ry='10' fill='#000' /><ellipse cx='220' cy='250' rx='5' ry='10' fill='#000' /><polygon points='190,160 200,130 210,160' fill='#6495ed' /></svg>",
     "report": {
-      "appearance": "アダムは、青色の体にオレンジ色の円形の頭部を持ち、頭には白い矩形の模様が描かれています。四肢は灰色で、手には白い斑点があり、赤い爪が特徴です。",
-      "reason": "進化のプロセスにより、アダムはより強靱で知性を持つ姿となりました。",
-      "thought": "『力と知恵の融合』"
+      "appearance": "アダムは、青色の矩形の体と、青い三角形のしっぽを持ち、頭部には青い楕円形の顔がついています。体の中心には大きな青い楕円形の胴体があり、耳は白い楕円形で表現され、手は青い模様が入った腕と手首に分かれています。",
+      "reason": "アダムは知識と力強さを象徴し、進化によってより強固な姿と知性を獲得しました。",
+      "thought": "『知識と勇気』"
     },
     "name": "アダム",
     "gender": "男性"
