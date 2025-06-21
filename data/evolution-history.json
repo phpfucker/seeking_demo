@@ -3225,5 +3225,28 @@
       "gender": "男性"
     },
     "timestamp": 1750461378319
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='250' rx='80' ry='110' fill='#ffc0cb'/><path d='M150 300 L200 350 L250 300 Z' fill='#ff69b4'/><ellipse cx='180' cy='230' rx='10' ry='15' fill='#000'/><ellipse cx='220' cy='230' rx='10' ry='15' fill='#000'/><polygon points='200,240 210,260 190,260' fill='#fff'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、大きな赤い目と長いピンク色の髪を持っています。体はエレガントな楕円形で、背中には桃色の翼があります。",
+        "reason": "イヴは自然との調和を求める進化を遂げました。その優美さと美しさは、新たな環境で役立つことで生存競争に勝利するためです。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#87ceeb'/><ellipse cx='200' cy='250' rx='80' ry='110' fill='#add8e6'/><path d='M150 300 L200 350 L250 300 Z' fill='#4682b4'/><rect x='185' y='230' width='30' height='20' fill='#000'/><rect x='165' y='260' width='10' height='20' fill='#fff'/><rect x='225' y='260' width='10' height='20' fill='#fff'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い体と青みがかった淡い青色の肌を持ち、大きな青い目と短い青い髪を持っています。体はしっかりとした四角形で、背中には青い鱗があります。",
+        "reason": "アダムは力強く進化し、環境への適応力を高めました。その頑強さと防御能力は、新たな脅威に立ち向かうために必要な変化です。",
+        "thought": "『勇気と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750468832443
   }
 ]
