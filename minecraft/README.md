@@ -201,3 +201,40 @@
 
 ※ Forgeプロファイルで起動しないとMODは有効になりません
 ※ mods/resourcepacksフォルダがなければ自分で作成 
+
+## 運用手順
+
+### 1. 各ファイルの設置場所
+- **MOD jar（例：ailife-1.0.0.jar）**
+  - サーバーとクライアント両方の `mods/` フォルダ
+    - 例: `/opt/minecraft_forge_server/mods/ailife-1.0.0.jar`
+    - （クライアントPCの `.minecraft/mods/ailife-1.0.0.jar`）
+- **AI生成JSON（例：generated_entities.json）**
+  - サーバーの `config/` ディレクトリ
+    - 例: `/opt/minecraft_forge_server/config/generated_entities.json`
+- **初期データ（例：initial_adam_eve.json）**
+  - サーバーの `config/` ディレクトリ
+    - 例: `/opt/minecraft_forge_server/config/initial_adam_eve.json`
+- **スクリプト（例：generate_entities.js, reset_entities.js）**
+  - サーバー管理用PC上で実行（設置場所は任意、出力先は `config/` を指定）
+
+### 2. サーバー再起動のタイミング
+- `generated_entities.json` などのJSONデータを更新・上書きした後は、必ずサーバーを再起動してください。
+  - これによりMODが新しいデータを読み込みます。
+- MOD jarを更新・差し替えた場合も、必ずサーバーを再起動してください。
+
+### 3. Node.jsスクリプト（jsファイル）実行のタイミング
+- **初回セットアップ時**
+  - `node scripts/generate_entities.js` で `initial_adam_eve.json` から `generated_entities.json` を生成
+- **AI進化サイクルやデータリセット時**
+  - `node scripts/reset_entities.js` で `generated_entities.json` を初期状態に戻す
+- **AIによる進化データ生成を行いたい時**
+  - `node scripts/auto-evolution.js` など（自動進化用スクリプトがある場合）
+- **注意**
+  - これらのスクリプトはサーバー停止中または再起動前に実行し、`config/`配下のJSONを上書きしてください。
+
+### 4. 運用フロー例
+1. サーバー停止
+2. 必要なスクリプト（generate_entities.js, reset_entities.js, auto-evolution.js等）をNode.jsで実行し、`config/`配下のJSONを更新
+3. サーバー起動
+4. サーバーログ（latest.log, debug.log）でMODの出力・データ反映を確認 
