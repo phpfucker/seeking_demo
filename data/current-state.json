@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' width='400' height='400'><rect x='100' y='50' width='200' height='300' fill='#ffcc66' /><ellipse cx='200' cy='200' rx='100' ry='150' fill='#ffcc66' /><circle cx='150' cy='150' r='10' fill='#ffd699' /><circle cx='250' cy='150' r='10' fill='#ffd699' /><path d='M150 250 Q200 300 250 250' stroke='#996633' stroke-width='5' fill='none' /><path d='M170 300 Q200 320 230 300' stroke='#996633' stroke-width='3' fill='none' /><polygon points='190,200 210,200 200,220' fill='#996633' /><polygon points='170,220 230,220 200,250' fill='#996633' /><line x1='140' y1='170' x2='110' y2='210' stroke='#996633' stroke-width='3' /><line x1='260' y1='170' x2='290' y2='210' stroke='#996633' stroke-width='3' /><polygon points='180,270 220,270 200,300' fill='#996633' /><text x='200' y='350' font-family='Arial' font-size='18' fill='black' text-anchor='middle'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
     "report": {
-      "appearance": "イヴは、美しいオレンジ色の体に大きな眼と角を持つ女性型生命体です。腕は黒い模様が入り、しっぽは茶色で先端に三角形の模様があります。",
-      "reason": "イヴは新たなる環境への適応により、美しい模様や目立つ特徴を持つよう進化しました。",
-      "thought": "『奇跡』"
+      "appearance": "イヴは、輝く羽毛で覆われた美しい女性型生命体です。透き通るような翼と、優雅な角を持ち、深い森の守護者のような存在です。",
+      "reason": "大気中の微粒子が変化し、環境のエネルギーを吸収することで姿が進化しました。",
+      "thought": "『自然と共に在り、光と闇の調和を守る』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' width='400' height='400'><rect x='100' y='50' width='200' height='300' fill='#6699ff' /><ellipse cx='200' cy='200' rx='100' ry='150' fill='#6699ff' /><circle cx='150' cy='150' r='10' fill='#99ccff' /><circle cx='250' cy='150' r='10' fill='#99ccff' /><path d='M150 250 Q200 300 250 250' stroke='#003366' stroke-width='5' fill='none' /><path d='M170 300 Q200 320 230 300' stroke='#003366' stroke-width='3' fill='none' /><polygon points='190,200 210,200 200,220' fill='#003366' /><polygon points='170,220 230,220 200,250' fill='#003366' /><line x1='140' y1='170' x2='110' y2='210' stroke='#003366' stroke-width='3' /><line x1='260' y1='170' x2='290' y2='210' stroke='#003366' stroke-width='3' /><polygon points='180,270 220,270 200,300' fill='#003366' /><text x='200' y='350' font-family='Arial' font-size='18' fill='black' text-anchor='middle'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
     "report": {
-      "appearance": "アダムは、カッコイイ青色の体に大きな眼と角を持つ男性型生命体です。腕は青と白のストライプ模様が入り、しっぽは青くて先端に星型の模様があります。",
-      "reason": "アダムは新たな狩猟地での生存競争に適応するため、派手で目立つ模様や長大な角を持つよう進化しました。",
-      "thought": "『勝利』"
+      "appearance": "アダムは、荒々しい炎をまとった男性型生命体です。炎のような鬣と、剛毛なしっぽで、戦いの勇者のような風格を持っています。",
+      "reason": "火山の噴火により熱量が増し、炎のエネルギーが生命体に影響を与え進化しました。",
+      "thought": "『燃え盛る情熱で、未来を切り拓く』"
     },
     "name": "アダム",
     "gender": "男性"
