@@ -15,7 +15,7 @@ const path = require('path');
 // コピー元（初期個体データ）
 const src = path.join(__dirname, '../config/initial_adam_eve.json');
 // コピー先（現在の個体データ）
-const dest = path.join(__dirname, '../config/generated_entities.json');
+const dest = '/opt/minecraft_forge_server/config/generated_entities.json';
 
 // ファイル存在チェック
 if (!fs.existsSync(src)) {
