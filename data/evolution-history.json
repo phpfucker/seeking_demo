@@ -3524,5 +3524,28 @@
       "gender": "男性"
     },
     "timestamp": 1750515338850
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#ffb3b3' /><ellipse cx='150' cy='170' rx='20' ry='30' fill='#ff9999' /><ellipse cx='250' cy='170' rx='20' ry='30' fill='#ff9999' /><path d='M180 220 Q200 250 220 220' fill='none' stroke='#ff6666' stroke-width='5' /><path d='M140 200 Q200 300 260 200' fill='none' stroke='#ff6666' stroke-width='5' /><circle cx='170' cy='130' r='5' fill='#663300' /><circle cx='230' cy='130' r='5' fill='#663300' /><line x1='180' y1='160' x2='200' y2='160' stroke='#663300' stroke-width='3' /><line x1='200' y1='160' x2='220' y2='160' stroke='#663300' stroke-width='3' /><polygon points='190,170 210,170 200,180' fill='#cc9966' /><text x='150' y='250' font-family='Arial' font-size='20' fill='#666'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に赤い目を持つ女性の進化した姿です。体は大きな楕円形であり、顔には2つの小さな赤い目があります。手は長く、しっかりとした形状で表現されています。また、腕と脚には赤い模様があり、角状の突起が顔の横に生えています。",
+        "reason": "環境の変化により、イヴはより華やかな色彩と複雑な模様を持つことで、仲間や敵から注意を引くために進化しました。",
+        "thought": "『美しさは力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='150' fill='#9999ff' /><circle cx='200' cy='250' r='80' fill='#b3b3ff' /><ellipse cx='180' cy='230' rx='20' ry='30' fill='#99ccff' /><ellipse cx='220' cy='230' rx='20' ry='30' fill='#99ccff' /><path d='M180 260 Q200 290 220 260' fill='none' stroke='#6666ff' stroke-width='5' /><path d='M140 240 Q200 340 260 240' fill='none' stroke='#6666ff' stroke-width='5' /><circle cx='170' cy='220' r='5' fill='#663300' /><circle cx='230' cy='220' r='5' fill='#663300' /><line x1='180' y1='250' x2='200' y2='250' stroke='#663300' stroke-width='3' /><line x1='200' y1='250' x2='220' y2='250' stroke='#663300' stroke-width='3' /><polygon points='190,260 210,260 200,270' fill='#cc9966' /><text x='150' y='300' font-family='Arial' font-size='20' fill='#666'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に大きな丸い目を持つ男性の進化した姿です。頭部は四角い形状であり、青い体の中央には大きな円形の体があります。手足は丸みを帯び、青い模様が描かれています。角状の突起が頭部の左右に生えており、足には黒い模様があります。",
+        "reason": "アダムは、より頑丈で力強い外見を得るため、青色の体と頭部の大きな円形を持つように進化しました。",
+        "thought": "『力強さこそが生き残りの鍵』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750518953874
   }
 ]
