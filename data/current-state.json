@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='180' width='200' height='180' fill='#FFD700' /><ellipse cx='200' cy='100' rx='80' ry='100' fill='#FFD700' /><ellipse cx='160' cy='100' rx='20' ry='30' fill='#FF6347' /><ellipse cx='240' cy='100' rx='20' ry='30' fill='#FF6347' /><path d='M180 180 L200 150 L220 180 Z' fill='#FF6347' /><path d='M160 270 Q200 320 240 270 Q200 320 160 270 Z' fill='#FF6347' /><rect x='160' y='270' width='80' height='40' fill='#FF6347' /><ellipse cx='180' cy='250' rx='10' ry='5' fill='#000' /><ellipse cx='220' cy='250' rx='10' ry='5' fill='#000' /><polygon points='150,180 180,180 165,200' fill='#000' /><polygon points='220,180 250,180 235,200' fill='#000' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><circle cx='200' cy='220' r='80' fill='#ff9999'/><circle cx='160' cy='180' r='20' fill='#f08080'/><circle cx='240' cy='180' r='20' fill='#f08080'/><path d='M180 270 Q200 290 220 270' stroke='#cc6666' stroke-width='6' fill='none'/><path d='M160 240 Q200 230 240 240' stroke='#cc6666' stroke-width='6' fill='none'/><circle cx='160' cy='160' r='10' fill='#663300'/><circle cx='240' cy='160' r='10' fill='#663300'/><polygon points='170,180 180,170 190,180' fill='#663300'/><polygon points='210,180 220,170 230,180' fill='#663300'/><path d='M180 280 Q200 290 220 280' stroke='#cc6666' stroke-width='6' fill='none'/><path d='M170 270 Q200 300 230 270' stroke='#cc6666' stroke-width='6' fill='none'/></svg>",
     "report": {
-      "appearance": "イヴは、金色の煌びやかな体を持ち、顔に赤いリボンのような模様があります。大きな赤い瞳が特徴で、優美なしっぽを持ちます。",
-      "reason": "イヴは内なる美しさと優雅さを求めて進化しました。",
-      "thought": "『輝く美しさ』"
+      "appearance": "イヴはピンク色の肌を持ち、赤い大きな目を持つ女性で、角の生えた頭部には薄いベージュ色の模様がある。体は丸みを帯びた形状で、手足は幾何学的なデザインとなっている。しっぽは短く、赤い色で先端が尖っている。",
+      "reason": "進化の過程でイヴの体はより柔らかく愛らしい特徴を持つようになり、より優雅で魅力的な外見に変化した。",
+      "thought": "『幸せな愛を見つける』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='180' width='200' height='180' fill='#4682B4' /><ellipse cx='200' cy='100' rx='80' ry='100' fill='#4682B4' /><polygon points='160,180 200,120 240,180' fill='#483D8B' /><ellipse cx='160' cy='100' rx='20' ry='30' fill='#FF6347' /><ellipse cx='240' cy='100' rx='20' ry='30' fill='#FF6347' /><path d='M180 180 L200 150 L220 180 Z' fill='#FF6347' /><path d='M160 270 Q200 320 240 270 Q200 320 160 270 Z' fill='#FF6347' /><rect x='160' y='270' width='80' height='40' fill='#FF6347' /><ellipse cx='180' cy='250' rx='10' ry='5' fill='#000' /><ellipse cx='220' cy='250' rx='10' ry='5' fill='#000' /><polygon points='150,180 180,180 165,200' fill='#000' /><polygon points='220,180 250,180 235,200' fill='#000' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#aec6cf'/><circle cx='200' cy='220' r='80' fill='#6699cc'/><circle cx='160' cy='180' r='20' fill='#336699'/><circle cx='240' cy='180' r='20' fill='#336699'/><path d='M180 270 Q200 290 220 270' stroke='#336699' stroke-width='6' fill='none'/><path d='M160 240 Q200 230 240 240' stroke='#336699' stroke-width='6' fill='none'/><circle cx='160' cy='160' r='10' fill='#663300'/><circle cx='240' cy='160' r='10' fill='#663300'/><polygon points='170,180 180,170 190,180' fill='#663300'/><polygon points='210,180 220,170 230,180' fill='#663300'/><path d='M180 280 Q200 290 220 280' stroke='#336699' stroke-width='6' fill='none'/><path d='M170 270 Q200 300 230 270' stroke='#336699' stroke-width='6' fill='none'/></svg>",
     "report": {
-      "appearance": "アダムは、青銅色の体と頭部に三角形の模様を持ち、青い胴体と黒い角を持っています。赤色の模様が特徴的で、逞しい脚を持ちます。",
-      "reason": "アダムは力強さと知恵を求めて進化しました。",
-      "thought": "『剛毅な力』"
+      "appearance": "アダムは青みがかった灰色の肌を持ち、青い大きな目を持つ男性で、頭部には鮮やかな青色の模様がある。体は緩やかな曲線を持ち、手足は流れるようなラインで描かれている。しっぽはしなやかで、水色のグラデーションがかかっている。",
+      "reason": "アダムの進化はより力強く洗練された外見に変化し、より知性と威厳を表現するために青みがかった色調と流れるようなフォルムが取り入れられた。",
+      "thought": "『知識と力を守る』"
     },
     "name": "アダム",
     "gender": "男性"
