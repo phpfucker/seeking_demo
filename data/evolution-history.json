@@ -3570,5 +3570,28 @@
       "gender": "男性"
     },
     "timestamp": 1750522765635
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='#ffcccb'><circle cx='200' cy='200' r='150'/><ellipse cx='200' cy='250' rx='120' ry='80'/><ellipse cx='150' cy='180' rx='20' ry='30'/><ellipse cx='250' cy='180' rx='20' ry='30'/><path d='M170 240 Q200 290 230 240 L230 250 Q200 300 170 250 Z'/><path d='M140 250 Q170 220 200 250 Q230 220 260 250 Q230 280 200 250 Q170 280 140 250 Z'/><line x1='160' y1='200' x2='140' y2='190'/><line x1='240' y1='200' x2='260' y2='190'/><polygon points='180,170 185,160 195,160 200,170 205,160 215,160 220,170 215,180 205,180 200,170 195,180 185,180'/></svg>",
+      "report": {
+        "appearance": "イヴは、華やかなピンク色の体と、優雅な曲線の女性らしい身体を持つ。頬にはふんわりとした模様があり、優しい表情が魅力的だ。",
+        "reason": "新たな進化を迎え、より美しく、優雅で華やかな姿を手に入れることで、環境への適応性を高めた。",
+        "thought": "『花のような美しさを持つ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='#87ceeb'><rect x='150' y='100' width='100' height='200'/><rect x='160' y='90' width='80' height='20'/><rect x='160' y='300' width='80' height='20'/><circle cx='175' cy='110' r='10'/><circle cx='225' cy='110' r='10'/><circle cx='175' cy='290' r='10'/><circle cx='225' cy='290' r='10'/><polygon points='150,100 250,100 200,50'/><rect x='180' y='160' width='40' height='80' transform='rotate(30 200 200)'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い体と頑丈な四角い体型を持つ。力強い腕と脚があり、凛々しい姿勢を保っている。",
+        "reason": "進化により、より強靭で頑丈な体つきを獲得し、狩りや防御などの活動に適している。",
+        "thought": "『力強さと頼りになる強さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750526024176
   }
 ]
