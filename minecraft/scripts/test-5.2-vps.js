@@ -48,9 +48,9 @@ async function runVPSTest() {
         });
         console.log('');
 
-        // 5. Distance validation test (multiple distances)
+        // 5. Distance validation test (multiple distances + DEBUG)
         console.log('=== 5.2.3 Test: Distance Validation Logic ===');
-        const testDistances = [10, 15, 20, 25, 30];
+        const testDistances = [10, 15, 20, 25, 30, 50, 100, 500];
         
         for (const maxDistance of testDistances) {
             const withinDistance = genderValidPairs.filter(pair => 
@@ -60,25 +60,27 @@ async function runVPSTest() {
         }
         console.log('');
 
-        // 6. Unique pair extraction test (5.2.4)
+        // 6. Unique pair extraction test (5.2.4) + DEBUG MODE
         console.log('=== 5.2.4 Test: Unique Pair Extraction ===');
         const uniquePairs20 = extractor.extractUniqueBreedingPairs(formattedData.entities, 20);
-        const uniquePairs25 = extractor.extractUniqueBreedingPairs(formattedData.entities, 25);
+        const uniquePairs100 = extractor.extractUniqueBreedingPairs(formattedData.entities, 100);
+        const uniquePairs500 = extractor.extractUniqueBreedingPairs(formattedData.entities, 500);
         
         console.log(`Unique pairs within 20 blocks: ${uniquePairs20.length}`);
-        console.log(`Unique pairs within 25 blocks: ${uniquePairs25.length}`);
+        console.log(`Unique pairs within 100 blocks: ${uniquePairs100.length}`);
+        console.log(`Unique pairs within 500 blocks (DEBUG): ${uniquePairs500.length}`);
         console.log('');
 
-        // 7. Integration test
+        // 7. Integration test with DEBUG distance
         console.log('=== Integration Test: processBreedingPairs ===');
-        const result = await extractor.processBreedingPairs(null, 25); // Read from file
+        const result = await extractor.processBreedingPairs(null, 500); // DEBUG: Very large distance
         
         console.log('\n=== Final Result Summary ===');
         console.log(`Total entities: ${result.totalEntities}`);
         console.log(`Gender-valid pairs: ${result.totalPairs}`);
         console.log(`Distance-valid pairs: ${result.distanceValidPairs}`);
         console.log(`Final unique pairs: ${result.uniquePairs.length}`);
-        console.log(`Max distance used: ${result.maxDistance} blocks`);
+        console.log(`Max distance used: ${result.maxDistance} blocks (DEBUG MODE)`);
         console.log(`Processing completed at: ${result.processedAt}`);
 
         // 8. Detailed individual information
