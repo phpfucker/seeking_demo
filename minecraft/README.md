@@ -1,240 +1,96 @@
-# 🦵Minecraft AI生命体プロジェクト
+# Minecraft AI生命体プロジェクト
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
-🔖 **開発方針・コーディングガイドライン**
+## 概要
 
-- 本プロジェクトは将来的な拡張・保守・共同開発を見据え、以下の方針で開発を進めます。
-  - **副作用の少ない設計**：グローバル変数や状態の共有を避け、関数・クラスごとに責任範囲を明確にする
-  - **カプセル化**：データやロジックはクラス・モジュール単位で閉じ込め、外部から直接操作しない
-  - **コメント・ドキュメント**：関数・クラス・重要な処理には日本語で分かりやすいコメントを必ず記載
-  - **拡張性重視**：新しいDNAパラメータや行動、UI要素などが容易に追加できる構造にする
-  - **テスト容易性**：ユニットテストや動作確認がしやすいよう、依存性注入やモック化を意識する
-  - **命名規則・スタイル統一**：各言語・フレームワークの標準的なスタイルガイドに従う
-  - **バージョン管理**：Gitで細かくコミットし、IssueやPRで議論・レビューを行う
+Minecraftの世界でAIが生み出す生命体（例：adam/eve）の進化・行動・社会形成を観察・実験できるMOD＋AI連携システムです。
 
 ---
 
-🛡️ **MOD自動生成時の安全対策・運用方針（AIによるMOD化段階）**
-
-- AIが自動生成したMODコードにはバグや危険な動作が含まれる可能性があるため、以下の自動化対策を推奨します：
-  - **自動ビルド＆テスト**：JUnitや静的解析ツールで自動的にテスト・検証し、問題がなければ本番適用
-  - **自動バックアップ＆ロールバック**：MOD適用前にワールドデータを自動バックアップし、異常時は自動で元の状態に戻す
-  - **リソース制限**：MODが使えるCPU・メモリ・エンティティ数などに上限を設け、暴走を防ぐ
-  - **ログ監視・自動アラート**：サーバーログを自動監視し、異常時は自動でMODを無効化・再起動
-- ※ サンドボックス実行（Docker等の仮想環境での事前起動チェック）はVPSのリソース制約のため今回は見送ります。
-- これらの仕組みを組み合わせることで、手動レビューなしでもAIによるMOD自動生成・適用を比較的安全に運用できます。
+## 主な特徴
+- AIが自動生成した個体データ（DNA/性別/座標など）をJSONで管理
+- MODがワールド内に個体をスポーンし、状態をリアルタイムでファイル出力
+- Node.js/Python等の外部AIと連携し、進化・繁殖・行動を自動化
+- Blockbenchモデル・EMF/ETF/Fresh Animations等のリソース対応
+- 拡張性・保守性重視のクリーンアーキテクチャ
 
 ---
 
-🔧 **1. 技術スタック選定**
-
-- **ベースとなる技術**
-  - Minecraft Java Edition（MOD利用可）
-  - Modding API: Minecraft Forge（将来Fabricも検討可）
-  - AI制御: Python（OpenAI APIや遺伝的アルゴリズムライブラリ）
-  - 連携手段: Mineflayer（Node.jsベースBot）
-
----
-
-🧬 **2. アダムとイヴの設計**
-
-- **エージェント（生命体）の要素**
-  - DNA（数値ベースの性質）
-    - 知能（探索・学習能力）
-    - 社交性（他者との交流傾向）
-    - 攻撃性
-    - 採集能力
-    - 繁殖意欲
-    - 生存本能
-    - 寿命
-    - 色・形・大きさ
-  - **表現方法**
-    - Minecraft内のNPC（カスタムエンティティ）として登場
-    - プロトタイプでは既存スキンや装備、MOD化で膝型モデル
+## 必要環境
+- Java 17（JDK 17）
+- Minecraft Forge 1.20.1
+- Node.js（LTS推奨）
+- **Entity Model Features（EMF）: 2.4.1+mc1.20.1**  
+  [Modrinth EMFダウンロード](https://modrinth.com/mod/entity-model-features/versions?l=forge&g=1.20.1)
+- **Entity Texture Features（ETF）: 6.2.9+mc1.20.1**  
+  [Modrinth ETFダウンロード](https://modrinth.com/mod/entitytexturefeatures/versions?l=forge&g=1.20.1)
 
 ---
 
-🧠 **3. AIの制御方法**
+## クイックスタート
 
-- AIの中核は外部スクリプト（Python/Node.js）
-- 生命体の「思考」はAIエージェントが外部から制御
-  - 例：探索、食物収集、建築、繁殖など
-- 行動制御例：
-  ```python
-  if self.energy < 30:
-      self.search_for_food()
-  elif self.social_urge > 50:
-      self.seek_mate()
-  ```
-
----
-
-🧬 **4. 繁殖・進化の仕組み**
-
-- 子供の生成方法
-  - 2体のDNAを交配し、ランダムな突然変異を加えた「子供」のDNAを作成
-  - そのDNAに基づき新しいNPCエージェントを生成
-  - 子供が成長して新たなエージェントとして行動
-- DNAの例：
-  ```json
-  {
-    "intelligence": 0.7,
-    "aggressiveness": 0.2,
-    "sociability": 0.9,
-    "gathering_skill": 0.6,
-    "lifespan": 1200
-  }
-  ```
-
----
-
-🏘️ **5. 社会の形成・観察**
-
-- 時間経過でグループ形成、集落建築、役割分担（リーダー、労働者）などが発生
-- 行動ログを可視化：座標、行動種別、繁殖履歴など
-- 観察機能：
-  - ゲーム内チャットでレポート通知
-  - （将来）ダッシュボードで人口推移・性質の遷移・拠点位置を可視化
-  - グラフで世代ごとの知能の平均値の変化などを表示
-
----
-
-🔄 **6. MinecraftとAIの連携**
-
-- **方法1：Mineflayer + Node.js**
-  - BotとしてNPCを動かせる
-  - 外部AIとシームレスに連携可能
-- **方法2：Modとして実装（Forge）**
-  - カスタムエンティティをワールド内で自然発生させ、データをファイルやWebSocket経由でAIと連携
-
----
-
-🎮 **7. ビジュアルと操作性**
-
-- 観察者（飼育員 / seek-in）は飛行モードで世界を見守る
-- 定期的にレポートを受け取るUI（チャット通知、将来はダッシュボード）
-- 日本語チャットで進化・災害・干渉などの指示が可能
-
----
-
-✨ **拡張アイデア**
-
-- 言語の進化：単語の伝播や変化を追跡（人工言語生成）
-- 宗教/文化の形成：特定イベントから儀式的行動を学習
-- リーダー制や社会階層の出現をトラッキング
-- 建築・経済活動・戦争・独立などの社会的行動
-
----
-
-✅ **まとめ（要素と技術対応表）**
-
-| 要素         | 技術/方法                        |
-|--------------|-----------------------------------|
-| エージェント生成 | Minecraft NPC + AIエンジン（Python/Node.js） |
-| 繁殖・進化      | 遺伝的アルゴリズム + 突然変異           |
-| 行動ルール      | 環境ベースの条件分岐                  |
-| 社会観察        | ログ + チャット/ダッシュボード表示      |
-| Minecraft連携 | Mineflayer / Mod開発               |
-
----
-🔄 **AIによるデータ生成＋GeckoLib対応MOD方式（本プロジェクトの主方針）**
-
-- 本プロジェクトは「GeckoLib対応の独自MOD」を基盤とし、**Blockbenchで作成した多様なモデル・スキン・アニメーションを用意**します。
-- **AI（ChatGPT等）は、最初にadamとeve（2体）を生成し、以降は親2体の特徴を受け継いだ子孫（世代・家系情報付き）を進化サイクルに沿って自動生成します。**
-- 各個体のJSONには「親ID」「世代」「DNA」などの家系・進化情報を含め、MOD本体がそのデータを定期的に読み込んで反映します。
-
-#### この方式の特徴
-- **モデル（形状）・スキン（テクスチャ）・アニメーションの切り替えが非常に柔軟**
-- 進化やイベントごとに「モデル名」「スキン名」「アニメーション名」をJSONで指定し、即時反映
-- Blockbenchで多様なモデルを量産し、AIが個体ごとに最適なものを選択
-- 100体でも1000体でもスケーラブルに管理可能（1回のAIリクエストで全個体分のデータ生成が可能）
-- MOD本体の自動生成・自動ビルドは行わず、**バグリスクや運用コストを大幅に低減**
-
-#### JSON例
-```json
-{
-  "entity_type": "knee_lifeform",
-  "model": "models/entity/knee_stage2.geo.json",
-  "texture": "textures/entity/knee_stage2.png",
-  "animation": "animations/entity/knee_stage2.animation.json",
-  "size": 1.2,
-  "color": "#aabbcc",
-  "behavior": "aggressive",
-  "lifespan": 1200
-}
+### 1. リポジトリ取得＆ビルド
+```bash
+git clone <このリポジトリのURL>
+cd seekin_demo/minecraft
+./gradlew clean build
 ```
 
-#### 推奨運用
-- MOD本体はGeckoLib対応の雛形を用意し、**AIが出力するJSONの仕様に合わせて設計**
-- Blockbenchでモデル・スキン・アニメーションを事前に用意し、AIはそのリストから選択
-- 進化や誕生のたびにAIがJSONを生成し、MODがそれを反映
-- バグリスク・運用コストを抑えつつ、AIによる多様な進化・社会性を実現
+### 2. MOD/依存MODの配置
+- `build/libs/ailife-1.0.0.jar` → サーバー/クライアントの `mods/` フォルダ
+- EMF（**2.4.1+mc1.20.1**）→ `mods/` フォルダ  
+  [EMFダウンロードページ](https://modrinth.com/mod/entity-model-features/versions?l=forge&g=1.20.1)
+- ETF（**6.2.9+mc1.20.1**）→ `mods/` フォルダ  
+  [ETFダウンロードページ](https://modrinth.com/mod/entitytexturefeatures/versions?l=forge&g=1.20.1)
+
+### 3. AIデータの配置
+- `generated_entities.json`/`initial_adam_eve.json` → サーバーの `config/` フォルダ
+
+### 4. サーバー起動・動作確認
+- Forgeサーバーを起動
+- `/ailife export_status` コマンドでJSON出力を確認
 
 ---
 
-（※旧「MOD自動生成」や「複数MOD混在」方式は採用しません。AIはJSONデータのみを生成し、MOD本体は1種類に統一します）
+## 開発手順
+
+1. **JDK 17必須**（`java -version`で確認）
+2. `./gradlew test` でテスト実行
+3. `./gradlew build` でJAR生成
+4. Node.jsスクリプトは `scripts/` 配下
+5. Blockbench等でモデル・スキン作成可
 
 ---
 
-ご質問・ご要望は随時Issueまたはチャットでお知らせください。 
+## 運用・公開手順
+
+- サーバー/クライアントとも `mods/` にMOD・EMF・ETFを配置（バージョンは上記参照）
+- AIデータ（JSON）は `config/` に設置
+- MODやJSONを更新したらサーバー再起動
+- 詳細な運用例・トラブルシュートは[docs/運用ガイド.md](docs/運用ガイド.md)等参照（※必要に応じて作成）
 
 ---
 
-## MOD・リソースパック導入手順（1.20.1/Forge）
+## よくある質問
 
-1. Forge（MODローダー）
-   - https://files.minecraftforge.net/net/minecraftforge/forge/
-   - 1.20.1用Installerをダウンロードし、「Install client」でインストール
+- **Q. EMF/ETFはどこで入手？**
+  - A. 上記「必要環境」または「クイックスタート」のURLから正しいバージョンをDLし、`mods/`に配置してください。
+- **Q. JDKのバージョンが違うとビルドできない？**
+  - A. 必ずJDK 17を使用してください。
+- **Q. サーバー起動時にMODが認識されない**
+  - A. Forgeプロファイルで起動し、MOD/依存MODのバージョンを揃えてください。
 
-2. Entity Model Features（EMF）
-   - https://modrinth.com/mod/entity-model-features
-   - 1.20.1用Forge版jarをクライアント・サーバー両方のmodsフォルダに設置
+---
 
-3. Entity Texture Features（ETF）
-   - https://modrinth.com/mod/entitytexturefeatures
-   - 1.20.1用Forge版jarをクライアント・サーバー両方のmodsフォルダに設置
+## ライセンス
 
-4. Fresh Animations（リソースパック）
-   - https://modrinth.com/resourcepack/fresh-animations/versions
-   - 1.20.1対応zipをクライアントのresourcepacksフォルダに設置
+MIT License
 
-※ Forgeプロファイルで起動しないとMODは有効になりません
-※ mods/resourcepacksフォルダがなければ自分で作成 
+---
 
-## 運用手順
+## 問い合わせ
 
-### 1. 各ファイルの設置場所
-- **MOD jar（例：ailife-1.0.0.jar）**
-  - サーバーとクライアント両方の `mods/` フォルダ
-    - 例: `/opt/minecraft_forge_server/mods/ailife-1.0.0.jar`
-    - （クライアントPCの `.minecraft/mods/ailife-1.0.0.jar`）
-- **AI生成JSON（例：generated_entities.json）**
-  - サーバーの `config/` ディレクトリ
-    - 例: `/opt/minecraft_forge_server/config/generated_entities.json`
-- **初期データ（例：initial_adam_eve.json）**
-  - サーバーの `config/` ディレクトリ
-    - 例: `/opt/minecraft_forge_server/config/initial_adam_eve.json`
-- **スクリプト（例：generate_entities.js, reset_entities.js）**
-  - サーバー管理用PC上で実行（設置場所は任意、出力先は `config/` を指定）
-
-### 2. サーバー再起動のタイミング
-- `generated_entities.json` などのJSONデータを更新・上書きした後は、必ずサーバーを再起動してください。
-  - これによりMODが新しいデータを読み込みます。
-- MOD jarを更新・差し替えた場合も、必ずサーバーを再起動してください。
-
-### 3. Node.jsスクリプト（jsファイル）実行のタイミング
-- **初回セットアップ時**
-  - `node scripts/generate_entities.js` で `initial_adam_eve.json` から `generated_entities.json` を生成
-- **AI進化サイクルやデータリセット時**
-  - `node scripts/reset_entities.js` で `generated_entities.json` を初期状態に戻す
-- **AIによる進化データ生成を行いたい時**
-  - `node scripts/auto-evolution.js` など（自動進化用スクリプトがある場合）
-- **注意**
-  - これらのスクリプトはサーバー停止中または再起動前に実行し、`config/`配下のJSONを上書きしてください。
-
-### 4. 運用フロー例
-1. サーバー停止
-2. 必要なスクリプト（generate_entities.js, reset_entities.js, auto-evolution.js等）をNode.jsで実行し、`config/`配下のJSONを更新
-3. サーバー起動
-4. サーバーログ（latest.log, debug.log）でMODの出力・データ反映を確認 
+バグ報告・要望はGitHub Issueまたはチャットでご連絡ください。 
