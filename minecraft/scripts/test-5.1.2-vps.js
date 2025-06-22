@@ -57,9 +57,9 @@ try {
         
         // 平均座標計算
         if (data.entities.length > 0) {
-            const avgX = data.entities.reduce((sum, e) => sum + (e.position?.x || 0), 0) / data.entities.length;
-            const avgY = data.entities.reduce((sum, e) => sum + (e.position?.y || 0), 0) / data.entities.length;
-            const avgZ = data.entities.reduce((sum, e) => sum + (e.position?.z || 0), 0) / data.entities.length;
+            const avgX = data.entities.reduce((sum, e) => sum + ((e.position && e.position.x) || 0), 0) / data.entities.length;
+            const avgY = data.entities.reduce((sum, e) => sum + ((e.position && e.position.y) || 0), 0) / data.entities.length;
+            const avgZ = data.entities.reduce((sum, e) => sum + ((e.position && e.position.z) || 0), 0) / data.entities.length;
             
             console.log(`  平均座標: (${avgX.toFixed(2)}, ${avgY.toFixed(2)}, ${avgZ.toFixed(2)})`);
         }
