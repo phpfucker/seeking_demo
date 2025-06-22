@@ -5,7 +5,7 @@ const path = require('path');
 console.log('=== 5.1.2 VPSテスト開始 ===');
 
 // 1. ステータスファイル存在確認
-const statusFile = '../config/current_entity_status.json';
+const statusFile = '/home/seeking_demo/minecraft/config/current_entity_status.json';
 if (!fs.existsSync(statusFile)) {
     console.log('❌ current_entity_status.json が見つかりません');
     console.log('   /ailife export_status コマンドを実行してください');
@@ -65,7 +65,7 @@ try {
         }
         
         // 5. DNA配列変換テスト（5.1.2の重要機能）
-        console.log('\n🧬 === DNA配列変換テスト ===');
+        console.log('\n�� === DNA配列変換テスト ===');
         
         data.entities.forEach((entity, index) => {
             const id = entity.entity_id || entity.id || `unknown_${index}`;

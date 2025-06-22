@@ -1,0 +1,76 @@
+{
+  "entities": [
+    {
+      "id": "adam",
+      "gender": "male",
+      "dna": [
+        "A",
+        "C",
+        "G",
+        "T",
+        "A",
+        "C",
+        "G",
+        "T",
+        "A",
+        "C",
+        "G",
+        "T",
+        "A",
+        "C",
+        "G",
+        "T"
+      ],
+      "position": {
+        "x": 25.40065086453803,
+        "y": 66,
+        "z": 10.78052563380174
+      },
+      "health": 20,
+      "age": 0,
+      "entity_type": "entity.minecraft.villager",
+      "max_health": 20
+    },
+    {
+      "id": "eve",
+      "gender": "female",
+      "dna": [
+        "T",
+        "G",
+        "C",
+        "A",
+        "T",
+        "G",
+        "C",
+        "A",
+        "T",
+        "G",
+        "C",
+        "A",
+        "T",
+        "G",
+        "C",
+        "A"
+      ],
+      "position": {
+        "x": 29.741067650081316,
+        "y": 69,
+        "z": 29.268909836088433
+      },
+      "health": 20,
+      "age": 0,
+      "entity_type": "entity.minecraft.villager",
+      "max_health": 20
+    }
+  ],
+  "entityCount": 2,
+  "maleCount": 1,
+  "femaleCount": 1,
+  "averagePosition": {
+    "x": 27.57085925730967,
+    "y": 67.5,
+    "z": 20.024717734945085
+  },
+  "processedAt": "2025-06-22T13:03:01.504Z",
+  "source": "StatusDataIntegration 5.1.2"
+}

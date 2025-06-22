@@ -137,4 +137,15 @@ Writing Output: /Users/motosue/Documents/seekin_demo/minecraft/build/reobfJar/ou
   jp/seekin/
   jp/seekin/minecraft/
   jp/seekin/minecraft/ailife/
+  jp/seekin/minecraft/ailife/AiLifeCommands.class
   jp/seekin/minecraft/ailife/AiLifeMod.class
+  jp/seekin/minecraft/ailife/DnaUtils.class
+  jp/seekin/minecraft/ailife/EntityInfoService.class
+  jp/seekin/minecraft/ailife/EntitySpawnManager$SpawnResult.class
+  jp/seekin/minecraft/ailife/EntitySpawnManager.class
+  jp/seekin/minecraft/ailife/EntityStatusData$Position.class
+  jp/seekin/minecraft/ailife/EntityStatusData.class
+  jp/seekin/minecraft/ailife/EntityUtils.class
+  jp/seekin/minecraft/ailife/JsonExportService.class
+  jp/seekin/minecraft/ailife/StatusDataReader$1.class
+  jp/seekin/minecraft/ailife/StatusDataReader.class

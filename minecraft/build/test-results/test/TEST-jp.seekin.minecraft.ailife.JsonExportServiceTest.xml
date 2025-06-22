@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="JsonExportService 単体テスト" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-06-22T13:07:47" hostname="cesare.local" time="0.017">
+  <properties/>
+  <testcase name="exportEntityStatusToFile: 単一エンティティでのJSON出力" classname="jp.seekin.minecraft.ailife.JsonExportServiceTest" time="0.01"/>
+  <testcase name="exportEntityStatusToFile: 空のエンティティリストでのJSON出力" classname="jp.seekin.minecraft.ailife.JsonExportServiceTest" time="0.006"/>
+  <system-out><![CDATA[[22:07:47] [Test worker/INFO] [TestLogger/]: [AiLife] JsonExportService: AI生命体エンティティ情報のJSON出力を開始します: test-json-export/test_export.json
+[22:07:47] [Test worker/INFO] [TestLogger/]: [AiLife] JsonExportService: JSON出力完了: 1体のエンティティ情報を出力しました (test-json-export/test_export.json)
+[22:07:47] [Test worker/INFO] [TestLogger/]: [AiLife] JsonExportService: AI生命体エンティティ情報のJSON出力を開始します: test-json-export/test_export.json
+[22:07:47] [Test worker/INFO] [TestLogger/]: [AiLife] JsonExportService: JSON出力完了: 0体のエンティティ情報を出力しました (test-json-export/test_export.json)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
