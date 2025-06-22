@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#FFD700' /><ellipse cx='200' cy='180' rx='100' ry='140' fill='#FFD700' /><rect x='160' y='220' width='80' height='40' fill='#FFD700' /><path d='M150 180 L180 140 L220 140 L250 180' fill='none' stroke='#FFD700' stroke-width='5' /><polygon points='190,160 210,160 200,175' fill='#FFD700' /><circle cx='175' cy='160' r='5' fill='#000' /><circle cx='225' cy='160' r='5' fill='#000' /><line x1='170' y1='225' x2='160' y2='250' stroke='#FFD700' stroke-width='5' /><line x1='230' y1='225' x2='240' y2='250' stroke='#FFD700' stroke-width='5' /><text x='200' y='320' fill='#000' font-family='Arial' font-size='20' text-anchor='middle'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='180' rx='100' ry='120' fill='#ffcccb'/><polygon points='180,220 220,220 200,240' fill='#ffb6c1'/><path d='M160,180 C180,120 220,120 240,180 Q220,240 160,180' fill='#ffb6c1'/><circle cx='160' cy='160' r='10' fill='#000'/><circle cx='240' cy='160' r='10' fill='#000'/><path d='M200,200 L180,220 L220,220 Z' fill='#ff69b4'/><rect x='180' y='240' width='40' height='20' fill='#ff69b4'/><circle cx='190' cy='210' r='5' fill='#fff'/><circle cx='210' cy='210' r='5' fill='#fff'/><line x1='180' y1='240' x2='220' y2='240' stroke='#000' stroke-width='2'/></svg>",
     "report": {
-      "appearance": "イヴは、金色の輝く体と大きな黄金色の眼を持つ女性の姿をしています。体の中央には黄金色の光を放つ大きな卵を抱えています。",
-      "reason": "イヴは新たな生命の誕生と成長を象徴する進化を遂げました。",
-      "thought": "『未来への希望』"
+      "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、愛らしい女性の姿をしています。体の輪郭は円滑で、優雅な曲線が特徴です。顔にはやさしい微笑みが浮かび、愛情と温かさを表現しています。",
+      "reason": "イヴは内なる美しさをより豊かに表現するため、柔らかなピンク色の皮膚と優雅な曲線が進化しました。",
+      "thought": "『愛と美の輝き』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='170' fill='#4682B4' /><ellipse cx='200' cy='180' rx='80' ry='120' fill='#4682B4' /><rect x='190' y='220' width='20' height='60' fill='#4682B4' /><path d='M160 180 L180 140 L220 140 L240 180' fill='none' stroke='#4682B4' stroke-width='5' /><polygon points='190,160 210,160 200,175' fill='#4682B4' /><circle cx='175' cy='160' r='5' fill='#000' /><circle cx='225' cy='160' r='5' fill='#000' /><line x1='170' y1='220' x2='160' y2='250' stroke='#4682B4' stroke-width='5' /><line x1='230' y1='220' x2='240' y2='250' stroke='#4682B4' stroke-width='5' /><text x='200' y='320' fill='#000' font-family='Arial' font-size='20' text-anchor='middle'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='160' width='100' height='160' fill='#afeeee'/><circle cx='200' cy='150' r='50' fill='#afeeee'/><path d='M150,260 Q175,280 200,260 Q225,280 250,260' fill='none' stroke='#000' stroke-width='2'/><polygon points='190,160 210,160 200,140' fill='#afeeee'/><rect x='180' y='220' width='40' height='20' fill='#4682b4'/><polygon points='190,250 200,240 210,250' fill='#4682b4'/><circle cx='190' cy='230' r='5' fill='#fff'/><circle cx='210' cy='230' r='5' fill='#fff'/><line x1='180' y1='220' x2='220' y2='220' stroke='#000' stroke-width='2'/></svg>",
     "report": {
-      "appearance": "アダムは、青銀色の体と鋭い目を持つ男性の姿をしています。体表には流れるような水の模様が描かれています。",
-      "reason": "アダムは知性と冷静な力強さを備えた、水の神秘に触れた進化を遂げました。",
-      "thought": "『静かな深み』"
+      "appearance": "アダムは、淡い水色の肌を持ち、力強い男性の体格を誇っています。四角い体と丸い頭部が特徴で、力強さと安定感を感じさせます。顔つきは真剣で、知恵と勇気を象徴しています。",
+      "reason": "アダムはより強靭な体格と知恵を示すため、四角い体と力強い曲線が進化しました。",
+      "thought": "『知恵と勇気の調和』"
     },
     "name": "アダム",
     "gender": "男性"

@@ -3800,5 +3800,28 @@
       "gender": "男性"
     },
     "timestamp": 1750595494799
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#FFD700' /><ellipse cx='200' cy='180' rx='100' ry='140' fill='#FFD700' /><rect x='160' y='220' width='80' height='40' fill='#FFD700' /><path d='M150 180 L180 140 L220 140 L250 180' fill='none' stroke='#FFD700' stroke-width='5' /><polygon points='190,160 210,160 200,175' fill='#FFD700' /><circle cx='175' cy='160' r='5' fill='#000' /><circle cx='225' cy='160' r='5' fill='#000' /><line x1='170' y1='225' x2='160' y2='250' stroke='#FFD700' stroke-width='5' /><line x1='230' y1='225' x2='240' y2='250' stroke='#FFD700' stroke-width='5' /><text x='200' y='320' fill='#000' font-family='Arial' font-size='20' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、金色の輝く体と大きな黄金色の眼を持つ女性の姿をしています。体の中央には黄金色の光を放つ大きな卵を抱えています。",
+        "reason": "イヴは新たな生命の誕生と成長を象徴する進化を遂げました。",
+        "thought": "『未来への希望』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='170' fill='#4682B4' /><ellipse cx='200' cy='180' rx='80' ry='120' fill='#4682B4' /><rect x='190' y='220' width='20' height='60' fill='#4682B4' /><path d='M160 180 L180 140 L220 140 L240 180' fill='none' stroke='#4682B4' stroke-width='5' /><polygon points='190,160 210,160 200,175' fill='#4682B4' /><circle cx='175' cy='160' r='5' fill='#000' /><circle cx='225' cy='160' r='5' fill='#000' /><line x1='170' y1='220' x2='160' y2='250' stroke='#4682B4' stroke-width='5' /><line x1='230' y1='220' x2='240' y2='250' stroke='#4682B4' stroke-width='5' /><text x='200' y='320' fill='#000' font-family='Arial' font-size='20' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青銀色の体と鋭い目を持つ男性の姿をしています。体表には流れるような水の模様が描かれています。",
+        "reason": "アダムは知性と冷静な力強さを備えた、水の神秘に触れた進化を遂げました。",
+        "thought": "『静かな深み』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750598691802
   }
 ]
