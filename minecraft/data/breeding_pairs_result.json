@@ -1,8 +1,74 @@
 {
-  "totalEntities": 0,
-  "totalPairs": 0,
-  "distanceValidPairs": 0,
-  "uniquePairs": [],
+  "totalEntities": 2,
+  "totalPairs": 1,
+  "distanceValidPairs": 1,
+  "uniquePairs": [
+    {
+      "male": {
+        "id": "adam",
+        "gender": "male",
+        "dna": [
+          "A",
+          "C",
+          "G",
+          "T",
+          "A",
+          "C",
+          "G",
+          "T",
+          "A",
+          "C",
+          "G",
+          "T",
+          "A",
+          "C",
+          "G",
+          "T"
+        ],
+        "position": {
+          "x": 25.40065086453803,
+          "y": 66,
+          "z": 10.78052563380174
+        },
+        "health": 20,
+        "age": 0,
+        "entity_type": "entity.minecraft.villager",
+        "max_health": 20
+      },
+      "female": {
+        "id": "eve",
+        "gender": "female",
+        "dna": [
+          "T",
+          "G",
+          "C",
+          "A",
+          "T",
+          "G",
+          "C",
+          "A",
+          "T",
+          "G",
+          "C",
+          "A",
+          "T",
+          "G",
+          "C",
+          "A"
+        ],
+        "position": {
+          "x": 29.741067650081316,
+          "y": 69,
+          "z": 29.268909836088433
+        },
+        "health": 20,
+        "age": 0,
+        "entity_type": "entity.minecraft.villager",
+        "max_health": 20
+      },
+      "distance": 19.22653292415432
+    }
+  ],
   "maxDistance": 25,
-  "processedAt": "2025-06-22T14:07:14.211Z"
+  "processedAt": "2025-06-22T14:46:57.267Z"
 }

@@ -229,7 +229,8 @@ if (require.main === module) {
     // コマンドライン引数の処理
     const args = process.argv.slice(2);
     const debugMode = args.includes('--debug');
-    const maxDistance = args.find(arg => arg.startsWith('--distance='))?.split('=')[1] || 20;
+    const distanceArg = args.find(arg => arg.startsWith('--distance='));
+    const maxDistance = distanceArg ? distanceArg.split('=')[1] : 20;
 
     const runExtraction = async () => {
         try {
