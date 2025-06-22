@@ -144,38 +144,38 @@ class BreedingPairExtractor {
      * @returns {Object} 処理結果
      */
     async processBreedingPairs(inputData = null, maxDistance = this.defaultBreedingDistance) {
-        console.log('=== 5.2 繁殖ペア抽出処理開始 ===');
+        console.log('=== 5.2 Breeding Pair Extraction Started ===');
 
         // 5.2.1: データ読み込み
-        console.log('📖 整形済みデータを読み込み中...');
+        console.log('>> Loading formatted data...');
         const formattedData = this.loadFormattedData(inputData);
         const entities = formattedData.entities;
-        console.log(`✓ ${entities.length}体のエンティティデータを読み込みました`);
+        console.log(`✓ Loaded ${entities.length} entity data`);
 
         // 5.2.2: 性別判定
-        console.log('👫 性別判定を実行中...');
+        console.log('>> Executing gender validation...');
         const genderValidPairs = this.findGenderValidPairs(entities);
-        console.log(`✓ 性別的に有効なペア: ${genderValidPairs.length}組`);
+        console.log(`✓ Gender-valid pairs: ${genderValidPairs.length}`);
 
         // 5.2.3: 距離判定
-        console.log(`📏 距離判定を実行中（最大距離: ${maxDistance}ブロック）...`);
+        console.log(`>> Executing distance validation (max: ${maxDistance} blocks)...`);
         const distanceValidPairs = genderValidPairs.filter(pair => 
             this.isWithinBreedingDistance(pair, maxDistance)
         );
-        console.log(`✓ 距離条件を満たすペア: ${distanceValidPairs.length}組`);
+        console.log(`✓ Distance-valid pairs: ${distanceValidPairs.length}`);
 
         // 5.2.4: ユニークペア抽出
-        console.log('🔄 ユニークペア抽出を実行中...');
+        console.log('>> Executing unique pair extraction...');
         const uniquePairs = this.extractUniqueBreedingPairs(entities, maxDistance);
-        console.log(`✓ 最終的なユニークペア: ${uniquePairs.length}組`);
+        console.log(`✓ Final unique pairs: ${uniquePairs.length}`);
 
         // 結果の詳細出力
-        console.log('\n💕 === 抽出されたペア詳細 ===');
+        console.log('\n=== Extracted Pair Details ===');
         uniquePairs.forEach((pair, index) => {
-            console.log(`[${index + 1}] ${pair.male.id} ♂ × ${pair.female.id} ♀`);
-            console.log(`    距離: ${pair.distance.toFixed(2)}ブロック`);
-            console.log(`    男性位置: (${pair.male.position.x.toFixed(2)}, ${pair.male.position.y}, ${pair.male.position.z.toFixed(2)})`);
-            console.log(`    女性位置: (${pair.female.position.x.toFixed(2)}, ${pair.female.position.y}, ${pair.female.position.z.toFixed(2)})`);
+            console.log(`[${index + 1}] ${pair.male.id} (M) x ${pair.female.id} (F)`);
+            console.log(`    Distance: ${pair.distance.toFixed(2)} blocks`);
+            console.log(`    Male pos: (${pair.male.position.x.toFixed(2)}, ${pair.male.position.y}, ${pair.male.position.z.toFixed(2)})`);
+            console.log(`    Female pos: (${pair.female.position.x.toFixed(2)}, ${pair.female.position.y}, ${pair.female.position.z.toFixed(2)})`);
         });
 
         const result = {
@@ -190,7 +190,7 @@ class BreedingPairExtractor {
         // 結果を保存
         await this.saveBreedingPairsResult(result);
 
-        console.log('\n=== 5.2 繁殖ペア抽出処理完了 ===');
+        console.log('\n=== 5.2 Breeding Pair Extraction Complete ===');
         return result;
     }
 
@@ -207,18 +207,18 @@ class BreedingPairExtractor {
         }
 
         fs.writeFileSync(outputPath, JSON.stringify(result, null, 2));
-        console.log(`💾 結果を保存しました: ${outputPath}`);
+        console.log(`✓ Result saved: ${outputPath}`);
     }
 
     /**
      * デバッグ情報を出力
      */
     debugPrint() {
-        console.log('🐛 === デバッグ情報 ===');
-        console.log(`データディレクトリ: ${this.dataDir}`);
-        console.log(`設定ディレクトリ: ${this.configDir}`);
-        console.log(`デフォルト繁殖距離: ${this.defaultBreedingDistance}ブロック`);
-        console.log(`キャッシュされたデータ: ${this.formattedDataCache ? 'あり' : 'なし'}`);
+        console.log('=== Debug Information ===');
+        console.log(`Data directory: ${this.dataDir}`);
+        console.log(`Config directory: ${this.configDir}`);
+        console.log(`Default breeding distance: ${this.defaultBreedingDistance} blocks`);
+        console.log(`Cached data: ${this.formattedDataCache ? 'Available' : 'None'}`);
     }
 }
 
