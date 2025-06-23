@@ -13,7 +13,10 @@ const path = require('path');
  */
 class StatusDataIntegration {
     constructor() {
-        this.configDir = './config';
+        // 業界標準：デフォルトは開発環境、--productionフラグで本番環境
+        this.configDir = process.env.NODE_ENV === 'production' 
+            ? '/opt/minecraft_forge_server/config' 
+            : './config';
         this.dataDir = './data';
         this.statusReader = new StatusDataReader(this.configDir);
     }
@@ -146,6 +149,14 @@ class StatusDataIntegration {
 
 // 直接実行された場合
 if (require.main === module) {
+    // 開発環境での実行判定
+    if (process.argv.includes('--dev') || process.argv.includes('--development')) {
+        process.env.NODE_ENV = 'development';
+        console.log('🔧  Development mode: Using ./config');
+    } else {
+        console.log('🖥️  Production mode: Using /opt/minecraft_forge_server/config');
+    }
+    
     const integration = new StatusDataIntegration();
     
     // コマンドライン引数でデバッグモードを制御

@@ -55,6 +55,17 @@ cd seekin_demo/minecraft
 
 ---
 
+## VPS環境での設定
+
+### 環境変数設定（VPS初回設定時のみ）
+```bash
+# VPSにSSH接続後、NODE_ENVをproductionに設定
+echo 'export NODE_ENV=production' >> ~/.bashrc
+source ~/.bashrc
+```
+
+---
+
 ## 開発手順
 
 1. **JDK 17必須**（`java -version`で確認）
@@ -82,6 +93,10 @@ cd seekin_demo/minecraft
   - A. 必ずJDK 17を使用してください。
 - **Q. サーバー起動時にMODが認識されない**
   - A. Forgeプロファイルで起動し、MOD/依存MODのバージョンを揃えてください。
+- **Q. VPSでNode.jsスクリプトが正しいパスを参照しない**
+  - A. `NODE_ENV=production`が設定されているか確認してください。`echo $NODE_ENV`で確認できます。
+- **Q. 特性データ（behavior, sociality, lifespan）が読み込まれない**
+  - A. Java MODが5.1.4以降で、Node.jsスクリプトが5.1.2拡張版であることを確認してください。
 
 ---
 
