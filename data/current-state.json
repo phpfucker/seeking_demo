@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='280' width='200' height='120' fill='#ffbc7a'/><ellipse cx='200' cy='200' rx='100' ry='140' fill='#ffbc7a'/><rect x='160' y='200' width='80' height='80' fill='#ffd2a1'/><ellipse cx='170' cy='170' rx='10' ry='20' fill='#ff8c42'/><ellipse cx='230' cy='170' rx='10' ry='20' fill='#ff8c42'/><path d='M150 300 Q200 330 250 300 Q200 270 150 300 Z' fill='#ff8c42'/><path d='M140 280 Q200 320 260 280 Q200 240 140 280 Z' fill='#ff8c42'/><polygon points='190,240 180,250 220,250' fill='#ffd2a1'/><polygon points='190,250 180,260 220,260' fill='#ffd2a1'/><polygon points='190,260 180,270 220,270' fill='#ffd2a1'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='180' rx='100' ry='130' fill='#ffb3d9' /><rect x='150' y='240' width='100' height='60' fill='#ff99cc' /><path d='M200 230 L180 260 L220 260 Z' fill='#ff85b7' /><polygon points='185,180 195,190 195,170' fill='#ff66a3' /><line x1='160' y1='160' x2='140' y2='140' stroke='#e60073' stroke-width='5' /><line x1='240' y1='160' x2='260' y2='140' stroke='#e60073' stroke-width='5' /><circle cx='180' cy='160' r='10' fill='#ff4d94' /><circle cx='220' cy='160' r='10' fill='#ff4d94' /><rect x='190' y='280' width='20' height='10' fill='#ff1a66' /><rect x='240' y='260' width='20' height='80' fill='#ff1a66' /></svg>",
     "report": {
-      "appearance": "イヴは、オレンジ色の肌を持ち、柔らかな雰囲気の女性型生命体です。体は丸みを帯びた楕円形で、地味なピンク色の服を着ています。眼の周りがオレンジ色の模様で飾られ、幸せそうな表情をしています。",
-      "reason": "イヴは新たなる生命を生み出すために、より柔らかく優しい姿に進化しました。",
-      "thought": "『新たな命を受け入れる準備ができてる』"
+      "appearance": "イヴは、薄紫色の体と淡いピンク色の楕円形の顔を持ち、ピンク色のドレスを着ています。頭には短いピンク色の角があり、手はピンク色の薄いピンク色のドレスに隠れています。足はピンク色の靴で覆われており、しっぽはなめらかなピンク色のしっぽです。",
+      "reason": "イヴは新たなる美しさと力を求めて進化しました。",
+      "thought": "『愛と美の力』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='280' width='160' height='120' fill='#87ceeb'/><ellipse cx='200' cy='200' rx='100' ry='140' fill='#87ceeb'/><polygon points='140,200 200,140 260,200' fill='#b0e0e6'/><ellipse cx='170' cy='190' rx='10' ry='20' fill='#4682b4'/><ellipse cx='230' cy='190' rx='10' ry='20' fill='#4682b4'/><path d='M180 230 Q200 250 220 230 Q200 210 180 230 Z' fill='#4682b4'/><path d='M160 270 Q200 240 240 270 Q200 300 160 270 Z' fill='#4682b4'/><polygon points='180,240 170,250 210,250' fill='#b0e0e6'/><polygon points='180,250 170,260 210,260' fill='#b0e0e6'/><polygon points='180,260 170,270 210,270' fill='#b0e0e6'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='140' fill='#b3e0ff' /><ellipse cx='200' cy='190' rx='90' ry='120' fill='#80ccff' /><rect x='160' y='230' width='80' height='50' fill='#66b3ff' /><path d='M200 210 L180 230 L220 230 Z' fill='#4da6ff' /><polygon points='185,190 195,200 195,180' fill='#3385ff' /><line x1='170' y1='170' x2='150' y2='150' stroke='#0077ff' stroke-width='5' /><line x1='230' y1='170' x2='250' y2='150' stroke='#0077ff' stroke-width='5' /><circle cx='180' cy='170' r='8' fill='#005eff' /><circle cx='220' cy='170' r='8' fill='#005eff' /><rect x='195' y='255' width='20' height='8' fill='#0047b2' /><rect x='230' y='235' width='20' height='70' fill='#0047b2' /></svg>",
     "report": {
-      "appearance": "アダムは、青い肌を持つ男性型生命体で、穏やかな風貌をしています。全身は青空に映える水色で覆われ、頭部には三角形の模様があります。眼が大きく、青い色合いをしており、やさしい表情をしています。",
-      "reason": "アダムはより包容力と優しさを持つ進化を遂げ、パートナーであるイヴとの調和を深めるためです。",
-      "thought": "『新しい旅路が始まる』"
+      "appearance": "アダムは、淡い青色の身体と楕円形の顔を持ち、青色の服を着ています。頭には短い青い角があり、手は青い袖に隠れています。足は青い靴で覆われており、しっぽは滑らかな青いしっぽです。",
+      "reason": "アダムは新たなる知識と勇気を求めて進化しました。",
+      "thought": "『知識と勇気の祝福』"
     },
     "name": "アダム",
     "gender": "男性"
