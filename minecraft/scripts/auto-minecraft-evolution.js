@@ -28,8 +28,9 @@ class AutoMinecraftEvolution {
     buildConfig() {
         // テストサイクル時は開発環境でRCON接続をスキップ
         const isTestCycle = process.argv.includes('--test-cycle');
+        const isOnceMode = process.argv.includes('--once') || process.argv.includes('--run-once');
         const isProduction = process.env.NODE_ENV === 'production';
-        const skipRcon = isTestCycle && !isProduction;
+        const skipRcon = (isTestCycle || isOnceMode) && !isProduction;
 
         const baseConfig = {
             rconConfig: {
@@ -65,6 +66,21 @@ class AutoMinecraftEvolution {
 
             // 環境変数チェック
             await this.checkEnvironment();
+
+            // 単発実行オプション（実行後に終了）
+            if (process.argv.includes('--once') || process.argv.includes('--run-once')) {
+                console.log('単発進化サイクルを実行します...');
+                const result = await this.cycleManager.executeSingleCycle();
+                
+                if (result.success) {
+                    console.log('✅ 進化サイクル成功');
+                    console.log('単発実行完了。プロセスを終了します。');
+                    process.exit(0);
+                } else {
+                    console.error('❌ 進化サイクル失敗:', result.error);
+                    process.exit(1);
+                }
+            }
 
             // 初回テスト実行（オプション）
             if (process.argv.includes('--test-cycle')) {
@@ -117,9 +133,10 @@ class AutoMinecraftEvolution {
 
         // RCON接続テスト（テストサイクル時は本番環境でのみ実行）
         const isTestCycle = process.argv.includes('--test-cycle');
+        const isOnceMode = process.argv.includes('--once') || process.argv.includes('--run-once');
         const isProduction = process.env.NODE_ENV === 'production';
 
-        if (!isTestCycle || isProduction) {
+        if ((!isTestCycle && !isOnceMode) || isProduction) {
             try {
                 const testResult = await this.cycleManager.rconManager.testConnection();
                 if (testResult.success) {
@@ -258,6 +275,8 @@ if (require.main === module) {
 Usage: node auto-minecraft-evolution.js [options]
 
 Options:
+  --once           進化サイクルを1回だけ実行して終了（動作確認用）
+  --run-once       --onceと同じ（別名）
   --test-cycle     テストサイクルを実行してから開始
   --immediate      開始時に即座に進化サイクルを実行
   --status         現在の状態を表示
