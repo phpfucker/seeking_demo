@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="jp.seekin.minecraft.ailife.StatusDataReaderTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-06-23T03:11:20" hostname="cesare.local" time="0.094">
+<testsuite name="jp.seekin.minecraft.ailife.StatusDataReaderTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-06-23T10:00:51" hostname="cesare.local" time="0.435">
   <properties/>
-  <testcase name="整形されたデータ構造が正しく作成される" classname="jp.seekin.minecraft.ailife.StatusDataReaderTest" time="0.027"/>
-  <testcase name="ファイルが存在しない場合は空のリストを返す" classname="jp.seekin.minecraft.ailife.StatusDataReaderTest" time="0.035"/>
-  <testcase name="正常なステータスJSONファイルを読み込める" classname="jp.seekin.minecraft.ailife.StatusDataReaderTest" time="0.007"/>
-  <testcase name="必須フィールドが欠けている場合はスキップする" classname="jp.seekin.minecraft.ailife.StatusDataReaderTest" time="0.008"/>
-  <testcase name="不正なJSONファイルの場合は例外をスローする" classname="jp.seekin.minecraft.ailife.StatusDataReaderTest" time="0.006"/>
+  <testcase name="整形されたデータ構造が正しく作成される" classname="jp.seekin.minecraft.ailife.StatusDataReaderTest" time="0.208"/>
+  <testcase name="ファイルが存在しない場合は空のリストを返す" classname="jp.seekin.minecraft.ailife.StatusDataReaderTest" time="0.019"/>
+  <testcase name="正常なステータスJSONファイルを読み込める" classname="jp.seekin.minecraft.ailife.StatusDataReaderTest" time="0.026"/>
+  <testcase name="必須フィールドが欠けている場合はスキップする" classname="jp.seekin.minecraft.ailife.StatusDataReaderTest" time="0.098"/>
+  <testcase name="不正なJSONファイルの場合は例外をスローする" classname="jp.seekin.minecraft.ailife.StatusDataReaderTest" time="0.048"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="DnaUtils 単体テスト" tests="11" skipped="0" failures="0" errors="0" timestamp="2025-06-23T03:11:19" hostname="cesare.local" time="0.098">
+<testsuite name="DnaUtils 単体テスト" tests="11" skipped="0" failures="0" errors="0" timestamp="2025-06-23T10:00:50" hostname="cesare.local" time="0.263">
   <properties/>
-  <testcase name="inferDnaFromEntityId: 既知の個体IDのDNA取得" classname="jp.seekin.minecraft.ailife.DnaUtilsTest" time="0.006"/>
-  <testcase name="generateDnaFromString: 文字列からのDNA生成" classname="jp.seekin.minecraft.ailife.DnaUtilsTest" time="0.001"/>
-  <testcase name="inferDnaFromEntityId: null/空文字の処理" classname="jp.seekin.minecraft.ailife.DnaUtilsTest" time="0.002"/>
+  <testcase name="inferDnaFromEntityId: 既知の個体IDのDNA取得" classname="jp.seekin.minecraft.ailife.DnaUtilsTest" time="0.005"/>
+  <testcase name="generateDnaFromString: 文字列からのDNA生成" classname="jp.seekin.minecraft.ailife.DnaUtilsTest" time="0.003"/>
+  <testcase name="inferDnaFromEntityId: null/空文字の処理" classname="jp.seekin.minecraft.ailife.DnaUtilsTest" time="0.001"/>
   <testcase name="inferGenderFromEntityId: maleキーワードを含むIDの性別推測" classname="jp.seekin.minecraft.ailife.DnaUtilsTest" time="0.002"/>
-  <testcase name="inferGenderFromEntityId: femaleキーワードを含むIDの性別推測" classname="jp.seekin.minecraft.ailife.DnaUtilsTest" time="0.015"/>
+  <testcase name="inferGenderFromEntityId: femaleキーワードを含むIDの性別推測" classname="jp.seekin.minecraft.ailife.DnaUtilsTest" time="0.001"/>
   <testcase name="inferGenderFromEntityId: 既知の個体IDの性別推測" classname="jp.seekin.minecraft.ailife.DnaUtilsTest" time="0.002"/>
-  <testcase name="inferGenderFromEntityId: null/空文字の処理" classname="jp.seekin.minecraft.ailife.DnaUtilsTest" time="0.005"/>
-  <testcase name="inferGenderFromEntityId: 不明なIDのハッシュベース性別推測" classname="jp.seekin.minecraft.ailife.DnaUtilsTest" time="0.003"/>
+  <testcase name="inferGenderFromEntityId: null/空文字の処理" classname="jp.seekin.minecraft.ailife.DnaUtilsTest" time="0.002"/>
+  <testcase name="inferGenderFromEntityId: 不明なIDのハッシュベース性別推測" classname="jp.seekin.minecraft.ailife.DnaUtilsTest" time="0.001"/>
   <testcase name="inferDnaFromEntityId: 不明なIDのDNA生成" classname="jp.seekin.minecraft.ailife.DnaUtilsTest" time="0.001"/>
-  <testcase name="generateDnaFromString: DNA塩基の分布確認" classname="jp.seekin.minecraft.ailife.DnaUtilsTest" time="0.023"/>
-  <testcase name="generateDnaFromString: null/空文字の処理" classname="jp.seekin.minecraft.ailife.DnaUtilsTest" time="0.001"/>
+  <testcase name="generateDnaFromString: DNA塩基の分布確認" classname="jp.seekin.minecraft.ailife.DnaUtilsTest" time="0.213"/>
+  <testcase name="generateDnaFromString: null/空文字の処理" classname="jp.seekin.minecraft.ailife.DnaUtilsTest" time="0.002"/>
   <system-out><![CDATA[DNA配列: CGTACGTACGTACGTA
 塩基分布 - A:4, C:4, G:4, T:4
 ]]></system-out>

@@ -62,7 +62,7 @@ cd seekin_demo/minecraft
 # VPSにSSH接続後、NODE_ENVをproductionに設定
 echo 'export NODE_ENV=production' >> ~/.bashrc
 source ~/.bashrc
-```
+  ```
 
 ---
 

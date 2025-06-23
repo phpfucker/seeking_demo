@@ -2,10 +2,15 @@ package jp.seekin.minecraft.ailife;
 
 import com.mojang.brigadier.CommandDispatcher;
 import com.mojang.brigadier.context.CommandContext;
+import com.mojang.brigadier.arguments.StringArgumentType;
 import net.minecraft.commands.CommandSourceStack;
 import net.minecraft.commands.Commands;
 import net.minecraft.network.chat.Component;
 import org.apache.logging.log4j.Logger;
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 
 /**
  * AI生命体MOD関連のMinecraftコマンドを管理するクラス
@@ -46,6 +51,9 @@ public class AiLifeCommands {
      * <p>登録されるコマンド：</p>
      * <ul>
      *   <li>/ailife export_status - AI生命体の状態情報をJSONファイルに出力</li>
+     *   <li>/ailife set_guidance <text> - 管理者指示を設定</li>
+     *   <li>/ailife clear_guidance - 管理者指示をクリア</li>
+     *   <li>/ailife show_guidance - 現在の管理者指示を表示</li>
      * </ul>
      * 
      * @param dispatcher コマンドディスパッチャー
@@ -59,6 +67,52 @@ public class AiLifeCommands {
                     .requires(source -> source.hasPermission(2)) // OP権限レベル2が必要
                     .executes(this::executeExportStatusCommand)
                 )
+                .then(Commands.literal("set_guidance")
+                    .requires(source -> source.hasPermission(2)) // OP権限が必要
+                    .then(Commands.argument("guidance", StringArgumentType.greedyString())
+                        .executes(context -> {
+                            String guidance = StringArgumentType.getString(context, "guidance");
+                            if (guidance.length() > 500) {
+                                context.getSource().sendFailure(Component.literal("文字数制限を超えています（最大500文字）"));
+                                return 0;
+                            }
+                            try {
+                                setGuidance(guidance);
+                                context.getSource().sendSuccess(() -> Component.literal("管理者指示を設定しました: " + guidance), true);
+                                return 1;
+                            } catch (Exception e) {
+                                context.getSource().sendFailure(Component.literal("管理者指示の設定に失敗しました: " + e.getMessage()));
+                                return 0;
+                            }
+                        })))
+                .then(Commands.literal("clear_guidance")
+                    .requires(source -> source.hasPermission(2))
+                    .executes(context -> {
+                        try {
+                            clearGuidance();
+                            context.getSource().sendSuccess(() -> Component.literal("管理者指示をクリアしました"), true);
+                            return 1;
+                        } catch (Exception e) {
+                            context.getSource().sendFailure(Component.literal("管理者指示のクリアに失敗しました: " + e.getMessage()));
+                            return 0;
+                        }
+                    }))
+                .then(Commands.literal("show_guidance")
+                    .requires(source -> source.hasPermission(2))
+                    .executes(context -> {
+                        try {
+                            String guidance = showGuidance();
+                            if (guidance.isEmpty()) {
+                                context.getSource().sendSuccess(() -> Component.literal("管理者指示は設定されていません"), true);
+                            } else {
+                                context.getSource().sendSuccess(() -> Component.literal("現在の管理者指示: " + guidance), true);
+                            }
+                            return 1;
+                        } catch (Exception e) {
+                            context.getSource().sendFailure(Component.literal("管理者指示の表示に失敗しました: " + e.getMessage()));
+                            return 0;
+                        }
+                    }))
         );
         
         logger.info("[AiLife] コマンド '/ailife export_status' が正常に登録されました");
@@ -132,6 +186,61 @@ public class AiLifeCommands {
         } catch (Exception e) {
             logger.error("[AiLife] 完全エクスポートワークフロー中にエラーが発生しました", e);
             throw new RuntimeException("完全エクスポートワークフローの実行に失敗しました: " + e.getMessage(), e);
+        }
+    }
+
+    /**
+     * 管理者指示を設定
+     * @param guidance 設定する指示内容
+     * @return 設定に成功した場合はtrue
+     */
+    public static boolean setGuidance(String guidance) {
+        if (guidance == null || guidance.length() > 500) {
+            return false;
+        }
+        try {
+            Path configDir = Paths.get("config");
+            if (!Files.exists(configDir)) {
+                Files.createDirectories(configDir);
+            }
+            Path guidanceFile = configDir.resolve("current_guidance.txt");
+            Files.writeString(guidanceFile, guidance);
+            return true;
+        } catch (IOException e) {
+            e.printStackTrace();
+            return false;
+        }
+    }
+
+    /**
+     * 管理者指示をクリア
+     * @return クリアに成功した場合はtrue
+     */
+    public static boolean clearGuidance() {
+        try {
+            Path guidanceFile = Paths.get("config", "current_guidance.txt");
+            Files.writeString(guidanceFile, "");
+            return true;
+        } catch (IOException e) {
+            e.printStackTrace();
+            return false;
+        }
+    }
+
+    /**
+     * 現在の管理者指示を取得
+     * @return 管理者指示の内容（設定されていない場合は空文字列）
+     */
+    public static String showGuidance() {
+        try {
+            Path guidanceFile = Paths.get("config", "current_guidance.txt");
+            if (!Files.exists(guidanceFile)) {
+                return "";
+            }
+            return Files.readString(guidanceFile);
+        } catch (IOException e) {
+            e.printStackTrace();
+            return "";
         }
     }
 } 

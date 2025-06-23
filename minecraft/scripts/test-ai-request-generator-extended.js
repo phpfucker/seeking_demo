@@ -45,6 +45,10 @@ function runExtendedTests() {
         console.log('Test 6: File output and size check');
         testFileOutputAndSize() ? passed++ : failed++;
         
+        // Test 7: 5.3.4.4 管理者指示の読み込みと統合テスト
+        console.log('\nTest 7: Guidance Integration');
+        testGuidanceIntegration() ? passed++ : failed++;
+        
     } catch (error) {
         console.error('Extended test execution error:', error.message);
         failed++;
@@ -267,6 +271,52 @@ function testFileOutputAndSize() {
         
         // テストファイルの削除
         fs.unlinkSync(testOutputPath);
+        
+        return true;
+    } catch (error) {
+        console.log(`  ✗ Error: ${error.message}`);
+        return false;
+    }
+}
+
+/**
+ * Test 7: 5.3.4.4 管理者指示の読み込みと統合テスト
+ */
+function testGuidanceIntegration() {
+    try {
+        const generator = new AiRequestGenerator();
+        const testGuidance = "親の行動パターンを重視して子の特性を決めて";
+        const guidanceFile = path.join(__dirname, '../config/current_guidance.txt');
+        
+        // テストファイルの作成
+        fs.writeFileSync(guidanceFile, testGuidance, 'utf8');
+        
+        // 1. 指示ファイルの読み込みテスト
+        const guidance = generator.readGuidance();
+        console.log('  ✓ 管理者指示ファイルを読み込み成功');
+        
+        // 2. AIリクエストデータへの統合テスト
+        const requestData = generator.generateAiRequestData();
+        if (requestData.user_guidance !== testGuidance) {
+            throw new Error('管理者指示がリクエストデータに正しく統合されていません');
+        }
+        console.log('  ✓ 管理者指示がリクエストデータに統合される');
+        
+        // 3. 空ファイルのハンドリングテスト
+        fs.writeFileSync(guidanceFile, '', 'utf8');
+        const emptyGuidance = generator.readGuidance();
+        if (emptyGuidance !== '') {
+            throw new Error('空ファイルが正しく処理されていません');
+        }
+        console.log('  ✓ 空ファイルが正しく処理される');
+        
+        // 4. ファイル不在のハンドリングテスト
+        fs.unlinkSync(guidanceFile);
+        const noFileGuidance = generator.readGuidance();
+        if (noFileGuidance !== '') {
+            throw new Error('ファイル不在時の処理が正しくありません');
+        }
+        console.log('  ✓ ファイル不在時も正しく処理される');
         
         return true;
     } catch (error) {

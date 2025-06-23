@@ -105,8 +105,29 @@ class AiRequestGenerator {
     }
 
     /**
+     * 5.3.4.4 管理者指示の読み込み
+     * 
+     * @returns {string} 管理者指示の内容（設定されていない場合は空文字列）
+     */
+    readGuidance() {
+        const guidanceFile = path.join(this.configDir, 'current_guidance.txt');
+        
+        try {
+            if (!fs.existsSync(guidanceFile)) {
+                return '';
+            }
+            const guidance = fs.readFileSync(guidanceFile, 'utf8');
+            return guidance || '';
+        } catch (error) {
+            console.error(`[AiRequestGenerator] 管理者指示の読み込みに失敗: ${error.message}`);
+            return '';
+        }
+    }
+
+    /**
      * 5.3.1.3 複数ペア対応した配列構造でのデータ整理
      * 5.3.1.4 距離が近いペアを優先した並び替え機能
+     * 5.3.4.4.2 管理者指示の統合
      * 
      * @returns {Object} ChatGPT送信用の完全なリクエストデータ
      * @throws {Error} データ生成中にエラーが発生した場合
@@ -123,8 +144,12 @@ class AiRequestGenerator {
         // Step 3: 距離順でのソート（近い順）
         const sortedPairs = breedingPairs.sort((a, b) => a.distance - b.distance);
         
-        // Step 4: ChatGPT送信用データの構築
+        // Step 4: 管理者指示の読み込み
+        const userGuidance = this.readGuidance();
+        
+        // Step 5: ChatGPT送信用データの構築
         const requestData = {
+            user_guidance: userGuidance,
             breeding_pairs: sortedPairs,
             available_entities: availableEntities,
             genetics_rules: {
@@ -142,6 +167,9 @@ class AiRequestGenerator {
         console.log('[AiRequestGenerator] === データ生成完了 ===');
         console.log(`[AiRequestGenerator] 繁殖ペア数: ${requestData.breeding_pairs.length}`);
         console.log(`[AiRequestGenerator] 利用可能エンティティ数: ${requestData.available_entities.length}`);
+        if (userGuidance) {
+            console.log('[AiRequestGenerator] 管理者指示あり');
+        }
         
         return requestData;
     }
