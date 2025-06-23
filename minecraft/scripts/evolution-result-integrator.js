@@ -24,7 +24,11 @@ class EvolutionResultIntegrator {
     constructor(options = {}) {
         this.evolutionResultPath = options.evolutionResultPath || path.join(__dirname, 'data', 'evolution_result.json');
         this.modelsConfigPath = options.modelsConfigPath || path.join(__dirname, '..', 'config', 'models_skins_animations.json');
-        this.outputPath = options.outputPath || path.join(__dirname, '..', 'config', 'generated_entities.json');
+        
+        // VPS環境ではNODE_ENV=productionで本番パスを使用
+        this.outputPath = options.outputPath || (process.env.NODE_ENV === 'production' 
+            ? '/opt/minecraft_forge_server/config/generated_entities.json'
+            : path.join(__dirname, '..', 'config', 'generated_entities.json'));
         
         this.modelsConfig = null;
     }
@@ -180,6 +184,10 @@ class EvolutionResultIntegrator {
      */
     async saveGeneratedEntities(entities) {
         try {
+            // 出力ディレクトリが存在しない場合は作成
+            const outputDir = path.dirname(this.outputPath);
+            await fs.mkdir(outputDir, { recursive: true });
+            
             const outputData = JSON.stringify(entities, null, 2);
             await fs.writeFile(this.outputPath, outputData, 'utf8');
             
@@ -311,6 +319,11 @@ class EvolutionResultRunner {
             console.log('🔍 Checking environment...');
             await this.checkEnvironment();
             console.log('✅ Environment check passed');
+            
+            // 環境とパス情報を表示
+            const isProduction = process.env.NODE_ENV === 'production';
+            console.log(`🏗️  Environment: ${isProduction ? 'Production (VPS)' : 'Development'}`);
+            console.log(`📁 Output path: ${this.integrator.outputPath}`);
 
             // 2. 統合処理実行
             console.log('⚙️  Starting integration process...');
