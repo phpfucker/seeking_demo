@@ -48,6 +48,7 @@ public class EntityInfoService {
      *   <li>エンティティID（カスタム名）</li>
      *   <li>性別情報（NBTデータから取得）</li>
      *   <li>DNA情報（NBTデータから取得）</li>
+     *   <li>特性データ（behavior, sociality, lifespan）（NBTデータから取得）</li>
      *   <li>リアルタイム位置情報（現在のワールド座標）</li>
      * </ul>
      * 
@@ -156,6 +157,22 @@ public class EntityInfoService {
                 dna = DnaUtils.inferDnaFromEntityId(entityId);
             }
             entityInfo.addProperty("dna", dna);
+            
+            // NBTデータから特性データを取得（5.1.4拡張）
+            String behavior = entity.getPersistentData().getString("Behavior");
+            if (behavior != null && !behavior.trim().isEmpty()) {
+                entityInfo.addProperty("behavior", behavior);
+            }
+            
+            String sociality = entity.getPersistentData().getString("Sociality");
+            if (sociality != null && !sociality.trim().isEmpty()) {
+                entityInfo.addProperty("sociality", sociality);
+            }
+            
+            int lifespan = entity.getPersistentData().getInt("Lifespan");
+            if (lifespan > 0) {
+                entityInfo.addProperty("lifespan", lifespan);
+            }
             
             // 追加情報（デバッグ用）
             entityInfo.addProperty("entity_type", entity.getType().toString());

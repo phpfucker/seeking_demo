@@ -220,6 +220,9 @@ public class EntitySpawnManager {
             }
         }
 
+        // 特性データの適用（5.1.3拡張機能）
+        applyCharacteristicsData(entity, entityData, entityId);
+
         // 詳細ログの出力
         String name = entityData.has("name") ? entityData.get("name").getAsString() : "不明";
         String gender = entityData.has("gender") ? entityData.get("gender").getAsString() : "不明";
@@ -229,6 +232,89 @@ public class EntitySpawnManager {
         
         logger.info("[AiLife] 個体詳細 - ID: {}, 名前: {}, 性別: {}, モデル: {}, スキン: {}, アニメーション: {}", 
             entityId, name, gender, model, skin, animation);
+    }
+
+    /**
+     * エンティティに特性データ（behavior, sociality, lifespan）をNBTタグに保存する
+     * 
+     * <p>5.1.3拡張機能: generated_entities.jsonから特性データを読み取り、
+     * エンティティのNBTタグに保存します。</p>
+     * 
+     * <p>保存されるNBTタグ:</p>
+     * <ul>
+     *   <li>"Behavior" - 行動特性（curious, passive, aggressive等）</li>
+     *   <li>"Sociality" - 社会性（leader, herd, loner等）</li>
+     *   <li>"Lifespan" - 寿命（整数値）</li>
+     * </ul>
+     * 
+     * <p>エラーハンドリング:</p>
+     * <ul>
+     *   <li>特性データが欠損している場合: 警告ログを出力し、スポーン処理を続行</li>
+     *   <li>空文字列やnull値: NBTに保存せず、ログに記録</li>
+     * </ul>
+     * 
+     * @param entity 対象のエンティティ
+     * @param entityData 個体データのJSONオブジェクト
+     * @param entityId 個体ID（ログ出力用）
+     * @since 1.0.0
+     */
+    public void applyCharacteristicsData(LivingEntity entity, JsonObject entityData, String entityId) {
+        logger.debug("[AiLife] 個体 '{}' の特性データ適用を開始します", entityId);
+        
+        boolean hasAnyCharacteristics = false;
+        
+        // Behavior（行動特性）の適用
+        if (entityData.has("behavior")) {
+            String behavior = entityData.get("behavior").getAsString();
+            if (behavior != null && !behavior.trim().isEmpty()) {
+                entity.getPersistentData().putString("Behavior", behavior.trim());
+                logger.debug("[AiLife] 個体 '{}' に行動特性 '{}' を適用しました", entityId, behavior);
+                hasAnyCharacteristics = true;
+            } else {
+                logger.debug("[AiLife] 個体 '{}' の行動特性が空文字列またはnullのため、NBTに保存しません", entityId);
+            }
+        } else {
+            logger.warn("[AiLife] 個体 '{}' のJSONデータに行動特性（behavior）が含まれていません", entityId);
+        }
+        
+        // Sociality（社会性）の適用
+        if (entityData.has("sociality")) {
+            String sociality = entityData.get("sociality").getAsString();
+            if (sociality != null && !sociality.trim().isEmpty()) {
+                entity.getPersistentData().putString("Sociality", sociality.trim());
+                logger.debug("[AiLife] 個体 '{}' に社会性 '{}' を適用しました", entityId, sociality);
+                hasAnyCharacteristics = true;
+            } else {
+                logger.debug("[AiLife] 個体 '{}' の社会性が空文字列またはnullのため、NBTに保存しません", entityId);
+            }
+        } else {
+            logger.warn("[AiLife] 個体 '{}' のJSONデータに社会性（sociality）が含まれていません", entityId);
+        }
+        
+        // Lifespan（寿命）の適用
+        if (entityData.has("lifespan")) {
+            try {
+                int lifespan = entityData.get("lifespan").getAsInt();
+                if (lifespan > 0) {
+                    entity.getPersistentData().putInt("Lifespan", lifespan);
+                    logger.debug("[AiLife] 個体 '{}' に寿命 '{}' を適用しました", entityId, lifespan);
+                    hasAnyCharacteristics = true;
+                } else {
+                    logger.debug("[AiLife] 個体 '{}' の寿命が0以下のため、NBTに保存しません: {}", entityId, lifespan);
+                }
+            } catch (Exception e) {
+                logger.warn("[AiLife] 個体 '{}' の寿命データの解析に失敗しました: {}", entityId, e.getMessage());
+            }
+        } else {
+            logger.warn("[AiLife] 個体 '{}' のJSONデータに寿命（lifespan）が含まれていません", entityId);
+        }
+        
+        // 適用結果のサマリーログ
+        if (hasAnyCharacteristics) {
+            logger.info("[AiLife] 個体 '{}' の特性データ適用が完了しました", entityId);
+        } else {
+            logger.warn("[AiLife] 個体 '{}' には有効な特性データが含まれていませんでした", entityId);
+        }
     }
     
     /**
