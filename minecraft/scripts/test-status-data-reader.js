@@ -256,6 +256,151 @@ class StatusDataReaderTest {
     }
 
     /**
+     * テスト6: 特性データ（behavior, sociality, lifespan）が正しく読み込まれる
+     */
+    async testCharacteristicsDataParsing() {
+        console.log('\n--- テスト6: 特性データが正しく読み込まれる ---');
+        
+        const testData = {
+            entities: [
+                {
+                    entity_id: 'adam',
+                    gender: 'male',
+                    dna: 'ACGTACGTACGTACGT',
+                    position: { x: 25.4, y: 66, z: 10.8 },
+                    health: 20.0,
+                    max_health: 20.0,
+                    entity_type: 'entity.minecraft.villager',
+                    behavior: 'curious',
+                    sociality: 'leader',
+                    lifespan: 1500
+                },
+                {
+                    entity_id: 'eve',
+                    gender: 'female', 
+                    dna: 'TGCATGCATGCATGCA',
+                    position: { x: 29.7, y: 69, z: 29.3 },
+                    health: 20.0,
+                    max_health: 20.0,
+                    entity_type: 'entity.minecraft.villager',
+                    behavior: 'passive',
+                    sociality: 'herd',
+                    lifespan: 1500
+                }
+            ]
+        };
+
+        fs.writeFileSync(TEST_STATUS_FILE, JSON.stringify(testData, null, 2));
+
+        if (!StatusDataReader) {
+            console.log('StatusDataReader未実装のためテストをスキップ');
+            return;
+        }
+
+        const reader = new StatusDataReader(TEST_CONFIG_DIR);
+        const entities = await reader.readStatusData();
+        
+        // 基本アサーション
+        this.assertEqual(entities.length, 2, 'エンティティ数が2つ');
+        
+        // adamの特性データ確認
+        const adam = entities[0];
+        this.assertEqual(adam.id, 'adam', 'adamのIDが正しい');
+        this.assertEqual(adam.behavior, 'curious', 'adamのbehaviorが正しい');
+        this.assertEqual(adam.sociality, 'leader', 'adamのsocialityが正しい');
+        this.assertEqual(adam.lifespan, 1500, 'adamのlifespanが正しい');
+        
+        // eveの特性データ確認
+        const eve = entities[1];
+        this.assertEqual(eve.id, 'eve', 'eveのIDが正しい');
+        this.assertEqual(eve.behavior, 'passive', 'eveのbehaviorが正しい');
+        this.assertEqual(eve.sociality, 'herd', 'eveのsocialityが正しい');
+        this.assertEqual(eve.lifespan, 1500, 'eveのlifespanが正しい');
+    }
+
+    /**
+     * テスト7: 特性データが含まれたformattedDataMapが正しく生成される
+     */
+    async testFormattedDataWithCharacteristics() {
+        console.log('\n--- テスト7: 特性データ含むformattedDataMapが正しく生成される ---');
+        
+        const testData = {
+            entities: [
+                {
+                    entity_id: 'adam',
+                    gender: 'male',
+                    dna: 'ACGT',
+                    position: { x: 25, y: 66, z: 10 },
+                    health: 20.0,
+                    behavior: 'curious',
+                    sociality: 'leader',
+                    lifespan: 1500
+                }
+            ]
+        };
+
+        fs.writeFileSync(TEST_STATUS_FILE, JSON.stringify(testData, null, 2));
+
+        if (!StatusDataReader) {
+            console.log('StatusDataReader未実装のためテストをスキップ');
+            return;
+        }
+
+        const reader = new StatusDataReader(TEST_CONFIG_DIR);
+        const formattedData = await reader.getFormattedDataMap();
+        
+        // 構造確認
+        this.assert(formattedData.entities.length === 1, 'エンティティが1つ');
+        
+        // 特性データが含まれていることを確認
+        const entity = formattedData.entities[0];
+        this.assert('behavior' in entity, 'behaviorフィールドが存在');
+        this.assert('sociality' in entity, 'socialityフィールドが存在');
+        this.assert('lifespan' in entity, 'lifespanフィールドが存在');
+        this.assertEqual(entity.behavior, 'curious', 'behaviorが正しい');
+        this.assertEqual(entity.sociality, 'leader', 'socialityが正しい');
+        this.assertEqual(entity.lifespan, 1500, 'lifespanが正しい');
+    }
+
+    /**
+     * テスト8: 特性データが不完全な場合の処理
+     */
+    async testPartialCharacteristicsData() {
+        console.log('\n--- テスト8: 特性データが不完全な場合の処理 ---');
+        
+        const testData = {
+            entities: [
+                {
+                    entity_id: 'incomplete_entity',
+                    gender: 'male',
+                    dna: 'ACGT',
+                    position: { x: 0, y: 0, z: 0 },
+                    health: 20.0,
+                    behavior: 'curious',
+                    // sociality と lifespan は欠損
+                }
+            ]
+        };
+
+        fs.writeFileSync(TEST_STATUS_FILE, JSON.stringify(testData, null, 2));
+
+        if (!StatusDataReader) {
+            console.log('StatusDataReader未実装のためテストをスキップ');
+            return;
+        }
+
+        const reader = new StatusDataReader(TEST_CONFIG_DIR);
+        const entities = await reader.readStatusData();
+        
+        this.assertEqual(entities.length, 1, 'エンティティが1つ');
+        
+        const entity = entities[0];
+        this.assertEqual(entity.behavior, 'curious', 'behaviorが正しい');
+        this.assertEqual(entity.sociality, null, 'socialityはnull');
+        this.assertEqual(entity.lifespan, null, 'lifespanはnull');
+    }
+
+    /**
      * 全テスト実行
      */
     async runAllTests() {
@@ -263,7 +408,6 @@ class StatusDataReaderTest {
         
         try {
             this.setUp();
-            
             await this.testReadValidStatusFile();
             this.tearDown();
             this.setUp();
@@ -282,6 +426,19 @@ class StatusDataReaderTest {
             
             await this.testTemporaryDataStorage();
             this.tearDown();
+            this.setUp();
+            
+            // 新しいテストを追加
+            await this.testCharacteristicsDataParsing();
+            this.tearDown();
+            this.setUp();
+            
+            await this.testFormattedDataWithCharacteristics();
+            this.tearDown();
+            this.setUp();
+            
+            await this.testPartialCharacteristicsData();
+            this.tearDown();
             
         } catch (error) {
             console.error('テスト実行中にエラーが発生:', error);
@@ -295,7 +452,7 @@ class StatusDataReaderTest {
         if (this.failedCount === 0) {
             console.log('🎉 全てのテストが成功しました！');
         } else {
-            console.log('❌ 一部のテストが失敗しました。');
+            console.log('❌一部のテストが失敗しました。');
         }
     }
 }

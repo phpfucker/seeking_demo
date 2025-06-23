@@ -33,7 +33,10 @@
         "health": 20,
         "age": 0,
         "entity_type": "entity.minecraft.villager",
-        "max_health": 20
+        "max_health": 20,
+        "behavior": "curious",
+        "sociality": "leader",
+        "lifespan": 1500
       },
       "female": {
         "id": "eve",
@@ -64,11 +67,14 @@
         "health": 20,
         "age": 0,
         "entity_type": "entity.minecraft.villager",
-        "max_health": 20
+        "max_health": 20,
+        "behavior": "passive",
+        "sociality": "herd",
+        "lifespan": 1500
       },
       "distance": 19.22653292415432
     }
   ],
-  "maxDistance": 25,
-  "processedAt": "2025-06-22T14:46:57.267Z"
+  "maxDistance": 20,
+  "processedAt": "2025-06-23T03:44:05.774Z"
 }

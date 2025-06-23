@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="JSONファイル構造 実装済み機能テスト" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-06-22T13:07:47" hostname="cesare.local" time="0.106">
+<testsuite name="JSONファイル構造 実装済み機能テスト" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-06-23T03:11:20" hostname="cesare.local" time="0.148">
   <properties/>
-  <testcase name="実装済み: DNA配列フォーマット検証テスト" classname="jp.seekin.minecraft.ailife.JsonFileStructureTest" time="0.01"/>
-  <testcase name="実装済み: データ型検証テスト" classname="jp.seekin.minecraft.ailife.JsonFileStructureTest" time="0.014"/>
-  <testcase name="実装済み: generated_entities.json構造妥当性テスト" classname="jp.seekin.minecraft.ailife.JsonFileStructureTest" time="0.028"/>
-  <testcase name="実装済み: 性別データ検証テスト" classname="jp.seekin.minecraft.ailife.JsonFileStructureTest" time="0.019"/>
-  <testcase name="実装済み: 必須フィールド存在確認テスト" classname="jp.seekin.minecraft.ailife.JsonFileStructureTest" time="0.019"/>
-  <testcase name="実装済み: initial_adam_eve.json構造妥当性テスト" classname="jp.seekin.minecraft.ailife.JsonFileStructureTest" time="0.007"/>
+  <testcase name="実装済み: DNA配列フォーマット検証テスト" classname="jp.seekin.minecraft.ailife.JsonFileStructureTest" time="0.035"/>
+  <testcase name="実装済み: データ型検証テスト" classname="jp.seekin.minecraft.ailife.JsonFileStructureTest" time="0.01"/>
+  <testcase name="実装済み: generated_entities.json構造妥当性テスト" classname="jp.seekin.minecraft.ailife.JsonFileStructureTest" time="0.016"/>
+  <testcase name="実装済み: 性別データ検証テスト" classname="jp.seekin.minecraft.ailife.JsonFileStructureTest" time="0.032"/>
+  <testcase name="実装済み: 必須フィールド存在確認テスト" classname="jp.seekin.minecraft.ailife.JsonFileStructureTest" time="0.022"/>
+  <testcase name="実装済み: initial_adam_eve.json構造妥当性テスト" classname="jp.seekin.minecraft.ailife.JsonFileStructureTest" time="0.013"/>
   <system-out><![CDATA[JSONファイル構造テスト環境セットアップ完了: /Users/motosue/Documents/seekin_demo/minecraft/test-config-json
 DNA配列フォーマット検証テスト完了
 JSONファイル構造テスト環境クリーンアップ完了

@@ -63,6 +63,11 @@ class StatusDataIntegration {
     async saveFormattedDataToFile(formattedData) {
         const outputPath = path.join(this.dataDir, 'formatted_status_data.json');
         
+        // ディレクトリが存在しない場合は作成
+        if (!fs.existsSync(this.dataDir)) {
+            fs.mkdirSync(this.dataDir, { recursive: true });
+        }
+        
         // タイムスタンプを追加
         const outputData = {
             ...formattedData,

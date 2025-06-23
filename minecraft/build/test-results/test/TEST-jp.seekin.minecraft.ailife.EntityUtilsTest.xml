@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="EntityUtils 単体テスト" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-06-22T13:07:47" hostname="cesare.local" time="0.029">
+<testsuite name="EntityUtils 単体テスト" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-06-23T03:11:20" hostname="cesare.local" time="0.101">
   <properties/>
-  <testcase name="getRequiredJsonString: 存在しないフィールドでの例外" classname="jp.seekin.minecraft.ailife.EntityUtilsTest" time="0.004"/>
+  <testcase name="getRequiredJsonString: 存在しないフィールドでの例外" classname="jp.seekin.minecraft.ailife.EntityUtilsTest" time="0.009"/>
   <testcase name="determineEntityType: モデル名文字列処理の確認" classname="jp.seekin.minecraft.ailife.EntityUtilsTest" time="0.001"/>
-  <testcase name="getRequiredJsonString: null JsonObjectでの例外" classname="jp.seekin.minecraft.ailife.EntityUtilsTest" time="0.001"/>
+  <testcase name="getRequiredJsonString: null JsonObjectでの例外" classname="jp.seekin.minecraft.ailife.EntityUtilsTest" time="0.002"/>
   <testcase name="getRequiredJsonString: 空白文字のトリム処理" classname="jp.seekin.minecraft.ailife.EntityUtilsTest" time="0.001"/>
-  <testcase name="getRequiredJsonString: 正常なJSONフィールド取得" classname="jp.seekin.minecraft.ailife.EntityUtilsTest" time="0.003"/>
-  <testcase name="getRequiredJsonString: 空文字列での例外" classname="jp.seekin.minecraft.ailife.EntityUtilsTest" time="0.002"/>
+  <testcase name="getRequiredJsonString: 正常なJSONフィールド取得" classname="jp.seekin.minecraft.ailife.EntityUtilsTest" time="0.001"/>
+  <testcase name="getRequiredJsonString: 空文字列での例外" classname="jp.seekin.minecraft.ailife.EntityUtilsTest" time="0.004"/>
   <testcase name="コンストラクタの私有化確認" classname="jp.seekin.minecraft.ailife.EntityUtilsTest" time="0.002"/>
-  <testcase name="determineEntityType: null/空文字処理の確認" classname="jp.seekin.minecraft.ailife.EntityUtilsTest" time="0.003"/>
-  <testcase name="エラーメッセージの内容確認" classname="jp.seekin.minecraft.ailife.EntityUtilsTest" time="0.002"/>
+  <testcase name="determineEntityType: null/空文字処理の確認" classname="jp.seekin.minecraft.ailife.EntityUtilsTest" time="0.004"/>
+  <testcase name="エラーメッセージの内容確認" classname="jp.seekin.minecraft.ailife.EntityUtilsTest" time="0.003"/>
   <system-out><![CDATA[文字列処理ロジック確認：
 - villager関連文字列の処理ロジック確認
 - witch関連文字列の処理ロジック確認

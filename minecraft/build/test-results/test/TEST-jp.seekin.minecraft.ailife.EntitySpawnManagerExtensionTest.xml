@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jp.seekin.minecraft.ailife.EntitySpawnManagerExtensionTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-06-23T03:11:20" hostname="cesare.local" time="0.124">
+  <properties/>
+  <testcase name="空文字列やnull値の検証ができる" classname="jp.seekin.minecraft.ailife.EntitySpawnManagerExtensionTest" time="0.005"/>
+  <testcase name="一部データが欠損したJSONの処理ができる" classname="jp.seekin.minecraft.ailife.EntitySpawnManagerExtensionTest" time="0.007"/>
+  <testcase name="EntitySpawnManagerのインスタンス化ができる" classname="jp.seekin.minecraft.ailife.EntitySpawnManagerExtensionTest" time="0.002"/>
+  <testcase name="特性データのJSONパース機能が正しく動作する" classname="jp.seekin.minecraft.ailife.EntitySpawnManagerExtensionTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
