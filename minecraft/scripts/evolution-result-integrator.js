@@ -254,3 +254,91 @@ class EvolutionResultIntegrator {
 }
 
 module.exports = EvolutionResultIntegrator;
+
+/**
+ * 本番実行用クラス
+ */
+class EvolutionResultRunner {
+    constructor() {
+        this.integrator = new EvolutionResultIntegrator();
+    }
+
+    /**
+     * 環境チェック
+     */
+    async checkEnvironment() {
+        const fs = require('fs').promises;
+        
+        // evolution_result.json の存在確認
+        try {
+            await fs.access(this.integrator.evolutionResultPath);
+        } catch (error) {
+            throw new Error('evolution_result.json not found. Please run ChatGPT evolution first.');
+        }
+        
+        // models_skins_animations.json の存在確認
+        try {
+            await fs.access(this.integrator.modelsConfigPath);
+        } catch (error) {
+            throw new Error('models_skins_animations.json not found in config directory.');
+        }
+    }
+
+    /**
+     * 結果サマリー表示
+     */
+    displayResultSummary(result) {
+        console.log('\n=== Integration Result Summary ===');
+        console.log(`✅ Success: ${result.success}`);
+        console.log(`📊 Entities processed: ${result.entities_processed}`);
+        console.log(`⏱️  Processing time: ${result.processing_time}`);
+        console.log(`📁 Output file: ${result.output_path}`);
+        console.log(`🕐 Timestamp: ${result.timestamp}`);
+        
+        if (!result.success) {
+            console.log(`❌ Error: ${result.error}`);
+        }
+    }
+
+    /**
+     * メイン実行関数
+     */
+    async execute() {
+        console.log('🚀 === Evolution Result Integration Start ===');
+        
+        try {
+            // 1. 環境チェック
+            console.log('🔍 Checking environment...');
+            await this.checkEnvironment();
+            console.log('✅ Environment check passed');
+
+            // 2. 統合処理実行
+            console.log('⚙️  Starting integration process...');
+            const startTime = Date.now();
+            
+            const result = await this.integrator.integrate();
+            
+            const duration = ((Date.now() - startTime) / 1000).toFixed(2);
+            console.log(`✅ Integration completed in ${duration}s`);
+
+            // 3. 結果サマリー表示
+            this.displayResultSummary(result);
+
+            console.log('\n🎉 === Evolution Result Integration Complete ===');
+            return result;
+
+        } catch (error) {
+            console.error('❌ Evolution result integration failed:', error.message);
+            process.exit(1);
+        }
+    }
+}
+
+// 直接実行チェック
+if (require.main === module) {
+    const runner = new EvolutionResultRunner();
+    runner.execute().catch(error => {
+        console.error('Fatal error:', error.message);
+        process.exit(1);
+    });
+}
