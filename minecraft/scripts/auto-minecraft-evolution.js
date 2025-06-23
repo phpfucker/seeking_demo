@@ -26,6 +26,11 @@ class AutoMinecraftEvolution {
      * 環境に応じた設定を構築
      */
     buildConfig() {
+        // テストサイクル時は開発環境でRCON接続をスキップ
+        const isTestCycle = process.argv.includes('--test-cycle');
+        const isProduction = process.env.NODE_ENV === 'production';
+        const skipRcon = isTestCycle && !isProduction;
+
         const baseConfig = {
             rconConfig: {
                 host: process.env.RCON_HOST || 'localhost',
@@ -35,7 +40,8 @@ class AutoMinecraftEvolution {
             },
             schedulerEnabled: true,
             cronPattern: process.env.EVOLUTION_CRON_PATTERN || '0 * * * *', // 1時間ごと
-            continueOnError: process.env.CONTINUE_ON_ERROR === 'true'
+            continueOnError: process.env.CONTINUE_ON_ERROR === 'true',
+            skipRcon: skipRcon
         };
 
         if (process.env.NODE_ENV === 'production') {
@@ -109,16 +115,23 @@ class AutoMinecraftEvolution {
             console.warn('⚠️  RCON_PASSWORD が設定されていません');
         }
 
-        // RCON接続テスト
-        try {
-            const testResult = await this.cycleManager.rconManager.testConnection();
-            if (testResult.success) {
-                console.log('✅ RCON接続テスト成功');
-            } else {
-                console.warn('⚠️  RCON接続テスト失敗:', testResult.error);
+        // RCON接続テスト（テストサイクル時は本番環境でのみ実行）
+        const isTestCycle = process.argv.includes('--test-cycle');
+        const isProduction = process.env.NODE_ENV === 'production';
+
+        if (!isTestCycle || isProduction) {
+            try {
+                const testResult = await this.cycleManager.rconManager.testConnection();
+                if (testResult.success) {
+                    console.log('✅ RCON接続テスト成功');
+                } else {
+                    console.warn('⚠️  RCON接続テスト失敗:', testResult.error);
+                }
+            } catch (error) {
+                console.warn('⚠️  RCON接続テストでエラー:', error.message);
             }
-        } catch (error) {
-            console.warn('⚠️  RCON接続テストでエラー:', error.message);
+        } else {
+            console.log('✅ RCON接続テストスキップ（開発環境テスト）');
         }
 
         // ログディレクトリの作成確認

@@ -9,7 +9,7 @@
  * @since 1.0.0
  */
 
-const Rcon = require('minecraft-rcon');
+const Rcon = require('rcon-client').Rcon;
 
 /**
  * MinecraftサーバーのRCON接続を管理するクラス
@@ -73,7 +73,12 @@ class RconManager {
     }
 
     initializeRcon() {
-        this.rcon = new Rcon();
+        this.rcon = new Rcon({
+            host: this.config.host,
+            port: this.config.port,
+            password: this.config.password,
+            timeout: this.config.timeout
+        });
     }
 
     async connect() {
@@ -84,12 +89,7 @@ class RconManager {
 
             console.log(`[RconManager] RCON接続を開始します: ${this.config.host}:${this.config.port}`);
             
-            await this.rcon.connect(
-                this.config.host,
-                this.config.port,
-                this.config.password,
-                this.config.timeout
-            );
+            await this.rcon.connect();
 
             this.isConnected = true;
             this.lastConnectedAt = new Date();
@@ -100,6 +100,7 @@ class RconManager {
         } catch (error) {
             this.isConnected = false;
             console.error('[RconManager] RCON接続に失敗しました:', error.message);
+            console.error('[RconManager] エラーの詳細:', error);
             return false;
         }
     }
@@ -155,7 +156,7 @@ class RconManager {
 
             console.log('[RconManager] RCON接続を切断します');
             
-            await this.rcon.disconnect();
+            await this.rcon.end();
             this.isConnected = false;
             
             console.log('[RconManager] RCON接続を切断しました');

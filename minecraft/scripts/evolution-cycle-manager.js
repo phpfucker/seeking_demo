@@ -23,6 +23,7 @@ class EvolutionCycleManager {
         this.lastCycleAt = null;
         this.lastError = null;
         this.cronJob = null;
+        this.skipRcon = config.skipRcon || false;
         
         // スクリプト実行順序（5.6.2）
         this.scriptSequence = [
@@ -166,20 +167,26 @@ class EvolutionCycleManager {
         try {
             await this.logToFile(`=== 進化サイクル #${this.cycleCount + 1} 開始 ===`, 'INFO');
             
-            // 1. RCON接続
-            await this.logToFile('RCON接続中...', 'INFO');
-            const connected = await this.rconManager.connect();
-            
-            if (!connected) {
-                throw new Error('RCON connection failed');
-            }
+            // 1. RCON接続（スキップオプション対応）
+            let exportResult = null;
+            if (!this.skipRcon) {
+                await this.logToFile('RCON接続中...', 'INFO');
+                const connected = await this.rconManager.connect();
+                
+                if (!connected) {
+                    throw new Error('RCON connection failed');
+                }
 
-            // 2. MODコマンド実行（/ailife export_status）
-            await this.logToFile('Minecraftからエンティティ状態をエクスポート中...', 'INFO');
-            const exportResult = await this.rconManager.executeAiLifeCommand('export_status');
-            
-            if (!exportResult.success) {
-                throw new Error(`Export command failed: ${exportResult.error}`);
+                // 2. MODコマンド実行（/ailife export_status）
+                await this.logToFile('Minecraftからエンティティ状態をエクスポート中...', 'INFO');
+                exportResult = await this.rconManager.executeAiLifeCommand('export_status');
+                
+                if (!exportResult.success) {
+                    throw new Error(`Export command failed: ${exportResult.error}`);
+                }
+            } else {
+                await this.logToFile('RCON接続スキップ（テストモード）', 'INFO');
+                exportResult = { success: true, response: 'skipped in test mode' };
             }
 
             // 3. スクリプトシーケンス実行
@@ -189,8 +196,10 @@ class EvolutionCycleManager {
                 throw new Error(`Script sequence failed: ${sequenceResult.error}`);
             }
 
-            // 4. RCON切断
-            await this.rconManager.disconnect();
+            // 4. RCON切断（スキップオプション対応）
+            if (!this.skipRcon) {
+                await this.rconManager.disconnect();
+            }
 
             this.cycleCount++;
             this.lastCycleAt = new Date();

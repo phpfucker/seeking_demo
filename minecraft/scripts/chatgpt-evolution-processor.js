@@ -150,7 +150,18 @@ class ChatGPTEvolutionProcessor {
             
             let response;
             try {
-                response = JSON.parse(responseContent);
+                // ChatGPTが返すJSONコードブロック（```json ... ```）を除去
+                let cleanedContent = responseContent.trim();
+                
+                // コードブロックのマーカーを除去
+                if (cleanedContent.startsWith('```json')) {
+                    cleanedContent = cleanedContent.replace(/^```json\s*/, '').replace(/\s*```$/, '');
+                } else if (cleanedContent.startsWith('```')) {
+                    cleanedContent = cleanedContent.replace(/^```\s*/, '').replace(/\s*```$/, '');
+                }
+                
+                console.log('Cleaned ChatGPT response:', cleanedContent);
+                response = JSON.parse(cleanedContent);
             } catch (parseError) {
                 throw new Error(`Failed to parse ChatGPT response as JSON: ${parseError.message}\nResponse: ${responseContent}`);
             }
