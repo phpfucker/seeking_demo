@@ -3,7 +3,9 @@
 # Daily Evolution Cycle + Server Restart
 # Simple script for daily evolution and server restart
 
-cd /opt/minecraft_forge_server/ailife-scripts
+# Get script directory and change to it
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+cd "$SCRIPT_DIR"
 
 # Run evolution cycle
 echo "$(date): Starting evolution cycle..."
