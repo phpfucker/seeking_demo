@@ -146,16 +146,25 @@
             - [x] 5.3.4.4.2 AIリクエストジェネレーターでの指示内容の統合
             - [x] 5.3.4.4.3 ファイルが存在しない場合や空の場合のハンドリング
 
-- [ ] **5.4 ChatGPTからのレスポンス処理**
-    - [ ] 5.4.1 ChatGPT APIからのレスポンスを受信し、その内容をパースする機能の実装
-    - [ ] 5.4.2 レスポンスJSONから、新たに生成された子孫の「個体ID」「DNA」「性別」などの詳細情報を抽出する機能の実装
+- [x] **5.4 ChatGPTからのレスポンス処理**
+    - [x] 5.4.1 ChatGPT APIからのレスポンスを受信し、その内容をパースする機能の実装
+    - [x] 5.4.2 レスポンスJSONから、新たに生成された子孫の「個体ID」「DNA」「性別」などの詳細情報を抽出する機能の実装
 
-- [ ] **5.5 新個体のMinecraftデータへの反映（完全置換方式）**
-    - [ ] 5.5.1 抽出した子孫の情報を、Minecraft内でAI生命体としてスポーンさせるためのデータ構造に変換する機能の実装
-    - [ ] 5.5.2 新個体情報で`generated_entities.json`を完全置換する機能の実装
-        - **方式**: 親世代データ削除、子世代のみが生存する自然な世代交代
-        - **対象**: ChatGPTから受信した子世代データで既存ファイルを上書き
-    - [ ] 5.5.3 家系ツリーの記録（親IDの紐付けなど）を別ファイルで更新する機能の実装
+- [x] **5.5 新個体のMinecraftデータへの反映（完全置換方式）**
+    - [x] 5.5.1 **evolution-result-integrator.js作成**
+        - [x] 5.5.1.1 ChatGPT結果をMinecraft形式に変換する機能の実装
+            - [x] `data/evolution_result.json`読み込み機能
+            - [x] DNA配列変換機能（`["A","C","G","T"]` → `"ACGT"`）
+            - [x] `selected_entity`を使って`models_skins_animations.json`からmodel/texture/animationパス取得機能
+            - [x] initial_adam_eve.json形式への整形機能
+        - [x] 5.5.1.2 generated_entities.jsonの完全上書き機能の実装
+            - [x] `/opt/minecraft_forge_server/config/generated_entities.json`への直接上書き処理
+            - [x] 親世代データ削除、子世代のみが生存する自然な世代交代の実現
+        - [x] 5.5.1.3 実行方法の実装（`node evolution-result-integrator.js`）
+    - [x] 5.5.2 **test-evolution-result-integrator.js作成**
+        - [x] 5.5.2.1 テスト用evolution_result.jsonの作成
+        - [x] 5.5.2.2 統合処理のテスト実装
+        - [x] 5.5.2.3 出力確認テストの実装
 
 - [ ] **5.6 進化サイクルの自動化とバリデーション**
     - [ ] 5.6.1 **Node.js側: Java MODコマンド実行とサイクル自動化**
