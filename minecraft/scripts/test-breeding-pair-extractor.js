@@ -43,13 +43,19 @@ class BreedingPairExtractorTests {
                         id: "adam",
                         gender: "male",
                         position: { x: 25.4, y: 66, z: 10.8 },
-                        dna: ["A", "C", "G", "T"]
+                        dna: ["A", "C", "G", "T"],
+                        behavior: "curious",
+                        sociality: "leader",
+                        lifespan: 1500
                     },
                     {
                         id: "eve",
                         gender: "female",
                         position: { x: 29.7, y: 69, z: 29.3 },
-                        dna: ["T", "G", "C", "A"]
+                        dna: ["T", "G", "C", "A"],
+                        behavior: "passive",
+                        sociality: "herd",
+                        lifespan: 1500
                     }
                 ]
             };
@@ -58,6 +64,13 @@ class BreedingPairExtractorTests {
             assert.strictEqual(result.entities.length, 2);
             assert.strictEqual(result.entities[0].id, "adam");
             assert.strictEqual(result.entities[1].id, "eve");
+            // 特性データが正しく含まれていることを確認
+            assert.strictEqual(result.entities[0].behavior, "curious");
+            assert.strictEqual(result.entities[0].sociality, "leader");
+            assert.strictEqual(result.entities[0].lifespan, 1500);
+            assert.strictEqual(result.entities[1].behavior, "passive");
+            assert.strictEqual(result.entities[1].sociality, "herd");
+            assert.strictEqual(result.entities[1].lifespan, 1500);
         });
 
         // 5.2.2 テスト
@@ -154,13 +167,27 @@ class BreedingPairExtractorTests {
                         id: "adam",
                         gender: "male",
                         dna: ["A", "C", "G", "T", "A", "C", "G", "T", "A", "C", "G", "T", "A", "C", "G", "T"],
-                        position: { x: 25.40065086453803, y: 66, z: 10.78052563380174 }
+                        position: { x: 25.40065086453803, y: 66, z: 10.78052563380174 },
+                        health: 20.0,
+                        age: 0,
+                        entity_type: "entity.minecraft.villager",
+                        max_health: 20.0,
+                        behavior: "curious",
+                        sociality: "leader",
+                        lifespan: 1500
                     },
                     {
                         id: "eve",
                         gender: "female",
                         dna: ["T", "G", "C", "A", "T", "G", "C", "A", "T", "G", "C", "A", "T", "G", "C", "A"],
-                        position: { x: 29.741067650081316, y: 69, z: 29.268909836088433 }
+                        position: { x: 29.741067650081316, y: 69, z: 29.268909836088433 },
+                        health: 20.0,
+                        age: 0,
+                        entity_type: "entity.minecraft.villager",
+                        max_health: 20.0,
+                        behavior: "passive",
+                        sociality: "herd",
+                        lifespan: 1500
                     }
                 ]
             };
@@ -172,6 +199,16 @@ class BreedingPairExtractorTests {
             assert.strictEqual(result.uniquePairs[0].male.id, "adam");
             assert.strictEqual(result.uniquePairs[0].female.id, "eve");
             assert(result.uniquePairs[0].distance > 18 && result.uniquePairs[0].distance < 25);
+            
+            // 特性データが正しく取得されていることを確認
+            const adamPair = result.uniquePairs[0].male;
+            const evePair = result.uniquePairs[0].female;
+            assert.strictEqual(adamPair.behavior, "curious");
+            assert.strictEqual(adamPair.sociality, "leader");
+            assert.strictEqual(adamPair.lifespan, 1500);
+            assert.strictEqual(evePair.behavior, "passive");
+            assert.strictEqual(evePair.sociality, "herd");
+            assert.strictEqual(evePair.lifespan, 1500);
         });
 
         // テスト結果サマリー

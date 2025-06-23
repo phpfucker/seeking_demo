@@ -130,7 +130,11 @@ class StatusDataReader {
             health: entityData.health || 0.0,
             age: entityData.age || 0,
             entity_type: entityData.entity_type || 'unknown',
-            max_health: entityData.max_health || entityData.health || 0.0
+            max_health: entityData.max_health || entityData.health || 0.0,
+            // 5.1.2拡張: 特性データの追加
+            behavior: entityData.behavior || null,
+            sociality: entityData.sociality || null,
+            lifespan: entityData.lifespan || null
         };
     }
 
