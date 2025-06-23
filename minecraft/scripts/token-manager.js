@@ -17,11 +17,11 @@ class TokenManager {
     /**
      * TokenManagerコンストラクタ
      * 
-     * @param {string} model - 使用するGPTモデル名（デフォルト: 'gpt-3.5-turbo'）
+     * @param {string} model - 使用するGPTモデル名（デフォルト: 'gpt-4o-mini'）
      * @param {number} tokenLimit - トークン制限値（デフォルト: 3000）
      * @param {number} userGuidanceLimit - 管理者指示のトークン制限（デフォルト: 500）
      */
-    constructor(model = 'gpt-3.5-turbo', tokenLimit = 3000, userGuidanceLimit = 500) {
+    constructor(model = 'gpt-4o-mini', tokenLimit = 3000, userGuidanceLimit = 500) {
         // tiktokenエンコーディングの初期化
         try {
             this.encoding = encoding_for_model(model);

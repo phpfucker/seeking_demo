@@ -137,59 +137,14 @@
         - [x] 5.3.3.2 正確なトークン計算機能の実装（`tiktoken.encodingForModel("gpt-3.5-turbo")`使用）
         - [x] 5.3.3.3 トークン制限値の設定（実際の送信上限：3,000トークン）
         - [x] 5.3.3.4 動的ペア数調整機能（距離近い順でペア優先選択、上限超過時の後方ペア削除）
-    - [ ] 5.3.4 **管理者介入システム（コマンド方式）**
-        - [ ] 5.3.4.1 Minecraftコマンド機能の実装（`/ailife set_guidance`, `/ailife clear_guidance`, `/ailife show_guidance`）
-        - [ ] 5.3.4.2 コマンド設定の永続化（`current_guidance.txt`ファイルへの保存）
-        - [ ] 5.3.4.3 指示内容のトークン計算と制限チェック（最大500文字）
-        - [ ] 5.3.4.4 Node.js側での指示内容読み込み機能
-            - [ ] 5.3.4.4.1 `current_guidance.txt`の読み込み処理の実装
-            - [ ] 5.3.4.4.2 AIリクエストジェネレーターでの指示内容の統合
-            - [ ] 5.3.4.4.3 ファイルが存在しない場合や空の場合のハンドリング
-    - [ ] 5.3.5 **ChatGPT APIリクエストJSONの構築**
-        - [ ] 5.3.5.1 管理者指示、親ペア情報、エンティティリスト、遺伝ルールを含むリクエストJSON生成
-            - **最終リクエスト形式**：
-            ```json
-            {
-              "user_guidance": "管理者からの指示",
-              "breeding_pairs": [{male: {...}, female: {...}}],
-              "available_entities": ["villager", "witch", ...],
-              "genetics_rules": {
-                "crossover_rate": 0.7,
-                "mutation_rate": 0.1,
-                "generation": 2
-              }
-            }
-            ```
-        - [ ] 5.3.5.2 トークン上限チェック機能（ペア数動的調整）
-        - [ ] 5.3.5.3 リクエスト送信前のJSON構文バリデーション
-    - [ ] 5.3.6 **ChatGPT APIとの通信処理**
-        - [ ] 5.3.6.1 ChatGPT APIへのHTTPリクエスト送信機能
-        - [ ] 5.3.6.2 APIレスポンスの受信とエラーハンドリング
-        - [ ] 5.3.6.3 レスポンスJSONの構文チェックとパース処理
-        - [ ] 5.3.6.4 期待される子供エンティティデータ構造の検証
-            - **期待レスポンス形式**：
-            ```json
-            {
-              "breeding_results": [
-                {
-                  "children": [
-                    {
-                      "entity_id": "child_001",
-                      "name": "AI生成名",
-                      "gender": "male/female",
-                      "parent_ids": ["adam", "eve"],
-                      "generation": 2,
-                      "dna": ["A","T","G","C",...],
-                      "selected_entity": "villager",
-                      "behavior": "curious",
-                      "sociality": "leader",
-                      "lifespan": 1200
-                    }
-                  ]
-                }
-              ]
-            }
-            ```
+    - [x] 5.3.4 **管理者介入システム（コマンド方式）**
+        - [x] 5.3.4.1 Minecraftコマンド機能の実装（`/ailife set_guidance`, `/ailife clear_guidance`, `/ailife show_guidance`）
+        - [x] 5.3.4.2 コマンド設定の永続化（`current_guidance.txt`ファイルへの保存）
+        - [x] 5.3.4.3 指示内容のトークン計算と制限チェック（最大500文字）
+        - [x] 5.3.4.4 Node.js側での指示内容読み込み機能
+            - [x] 5.3.4.4.1 `current_guidance.txt`の読み込み処理の実装
+            - [x] 5.3.4.4.2 AIリクエストジェネレーターでの指示内容の統合
+            - [x] 5.3.4.4.3 ファイルが存在しない場合や空の場合のハンドリング
 
 - [ ] **5.4 ChatGPTからのレスポンス処理**
     - [ ] 5.4.1 ChatGPT APIからのレスポンスを受信し、その内容をパースする機能の実装

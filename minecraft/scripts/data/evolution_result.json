@@ -1,0 +1,40 @@
+{
+  "breeding_results": [
+    {
+      "children": [
+        {
+          "entity_id": "child_001",
+          "name": "Curious Eve",
+          "gender": "female",
+          "parent_ids": [
+            "adam",
+            "eve"
+          ],
+          "generation": 2,
+          "dna": [
+            "A",
+            "T",
+            "G",
+            "C",
+            "A",
+            "C",
+            "G",
+            "T",
+            "A",
+            "G",
+            "C",
+            "T",
+            "A",
+            "C",
+            "G",
+            "A"
+          ],
+          "selected_entity": "villager",
+          "behavior": "curious",
+          "sociality": "leader",
+          "lifespan": 1500
+        }
+      ]
+    }
+  ]
+}
