@@ -1,170 +1,38 @@
 {
+  "user_guidance": "テスト用の管理者指示：好奇心旺盛で社交的な子孫を生成してください。",
   "breeding_pairs": [
     {
       "male": {
-        "id": "male_0",
-        "gender": "male",
+        "id": "adam",
+        "dna": ["A", "C", "G", "T", "A", "C", "G", "T", "A", "C", "G", "T", "A", "C", "G", "T"],
         "behavior": "curious",
         "sociality": "leader",
         "lifespan": 1500
       },
       "female": {
-        "id": "female_0",
-        "gender": "female",
+        "id": "eve",
+        "dna": ["T", "G", "C", "A", "T", "G", "C", "A", "T", "G", "C", "A", "T", "G", "C", "A"],
         "behavior": "passive",
         "sociality": "herd",
         "lifespan": 1500
-      },
-      "distance": 1
-    },
-    {
-      "male": {
-        "id": "male_1",
-        "gender": "male",
-        "behavior": "curious",
-        "sociality": "leader",
-        "lifespan": 1500
-      },
-      "female": {
-        "id": "female_1",
-        "gender": "female",
-        "behavior": "passive",
-        "sociality": "herd",
-        "lifespan": 1500
-      },
-      "distance": 1
-    },
-    {
-      "male": {
-        "id": "male_2",
-        "gender": "male",
-        "behavior": "curious",
-        "sociality": "leader",
-        "lifespan": 1500
-      },
-      "female": {
-        "id": "female_2",
-        "gender": "female",
-        "behavior": "passive",
-        "sociality": "herd",
-        "lifespan": 1500
-      },
-      "distance": 1
-    },
-    {
-      "male": {
-        "id": "male_3",
-        "gender": "male",
-        "behavior": "curious",
-        "sociality": "leader",
-        "lifespan": 1500
-      },
-      "female": {
-        "id": "female_3",
-        "gender": "female",
-        "behavior": "passive",
-        "sociality": "herd",
-        "lifespan": 1500
-      },
-      "distance": 1
-    },
-    {
-      "male": {
-        "id": "male_4",
-        "gender": "male",
-        "behavior": "curious",
-        "sociality": "leader",
-        "lifespan": 1500
-      },
-      "female": {
-        "id": "female_4",
-        "gender": "female",
-        "behavior": "passive",
-        "sociality": "herd",
-        "lifespan": 1500
-      },
-      "distance": 1
+      }
     }
   ],
   "available_entities": [
     "villager",
-    "iron_golem",
     "witch",
-    "vindicator",
-    "evoker",
-    "pillager",
-    "ravager",
-    "creeper",
     "zombie",
-    "husk",
-    "zombie_villager",
-    "skeleton",
-    "wither_skeleton",
-    "illusioner",
     "pig",
-    "wandering_trader",
-    "phantom",
-    "blaze",
-    "enderman",
-    "guardian",
-    "elder_guardian",
-    "spider",
-    "cave_spider",
-    "silverfish",
-    "vex",
-    "drowned",
-    "stray",
     "sheep",
     "cow",
-    "mooshroom",
     "chicken",
-    "dolphin",
-    "turtle",
-    "llama",
-    "trader_llama",
-    "fox",
-    "giant",
-    "horse",
-    "skeleton_horse",
-    "zombie_horse",
-    "donkey",
-    "mule",
     "wolf",
-    "ocelot",
     "cat",
-    "parrot",
-    "piglin",
-    "piglin_brute",
-    "zombified_piglin",
-    "hoglin",
-    "zoglin",
-    "ghast",
-    "strider",
-    "magma_cube",
-    "axolotl",
-    "slime",
-    "frog",
-    "tadpole",
-    "cod",
-    "salmon",
-    "tropical_fish",
-    "pufferfish",
-    "endermite",
-    "shulker",
-    "goat",
-    "allay",
-    "bee",
-    "sniffer",
-    "bogged"
+    "horse"
   ],
   "genetics_rules": {
     "crossover_rate": 0.7,
     "mutation_rate": 0.1,
     "generation": 2
-  },
-  "metadata": {
-    "total_pairs": 5,
-    "entity_types_count": 69,
-    "generated_at": "2025-06-23T07:48:28.018Z"
   }
-}
+} 
