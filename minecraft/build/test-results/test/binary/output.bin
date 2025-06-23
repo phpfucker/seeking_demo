@@ -1,5 +1,5 @@
-j2025-06-23 19:00:41,901 Test worker WARN Advanced terminal features are not available in this environment
-�[19:00:45] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
+j2025-06-23 23:56:42,806 Test worker WARN Advanced terminal features are not available in this environment
+�[23:56:43] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
 njava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onServerStarting_ServerStartingEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -115,7 +115,7 @@
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:45] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
+�[23:56:43] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
 rjava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onRegisterCommands_RegisterCommandsEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -231,11 +231,11 @@
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:46] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
+�[23:56:43] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
 dテスト環境セットアップ完了: /Users/motosue/Documents/seekin_demo/minecraft/test-config
 Kリファクタリング: 依存性注入が正常に機能しています
 +テスト環境クリーンアップ完了
-�[19:00:46] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
+�[23:56:43] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
 njava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onServerStarting_ServerStartingEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -351,7 +351,7 @@
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:46] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
+�[23:56:43] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
 rjava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onRegisterCommands_RegisterCommandsEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -467,11 +467,11 @@
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:46] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
+�[23:56:43] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
 dテスト環境セットアップ完了: /Users/motosue/Documents/seekin_demo/minecraft/test-config
 cリファクタリング: 全サービスクラスが正常にインスタンス化されました
 +テスト環境クリーンアップ完了
-�[19:00:46] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
+�[23:56:43] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
 njava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onServerStarting_ServerStartingEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -587,7 +587,7 @@
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:46] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
+�[23:56:43] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
 rjava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onRegisterCommands_RegisterCommandsEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -703,13 +703,13 @@
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:47] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
+�[23:56:43] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
 dテスト環境セットアップ完了: /Users/motosue/Documents/seekin_demo/minecraft/test-config
-�[19:00:47] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
-x[19:00:47] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
+�[23:56:43] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
+x[23:56:43] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
 z5.1.1.1 テスト完了: リファクタリング後もエンティティ情報取得機能が正常に動作しました
 +テスト環境クリーンアップ完了
-�[19:00:47] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
+�[23:56:44] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
 njava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onServerStarting_ServerStartingEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -825,7 +825,7 @@
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:47] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
+�[23:56:44] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
 rjava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onRegisterCommands_RegisterCommandsEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -941,18 +941,18 @@
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:47] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
 dテスト環境セットアップ完了: /Users/motosue/Documents/seekin_demo/minecraft/test-config
-�[19:00:47] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] パブリックAPI: AI生命体エンティティ情報のJSON出力を開始します: test-config/current_entity_status.json
-�[19:00:47] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
-x[19:00:47] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
-�[19:00:47] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] JsonExportService: AI生命体エンティティ情報のJSON出力を開始します: test-config/current_entity_status.json
-�[19:00:47] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] JsonExportService: JSON出力完了: 0体のエンティティ情報を出力しました (test-config/current_entity_status.json)
-�[19:00:47] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] パブリックAPI: JSON出力完了: 0体のエンティティ情報を出力しました
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] パブリックAPI: AI生命体エンティティ情報のJSON出力を開始します: test-config/current_entity_status.json
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
+x[23:56:44] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] JsonExportService: AI生命体エンティティ情報のJSON出力を開始します: test-config/current_entity_status.json
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] JsonExportService: JSON出力完了: 0体のエンティティ情報を出力しました (test-config/current_entity_status.json)
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] パブリックAPI: JSON出力完了: 0体のエンティティ情報を出力しました
 JJSON構造妥当性チェック完了: 0体のエンティティデータ
 f5.1.1.2 テスト完了: リファクタリング後もJSON出力機能が正常に動作しました
 +テスト環境クリーンアップ完了
-�[19:00:47] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
+�[23:56:44] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
 njava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onServerStarting_ServerStartingEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -1068,7 +1068,7 @@
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:47] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
+�[23:56:44] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
 rjava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onRegisterCommands_RegisterCommandsEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -1184,31 +1184,31 @@
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:47] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
 dテスト環境セットアップ完了: /Users/motosue/Documents/seekin_demo/minecraft/test-config
-�[19:00:48] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
-x[19:00:48] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
-�[19:00:48] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
-x[19:00:48] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
-�[19:00:48] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
-x[19:00:48] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
-�[19:00:48] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
-x[19:00:48] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
-�[19:00:48] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
-x[19:00:48] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
-�[19:00:48] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
-x[19:00:48] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
-�[19:00:48] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
-x[19:00:48] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
-�[19:00:48] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
-x[19:00:48] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
-�[19:00:48] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
-x[19:00:48] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
-�[19:00:48] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
-x[19:00:48] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
-Tリファクタリング: パフォーマンステスト完了 - 実行時間: 21ms
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
+x[23:56:44] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
+x[23:56:44] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
+x[23:56:44] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
+x[23:56:44] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
+x[23:56:44] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
+x[23:56:44] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
+x[23:56:44] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
+x[23:56:44] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
+x[23:56:44] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
+x[23:56:44] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
+Tリファクタリング: パフォーマンステスト完了 - 実行時間: 28ms
 +テスト環境クリーンアップ完了
-	�[19:00:48] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
+	�[23:56:44] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
 	njava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onServerStarting_ServerStartingEvent
 	\	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 	_	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -1324,7 +1324,7 @@
 	�	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 	w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 	x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-	�[19:00:48] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
+	�[23:56:44] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
 	rjava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onRegisterCommands_RegisterCommandsEvent
 	\	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 	_	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -1440,16 +1440,16 @@
 	�	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 	w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 	x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-	�[19:00:48] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
+	�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
 	dテスト環境セットアップ完了: /Users/motosue/Documents/seekin_demo/minecraft/test-config
-	�[19:00:48] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
-	x[19:00:48] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
-	�[19:00:48] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] JsonExportService: AI生命体エンティティ情報のJSON出力を開始します: test-config/current_entity_status.json
-	�[19:00:48] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] JsonExportService: JSON出力完了: 0体のエンティティ情報を出力しました (test-config/current_entity_status.json)
+	�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
+	x[23:56:44] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
+	�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] JsonExportService: AI生命体エンティティ情報のJSON出力を開始します: test-config/current_entity_status.json
+	�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] JsonExportService: JSON出力完了: 0体のエンティティ情報を出力しました (test-config/current_entity_status.json)
 	Pリファクタリング: JsonExportServiceが独立して動作しています
 	+テスト環境クリーンアップ完了
 
-�[19:00:48] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
+�[23:56:44] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
 
 njava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onServerStarting_ServerStartingEvent
 
@@ -1681,7 +1681,7 @@ w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorker
 
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
 
-�[19:00:48] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
+�[23:56:44] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
 
 rjava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onRegisterCommands_RegisterCommandsEvent
 
@@ -1913,18 +1913,18 @@ w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorker
 
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
 
-�[19:00:48] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
 
 dテスト環境セットアップ完了: /Users/motosue/Documents/seekin_demo/minecraft/test-config
 
-�[19:00:48] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
 
-x[19:00:48] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
+x[23:56:44] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
 
 Pリファクタリング: EntityInfoServiceが独立して動作しています
 
 +テスト環境クリーンアップ完了
-�[19:00:48] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
+�[23:56:44] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
 njava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onServerStarting_ServerStartingEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -2040,7 +2040,7 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:48] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
+�[23:56:44] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
 rjava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onRegisterCommands_RegisterCommandsEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -2156,9 +2156,9 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:48] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
 dテスト環境セットアップ完了: /Users/motosue/Documents/seekin_demo/minecraft/test-config
-�[19:00:48] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
+�[23:56:44] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
 njava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onServerStarting_ServerStartingEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -2270,7 +2270,7 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:48] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
+�[23:56:44] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
 rjava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onRegisterCommands_RegisterCommandsEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -2382,8 +2382,8 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:48] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
-�[19:00:48] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
+�[23:56:44] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
 njava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onServerStarting_ServerStartingEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -2495,7 +2495,7 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:49] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
+�[23:56:44] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
 rjava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onRegisterCommands_RegisterCommandsEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -2607,8 +2607,8 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:49] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
-�[19:00:49] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
+�[23:56:44] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
 njava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onServerStarting_ServerStartingEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -2720,7 +2720,7 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:49] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
+�[23:56:44] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
 rjava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onRegisterCommands_RegisterCommandsEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -2832,8 +2832,8 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:49] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
-�[19:00:49] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
+�[23:56:44] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
 njava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onServerStarting_ServerStartingEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -2945,7 +2945,7 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:49] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
+�[23:56:44] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
 rjava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onRegisterCommands_RegisterCommandsEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -3057,8 +3057,8 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:49] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
-�[19:00:49] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
+�[23:56:44] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
 njava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onServerStarting_ServerStartingEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -3170,7 +3170,7 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:49] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
+�[23:56:44] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
 rjava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onRegisterCommands_RegisterCommandsEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -3282,8 +3282,8 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:49] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
-�[19:00:49] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
+�[23:56:44] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
+�[23:56:44] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
 njava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onServerStarting_ServerStartingEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -3395,7 +3395,7 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:49] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
+�[23:56:45] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
 rjava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onRegisterCommands_RegisterCommandsEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -3507,8 +3507,8 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:49] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
-�[19:00:49] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
+�[23:56:45] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
+�[23:56:45] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
 njava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onServerStarting_ServerStartingEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -3620,7 +3620,7 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:49] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
+�[23:56:45] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
 rjava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onRegisterCommands_RegisterCommandsEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -3732,8 +3732,8 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:49] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
-�[19:00:49] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
+�[23:56:45] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
+�[23:56:45] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
 njava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onServerStarting_ServerStartingEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -3845,7 +3845,7 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:49] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
+�[23:56:45] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
 rjava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onRegisterCommands_RegisterCommandsEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -3957,8 +3957,8 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:49] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
-�[19:00:49] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
+�[23:56:45] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
+�[23:56:45] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
 njava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onServerStarting_ServerStartingEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -4070,7 +4070,7 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:49] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
+�[23:56:45] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
 rjava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onRegisterCommands_RegisterCommandsEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -4182,8 +4182,8 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:49] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
-�[19:00:49] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
+�[23:56:45] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
+�[23:56:45] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
 njava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onServerStarting_ServerStartingEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -4295,7 +4295,7 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:49] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
+�[23:56:45] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
 rjava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onRegisterCommands_RegisterCommandsEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -4407,10 +4407,10 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:49] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
-Rリファクタリング: メモリ効率テスト完了 - 使用メモリ: 286KB
+�[23:56:45] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
+Rリファクタリング: メモリ効率テスト完了 - 使用メモリ: 282KB
 +テスト環境クリーンアップ完了
-�[19:00:49] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
+�[23:56:45] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
 njava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onServerStarting_ServerStartingEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -4526,7 +4526,7 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:50] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
+�[23:56:45] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
 rjava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onRegisterCommands_RegisterCommandsEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -4642,11 +4642,11 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:50] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
+�[23:56:45] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
 dテスト環境セットアップ完了: /Users/motosue/Documents/seekin_demo/minecraft/test-config
 h5.1.1.3 テスト完了: リファクタリング後もコマンド機能が正常に動作しました
 +テスト環境クリーンアップ完了
-�[19:00:50] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
+�[23:56:45] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.server.ServerStartingEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onServerStarting(net.minecraftforge.event.server.ServerStartingEvent)
 njava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onServerStarting_ServerStartingEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -4762,7 +4762,7 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:50] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
+�[23:56:45] [Test worker/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Error registering event handler: class net.minecraftforge.event.RegisterCommandsEvent public void jp.seekin.minecraft.ailife.AiLifeMod.onRegisterCommands(net.minecraftforge.event.RegisterCommandsEvent)
 rjava.lang.ClassNotFoundException: jp.seekin.minecraft.ailife.__AiLifeMod_onRegisterCommands_RegisterCommandsEvent
 \	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
 _	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
@@ -4878,13 +4878,13 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 �	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:66) ~[?:?] {}
 w	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69) ~[gradle-worker.jar:?] {}
 x	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74) ~[gradle-worker.jar:?] {}
-�[19:00:50] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
+�[23:56:45] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] AI生命体MODが初期化されました（リファクタリング済み）
 dテスト環境セットアップ完了: /Users/motosue/Documents/seekin_demo/minecraft/test-config
-�[19:00:50] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] executeCompleteEntityExportWorkflow()は非推奨です。/ailife export_statusコマンドを使用してください。
-�[19:00:50] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
-x[19:00:50] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
-�[19:00:50] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] JsonExportService: AI生命体エンティティ情報のJSON出力を開始します: test-config/current_entity_status.json
-�[19:00:50] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] JsonExportService: JSON出力完了: 0体のエンティティ情報を出力しました (test-config/current_entity_status.json)
+�[23:56:45] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] executeCompleteEntityExportWorkflow()は非推奨です。/ailife export_statusコマンドを使用してください。
+�[23:56:45] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] EntityInfoService: AI生命体エンティティ情報取得を開始します
+x[23:56:45] [Test worker/WARN] [jp.se.mi.ai.AiLifeMod/]: [AiLife] サーバーインスタンスが取得できません
+�[23:56:45] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] JsonExportService: AI生命体エンティティ情報のJSON出力を開始します: test-config/current_entity_status.json
+�[23:56:45] [Test worker/INFO] [jp.se.mi.ai.AiLifeMod/]: [AiLife] JsonExportService: JSON出力完了: 0体のエンティティ情報を出力しました (test-config/current_entity_status.json)
 JJSON構造妥当性チェック完了: 0体のエンティティデータ
 o5.1.1 統合テスト完了: リファクタリング後も全ワークフローが正常に動作しました
 +テスト環境クリーンアップ完了
@@ -4915,7 +4915,6 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
  %0adam/eveデータ構造の妥当性検証完了
  %=EntitySpawnManagerテスト環境クリーンアップ完了
  &|EntitySpawnManagerテスト環境セットアップ完了: /Users/motosue/Documents/seekin_demo/minecraft/test-config-spawn
- &Vexpected: generated_entities.json が存在しない場合の適切な処理を確認
  &JJSONファイル不存在時のエラーハンドリングテスト完了
  &=EntitySpawnManagerテスト環境クリーンアップ完了
 ()%文字列処理ロジック確認：
@@ -4924,10 +4923,10 @@ Pリファクタリング: EntityInfoServiceが独立して動作しています
 ()'- 大文字小文字変換処理確認
 ()!- 部分一致検索処理確認
 (/$null/空文字処理テスト完了
-21�[19:00:51] [Test worker/INFO] [TestLogger/]: [AiLife] JsonExportService: AI生命体エンティティ情報のJSON出力を開始します: test-json-export/test_export.json
-21�[19:00:51] [Test worker/INFO] [TestLogger/]: [AiLife] JsonExportService: JSON出力完了: 1体のエンティティ情報を出力しました (test-json-export/test_export.json)
-23�[19:00:51] [Test worker/INFO] [TestLogger/]: [AiLife] JsonExportService: AI生命体エンティティ情報のJSON出力を開始します: test-json-export/test_export.json
-23�[19:00:51] [Test worker/INFO] [TestLogger/]: [AiLife] JsonExportService: JSON出力完了: 0体のエンティティ情報を出力しました (test-json-export/test_export.json)
+21�[23:56:45] [Test worker/INFO] [TestLogger/]: [AiLife] JsonExportService: AI生命体エンティティ情報のJSON出力を開始します: test-json-export/test_export.json
+21�[23:56:45] [Test worker/INFO] [TestLogger/]: [AiLife] JsonExportService: JSON出力完了: 1体のエンティティ情報を出力しました (test-json-export/test_export.json)
+23�[23:56:45] [Test worker/INFO] [TestLogger/]: [AiLife] JsonExportService: AI生命体エンティティ情報のJSON出力を開始します: test-json-export/test_export.json
+23�[23:56:45] [Test worker/INFO] [TestLogger/]: [AiLife] JsonExportService: JSON出力完了: 0体のエンティティ情報を出力しました (test-json-export/test_export.json)
 54JSONファイル構造テスト環境セットアップ完了: /Users/motosue/Documents/seekin_demo/minecraft/test-config-json
 541DNA配列フォーマット検証テスト完了
 54AJSONファイル構造テスト環境クリーンアップ完了

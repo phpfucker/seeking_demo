@@ -95,8 +95,8 @@ public class EntitySpawnManager {
                     }
 
                     // Step 5: 重複チェック（既存エンティティの確認）
-                    if (isEntityAlreadySpawned(world, id)) {
-                        logger.info("[AiLife] 個体 '{}' は既にスポーン済みのためスキップします", id);
+                    if (isEntityAlreadySpawned(world, name)) {
+                        logger.info("[AiLife] 個体 '{}' は既にスポーン済みのためスキップします", name);
                         skippedCount++;
                         continue;
                     }
@@ -134,13 +134,13 @@ public class EntitySpawnManager {
     }
     
     /**
-     * 指定されたIDのエンティティが既にワールドにスポーンされているかチェックする
+     * 指定された名前のエンティティが既にワールドにスポーンされているかチェックする
      * 
      * @param world 対象のサーバーワールド
-     * @param entityId チェックする個体ID
+     * @param entityName チェックする個体名
      * @return 既にスポーン済みの場合true、そうでなければfalse
      */
-    private boolean isEntityAlreadySpawned(ServerLevel world, String entityId) {
+    private boolean isEntityAlreadySpawned(ServerLevel world, String entityName) {
         // ワールド全体をカバーするAABBを作成
         AABB searchArea = new AABB(-WORLD_BORDER, 0, -WORLD_BORDER, WORLD_BORDER, WORLD_HEIGHT, WORLD_BORDER);
         
@@ -149,7 +149,7 @@ public class EntitySpawnManager {
             if (entity == null || entity.getCustomName() == null) {
                 return false;
             }
-            return entity.getCustomName().getString().equals(entityId);
+            return entity.getCustomName().getString().equals(entityName);
         }).size() > 0;
     }
     
@@ -180,7 +180,7 @@ public class EntitySpawnManager {
 
             // エンティティの設定
             entity.setPos(Vec3.atBottomCenterOf(spawnPos));
-            entity.setCustomName(net.minecraft.network.chat.Component.literal(entityId));
+            entity.setCustomName(net.minecraft.network.chat.Component.literal(entityName));
             entity.setCustomNameVisible(true);
 
             // ワールドに追加

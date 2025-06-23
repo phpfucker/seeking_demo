@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="jp.seekin.minecraft.ailife.AiLifeCommandsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-23T10:00:34" hostname="cesare.local" time="0.694">
+<testsuite name="jp.seekin.minecraft.ailife.AiLifeCommandsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-23T14:56:40" hostname="cesare.local" time="0.295">
   <properties/>
-  <testcase name="testGuidanceCommands()" classname="jp.seekin.minecraft.ailife.AiLifeCommandsTest" time="0.694"/>
+  <testcase name="testGuidanceCommands()" classname="jp.seekin.minecraft.ailife.AiLifeCommandsTest" time="0.295"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

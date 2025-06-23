@@ -40,7 +40,7 @@ class AutoMinecraftEvolution {
                 timeout: parseInt(process.env.RCON_TIMEOUT) || 5000
             },
             schedulerEnabled: true,
-            cronPattern: process.env.EVOLUTION_CRON_PATTERN || '0 * * * *', // 1時間ごと
+            cronPattern: process.env.EVOLUTION_CRON_PATTERN || '0 3 * * *', // 毎日午前3時
             continueOnError: process.env.CONTINUE_ON_ERROR === 'true',
             skipRcon: skipRcon
         };

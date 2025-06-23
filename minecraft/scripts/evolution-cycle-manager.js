@@ -41,7 +41,7 @@ class EvolutionCycleManager {
                 ? '/opt/minecraft_forge_server/logs/evolution-cycle.log'
                 : './logs/evolution-cycle.log',
             schedulerEnabled: true,
-            cronPattern: '0 * * * *', // 1時間ごと
+            cronPattern: '0 3 * * *', // 毎日午前3時
             continueOnError: false,
             rconConfig: {}
         };

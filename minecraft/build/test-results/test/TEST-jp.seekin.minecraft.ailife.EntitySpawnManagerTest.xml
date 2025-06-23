@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="EntitySpawnManager 実装済み機能テスト" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-06-23T10:00:50" hostname="cesare.local" time="0.325">
+<testsuite name="EntitySpawnManager 実装済み機能テスト" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-06-23T14:56:45" hostname="cesare.local" time="0.126">
   <properties/>
-  <testcase name="実装済み: 性別データの妥当性確認" classname="jp.seekin.minecraft.ailife.EntitySpawnManagerTest" time="0.214"/>
-  <testcase name="実装済み: 正常なJSONファイル読み込みテスト" classname="jp.seekin.minecraft.ailife.EntitySpawnManagerTest" time="0.006"/>
-  <testcase name="実装済み: SpawnResult戻り値の確認" classname="jp.seekin.minecraft.ailife.EntitySpawnManagerTest" time="0.006"/>
-  <testcase name="実装済み: エンティティ必須フィールド検証" classname="jp.seekin.minecraft.ailife.EntitySpawnManagerTest" time="0.005"/>
-  <testcase name="実装済み: DNA配列の妥当性確認" classname="jp.seekin.minecraft.ailife.EntitySpawnManagerTest" time="0.005"/>
-  <testcase name="実装済み: adam/eveデータ構造の妥当性検証" classname="jp.seekin.minecraft.ailife.EntitySpawnManagerTest" time="0.005"/>
-  <testcase name="実装済み: JSONファイル不存在時のエラーハンドリング" classname="jp.seekin.minecraft.ailife.EntitySpawnManagerTest" time="0.068"/>
+  <testcase name="実装済み: 性別データの妥当性確認" classname="jp.seekin.minecraft.ailife.EntitySpawnManagerTest" time="0.029"/>
+  <testcase name="実装済み: 正常なJSONファイル読み込みテスト" classname="jp.seekin.minecraft.ailife.EntitySpawnManagerTest" time="0.02"/>
+  <testcase name="実装済み: SpawnResult戻り値の確認" classname="jp.seekin.minecraft.ailife.EntitySpawnManagerTest" time="0.023"/>
+  <testcase name="実装済み: エンティティ必須フィールド検証" classname="jp.seekin.minecraft.ailife.EntitySpawnManagerTest" time="0.007"/>
+  <testcase name="実装済み: DNA配列の妥当性確認" classname="jp.seekin.minecraft.ailife.EntitySpawnManagerTest" time="0.011"/>
+  <testcase name="実装済み: adam/eveデータ構造の妥当性検証" classname="jp.seekin.minecraft.ailife.EntitySpawnManagerTest" time="0.009"/>
+  <testcase name="実装済み: JSONファイル不存在時のエラーハンドリング" classname="jp.seekin.minecraft.ailife.EntitySpawnManagerTest" time="0.008"/>
   <system-out><![CDATA[EntitySpawnManagerテスト環境セットアップ完了: /Users/motosue/Documents/seekin_demo/minecraft/test-config-spawn
 adamの性別確認完了: male
 eveの性別確認完了: female
@@ -33,7 +33,6 @@ EntitySpawnManagerテスト環境セットアップ完了: /Users/motosue/Docume
 adam/eveデータ構造の妥当性検証完了
 EntitySpawnManagerテスト環境クリーンアップ完了
 EntitySpawnManagerテスト環境セットアップ完了: /Users/motosue/Documents/seekin_demo/minecraft/test-config-spawn
-expected: generated_entities.json が存在しない場合の適切な処理を確認
 JSONファイル不存在時のエラーハンドリングテスト完了
 EntitySpawnManagerテスト環境クリーンアップ完了
 ]]></system-out>

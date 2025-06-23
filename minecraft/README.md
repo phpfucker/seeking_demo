@@ -139,6 +139,60 @@ node scripts/test-5.6-integration.js
 
 ---
 
+## 毎日自動進化サイクル（Cron設定）
+
+### 概要
+毎日午前3時に進化サイクル実行 + サーバー再起動を自動で行います。新個体のスポーンが目的です。
+
+### セットアップ手順
+
+#### 1. スクリプトの配置
+```bash
+# VPSの適切な場所にスクリプトを配置
+cp scripts/daily-evolution.sh /opt/minecraft_forge_server/ailife-scripts/
+chmod +x /opt/minecraft_forge_server/ailife-scripts/daily-evolution.sh
+```
+
+#### 2. Cron設定
+```bash
+# crontabを編集
+sudo crontab -e
+
+# 以下の1行を追加（毎日午前3時実行）
+0 3 * * * /bin/bash /opt/minecraft_forge_server/ailife-scripts/daily-evolution.sh >> /opt/minecraft_forge_server/logs/daily-evolution.log 2>&1
+```
+
+#### 3. 動作確認
+```bash
+# 手動テスト実行
+sudo /opt/minecraft_forge_server/ailife-scripts/daily-evolution.sh
+
+# ログ確認
+tail -f /opt/minecraft_forge_server/logs/daily-evolution.log
+```
+
+### スクリプト内容
+`daily-evolution.sh`は以下を順次実行します：
+1. 進化サイクル実行（`node auto-minecraft-evolution.js --once`）
+2. Minecraftサーバー停止
+3. Minecraftサーバー起動（新個体スポーン）
+
+### ログファイル
+- `/opt/minecraft_forge_server/logs/daily-evolution.log` - 実行ログ
+- `/opt/minecraft_forge_server/logs/auto-evolution.log` - 進化サイクル詳細ログ
+
+### 設定変更
+実行時間を変更したい場合は、crontabの時間部分を編集：
+```bash
+# 例：毎日午前2時に変更
+0 2 * * * /bin/bash /opt/minecraft_forge_server/ailife-scripts/daily-evolution.sh >> /opt/minecraft_forge_server/logs/daily-evolution.log 2>&1
+
+# 例：12時間ごと（午前3時と午後3時）
+0 3,15 * * * /bin/bash /opt/minecraft_forge_server/ailife-scripts/daily-evolution.sh >> /opt/minecraft_forge_server/logs/daily-evolution.log 2>&1
+```
+
+---
+
 ## よくある質問
 
 - **Q. EMF/ETFはどこで入手？**
