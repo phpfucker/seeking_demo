@@ -85,6 +85,60 @@ source ~/.bashrc
 
 ---
 
+## 進化サイクル自動化システム（5.6）
+
+### 概要
+Minecraft AI生命体の進化サイクルを1時間ごとに自動実行するシステムです。
+
+### 主な構成
+- `scripts/auto-minecraft-evolution.js`（メイン自動化スクリプト）
+- `scripts/evolution-cycle-manager.js`（進化サイクル統合管理）
+- `scripts/rcon-manager.js`（RCON接続・コマンド実行）
+- `scripts/evolution-validator.js`（データバリデーション）
+- 既存の5つの進化系スクリプト（status-data-integration.js等）
+
+### 使い方
+
+#### 1. 環境変数設定
+```bash
+export NODE_ENV=production
+export RCON_HOST=localhost
+export RCON_PORT=25575
+export RCON_PASSWORD=your_rcon_password
+```
+
+#### 2. 自動進化サイクルの起動
+```bash
+node scripts/auto-minecraft-evolution.js
+```
+
+#### 3. オプション
+- `--test-cycle` : テストサイクルを実行してから開始
+- `--immediate` : 起動時に即座に進化サイクルを実行
+- `--status` : 現在の状態を表示
+- `--help` : ヘルプを表示
+
+#### 4. 統合テスト
+```bash
+node scripts/test-5.6-integration.js
+```
+
+### ログファイル
+- 開発: `./logs/auto-evolution.log`, `./logs/validation.log`
+- 本番: `/opt/minecraft_forge_server/logs/auto-evolution.log`, `/opt/minecraft_forge_server/logs/validation.log`
+
+### トラブルシュート
+- RCON接続失敗: パスワード・ポート・サーバー設定を確認
+- スクリプト実行失敗: ログファイルで詳細確認
+- バリデーション失敗: JSON構文・必須フィールド・型を確認
+
+### 開発・テスト
+- TDD推奨。各クラス・スクリプトにテストファイルあり
+- `npm test` でテスト実行
+- JSDocコメント・詳細は各スクリプト参照
+
+---
+
 ## よくある質問
 
 - **Q. EMF/ETFはどこで入手？**

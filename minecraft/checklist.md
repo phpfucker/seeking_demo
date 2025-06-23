@@ -167,11 +167,27 @@
         - [x] 5.5.2.3 出力確認テストの実装
 
 - [ ] **5.6 進化サイクルの自動化とバリデーション**
-    - [ ] 5.6.1 **Node.js側: Java MODコマンド実行とサイクル自動化**
-        - [ ] 5.6.1.1 Node.jsからMinecraft MODのコマンド（例: `/ailife export_status`）をリモート実行するメカニズム（RCONなど）を実装
-        - [ ] 5.6.1.2 上記5.1.2から5.5までの処理を、Java MODコマンド実行後に実行するように連結
-        - [ ] 5.6.1.3 1時間ごとにこのサイクルを自動実行するスケジューリング機能の実装
-    - [ ] 5.6.2 ChatGPTからのレスポンスを含む、生成される全てのJSONデータに対して、期待される構文と内容が正しいかを自動的にバリデーションする機能の実装
+    - [ ] 5.6.1 RCON設定の導入・設定
+        - [ ] Node.jsからMinecraftサーバーへコマンド送信するためのRCON設定を導入
+        - [ ] Minecraft MODコマンド（/ailife export_status）をNode.jsから実行する仕組みを構築
+    - [ ] 5.6.2 スクリプト実行順序の統合
+        - [ ] status-data-integration.jsを実行し、MOD出力のcurrent_entity_status.jsonをformatted_status_data.jsonに整形する
+        - [ ] breeding-pair-extractor.jsを実行し、formatted_status_data.jsonから繁殖ペアを抽出しbreeding_pairs_result.jsonを生成する
+        - [ ] ai-request-generator.jsを実行し、breeding_pairs_result.jsonとmodels_skins_animations.jsonからai_request_data.jsonを生成する
+        - [ ] chatgpt-evolution-processor.jsを実行し、ai_request_data.jsonをChatGPT APIに送りevolution_result.jsonを生成する
+        - [ ] evolution-result-integrator.jsを実行し、evolution_result.jsonをgenerated_entities.jsonに変換・上書きする
+    - [ ] 5.6.3 親スクリプトとスケジューリング
+        - [ ] 上記スクリプト群を順番に実行する親スクリプト（auto-minecraft-evolution.js等）を作成
+        - [ ] cronジョブまたはNode.jsスケジューラーで1時間ごとに親スクリプトを自動実行する設定
+    - [ ] 5.6.4 ログ管理とエラー処理
+        - [ ] 専用ログファイル（auto-evolution.log等）への標準出力・標準エラー記録機能を実装
+        - [ ] エラー発生時のログ記録とスクリプト続行・停止判定の仕組みを実装
+    - [ ] 5.6.5 運用準備とテスト
+        - [ ] 環境変数（OPENAI_API_KEY等）の設定確認
+        - [ ] VPS環境での動作テスト・デバッグ実行
+        - [ ] 本番運用開始
+    - [ ] 5.6.6 バリデーション機能
+        - [ ] ChatGPTからのレスポンスを含む、生成される全てのJSONデータに対して、期待される構文と内容が正しいかを自動的にバリデーションする機能の実装
 
 - [x] 各個体データには必ず性別（gender）情報を含める
 - [x] adamは'male'、eveは'female'として初期化
