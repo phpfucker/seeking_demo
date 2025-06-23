@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-06-23T12:00:00.000000000",
+  "entities": [
+    {
+      "entity_id": "adam",
+      "position": {
+        "x": 25.400650864538028,
+        "y": 66.0,
+        "z": 10.78052563380174
+      },
+      "gender": "male",
+      "dna": "ACGTACGTACGTACGT",
+      "behavior": "curious",
+      "sociality": "leader",
+      "lifespan": 1500,
+      "entity_type": "entity.minecraft.villager",
+      "health": 20.0,
+      "max_health": 20.0
+    },
+    {
+      "entity_id": "eve",
+      "position": {
+        "x": 29.741067650081316,
+        "y": 69.0,
+        "z": 29.268909836088433
+      },
+      "gender": "female",
+      "dna": "TGCATGCATGCATGCA",
+      "behavior": "passive",
+      "sociality": "herd",
+      "lifespan": 1500,
+      "entity_type": "entity.minecraft.villager",
+      "health": 20.0,
+      "max_health": 20.0
+    }
+  ]
+} 

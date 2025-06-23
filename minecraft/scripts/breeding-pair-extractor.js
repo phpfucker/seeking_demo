@@ -138,6 +138,90 @@ class BreedingPairExtractor {
     }
 
     /**
+     * 5.2.5.1 - current_entity_status.jsonから特性データを取得
+     * @returns {Object} エンティティID をキーとした特性データマップ
+     */
+    loadCharacteristicsData() {
+        const filePath = path.join(this.configDir, 'current_entity_status.json');
+        
+        if (!fs.existsSync(filePath)) {
+            console.warn(`Warning: Current entity status file not found: ${filePath}`);
+            return {};
+        }
+
+        try {
+            const fileContent = fs.readFileSync(filePath, 'utf8');
+            const entityStatusData = JSON.parse(fileContent);
+            
+            // データ構造を判定（配列またはentitiesプロパティを持つオブジェクト）
+            let entityStatusList;
+            if (Array.isArray(entityStatusData)) {
+                entityStatusList = entityStatusData;
+            } else if (entityStatusData.entities && Array.isArray(entityStatusData.entities)) {
+                entityStatusList = entityStatusData.entities;
+            } else {
+                console.warn('Warning: Invalid entity status data structure');
+                return {};
+            }
+            
+            // IDをキーとしたマップに変換
+            const characteristicsMap = {};
+            entityStatusList.forEach(entity => {
+                if (entity.entity_id) {
+                    characteristicsMap[entity.entity_id] = {
+                        behavior: entity.behavior || null,
+                        sociality: entity.sociality || null,
+                        lifespan: entity.lifespan || null
+                    };
+                }
+            });
+            
+            console.log(`✓ Loaded characteristics data for ${Object.keys(characteristicsMap).length} entities`);
+            return characteristicsMap;
+        } catch (error) {
+            console.warn(`Warning: Failed to load characteristics data: ${error.message}`);
+            return {};
+        }
+    }
+
+    /**
+     * 5.2.5.2 - ペアの親に詳細特性情報を補完
+     * @param {Array} pairs - 抽出されたペアリスト
+     * @param {Object} characteristicsMap - 特性データマップ
+     * @returns {Array} 特性データが補完されたペアリスト
+     */
+    enhancePairsWithCharacteristics(pairs, characteristicsMap) {
+        console.log('>> Enhancing pairs with characteristics data...');
+        
+        const enhancedPairs = pairs.map(pair => {
+            const enhancedPair = { ...pair };
+            
+            // Male の特性データ補完
+            const maleCharacteristics = characteristicsMap[pair.male.id] || {};
+            enhancedPair.male = {
+                ...pair.male,
+                behavior: maleCharacteristics.behavior || null,
+                sociality: maleCharacteristics.sociality || null,
+                lifespan: maleCharacteristics.lifespan || null
+            };
+            
+            // Female の特性データ補完
+            const femaleCharacteristics = characteristicsMap[pair.female.id] || {};
+            enhancedPair.female = {
+                ...pair.female,
+                behavior: femaleCharacteristics.behavior || null,
+                sociality: femaleCharacteristics.sociality || null,
+                lifespan: femaleCharacteristics.lifespan || null
+            };
+            
+            return enhancedPair;
+        });
+        
+        console.log(`✓ Enhanced ${enhancedPairs.length} pairs with characteristics data`);
+        return enhancedPairs;
+    }
+
+    /**
      * メイン処理関数 - 統合的な繁殖ペア処理
      * @param {Object} inputData - 入力データ（nullの場合はファイルから読み込み）
      * @param {Number} maxDistance - 繁殖可能最大距離
@@ -169,11 +253,18 @@ class BreedingPairExtractor {
         const uniquePairs = this.extractUniqueBreedingPairs(entities, maxDistance);
         console.log(`✓ Final unique pairs: ${uniquePairs.length}`);
 
+        // 5.2.5: 特性データ補完
+        console.log('>> Loading characteristics data for enhancement...');
+        const characteristicsMap = this.loadCharacteristicsData();
+        const enhancedPairs = this.enhancePairsWithCharacteristics(uniquePairs, characteristicsMap);
+
         // 結果の詳細出力
-        console.log('\n=== Extracted Pair Details ===');
-        uniquePairs.forEach((pair, index) => {
+        console.log('\n=== Enhanced Pair Details ===');
+        enhancedPairs.forEach((pair, index) => {
             console.log(`[${index + 1}] ${pair.male.id} (M) x ${pair.female.id} (F)`);
             console.log(`    Distance: ${pair.distance.toFixed(2)} blocks`);
+            console.log(`    Male: behavior=${pair.male.behavior}, sociality=${pair.male.sociality}, lifespan=${pair.male.lifespan}`);
+            console.log(`    Female: behavior=${pair.female.behavior}, sociality=${pair.female.sociality}, lifespan=${pair.female.lifespan}`);
             console.log(`    Male pos: (${pair.male.position.x.toFixed(2)}, ${pair.male.position.y}, ${pair.male.position.z.toFixed(2)})`);
             console.log(`    Female pos: (${pair.female.position.x.toFixed(2)}, ${pair.female.position.y}, ${pair.female.position.z.toFixed(2)})`);
         });
@@ -182,7 +273,7 @@ class BreedingPairExtractor {
             totalEntities: entities.length,
             totalPairs: genderValidPairs.length,
             distanceValidPairs: distanceValidPairs.length,
-            uniquePairs: uniquePairs,
+            uniquePairs: enhancedPairs,
             maxDistance: maxDistance,
             processedAt: new Date().toISOString()
         };
