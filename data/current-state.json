@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><path d='M200 150 Q170 130 150 130 Q130 130 100 150 Q70 170 70 200 Q70 230 100 250 Q130 270 150 270 Q170 270 200 250 Q230 230 250 200 Q270 170 270 150 Q270 130 250 130 Q230 130 200 150' fill='#ffdddd'/><ellipse cx='160' cy='180' rx='15' ry='10' fill='#ffffff'/><ellipse cx='240' cy='180' rx='15' ry='10' fill='#ffffff'/><circle cx='170' cy='190' r='5' fill='#000000'/><circle cx='230' cy='190' r='5' fill='#000000'/><path d='M180 240 Q190 260 200 240' fill='none' stroke='#000000'/><path d='M220 240 Q230 260 240 240' fill='none' stroke='#000000'/><polygon points='190,220 210,220 200,230' fill='#ffcccb'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffcccb'/><circle cx='200' cy='150' r='100' fill='#ff99cc'/><ellipse cx='150' cy='250' rx='50' ry='30' fill='#ff6699'/><path d='M175 300 L150 350 L225 350 Z' fill='#ff66cc'/><polygon points='130,180 160,180 145,210' fill='#ff3366'/><polyline points='120,230 90,250 120,270' fill='none' stroke='#ff0033' stroke-width='4'/><line x1='200' y1='270' x2='230' y2='250' stroke='#ff0033' stroke-width='4'/><circle cx='180' cy='120' r='10' fill='#ff0066'/></svg>",
     "report": {
-      "appearance": "イヴは、淡いピンク色の肌を持ち、華やかな赤色の髪をしています。柔らかな曲線で表現された女性の特徴を持ち、優雅さと優しさを放つ姿となっています。",
-      "reason": "進化の過程で、イヴは内面の美しさと調和を象徴する新しい特徴を獲得しました。この進化は、イヴがさらなる知恵と創造性を持つことを示しています。",
-      "thought": "『美と知恵の融合』"
+      "appearance": "イヴは、ピンク色の肌を持ち、豊かな曲線と柔らかい特徴を持った女性の姿をしています。全身には様々な模様や複雑なパーツが施され、優雅で妖艶な雰囲気を醸し出しています。",
+      "reason": "生態系の変化により、イヴはこれまでにない美しさと複雑さを持つ進化を遂げました。環境が提供する刺激により、生命体の多様性が増加し、新たな特徴を獲得する必要性が生じたためです。",
+      "thought": "『美しさと複雑さの融合』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#87ceeb'/><polygon points='200,50 250,100 150,100' fill='#87ceeb'/><polygon points='150,100 250,100 200,50' fill='#add8e6'/><path d='M200 150 Q180 130 150 130 Q120 130 100 150 Q80 170 80 200 Q80 230 100 250 Q120 270 150 270 Q180 270 200 250 Q220 230 220 200 Q220 170 200 150' fill='#b0e0e6'/><ellipse cx='190' cy='180' rx='15' ry='10' fill='#ffffff'/><ellipse cx='210' cy='180' rx='15' ry='10' fill='#ffffff'/><circle cx='180' cy='190' r='5' fill='#000000'/><circle cx='220' cy='190' r='5' fill='#000000'/><polygon points='190,220 210,220 200,230' fill='#87ceeb'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#87cefa'/><circle cx='200' cy='150' r='100' fill='#4682b4'/><ellipse cx='150' cy='250' rx='50' ry='30' fill='#4169e1'/><path d='M175 300 L150 350 L225 350 Z' fill='#1e90ff'/><polygon points='130,180 160,180 145,210' fill='#6495ed'/><polyline points='120,230 90,250 120,270' fill='none' stroke='#87ceeb' stroke-width='4'/><line x1='200' y1='270' x2='230' y2='250' stroke='#87cefa' stroke-width='4'/><circle cx='220' cy='120' r='10' fill='#87ceeb'/></svg>",
     "report": {
-      "appearance": "アダムは、穏やかな青色の肌を持ち、空と海を思わせる色彩で描かれています。頑強な体つきと男性らしい特徴を持ち、力強さと安定感を放つ姿となっています。",
-      "reason": "進化の過程で、アダムは内面の平静と力強さを表す新たな特性を獲得しました。この進化は、アダムがさらなる勇気と責任感を持つことを示しています。",
-      "thought": "『内なる静寂と力』"
+      "appearance": "アダムは、青色の肌を持ち、力強い体つきと男性的な特徴を持った姿をしています。多彩な模様や複雑なパーツで装飾され、力強さと知性を併せ持つ外見です。",
+      "reason": "繁殖競争や獲得した知識の伝承、環境への順応のため、アダムはより洗練された外観と複雑な特徴を発展させました。進化は生存と繁栄のために変化し続ける必要があるからです。",
+      "thought": "『知性と力強さの融合』"
     },
     "name": "アダム",
     "gender": "男性"
