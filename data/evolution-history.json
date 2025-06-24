@@ -4007,5 +4007,28 @@
       "gender": "男性"
     },
     "timestamp": 1750746312376
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradA)' /><circle cx='200' cy='140' r='80' fill='white' /><circle cx='160' cy='120' r='15' fill='black' /><circle cx='240' cy='120' r='15' fill='black' /><path d='M150 200 C180 260, 220 260, 250 200' stroke='black' stroke-width='2' fill='transparent' /><path d='M150 300 C170 320, 230 320, 250 300' stroke='black' stroke-width='2' fill='transparent' /><path d='M150 300 Q200 330, 250 300' stroke='black' stroke-width='2' fill='transparent' /><path d='M150 300 Q200 350, 250 300' stroke='black' stroke-width='2' fill='transparent' /><rect x='170' y='250' width='60' height='20' fill='black' /><rect x='175' y='270' width='50' height='10' fill='black' /><rect x='165' y='150' width='10' height='50' fill='black' /><rect x='225' y='150' width='10' height='50' fill='black' /><path d='M200 240 Q180 230, 160 240' stroke='black' stroke-width='2' fill='transparent' /><path d='M200 240 Q220 230, 240 240' stroke='black' stroke-width='2' fill='transparent' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと赤のグラデーションを持つ柔らかな肌を持ち、大きな白い目と優しい表情が特徴です。長い髪と角があり、胴体には複数の模様が彩られています。四肢は幾何学的な形状を持ち、全体的に優雅な雰囲気を醸し出しています。",
+        "reason": "イヴは、自然界において生存競争を勝ち抜くために、美しさと優雅さを強化する進化を遂げました。",
+        "thought": "『愛と調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(173,216,230);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradB)' /><ellipse cx='200' cy='140' rx='80' ry='60' fill='white' /><circle cx='180' cy='120' r='15' fill='black' /><circle cx='220' cy='120' r='15' fill='black' /><polygon points='150,200 250,200 200,270' fill='transparent' stroke='black' stroke-width='2' /><polygon points='150,300 250,300 200,260' fill='transparent' stroke='black' stroke-width='2' /><polygon points='150,300 250,300 200,330 250,360 150,360' fill='transparent' stroke='black' stroke-width='2' /><rect x='170' y='250' width='60' height='20' fill='black' /><rect x='175' y='270' width='50' height='10' fill='black' /><rect x='185' y='150' width='10' height='50' fill='black' /><rect x='155' y='150' width='10' height='50' fill='black' /><path d='M200 240 Q180 230, 160 240' stroke='black' stroke-width='2' fill='transparent' /><path d='M200 240 Q220 230, 240 240' stroke='black' stroke-width='2' fill='transparent' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色のグラデーションを持つ滑らかな肌を持ち、大きな白い目と穏やかな表情が特徴です。短い髪と角があり、胴体にも複数の模様が施されています。幾何学的な形状をした四肢があり、全体的に品格を感じさせる姿です。",
+        "reason": "アダムは、環境への順応と知性の向上を促すために、美しさと品格を持つ進化を遂げました。",
+        "thought": "『知性と調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750768462450
   }
 ]
