@@ -3961,5 +3961,28 @@
       "gender": "男性"
     },
     "timestamp": 1750702983068
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='180' rx='100' ry='130' fill='#ffb3d9' /><rect x='150' y='240' width='100' height='60' fill='#ff99cc' /><path d='M200 230 L180 260 L220 260 Z' fill='#ff85b7' /><polygon points='185,180 195,190 195,170' fill='#ff66a3' /><line x1='160' y1='160' x2='140' y2='140' stroke='#e60073' stroke-width='5' /><line x1='240' y1='160' x2='260' y2='140' stroke='#e60073' stroke-width='5' /><circle cx='180' cy='160' r='10' fill='#ff4d94' /><circle cx='220' cy='160' r='10' fill='#ff4d94' /><rect x='190' y='280' width='20' height='10' fill='#ff1a66' /><rect x='240' y='260' width='20' height='80' fill='#ff1a66' /></svg>",
+      "report": {
+        "appearance": "イヴは、薄紫色の体と淡いピンク色の楕円形の顔を持ち、ピンク色のドレスを着ています。頭には短いピンク色の角があり、手はピンク色の薄いピンク色のドレスに隠れています。足はピンク色の靴で覆われており、しっぽはなめらかなピンク色のしっぽです。",
+        "reason": "イヴは新たなる美しさと力を求めて進化しました。",
+        "thought": "『愛と美の力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='140' fill='#b3e0ff' /><ellipse cx='200' cy='190' rx='90' ry='120' fill='#80ccff' /><rect x='160' y='230' width='80' height='50' fill='#66b3ff' /><path d='M200 210 L180 230 L220 230 Z' fill='#4da6ff' /><polygon points='185,190 195,200 195,180' fill='#3385ff' /><line x1='170' y1='170' x2='150' y2='150' stroke='#0077ff' stroke-width='5' /><line x1='230' y1='170' x2='250' y2='150' stroke='#0077ff' stroke-width='5' /><circle cx='180' cy='170' r='8' fill='#005eff' /><circle cx='220' cy='170' r='8' fill='#005eff' /><rect x='195' y='255' width='20' height='8' fill='#0047b2' /><rect x='230' y='235' width='20' height='70' fill='#0047b2' /></svg>",
+      "report": {
+        "appearance": "アダムは、淡い青色の身体と楕円形の顔を持ち、青色の服を着ています。頭には短い青い角があり、手は青い袖に隠れています。足は青い靴で覆われており、しっぽは滑らかな青いしっぽです。",
+        "reason": "アダムは新たなる知識と勇気を求めて進化しました。",
+        "thought": "『知識と勇気の祝福』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750727948847
   }
 ]

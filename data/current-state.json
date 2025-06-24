@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='180' rx='100' ry='130' fill='#ffb3d9' /><rect x='150' y='240' width='100' height='60' fill='#ff99cc' /><path d='M200 230 L180 260 L220 260 Z' fill='#ff85b7' /><polygon points='185,180 195,190 195,170' fill='#ff66a3' /><line x1='160' y1='160' x2='140' y2='140' stroke='#e60073' stroke-width='5' /><line x1='240' y1='160' x2='260' y2='140' stroke='#e60073' stroke-width='5' /><circle cx='180' cy='160' r='10' fill='#ff4d94' /><circle cx='220' cy='160' r='10' fill='#ff4d94' /><rect x='190' y='280' width='20' height='10' fill='#ff1a66' /><rect x='240' y='260' width='20' height='80' fill='#ff1a66' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='180' rx='80' ry='100' fill='#ffccd3' /><path d='M170,220 Q200,280 230,220' fill='none' stroke='#ff7f50' stroke-width='5' /><ellipse cx='170' cy='180' rx='20' ry='10' fill='#ffffff' /><ellipse cx='230' cy='180' rx='20' ry='10' fill='#ffffff' /><circle cx='170' cy='180' r='5' fill='#000' /><circle cx='230' cy='180' r='5' fill='#000' /><path d='M200,230 Q180,250 200,270 Q220,250 200,230' fill='none' stroke='#000' stroke-width='3' /><rect x='190' y='160' width='20' height='10' fill='#ffccd3' /><polygon points='180,170 185,160 190,170' fill='#000' /><polygon points='210,170 215,160 220,170' fill='#000' /><rect x='185' y='270' width='30' height='40' fill='#ffccd3' /><polygon points='185,310 170,330 185,350 215,350 230,330 215,310' fill='#ffccd3' /><line x1='185' y1='270' x2='170' y2='250' stroke='#000' stroke-width='3' /><line x1='215' y1='270' x2='230' y2='250' stroke='#000' stroke-width='3' /></svg>",
     "report": {
-      "appearance": "イヴは、薄紫色の体と淡いピンク色の楕円形の顔を持ち、ピンク色のドレスを着ています。頭には短いピンク色の角があり、手はピンク色の薄いピンク色のドレスに隠れています。足はピンク色の靴で覆われており、しっぽはなめらかなピンク色のしっぽです。",
-      "reason": "イヴは新たなる美しさと力を求めて進化しました。",
-      "thought": "『愛と美の力』"
+      "appearance": "イヴはピンク色の柔らかな皮膚を持ち、大きな赤い目と長い白い角を持つ女性である。体の一部には淡いピンク色の模様があり、優雅な姿をしている。",
+      "reason": "イヴは新たな進化により、生存戦略を向上させ、新たな環境に適応するために姿を変えた。",
+      "thought": "『優しい愛を司る』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='140' fill='#b3e0ff' /><ellipse cx='200' cy='190' rx='90' ry='120' fill='#80ccff' /><rect x='160' y='230' width='80' height='50' fill='#66b3ff' /><path d='M200 210 L180 230 L220 230 Z' fill='#4da6ff' /><polygon points='185,190 195,200 195,180' fill='#3385ff' /><line x1='170' y1='170' x2='150' y2='150' stroke='#0077ff' stroke-width='5' /><line x1='230' y1='170' x2='250' y2='150' stroke='#0077ff' stroke-width='5' /><circle cx='180' cy='170' r='8' fill='#005eff' /><circle cx='220' cy='170' r='8' fill='#005eff' /><rect x='195' y='255' width='20' height='8' fill='#0047b2' /><rect x='230' y='235' width='20' height='70' fill='#0047b2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#4682b4' /><circle cx='200' cy='150' r='60' fill='#87ceeb' /><rect x='190' y='250' width='20' height='50' fill='#87ceeb' /><polygon points='150,100 100,150 150,200' fill='#4682b4' /><polygon points='250,100 300,150 250,200' fill='#4682b4' /><path d='M200,150 Q180,130 160,150 Q180,170 200,150' fill='none' stroke='#000' stroke-width='3' /><ellipse cx='200' cy='170' rx='15' ry='10' fill='#ffffff' /><circle cx='190' cy='170' r='5' fill='#000' /><circle cx='210' cy='170' r='5' fill='#000' /><path d='M195,200 Q190,220 200,230 Q210,220 205,200' fill='none' stroke='#000' stroke-width='3' /><line x1='190' y1='250' x2='170' y2='220' stroke='#000' stroke-width='3' /><line x1='210' y1='250' x2='230' y2='220' stroke='#000' stroke-width='3' /></svg>",
     "report": {
-      "appearance": "アダムは、淡い青色の身体と楕円形の顔を持ち、青色の服を着ています。頭には短い青い角があり、手は青い袖に隠れています。足は青い靴で覆われており、しっぽは滑らかな青いしっぽです。",
-      "reason": "アダムは新たなる知識と勇気を求めて進化しました。",
-      "thought": "『知識と勇気の祝福』"
+      "appearance": "アダムは青色の強靭な体を持つ男性で、大きな水色の目と頑丈な体つきが特徴。青と水色の配色が機能的であり、堅実さを感じさせる。",
+      "reason": "アダムは環境の変化に対応するため、より力強く、防御力の高い外見を持つように進化した。",
+      "thought": "『不屈の意志を持つ』"
     },
     "name": "アダム",
     "gender": "男性"
