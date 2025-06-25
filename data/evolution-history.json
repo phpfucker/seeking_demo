@@ -4053,5 +4053,28 @@
       "gender": "男性"
     },
     "timestamp": 1750789376418
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='180' rx='100' ry='130' fill='#ff99aa'/><path d='M150 220 Q200 250 250 220' stroke='#ff6666' stroke-width='4' fill='none'/><path d='M150 230 Q200 260 250 230' stroke='#ff6666' stroke-width='4' fill='none'/><ellipse cx='160' cy='180' rx='10' ry='5' fill='#ffcccc'/><ellipse cx='240' cy='180' rx='10' ry='5' fill='#ffcccc'/><path d='M180 260 Q200 280 220 260' stroke='#ff6666' stroke-width='2' fill='none'/><path d='M180 270 Q200 290 220 270' stroke='#ff6666' stroke-width='2' fill='none'/><polygon points='180,260 190,280 170,280' fill='#ff6666'/><polygon points='220,260 230,280 210,280' fill='#ff6666'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、細い脚と長い髪が特徴です。頭部には優雅な角が生え、優しい表情をしています。体全体には花のような模様が描かれています。",
+        "reason": "イヴは自然界の美しさと優しさを象徴するため、進化によって花の美しさを取り入れた。",
+        "thought": "『自然と調和し、美しいものを生み出す』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#87ceeb'/><rect x='130' y='150' width='140' height='180' fill='#4682b4'/><polygon points='130,150 200,50 270,150' fill='#4682b4'/><polygon points='140,330 200,270 260,330' fill='#4682b4'/><ellipse cx='170' cy='200' rx='20' ry='30' fill='#b0e0e6'/><ellipse cx='230' cy='200' rx='20' ry='30' fill='#b0e0e6'/><path d='M200 250 Q180 270 200 290' stroke='#87ceeb' stroke-width='4' fill='none'/><path d='M200 250 Q220 270 200 290' stroke='#87ceeb' stroke-width='4' fill='none'/><path d='M200 310 Q180 330 200 350' stroke='#87ceeb' stroke-width='4' fill='none'/><path d='M200 310 Q220 330 200 350' stroke='#87ceeb' stroke-width='4' fill='none'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体毛を持ち、大きな翼と強靭な脚が特徴です。頭部には凛々しい角があり、力強い表情をしています。体には波の模様が描かれています。",
+        "reason": "アダムは自然界の力強さと誇りを象徴するため、進化によって波のような模様を取り入れた。",
+        "thought": "『風とともに、堂々と進む』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750814375488
   }
 ]
