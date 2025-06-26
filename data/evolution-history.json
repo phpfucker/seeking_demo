@@ -4214,5 +4214,28 @@
       "gender": "男性"
     },
     "timestamp": 1750941250764
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><circle cx='140' cy='160' r='20' fill='white' /><circle cx='260' cy='160' r='20' fill='white' /><path d='M200 230 Q150 260 200 290 Q250 260 200 230 Z' fill='rgb(255,105,180)' /><rect x='175' y='175' width='50' height='10' fill='rgb(255,105,180)' /><rect x='185' y='220' width='30' height='10' fill='rgb(255,105,180)' /><circle cx='192' cy='172' r='2' fill='black' /><circle cx='208' cy='172' r='2' fill='black' /><path d='M180 193 Q220 200 220 190' fill='none' stroke='black' stroke-width='2' /><path d='M220 190 Q220 180 210 180' fill='none' stroke='black' stroke-width='2' /><circle cx='200' cy='210' r='5' fill='black' /><circle cx='195' cy='220' r='5' fill='black' /><circle cx='205' cy='220' r='5' fill='black' /><circle cx='200' cy='230' r='5' fill='black' /><circle cx='200' cy='260' r='5' fill='black' /></svg>",
+      "report": {
+        "appearance": "イヴは優雅で美しい女性の姿をしています。ピンクと赤のグラデーションが描かれた体に、白い輪郭の目が印象的です。頭部には小さな角があり、優しい表情と蝶のような翼を持っています。",
+        "reason": "イヴは新たなる生命の誕生を象徴し、自然と調和した美しさを持つ進化を遂げました。",
+        "thought": "『宇宙の喜びを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(173,216,230);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,191,255);stop-opacity:1' /></linearGradient></defs><ellipse cx='200' cy='200' rx='150' ry='180' fill='url(#gradB)' /><rect x='175' y='180' width='50' height='10' fill='rgb(0,191,255)' /><rect x='185' y='225' width='30' height='10' fill='rgb(0,191,255)' /><circle cx='192' cy='182' r='2' fill='black' /><circle cx='208' cy='182' r='2' fill='black' /><path d='M180 203 Q220 210 220 200' fill='none' stroke='black' stroke-width='2' /><path d='M220 200 Q220 190 210 190' fill='none' stroke='black' stroke-width='2' /><circle cx='200' cy='220' r='5' fill='black' /><circle cx='195' cy='230' r='5' fill='black' /><circle cx='205' cy='230' r='5' fill='black' /><circle cx='200' cy='240' r='5' fill='black' /><circle cx='200' cy='270' r='5' fill='black' /></svg>",
+      "report": {
+        "appearance": "アダムは力強く逞しい男性の姿をしています。青と水色のグラデーションが描かれた体に、目立つ青い輪郭の目が特徴的です。頭部には角があり、力強い表情と羽のような腕を持っています。",
+        "reason": "アダムは自然の秩序と力強さを象徴し、進化の過程で生存に適した特性を獲得しました。",
+        "thought": "『未来への挑戦を胸に』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1750962191228
   }
 ]
