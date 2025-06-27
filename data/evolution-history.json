@@ -4306,5 +4306,28 @@
       "gender": "男性"
     },
     "timestamp": 1751027599479
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffc0cb'/><ellipse cx='200' cy='150' rx='80' ry='120' fill='#f8b195'/><rect x='160' y='220' width='80' height='60' fill='#ffc0cb'/><polygon points='120,150 200,100 280,150' fill='#f8b195'/><line x1='160' y1='220' x2='240' y2='220' stroke='#d68f93' stroke-width='8'/><circle cx='170' cy='150' r='10' fill='#ec5e6f'/><circle cx='230' cy='150' r='10' fill='#ec5e6f'/><path d='M200 220 Q190 240 200 260 Q210 240 200 220 Z' fill='#d68f93'/><polygon points='180,170 200,160 220,170' fill='#ec5e6f'/><text x='200' y='320' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体に、柔らかなオレンジ色の顔と大きな目を持つ女性です。体の下部にはピンクのドレスが描かれ、頭部には三角形のツノ状のものがあります。",
+        "reason": "イヴは新たな能力を身につけ、その進化により美しさと優雅さが強調されたため、外見も華やかに変化しました。",
+        "thought": "『生まれ変わった感じ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='50' width='100' height='150' fill='#4682b4'/><circle cx='200' cy='220' r='80' fill='#4682b4'/><ellipse cx='175' cy='50' rx='25' ry='40' fill='#87ceeb'/><ellipse cx='225' cy='50' rx='25' ry='40' fill='#87ceeb'/><polygon points='160,200 200,180 240,200' fill='#87ceeb'/><line x1='180' y1='220' x2='220' y2='220' stroke='#336699' stroke-width='8'/><circle cx='170' cy='190' r='10' fill='#336699'/><circle cx='230' cy='190' r='10' fill='#336699'/><path d='M200 220 Q190 240 200 260 Q210 240 200 220 Z' fill='#4682b4'/><polygon points='180,170 200,160 220,170' fill='#336699'/><text x='200' y='320' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青色の体に大きな青い円形の頭部と、薄い青の体に黄色い部分を持つ男性です。頭部には二つの青い角があり、背中には青いしっぽが生えています。",
+        "reason": "アダムは進化により力強さと知性が増し、その力強さを表現するため青と黄色を基調にした外見となりました。",
+        "thought": "『強さと知性を感じる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1751048541746
   }
 ]
