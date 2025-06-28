@@ -4352,5 +4352,28 @@
       "gender": "男性"
     },
     "timestamp": 1751073410154
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,219,220);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,140,143);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='200' cy='240' rx='60' ry='30' fill='url(#gradA)' /><path d='M180,140 l40,20 l-20,60 l-40,-20 Z' fill='url(#gradA)' /><path d='M220,140 l-40,20 l20,60 l40,-20 Z' fill='url(#gradA)' /><rect x='180' y='150' width='40' height='20' fill='url(#gradA)' /><rect x='180' y='210' width='40' height='20' fill='url(#gradA)' /><circle cx='180' cy='170' r='5' fill='black' /><circle cx='220' cy='170' r='5' fill='black' /><path d='M190,250 q20,10 40,0' fill='none' stroke='black' stroke-width='4' /><path d='M210,250 q-20,10 -40,0' fill='none' stroke='black' stroke-width='4' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持つ女性の姿をしています。全身にグラデーションがかかった滑らかな曲線や模様が特徴です。優雅なしっぽと角が頭部に生えており、優しい表情をしています。",
+        "reason": "進化により、イヴはより美しく、優雅で優しい特徴を持つようになりました。新たな色と柔らかな曲線が彼女の内面の美しさを表現しています。",
+        "thought": "『宇宙の神秘を感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(142,193,239);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(45,107,197);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradB)' /><ellipse cx='200' cy='240' rx='60' ry='30' fill='url(#gradB)' /><path d='M180,140 l40,20 l-20,60 l-40,-20 Z' fill='url(#gradB)' /><path d='M220,140 l-40,20 l20,60 l40,-20 Z' fill='url(#gradB)' /><rect x='180' y='150' width='40' height='20' fill='url(#gradB)' /><rect x='180' y='210' width='40' height='20' fill='url(#gradB)' /><circle cx='180' cy='170' r='5' fill='black' /><circle cx='220' cy='170' r='5' fill='black' /><polygon points='200,250 195,260 205,260' fill='black' /><polygon points='200,250 195,260 205,260' transform='rotate(180 200 200)' fill='black' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の爽やかな肌を持つ男性の姿をしています。全身に青色のグラデーションがかかり、力強さと優しさを兼ね備えた特徴があります。額には角が生え、表情は力強さを示しています。",
+        "reason": "アダムの進化は、より強さと優しさを持つ男性像を表現するために起こりました。青色のグラデーションが彼の内面の複雑さと力強さを反映しています。",
+        "thought": "『未来への希望を抱く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1751091706924
   }
 ]
