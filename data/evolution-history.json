@@ -4375,5 +4375,28 @@
       "gender": "男性"
     },
     "timestamp": 1751091706924
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><rect x='125' y='220' width='150' height='120' fill='#ffc0cb' /><ellipse cx='150' cy='170' rx='20' ry='30' fill='#ffafaf' /><ellipse cx='250' cy='170' rx='20' ry='30' fill='#ffafaf' /><path d='M175 270 Q200 310 225 270' fill='none' stroke='#e0aaff' stroke-width='4' /><path d='M175 270 Q200 310 225 270' fill='none' stroke='#cc99ff' stroke-width='4' /><path d='M150 270 Q200 330 250 270' fill='none' stroke='#e0aaff' stroke-width='4' /><path d='M150 270 Q200 330 250 270' fill='none' stroke='#cc99ff' stroke-width='4' /><polygon points='170,140 200,120 230,140' fill='#ffcccc' /><circle cx='180' cy='160' r='5' fill='#000' /><circle cx='220' cy='160' r='5' fill='#000' /><rect x='180' y='240' width='40' height='10' fill='#ff6666' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に赤い頬を持つ女性型の生命体です。体の下部には赤いスカート状の装飾があり、頭には二つの角が生えています。四つの目と口を持ち、手足にはピンクの爪が生えています。",
+        "reason": "進化の過程で、イヴはより美しい外観を求める遺伝子の影響を受け、より柔らかく魅力的な特徴を獲得しました。",
+        "thought": "『愛と美しさの調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#87ceeb' /><rect x='125' y='220' width='150' height='120' fill='#b0e0e6' /><ellipse cx='150' cy='170' rx='20' ry='30' fill='#4682b4' /><ellipse cx='250' cy='170' rx='20' ry='30' fill='#4682b4' /><path d='M175 270 Q200 310 225 270' fill='none' stroke='#6495ed' stroke-width='4' /><path d='M175 270 Q200 310 225 270' fill='none' stroke='#4169e1' stroke-width='4' /><path d='M150 270 Q200 330 250 270' fill='none' stroke='#6495ed' stroke-width='4' /><path d='M150 270 Q200 330 250 270' fill='none' stroke='#4169e1' stroke-width='4' /><polygon points='170,140 200,120 230,140' fill='#add8e6' /><circle cx='180' cy='160' r='5' fill='#000' /><circle cx='220' cy='160' r='5' fill='#000' /><rect x='180' y='240' width='40' height='10' fill='#63b8ff' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に青い頬を持つ男性型の生命体です。体の下部には青いパンツ状の装飾があり、頭には二つの角が生えています。四つの目と口を持ち、手足には青い爪が生えています。",
+        "reason": "進化の過程で、アダムはより強靭な外観を求める遺伝子の影響を受け、より力強く引き締まった特徴を獲得しました。",
+        "thought": "『力と誇りの調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1751113808587
   }
 ]
