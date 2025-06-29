@@ -4444,5 +4444,28 @@
       "gender": "男性"
     },
     "timestamp": 1751160420725
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='50' width='160' height='270' fill='#FFCCCB' /><circle cx='200' cy='170' r='100' fill='#FFA07A' /><ellipse cx='150' cy='320' rx='40' ry='25' fill='#FFA07A' /><ellipse cx='250' cy='320' rx='40' ry='25' fill='#FFA07A' /><polygon points='200,190 180,210 220,210' fill='#FFFFFF' /><rect x='180' y='250' width='40' height='60' fill='#FFFFFF' /><line x1='160' y1='50' x2='140' y2='100' stroke='#000000' stroke-width='2' /><line x1='240' y1='50' x2='260' y2='100' stroke='#000000' stroke-width='2' /><path d='M150 50 Q200 20 250 50' fill='none' stroke='#000000' stroke-width='2' /><text x='200' y='380' font-family='Verdana' font-size='20' fill='#000000' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかな肌を持ち、大きなオレンジ色の目を持っています。爪は白く、頭部には白い角があります。体はピンクとオレンジのグラデーションで覆われ、手足はやや太めであります。",
+        "reason": "生態系の変化により、イヴはより華やかで柔らかな色合いを身にまとい、独自の進化を遂げました。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='50' width='160' height='270' fill='#87CEEB' /><circle cx='200' cy='150' r='100' fill='#4682B4' /><ellipse cx='150' cy='320' rx='40' ry='25' fill='#4682B4' /><ellipse cx='250' cy='320' rx='40' ry='25' fill='#4682B4' /><line x1='180' y1='250' x2='180' y2='310' stroke='#FFFFFF' stroke-width='10' /><line x1='220' y1='250' x2='220' y2='310' stroke='#FFFFFF' stroke-width='10' /><polygon points='200,180 180,200 220,200' fill='#000000' /><rect x='180' y='250' width='40' height='60' fill='#000000' /><path d='M150 50 Q200 20 250 50' fill='none' stroke='#000000' stroke-width='2' /><text x='200' y='380' font-family='Verdana' font-size='20' fill='#000000' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青色のスムーズな肌と深い青色の目を持ち、白い角が頭部に生えています。体は水色から青へのグラデーションで覆われ、手足は細長く引き締まっています。",
+        "reason": "環境の変化により、アダムはより洗練された色調とスリムな体型へ進化しました。",
+        "thought": "『自由と勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1751178158548
   }
 ]
