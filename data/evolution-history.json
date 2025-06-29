@@ -4421,5 +4421,28 @@
       "gender": "男性"
     },
     "timestamp": 1751134838643
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><circle cx='200' cy='150' r='50' fill='#ff99cc'/><circle cx='160' cy='150' r='10' fill='#ffffff'/><circle cx='240' cy='150' r='10' fill='#ffffff'/><path d='M160 200 Q200 240 240 200 Q200 250 160 200 Z' fill='#ff99cc'/><polygon points='180,190 220,190 200,210' fill='#ff99cc'/><ellipse cx='180' cy='240' rx='20' ry='12' fill='#ff99cc'/><ellipse cx='220' cy='240' rx='20' ry='12' fill='#ff99cc'/><path d='M150 300 Q200 340 250 300' fill='none' stroke='#000000' stroke-width='5'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体に白い顔と二つの大きな目を持つ女性型生命体です。体の中心には赤いジェムが輝き、しなやかな角が生えています。手足は細く長く、しなやかな尾があります。",
+        "reason": "環境の変化により、イヴの進化が起こりました。ピンクの色合いは愛情と包容力を表し、ジェムは知恵と美しさを象徴しています。",
+        "thought": "『愛と知恵』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#aec6cf'/><circle cx='200' cy='150' r='50' fill='#4682b4'/><circle cx='160' cy='150' r='10' fill='#ffffff'/><circle cx='240' cy='150' r='10' fill='#ffffff'/><path d='M160 200 Q200 240 240 200 Q200 250 160 200 Z' fill='#4682b4'/><polygon points='180,190 220,190 200,210' fill='#4682b4'/><line x1='160' y1='240' x2='240' y2='240' stroke='#4682b4' stroke-width='10'/><path d='M150 300 Q200 340 250 300' fill='none' stroke='#000000' stroke-width='5'/></svg>",
+      "report": {
+        "appearance": "アダムは青灰色の体に白い顔と大きな目を持つ男性型生命体です。体の中心には青い宝石が輝き、力強い角が生えています。手足は筋肉質で、しっかりとした尾があります。",
+        "reason": "環境の変化により、アダムの進化が起こりました。青灰色は知恵と冷静さを表し、宝石は力強さと守護を象徴しています。",
+        "thought": "『力と知恵』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1751160420725
   }
 ]
