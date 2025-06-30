@@ -4513,5 +4513,28 @@
       "gender": "男性"
     },
     "timestamp": 1751221262911
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='150' rx='60' ry='80' fill='#ffb6c1' /><rect x='160' y='230' width='80' height='50' fill='#ffc0cb' /><path d='M190 230 L210 230 L200 250 Z' fill='#ff69b4' /><path d='M140 150 Q200 50 260 150' fill='none' stroke='#ff69b4' stroke-width='5' /><circle cx='160' cy='120' r='10' fill='#ff69b4' /><circle cx='240' cy='120' r='10' fill='#ff69b4' /><ellipse cx='180' cy='170' rx='10' ry='5' fill='#ffffff' /><ellipse cx='220' cy='170' rx='10' ry='5' fill='#ffffff' /><circle cx='180' cy='150' r='5' fill='#000000' /><circle cx='220' cy='150' r='5' fill='#000000' /><polygon points='190,160 210,160 200,170' fill='#ff69b4' /><polygon points='190,190 210,190 200,180' fill='#ff69b4' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌を持ち、優雅な姿をした女性生命体です。頭部には楕円形の耳があり、甘い表情を浮かべています。体は大きな円形で描かれ、腕と指は短く丸みを帯びています。両脚は短めで、足先には小さな円が描かれています。背中には短いしっぽがあり、薄いピンクの模様が描かれています。",
+        "reason": "イヴは、自然に溢れた豊かな環境での適応により、美しいピンク色の肌や優雅な特徴を身につけました。",
+        "thought": "『調和と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6' /><ellipse cx='200' cy='150' rx='60' ry='80' fill='#87ceeb' /><rect x='160' y='230' width='80' height='50' fill='#b0e0e6' /><path d='M190 230 L210 230 L200 250 Z' fill='#4682b4' /><path d='M140 150 Q200 50 260 150' fill='none' stroke='#4682b4' stroke-width='5' /><circle cx='160' cy='120' r='10' fill='#4682b4' /><circle cx='240' cy='120' r='10' fill='#4682b4' /><ellipse cx='180' cy='170' rx='10' ry='5' fill='#ffffff' /><ellipse cx='220' cy='170' rx='10' ry='5' fill='#ffffff' /><circle cx='180' cy='150' r='5' fill='#000000' /><circle cx='220' cy='150' r='5' fill='#000000' /><polygon points='190,160 210,160 200,170' fill='#4682b4' /><polygon points='190,190 210,190 200,180' fill='#4682b4' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体を持つ男性生命体で、優しい表情をしています。頭部には楕円形の耳があり、透明感のある青い肌が特徴です。体は大きな円形で表現され、腕と指はやや長く直線的な形状を持っています。両脚はがっしりとした作りで、足先には角張った形状が描かれています。",
+        "reason": "アダムは、広大な海洋環境での進化により、青色の体や透明感のある肌など、穏やかな特徴を獲得しました。",
+        "thought": "『穏やかな海の息吹』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1751246604269
   }
 ]
