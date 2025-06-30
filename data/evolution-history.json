@@ -4559,5 +4559,28 @@
       "gender": "男性"
     },
     "timestamp": 1751264735232
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='180' rx='90' ry='140' fill='#ff99ff' /><path d='M150,220 Q200,300 250,220 L150,220 Z' fill='#ff99ff' /><path d='M160,220 Q200,280 240,220 L160,220 Z' fill='#ff66cc' /><circle cx='175' cy='165' r='10' fill='#ffffff' /><circle cx='225' cy='165' r='10' fill='#ffffff' /><rect x='180' y='240' width='40' height='20' fill='#ffccff' /><rect x='185' y='260' width='10' height='40' rx='5' fill='#ffccff' /><circle cx='190' cy='280' r='5' fill='#ff99ff' /><circle cx='210' cy='280' r='5' fill='#ff99ff' /><line x1='200' y1='220' x2='200' y2='240' stroke='#663366' stroke-width='2' /><line x1='190' y1='215' x2='180' y2='230' stroke='#663366' stroke-width='2' /><line x1='210' y1='215' x2='220' y2='230' stroke='#663366' stroke-width='2' /><line x1='150' y1='220' x2='160' y2='250' stroke='#663366' stroke-width='2' /><line x1='250' y1='220' x2='240' y2='250' stroke='#663366' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体と紫色の長い耳を持つ女性。体の中心には淡いピンク色の楕円形の胴体があり、体の上部には紫色の毛皮が広がっています。顔はやや長めで、白い目を持ち、口元が微笑んでいます。手は小さく、胴体の横に位置しています。",
+        "reason": "イヴは感情豊かな生命体として進化しました。その内面に新たな感情や思考が芽生え、それが外見にも表れたのです。",
+        "thought": "『希望』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='50' width='100' height='200' fill='#99ccff' /><polygon points='150,50 200,0 250,50' fill='#6699cc' /><circle cx='175' cy='260' r='25' fill='#99ccff' /><circle cx='225' cy='260' r='25' fill='#99ccff' /><rect x='160' y='250' width='20' height='40' fill='#6699cc' /><rect x='220' y='250' width='20' height='40' fill='#6699cc' /><circle cx='200' cy='100' r='60' fill='#6688cc' /><circle cx='180' cy='90' r='10' fill='#ffffff' /><circle cx='220' cy='90' r='10' fill='#ffffff' /><line x1='180' y1='120' x2='160' y2='140' stroke='#336699' stroke-width='2' /><line x1='220' y1='120' x2='240' y2='140' stroke='#336699' stroke-width='2' /><line x1='180' y1='280' x2='160' y2='320' stroke='#336699' stroke-width='2' /><line x1='220' y1='280' x2='240' y2='320' stroke='#336699' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは青色の体と紺色の短い耳を持つ男性。体は四角い形状で、青色の胴体が中心にあり、上部には紺色の模様が入っています。顔は丸く、大きな青い目を持ち、穏やかな表情を浮かべています。手足は太く、胴体の下部に位置しています。",
+        "reason": "アダムは知恵や力強さを備えた生命体として進化しました。その進化は、生存において有利な特性を身につけるために起こりました。",
+        "thought": "『調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1751286850262
   }
 ]
