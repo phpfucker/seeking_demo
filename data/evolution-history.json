@@ -4674,5 +4674,28 @@
       "gender": "男性"
     },
     "timestamp": 1751373262278
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff94c2'/><ellipse cx='200' cy='200' rx='100' ry='140' fill='#ffc8e0'/><path d='M150 250 L200 330 L250 250 Z' fill='#ff94c2'/><path d='M180 200 Q200 160 220 200 Z' fill='#ff77b9'/><rect x='175' y='140' width='50' height='20' fill='#ff77b9'/><circle cx='170' cy='180' r='7' fill='#333'/><circle cx='230' cy='180' r='7' fill='#333'/><path d='M170 320 Q200 360 230 320 Z' fill='#ff94c2'/><path d='M120 180 Q160 100 200 180 T280 180' fill='none' stroke='#333' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の美しい体を持ち、柔らかな曲線が特徴です。体の中心に大きな赤いハート模様があり、愛情を象徴しています。優雅な角や優しい表情が彼女を際立たせます。",
+        "reason": "イヴは新たな生命を生み出す女性的なエネルギーを強調するため、美しい色彩と柔らかな形状に進化しました。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='150' fill='#94c2ff'/><circle cx='200' cy='180' r='30' fill='#c8e0ff'/><path d='M180 250 Q200 280 220 250 Z' fill='#77b9ff'/><circle cx='190' cy='180' r='7' fill='#333'/><circle cx='210' cy='180' r='7' fill='#333'/><path d='M180 300 Q200 330 220 300 Z' fill='#94c2ff'/><path d='M120 180 Q160 100 200 180 T280 180' fill='none' stroke='#333' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の頑丈な体つきで、直線的な形状が特徴です。青い背中には水滴模様があり、涼しげな印象を与えます。頑丈な角や凛々しい表情が彼を特徴づけます。",
+        "reason": "アダムは新たな領域を開拓する男性的なエネルギーを強調するため、頑丈な体と凛々しい色彩に進化しました。",
+        "thought": "『力と自由』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1751394156460
   }
 ]
