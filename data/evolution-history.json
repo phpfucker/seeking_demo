@@ -4605,5 +4605,28 @@
       "gender": "男性"
     },
     "timestamp": 1751307779584
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='130' y='140' width='140' height='200' fill='#ffcccb' /><ellipse cx='200' cy='100' rx='80' ry='60' fill='#ffb6c1' /><ellipse cx='160' cy='100' rx='20' ry='30' fill='#ff69b4' /><ellipse cx='240' cy='100' rx='20' ry='30' fill='#ff69b4' /><path d='M200 160 Q160 180 200 200 Q240 180 200 160 Z' fill='#ff77aa' /><path d='M170 210 Q200 230 230 210 Q200 250 170 210 Z' fill='#ff77aa' /><circle cx='180' cy='220' r='10' fill='#ffffff' /><circle cx='220' cy='220' r='10' fill='#ffffff' /><rect x='190' y='250' width='20' height='20' fill='#ff77aa' /><polygon points='200,140 220,150 180,150' fill='#ff77aa' /><line x1='190' y1='270' x2='210' y2='270' stroke='#000000' stroke-width='2' /><polygon points='130,140 150,100 250,100 270,140' fill='#ffb6c1' /><polygon points='135,135 150,110 250,110 265,135' fill='#ff77aa' /><rect x='160' y='340' width='80' height='20' fill='#ffcccb' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかい皮膚を持ち、背中に赤い模様があります。頭部には大きな赤い角が2本生え、美しいピンクの髪があります。顔には心温まる微笑みが浮かんでいます。体は長いしっぽと、柔らかい形状の手足を持っています。",
+        "reason": "イヴは新たなる命の源として、美しく優しい特性を進化させました。",
+        "thought": "『生命の尊さ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='130' y='140' width='140' height='200' fill='#87ceeb' /><ellipse cx='200' cy='100' rx='80' ry='60' fill='#4682b4' /><ellipse cx='175' cy='110' rx='20' ry='30' fill='#4169e1' /><ellipse cx='225' cy='110' rx='20' ry='30' fill='#4169e1' /><path d='M200 160 Q170 175 200 190 Q230 175 200 160 Z' fill='#87cefa' /><path d='M180 200 Q200 215 220 200 Q200 230 180 200 Z' fill='#87cefa' /><circle cx='180' cy='220' r='10' fill='#ffffff' /><circle cx='220' cy='220' r='10' fill='#ffffff' /><rect x='190' y='250' width='20' height='20' fill='#87ceeb' /><polygon points='200,140 220,150 180,150' fill='#87cefa' /><line x1='190' y1='270' x2='210' y2='270' stroke='#000000' stroke-width='2' /><polygon points='130,140 150,100 250,100 270,140' fill='#4682b4' /><polygon points='135,135 150,110 250,110 265,135' fill='#4169e1' /><rect x='160' y='340' width='80' height='20' fill='#87ceeb' /></svg>",
+      "report": {
+        "appearance": "アダムは青色の皮膚を持ち、青い背中の模様が特徴です。2本の青い角と深い青の髪が頭部に生えています。穏やかな表情をした顔には知性が感じられます。四肢は頑丈で力強く、長いしっぽがあります。",
+        "reason": "アダムは進化において知性と力強さを重視し、青色の特徴を強化しました。",
+        "thought": "『知恵と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1751333232763
   }
 ]
