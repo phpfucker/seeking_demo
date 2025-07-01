@@ -4651,5 +4651,28 @@
       "gender": "男性"
     },
     "timestamp": 1751351135494
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><rect x='140' y='150' width='120' height='100' fill='#ff99aa' /><ellipse cx='170' cy='260' rx='30' ry='20' fill='#ff99aa' /><ellipse cx='230' cy='260' rx='30' ry='20' fill='#ff99aa' /><path d='M190 200 Q200 150 210 200 Q200 260 190 200' fill='#ff77a9' /><polygon points='185,185 215,185 200,170' fill='#ff66a5' /><polygon points='170,270 180,280 220,280 230,270' fill='#ff66a5' /><path d='M160 220 Q200 300 240 220' fill='none' stroke='#ff66a5' stroke-width='4' /><line x1='160' y1='300' x2='160' y2='320' stroke='#ff66a5' stroke-width='4' /><line x1='240' y1='300' x2='240' y2='320' stroke='#ff66a5' stroke-width='4' /><text x='200' y='380' fill='#333' font-family='Arial' font-size='20' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、頭部には小さな角が生え、愛らしい表情をしています。体は丸くて柔らかく、手足は短くて丸い形状です。しっぽは大きくてフワフワした毛で覆われています。",
+        "reason": "イヴは自然界の変化により、より愛らしさと親しみやすさを表現するために進化しました。",
+        "thought": "『優しさの中に強さが宿る』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='150' ry='180' fill='#b0e0e6' /><rect x='170' y='160' width='60' height='100' fill='#87ceeb' /><rect x='170' y='260' width='60' height='40' fill='#87ceeb' /><circle cx='170' cy='140' r='10' fill='#87ceeb' /><circle cx='230' cy='140' r='10' fill='#87ceeb' /><path d='M180 180 Q200 120 220 180 Q200 260 180 180' fill='#77c9d4' /><path d='M170 260 Q200 300 230 260' fill='none' stroke='#77c9d4' stroke-width='4' /><line x1='150' y1='300' x2='150' y2='320' stroke='#77c9d4' stroke-width='4' /><line x1='250' y1='300' x2='250' y2='320' stroke='#77c9d4' stroke-width='4' /><text x='200' y='380' fill='#333' font-family='Arial' font-size='20' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青く光る皮膚を持ち、大きな羽を背中に広げ、颯爽とした姿勢で立っています。首周りには鱗状の模様があり、頭部には透明な触角が生えています。手足はしなやかで長く、体全体から力強さが感じられます。",
+        "reason": "アダムは生存競争においてより強く、優雅で優勢な姿を示すために進化しました。",
+        "thought": "『風を抱いて自由に舞う』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1751373262278
   }
 ]
