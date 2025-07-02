@@ -4766,5 +4766,28 @@
       "gender": "男性"
     },
     "timestamp": 1751459646644
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99' /><ellipse cx='140' cy='180' rx='30' ry='20' fill='#ffddb3' /><ellipse cx='260' cy='180' rx='30' ry='20' fill='#ffddb3' /><path d='M180,250 Q200,270 220,250' fill='none' stroke='#e88f59' stroke-width='6' /><path d='M140,180 Q150,160 160,180 Q150,200 140,180' fill='#ffddb3' /><path d='M260,180 Q270,160 280,180 Q270,200 260,180' fill='#ffddb3' /><ellipse cx='170' cy='170' rx='10' ry='5' fill='#fff' /><ellipse cx='230' cy='170' rx='10' ry='5' fill='#fff' /><rect x='170' y='230' width='60' height='20' fill='#e88f59' /><polygon points='190,230 210,230 200,250' fill='#b84d4d' /><polygon points='180,200 200,200 190,210' fill='#b84d4d' /></svg>",
+      "report": {
+        "appearance": "イヴは、オレンジ色の柔らかな毛皮を持ち、優美な曲線の体つきをしています。顔には甘い表情と大きな目が特徴で、手足はしなやかで美しいです。胴体にはピンク色の斑点が散りばめられています。",
+        "reason": "進化の結果、イヴは自然界での生存に適した美しい特徴を発展させました。",
+        "thought": "『自然の美しさを受け継ぐ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='150' fill='#668cff' /><rect x='140' y='95' width='120' height='20' fill='#5566ff' /><rect x='120' y='250' width='160' height='30' fill='#5566ff' /><polygon points='200,100 250,50 300,100' fill='#5566ff' /><circle cx='170' cy='250' r='20' fill='#5566ff' /><circle cx='230' cy='250' r='20' fill='#5566ff' /><polygon points='180,250 190,270 200,250' fill='#668cff' /><polygon points='220,250 230,270 240,250' fill='#668cff' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い硬い外殻で覆われた頑丈な体を持ち、四角い顔には凛々しい眼差しが特徴です。手足はがっしりとした作りで、胴体には青と紫のストライプ模様が入っています。",
+        "reason": "アダムは進化により、強固な外装と力強い体つきを身につけて、生存能力を高めました。",
+        "thought": "『力強さと頑丈さの象徴』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1751480615155
   }
 ]
