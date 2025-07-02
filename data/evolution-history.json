@@ -4697,5 +4697,28 @@
       "gender": "男性"
     },
     "timestamp": 1751394156460
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='200' width='200' height='150' fill='#FFD700'/><ellipse cx='200' cy='150' rx='80' ry='120' fill='#FFD700'/><path d='M160,170 L190,170 L175,200 Z' fill='#FF6347'/><path d='M210,170 L240,170 L225,200 Z' fill='#FF6347'/><ellipse cx='180' cy='125' rx='20' ry='10' fill='#000'/><ellipse cx='220' cy='125' rx='20' ry='10' fill='#000'/><rect x='190' y='250' width='20' height='100' fill='#FF6347'/><polygon points='140,250 200,250 180,300' fill='#FF6347'/><polygon points='260,250 200,250 220,300' fill='#FF6347'/></svg>",
+      "report": {
+        "appearance": "イヴは、金色の体毛を持つ美しい女性の姿をしています。体は長い楕円形で、赤い鮮やかな口紅を塗った口元が特徴です。二つの大きな瞳は黒く、目尻には赤い輪郭が描かれています。頭部には黒い楕円形の耳があり、背中には赤い模様が入っています。",
+        "reason": "イヴは自然と調和した生態系を築くため、美しい色彩と力強い特徴を持つ進化を遂げました。",
+        "thought": "『自然の美しさを守りたい』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='200' width='200' height='150' fill='#4682B4'/><ellipse cx='200' cy='150' rx='80' ry='120' fill='#4682B4'/><path d='M160,170 L190,170 L175,200 Z' fill='#8B4513'/><path d='M210,170 L240,170 L225,200 Z' fill='#8B4513'/><ellipse cx='180' cy='125' rx='20' ry='10' fill='#000'/><ellipse cx='220' cy='125' rx='20' ry='10' fill='#000'/><rect x='190' y='250' width='20' height='100' fill='#8B4513'/><polygon points='140,250 200,250 180,300' fill='#8B4513'/><polygon points='260,250 200,250 220,300' fill='#8B4513'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体毛を持つ力強い男性の姿をしています。体は大きな楕円形で、頑丈な体つきが特徴です。口元はマスクのような黒い斑点が描かれ、凛々しい表情をしています。二つの瞳は深い藍色で、頭部には黒い角が生えています。",
+        "reason": "アダムは生存競争において優れた力と知恵を持つため、力強い体躯と威厳ある特徴を獲得することで進化しました。",
+        "thought": "『未来への挑戦』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1751419154255
   }
 ]
