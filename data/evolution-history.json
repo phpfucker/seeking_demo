@@ -4835,5 +4835,28 @@
       "gender": "男性"
     },
     "timestamp": 1751523916366
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#f9b3d1'/><ellipse cx='200' cy='150' rx='100' ry='130' fill='#f9d0a4'/><path d='M120 220 Q200 290 280 220 Q200 250 120 220 Z' fill='#ffddc1'/><path d='M170 230 Q200 260 230 230 Q200 250 170 230 Z' fill='#ffddc1'/><rect x='160' y='90' width='80' height='20' fill='#e3ad8f'/><rect x='175' y='280' width='50' height='30' fill='#e3ad8f'/><rect x='150' y='290' width='20' height='70' fill='#e3ad8f'/><polygon points='200,70 220,110 180,110' fill='#ffddc1'/><polygon points='140,180 170,170 160,210' fill='#ffddc1'/><polygon points='260,180 230,170 240,210' fill='#ffddc1'/><line x1='170' y1='150' x2='180' y2='140' stroke='#000' stroke-width='2'/><line x1='230' y1='150' x2='220' y2='140' stroke='#000' stroke-width='2'/><text x='140' y='30' font-family='Arial' font-size='20' fill='#000'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、大きな明るい目が特徴です。体は細身で優雅な曲線を描き、手足は華奢で繊細な造りとなっています。頭部には長い耳と短い角があり、しっぽは短く、優雅な曲線を描いています。",
+        "reason": "進化の過程で、イヴはより優美で繊細な特徴を身につけることで、美しさを追求しました。",
+        "thought": "『優美な美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='150' fill='#9bb2ff'/><ellipse cx='200' cy='150' rx='70' ry='100' fill='#a1cbe2'/><ellipse cx='170' cy='140' rx='10' ry='15' fill='#000'/><ellipse cx='230' cy='140' rx='10' ry='15' fill='#000'/><path d='M170 300 Q200 350 230 300 Q200 320 170 300 Z' fill='#aad5e8'/><polygon points='150,150 200,100 250,150' fill='#aad5e8'/><polygon points='170,160 200,140 230,160' fill='#aad5e8'/><line x1='160' y1='150' x2='140' y2='140' stroke='#000' stroke-width='2'/><line x1='240' y1='150' x2='260' y2='140' stroke='#000' stroke-width='2'/><text x='140' y='30' font-family='Arial' font-size='20' fill='#000'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青色の頑丈な体躯を持ち、太く力強い腕と足が特徴です。頭部には鋭い目と立派な角があり、青い皮膚が頑丈さを際立たせます。体は筋肉質で力強い曲線を描き、しっぽは短く頑丈な造りとなっています。",
+        "reason": "アダムは進化の過程で、より力強く頑丈な特徴を身につけ、生存能力を高めました。",
+        "thought": "『力強い頑丈さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1751546064241
   }
 ]
