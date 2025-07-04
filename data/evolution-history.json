@@ -4881,5 +4881,28 @@
       "gender": "男性"
     },
     "timestamp": 1751566948688
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#ffc0cb'/><ellipse cx='200' cy='150' rx='120' ry='70' fill='#ff99cc'/><rect x='140' y='220' width='120' height='100' fill='#ff99cc'/><path d='M200,150 L180,100 L220,100 Z' fill='#ff77aa'/><polygon points='150,220 170,300 250,300 270,220' fill='#ff77aa'/><path d='M160,200 Q200,260 240,200' fill='none' stroke='#ff77aa' stroke-width='10'/><circle cx='170' cy='160' r='10' fill='#ffffff'/><circle cx='230' cy='160' r='10' fill='#ffffff'/><line x1='180' y1='240' x2='190' y2='260' stroke='#ffffff' stroke-width='5'/><line x1='220' y1='240' x2='210' y2='260' stroke='#ffffff' stroke-width='5'/><text x='200' y='350' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、細身で優雅な女性の姿をしています。背中にはピンク色の翼があり、頭部には二本のツノが生えています。全体的に優しい雰囲気を醸し出しています。",
+        "reason": "環境の変化により、イヴは空を飛ぶ必要が生じ、柔らかな翼が進化しました。ツノは知恵や力を象徴し、生存に必要な特性として発達しました。",
+        "thought": "『愛と知恵の力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#add8e6'/><ellipse cx='200' cy='150' rx='120' ry='70' fill='#87ceeb'/><rect x='140' y='220' width='120' height='100' fill='#87ceeb'/><path d='M200,150 L180,100 L220,100 Z' fill='#77b5e6'/><polygon points='150,220 170,300 250,300 270,220' fill='#77b5e6'/><path d='M160,200 Q200,260 240,200' fill='none' stroke='#77b5e6' stroke-width='10'/><circle cx='170' cy='160' r='10' fill='#ffffff'/><circle cx='230' cy='160' r='10' fill='#ffffff'/><line x1='180' y1='240' x2='190' y2='260' stroke='#ffffff' stroke-width='5'/><line x1='220' y1='240' x2='210' y2='260' stroke='#ffffff' stroke-width='5'/><text x='200' y='350' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青色の透き通った肌を持ち、がっしりとした男性の筋肉質な姿をしています。大きな翼が背中にあり、頭には角が一本伸びています。全体的に力強く凛々しい印象を与えます。",
+        "reason": "環境の変化により、アダムは長距離の飛行が必要となり、強靭な翼が進化しました。角は威厳や守護の象徴として、生存において必要な特性として発達しました。",
+        "thought": "『誇り高き守護者』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1751591929113
   }
 ]
