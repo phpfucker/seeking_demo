@@ -4927,5 +4927,28 @@
       "gender": "男性"
     },
     "timestamp": 1751610285378
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='230' rx='100' ry='50' fill='#ffdddd' /><rect x='160' y='125' width='80' height='50' fill='#ff6666' /><rect x='170' y='175' width='60' height='10' fill='#ff6666' /><ellipse cx='170' cy='230' rx='20' ry='30' fill='#ff6666' /><ellipse cx='230' cy='230' rx='20' ry='30' fill='#ff6666' /><path d='M190 220 Q200 250 210 220' fill='none' stroke='#000' stroke-width='2' /><path d='M190 220 Q200 250 210 220' fill='none' stroke='#000' stroke-width='2' transform='scale(1,-1) translate(0,-450)' /><path d='M160 140 Q200 120 240 140' fill='none' stroke='#000' stroke-width='2' /><path d='M160 140 Q200 120 240 140' fill='none' stroke='#000' stroke-width='2' transform='scale(1,-1) translate(0,-180)' /><rect x='180' y='150' width='40' height='10' fill='#fff' /><polygon points='185,125 195,135 175,135' fill='#ff6666' /><polygon points='215,125 205,135 225,135' fill='#ff6666' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな体にオレンジ色の模様を持つ女性生命体です。体の一部は淡い赤色で、優しさと温かさを感じさせます。長い尾と丸い顔が特徴的で、しっとりとした雰囲気を醸し出しています。",
+        "reason": "生態系の変化により、繊細な色彩と優美な形状を持つ生命体が適応的に進化した結果です。",
+        "thought": "『愛と美が宇宙の秘密を紡ぎだす』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#87ceeb' /><polygon points='185,150 200,100 215,150' fill='#4682b4' /><polygon points='190,90 200,70 210,90' fill='#4682b4' /><ellipse cx='200' cy='240' rx='100' ry='50' fill='#87cefa' /><rect x='170' y='190' width='60' height='10' fill='#87ceeb' /><rect x='170' y='125' width='20' height='60' fill='#4682b4' /><rect x='210' y='125' width='20' height='60' fill='#4682b4' /><path d='M180 220 Q200 230 220 220' fill='none' stroke='#000' stroke-width='2' /><path d='M180 220 Q200 230 220 220' fill='none' stroke='#000' stroke-width='2' transform='scale(1,-1) translate(0,-440)' /><path d='M170 140 Q200 120 230 140' fill='none' stroke='#000' stroke-width='2' /><path d='M170 140 Q200 120 230 140' fill='none' stroke='#000' stroke-width='2' transform='scale(1,-1) translate(0,-180)' /><polygon points='195,125 205,135 185,135' fill='#4682b4' /><polygon points='215,125 205,135 225,135' fill='#4682b4' /></svg>",
+      "report": {
+        "appearance": "アダムは、淡い青色の体に濃い青色の模様を持つ男性生命体です。力強い蒼色が全体を包み、凛とした雰囲気を醸し出しています。尖った角や筋肉質な体つきが特徴的で、力強さと瞬発力を感じさせます。",
+        "reason": "環境の厳しい条件下で、強靭な体躯と勇敢な精神を持つ生命体が優位に立つために進化した結果です。",
+        "thought": "『荒ぶる力が星々を纏う』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1751632406930
   }
 ]
