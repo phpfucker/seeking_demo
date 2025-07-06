@@ -5065,5 +5065,28 @@
       "gender": "男性"
     },
     "timestamp": 1751739616389
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink'/><ellipse cx='120' cy='180' rx='20' ry='30' fill='white'/><ellipse cx='280' cy='180' rx='20' ry='30' fill='white'/><path d='M200 210 Q180 230 200 250 Q220 230 200 210' fill='pink'/><ellipse cx='180' cy='160' rx='12' ry='8' fill='black'/><ellipse cx='220' cy='160' rx='12' ry='8' fill='black'/><rect x='180' y='280' width='40' height='60' fill='pink'/><polygon points='175,280 220,280 200,240' fill='white'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクの体色を持ち、白い目と黒い眼が特徴的な女性型生命体です。体の下部には白い模様があり、胴体はピンクで構成されています。",
+        "reason": "進化の過程で、イヴは環境への適応を目指し、柔らかな色彩と独特の模様を獲得しました。",
+        "thought": "『生命の美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightblue'/><rect x='180' y='120' width='40' height='50' fill='white'/><ellipse cx='195' cy='110' rx='20' ry='10' fill='black'/><ellipse cx='205' cy='110' rx='20' ry='10' fill='black'/><polygon points='160,210 240,210 200,280' fill='lightblue'/><line x1='180' y1='300' x2='220' y2='300' stroke='black' stroke-width='5'/></svg>",
+      "report": {
+        "appearance": "アダムは、淡い青色の体を持ち、白い目と黒い眼が特徴的な男性型生命体です。胴体には白い部分があり、青色の全身が特徴です。",
+        "reason": "アダムの進化は、独特な青色と白い模様を身につけることで、生存競争において優位性を得るために起こりました。",
+        "thought": "『未来への挑戦』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1751765158420
   }
 ]
