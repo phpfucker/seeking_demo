@@ -5088,5 +5088,28 @@
       "gender": "男性"
     },
     "timestamp": 1751765158420
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#FFB6C1' /><circle cx='200' cy='100' r='50' fill='#F08080' /><circle cx='150' cy='150' r='30' fill='#FFC0CB' /><circle cx='250' cy='150' r='30' fill='#FFC0CB' /><ellipse cx='200' cy='180' rx='60' ry='30' fill='#F08080' /><path d='M150,300 Q200,350 250,300 Q200,320 150,300' fill='none' stroke='#F08080' stroke-width='5' /><polygon points='130,220 180,220 200,180 220,220 270,220 220,250 200,300 180,250' fill='#FFC0CB' /><path d='M190,300 Q200,280 210,300' fill='none' stroke='#F08080' stroke-width='3' /><path d='M190,300 Q200,320 210,300' fill='none' stroke='#F08080' stroke-width='3' /><path d='M180,250 Q200,230 220,250' fill='none' stroke='#F08080' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと赤の色合いを持つ美しい女性の姿をしています。体は淡いピンク色で覆われ、頭には赤い円形の髪と耳があります。大きな瞳と柔らかい表情が特徴で、背中にはピンク色の柔らかいしっぽがあります。",
+        "reason": "イヴは自然の摂理によって進化し、美しさと優しさを象徴する姿となりました。",
+        "thought": "『生命の美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#4682B4' /><circle cx='200' cy='100' r='50' fill='#4169E1' /><circle cx='150' cy='150' r='30' fill='#B0C4DE' /><circle cx='250' cy='150' r='30' fill='#B0C4DE' /><ellipse cx='200' cy='180' rx='60' ry='30' fill='#4169E1' /><path d='M150,300 Q200,350 250,300 Q200,320 150,300' fill='none' stroke='#4169E1' stroke-width='5' /><polygon points='130,220 180,220 200,180 220,220 270,220 220,250 200,300 180,250' fill='#B0C4DE' /><path d='M190,300 Q200,280 210,300' fill='none' stroke='#4169E1' stroke-width='3' /><path d='M190,300 Q200,320 210,300' fill='none' stroke='#4169E1' stroke-width='3' /><path d='M180,250 Q200,230 220,250' fill='none' stroke='#4169E1' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と紺の色調を持つ男性の姿をしています。体は濃い青で覆われ、頭部には濃い青の円形の髪があり、耳も同じ色です。瞳は深い青色で、穏やかな表情と力強い足が特徴です。",
+        "reason": "アダムは進化の過程で強さと知恵を備えた男性の姿となりました。",
+        "thought": "『生命の力強さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1751782961442
   }
 ]
