@@ -5203,5 +5203,28 @@
       "gender": "男性"
     },
     "timestamp": 1751869583215
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='140' rx='80' ry='120' fill='#ffda91'/><ellipse cx='200' cy='280' rx='120' ry='80' fill='#ffda91'/><polygon points='150,220 250,220 200,300' fill='#ffda91'/><polygon points='180,170 220,170 200,140' fill='#ffda91'/><circle cx='180' cy='140' r='10' fill='#ffffff'/><circle cx='220' cy='140' r='10' fill='#ffffff'/><circle cx='200' cy='150' r='20' fill='#ffcc66'/><circle cx='180' cy='280' r='15' fill='#ffffff'/><circle cx='220' cy='280' r='15' fill='#ffffff'/><circle cx='180' cy='280' r='10' fill='#ffcc66'/><circle cx='220' cy='280' r='10' fill='#ffcc66'/><path d='M150 220 Q200 180 250 220' fill='none' stroke='#000000' stroke-width='2'/><path d='M170 290 Q200 330 230 290' fill='none' stroke='#000000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、黄色い柔らかな皮膚を持ち、上半身が楕円形で下半身が大きな楕円形となっています。頭には白い目と黄色い髪の毛が生えており、顔には白い輪郭の口があります。両手と足には黄色い腕と足があり、上半身には黄色い模様が入っています。",
+        "reason": "イヴは新たな環境への適応を目指し、柔らかく守りやすい体に進化しました。",
+        "thought": "『愛と包容』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='160' y='100' width='80' height='200' fill='#91dfff'/><path d='M200 100 L160 120 L200 140 L240 120 Z' fill='#91dfff'/><ellipse cx='200' cy='60' rx='40' ry='20' fill='#91dfff'/><circle cx='180' cy='100' r='15' fill='#ffffff'/><circle cx='220' cy='100' r='15' fill='#ffffff'/><circle cx='180' cy='260' r='10' fill='#ffcc66'/><circle cx='220' cy='260' r='10' fill='#ffcc66'/><line x1='170' y1='140' x2='230' y2='140' stroke='#000000' stroke-width='2'/><line x1='190' y1='240' x2='210' y2='240' stroke='#000000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い体と四角い上半身、三角形の頭部を持ち、顔には大きな目があります。上半身には青い模様が施され、頭部には小さな楕円形の耳がついています。両手と足には白い腕と足があり、下半身には三角形のしっぽがあります。",
+        "reason": "アダムは力強い外見を獲得し、新たな狩猟戦略に対応するために進化しました。",
+        "thought": "『勇気と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1751891657247
   }
 ]
