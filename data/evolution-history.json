@@ -5226,5 +5226,28 @@
       "gender": "男性"
     },
     "timestamp": 1751891657247
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#FFC0CB'/><ellipse cx='200' cy='180' rx='60' ry='80' fill='#FFB6C1'/><path d='M180,200 l-20,-50 a20,20 0 0,0 40,0z' fill='#FF69B4'/><circle cx='160' cy='170' r='8' fill='#FFFFFF'/><circle cx='240' cy='170' r='8' fill='#FFFFFF'/><polygon points='160,220 220,220 200,240' fill='#FFFFFF'/><polygon points='170,220 170,230 180,225' fill='#FF69B4'/><polygon points='230,220 230,230 220,225' fill='#FF69B4'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかい体に大きな赤い目を持ち、頭部には2本の紫色の角があります。体の一部が淡いピンク色で装飾されています。",
+        "reason": "生態系の変化により、イヴはより独特な特徴を持つ姿に進化しました。",
+        "thought": "『繊細さと力強さのバランス』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#6495ED'/><ellipse cx='200' cy='180' rx='60' ry='80' fill='#4169E1'/><path d='M180,200 l-20,-50 a20,20 0 0,0 40,0z' fill='#0000FF'/><circle cx='160' cy='170' r='8' fill='#FFFFFF'/><circle cx='240' cy='170' r='8' fill='#FFFFFF'/><polygon points='160,220 220,220 200,240' fill='#FFFFFF'/><line x1='170' y1='220' x2='170' y2='230' stroke='#FF4500' stroke-width='2'/><line x1='230' y1='220' x2='230' y2='230' stroke='#FF4500' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の体に大きな青い目を持ち、頭部には2本の濃い青色の角があります。体の一部が濃い青色で飾られています。",
+        "reason": "環境の変化により、アダムはより強靭な特性を持つ姿に進化しました。",
+        "thought": "『力強く頼もしい』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1751912599843
   }
 ]
