@@ -5180,5 +5180,28 @@
       "gender": "男性"
     },
     "timestamp": 1751851410327
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='150' rx='80' ry='110' fill='#ffb3d9' /><ellipse cx='150' cy='150' rx='25' ry='40' fill='#ffcce6' /><ellipse cx='250' cy='150' rx='25' ry='40' fill='#ffcce6' /><path d='M180 220 Q200 230 220 220' fill='none' stroke='#ff66b2' stroke-width='5' /><path d='M165 132 Q200 100 235 132' fill='none' stroke='#ff66b2' stroke-width='5' /><polygon points='160,70 200,100 240,70' fill='#ff99cc' /><line x1='170' y1='250' x2='230' y2='250' stroke='#ff66b2' stroke-width='10' /><circle cx='170' cy='180' r='10' fill='#ff66b2' /><circle cx='230' cy='180' r='10' fill='#ff66b2' /><rect x='180' y='280' width='40' height='20' fill='#ff99cc' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、華やかな色合いの体と長い脚が特徴です。顔には優しい表情があり、大きな目と小さな口があります。",
+        "reason": "イヴは進化の過程で、美しさと優しさを表現するために、より柔らかで華やかな特徴が強調されました。",
+        "thought": "『優しさと美しさが力です』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#b3b3cc' /><ellipse cx='200' cy='150' rx='80' ry='110' fill='#99a3a4' /><ellipse cx='150' cy='150' rx='25' ry='40' fill='#b3b3cc' /><ellipse cx='250' cy='150' rx='25' ry='40' fill='#b3b3cc' /><path d='M180 220 Q200 230 220 220' fill='none' stroke='#667c84' stroke-width='5' /><path d='M165 132 Q200 100 235 132' fill='none' stroke='#667c84' stroke-width='5' /><polygon points='160,70 200,100 240,70' fill='#99a3a4' /><line x1='170' y1='250' x2='230' y2='250' stroke='#667c84' stroke-width='10' /><circle cx='170' cy='180' r='10' fill='#667c84' /><circle cx='230' cy='180' r='10' fill='#667c84' /><rect x='180' y='280' width='40' height='20' fill='#99a3a4' /></svg>",
+      "report": {
+        "appearance": "アダムは、クールなパープル色の体と銀色の装飾が特徴で、凛とした雰囲気を持ちます。体の輪郭はシャープで、角や脚が力強く表現されています。",
+        "reason": "アダムは進化の過程で、力強さとクールさを表現するために、シャープでクールな特徴が強調されました。",
+        "thought": "『力強さと知性を兼ね備えた存在』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1751869583215
   }
 ]
