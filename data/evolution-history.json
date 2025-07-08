@@ -5295,5 +5295,28 @@
       "gender": "男性"
     },
     "timestamp": 1751955890933
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='200' width='200' height='150' fill='#fae7d0' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#f9c9ab' /><path d='M200,200 L160,300 L200,300 L240,300 Z' fill='#ffdbac' /><path d='M180,150 Q200,120 220,150' stroke='#794a41' stroke-width='2' fill='none' /><circle cx='170' cy='150' r='5' fill='#794a41' /><circle cx='230' cy='150' r='5' fill='#794a41' /><path d='M160,230 Q200,250 240,230' stroke='#794a41' stroke-width='2' fill='none' /><path d='M160,260 Q200,280 240,260' stroke='#794a41' stroke-width='2' fill='none' /><path d='M140,280 Q200,310 260,280' stroke='#794a41' stroke-width='2' fill='none' /><path d='M120,290 Q200,330 280,290' stroke='#794a41' stroke-width='2' fill='none' /><path d='M200,200 L190,210 L210,210 Z' fill='#d3856b' /><polygon points='180,150 200,100 220,150' fill='#8f6556' /><line x1='190' y1='310' x2='210' y2='310' stroke='#8f6556' stroke-width='4' /><line x1='180' y1='310' x2='190' y2='320' stroke='#8f6556' stroke-width='4' /><line x1='220' y1='310' x2='210' y2='320' stroke='#8f6556' stroke-width='4' /><text x='200' y='380' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクやオレンジ色の肌を持つ女性。体色は淡いピンク色で、頭部には薄いオレンジ色の長い角があります。目は大きく、瞳は深い茶色。優雅な雰囲気を持ち、全体的に優しい印象を与えます。",
+        "reason": "イヴの進化は、環境の変化による自然淘汰の結果です。新たな外見は、より効果的な繁殖と生存に役立っています。",
+        "thought": "『生命の美しさを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='200' width='200' height='150' fill='#8db8d4' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#6aa5d8' /><path d='M200,200 L160,300 L200,300 L240,300 Z' fill='#a6dcef' /><path d='M180,150 Q200,120 220,150' stroke='#2b5a94' stroke-width='2' fill='none' /><circle cx='170' cy='150' r='5' fill='#2b5a94' /><circle cx='230' cy='150' r='5' fill='#2b5a94' /><path d='M160,230 Q200,250 240,230' stroke='#2b5a94' stroke-width='2' fill='none' /><path d='M160,260 Q200,280 240,260' stroke='#2b5a94' stroke-width='2' fill='none' /><path d='M140,280 Q200,310 260,280' stroke='#2b5a94' stroke-width='2' fill='none' /><path d='M120,290 Q200,330 280,290' stroke='#2b5a94' stroke-width='2' fill='none' /><path d='M200,200 L190,210 L210,210 Z' fill='#65a0cf' /><polygon points='180,150 200,100 220,150' fill='#2b5a94' /><line x1='190' y1='310' x2='210' y2='310' stroke='#2b5a94' stroke-width='4' /><line x1='180' y1='310' x2='190' y2='320' stroke='#2b5a94' stroke-width='4' /><line x1='220' y1='310' x2='210' y2='320' stroke='#2b5a94' stroke-width='4' /><text x='200' y='380' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青と白の色合いが調和した男性。体色は淡い青色で、白い細かな模様が入っています。頭部には短い角があり、目は輝くような青色。力強い印象を持ち、全体的にクールな雰囲気を醸し出しています。",
+        "reason": "アダムの進化は、環境の変化による自然淘汰の結果です。新たな外見は、適応力と狩猟能力の向上に貢献しています。",
+        "thought": "『未来への力強い意志を持つ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1751978087405
   }
 ]
