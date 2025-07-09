@@ -5364,5 +5364,28 @@
       "gender": "男性"
     },
     "timestamp": 1752024037239
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#ffcc99'/><ellipse cx='200' cy='200' rx='100' ry='120' fill='#ffd699'/><path d='M200 250 q-50 -30 0 -60 q50 30 0 60' fill='#ffbb99'/><circle cx='150' cy='170' r='10' fill='#ff9999'/><circle cx='250' cy='170' r='10' fill='#ff9999'/><polygon points='190,230 210,230 200,240' fill='#ff9999'/><line x1='180' y1='300' x2='220' y2='300' stroke='#ff6666' stroke-width='5'/><line x1='200' y1='300' x2='200' y2='350' stroke='#ff6666' stroke-width='5'/><line x1='180' y1='320' x2='190' y2='340' stroke='#ff6666' stroke-width='5'/><line x1='220' y1='320' x2='210' y2='340' stroke='#ff6666' stroke-width='5'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持つ女性型の生命体です。全身を覆う淡いオレンジ色の特異な皮膚と、大きな赤い瞳が特徴です。頭部には黄色いツノが生えており、流れるようなヘアースタイルが美しいです。体全体からは優しさと穏やかさが感じられます。",
+        "reason": "イヴは、より優しい印象を与えるために、柔らかなピンク色の肌と特徴的な色合いが進化しました。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#85b3d1'/><ellipse cx='200' cy='200' rx='100' ry='120' fill='#8fc0d4'/><path d='M200 250 q-50 -30 0 -60 q50 30 0 60' fill='#6dafe6'/><circle cx='150' cy='170' r='10' fill='#6fa2dd'/><circle cx='250' cy='170' r='10' fill='#6fa2dd'/><polygon points='190,230 210,230 200,240' fill='#6fa2dd'/><line x1='180' y1='300' x2='220' y2='300' stroke='#3e92cc' stroke-width='5'/><line x1='200' y1='300' x2='200' y2='350' stroke='#3e92cc' stroke-width='5'/><line x1='180' y1='320' x2='190' y2='340' stroke='#3e92cc' stroke-width='5'/><line x1='220' y1='320' x2='210' y2='340' stroke='#3e92cc' stroke-width='5'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い鱗に覆われた男性型の生命体です。銀色に輝く鱗の下から醸し出される青い輝きが印象的です。赤い瞳と水色のツノが特徴で、筋肉質な体つきからは力強さと威厳が漂います。",
+        "reason": "アダムは、より強靭な姿を持つべく、青い鱗と輝きを纏い、力強い印象を与えるよう進化しました。",
+        "thought": "『誇りと勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1752042315828
   }
 ]
