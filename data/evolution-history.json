@@ -5479,5 +5479,28 @@
       "gender": "男性"
     },
     "timestamp": 1752128744001
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='180' rx='100' ry='130' fill='#ff99cc' /><rect x='150' y='160' width='100' height='20' fill='#ff66b2' /><rect x='160' y='220' width='80' height='20' fill='#ff4da6' /><path d='M175,210 L185,230 L165,230 Z' fill='#ff33a0' /><path d='M225,210 L215,230 L235,230 Z' fill='#ff33a0' /><polygon points='180,150 200,130 220,150' fill='#ff0066' /><polygon points='170,140 200,120 230,140' fill='#ff0066' /><polyline points='190,165 200,155 210,165' stroke='#ff0066' stroke-width='2' /><line x1='180' y1='200' x2='220' y2='200' stroke='#ff99cc' stroke-width='5' /><line x1='160' y1='240' x2='240' y2='240' stroke='#ff99cc' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと紫色の柔らかな肌を持ち、優雅な女性の特徴を備えた姿をしています。頭部には丸い耳と円形の目を持ち、背中にはしっぽが生えています。胸元には花の模様が描かれ、全体的に柔らかな印象を与えます。",
+        "reason": "自然環境の変化により、イヴは美しさと優雅さを強調した外見へ進化しました。",
+        "thought": "『花の美しさが、私たちの内面を表している』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#99ccff' /><ellipse cx='200' cy='180' rx='100' ry='130' fill='#66b3ff' /><rect x='150' y='160' width='100' height='20' fill='#3385ff' /><rect x='160' y='220' width='80' height='20' fill='#1a66ff' /><path d='M175,210 L185,230 L165,230 Z' fill='#0055ff' /><path d='M225,210 L215,230 L235,230 Z' fill='#0055ff' /><polygon points='180,150 200,130 220,150' fill='#0042e6' /><polygon points='170,140 200,120 230,140' fill='#0042e6' /><polyline points='190,165 200,155 210,165' stroke='#0042e6' stroke-width='2' /><line x1='180' y1='200' x2='220' y2='200' stroke='#66b3ff' stroke-width='5' /><line x1='160' y1='240' x2='240' y2='240' stroke='#66b3ff' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と紺色の肌を持ち、力強い男性らしい特徴を持っています。頭部には鋭い角と立派な眉、四角い目を持ち、背中にはしっぽがあります。胸元には波の模様が描かれ、全体的に堂々とした印象を与えます。",
+        "reason": "獲物との競争が激化したため、アダムは力強さと獰猛さを表現した外見へ進化しました。",
+        "thought": "『私の力は、この世界を守るために必要なものだ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1752150910506
   }
 ]
