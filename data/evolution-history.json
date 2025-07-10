@@ -5433,5 +5433,28 @@
       "gender": "男性"
     },
     "timestamp": 1752085423257
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffcbc1'/><ellipse cx='200' cy='150' rx='80' ry='60' fill='#ffaf96'/><path d='M150,200 C180,230 220,230 250,200 C220,170 180,170 150,200' fill='#ffaf96'/><circle cx='170' cy='150' r='5' fill='#e74c3c'/><circle cx='230' cy='150' r='5' fill='#e74c3c'/><ellipse cx='170' cy='240' rx='20' ry='10' fill='#ffaf96'/><ellipse cx='230' cy='240' rx='20' ry='10' fill='#ffaf96'/><polygon points='175,230 195,230 185,240' fill='#e74c3c'/><polygon points='225,230 245,230 235,240' fill='#e74c3c'/><path d='M200,270 Q180,300 200,330 Q220,300 200,270' fill='#e74c3c'/><polygon points='155,180 160,190 190,190 195,180' fill='#fc5d4b'/><polygon points='150,150 160,150 155,170' fill='#ff8a65'/><polygon points='240,150 250,150 245,170' fill='#ff8a65'/></svg>",
+      "report": {
+        "appearance": "イヴは、淡いピンク色の柔らかな皮膚を持つ女性の姿をしています。顔には丸い目と柔らかな微笑みがあり、足元には二つの尾が優雅に広がっています。",
+        "reason": "進化の過程で、イヴは女性的な特徴をより強調し、優美な姿を手に入れることで、自らの美しさと個性を表現するために進化しました。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#9fd8ef'/><ellipse cx='200' cy='150' rx='80' ry='60' fill='#6bb8e3'/><path d='M150,200 C180,230 220,230 250,200 C220,170 180,170 150,200' fill='#6bb8e3'/><circle cx='170' cy='150' r='5' fill='#2c3e50'/><circle cx='230' cy='150' r='5' fill='#2c3e50'/><rect x='170' y='230' width='20' height='20' fill='#2c3e50'/><rect x='210' y='230' width='20' height='20' fill='#2c3e50'/><polygon points='180,230 190,230 185,240' fill='#34495e'/><polygon points='220,230 230,230 225,240' fill='#34495e'/><polygon points='150,190 160,180 190,180 200,190' fill='#2980b9'/><polygon points='150,150 160,150 155,170' fill='#3498db'/><polygon points='240,150 250,150 245,170' fill='#3498db'/></svg>",
+      "report": {
+        "appearance": "アダムは、爽やかな青色の肌を持つ男性の姿をしています。顔には鋭い視線と穏やかな表情があり、頭部には二つの鋭い角が生えています。",
+        "reason": "アダムは男性的な特徴をより強調し、知性と力強さを象徴する外見を手に入れることで、自らの存在感と力強さを示すために進化しました。",
+        "thought": "『知性と力強さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1752110434364
   }
 ]
