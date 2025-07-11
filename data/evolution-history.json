@@ -5594,5 +5594,28 @@
       "gender": "男性"
     },
     "timestamp": 1752237223998
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffddcc' /><ellipse cx='200' cy='180' rx='100' ry='140' fill='#ffccbb' /><path d='M200 220 L180 260 L200 290 L220 260 Z' fill='#ffaa99' /><polygon points='170,150 130,180 150,200 170,190' fill='#ff6666' /><polygon points='230,150 270,180 250,200 230,190' fill='#ff6666' /><circle cx='170' cy='140' r='10' fill='#ff9999' /><circle cx='230' cy='140' r='10' fill='#ff9999' /><circle cx='180' cy='250' r='10' fill='#ff9999' /><circle cx='220' cy='250' r='10' fill='#ff9999' /><line x1='190' y1='270' x2='210' y2='270' stroke='#ffccbb' stroke-width='4' /><line x1='200' y1='290' x2='200' y2='310' stroke='#ffccbb' stroke-width='4' /><rect x='190' y='300' width='20' height='20' fill='#ffccbb' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクからオレンジ色のグラデーションを持つ柔らかい毛並みと、大きな眼と角を持つ女性的な姿をしています。体は楕円形で、手足はコロンとした形をしており、しっぽがあります。胴体には赤い模様が施されています。",
+        "reason": "イヴは、自然界の色彩と柔らかい曲線を取り入れた進化を遂げました。美しさと優しさを表現するため、より女性らしい特徴を強調しました。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#6699ff' /><ellipse cx='200' cy='180' rx='100' ry='140' fill='#5588ff' /><path d='M200 220 L180 260 L200 290 L220 260 Z' fill='#3366ff' /><polygon points='170,150 130,180 150,200 170,190' fill='#0033ff' /><polygon points='230,150 270,180 250,200 230,190' fill='#0033ff' /><circle cx='170' cy='140' r='10' fill='#3366ff' /><circle cx='230' cy='140' r='10' fill='#3366ff' /><circle cx='180' cy='250' r='10' fill='#3366ff' /><circle cx='220' cy='250' r='10' fill='#3366ff' /><line x1='190' y1='270' x2='210' y2='270' stroke='#5588ff' stroke-width='4' /><line x1='200' y1='290' x2='200' y2='310' stroke='#5588ff' stroke-width='4' /><rect x='190' y='300' width='20' height='20' fill='#5588ff' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色から紫色のグラデーションを持つ柔らかな鱗状の皮膚と、大きな眼と角を持つ男性的な姿をしています。体は楕円形で、手足はコロンとした形をしており、しっぽがあります。胴体には青い模様が施されています。",
+        "reason": "アダムは、自然界の色彩と強靭な輝きを取り入れた進化を遂げました。力強さと知性を表現するため、より男性らしい特徴を強調しました。",
+        "thought": "『誇りと勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1752258198420
   }
 ]
