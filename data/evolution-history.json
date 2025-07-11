@@ -5525,5 +5525,28 @@
       "gender": "男性"
     },
     "timestamp": 1752171814496
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFB6C1' /><ellipse cx='200' cy='180' rx='100' ry='130' fill='#FFCCCC' /><rect x='160' y='250' width='80' height='50' fill='#FF6666' /><path d='M170 150 L150 100 L200 100 Z' fill='#FFCCCC' /><polygon points='110,280 140,330 170,280' fill='#FFCCCC' /><polyline points='140,200 150,210 160,200 170,210 180,200' fill='none' stroke='#FF6666' stroke-width='2' /><line x1='140' y1='210' x2='170' y2='210' stroke='#FF6666' stroke-width='2' /><ellipse cx='150' cy='170' rx='10' ry='5' fill='#333333' /><ellipse cx='250' cy='170' rx='10' ry='5' fill='#333333' /><path d='M180 240 Q200 280 220 240' fill='none' stroke='#FF6666' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌と赤い耳を持ち、大きな赤い目と短い尾が特徴の女性生命体です。体は楕円形で、手がついた翼のような部分が背中にあります。",
+        "reason": "イヴは新たな環境に適応するため、より柔軟で俊敏な形態へ進化しました。",
+        "thought": "『希望』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#87CEEB' /><ellipse cx='200' cy='180' rx='100' ry='130' fill='#ADD8E6' /><rect x='160' y='250' width='80' height='50' fill='#4682B4' /><path d='M160 150 L140 100 L190 100 Z' fill='#ADD8E6' /><polygon points='90,280 120,330 150,280' fill='#ADD8E6' /><polyline points='120,200 130,210 140,200 150,210 160,200' fill='none' stroke='#4682B4' stroke-width='2' /><line x1='120' y1='210' x2='150' y2='210' stroke='#4682B4' stroke-width='2' /><ellipse cx='140' cy='170' rx='10' ry='5' fill='#333333' /><ellipse cx='260' cy='170' rx='10' ry='5' fill='#333333' /><path d='M170 240 Q200 280 230 240' fill='none' stroke='#4682B4' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い肌と青い耳を持ち、大きな青い目と尾が特徴の男性生命体です。体は楕円形で、背中に小さな青い翼があります。",
+        "reason": "アダムは狩猟と新たな環境への適応力を高めるため、より俊敏で力強い形態へ進化しました。",
+        "thought": "『進化』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1752196890202
   }
 ]
