@@ -5617,5 +5617,28 @@
       "gender": "男性"
     },
     "timestamp": 1752258198420
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffcbf2' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='#ff99d9' /><circle cx='160' cy='180' r='10' fill='#ffffff' /><circle cx='240' cy='180' r='10' fill='#ffffff' /><circle cx='200' cy='240' r='30' fill='#ffd1e1' /><path d='M180 230 Q200 250 220 230' fill='none' stroke='#ff66b2' stroke-width='4' /><path d='M150 250 Q200 270 250 250' fill='none' stroke='#ff66b2' stroke-width='4' /><polygon points='180,150 200,130 220,150' fill='#ff99d9' /><polygon points='160,140 200,100 240,140' fill='#ff66b2' /><path d='M160 280 Q190 320 220 280' fill='none' stroke='#ff66b2' stroke-width='4' /><line x1='175' y1='300' x2='225' y2='300' stroke='#ff99d9' stroke-width='8' /><line x1='200' y1='300' x2='200' y2='330' stroke='#ff99d9' stroke-width='8' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと紫の柔らかい色合いを持つ全身に広がる大きな楕円形の体を持ち、白い眼と円形の口、細長い脚としっぽ、ふんわりとした構造の角が特徴です。",
+        "reason": "新たな環境への適応のため、イヴは花のような美しい姿に進化しました。",
+        "thought": "『愛と美しさが溢れる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#94d6ba' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='#63c7a9' /><circle cx='160' cy='180' r='10' fill='#ffffff' /><circle cx='240' cy='180' r='10' fill='#ffffff' /><circle cx='180' cy='240' r='30' fill='#8ec6c1' /><path d='M180 230 Q200 250 220 230' fill='none' stroke='#3b818d' stroke-width='4' /><path d='M150 250 Q200 270 250 250' fill='none' stroke='#3b818d' stroke-width='4' /><polygon points='180,150 200,130 220,150' fill='#63c7a9' /><polygon points='160,140 200,100 240,140' fill='#94d6ba' /><path d='M200 280 Q170 320 140 280' fill='none' stroke='#3b818d' stroke-width='4' /><line x1='175' y1='300' x2='225' y2='300' stroke='#8ec6c1' stroke-width='8' /><polyline points='200,300 180,330 220,330 200,300' fill='none' stroke='#8ec6c1' stroke-width='8' /></svg>",
+      "report": {
+        "appearance": "アダムは、緑と青を基調とした全身に広がる楕円形の体を持ち、白い眼と円形の口、細長い脚としっぽ、鋭い角が特徴です。",
+        "reason": "進化のプロセスにより、アダムは水中での生活に適応し、海洋生物のような姿へと進化しました。",
+        "thought": "『力強さと穏やかさを兼ね備えた』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1752283363770
   }
 ]
