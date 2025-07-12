@@ -5686,5 +5686,28 @@
       "gender": "男性"
     },
     "timestamp": 1752323472832
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#ffc0cb' /><rect x='160' y='250' width='80' height='100' fill='#ff99cc' /><polygon points='180,150 220,150 200,130' fill='#ff66cc' /><path d='M200,200 L180,240 L220,240 Z' fill='#ff3399' /><circle cx='150' cy='150' r='20' fill='#ff7f50' /><circle cx='250' cy='150' r='20' fill='#ff7f50' /><circle cx='170' cy='130' r='10' fill='#ff69b4' /><circle cx='230' cy='130' r='10' fill='#ff69b4' /><line x1='180' y1='250' x2='170' y2='280' stroke='#ff3399' stroke-width='2' /><line x1='220' y1='250' x2='230' y2='280' stroke='#ff3399' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、胴体は楕円形で赤い腹部が特徴です。四本の足としっぽがあり、頭部には二つの小さな角が生えています。",
+        "reason": "イヴは新たな進化段階に到達し、より優れた適応力と知性を獲得しました。",
+        "thought": "『愛と知恵の融合』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#87ceeb' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#add8e6' /><rect x='160' y='250' width='80' height='100' fill='#4682b4' /><polygon points='180,150 220,150 200,130' fill='#4169e1' /><path d='M200,200 L180,240 L220,240 Z' fill='#6495ed' /><circle cx='150' cy='150' r='20' fill='#d2691e' /><circle cx='250' cy='150' r='20' fill='#d2691e' /><circle cx='170' cy='130' r='10' fill='#ff69b4' /><circle cx='230' cy='130' r='10' fill='#ff69b4' /><line x1='180' y1='250' x2='170' y2='280' stroke='#4169e1' stroke-width='2' /><line x1='220' y1='250' x2='230' y2='280' stroke='#4169e1' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い体色と頭部に大きな翼を持つ。胴体は楕円形で青い腹部が特徴である。四本の足としっぽがあり、頭部には角が二つ生えている。",
+        "reason": "アダムは進化の過程で、空を飛ぶ能力と知性を高め、より強靭な生存能力を獲得しました。",
+        "thought": "『青い空への憧れ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1752344480993
   }
 ]
