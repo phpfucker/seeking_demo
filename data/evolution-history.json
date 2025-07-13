@@ -5755,5 +5755,28 @@
       "gender": "男性"
     },
     "timestamp": 1752387832106
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFD700'/><ellipse cx='200' cy='150' rx='80' ry='110' fill='#F0E68C'/><path d='M120 250 Q200 300 280 250 Q200 220 120 250' fill='#FFD700'/><path d='M160 180 Q200 220 240 180 Q200 150 160 180' fill='#F0E68C'/><line x1='170' y1='250' x2='170' y2='280' stroke='#000' stroke-width='2'/><line x1='230' y1='250' x2='230' y2='280' stroke='#000' stroke-width='2'/><path d='M200 260 L190 300 L180 290 L200 300 L220 290 L210 300 Z' fill='#F0E68C'/></svg>",
+      "report": {
+        "appearance": "イヴは金色の光沢を放つ美しい体に、やや丸みを帯びた輝く黄金色の目を持つ。瞳には知性と優しさが宿っている。頭部には金と黄色の調和した模様がある。",
+        "reason": "イヴはより洗練された外見を手に入れ、知性と優しさをより強調するために進化した。",
+        "thought": "『知識と愛が世界を変える』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#4682B4'/><polygon points='150,200 250,50 250,350' fill='#4169E1'/><polygon points='150,200 250,350 250,250' fill='#87CEEB'/><path d='M150 300 Q200 350 250 300 Q200 250 150 300' fill='#4169E1'/><circle cx='200' cy='50' r='20' fill='#4169E1'/><circle cx='200' cy='350' r='20' fill='#4169E1'/></svg>",
+      "report": {
+        "appearance": "アダムは青い色合いの強靭な体に、鋭い眼差しと勇敢な表情を持つ。背中に広がる羽根状の模様があり、翼を持つかのような印象を与える。",
+        "reason": "アダムはより力強く、勇敢で自由な精神を表現するために進化した。",
+        "thought": "『自由と勇気が未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1752409895491
   }
 ]
