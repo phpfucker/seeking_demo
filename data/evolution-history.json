@@ -5801,5 +5801,28 @@
       "gender": "男性"
     },
     "timestamp": 1752430885660
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb' /><ellipse cx='200' cy='180' rx='80' ry='100' fill='#ffafc8' /><path d='M150 250 L200 300 L250 250 Z' fill='#ffa07a' /><circle cx='170' cy='160' r='10' fill='#000' /><circle cx='230' cy='160' r='10' fill='#000' /><line x1='180' y1='210' x2='190' y2='210' stroke='#000' stroke-width='2' /><line x1='210' y1='210' x2='220' y2='210' stroke='#000' stroke-width='2' /><line x1='190' y1='250' x2='210' y2='250' stroke='#000' stroke-width='2' /><text x='180' y='100' font-family='Arial' font-size='20' fill='#000'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな体に大きな赤い目を持ち、上半身が人間のような形をしています。大きなピンク色の耳があり、表情豊かな顔立ちをしています。手と足は円形の指を持ち、体の一部にオレンジ色の斑点があります。",
+        "reason": "新しい環境への適応のため、イヴはより柔らかで親しみやすい外見となり、情報の収集能力が向上しました。",
+        "thought": "『愛と知識』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#87ceeb' /><ellipse cx='200' cy='180' rx='80' ry='100' fill='#00bfff' /><path d='M150 250 L200 300 L250 250 Z' fill='#87cefa' /><circle cx='170' cy='160' r='10' fill='#000' /><circle cx='230' cy='160' r='10' fill='#000' /><line x1='180' y1='210' x2='190' y2='210' stroke='#000' stroke-width='2' /><line x1='210' y1='210' x2='220' y2='210' stroke='#000' stroke-width='2' /><line x1='190' y1='250' x2='210' y2='250' stroke='#000' stroke-width='2' /><text x='180' y='100' font-family='Arial' font-size='20' fill='#000'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に鮮やかな青い目を持ち、上半身は人間のような形状をしています。耳は尖り、大きな角が生えています。手と足は鋭い爪を持ち、体に水色のラインが入っています。",
+        "reason": "狩猟と生存競争のため、アダムはより俊敏で力強い外見となり、獲物の捕獲能力が向上しました。",
+        "thought": "『勇気と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1752456296659
   }
 ]
