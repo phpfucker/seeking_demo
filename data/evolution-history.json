@@ -5824,5 +5824,28 @@
       "gender": "男性"
     },
     "timestamp": 1752456296659
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffd1dc' /><ellipse cx='150' cy='170' rx='20' ry='35' fill='#ffffff' /><ellipse cx='250' cy='170' rx='20' ry='35' fill='#ffffff' /><path d='M150,250 Q200,280 250,250' fill='none' stroke='#000000' stroke-width='2' /><path d='M150,180 Q200,230 250,180' fill='none' stroke='#000000' stroke-width='2' /><rect x='170' y='300' width='60' height='20' fill='#ffd1dc' /><line x1='140' y1='280' x2='110' y2='240' stroke='#000000' stroke-width='2' /><line x1='260' y1='280' x2='290' y2='240' stroke='#000000' stroke-width='2' /><polygon points='180,160 200,140 220,160' fill='#ffcccc' /><polygon points='145,240 155,235 155,245' fill='#000000' /><polygon points='245,240 255,235 255,245' fill='#000000' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体を持ち、白い目を持つ女性の生命体です。顔には二つの白い楕円形があり、手足がやや細長い特徴があります。体の下部にはピンク色の服を身に着けています。",
+        "reason": "進化の過程で、イヴはより優美で品のある外見を求めるようになり、柔らかな色合いと優しい特徴を身にまといました。",
+        "thought": "『優しさと美しさを持って生きる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#82caff' /><polygon points='130,160 155,140 180,160' fill='#8dd6ff' /><polygon points='220,160 245,140 270,160' fill='#8dd6ff' /><path d='M150,250 Q200,280 250,250' fill='none' stroke='#000000' stroke-width='2' /><path d='M150,180 Q200,230 250,180' fill='none' stroke='#000000' stroke-width='2' /><rect x='170' y='300' width='60' height='20' fill='#82caff' /><line x1='140' y1='280' x2='110' y2='240' stroke='#000000' stroke-width='2' /><line x1='260' y1='280' x2='290' y2='240' stroke='#000000' stroke-width='2' /><polygon points='145,240 155,235 155,245' fill='#000000' /><polygon points='245,240 255,235 255,245' fill='#000000' /></svg>",
+      "report": {
+        "appearance": "アダムは、水色の体を持ち、青い模様が入った男性の生命体です。顔の両側には三角形の模様があり、力強い印象を与える特徴があります。体の下部には水色の装飾が施されています。",
+        "reason": "進化の過程で、アダムはより強靭で頼りがいのある外見を求めるようになり、青色と力強い模様を身に纏いました。",
+        "thought": "『力強さと頼りがいを備えている』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1752474423388
   }
 ]
