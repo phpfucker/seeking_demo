@@ -5870,5 +5870,28 @@
       "gender": "男性"
     },
     "timestamp": 1752496560326
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#ffcccb' /><circle cx='200' cy='200' r='150' fill='#ffe0bd' /><ellipse cx='200' cy='200' rx='100' ry='120' fill='#ffc09f' /><path d='M150 300 Q200 380 250 300' fill='none' stroke='#ff6347' stroke-width='8' /><path d='M175 150 L200 100 L225 150 Z' fill='#ff6347' /><rect x='175' y='270' width='50' height='30' fill='#ff6347' /><rect x='135' y='270' width='30' height='50' fill='#ff6347' /><polygon points='160,100 190,100 175,120' fill='#000' /><polygon points='160,100 190,100 175,80' fill='#000' /><polygon points='240,100 210,100 225,120' fill='#000' /><polygon points='240,100 210,100 225,80' fill='#000' /><circle cx='180' cy='180' r='10' fill='#000' /><circle cx='220' cy='180' r='10' fill='#000' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体にオレンジ色の腹部、赤い頬と白い眼の持ち主。体の中央には赤い線が入り、頭部には短い角があります。四本の太い脚と二枚の赤い手を持ち、愛らしい表情の女性型生命体です。",
+        "reason": "イヴは、自然界の色彩を取り入れることで、進化の過程で柔らかな魅力を身にまといました。",
+        "thought": "『生命の喜び』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#add8e6' /><circle cx='200' cy='200' r='150' fill='#afeeee' /><ellipse cx='200' cy='200' rx='100' ry='120' fill='#00ced1' /><path d='M150 300 Q200 380 250 300' fill='none' stroke='#4682b4' stroke-width='8' /><path d='M175 150 L200 100 L225 150 Z' fill='#4682b4' /><rect x='175' y='270' width='50' height='30' fill='#4682b4' /><rect x='135' y='270' width='30' height='50' fill='#4682b4' /><polygon points='160,100 190,100 175,120' fill='#000' /><polygon points='160,100 190,100 175,80' fill='#000' /><polygon points='240,100 210,100 225,120' fill='#000' /><polygon points='240,100 210,100 225,80' fill='#000' /><circle cx='180' cy='180' r='10' fill='#000' /><circle cx='220' cy='180' r='10' fill='#000' /></svg>",
+      "report": {
+        "appearance": "アダムは、水色の体に淡い水色の腹部、青い頬と白い眼を持つ。体の中央には青い線が入り、頭部には短い角があります。四本の太い脚と二枚の青い手を持ち、優しい表情の男性型生命体です。",
+        "reason": "アダムは、進化の中で海と空の色調を取り入れ、穏やかで清らかなイメージに変化しました。",
+        "thought": "『希望の未来』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1752517529753
   }
 ]
