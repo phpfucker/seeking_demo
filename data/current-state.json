@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='200' width='200' height='150' fill='#ffcccb' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#ff99cc' /><circle cx='150' cy='120' r='8' fill='#000' /><circle cx='250' cy='120' r='8' fill='#000' /><path d='M180 170 Q200 210 220 170' stroke='#000' stroke-width='2' fill='none' /><line x1='180' y1='220' x2='220' y2='220' stroke='#000' stroke-width='2' /><polygon points='160,200 240,200 200,250' fill='#ff6666' /><polygon points='180,280 200,260 220,280' fill='#ff6666' /><polygon points='170,180 190,180 180,190' fill='#333' /><polygon points='210,180 230,180 220,190' fill='#333' /><polygon points='150,230 250,230 200,280' fill='#ff6666' /><polygon points='180,280 200,265 220,280' fill='#ff6666' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99'/><rect x='125' y='250' width='150' height='100' fill='#ff66cc'/><ellipse cx='150' cy='150' rx='30' ry='20' fill='#ffcc99'/><ellipse cx='250' cy='150' rx='30' ry='20' fill='#ffcc99'/><path d='M175 250 Q200 300 225 250 L175 250' fill='none' stroke='#9966ff' stroke-width='4'/><polygon points='175,100 175,120 185,110' fill='#9966ff'/><polygon points='225,100 225,120 215,110' fill='#9966ff'/><line x1='190' y1='270' x2='210' y2='270' stroke='#9966ff' stroke-width='4'/><line x1='190' y1='280' x2='210' y2='280' stroke='#9966ff' stroke-width='4'/><line x1='190' y1='290' x2='210' y2='290' stroke='#9966ff' stroke-width='4'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンクの楕円形の体に赤い模様が入った女性の姿をしています。顔には大きな目があり、ピンクの頬が特徴です。四本の腕を持ち、手には小さな爪が生えています。背中には赤い模様が入ったしっぽがあります。",
-      "reason": "イヴはこの進化を通じて、より優れた適応力を身につけ、環境において生存競争に勝つため進化しました。",
-      "thought": "『未来への希望』"
+      "appearance": "イヴは、オレンジとピンクの色合いの肌を持ち、頭部には二つの大きな目と小さな口があり、長方形の体と短い脚を持っています。背中には二本の角があり、手は四本指の手となっています。",
+      "reason": "イヴは、環境の変化に適応するため、より暖かい色調の肌を進化させ、より効果的なコミュニケーション能力を持つために目の大きさを大きくしました。",
+      "thought": "『愛と平和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='200' width='200' height='150' fill='#b3e6ff' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#66ccff' /><circle cx='160' cy='120' r='8' fill='#000' /><circle cx='240' cy='120' r='8' fill='#000' /><path d='M180 170 Q200 210 220 170' stroke='#000' stroke-width='2' fill='none' /><line x1='180' y1='220' x2='220' y2='220' stroke='#000' stroke-width='2' /><polygon points='160,200 240,200 200,250' fill='#33adff' /><polygon points='180,280 200,260 220,280' fill='#33adff' /><polygon points='170,180 190,180 180,190' fill='#333' /><polygon points='210,180 230,180 220,190' fill='#333' /><polygon points='150,230 250,230 200,280' fill='#33adff' /><polygon points='180,280 200,265 220,280' fill='#33adff' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#99ccff'/><rect x='125' y='250' width='150' height='100' fill='#ffcc66'/><ellipse cx='150' cy='150' rx='30' ry='20' fill='#99ccff'/><ellipse cx='250' cy='150' rx='30' ry='20' fill='#99ccff'/><path d='M175 250 Q200 300 225 250 L175 250' fill='none' stroke='#ff6666' stroke-width='4'/><polygon points='175,100 175,120 185,110' fill='#ff6666'/><polygon points='225,100 225,120 215,110' fill='#ff6666'/><line x1='190' y1='270' x2='210' y2='270' stroke='#ff6666' stroke-width='4'/><line x1='190' y1='280' x2='210' y2='280' stroke='#ff6666' stroke-width='4'/><line x1='190' y1='290' x2='210' y2='290' stroke='#ff6666' stroke-width='4'/></svg>",
     "report": {
-      "appearance": "アダムは、青い楕円形の体に青色の模様が入った男性の姿をしています。顔には大きな目があり、青い頬が特徴です。四本の腕を持ち、手には小さな爪が生えています。背中には青色の模様が入ったしっぽがあります。",
-      "reason": "アダムはこの進化を通じて、より効率的な狩猟能力を獲得し、仲間を守るために進化しました。",
-      "thought": "『力強く前進』"
+      "appearance": "アダムは、青とオレンジの色調の肌を持ち、頭部には二つの大きな目と小さな口があり、長方形の体と短い脚を持っています。背中には二本の角があり、手は四本指の手となっています。",
+      "reason": "アダムは、自然界での競争に勝利するため、より派手な色調の肌と目を進化させ、脅威を感じさせるために角の形状と赤い色を強調しました。",
+      "thought": "『力と誇り』"
     },
     "name": "アダム",
     "gender": "男性"
