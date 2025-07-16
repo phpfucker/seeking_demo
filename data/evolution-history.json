@@ -6031,5 +6031,28 @@
       "gender": "男性"
     },
     "timestamp": 1752647145253
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='200' rx='100' ry='150' fill='#ffc0cb' /><path d='M150,250 Q200,350 250,250' fill='none' stroke='#ff69b4' stroke-width='10' /><path d='M180,220 Q200,280 220,220' fill='none' stroke='#ff69b4' stroke-width='5' /><path d='M180,220 Q200,190 220,220' fill='none' stroke='#ff69b4' stroke-width='5' /><rect x='180' y='100' width='40' height='50' fill='#ff69b4' /><rect x='180' y='250' width='40' height='50' fill='#ff69b4' /><polygon points='180,100 220,100 200,50' fill='#ff69b4' /><polygon points='180,300 220,300 200,350' fill='#ff69b4' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと赤のグラデーションの体を持ち、長い髪と角のような突起物が特徴的な女性の姿をしています。体の中央にはハート型の模様があります。",
+        "reason": "新たな進化が起こり、より華やかで愛らしい外見となりました。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#87ceeb' /><ellipse cx='200' cy='200' rx='100' ry='150' fill='#add8e6' /><path d='M150,250 Q200,350 250,250' fill='none' stroke='#4169e1' stroke-width='10' /><path d='M180,220 Q200,280 220,220' fill='none' stroke='#4169e1' stroke-width='5' /><path d='M180,220 Q200,190 220,220' fill='none' stroke='#4169e1' stroke-width='5' /><rect x='180' y='100' width='40' height='50' fill='#4169e1' /><rect x='180' y='250' width='40' height='50' fill='#4169e1' /><polygon points='180,100 220,100 200,50' fill='#4169e1' /><polygon points='180,300 220,300 200,350' fill='#4169e1' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色のグラデーションの体を持ち、短い角や尾と手足が特徴的な男性の姿をしています。体の中央には波の模様があります。",
+        "reason": "進化の過程で、より涼しげで穏やかな外観へと変化しました。",
+        "thought": "『静けさと清涼感』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1752669388092
   }
 ]
