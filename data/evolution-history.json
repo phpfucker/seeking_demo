@@ -6077,5 +6077,28 @@
       "gender": "男性"
     },
     "timestamp": 1752690266111
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><ellipse cx='200' cy='200' rx='140' ry='180' fill='pink'/><circle cx='130' cy='180' r='20' fill='white'/><circle cx='270' cy='180' r='20' fill='white'/><path d='M160 280 Q200 320 240 280' fill='none' stroke='black' stroke-width='2'/><path d='M230 280 Q200 320 170 280' fill='none' stroke='black' stroke-width='2'/><polygon points='195,230 205,230 200,240' fill='black'/><rect x='185' y='230' width='30' height='10' fill='pink'/><path d='M200 260 Q215 230 230 260' fill='none' stroke='black' stroke-width='2'/></g></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかな体に鮮やかな白い目を持ち、クリエイティブな模様が施されています。手や足の形状は流れるような曲線で描かれ、しっぽは繊細なピンク色のリボンのようなデザインです。",
+        "reason": "イヴは自然の美しさと創造性を象徴するような進化を遂げました。その美しさは世界を彩るために生まれたものです。",
+        "thought": "『夢と現実の狭間で』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><rect x='150' y='60' width='100' height='200' fill='lightblue'/><polygon points='150,60 200,20 250,60' fill='lightblue'/><polygon points='150,260 200,300 250,260' fill='lightblue'/><circle cx='200' cy='180' r='30' fill='white'/><circle cx='180' cy='160' r='10' fill='black'/><circle cx='220' cy='160' r='10' fill='black'/><rect x='190' y='220' width='20' height='30' fill='lightblue'/></g></svg>",
+      "report": {
+        "appearance": "アダムは青い色の頑丈な体を持ち、頭部には白い円形の目があります。手足は筋肉質でありつつも柔らかな曲線が特徴で、青い色と白のコントラストが際立ちます。",
+        "reason": "アダムは力強さと安定感を象徴する進化を遂げました。その体は未来を切り開くための力強い存在として生まれ変わりました。",
+        "thought": "『未来への挑戦』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1752715421270
   }
 ]
