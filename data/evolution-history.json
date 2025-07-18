@@ -6169,5 +6169,28 @@
       "gender": "男性"
     },
     "timestamp": 1752776674073
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(238,130,238);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(216,191,216);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradA)' /><circle cx='200' cy='100' r='80' fill='url(#gradA)' /><ellipse cx='150' cy='250' rx='50' ry='30' fill='url(#gradA)' /><path d='M175 280 L200 330 L225 280 Z' fill='rgb(238,130,238)' /><path d='M185 200 Q200 180 215 200' fill='none' stroke='rgb(238,130,238)' stroke-width='3' /><polygon points='170,120 190,110 210,110 230,120 220,140 180,140' fill='rgb(238,130,238)' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとラベンダーのグラデーションが美しい姿をしています。全身を包む優しい輝きが、女性らしさを引き立てています。顔には柔らかな表情があり、優雅な雰囲気を醸し出しています。",
+        "reason": "イヴは新たなる美しさを手に入れるため、花々のエネルギーに触れ、その力を取り込んだことで進化しました。",
+        "thought": "『花々の優しさと美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(65,105,225);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(100,149,237);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradB)' /><circle cx='200' cy='120' r='70' fill='url(#gradB)' /><ellipse cx='120' cy='250' rx='50' ry='30' fill='url(#gradB)' /><path d='M175 280 L200 330 L225 280 Z' fill='rgb(65,105,225)' /><path d='M185 200 Q200 180 215 200' fill='none' stroke='rgb(65,105,225)' stroke-width='3' /><polygon points='170,120 190,110 210,110 230,120 220,140 180,140' fill='rgb(65,105,225)' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と紫のグラデーションで彩られた姿をしています。凛とした雰囲気と共に、強靭な体つきから男性らしさを感じさせます。顔には力強い表情があり、威厳を持って立っています。",
+        "reason": "アダムは新たなる力強さを手に入れるため、雷雲のエネルギーに触れ、その力を取り込んだことで進化しました。",
+        "thought": "『雷雲の力強さと威厳』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1752801764442
   }
 ]

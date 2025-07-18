@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(238,130,238);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(216,191,216);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradA)' /><circle cx='200' cy='100' r='80' fill='url(#gradA)' /><ellipse cx='150' cy='250' rx='50' ry='30' fill='url(#gradA)' /><path d='M175 280 L200 330 L225 280 Z' fill='rgb(238,130,238)' /><path d='M185 200 Q200 180 215 200' fill='none' stroke='rgb(238,130,238)' stroke-width='3' /><polygon points='170,120 190,110 210,110 230,120 220,140 180,140' fill='rgb(238,130,238)' /></svg>",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"180\" fill=\"#ffcccb\"/><ellipse cx=\"150\" cy=\"150\" rx=\"50\" ry=\"30\" fill=\"#ffd1dc\"/><ellipse cx=\"250\" cy=\"150\" rx=\"50\" ry=\"30\" fill=\"#ffd1dc\"/><path d=\"M180 220 Q200 250 220 220\" fill=\"none\" stroke=\"#000\" stroke-width=\"2\"/><rect x=\"160\" y=\"300\" width=\"80\" height=\"50\" fill=\"#ffd1dc\"/><circle cx=\"180\" cy=\"280\" r=\"10\" fill=\"#000\"/><circle cx=\"220\" cy=\"280\" r=\"10\" fill=\"#000\"/></svg>",
     "report": {
-      "appearance": "イヴは、ピンクとラベンダーのグラデーションが美しい姿をしています。全身を包む優しい輝きが、女性らしさを引き立てています。顔には柔らかな表情があり、優雅な雰囲気を醸し出しています。",
-      "reason": "イヴは新たなる美しさを手に入れるため、花々のエネルギーに触れ、その力を取り込んだことで進化しました。",
-      "thought": "『花々の優しさと美しさ』"
+      "appearance": "イヴは桃色の肌を持つ女性で、顔には繊細な特徴があります。2つの楕円形の目と柔らかい口元が印象的です。長い髪というよりも葉っぱのような緑色の髪が優雅に広がっています。身体は流れるような曲線で、ピンクのドレスを着ています。手足は細く、指先には小さな花が咲いています。",
+      "reason": "イヴは自然と調和した美しい姿に進化しました。彼女は新たな生命を生み出す存在として、自然界の美しさを象徴しています。",
+      "thought": "『命の尊さ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(65,105,225);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(100,149,237);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradB)' /><circle cx='200' cy='120' r='70' fill='url(#gradB)' /><ellipse cx='120' cy='250' rx='50' ry='30' fill='url(#gradB)' /><path d='M175 280 L200 330 L225 280 Z' fill='rgb(65,105,225)' /><path d='M185 200 Q200 180 215 200' fill='none' stroke='rgb(65,105,225)' stroke-width='3' /><polygon points='170,120 190,110 210,110 230,120 220,140 180,140' fill='rgb(65,105,225)' /></svg>",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 400\"><rect x=\"150\" y=\"50\" width=\"100\" height=\"150\" fill=\"#b0c4de\"/><rect x=\"150\" y=\"200\" width=\"100\" height=\"150\" fill=\"#b0c4de\"/><circle cx=\"200\" cy=\"200\" r=\"50\" fill=\"#fff\"/><circle cx=\"190\" cy=\"190\" r=\"10\" fill=\"#000\"/><circle cx=\"210\" cy=\"190\" r=\"10\" fill=\"#000\"/><ellipse cx=\"200\" cy=\"220\" rx=\"15\" ry=\"10\" fill=\"#b0c4de\"/><polygon points=\"190,220 200,240 210,220\" fill=\"#ffd700\"/></svg>",
     "report": {
-      "appearance": "アダムは、青と紫のグラデーションで彩られた姿をしています。凛とした雰囲気と共に、強靭な体つきから男性らしさを感じさせます。顔には力強い表情があり、威厳を持って立っています。",
-      "reason": "アダムは新たなる力強さを手に入れるため、雷雲のエネルギーに触れ、その力を取り込んだことで進化しました。",
-      "thought": "『雷雲の力強さと威厳』"
+      "appearance": "アダムは青い肌を持つ男性で、筋肉質な体つきが特徴です。顔には真っ直ぐな眉と大きな丸い目があり、口元はやや厳しい表情をしています。頭には白い円形の模様があり、髪のようなものはなく、素肌が露出しています。手足はがっしりとしており、足先には金色の蹄があります。",
+      "reason": "アダムは力強く進化し、自然界の中での生存能力が向上しました。彼は新たな生命を受け継ぐ存在として、力強さを象徴しています。",
+      "thought": "『力と誇り』"
     },
     "name": "アダム",
     "gender": "男性"
