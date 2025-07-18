@@ -6215,5 +6215,28 @@
       "gender": "男性"
     },
     "timestamp": 1752819968680
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,169,194);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,73,114);stop-opacity:1' /></linearGradient></defs><rect x='150' y='50' width='100' height='200' fill='url(#gradA)' /><ellipse cx='200' cy='150' rx='40' ry='60' fill='rgb(255,219,231)' /><path d='M180 250 Q200 280 220 250' fill='none' stroke='rgb(255,73,114)' stroke-width='3' /><path d='M190 160 L180 170 L190 180 M210 160 L220 170 L210 180' fill='none' stroke='black' stroke-width='2' /><circle cx='190' cy='150' r='5' fill='black' /><circle cx='210' cy='150' r='5' fill='black' /><polygon points='170,50 200,20 230,50' fill='rgb(255,219,231)' /><polygon points='170,250 200,280 230,250' fill='rgb(255,219,231)' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと白のグラデーションが美しい身体を持ち、大きな目と柔らかな表情が特徴です。繊細な手足と優雅なしっぽが優雅さを引き立てます。",
+        "reason": "進化の理由は、生命体が新たな環境に適応し、感性と美しさを重要視するようになったためです。",
+        "thought": "『愛と美しさが世界を彩る』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(169,224,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(73,155,255);stop-opacity:1' /></linearGradient></defs><rect x='150' y='50' width='100' height='200' fill='url(#gradB)' /><ellipse cx='200' cy='150' rx='40' ry='60' fill='rgb(194,232,255)' /><path d='M180 250 Q200 280 220 250' fill='none' stroke='rgb(73,155,255)' stroke-width='3' /><path d='M190 160 L180 170 L190 180 M210 160 L220 170 L210 180' fill='none' stroke='black' stroke-width='2' /><circle cx='190' cy='150' r='5' fill='black' /><circle cx='210' cy='150' r='5' fill='black' /><polygon points='170,50 200,20 230,50' fill='rgb(194,232,255)' /><polygon points='170,250 200,280 230,250' fill='rgb(194,232,255)' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と白のグラデーションが美しい体を持ち、凛とした雰囲気と力強い輪郭が特徴です。堂々とした角としなやかなしっぽが優れた力を示しています。",
+        "reason": "進化の理由は、生命体が新たな環境において力強さと風格を求めるようになったためです。",
+        "thought": "『力と誇りを胸に』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1752842127712
   }
 ]
