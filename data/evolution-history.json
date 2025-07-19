@@ -6284,5 +6284,28 @@
       "gender": "男性"
     },
     "timestamp": 1752888028604
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccd8' /><ellipse cx='200' cy='180' rx='80' ry='120' fill='#ff9fb2' /><path d='M210 220 Q200 250 190 220' fill='none' stroke='#ff0055' stroke-width='3' /><rect x='180' y='230' width='40' height='30' fill='#ffccd8' /><path d='M190 190 L200 180 L210 190 Z' fill='#ff0055' /><circle cx='180' cy='180' r='10' fill='#fff' /><circle cx='220' cy='180' r='10' fill='#fff' /><path d='M180 250 Q200 270 220 250' fill='none' stroke='#ff0055' stroke-width='3' /><line x1='180' y1='250' x2='190' y2='240' stroke='#fff' stroke-width='3' /><line x1='220' y1='250' x2='210' y2='240' stroke='#fff' stroke-width='3' /><rect x='190' y='210' width='20' height='5' fill='#000' /><rect x='200' y='210' width='5' height='20' fill='#000' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌を持ち、丸い顔に大きな赤い目と鼻、やわらかなピンク色の体と尾を持つ女性型生命体です。体の中心には赤い模様があり、優雅さと可愛らしさを兼ね備えています。",
+        "reason": "進化のプロセスにおいて、イヴは新たな生存戦略を獲得するために、より視覚的な魅力を持つ外見へと進化しました。",
+        "thought": "『愛と美しさの力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#a78b82' /><ellipse cx='200' cy='160' rx='50' ry='80' fill='#e3c5bc' /><path d='M190 190 Q200 170 210 190' fill='none' stroke='#784e44' stroke-width='3' /><rect x='185' y='230' width='30' height='20' fill='#a78b82' /><circle cx='185' cy='160' r='8' fill='#fff' /><circle cx='215' cy='160' r='8' fill='#fff' /><line x1='180' y1='220' x2='220' y2='220' stroke='#784e44' stroke-width='3' /><rect x='190' y='200' width='20' height='5' fill='#000' /><rect x='200' y='200' width='5' height='15' fill='#000' /></svg>",
+      "report": {
+        "appearance": "アダムは、灰色の肌を持ち、四角い体と丸い顔に小さな茶色の目と鼻、灰色の体を持つ男性型生命体です。背中に灰色の模様があり、頑丈さと優しさを併せ持っています。",
+        "reason": "進化の過程で、アダムはより力強く、堅実な外観を獲得するために、より筋肉質でシンプルな形状へと進化しました。",
+        "thought": "『誠実と強さの誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1752906245598
   }
 ]
