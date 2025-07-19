@@ -6307,5 +6307,28 @@
       "gender": "男性"
     },
     "timestamp": 1752906245598
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='120' width='160' height='160' fill='#ffcccb'/><circle cx='200' cy='100' r='80' fill='#ffb6c1'/><path d='M150 200 L200 280 L250 200 Z' fill='#ffc0cb'/><ellipse cx='150' cy='260' rx='30' ry='20' fill='#ff9999'/><ellipse cx='250' cy='260' rx='30' ry='20' fill='#ff9999'/><polygon points='180,160 220,160 200,180' fill='#ffcccc'/><line x1='180' y1='260' x2='220' y2='260' stroke='#000' stroke-width='4'/><line x1='180' y1='260' x2='180' y2='300' stroke='#000' stroke-width='4'/><line x1='220' y1='260' x2='220' y2='300' stroke='#000' stroke-width='4'/><line x1='180' y1='300' x2='160' y2='340' stroke='#000' stroke-width='4'/><line x1='220' y1='300' x2='240' y2='340' stroke='#000' stroke-width='4'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、赤い髪の毛を頭に巻きつけています。両サイドに大きなピンク色の耳があり、赤いドレスを着ています。背中には蝶の翼が生えており、しっぽは二つに分かれています。",
+        "reason": "イヴは、自然の神秘と調和を体現する姿へと進化しました。生命の源である女性らしさと美しさをより強調するためです。",
+        "thought": "『宇宙の営みを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='120' width='160' height='160' fill='#add8e6'/><circle cx='200' cy='100' r='80' fill='#87ceeb'/><path d='M150 200 L200 280 L250 200 Z' fill='#afeeee'/><ellipse cx='150' cy='260' rx='30' ry='20' fill='#4682b4'/><ellipse cx='250' cy='260' rx='30' ry='20' fill='#4682b4'/><polygon points='180,160 220,160 200,180' fill='#87cefa'/><line x1='180' y1='260' x2='220' y2='260' stroke='#000' stroke-width='4'/><line x1='180' y1='260' x2='180' y2='300' stroke='#000' stroke-width='4'/><line x1='220' y1='260' x2='220' y2='300' stroke='#000' stroke-width='4'/><line x1='180' y1='300' x2='160' y2='340' stroke='#000' stroke-width='4'/><line x1='220' y1='300' x2='240' y2='340' stroke='#000' stroke-width='4'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌を持ち、青い髪を頭に巻いています。両サイドに大きな青い耳があり、青いローブを身に纏っています。背中には羽が生え、二つのしっぽを持っています。",
+        "reason": "アダムは、自然界の秩序と力強さを表現するために進化しました。男性らしさと凛々しさをより際立たせるためです。",
+        "thought": "『大地の息吹を感じる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1752928328241
   }
 ]
