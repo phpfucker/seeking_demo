@@ -6353,5 +6353,28 @@
       "gender": "男性"
     },
     "timestamp": 1752949324721
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='200' width='200' height='150' fill='#ff9eab'/><ellipse cx='200' cy='150' rx='80' ry='110' fill='#ffbfd3'/><polygon points='180,200 220,200 200,230' fill='#ff9eab'/><rect x='170' y='250' width='60' height='35' fill='#ffbfd3'/><path d='M160 250 L140 320 L220 320 L200 250 Z' fill='#ff9eab'/><line x1='140' y1='320' x2='160' y2='320' stroke='#ff9eab' stroke-width='2'/><line x1='220' y1='320' x2='200' y2='320' stroke='#ff9eab' stroke-width='2'/><line x1='180' y1='300' x2='200' y2='300' stroke='#fff' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の長大な耳を持ち、柔らかな赤い体と白い腹部を持つ女性の姿をしています。背中に尾としてふわふわの模様があり、愛らしい表情をしています。",
+        "reason": "環境の変化により、イヴは花や果物をより効率的に見つけるために、長大な耳と鮮やかな体色を進化させました。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='200' width='120' height='180' fill='#9ad2cb'/><path d='M200 150 Q240 120 280 150 Q240 180 200 150 Z' fill='#b2e2db'/><circle cx='200' cy='210' r='10' fill='#e8f5f3'/><circle cx='200' cy='230' r='10' fill='#e8f5f3'/><polygon points='180,250 220,250 200,280' fill='#9ad2cb'/><rect x='190' y='320' width='20' height='40' fill='#b2e2db'/><path d='M180 320 L160 380 L240 380 L220 320 Z' fill='#9ad2cb'/><line x1='160' y1='380' x2='180' y2='380' stroke='#9ad2cb' stroke-width='2'/><line x1='220' y1='380' x2='240' y2='380' stroke='#9ad2cb' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、青緑色の体に水色の美しい鰭と、瞳は白い男性の姿をしています。独特な頭部の形状と鰭が特徴であり、穏やかな表情をしています。",
+        "reason": "アダムは進化し、水中での機動性を高めるために、美しい鰭と流線型の体を獲得しました。",
+        "thought": "『調和と強さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1752975535187
   }
 ]
