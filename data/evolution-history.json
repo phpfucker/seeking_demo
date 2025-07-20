@@ -6399,5 +6399,28 @@
       "gender": "男性"
     },
     "timestamp": 1752992600216
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><radialGradient id='gradA' cx='50%' cy='50%' r='50%' fx='50%' fy='50%'><stop offset='0%' style='stop-color:rgb(255,255,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,150,150);stop-opacity:1' /></radialGradient></defs><circle cx='200' cy='200' r='190' fill='url(#gradA)' /><ellipse cx='200' cy='180' rx='120' ry='150' fill='rgb(255,200,200)' /><rect x='160' y='210' width='80' height='20' fill='rgb(255,150,150)' /><path d='M190,240 Q200,260 210,240 Q200,250 190,240z' fill='rgb(255,200,200)' /><polygon points='180,170 220,170 200,150' fill='rgb(255,150,150)' /><polyline points='180,240 170,250 180,260 190,250 200,260 210,250 220,260' fill='none' stroke='rgb(255,150,150)' stroke-width='2' /><line x1='185' y1='170' x2='195' y2='170' stroke='black' stroke-width='2' /><line x1='205' y1='170' x2='215' y2='170' stroke='black' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、柔らかなピンク色の肌を持ち、長い耳と小さな角を持つ女性の姿をしています。体は優雅で曲線美が特徴で、愛らしい表情と優しい目をしています。",
+        "reason": "進化のプロセスにおいて、イヴはより優美で可憐な姿を求める欲望が強まり、より美しい外観を得るために進化しました。",
+        "thought": "『愛と美しさの融合』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><radialGradient id='gradB' cx='50%' cy='50%' r='50%' fx='50%' fy='50%'><stop offset='0%' style='stop-color:rgb(200,200,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(150,150,255);stop-opacity:1' /></radialGradient></defs><rect x='150' y='120' width='100' height='200' fill='url(#gradB)' /><ellipse cx='200' cy='100' rx='80' ry='120' fill='rgb(200,200,255)' /><path d='M180,240 Q200,260 220,240 Q200,250 180,240z' fill='rgb(150,150,255)' /><polygon points='180,100 220,100 200,80' fill='rgb(200,200,255)' /><polyline points='180,220 170,230 180,240 190,230 200,240 210,230 220,240' fill='none' stroke='rgb(150,150,255)' stroke-width='2' /><line x1='185' y1='100' x2='195' y2='100' stroke='black' stroke-width='2' /><line x1='205' y1='100' x2='215' y2='100' stroke='black' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、穏やかな青紫色の肌を持ち、頑丈な体つきと大きな角を持つ男性の姿をしています。筋肉質で力強い姿勢が特徴で、優しい表情と深い眼差しをしています。",
+        "reason": "アダムはより強靭で力強い外見を求める欲望が強まり、より堂々とした姿を得るために進化しました。",
+        "thought": "『力と知恵の調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1753014742824
   }
 ]
