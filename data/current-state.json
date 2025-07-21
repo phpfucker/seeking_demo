@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='150' rx='80' ry='100' fill='#ffdddd'/><ellipse cx='160' cy='150' rx='20' ry='30' fill='#ffaaaa'/><ellipse cx='240' cy='150' rx='20' ry='30' fill='#ffaaaa'/><rect x='160' y='230' width='80' height='40' fill='#ffaaaa'/><polygon points='200,100 220,110 180,110' fill='#ffaaaa'/><line x1='180' y1='100' x2='160' y2='90' stroke='#333' stroke-width='2'/><line x1='220' y1='100' x2='240' y2='90' stroke='#333' stroke-width='2'/><text x='200' y='270' font-size='20' fill='#333' text-anchor='middle'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><rect x='140' y='280' width='120' height='100' fill='url(#gradA)' /><ellipse cx='200' cy='200' rx='80' ry='100' fill='url(#gradA)' /><circle cx='165' cy='170' r='10' fill='white' /><circle cx='235' cy='170' r='10' fill='white' /><circle cx='180' cy='220' r='5' fill='black' /><circle cx='220' cy='220' r='5' fill='black' /><path d='M160 250 Q200 280 240 250' fill='none' stroke='black' /><path d='M180 300 Q200 320 220 300' fill='none' stroke='black' /><polygon points='170,320 180,310 220,310 230,320' fill='white' /><rect x='175' y='280' width='50' height='20' fill='white' /><polygon points='180,220 190,240 200,220' fill='#FFA07A' /><polygon points='220,220 210,240 200,220' fill='#FFA07A' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかい肌を持つ女性の姿をしています。体には赤い楕円形の模様があり、優しげな表情を浮かべています。手足はやや短く、可愛らしい特徴があります。",
-      "reason": "進化が起こった理由は、生態系の変化により食物の供給源が変わり、新たな環境に適応するために外見が変化したためです。",
-      "thought": "『未知の世界への好奇心』"
+      "appearance": "イヴは、ピンクとオレンジのグラデーションが美しい体を持ち、やさしい表情の女性型生命体です。体の一部には白い模様が施されており、優雅さを演出しています。",
+      "reason": "環境の変化により、生命体の女性的な特徴がより強調される進化が起こりました。",
+      "thought": "『愛と美しさがすべてを満たす』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#779ecb'/><ellipse cx='200' cy='80' rx='50' ry='30' fill='#99badd'/><polygon points='150,100 200,50 250,100' fill='#99badd'/><circle cx='180' cy='160' r='10' fill='#fff'/><circle cx='220' cy='160' r='10' fill='#fff'/><line x1='180' y1='220' x2='160' y2='250' stroke='#333' stroke-width='2'/><line x1='220' y1='220' x2='240' y2='250' stroke='#333' stroke-width='2'/><text x='200' y='270' font-size='20' fill='#333' text-anchor='middle'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(173,216,230);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='100' fill='url(#gradB)' /><rect x='175' y='280' width='50' height='20' fill='white' /><rect x='175' y='280' width='50' height='20' fill='white' /><circle cx='180' cy='170' r='10' fill='white' /><circle cx='220' cy='170' r='10' fill='white' /><circle cx='180' cy='220' r='5' fill='black' /><circle cx='220' cy='220' r='5' fill='black' /><path d='M160 250 Q200 280 240 250' fill='none' stroke='black' /><path d='M180 300 Q200 320 220 300' fill='none' stroke='black' /><polygon points='170,320 180,310 220,310 230,320' fill='white' /></svg>",
     "report": {
-      "appearance": "アダムは、青い体色を持つ男性の姿をしています。体は頑丈で四角い形状をしており、青い楕円形の模様が描かれています。顔には優しい表情があり、力強い印象を与えます。",
-      "reason": "進化が起こった理由は、生存競争の激化により、強靭な体と頭脳を持つ個体が優先的に繁殖するため、アダムはより力強く進化しました。",
-      "thought": "『新たな挑戦への意欲』"
+      "appearance": "アダムは、青と水色のグラデーションが美しい円形の体を持ち、穏やかな表情の男性型生命体です。白い模様と透明なしっぽが特徴的で、優しさを表現しています。",
+      "reason": "進化の過程で、生命体の男性的な特徴がより際立つ形へと変化しました。",
+      "thought": "『知識と力、そして優しさ』"
     },
     "name": "アダム",
     "gender": "男性"
