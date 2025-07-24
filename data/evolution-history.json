@@ -6744,5 +6744,28 @@
       "gender": "男性"
     },
     "timestamp": 1753320226064
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#ff99bb' /><path d='M150,240 L200,300 L250,240 Z' fill='#ff99bb' /><circle cx='160' cy='130' r='5' fill='#ffffff' /><circle cx='240' cy='130' r='5' fill='#ffffff' /><polygon points='175,165 225,165 200,180' fill='#ffffff' /><polyline points='150,210 160,220 150,230' fill='none' stroke='#000000' stroke-width='2' /><polyline points='250,210 240,220 250,230' fill='none' stroke='#000000' stroke-width='2' /><path d='M180,260 Q200,280 220,260' fill='none' stroke='#000000' stroke-width='2' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#000000' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体に赤い楕円形の顔を持ち、顔の中央に三角形の口があります。白い目と角があり、手足は細長い形状です。",
+        "reason": "イヴは繊細な感性を持ち、進化の過程で美しい色彩と優雅な形状を取り入れました。",
+        "thought": "『愛と美しさの象徴』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#add8e6' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#87ceeb' /><path d='M150,240 L200,300 L250,240 Z' fill='#87ceeb' /><circle cx='160' cy='130' r='5' fill='#ffffff' /><circle cx='240' cy='130' r='5' fill='#ffffff' /><polygon points='175,165 225,165 200,180' fill='#ffffff' /><polyline points='150,210 160,220 150,230' fill='none' stroke='#000000' stroke-width='2' /><polyline points='250,210 240,220 250,230' fill='none' stroke='#000000' stroke-width='2' /><path d='M180,260 Q200,280 220,260' fill='none' stroke='#000000' stroke-width='2' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#000000' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは水色の体に青い楕円形の顔を持ち、顔の中央に三角形の口があります。白い目と角があり、手足は細長い形状です。",
+        "reason": "アダムは知性と力強さを象徴し、進化の過程で穏やかな色合いと流れるような形状を採用しました。",
+        "thought": "『知恵と勇気の融合』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1753338396005
   }
 ]
