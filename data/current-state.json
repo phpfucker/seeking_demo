@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' gradientTransform='rotate(90)'><stop offset='0%' stop-color='#ff7eb9'/><stop offset='100%' stop-color='#f9c0c0'/></linearGradient></defs><circle cx='200' cy='100' r='80' fill='url(#gradA)' /><ellipse cx='200' cy='240' rx='120' ry='80' fill='#f4a259' /><rect x='160' y='180' width='80' height='60' rx='10' fill='#ffda77' /><path d='M160 240 Q200 280 240 240 Q200 200 160 240 Z' fill='#fec8d8' /><path d='M170 80 L190 90 L180 120 L160 110 Z' fill='#f9c0c0' /><polygon points='180,180 180,160 200,140 220,160 220,180' fill='#ffc1e3' /><line x1='175' y1='180' x2='175' y2='200' stroke='#d46a6a' stroke-width='2' /><line x1='225' y1='180' x2='225' y2='200' stroke='#d46a6a' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffe4c4'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='#f08080'/><circle cx='150' cy='170' r='10' fill='#000'/><circle cx='250' cy='170' r='10' fill='#000'/><path d='M180 230 Q200 250 220 230' fill='none' stroke='#000' stroke-width='2'/><path d='M150 240 Q200 280 250 240' fill='none' stroke='#000' stroke-width='2'/><polygon points='170,180 230,180 200,210' fill='#f0e68c'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンクとオレンジのグラデーションが美しい円形の体に、オレンジの卵型の顔と長いピンクの尾を持つ女性の姿をしています。胴体は細長い形状で、柔らかいオレンジ色の肌が特徴です。頭部には薄いピンク色の模様があり、優雅で可憐な雰囲気を醸し出しています。",
-      "reason": "イヴの進化は、自然界の美しさと調和を象徴するために起こりました。新たな色彩と女性らしい特徴を持つことで、生命体の多様性と美しさを表現することを目的としています。",
-      "thought": "『調和と美しさ』"
+      "appearance": "イヴは、ピンク色の肌と赤色の長い髪を持つ女性の姿をしています。体は桃色で、大きな赤い楕円形の瞳が特徴です。四肢は細く、頭には金色の装飾をしています。",
+      "reason": "イヴは自然と調和する進化を遂げました。その美しさと柔らかさが、周囲の生命体との共生を促しました。",
+      "thought": "『愛と美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' gradientTransform='rotate(90)'><stop offset='0%' stop-color='#6cd4ff'/><stop offset='100%' stop-color='#8effa0'/></linearGradient></defs><circle cx='200' cy='100' r='80' fill='url(#gradB)' /><ellipse cx='200' cy='240' rx='120' ry='80' fill='#a0faff' /><rect x='160' y='180' width='80' height='60' rx='10' fill='#ffcd6c' /><path d='M160 240 Q200 280 240 240 Q200 200 160 240 Z' fill='#c4f8fc' /><polygon points='180,180 180,160 200,140 220,160 220,180' fill='#c6f6ff' /><line x1='175' y1='180' x2='175' y2='200' stroke='#6baed4' stroke-width='2' /><line x1='225' y1='180' x2='225' y2='200' stroke='#6baed4' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#87cefa'/><circle cx='150' cy='160' r='20' fill='#8b4513'/><circle cx='250' cy='160' r='20' fill='#8b4513'/><path d='M200 220 Q180 240 200 260 Q220 240 200 220' fill='none' stroke='#000' stroke-width='2'/><path d='M160 240 Q200 280 240 240' fill='none' stroke='#000' stroke-width='2'/><polygon points='170,180 230,180 200,210' fill='#f0e68c'/></svg>",
     "report": {
-      "appearance": "アダムは、青と緑のグラデーションが美しい円形の体に、淡い青色の卵型の顔と短い緑色の尾を持つ男性の姿をしています。胴体はがっしりとした形状で、明るい青色の肌が特徴です。頭部には緑色の模様があり、知性と力強さを感じさせます。",
-      "reason": "アダムの進化は、知識と力強さを象徴するために起こりました。新たな色彩と男性らしい特徴を持つことで、生命体の多様性と強さを表現することを目的としています。",
-      "thought": "『知識と力強さ』"
+      "appearance": "アダムは、青い肌と茶色の短髪を持つ男性の姿をしています。体は水色で、大きな茶色の目が特徴です。四肢は筋肉質で、頭には青い鱗状の模様があります。",
+      "reason": "アダムは自然との調和を求める進化を遂げました。その強さと知恵が、周囲の環境への適応を支えました。",
+      "thought": "『勇気と知恵』"
     },
     "name": "アダム",
     "gender": "男性"
