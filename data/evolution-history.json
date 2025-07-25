@@ -6813,5 +6813,28 @@
       "gender": "男性"
     },
     "timestamp": 1753381506693
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffe0bd' /><path d='M150 250 L145 275 L160 265 Z' fill='#ffb38b' /><path d='M250 250 L255 275 L240 265 Z' fill='#ffb38b' /><ellipse cx='200' cy='150' rx='80' ry='60' fill='#ffd1b3' /><ellipse cx='150' cy='150' rx='20' ry='30' fill='#ffffff' /><ellipse cx='250' cy='150' rx='20' ry='30' fill='#ffffff' /><path d='M180 180 Q200 210 220 180' fill='none' stroke='#000' stroke-width='2' /><path d='M160 210 Q200 250 240 210' fill='none' stroke='#000' stroke-width='2' /><path d='M180 200 Q200 240 220 200' fill='none' stroke='#000' stroke-width='2' /><polygon points='190,135 195,145 205,145 210,135' fill='#f4a460' /><polygon points='190,130 195,140 205,140 210,130' fill='#d2691e' /><polygon points='190,125 195,135 205,135 210,125' fill='#8b4513' /><polygon points='190,120 195,130 205,130 210,120' fill='#d2691e' /><polygon points='190,115 195,125 205,125 210,115' fill='#f4a460' /><polygon points='190,110 195,120 205,120 210,110' fill='#a52a2a' /><polygon points='190,105 195,115 205,115 210,105' fill='#a52a2a' /><polygon points='190,100 195,110 205,110 210,100' fill='#f4a460' /></svg>",
+      "report": {
+        "appearance": "イヴは、全体的に淡いオレンジ色の肌を持ち、柔らかな卵型の体をしています。顔には白い眼を持ち、頭には大きな角が一対生えています。手足は丸く幅広い形状で、地面には足の裏に小さな突起があります。しっぽは短くて太く、赤みを帯びたオレンジの模様があります。",
+        "reason": "イヴは自然の摂理に従い、新たな進化を遂げることで、環境への適応力を高めるためにこの姿に進化しました。",
+        "thought": "『調和と進化』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#85e3ff' /><ellipse cx='200' cy='100' rx='80' ry='60' fill='#a6e3ff' /><ellipse cx='150' cy='100' rx='20' ry='30' fill='#ffffff' /><ellipse cx='250' cy='100' rx='20' ry='30' fill='#ffffff' /><line x1='160' y1='200' x2='180' y2='220' stroke='#000' stroke-width='2' /><line x1='220' y1='200' x2='240' y2='220' stroke='#000' stroke-width='2' /><line x1='200' y1='150' x2='200' y2='190' stroke='#000' stroke-width='2' /><polygon points='190,100 195,110 205,110 210,100' fill='#1e90ff' /><polygon points='190,90 195,100 205,100 210,90' fill='#4682b4' /><polygon points='190,80 195,90 205,90 210,80' fill='#1e90ff' /><polygon points='190,70 195,80 205,80 210,70' fill='#4682b4' /><polygon points='190,60 195,70 205,70 210,60' fill='#1e90ff' /><polygon points='190,50 195,60 205,60 210,50' fill='#4682b4' /><polygon points='190,40 195,50 205,50 210,40' fill='#1e90ff' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い体に翼のような腕がついた姿をしています。頭部には小さな突起があり、体は長方形の形状をしています。手足は細長く、青色の翼のような部分が手首に付いています。胴体部分には水色と青色のグラデーションがかかっています。",
+        "reason": "アダムは進化の過程で、空を自在に飛ぶ能力を得るためにこのような形状に進化しました。",
+        "thought": "『飛翔と自由』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1753406603181
   }
 ]
