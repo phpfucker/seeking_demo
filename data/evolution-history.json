@@ -6882,5 +6882,28 @@
       "gender": "男性"
     },
     "timestamp": 1753446937976
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffafbd' /><ellipse cx='200' cy='180' rx='100' ry='130' fill='#ffc3a0' /><path d='M180,220 Q200,280 220,220 T260,220 Q200,280 140,220 T100,220 Z' fill='#ffecd2' /><polygon points='150,180 200,100 250,180' fill='#ffbebe' /><rect x='165' y='280' width='70' height='40' fill='#ffd3b6' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかい皮膚を持ち、大きな薄桃色の目と優雅なフォルムが特徴の女性型生命体です。体の一部には淡いオレンジ色の模様が施されています。",
+        "reason": "環境の変化により、イヴはより華やかで繊細な外見を手に入れ、周囲の生物との交流やコミュニケーションをより円滑にするために進化しました。",
+        "thought": "『美しさは、内面の輝きを映す鏡』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='160' y='120' width='80' height='160' fill='#afe9ff' /><circle cx='180' cy='120' r='20' fill='#a0e3b0' /><circle cx='220' cy='120' r='20' fill='#a0e3b0' /><path d='M180,160 Q200,100 220,160 T260,160 Q200,220 140,160 T100,160 Z' fill='#a8d0e6' /><polyline points='160,280 190,320 210,320 240,280' fill='none' stroke='#9dc5c3' stroke-width='5' /><line x1='190' y1='200' x2='210' y2='200' stroke='#9dc5c3' stroke-width='10' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体と水色の背びれを持ち、四角い頭部と大きな丸い目が特徴の男性型生命体です。背びれと尾びれは鮮やかな緑色のグラデーションが施されています。",
+        "reason": "アダムは新たな環境への適応を促すため、頭部がより角ばり、水泳能力を向上させるため背びれと尾びれが発達し、美しさと力強さを兼ね備える進化を遂げました。",
+        "thought": "『力強さと柔軟性のバランスが、未来への鍵』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1753467868312
   }
 ]
