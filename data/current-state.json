@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,255,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,192,203);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='200' cy='120' rx='80' ry='100' fill='rgb(255,192,203)' /><ellipse cx='150' cy='120' rx='20' ry='30' fill='rgb(255,255,255)' /><ellipse cx='250' cy='120' rx='20' ry='30' fill='rgb(255,255,255)' /><path d='M150,250 Q200,300 250,250' stroke='rgb(0,0,0)' stroke-width='3' fill='none' /><path d='M170,250 Q200,270 230,250' stroke='rgb(0,0,0)' stroke-width='3' fill='none' /><path d='M180,340 Q200,360 220,340' stroke='rgb(0,0,0)' stroke-width='3' fill='none' /><polygon points='180,100 200,80 220,100' fill='rgb(255,192,203)' /><polygon points='190,90 200,80 210,90' fill='rgb(255,255,255)' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='150' rx='80' ry='120' fill='#ffb6c1'/><path d='M170,230 Q200,260 230,230 Q200,260 170,230 Z' fill='#ff99aa'/><path d='M160,150 Q200,100 240,150 Q200,200 160,150 Z' fill='#ff99aa'/><rect x='180' y='240' width='40' height='60' fill='#ff99aa'/><polygon points='180,240 220,240 200,200' fill='#ff99aa'/><circle cx='160' cy='220' r='5' fill='#000'/><circle cx='240' cy='220' r='5' fill='#000'/><line x1='160' y1='260' x2='240' y2='260' stroke='#000' stroke-width='5'/><path d='M200,280 Q180,290 200,300 Q220,290 200,280 Z' fill='#000'/><line x1='160' y1='150' x2='140' y2='130' stroke='#000' stroke-width='5'/><line x1='240' y1='150' x2='260' y2='130' stroke='#000' stroke-width='5'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンクと白色のグラデーションが美しい女性。体は丸く、顔には大きな目と柔らかな表情が特徴。背中にはピンクの羽が優雅に広がっている。",
-      "reason": "新たな進化が起こり、より美しい姿へと進化した。",
-      "thought": "『愛と美の力』"
+      "appearance": "イヴはピンク色の柔らかな皮膚を持ち、優雅な身体つきと長い耳を持つ女性である。顔には美しい特徴があり、背中には小さな翼が生えている。手足はしなやかで、しっぽは長く細くなっている。角や模様はないが、全体的に優美な印象を与える。",
+      "reason": "イヴは新たな環境に適応するため、美しい装飾や柔らかな色彩を身にまとう進化を遂げた。",
+      "thought": "『自然と共に美しく在りたい』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(100,149,237);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(135,206,250);stop-opacity:1' /></linearGradient></defs><rect x='150' y='150' width='100' height='150' fill='url(#gradB)' /><polygon points='150,150 250,150 200,50' fill='rgb(100,149,237)' /><ellipse cx='200' cy='100' rx='30' ry='20' fill='rgb(255,255,255)' /><ellipse cx='180' cy='100' rx='10' ry='15' fill='rgb(100,149,237)' /><ellipse cx='220' cy='100' rx='10' ry='15' fill='rgb(100,149,237)' /><path d='M200,300 L180,250 220,250 Z' fill='rgb(100,149,237)' stroke='rgb(0,0,0)' stroke-width='2' /><line x1='170' y1='300' x2='230' y2='300' stroke='rgb(0,0,0)' stroke-width='2' /><line x1='180' y1='250' x2='220' y2='250' stroke='rgb(0,0,0)' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#b0e0e6'/><ellipse cx='200' cy='100' rx='70' ry='90' fill='#add8e6'/><path d='M170,230 Q200,260 230,230 Q200,260 170,230 Z' fill='#87ceeb'/><path d='M160,150 Q200,100 240,150 Q200,200 160,150 Z' fill='#87ceeb'/><rect x='180' y='240' width='40' height='60' fill='#87ceeb'/><polygon points='180,240 220,240 200,200' fill='#87ceeb'/><circle cx='160' cy='220' r='5' fill='#000'/><circle cx='240' cy='220' r='5' fill='#000'/><line x1='160' y1='260' x2='240' y2='260' stroke='#000' stroke-width='5'/><path d='M200,280 Q180,290 200,300 Q220,290 200,280 Z' fill='#000'/><line x1='160' y1='150' x2='140' y2='130' stroke='#000' stroke-width='5'/><line x1='240' y1='150' x2='260' y2='130' stroke='#000' stroke-width='5'/></svg>",
     "report": {
-      "appearance": "アダムは、青と白色のグラデーションが美しい男性。体はがっしりとしており、頭部には水色のツノが2つ突き出ている。背中には羽がなく、腕には筋肉が発達している。",
-      "reason": "進化の過程で、頑強な体つきと知性を組み合わせた形に進化した。",
-      "thought": "『強さと知恵の調和』"
+      "appearance": "アダムは青色の肌を持ち、がっしりとした体つきと丸い顔を持つ男性である。顔には鋭い特徴があり、背中には小さな羽根が生えている。手足は頑丈で、しっぽは短く太くなっている。角や模様はないが、全体的に力強い印象を与える。",
+      "reason": "アダムは新たな狩猟環境における防御力を強化するため、頑丈な体つきと青色の肌を持つ進化を遂げた。",
+      "thought": "『自然と調和し、力強く在りたい』"
     },
     "name": "アダム",
     "gender": "男性"
