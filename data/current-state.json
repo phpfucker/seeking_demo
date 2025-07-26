@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='150' rx='80' ry='120' fill='#ffb6c1'/><path d='M170,230 Q200,260 230,230 Q200,260 170,230 Z' fill='#ff99aa'/><path d='M160,150 Q200,100 240,150 Q200,200 160,150 Z' fill='#ff99aa'/><rect x='180' y='240' width='40' height='60' fill='#ff99aa'/><polygon points='180,240 220,240 200,200' fill='#ff99aa'/><circle cx='160' cy='220' r='5' fill='#000'/><circle cx='240' cy='220' r='5' fill='#000'/><line x1='160' y1='260' x2='240' y2='260' stroke='#000' stroke-width='5'/><path d='M200,280 Q180,290 200,300 Q220,290 200,280 Z' fill='#000'/><line x1='160' y1='150' x2='140' y2='130' stroke='#000' stroke-width='5'/><line x1='240' y1='150' x2='260' y2='130' stroke='#000' stroke-width='5'/></svg>",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 400\"><defs><linearGradient id=\"gradA\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" style=\"stop-color:rgb(255,255,0);stop-opacity:1\" /><stop offset=\"100%\" style=\"stop-color:rgb(255,0,0);stop-opacity:1\" /></linearGradient></defs><rect x=\"80\" y=\"20\" width=\"240\" height=\"360\" fill=\"url(#gradA)\" /><rect x=\"120\" y=\"160\" width=\"160\" height=\"160\" fill=\"#ffcc00\" /><ellipse cx=\"200\" cy=\"160\" rx=\"80\" ry=\"100\" fill=\"#ffea80\" /><ellipse cx=\"170\" cy=\"130\" rx=\"20\" ry=\"10\" fill=\"#995c00\" /><ellipse cx=\"230\" cy=\"130\" rx=\"20\" ry=\"10\" fill=\"#995c00\" /><path d=\"M180 200 Q200 220 220 200\" stroke=\"#995c00\" stroke-width=\"5\" fill=\"none\" /><line x1=\"160\" y1=\"250\" x2=\"240\" y2=\"250\" stroke=\"#995c00\" stroke-width=\"10\" /><rect x=\"160\" y=\"300\" width=\"80\" height=\"60\" fill=\"#ffcc00\" /><rect x=\"100\" y=\"340\" width=\"40\" height=\"20\" fill=\"#995c00\" /><rect x=\"260\" y=\"340\" width=\"40\" height=\"20\" fill=\"#995c00\" /></svg>",
     "report": {
-      "appearance": "イヴはピンク色の柔らかな皮膚を持ち、優雅な身体つきと長い耳を持つ女性である。顔には美しい特徴があり、背中には小さな翼が生えている。手足はしなやかで、しっぽは長く細くなっている。角や模様はないが、全体的に優美な印象を与える。",
-      "reason": "イヴは新たな環境に適応するため、美しい装飾や柔らかな色彩を身にまとう進化を遂げた。",
-      "thought": "『自然と共に美しく在りたい』"
+      "appearance": "イヴは、金色の美しい毛並みを持ち、優雅な曲線の体に大きな黄色い目を持つ女性型生命体です。手は小さな黄色い爪が備わり、しっぽは短くてしっとりとした毛で覆われています。",
+      "reason": "進化の過程でイヴの体には繊細な美しさが加わり、色彩もより輝かしいものとなりました。",
+      "thought": "『輝きを感じる』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#b0e0e6'/><ellipse cx='200' cy='100' rx='70' ry='90' fill='#add8e6'/><path d='M170,230 Q200,260 230,230 Q200,260 170,230 Z' fill='#87ceeb'/><path d='M160,150 Q200,100 240,150 Q200,200 160,150 Z' fill='#87ceeb'/><rect x='180' y='240' width='40' height='60' fill='#87ceeb'/><polygon points='180,240 220,240 200,200' fill='#87ceeb'/><circle cx='160' cy='220' r='5' fill='#000'/><circle cx='240' cy='220' r='5' fill='#000'/><line x1='160' y1='260' x2='240' y2='260' stroke='#000' stroke-width='5'/><path d='M200,280 Q180,290 200,300 Q220,290 200,280 Z' fill='#000'/><line x1='160' y1='150' x2='140' y2='130' stroke='#000' stroke-width='5'/><line x1='240' y1='150' x2='260' y2='130' stroke='#000' stroke-width='5'/></svg>",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 400\"><defs><linearGradient id=\"gradB\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" style=\"stop-color:rgb(0,0,255);stop-opacity:1\" /><stop offset=\"100%\" style=\"stop-color:rgb(0,255,255);stop-opacity:1\" /></linearGradient></defs><rect x=\"80\" y=\"20\" width=\"240\" height=\"360\" fill=\"url(#gradB)\" /><rect x=\"120\" y=\"160\" width=\"160\" height=\"160\" fill=\"#0055cc\" /><ellipse cx=\"200\" cy=\"160\" rx=\"80\" ry=\"100\" fill=\"#80eaff\" /><ellipse cx=\"170\" cy=\"130\" rx=\"20\" ry=\"10\" fill=\"#002699\" /><ellipse cx=\"230\" cy=\"130\" rx=\"20\" ry=\"10\" fill=\"#002699\" /><path d=\"M180 200 Q200 220 220 200\" stroke=\"#002699\" stroke-width=\"5\" fill=\"none\" /><line x1=\"160\" y1=\"250\" x2=\"240\" y2=\"250\" stroke=\"#002699\" stroke-width=\"10\" /><rect x=\"160\" y=\"300\" width=\"80\" height=\"60\" fill=\"#0055cc\" /><rect x=\"100\" y=\"340\" width=\"40\" height=\"20\" fill=\"#002699\" /><rect x=\"260\" y=\"340\" width=\"40\" height=\"20\" fill=\"#002699\" /></svg>",
     "report": {
-      "appearance": "アダムは青色の肌を持ち、がっしりとした体つきと丸い顔を持つ男性である。顔には鋭い特徴があり、背中には小さな羽根が生えている。手足は頑丈で、しっぽは短く太くなっている。角や模様はないが、全体的に力強い印象を与える。",
-      "reason": "アダムは新たな狩猟環境における防御力を強化するため、頑丈な体つきと青色の肌を持つ進化を遂げた。",
-      "thought": "『自然と調和し、力強く在りたい』"
+      "appearance": "アダムは、青い色合いの体毛と穏やかな雰囲気を持つ男性型生命体で、大きな青い目と筋骨隆々の体つきが特徴です。手は頑丈で力強く、しっぽは短くてしっとりとした毛で覆われています。",
+      "reason": "アダムの進化により、穏やかで安定感のある雰囲気が強調され、体の青い色調も一層深くなりました。",
+      "thought": "『穏やかな気持ち』"
     },
     "name": "アダム",
     "gender": "男性"
