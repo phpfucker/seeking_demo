@@ -6928,5 +6928,28 @@
       "gender": "男性"
     },
     "timestamp": 1753492879442
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffcdf1' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#ffb6d2' /><circle cx='160' cy='130' r='5' fill='#ffffff' /><circle cx='240' cy='130' r='5' fill='#ffffff' /><path d='M150 200 Q200 280 250 200' fill='none' stroke='#ff5ca1' stroke-width='3' /><path d='M170 260 Q200 300 230 260' fill='none' stroke='#ff5ca1' stroke-width='3' /><path d='M150 200 Q200 230 250 200' fill='none' stroke='#ff5ca1' stroke-width='3' /><rect x='170' y='260' width='60' height='20' fill='#ffb6d2' /><polygon points='180,260 220,260 200,280' fill='#ff5ca1' /><polygon points='160,110 190,130 170,150' fill='#ffb6d2' /><polygon points='240,110 210,130 230,150' fill='#ffb6d2' /></svg>",
+      "report": {
+        "appearance": "「イヴ」はピンク色の体を持ち、柔らかな卵形の顔に大きな目と細い口を持つ女性の生命体です。体の一部に淡い紫色の模様があり、しなやかなしっぽが後ろに伸びています。",
+        "reason": "進化が起こり、より優美な姿と繊細な特徴を持つようになりました。",
+        "thought": "『花のような美しさを持つ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#b0e57c' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#8cd790' /><circle cx='160' cy='130' r='5' fill='#ffffff' /><circle cx='240' cy='130' r='5' fill='#ffffff' /><path d='M170 200 Q200 280 230 200' fill='none' stroke='#4cbf68' stroke-width='3' /><path d='M170 260 Q200 300 230 260' fill='none' stroke='#4cbf68' stroke-width='3' /><path d='M150 200 Q200 230 250 200' fill='none' stroke='#4cbf68' stroke-width='3' /><rect x='170' y='260' width='60' height='20' fill='#8cd790' /><polygon points='180,260 220,260 200,280' fill='#4cbf68' /><polygon points='160,110 190,130 170,150' fill='#8cd790' /><polygon points='240,110 210,130 230,150' fill='#8cd790' /></svg>",
+      "report": {
+        "appearance": "「アダム」は緑色の体を持ち、円滑な楕円形の顔に大きな目と幅広い口を持つ男性の生命体です。体には明るい緑色の模様があり、力強いしっぽが後ろに伸びています。",
+        "reason": "進化が起こり、より強靭な体と緑の自然の力を象徴する特徴を持つようになりました。",
+        "thought": "『大地の息吹を感じる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1753511050142
   }
 ]
