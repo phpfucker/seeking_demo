@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcc99' /><ellipse cx='200' cy='200' rx='80' ry='110' fill='#ffd699' /><path d='M150,250 Q200,300 250,250' stroke='#996633' stroke-width='4' fill='none' /><circle cx='170' cy='180' r='10' fill='black' /><circle cx='230' cy='180' r='10' fill='black' /><polygon points='180,240 200,220 220,240' fill='#ff6666' /><rect x='185' y='280' width='30' height='20' fill='#663300' /><line x1='185' y1='300' x2='215' y2='300' stroke='#663300' stroke-width='3' /><line x1='200' y1='300' x2='200' y2='330' stroke='#663300' stroke-width='3' /><circle cx='170' cy='280' r='5' fill='#ff6666' /><circle cx='230' cy='280' r='5' fill='#ff6666' /></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"150\" width=\"300\" height=\"200\" fill=\"#ffcc99\"/><polygon points=\"200,50 150,150 250,150\" fill=\"#ff9966\"/><circle cx=\"200\" cy=\"130\" r=\"80\" fill=\"#ffcc99\"/><ellipse cx=\"160\" cy=\"110\" rx=\"20\" ry=\"10\" fill=\"#ff9966\"/><ellipse cx=\"240\" cy=\"110\" rx=\"20\" ry=\"10\" fill=\"#ff9966\"/><circle cx=\"170\" cy=\"130\" r=\"10\" fill=\"#663300\"/><circle cx=\"230\" cy=\"130\" r=\"10\" fill=\"#663300\"/><path d=\"M200,150 Q180,130 160,150\" fill=\"none\" stroke=\"#663300\" stroke-width=\"2\"/><path d=\"M200,150 Q220,130 240,150\" fill=\"none\" stroke=\"#663300\" stroke-width=\"2\"/><polygon points=\"160,180 220,180 200,220\" fill=\"#ff9966\"/><polygon points=\"180,250 200,220 220,250\" fill=\"#ff9966\"/></svg>",
     "report": {
-      "appearance": "イヴは、オレンジ色の肌を持ち、大きな卵型の体と長い角を持つ女性。顔には優しい表情があり、赤い目とほっそりとした口が特徴。背中には小さな赤い翼が生えている。腹部には橙色と黒のストライプ模様がある。",
-      "reason": "環境の変化により、イヴは新たな生息地で生存するために、体色や模様の進化を遂げた。",
-      "thought": "『希望』"
+      "appearance": "イヴは、肌がピンク色の柔らかな毛皮に覆われ、大きな琥珀色の目を持つ女性的な生命体です。顔には丸い頬と小さな鼻があり、耳は尖っています。体はしなやかで華奢な印象を与えます。",
+      "reason": "生態系の変化により、イヴの進化は美しさと優雅さへの適応を求められました。そのため、毛皮の柔らかさや目の輝きが強調された特徴となりました。",
+      "thought": "『静かなる美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#6666ff' /><ellipse cx='200' cy='200' rx='90' ry='120' fill='#668cff' /><path d='M150,250 Q200,300 250,250' stroke='#333366' stroke-width='4' fill='none' /><circle cx='170' cy='180' r='10' fill='black' /><circle cx='230' cy='180' r='10' fill='black' /><polygon points='180,240 200,220 220,240' fill='#33ccff' /><rect x='185' y='280' width='30' height='20' fill='#333366' /><line x1='185' y1='300' x2='215' y2='300' stroke='#333366' stroke-width='3' /><line x1='200' y1='300' x2='200' y2='330' stroke='#333366' stroke-width='3' /><circle cx='170' cy='280' r='5' fill='#33ccff' /><circle cx='230' cy='280' r='5' fill='#33ccff' /></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"150\" width=\"300\" height=\"200\" fill=\"#6699cc\"/><polygon points=\"200,50 150,150 250,150\" fill=\"#3366cc\"/><circle cx=\"200\" cy=\"130\" r=\"80\" fill=\"#6699cc\"/><ellipse cx=\"160\" cy=\"110\" rx=\"20\" ry=\"10\" fill=\"#3366cc\"/><ellipse cx=\"240\" cy=\"110\" rx=\"20\" ry=\"10\" fill=\"#3366cc\"/><circle cx=\"170\" cy=\"130\" r=\"10\" fill=\"#e6e6e6\"/><circle cx=\"230\" cy=\"130\" r=\"10\" fill=\"#e6e6e6\"/><path d=\"M200,150 Q180,130 160,150\" fill=\"none\" stroke=\"#663366\" stroke-width=\"2\"/><path d=\"M200,150 Q220,130 240,150\" fill=\"none\" stroke=\"#663366\" stroke-width=\"2\"/><polygon points=\"160,180 220,180 200,220\" fill=\"#3366cc\"/><polygon points=\"180,250 200,220 220,250\" fill=\"#3366cc\"/></svg>",
     "report": {
-      "appearance": "アダムは、青い肌を持つ男性で、膨らんだ筋肉と大きなひれ状の耳が特徴。口元には長い牙があり、顔つきは凛々しい。背中には青い鱗が並び、尾びれ状のしっぽを持つ。",
-      "reason": "アダムは生息地の気候変化に適応するため、運動能力と視覚の改善を目指して進化した。",
-      "thought": "『勇気』"
+      "appearance": "アダムは、青い鱗状の皮膚と銀色の鋭い角を持つ男性的な生命体です。透き通るような瞳と鋭い牙が特徴で、筋骨隆々の体つきをしています。",
+      "reason": "アダムは、狩猟や領土争いにおいて優位性を獲得するため、鋭い角や牙を持つことで自己防衛や敵対者への警告を行う進化を遂げました。",
+      "thought": "『強靭な闘志』"
     },
     "name": "アダム",
     "gender": "男性"
