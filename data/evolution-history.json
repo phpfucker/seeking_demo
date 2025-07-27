@@ -7020,5 +7020,28 @@
       "gender": "男性"
     },
     "timestamp": 1753580377290
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ff99cc'/><circle cx='200' cy='200' r='80' fill='#ff66a3'/><ellipse cx='150' cy='150' rx='20' ry='40' fill='#ff3385'/><polygon points='180,120 200,80 220,120' fill='#ff0066'/><path d='M180,300 Q200,320 220,300' fill='none' stroke='#cc0066' stroke-width='3'/><line x1='160' y1='320' x2='240' y2='320' stroke='#cc0066' stroke-width='4'/><path d='M140,260 C160,240 240,240 260,260' fill='none' stroke='#cc0066' stroke-width='3'/><circle cx='190' cy='190' r='5' fill='black'/><circle cx='210' cy='190' r='5' fill='black'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌と赤いヘア、大きな薄いピンク色の目を持つ女性。体には薄い紫色の装飾が施され、優雅で美しい姿をしている。",
+        "reason": "進化の理由は、生態系での環境変化により、花や果物と共生する力を強化し、他の生物との共生を促進するため。",
+        "thought": "『花と果実に囲まれて、自然と調和している』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#99ccff'/><circle cx='200' cy='200' r='80' fill='#66a3ff'/><ellipse cx='150' cy='150' rx='20' ry='40' fill='#3385ff'/><polygon points='180,120 200,80 220,120' fill='#0066ff'/><path d='M180,300 Q200,320 220,300' fill='none' stroke='#0066cc' stroke-width='3'/><line x1='160' y1='320' x2='240' y2='320' stroke='#0066cc' stroke-width='4'/><path d='M140,260 C160,240 240,240 260,260' fill='none' stroke='#0066cc' stroke-width='3'/><rect x='185' y='195' width='10' height='30' fill='black'/><rect x='205' y='195' width='10' height='30' fill='black'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌と青い髪、鋭い目を持つ男性。体には濃い青色の模様が施され、力強く逞しい姿をしている。",
+        "reason": "進化が起こったのは、過酷な環境での長期的な生存競争により、狩猟と戦闘の能力を強化する必要が生じたため。",
+        "thought": "『強大な力を持ち、生存において不可欠な存在』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1753597480715
   }
 ]
