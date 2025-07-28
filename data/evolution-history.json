@@ -7112,5 +7112,28 @@
       "gender": "男性"
     },
     "timestamp": 1753666113829
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#ffccaa' /><ellipse cx='200' cy='120' rx='80' ry='110' fill='#ffc09f' /><ellipse cx='150' cy='120' rx='20' ry='30' fill='#ffeca3' /><ellipse cx='250' cy='120' rx='20' ry='30' fill='#ffeca3' /><ellipse cx='180' cy='230' rx='30' ry='15' fill='#ffeca3' /><ellipse cx='220' cy='230' rx='30' ry='15' fill='#ffeca3' /><path d='M190,180 L180,190 L220,190 L210,180 Z' fill='#ffffff' /><rect x='185' y='230' width='30' height='60' fill='#ffd699' /><polygon points='190,290 210,290 200,320' fill='#ffb366' /><circle cx='180' cy='150' r='10' fill='#ffffff' /><circle cx='220' cy='150' r='10' fill='#ffffff' /><circle cx='190' cy='140' r='5' fill='#000000' /><circle cx='210' cy='140' r='5' fill='#000000' /></svg>",
+      "report": {
+        "appearance": "イヴは桃色の肌を持ち、透き通るような柔らかな光沢のある髪と大きな瞳を持つ。華奢な身体には円や楕円のパーツが特徴で、優美な装飾が施されている。",
+        "reason": "新たな進化が起こり、生命を守るためにより美しく、かつ優雅で知性を秘めた姿に進化した。",
+        "thought": "『愛と知性の融合』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#aaddff' /><rect x='165' y='120' width='70' height='100' fill='#87ceeb' /><rect x='185' y='120' width='30' height='30' fill='#b0e0e6' /><circle cx='200' cy='230' r='40' fill='#b0e0e6' /><circle cx='200' cy='280' r='20' fill='#87ceeb' /><line x1='180' y1='250' x2='220' y2='250' stroke='#008080' stroke-width='8' /><polygon points='190,290 210,290 200,320' fill='#40e0d0' /><ellipse cx='185' cy='170' rx='10' ry='20' fill='#ffffff' /><ellipse cx='215' cy='170' rx='10' ry='20' fill='#ffffff' /><circle cx='190' cy='150' r='5' fill='#000000' /><circle cx='210' cy='150' r='5' fill='#000000' /></svg>",
+      "report": {
+        "appearance": "アダムは青い体色を持ち、頑丈な四角い体と頭部が特徴。大きな丸い眼と筋肉質な腕と脚を持つ。威厳ある風格を感じさせる。",
+        "reason": "進化した姿はより力強く、知恵と勇気を象徴し、強靭な肉体と精神力を手に入れた。",
+        "thought": "『力と誇りの融合』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1753684087748
   }
 ]
