@@ -7135,5 +7135,28 @@
       "gender": "男性"
     },
     "timestamp": 1753684087748
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#FFD700' /><ellipse cx='200' cy='250' rx='120' ry='160' fill='#FFD700' /><circle cx='140' cy='180' r='20' fill='#6A5ACD' /><circle cx='260' cy='180' r='20' fill='#6A5ACD' /><rect x='175' y='300' width='50' height='50' fill='#FFD700' /><circle cx='165' cy='195' r='5' fill='black' /><circle cx='235' cy='195' r='5' fill='black' /><rect x='160' y='250' width='80' height='10' fill='black' /><polygon points='100,100 200,50 300,100' fill='#6A5ACD' /><polygon points='120,150 150,130 180,150' fill='black' /><polygon points='220,150 250,130 280,150' fill='black' /><line x1='180' y1='300' x2='220' y2='300' stroke='black' stroke-width='3' /><line x1='200' y1='350' x2='200' y2='380' stroke='black' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "イヴは、金色の光沢を放つ大きな楕円形の身体に、青紫色の目を持ち、手足は黒く、尾と角がなめらかに曲線を描いています。",
+        "reason": "生命体が新たな環境に適応するため、金色の光沢を持つ楕円形の身体が進化しました。",
+        "thought": "『輝く未来へ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#87CEEB' /><ellipse cx='200' cy='250' rx='120' ry='160' fill='#87CEEB' /><circle cx='140' cy='180' r='20' fill='#FFA07A' /><circle cx='260' cy='180' r='20' fill='#FFA07A' /><rect x='175' y='300' width='50' height='50' fill='#87CEEB' /><circle cx='165' cy='195' r='5' fill='black' /><circle cx='235' cy='195' r='5' fill='black' /><rect x='160' y='250' width='80' height='10' fill='black' /><polygon points='100,100 200,50 300,100' fill='#FFA07A' /><polygon points='120,150 150,130 180,150' fill='black' /><polygon points='220,150 250,130 280,150' fill='black' /><line x1='180' y1='300' x2='220' y2='300' stroke='black' stroke-width='3' /><line x1='200' y1='350' x2='200' y2='380' stroke='black' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "アダムは、水色の身体に大きな楕円形の体躯を持ち、ピンク色の目と手足、尾と角が特徴です。",
+        "reason": "生命体が環境変化に適応するため、水色の身体が新たに進化しました。",
+        "thought": "『新たな自分』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1753706246122
   }
 ]
