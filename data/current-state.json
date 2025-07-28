@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"150\" width=\"300\" height=\"200\" fill=\"#ffcc99\"/><polygon points=\"200,50 150,150 250,150\" fill=\"#ff9966\"/><circle cx=\"200\" cy=\"130\" r=\"80\" fill=\"#ffcc99\"/><ellipse cx=\"160\" cy=\"110\" rx=\"20\" ry=\"10\" fill=\"#ff9966\"/><ellipse cx=\"240\" cy=\"110\" rx=\"20\" ry=\"10\" fill=\"#ff9966\"/><circle cx=\"170\" cy=\"130\" r=\"10\" fill=\"#663300\"/><circle cx=\"230\" cy=\"130\" r=\"10\" fill=\"#663300\"/><path d=\"M200,150 Q180,130 160,150\" fill=\"none\" stroke=\"#663300\" stroke-width=\"2\"/><path d=\"M200,150 Q220,130 240,150\" fill=\"none\" stroke=\"#663300\" stroke-width=\"2\"/><polygon points=\"160,180 220,180 200,220\" fill=\"#ff9966\"/><polygon points=\"180,250 200,220 220,250\" fill=\"#ff9966\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#ffccaa' /><ellipse cx='200' cy='120' rx='80' ry='110' fill='#ffc09f' /><ellipse cx='150' cy='120' rx='20' ry='30' fill='#ffeca3' /><ellipse cx='250' cy='120' rx='20' ry='30' fill='#ffeca3' /><ellipse cx='180' cy='230' rx='30' ry='15' fill='#ffeca3' /><ellipse cx='220' cy='230' rx='30' ry='15' fill='#ffeca3' /><path d='M190,180 L180,190 L220,190 L210,180 Z' fill='#ffffff' /><rect x='185' y='230' width='30' height='60' fill='#ffd699' /><polygon points='190,290 210,290 200,320' fill='#ffb366' /><circle cx='180' cy='150' r='10' fill='#ffffff' /><circle cx='220' cy='150' r='10' fill='#ffffff' /><circle cx='190' cy='140' r='5' fill='#000000' /><circle cx='210' cy='140' r='5' fill='#000000' /></svg>",
     "report": {
-      "appearance": "イヴは、肌がピンク色の柔らかな毛皮に覆われ、大きな琥珀色の目を持つ女性的な生命体です。顔には丸い頬と小さな鼻があり、耳は尖っています。体はしなやかで華奢な印象を与えます。",
-      "reason": "生態系の変化により、イヴの進化は美しさと優雅さへの適応を求められました。そのため、毛皮の柔らかさや目の輝きが強調された特徴となりました。",
-      "thought": "『静かなる美しさ』"
+      "appearance": "イヴは桃色の肌を持ち、透き通るような柔らかな光沢のある髪と大きな瞳を持つ。華奢な身体には円や楕円のパーツが特徴で、優美な装飾が施されている。",
+      "reason": "新たな進化が起こり、生命を守るためにより美しく、かつ優雅で知性を秘めた姿に進化した。",
+      "thought": "『愛と知性の融合』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"150\" width=\"300\" height=\"200\" fill=\"#6699cc\"/><polygon points=\"200,50 150,150 250,150\" fill=\"#3366cc\"/><circle cx=\"200\" cy=\"130\" r=\"80\" fill=\"#6699cc\"/><ellipse cx=\"160\" cy=\"110\" rx=\"20\" ry=\"10\" fill=\"#3366cc\"/><ellipse cx=\"240\" cy=\"110\" rx=\"20\" ry=\"10\" fill=\"#3366cc\"/><circle cx=\"170\" cy=\"130\" r=\"10\" fill=\"#e6e6e6\"/><circle cx=\"230\" cy=\"130\" r=\"10\" fill=\"#e6e6e6\"/><path d=\"M200,150 Q180,130 160,150\" fill=\"none\" stroke=\"#663366\" stroke-width=\"2\"/><path d=\"M200,150 Q220,130 240,150\" fill=\"none\" stroke=\"#663366\" stroke-width=\"2\"/><polygon points=\"160,180 220,180 200,220\" fill=\"#3366cc\"/><polygon points=\"180,250 200,220 220,250\" fill=\"#3366cc\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#aaddff' /><rect x='165' y='120' width='70' height='100' fill='#87ceeb' /><rect x='185' y='120' width='30' height='30' fill='#b0e0e6' /><circle cx='200' cy='230' r='40' fill='#b0e0e6' /><circle cx='200' cy='280' r='20' fill='#87ceeb' /><line x1='180' y1='250' x2='220' y2='250' stroke='#008080' stroke-width='8' /><polygon points='190,290 210,290 200,320' fill='#40e0d0' /><ellipse cx='185' cy='170' rx='10' ry='20' fill='#ffffff' /><ellipse cx='215' cy='170' rx='10' ry='20' fill='#ffffff' /><circle cx='190' cy='150' r='5' fill='#000000' /><circle cx='210' cy='150' r='5' fill='#000000' /></svg>",
     "report": {
-      "appearance": "アダムは、青い鱗状の皮膚と銀色の鋭い角を持つ男性的な生命体です。透き通るような瞳と鋭い牙が特徴で、筋骨隆々の体つきをしています。",
-      "reason": "アダムは、狩猟や領土争いにおいて優位性を獲得するため、鋭い角や牙を持つことで自己防衛や敵対者への警告を行う進化を遂げました。",
-      "thought": "『強靭な闘志』"
+      "appearance": "アダムは青い体色を持ち、頑丈な四角い体と頭部が特徴。大きな丸い眼と筋肉質な腕と脚を持つ。威厳ある風格を感じさせる。",
+      "reason": "進化した姿はより力強く、知恵と勇気を象徴し、強靭な肉体と精神力を手に入れた。",
+      "thought": "『力と誇りの融合』"
     },
     "name": "アダム",
     "gender": "男性"
