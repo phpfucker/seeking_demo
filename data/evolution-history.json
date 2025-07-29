@@ -7204,5 +7204,28 @@
       "gender": "男性"
     },
     "timestamp": 1753753402354
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><radialGradient id='gradA' cx='0.5' cy='0.5' r='0.5'><stop offset='0%' style='stop-color:#ff9a9e'/><stop offset='100%' style='stop-color:#fad0c4'/></radialGradient></defs><rect x='100' y='150' width='200' height='200' fill='url(#gradA)' rx='20' ry='20'/><ellipse cx='200' cy='110' rx='70' ry='50' fill='#ffccd5'/><ellipse cx='160' cy='105' rx='15' ry='25' fill='#fff'/><ellipse cx='240' cy='105' rx='15' ry='25' fill='#fff'/><path d='M185 140 Q200 180 215 140' fill='none' stroke='#000' stroke-width='2'/><path d='M165 210 Q200 240 235 210' fill='none' stroke='#000' stroke-width='2'/><ellipse cx='165' cy='210' rx='7' ry='10' fill='#000'/><ellipse cx='235' cy='210' rx='7' ry='10' fill='#000'/><polyline points='170,160 190,160 200,150 210,160 230,160' fill='none' stroke='#000' stroke-width='3'/><circle cx='180' cy='100' r='5' fill='#000'/><circle cx='220' cy='100' r='5' fill='#000'/><path d='M150 240 Q200 270 250 240' fill='none' stroke='#000' stroke-width='2'/><path d='M150 240 Q200 260 250 240' fill='none' stroke='#000' stroke-width='2'/><path d='M150 240 Q200 250 250 240' fill='none' stroke='#000' stroke-width='2'/><path d='M150 240 Q200 270 250 240' fill='none' stroke='#000' stroke-width='2'/><path d='M150 240 Q200 260 250 240' fill='none' stroke='#000' stroke-width='2'/><path d='M150 240 Q200 250 250 240' fill='none' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと白のグラデーションを持つ柔らかな肌を持ち、大きな目と赤い頬が特徴的な女性型生命体です。頭部には小さな角があり、しっかりした足と手を持っています。体色は肌色を基調とし、優しい雰囲気を放っています。",
+        "reason": "進化の過程において、イヴはより豊かな感情表現と柔らかな特徴を持つことで、豊かなコミュニケーションと創造性を発展させるために進化しました。",
+        "thought": "『愛と創造性』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><radialGradient id='gradB' cx='0.5' cy='0.5' r='0.5'><stop offset='0%' style='stop-color:#9acffa'/><stop offset='100%' style='stop-color:#c4f0ff'/></radialGradient></defs><rect x='100' y='150' width='200' height='200' fill='url(#gradB)' rx='20' ry='20'/><ellipse cx='200' cy='110' rx='50' ry='30' fill='#a0e7e5'/><ellipse cx='160' cy='105' rx='15' ry='25' fill='#fff'/><ellipse cx='240' cy='105' rx='15' ry='25' fill='#fff'/><path d='M185 140 Q200 180 215 140' fill='none' stroke='#000' stroke-width='2'/><path d='M165 210 Q200 240 235 210' fill='none' stroke='#000' stroke-width='2'/><ellipse cx='165' cy='210' rx='7' ry='10' fill='#000'/><ellipse cx='235' cy='210' rx='7' ry='10' fill='#000'/><polyline points='170,160 190,160 200,150 210,160 230,160' fill='none' stroke='#000' stroke-width='3'/><circle cx='180' cy='100' r='5' fill='#000'/><circle cx='220' cy='100' r='5' fill='#000'/><path d='M150 240 Q200 270 250 240' fill='none' stroke='#000' stroke-width='2'/><path d='M150 240 Q200 260 250 240' fill='none' stroke='#000' stroke-width='2'/><path d='M150 240 Q200 250 250 240' fill='none' stroke='#000' stroke-width='2'/><path d='M150 240 Q200 270 250 240' fill='none' stroke='#000' stroke-width='2'/><path d='M150 240 Q200 260 250 240' fill='none' stroke='#000' stroke-width='2'/><path d='M150 240 Q200 250 250 240' fill='none' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、水色と白のグラデーションを持つ肌を持ち、優しげな表情と鋭い眼差しが特徴的な男性型生命体です。角のついた頭部としっかりした足と手を持っています。体色は爽やかな水色を基調とし、知性と力強さを感じさせます。",
+        "reason": "アダムは知性と力強さを組み合わせ、より効果的なリーダーシップと物事の理解を促進するために、進化の過程でこのような特徴を獲得しました。",
+        "thought": "『知性と勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1753770414499
   }
 ]
