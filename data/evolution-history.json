@@ -7181,5 +7181,28 @@
       "gender": "男性"
     },
     "timestamp": 1753727193997
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffe0bd'/><circle cx='200' cy='180' r='80' fill='#ffbf80'/><ellipse cx='150' cy='250' rx='40' ry='20' fill='#ffebcc'/><ellipse cx='250' cy='250' rx='40' ry='20' fill='#ffebcc'/><path d='M160 230 Q200 260 240 230' fill='none' stroke='#ffbf80' stroke-width='2'/><line x1='160' y1='300' x2='190' y2='320' stroke='#000' stroke-width='2'/><line x1='240' y1='300' x2='210' y2='320' stroke='#000' stroke-width='2'/><polygon points='180,190 195,220 215,220 230,190' fill='#fff'/><polygon points='170,260 180,280 220,280 230,260' fill='#fff'/><circle cx='180' cy='160' r='5' fill='#000'/><circle cx='220' cy='160' r='5' fill='#000'/><rect x='180' y='280' width='40' height='15' fill='#ffbf80'/></svg>",
+      "report": {
+        "appearance": "イヴは、柔らかなオレンジ色の肌を持ち、大きなオレンジ色の円形の頭部と、陽気な表情を持つ女性型生命体です。頭部には光沢のある薄いピンクの眼と、控えめな笑みを浮かべた口があり、丸い耳としっぽが特徴です。体全体は柔らかなオレンジ色で統一され、優しさと温かさを感じさせます。",
+        "reason": "進化が起こった理由は、生態系での環境変化により、イヴの生存戦略として感情や表情の豊かさが求められるようになったためです。",
+        "thought": "『やさしさの力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#b0e0e6'/><circle cx='200' cy='180' r='80' fill='#87ceeb'/><ellipse cx='150' cy='250' rx='40' ry='20' fill='#b0e0e6'/><ellipse cx='250' cy='250' rx='40' ry='20' fill='#b0e0e6'/><path d='M160 230 Q200 260 240 230' fill='none' stroke='#87ceeb' stroke-width='2'/><line x1='160' y1='300' x2='190' y2='320' stroke='#000' stroke-width='2'/><line x1='240' y1='300' x2='210' y2='320' stroke='#000' stroke-width='2'/><polygon points='180,190 195,220 215,220 230,190' fill='#fff'/><polygon points='170,260 180,280 220,280 230,260' fill='#fff'/><circle cx='180' cy='160' r='5' fill='#000'/><circle cx='220' cy='160' r='5' fill='#000'/><polygon points='185,290 215,290 225,305 175,305' fill='#87ceeb'/></svg>",
+      "report": {
+        "appearance": "アダムは、涼やかな水色の肌を持ち、大きな水色の円形の頭部と、冷静な表情を持つ男性型生命体です。頭部には深い青い眼と、口元には微笑みを浮かべ、透明な耳としっぽが特徴です。全体的に爽やかな水色でまとめられ、知性と冷静さを感じさせます。",
+        "reason": "進化が起こった理由は、アダムの生息地での気候変動により、知性と冷静な判断力が重要となったためです。",
+        "thought": "『静かな知恵』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1753753402354
   }
 ]
