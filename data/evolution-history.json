@@ -7342,5 +7342,28 @@
       "gender": "男性"
     },
     "timestamp": 1753879026454
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(230, 159, 215);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(148, 87, 235);stop-opacity:1' /></linearGradient></defs><rect x='50' y='150' width='300' height='200' fill='url(#gradA)' /><ellipse cx='200' cy='150' rx='100' ry='150' fill='url(#gradA)' /><path d='M150 300 Q200 350 250 300' fill='none' stroke='rgb(148, 87, 235)' stroke-width='6' /><circle cx='150' cy='150' r='10' fill='white' /><circle cx='250' cy='150' r='10' fill='white' /><polygon points='180,240 220,240 200,260' fill='rgb(230, 159, 215)' /><line x1='180' y1='250' x2='195' y2='250' stroke='black' stroke-width='3' /><line x1='205' y1='250' x2='220' y2='250' stroke='black' stroke-width='3' /><text x='150' y='380' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと紫のグラデーションで彩られた美しい女性の姿をしています。背中には大きな羽が生え、優雅な雰囲気を醸し出しています。目元には紫色の模様があり、幻想的な印象を与えます。",
+        "reason": "新たな進化の一環として、イヴはより美しく優雅な外見を手に入れました。その美しさは、自然の調和と進化の力を表しています。",
+        "thought": "『輝く未来へ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(116, 204, 250);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(54, 123, 209);stop-opacity:1' /></linearGradient></defs><rect x='50' y='150' width='300' height='200' fill='url(#gradB)' /><ellipse cx='200' cy='150' rx='100' ry='150' fill='url(#gradB)' /><path d='M150 300 Q200 350 250 300' fill='none' stroke='rgb(54, 123, 209)' stroke-width='6' /><circle cx='150' cy='150' r='10' fill='white' /><circle cx='250' cy='150' r='10' fill='white' /><polygon points='180,240 220,240 200,260' fill='rgb(116, 204, 250)' /><line x1='180' y1='250' x2='195' y2='250' stroke='black' stroke-width='3' /><line x1='205' y1='250' x2='220' y2='250' stroke='black' stroke-width='3' /><text x='200' y='380' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色のグラデーションで描かれた男性の姿をしています。頭部には角が生え、力強い印象を与えます。体中に波紋のような模様が広がっており、水の力を表現しています。",
+        "reason": "進化の過程で、アダムはより強靭で力強い姿に変化しました。その力強さは、生存と繁栄への欲求から生まれたものです。",
+        "thought": "『未来への挑戦』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1753899928191
   }
 ]
