@@ -7273,5 +7273,28 @@
       "gender": "男性"
     },
     "timestamp": 1753813607099
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb' /><circle cx='200' cy='180' r='80' fill='#e5989b' /><circle cx='170' cy='170' r='10' fill='#95424e' /><circle cx='230' cy='170' r='10' fill='#95424e' /><path d='M185 240 Q200 260 215 240' fill='none' stroke='#95424e' /><path d='M165 220 Q200 280 235 220' fill='none' stroke='#95424e' /><path d='M170 220 Q200 240 230 220' fill='none' stroke='#95424e' /><path d='M160 200 Q200 220 240 200' fill='none' stroke='#95424e' /><rect x='190' y='260' width='20' height='40' fill='#95424e' /><polygon points='195,300 200,320 205,300' fill='#e5989b' /><text x='200' y='380' text-anchor='middle' font-family='Arial' font-size='16' fill='#95424e'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかな皮膚を持ち、大きな赤い目が特徴です。背中には短いしっぽと、顔にはやや長めの耳があります。体は丸く愛らしい印象を与えます。",
+        "reason": "環境の変化により、イヴはより親しみやすく魅力的な外見を持つよう進化しました。",
+        "thought": "『やさしさが力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#add8e6' /><circle cx='200' cy='180' r='80' fill='#6fa8dc' /><circle cx='170' cy='170' r='10' fill='#2a4b7c' /><circle cx='230' cy='170' r='10' fill='#2a4b7c' /><rect x='185' y='200' width='30' height='40' fill='#2a4b7c' /><polygon points='195,240 200,220 205,240' fill='#6fa8dc' /><path d='M185 260 Q200 280 215 260' fill='none' stroke='#2a4b7c' /><path d='M160 220 Q200 240 240 220' fill='none' stroke='#2a4b7c' /><text x='200' y='380' text-anchor='middle' font-family='Arial' font-size='16' fill='#2a4b7c'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青色の皮膚を持ち、大きな青い瞳が特徴です。体はスリムで引き締まっており、頭には角が生えています。手足は長く、しなやかなラインを描いています。",
+        "reason": "アダムはより力強く洗練された姿へと進化し、素早く行動するための特徴が強調されました。",
+        "thought": "『進化は挑戦』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1753838708619
   }
 ]

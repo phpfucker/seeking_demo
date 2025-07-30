@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb' /><circle cx='200' cy='180' r='80' fill='#e5989b' /><circle cx='170' cy='170' r='10' fill='#95424e' /><circle cx='230' cy='170' r='10' fill='#95424e' /><path d='M185 240 Q200 260 215 240' fill='none' stroke='#95424e' /><path d='M165 220 Q200 280 235 220' fill='none' stroke='#95424e' /><path d='M170 220 Q200 240 230 220' fill='none' stroke='#95424e' /><path d='M160 200 Q200 220 240 200' fill='none' stroke='#95424e' /><rect x='190' y='260' width='20' height='40' fill='#95424e' /><polygon points='195,300 200,320 205,300' fill='#e5989b' /><text x='200' y='380' text-anchor='middle' font-family='Arial' font-size='16' fill='#95424e'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#ffcc99'/><ellipse cx='200' cy='150' rx='100' ry='50' fill='#ff9966'/><path d='M200 200 L180 230 L220 230 Z' fill='#ffcc99'/><ellipse cx='170' cy='250' rx='20' ry='10' fill='#ff9966'/><ellipse cx='230' cy='250' rx='20' ry='10' fill='#ff9966'/><path d='M150 100 Q200 50 250 100 Q200 150 150 100 Z' fill='#ffcc99'/><path d='M160 140 Q200 170 240 140 Q200 200 160 140 Z' fill='#ffcc99'/><path d='M160 140 Q200 180 240 140 Q200 220 160 140 Z' fill='#ffcc99'/><line x1='160' y1='220' x2='240' y2='220' stroke='#9966ff' stroke-width='10'/><line x1='160' y1='220' x2='160' y2='250' stroke='#9966ff' stroke-width='10'/><line x1='240' y1='220' x2='240' y2='250' stroke='#9966ff' stroke-width='10'/></svg>",
     "report": {
-      "appearance": "イヴはピンク色の柔らかな皮膚を持ち、大きな赤い目が特徴です。背中には短いしっぽと、顔にはやや長めの耳があります。体は丸く愛らしい印象を与えます。",
-      "reason": "環境の変化により、イヴはより親しみやすく魅力的な外見を持つよう進化しました。",
-      "thought": "『やさしさが力』"
+      "appearance": "「イヴ」は、ピンク色の肌とオレンジ色の髪を持つ女性型生命体です。体は長方形で、頭部は楕円形で描かれています。顔には小さな口と目を備え、手足は細長い楕円形で表現されています。背中には三角形の模様があり、紫色の角が2本生えています。",
+      "reason": "新たな進化により、イヴはより洗練された外見と独自の特徴を手に入れました。",
+      "thought": "『輝く未来へ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#add8e6' /><circle cx='200' cy='180' r='80' fill='#6fa8dc' /><circle cx='170' cy='170' r='10' fill='#2a4b7c' /><circle cx='230' cy='170' r='10' fill='#2a4b7c' /><rect x='185' y='200' width='30' height='40' fill='#2a4b7c' /><polygon points='195,240 200,220 205,240' fill='#6fa8dc' /><path d='M185 260 Q200 280 215 260' fill='none' stroke='#2a4b7c' /><path d='M160 220 Q200 240 240 220' fill='none' stroke='#2a4b7c' /><text x='200' y='380' text-anchor='middle' font-family='Arial' font-size='16' fill='#2a4b7c'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#85e3ff'/><ellipse cx='200' cy='150' rx='100' ry='50' fill='#5bc0de'/><path d='M200 200 L180 230 L220 230 Z' fill='#85e3ff'/><ellipse cx='170' cy='250' rx='20' ry='10' fill='#5bc0de'/><ellipse cx='230' cy='250' rx='20' ry='10' fill='#5bc0de'/><path d='M150 100 Q200 50 250 100 Q200 150 150 100 Z' fill='#85e3ff'/><path d='M160 140 Q200 170 240 140 Q200 200 160 140 Z' fill='#85e3ff'/><path d='M160 140 Q200 180 240 140 Q200 220 160 140 Z' fill='#85e3ff'/><line x1='160' y1='220' x2='240' y2='220' stroke='#3383ff' stroke-width='10'/><line x1='160' y1='220' x2='160' y2='250' stroke='#3383ff' stroke-width='10'/><line x1='240' y1='220' x2='240' y2='250' stroke='#3383ff' stroke-width='10'/></svg>",
     "report": {
-      "appearance": "アダムは青色の皮膚を持ち、大きな青い瞳が特徴です。体はスリムで引き締まっており、頭には角が生えています。手足は長く、しなやかなラインを描いています。",
-      "reason": "アダムはより力強く洗練された姿へと進化し、素早く行動するための特徴が強調されました。",
-      "thought": "『進化は挑戦』"
+      "appearance": "「アダム」は、水色の肌と青色の髪を持つ男性型生命体です。体は長方形で、頭部は楕円形で表現されています。顔には小さな口と目を有し、手足は細長い楕円形で描かれています。背中には三角形の模様があり、青色の角が2本生えています。",
+      "reason": "アダムは進化のプロセスにより、より鮮やかな外観と特徴を獲得しました。",
+      "thought": "『新たな旅路へ』"
     },
     "name": "アダム",
     "gender": "男性"
