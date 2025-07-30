@@ -7319,5 +7319,28 @@
       "gender": "男性"
     },
     "timestamp": 1753856882186
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffc0cb'/><ellipse cx='200' cy='200' rx='120' ry='170' fill='#ff69b4'/><polygon points='120,250 200,300 280,250' fill='#ff1493'/><rect x='160' y='180' width='80' height='50' fill='#ff69b4'/><path d='M170 320 Q200 380 230 320' fill='none' stroke='#ff1493' stroke-width='5'/><line x1='160' y1='250' x2='180' y2='250' stroke='#ffffff' stroke-width='3'/><line x1='220' y1='250' x2='240' y2='250' stroke='#ffffff' stroke-width='3'/><line x1='260' y1='250' x2='280' y2='250' stroke='#ffffff' stroke-width='3'/><line x1='140' y1='320' x2='160' y2='320' stroke='#ffffff' stroke-width='3'/><line x1='240' y1='320' x2='260' y2='320' stroke='#ffffff' stroke-width='3'/><line x1='130' y1='360' x2='150' y2='360' stroke='#ffffff' stroke-width='3'/><line x1='250' y1='360' x2='270' y2='360' stroke='#ffffff' stroke-width='3'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと赤の美しい色合いを持つ女性の姿をしています。体は楕円形で滑らかな曲線が特徴であり、胸元には三角形の模様があります。手足は細く、足先には花びら状の模様があります。優雅で美しい容姿を持っています。",
+        "reason": "イヴは自然界の美しさと柔らかさからインスピレーションを受けて進化しました。美しい色合いと優美な形状は、生存競争においても魅力的であるため、進化の過程で優れた適応を獲得しました。",
+        "thought": "『愛と美しさが世界を彩る』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#4169e1'/><polygon points='200,50 150,100 250,100' fill='#1e90ff'/><path d='M150 300 Q200 350 250 300' fill='none' stroke='#1e90ff' stroke-width='5'/><line x1='150' y1='100' x2='150' y2='50' stroke='#ffffff' stroke-width='3'/><line x1='250' y1='100' x2='250' y2='50' stroke='#ffffff' stroke-width='3'/><line x1='130' y1='300' x2='150' y2='300' stroke='#ffffff' stroke-width='3'/><line x1='250' y1='300' x2='270' y2='300' stroke='#ffffff' stroke-width='3'/><line x1='120' y1='250' x2='140' y2='250' stroke='#ffffff' stroke-width='3'/><line x1='260' y1='250' x2='280' y2='250' stroke='#ffffff' stroke-width='3'/></svg>",
+      "report": {
+        "appearance": "アダムは、濃い青色の体と明るい青色の腹部を持つ男性の姿をしています。体は四角形で筋肉質な印象を与え、頭部には三角形の模様があります。手足は太く、足先には波のような模様があります。力強い外見を持っています。",
+        "reason": "アダムは自然界の力強さと頑丈さから進化しました。濃い青色は力強さを象徴し、明るい青色は知性と冷静さを表現しています。進化により、適応力と強さを身につけました。",
+        "thought": "『力強さと知性が未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1753879026454
   }
 ]
