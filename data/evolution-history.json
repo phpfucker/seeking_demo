@@ -7365,5 +7365,28 @@
       "gender": "男性"
     },
     "timestamp": 1753899928191
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='50' width='100' height='150' fill='#f58abd'/><ellipse cx='200' cy='120' rx='30' ry='20' fill='#e5ac92'/><polygon points='170,200 210,200 200,240' fill='#f9d6c1'/><path d='M180 200 Q200 230 220 200 L200 250 Z' fill='#f9d6c1'/><line x1='190' y1='100' x2='180' y2='120' stroke='#000' stroke-width='2'/><line x1='210' y1='100' x2='220' y2='120' stroke='#000' stroke-width='2'/><polygon points='180,200 190,220 210,220 220,200' fill='#fff'/><ellipse cx='190' cy='130' rx='5' ry='10' fill='#000'/><ellipse cx='210' cy='130' rx='5' ry='10' fill='#000'/><rect x='175' y='165' width='50' height='20' fill='#e5ac92'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体にオレンジ色の髪を持つ女性型生物です。頭部には小さな角があり、手と足には白い斑点があります。",
+        "reason": "自然界の色彩にインスパイアされた進化を経て、より美しく優雅な姿を得ました。",
+        "thought": "『生命の源泉』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='50' width='100' height='150' fill='#6aa2d9'/><ellipse cx='200' cy='120' rx='30' ry='20' fill='#8ac0e9'/><polygon points='170,200 210,200 200,240' fill='#aad7f5'/><path d='M180 200 Q200 230 220 200 L200 250 Z' fill='#aad7f5'/><line x1='190' y1='100' x2='180' y2='120' stroke='#000' stroke-width='2'/><line x1='210' y1='100' x2='220' y2='120' stroke='#000' stroke-width='2'/><polygon points='180,200 190,220 210,220 220,200' fill='#fff'/><ellipse cx='190' cy='130' rx='5' ry='10' fill='#000'/><ellipse cx='210' cy='130' rx='5' ry='10' fill='#000'/><rect x='175' y='165' width='50' height='20' fill='#8ac0e9'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に水色の髪を持つ男性型生物です。頭部には小さな角があり、手と足には白い斑点があります。",
+        "reason": "自然界の色彩にインスパイアされた進化を経て、より力強く魅力的な姿を得ました。",
+        "thought": "『生命の創造』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1753925080184
   }
 ]
