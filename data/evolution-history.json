@@ -7503,5 +7503,28 @@
       "gender": "男性"
     },
     "timestamp": 1754029689955
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='0%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,0,0);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,255,0);stop-opacity:1' /></linearGradient></defs><rect x='150' y='50' width='100' height='200' fill='url(#gradA)' /><circle cx='200' cy='150' r='70' fill='url(#gradA)' /><ellipse cx='180' cy='100' rx='10' ry='20' fill='white' /><ellipse cx='220' cy='100' rx='10' ry='20' fill='white' /><path d='M190 180 Q200 200 210 180' fill='none' stroke='black' stroke-width='2' /><path d='M180 220 Q200 240 220 220' fill='none' stroke='black' stroke-width='2' /><path d='M160 110 Q200 130 240 110' fill='none' stroke='black' stroke-width='2' /><path d='M190 220 Q200 240 210 220' fill='none' stroke='black' stroke-width='2' /><polygon points='185,190 180,200 220,200 215,190' fill='red' /><polygon points='190,220 180,240 220,240' fill='red' /></svg>",
+      "report": {
+        "appearance": "イヴは、美しい赤と黄色のグラデーションを持つ女性型生命体です。体は赤と黄色のグラデーションの着色された矩形であり、顔は赤と黄色のグラデーションの円形で描かれています。白い楕円形の目と、繊細な曲線の嘴が特徴です。四肢は黒い線で描かれ、赤い模様が施されています。",
+        "reason": "生態系の変化により、イヴは美しく輝く色彩を身にまとうよう進化しました。",
+        "thought": "『自然の美しさを内に秘めた』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='0%' y2='100%'><stop offset='0%' style='stop-color:rgb(0,0,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,255,255);stop-opacity:1' /></linearGradient></defs><rect x='150' y='50' width='100' height='200' fill='url(#gradB)' /><circle cx='200' cy='150' r='70' fill='url(#gradB)' /><polygon points='180,160 200,190 220,160' fill='white' /><ellipse cx='190' cy='140' rx='10' ry='5' fill='black' /><ellipse cx='210' cy='140' rx='10' ry='5' fill='black' /><line x1='180' y1='190' x2='220' y2='190' stroke='black' stroke-width='2' /><line x1='180' y1='210' x2='220' y2='210' stroke='black' stroke-width='2' /><line x1='190' y1='240' x2='180' y2='260' stroke='black' stroke-width='2' /><line x1='210' y1='240' x2='220' y2='260' stroke='black' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色のグラデーションを持つ男性型生命体です。体と顔は青と水色のグラデーションの矩形と円形で表現されています。白い三角形の耳と黒い楕円形の目が特徴で、四肢は黒い線で描かれ、黒い鼻と角があります。",
+        "reason": "環境の変化により、アダムは青と水色の色彩を身にまとうように進化しました。",
+        "thought": "『次の段階への進化を感じる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1754051774364
   }
 ]
