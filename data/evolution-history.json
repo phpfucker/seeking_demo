@@ -7618,5 +7618,28 @@
       "gender": "男性"
     },
     "timestamp": 1754137977549
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='180' rx='90' ry='130' fill='#ffb6c1' /><rect x='160' y='240' width='80' height='100' fill='#ff9198' /><polygon points='140,180 120,240 180,240' fill='#ff99aa' /><polygon points='260,180 240,240 280,240' fill='#ff99aa' /><ellipse cx='170' cy='200' rx='15' ry='10' fill='#ffffff' /><ellipse cx='230' cy='200' rx='15' ry='10' fill='#ffffff' /><line x1='160' y1='280' x2='240' y2='280' stroke='#ff9198' stroke-width='10' /><line x1='200' y1='280' x2='200' y2='320' stroke='#ff9198' stroke-width='10' /><text x='150' y='360' font-family='Arial' font-size='20' fill='#000000'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、背中には2つの白い羽が生えています。体型はしなやかで優美であり、優しげな表情をしています。頭部は円らな形状で、透き通るような白い目と小さな口を持ちます。",
+        "reason": "イヴは、環境の変化に適応するため、柔らかな色合いと優美な体型を進化させました。癒しと安らぎを与える外観により、周囲の生物と協力しやすくなりました。",
+        "thought": "『優しさが力となる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#87ceeb' /><polygon points='150,100 200,50 250,100' fill='#b0e0e6' /><polygon points='150,300 200,350 250,300' fill='#b0e0e6' /><polygon points='170,100 200,70 230,100' fill='#ffffff' /><ellipse cx='200' cy='150' rx='20' ry='10' fill='#ffffff' /><rect x='190' y='220' width='20' height='80' fill='#87ceeb' /><ellipse cx='180' cy='280' rx='10' ry='15' fill='#87ceeb' /><ellipse cx='220' cy='280' rx='10' ry='15' fill='#87ceeb' /><text x='150' y='30' font-family='Arial' font-size='20' fill='#000000'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青色の頑丈な体を持ち、四肢はがっしりとしています。体表には水の波紋を思わせる模様があり、凛々しい雰囲気を漂わせています。顔つきはシャープで、真っすぐな目と堅い口元が特徴です。",
+        "reason": "アダムは、生存競争や狩りにおいて有利な体格と模様を進化させました。頑丈な体は厳しい環境でも生き抜く力を与え、波紋模様は獲物を惑わす効果があります。",
+        "thought": "『力強く生き抜く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1754158988239
   }
 ]
