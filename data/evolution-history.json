@@ -7549,5 +7549,28 @@
       "gender": "男性"
     },
     "timestamp": 1754072670574
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink' /><ellipse cx='170' cy='170' rx='20' ry='15' fill='white' /><ellipse cx='230' cy='170' rx='20' ry='15' fill='white' /><path d='M180,240 Q200,280 220,240' fill='none' stroke='black' stroke-width='2' /><path d='M160,240 Q200,260 240,240' fill='none' stroke='black' stroke-width='2' /><circle cx='180' cy='160' r='5' fill='black' /><circle cx='220' cy='160' r='5' fill='black' /><rect x='180' y='270' width='40' height='10' fill='black' /><polygon points='200,120 180,140 220,140' fill='gray' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクの体色を持ち、白い眼と複数の角を持つ女性の姿をしています。体には灰色の斑点があり、四肢はしっかりとした形状です。",
+        "reason": "イヴは自然と共鳴し、新たな進化を遂げました。体色や模様が変化し、より強靭な体つきを手に入れたのです。",
+        "thought": "『命の尊さを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightblue' /><rect x='180' y='160' width='40' height='60' fill='white' /><circle cx='190' cy='150' r='8' fill='black' /><circle cx='210' cy='150' r='8' fill='black' /><ellipse cx='200' cy='210' rx='20' ry='15' fill='white' /><path d='M180,240 Q200,280 220,240' fill='none' stroke='black' stroke-width='2' /><path d='M160,240 Q200,260 240,240' fill='none' stroke='black' stroke-width='2' /><polygon points='200,120 180,140 220,140' fill='gray' /></svg>",
+      "report": {
+        "appearance": "アダムは、淡い青色の体を持ち、白い腹部と四角い頭部を持つ男性の姿をしています。眼は丸く、体つきはがっしりしています。",
+        "reason": "アダムは知識と経験を得て、新たな進化を遂げました。頭部や腹部の形状が変化し、知性と力強さを具現化したのです。",
+        "thought": "『未来への希望』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1754097672875
   }
 ]
