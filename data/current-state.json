@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink'/><ellipse cx='150' cy='180' rx='25' ry='40' fill='white'/><ellipse cx='250' cy='180' rx='25' ry='40' fill='white'/><path d='M180,280 Q200,320 220,280' fill='none' stroke='black' stroke-width='2'/><path d='M150,220 Q200,300 250,220' fill='none' stroke='black' stroke-width='2'/><polygon points='180,250 200,240 220,250' fill='black'/><polygon points='150,200 130,210 150,220' fill='black'/><polygon points='250,200 270,210 250,220' fill='black'/><line x1='180' y1='280' x2='220' y2='280' stroke='black' stroke-width='2'/><line x1='150' y1='220' x2='130' y2='210' stroke='black' stroke-width='2'/><line x1='250' y1='220' x2='270' y2='210' stroke='black' stroke-width='2'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='#ffb6c1' /><path d='M150 220 L200 280 L250 220 Z' fill='#ff69b4' /><circle cx='150' cy='200' r='10' fill='#ffffff' /><circle cx='250' cy='200' r='10' fill='#ffffff' /><line x1='170' y1='190' x2='180' y2='190' stroke='#000000' stroke-width='2' /><line x1='220' y1='190' x2='230' y2='190' stroke='#000000' stroke-width='2' /><polygon points='190,240 210,240 200,230' fill='#ffffff' /><line x1='150' y1='280' x2='200' y2='320' stroke='#000000' stroke-width='2' /><line x1='250' y1='280' x2='200' y2='320' stroke='#000000' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "イヴはピンク色の円形の体を持ち、白い楕円形の顔と手を持ちます。手は黒い爪があり、花びらのような模様もあります。足は黒い三角形のヒールで装飾されています。",
-      "reason": "進化の過程で、イヴは美しさと花の象徴を強調するためにより女性的な特徴を取り入れました。",
-      "thought": "『花のような美しさ』"
+      "appearance": "イヴは、ピンク色の肌を持ち、大きな紅い卵型の目と、ピンク色の長い髪を持つ女性の生命体です。体はオレンジ色の丸い形状で、頭部には小さな白い角があります。手は白い色で、足は細長く細かい模様があるピンク色です。",
+      "reason": "生息環境の変化により、イヴはより柔らかく魅力的な特徴を持つよう進化しました。",
+      "thought": "『愛と平和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='200' fill='lightblue'/><path d='M200,150 L150,100 L100,150 Z' fill='blue'/><path d='M200,150 L250,100 L300,150 Z' fill='blue'/><circle cx='200' cy='150' r='20' fill='white'/><polygon points='190,160 210,160 200,180' fill='black'/><rect x='175' y='250' width='50' height='100' fill='darkblue'/><rect x='165' y='250' width='10' height='50' fill='lightblue'/><rect x='225' y='250' width='10' height='50' fill='lightblue'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#87ceeb' /><circle cx='200' cy='200' r='120' fill='#4682b4' /><path d='M150 240 L200 200 L250 240 Z' fill='#4169e1' /><circle cx='170' cy='200' r='10' fill='#ffffff' /><circle cx='230' cy='200' r='10' fill='#ffffff' /><line x1='180' y1='190' x2='190' y2='190' stroke='#000000' stroke-width='2' /><line x1='210' y1='190' x2='220' y2='190' stroke='#000000' stroke-width='2' /><polygon points='190,250 210,250 200,260' fill='#ffffff' /><line x1='150' y1='240' x2='200' y2='280' stroke='#000000' stroke-width='2' /><line x1='250' y1='240' x2='200' y2='280' stroke='#000000' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "アダムは青色の四角い体を持ち、頭部には青い三角形の鋭い角があります。顔には白い丸い目と黒い鼻があり、口元には笑みが浮かんでいます。足は青いヒールで装飾されています。",
-      "reason": "アダムは強さと知性を表現するためにより男性的な特徴を取り入れました。",
-      "thought": "『力強い知性』"
+      "appearance": "アダムは、青い体を持ち、大きな青い丸い目と、濃い青色の短い髪を持つ男性の生命体です。体は水色で丸く、頭部には小さな白い角があります。手足は白く、足には細かい白い模様があります。",
+      "reason": "環境の変化や適応の必要性により、アダムはより強靭で洗練された特徴を備えるよう進化しました。",
+      "thought": "『誇りと勇気』"
     },
     "name": "アダム",
     "gender": "男性"
