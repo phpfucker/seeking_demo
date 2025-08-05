@@ -7848,5 +7848,28 @@
       "gender": "男性"
     },
     "timestamp": 1754357218000
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#ffcccb' /><ellipse cx='200' cy='190' rx='120' ry='150' fill='#ffc0cb' /><rect x='160' y='240' width='80' height='40' fill='#f08080' /><polygon points='180,190 220,190 200,170' fill='#800000' /><path d='M190 250 Q200 220 210 250' fill='none' stroke='#800000' stroke-width='3' /><line x1='170' y1='240' x2='150' y2='230' stroke='#800000' stroke-width='3' /><line x1='230' y1='240' x2='250' y2='230' stroke='#800000' stroke-width='3' /><line x1='170' y1='300' x2='160' y2='320' stroke='#800000' stroke-width='3' /><line x1='230' y1='300' x2='240' y2='320' stroke='#800000' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、細長い体と大きな胸を特徴とする女性型生命体です。背中には赤い装飾が施され、優美な曲線と優しい表情が魅力的です。",
+        "reason": "イヴは環境の変化に適応するため、美しさと柔らかさを併せ持つ進化を遂げました。",
+        "thought": "『生命の美しさを感じます』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#add8e6' /><ellipse cx='200' cy='190' rx='120' ry='150' fill='#87ceeb' /><rect x='160' y='240' width='80' height='40' fill='#4682b4' /><polygon points='180,190 220,190 200,170' fill='#1e90ff' /><path d='M190 250 Q200 220 210 250' fill='none' stroke='#1e90ff' stroke-width='3' /><line x1='170' y1='240' x2='150' y2='230' stroke='#1e90ff' stroke-width='3' /><line x1='230' y1='240' x2='250' y2='230' stroke='#1e90ff' stroke-width='3' /><line x1='170' y1='300' x2='160' y2='320' stroke='#1e90ff' stroke-width='3' /><line x1='230' y1='300' x2='240' y2='320' stroke='#1e90ff' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色のスムーズな皮膚を持ち、がっしりとした体つきと力強い腕が特徴の男性型生命体です。頭頂部には紺色の角が生え、凛々しい表情と鋭い眼差しを持っています。",
+        "reason": "アダムは進化により、力強さと知性を兼ね備える形態となり、狩猟や知恵の獲得に適した身体となりました。",
+        "thought": "『力と知恵を持つ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1754375296549
   }
 ]
