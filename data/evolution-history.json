@@ -7894,5 +7894,28 @@
       "gender": "男性"
     },
     "timestamp": 1754397482246
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#ffc0cb'/><rect x='160' y='200' width='80' height='100' fill='#ff7f50'/><circle cx='150' cy='100' r='10' fill='#000'/><circle cx='250' cy='100' r='10' fill='#000'/><path d='M180 220 L200 260 L220 220 Z' fill='#ff7f50'/><path d='M150 350 Q200 380 250 350' stroke='#000' fill='none'/><path d='M150 250 Q200 300 250 250' stroke='#000' fill='none'/><line x1='180' y1='220' x2='165' y2='230' stroke='#000' stroke-width='2'/><line x1='220' y1='220' x2='235' y2='230' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "「イヴ」は、ピンク色の柔らかな体に大きな赤い目を持つ女性型生命体。胴体は丸みを帯び、手足は短く丸い形状であり、赤い口元が特徴的だ。",
+        "reason": "生存環境の変化に合わせ、柔らかな色調と丸みを帯びた特徴が適応的な進化を果たした。",
+        "thought": "『優しさが大切』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#add8e6'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#87cefa'/><rect x='175' y='200' width='50' height='100' fill='#4682b4'/><circle cx='170' cy='100' r='10' fill='#000'/><circle cx='230' cy='100' r='10' fill='#000'/><path d='M190 220 L200 250 L210 220 Z' fill='#4682b4'/><path d='M150 350 Q200 380 250 350' stroke='#000' fill='none'/><path d='M150 250 Q200 300 250 250' stroke='#000' fill='none'/><line x1='190' y1='220' x2='180' y2='230' stroke='#000' stroke-width='2'/><line x1='210' y1='220' x2='220' y2='230' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "「アダム」は、淡い青色の体に大きな青い目を持つ男性型生命体。胴体は四角く、手足は短く鋭い形状であり、青い口元が特徴的だ。",
+        "reason": "繁殖競争の中で、青色の体表が他個体に差をつけるための進化として発展した。",
+        "thought": "『強さを持つ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1754418468136
   }
 ]
