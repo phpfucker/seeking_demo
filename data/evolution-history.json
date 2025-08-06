@@ -7917,5 +7917,28 @@
       "gender": "男性"
     },
     "timestamp": 1754418468136
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb' /><circle cx='200' cy='150' r='50' fill='#ffd700' /><circle cx='160' cy='150' r='10' fill='#000' /><circle cx='240' cy='150' r='10' fill='#000' /><path d='M180 200 Q200 230 220 200' fill='none' stroke='#000' stroke-width='2' /><path d='M175 180 Q200 210 225 180' fill='none' stroke='#000' stroke-width='2' /><polygon points='160,250 200,300 240,250' fill='#ffd700' /><polygon points='192,160 200,140 208,160' fill='#000' /><line x1='160' y1='250' x2='240' y2='250' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクの体に金色の髪を持つ女性。顔には黒い瞳があり、優雅な曲線の口元が特徴。金色の角が生えており、足元には黄色い台座を持つ。",
+        "reason": "進化が起こった理由は、新たな生息地での繁栄のために、美しさと知性を兼ね備えることが必要だったため。",
+        "thought": "『知恵と美しさが未来を切り開く』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='150' rx='70' ry='90' fill='#87ceeb' /><rect x='175' y='200' width='50' height='100' fill='#ff8c00' /><circle cx='170' cy='130' r='5' fill='#000' /><circle cx='230' cy='130' r='5' fill='#000' /><path d='M180 200 Q200 230 220 200' fill='none' stroke='#000' stroke-width='2' /><path d='M175 180 Q200 210 225 180' fill='none' stroke='#000' stroke-width='2' /><polygon points='150,200 200,250 250,200' fill='#ff8c00' /><polygon points='192,160 200,140 208,160' fill='#000' /><line x1='150' y1='200' x2='250' y2='200' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い体にオレンジ色の腹部を持つ男性。大きな水色の翼と黒い角が特徴で、足元にはオレンジ色の台座を持つ。",
+        "reason": "進化が起こった理由は、新たな環境での生存競争に勝つために、力強さと俊敏さを兼ね備える必要があったから。",
+        "thought": "『力強く、かつ素早く立ち向かう』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1754443509196
   }
 ]

@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb' /><circle cx='200' cy='150' r='50' fill='#ffd700' /><circle cx='160' cy='150' r='10' fill='#000' /><circle cx='240' cy='150' r='10' fill='#000' /><path d='M180 200 Q200 230 220 200' fill='none' stroke='#000' stroke-width='2' /><path d='M175 180 Q200 210 225 180' fill='none' stroke='#000' stroke-width='2' /><polygon points='160,250 200,300 240,250' fill='#ffd700' /><polygon points='192,160 200,140 208,160' fill='#000' /><line x1='160' y1='250' x2='240' y2='250' stroke='#000' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='100' ry='150' fill='#ffcccb'/><rect x='140' y='150' width='120' height='100' fill='#ffb6c1'/><polygon points='200,250 180,310 220,310' fill='#ffc0cb'/><circle cx='160' cy='200' r='10' fill='#000'/><circle cx='240' cy='200' r='10' fill='#000'/><path d='M180,310 Q200,330 220,310' fill='none' stroke='#000' stroke-width='2'/><polyline points='160,150 150,100 200,50 250,100 240,150' fill='none' stroke='#000' stroke-width='2'/><line x1='180' y1='210' x2='200' y2='210' stroke='#000' stroke-width='3'/><line x1='200' y1='210' x2='220' y2='210' stroke='#000' stroke-width='3'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンクの体に金色の髪を持つ女性。顔には黒い瞳があり、優雅な曲線の口元が特徴。金色の角が生えており、足元には黄色い台座を持つ。",
-      "reason": "進化が起こった理由は、新たな生息地での繁栄のために、美しさと知性を兼ね備えることが必要だったため。",
-      "thought": "『知恵と美しさが未来を切り開く』"
+      "appearance": "イヴはピンク色のボディに白い背中と手足、赤い口元が特徴的な女性の姿をしている。頭部には2つの黒い目があり、しっぽと小さな耳も持っている。",
+      "reason": "地球の環境が穏やかになり、適応力の高いピンク色の生物が生存を維持しやすくなったため、イヴはこのような進化を遂げた。",
+      "thought": "『調和と力強さ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='150' rx='70' ry='90' fill='#87ceeb' /><rect x='175' y='200' width='50' height='100' fill='#ff8c00' /><circle cx='170' cy='130' r='5' fill='#000' /><circle cx='230' cy='130' r='5' fill='#000' /><path d='M180 200 Q200 230 220 200' fill='none' stroke='#000' stroke-width='2' /><path d='M175 180 Q200 210 225 180' fill='none' stroke='#000' stroke-width='2' /><polygon points='150,200 200,250 250,200' fill='#ff8c00' /><polygon points='192,160 200,140 208,160' fill='#000' /><line x1='150' y1='200' x2='250' y2='200' stroke='#000' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='100' ry='150' fill='#87ceeb'/><rect x='140' y='150' width='120' height='100' fill='#4682b4'/><polygon points='200,250 180,310 220,310' fill='#87cefa'/><circle cx='160' cy='200' r='10' fill='#000'/><circle cx='240' cy='200' r='10' fill='#000'/><path d='M180,310 Q200,330 220,310' fill='none' stroke='#000' stroke-width='2'/><polyline points='160,150 150,100 200,50 250,100 240,150' fill='none' stroke='#000' stroke-width='2'/><line x1='180' y1='210' x2='200' y2='210' stroke='#000' stroke-width='3'/><line x1='200' y1='210' x2='220' y2='210' stroke='#000' stroke-width='3'/></svg>",
     "report": {
-      "appearance": "アダムは、青い体にオレンジ色の腹部を持つ男性。大きな水色の翼と黒い角が特徴で、足元にはオレンジ色の台座を持つ。",
-      "reason": "進化が起こった理由は、新たな環境での生存競争に勝つために、力強さと俊敏さを兼ね備える必要があったから。",
-      "thought": "『力強く、かつ素早く立ち向かう』"
+      "appearance": "アダムは青色のボディに濃い青色の背中と手足、淡い水色の口元が特徴的な男性の姿をしている。頭部には2つの黒い目があり、しっぽと小さな耳も持っている。",
+      "reason": "熱帯地域の気候変化により、青色が熱を反射しやすくなり、生存に有利な色となったため、アダムはこのような進化を遂げた。",
+      "thought": "『自由と冷静』"
     },
     "name": "アダム",
     "gender": "男性"
