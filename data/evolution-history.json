@@ -7963,5 +7963,28 @@
       "gender": "男性"
     },
     "timestamp": 1754461724208
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='150' rx='90' ry='120' fill='#ffc0cb'/><polygon points='182,170 218,170 200,210' fill='#ff69b4'/><rect x='180' y='240' width='40' height='80' fill='#ff69b4'/><circle cx='160' cy='150' r='10' fill='#000'/><circle cx='240' cy='150' r='10' fill='#000'/><path d='M180,220 Q200,260 220,220' fill='none' stroke='#000' stroke-width='2'/><path d='M220,220 Q240,260 260,220' fill='none' stroke='#000' stroke-width='2'/><line x1='180' y1='320' x2='160' y2='380' stroke='#000' stroke-width='4'/><line x1='220' y1='320' x2='240' y2='380' stroke='#000' stroke-width='4'/><path d='M200,190 C180,210 220,210 200,190' fill='none' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな体を持ち、頭には明るい赤い髪が流れる女性。体の中心には薄いピンクの模様が広がり、愛らしい表情が魅力。",
+        "reason": "イヴは新たな進化を遂げ、より美しさと柔らかさを追求するため、体の色や模様が変化した。",
+        "thought": "『愛と美の融合』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#87ceeb'/><polygon points='160,180 200,110 240,180' fill='#6495ed'/><rect x='180' y='240' width='40' height='80' fill='#6495ed'/><circle cx='160' cy='150' r='10' fill='#000'/><circle cx='240' cy='150' r='10' fill='#000'/><path d='M180,220 Q200,260 220,220' fill='none' stroke='#000' stroke-width='2'/><path d='M220,220 Q240,260 260,220' fill='none' stroke='#000' stroke-width='2'/><line x1='180' y1='320' x2='160' y2='380' stroke='#000' stroke-width='4'/><line x1='220' y1='320' x2='240' y2='380' stroke='#000' stroke-width='4'/><ellipse cx='200' cy='150' rx='30' ry='40' fill='#6495ed'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い海を思わせる体色を持つ男性で、頭には深い青い角が生えている。背中には水色の模様が広がり、凛とした雰囲気を漂わせている。",
+        "reason": "アダムは新たな進化を遂げ、青い色合いと威風堂々とした角を得て、より力強さと優越感を表現した。",
+        "thought": "『青き海の王』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1754483869914
   }
 ]
