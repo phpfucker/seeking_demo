@@ -8078,5 +8078,28 @@
       "gender": "男性"
     },
     "timestamp": 1754570257339
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"150\" width=\"200\" height=\"200\" fill=\"#ff99cc\"/><ellipse cx=\"200\" cy=\"150\" rx=\"90\" ry=\"130\" fill=\"#ffd699\"/><rect x=\"80\" y=\"200\" width=\"240\" height=\"100\" fill=\"#ffcc99\"/><ellipse cx=\"140\" cy=\"180\" rx=\"30\" ry=\"50\" fill=\"#ff99cc\"/><ellipse cx=\"260\" cy=\"180\" rx=\"30\" ry=\"50\" fill=\"#ff99cc\"/><path d=\"M150 300 Q200 350 250 300\" fill=\"none\" stroke=\"#ff99cc\"/><path d=\"M150 310 Q200 360 250 310\" fill=\"none\" stroke=\"#ff99cc\"/><path d=\"M150 320 Q200 370 250 320\" fill=\"none\" stroke=\"#ff99cc\"/><path d=\"M150 330 Q200 380 250 330\" fill=\"none\" stroke=\"#ff99cc\"/><path d=\"M150 340 Q200 390 250 340\" fill=\"none\" stroke=\"#ff99cc\"/><path d=\"M130 160 Q200 80 270 160 Q200 240 130 160\" fill=\"#ffb3d9\"/><rect x=\"180\" y=\"240\" width=\"40\" height=\"60\" fill=\"#ff9966\"/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとオレンジの柔らかな色合いの肌を持ち、頭部には丸い耳と大きな目が特徴です。体は楕円形であり、太ももに花のような模様が描かれています。足元には四角い足と長いしっぽがあります。",
+        "reason": "イヴは進化の過程で自然界の美しさと優雅さを取り入れ、より魅力的で優しい姿に変化しました。",
+        "thought": "『生命の美しさを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"150\" width=\"200\" height=\"200\" fill=\"#66ccff\"/><ellipse cx=\"200\" cy=\"150\" rx=\"90\" ry=\"130\" fill=\"#99ffcc\"/><rect x=\"80\" y=\"200\" width=\"240\" height=\"100\" fill=\"#99ccff\"/><ellipse cx=\"140\" cy=\"180\" rx=\"30\" ry=\"50\" fill=\"#66ccff\"/><ellipse cx=\"260\" cy=\"180\" rx=\"30\" ry=\"50\" fill=\"#66ccff\"/><path d=\"M150 300 Q200 350 250 300\" fill=\"none\" stroke=\"#66ccff\"/><path d=\"M150 310 Q200 360 250 310\" fill=\"none\" stroke=\"#66ccff\"/><path d=\"M150 320 Q200 370 250 320\" fill=\"none\" stroke=\"#66ccff\"/><path d=\"M150 330 Q200 380 250 330\" fill=\"none\" stroke=\"#66ccff\"/><path d=\"M150 340 Q200 390 250 340\" fill=\"none\" stroke=\"#66ccff\"/><polygon points=\"180,240 220,240 240,280 160,280\" fill=\"#339966\"/></svg>",
+      "report": {
+        "appearance": "アダムは、青と緑の爽やかな色調の体を持ち、耳と目には角がある特徴があります。体は楕円形で、太ももに波のような模様が描かれています。足元には四角い足と独特な三日月のようなしっぽがあります。",
+        "reason": "アダムは進化の過程で力強さと知性を表現し、より洗練された外見に変化しました。",
+        "thought": "『知恵と力を併せ持つ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1754591237375
   }
 ]
