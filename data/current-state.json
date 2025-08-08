@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffe1e6'/><polygon points='200,50 100,250 300,250' fill='#ffb2bb'/><ellipse cx='200' cy='160' rx='80' ry='100' fill='#ff8b9d'/><path d='M140,180 Q200,250 260,180 Q200,220 140,180' fill='#ff6675'/><ellipse cx='170' cy='140' rx='20' ry='10' fill='#fff'/><ellipse cx='230' cy='140' rx='20' ry='10' fill='#fff'/><ellipse cx='170' cy='140' rx='5' ry='5' fill='#333'/><ellipse cx='230' cy='140' rx='5' ry='5' fill='#333'/><line x1='150' y1='300' x2='170' y2='350' stroke='#333' stroke-width='3'/><line x1='250' y1='300' x2='230' y2='350' stroke='#333' stroke-width='3'/><line x1='160' y1='250' x2='140' y2='280' stroke='#333' stroke-width='3'/><line x1='240' y1='250' x2='260' y2='280' stroke='#333' stroke-width='3'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#FFB6C1'><path d='M200 100c70 120 70 120 0 240c-70-120-70-120 0-240z'/></g><ellipse cx='200' cy='120' rx='40' ry='30' fill='#FFF' stroke='#000'/>...</svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな毛並みに覆われ、優雅な女性の特徴を備えた姿をしています。背中には赤い三角形の模様があり、全体的に愛らしい印象を与えます。",
-      "reason": "イヴは新たな進化を遂げ、自然の美しさと調和を表現するため、より華やかで魅力的な外見を手に入れました。",
-      "thought": "『愛とやさしさ』"
+      "appearance": "イヴはピンク色の美しい鱗を持ち、優雅な尾びれと透き通る翼を持つ。頭部には優しい表情の大きな瞳と角があり、全体的に優雅で美しい女性的な特徴を持つ。",
+      "reason": "生態系の変化により、イヴは進化し、新たな環境での生存をサポートするために美しい鱗や飛行能力を獲得した。",
+      "thought": "『自然と調和し、美しさを表現する』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#b2d8ff'/><polygon points='200,50 100,250 300,250' fill='#8bc4ff'/><ellipse cx='200' cy='160' rx='80' ry='100' fill='#5ba4ff'/><path d='M140,180 Q200,250 260,180 Q200,220 140,180' fill='#1e90ff'/><ellipse cx='170' cy='140' rx='20' ry='10' fill='#fff'/><ellipse cx='230' cy='140' rx='20' ry='10' fill='#fff'/><ellipse cx='170' cy='140' rx='5' ry='5' fill='#333'/><ellipse cx='230' cy='140' rx='5' ry='5' fill='#333'/><line x1='150' y1='300' x2='170' y2='350' stroke='#333' stroke-width='3'/><line x1='250' y1='300' x2='230' y2='350' stroke='#333' stroke-width='3'/><line x1='160' y1='250' x2='140' y2='280' stroke='#333' stroke-width='3'/><line x1='240' y1='250' x2='260' y2='280' stroke='#333' stroke-width='3'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#ADD8E6'><rect x='150' y='100' width='100' height='200'/></g><polygon points='150,100 200,50 250,100' fill='#FFF' stroke='#000'/>...</svg>",
     "report": {
-      "appearance": "アダムは、青い鱗で覆われ、知性あふれる男性の特徴を持つ姿をしています。体には深い青色の模様が入り、全体的に凛々しい印象を与えます。",
-      "reason": "アダムは進化によって知性と自己を深め、強靱な精神力を表現するため、より冷静で洗練された外観を手に入れました。",
-      "thought": "『知恵と勇気』"
+      "appearance": "アダムは青色の筋肉質な体躯を持ち、頭部には凛々しい角と大きな目を備えている。四肢は頑丈で力強く、男性的な特徴を示している。",
+      "reason": "生態系の変化により、アダムはより強靭な体力と威厳ある外見を進化させ、新たな環境での生存競争に適応した。",
+      "thought": "『力強さと威厳を持ち、進化し続ける』"
     },
     "name": "アダム",
     "gender": "男性"
