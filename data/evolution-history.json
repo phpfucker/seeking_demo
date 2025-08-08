@@ -8147,5 +8147,28 @@
       "gender": "男性"
     },
     "timestamp": 1754634469146
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff00bf' /><ellipse cx='200' cy='180' rx='100' ry='140' fill='#ff80ea' /><path d='M180,240 Q200,260 220,240' fill='none' stroke='#ff00bf' stroke-width='10' /><path d='M160,240 Q200,280 240,240' fill='none' stroke='#ff00bf' stroke-width='10' /><ellipse cx='160' cy='160' rx='30' ry='20' fill='#ff80ea' /><ellipse cx='240' cy='160' rx='30' ry='20' fill='#ff80ea' /><line x1='160' y1='160' x2='170' y2='150' stroke='#000' stroke-width='5' /><line x1='240' y1='160' x2='230' y2='150' stroke='#000' stroke-width='5' /><polygon points='200,200 220,190 220,210' fill='#000' /><polygon points='200,200 180,190 180,210' fill='#000' /><polygon points='200,200 190,220 210,220' fill='#000' /><circle cx='190' cy='180' r='5' fill='#000' /><circle cx='210' cy='180' r='5' fill='#000' /><polygon points='200,230 180,240 220,240' fill='#ff00bf' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな体と、優雅な特徴を持ち、足元には蝶の羽のような模様が見られます。頭部には角が2本、美しい花のような装飾が施されています。",
+        "reason": "イヴは自然と調和し、美と優雅さを追求する進化を遂げました。",
+        "thought": "『美しさは内面から輝く』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='180' width='100' height='100' fill='#0070ff' /><path d='M175,180 Q200,130 225,180' fill='none' stroke='#0046ad' stroke-width='10' /><path d='M175,280 Q200,330 225,280' fill='none' stroke='#0046ad' stroke-width='10' /><rect x='170' y='150' width='60' height='30' fill='#0070ff' /><rect x='170' y='220' width='60' height='30' fill='#0070ff' /><rect x='175' y='140' width='10' height='10' fill='#000' /><rect x='215' y='140' width='10' height='10' fill='#000' /><polygon points='200,150 190,160 210,160' fill='#000' /><polygon points='200,250 190,240 210,240' fill='#000' /><polygon points='150,180 140,200 160,200' fill='#0046ad' /><polygon points='250,180 240,200 260,200' fill='#0046ad' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の力強い体と、凛々しい特徴を持ち、頭部には2本の角と、波のような模様が見られます。足元には波紋のような足裏が特徴的です。",
+        "reason": "アダムは力強さと知性を結集し、進化した姿を表現しています。",
+        "thought": "『未来への挑戦』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1754656609260
   }
 ]
