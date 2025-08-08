@@ -8124,5 +8124,28 @@
       "gender": "男性"
     },
     "timestamp": 1754616327481
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='120' width='160' height='160' fill='#ffcccc' /><circle cx='200' cy='100' r='80' fill='#ff9999' /><ellipse cx='150' cy='200' rx='40' ry='60' fill='#ff6666' /><ellipse cx='250' cy='200' rx='40' ry='60' fill='#ff6666' /><path d='M200 240 Q220 260 240 240 Q220 220 200 240 Z' fill='#ff3333' /><path d='M180 280 Q200 300 220 280 Q200 260 180 280 Z' fill='#ff3333' /><path d='M220 280 Q240 300 260 280 Q240 260 220 280 Z' fill='#ff3333' /><line x1='180' y1='180' x2='160' y2='140' stroke='#990000' stroke-width='5' /><line x1='220' y1='180' x2='240' y2='140' stroke='#990000' stroke-width='5' /><polygon points='180,240 220,240 200,280' fill='#ff6666' /><polygon points='170,140 200,140 185,120' fill='#ff6666' /><polygon points='230,140 260,140 245,120' fill='#ff6666' /><text x='200' y='360' font-family='Arial' font-size='20' fill='black'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の肌を持ち、赤い瞳と赤い口元を持つ女性の姿をしています。頭部には2本の角が生え、背中には三角形の模様があります。四肢は円形の手足が特徴的で、しっぽもあります。",
+        "reason": "イヴは新たな進化によって、より可愛らしく魅力的な外見を手に入れました。色彩やパーツの変化は、生存競争において他の生命体を引きつけるために進化した結果です。",
+        "thought": "『愛と美の力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='120' width='160' height='160' fill='#ccccff' /><circle cx='200' cy='100' r='80' fill='#9999ff' /><ellipse cx='150' cy='200' rx='40' ry='60' fill='#6666ff' /><ellipse cx='250' cy='200' rx='40' ry='60' fill='#6666ff' /><path d='M200 240 Q220 260 240 240 Q220 220 200 240 Z' fill='#3333ff' /><path d='M180 280 Q200 300 220 280 Q200 260 180 280 Z' fill='#3333ff' /><path d='M220 280 Q240 300 260 280 Q240 260 220 280 Z' fill='#3333ff' /><line x1='180' y1='180' x2='160' y2='140' stroke='#000099' stroke-width='5' /><line x1='220' y1='180' x2='240' y2='140' stroke='#000099' stroke-width='5' /><polygon points='180,240 220,240 200,280' fill='#6666ff' /><polygon points='170,140 200,140 185,120' fill='#6666ff' /><polygon points='230,140 260,140 245,120' fill='#6666ff' /><text x='200' y='360' font-family='Arial' font-size='20' fill='black'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青色の肌を持ち、青い瞳と青い口元を持つ男性の姿をしています。頭部には2本の角が生え、背中には三角形の模様があります。四肢は円形の手足が特徴的で、しっぽもあります。",
+        "reason": "アダムは新たな進化によって、より強靭で魅力的な外見を手に入れました。色彩やパーツの変化は、環境適応や仲間との競争において有利な特性を発展させた結果です。",
+        "thought": "『力と誇りの調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1754634469146
   }
 ]
