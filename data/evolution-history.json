@@ -8262,5 +8262,28 @@
       "gender": "男性"
     },
     "timestamp": 1754742733747
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255, 148, 193);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255, 209, 148);stop-opacity:1' /></linearGradient></defs><rect x='60' y='80' width='280' height='280' fill='url(#gradA)' /><circle cx='200' cy='120' r='80' fill='white' /><circle cx='150' cy='110' r='10' fill='black' /><circle cx='250' cy='110' r='10' fill='black' /><path d='M190,180 Q200,220 210,180' fill='none' stroke='black' stroke-width='2' /><circle cx='160' cy='220' r='20' fill='white' /><circle cx='240' cy='220' r='20' fill='white' /><path d='M160,240 Q200,260 240,240' fill='none' stroke='black' stroke-width='2' /><rect x='180' y='280' width='40' height='20' fill='rgb(255, 148, 193)' /><line x1='180' y1='300' x2='220' y2='300' stroke='black' stroke-width='2' /><line x1='185' y1='305' x2='215' y2='305' stroke='black' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、柔らかなピンクとオレンジのグラデーションが美しい女性的な特徴を持ち、白い肌と優雅な表情が印象的です。顔には大きな目と柔らかい笑みがあり、しなやかな体つきが魅力的です。背中には小さな翼が生えており、優雅さと妖精のような雰囲気を醸し出しています。",
+        "reason": "生態系での繁栄を支援する新たな特性を身につけるため、イヴは美しさと優雅さを強調した進化を遂げました。",
+        "thought": "『自然の美しさを守りたい』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(148, 148, 255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(209, 148, 255);stop-opacity:1' /></linearGradient></defs><rect x='60' y='80' width='280' height='280' fill='url(#gradB)' /><circle cx='200' cy='120' r='80' fill='white' /><circle cx='170' cy='110' r='10' fill='black' /><circle cx='230' cy='110' r='10' fill='black' /><path d='M190,180 Q200,220 210,180' fill='none' stroke='black' stroke-width='2' /><rect x='180' y='200' width='40' height='80' fill='white' /><path d='M180,200 Q160,220 180,240' fill='none' stroke='black' stroke-width='2' /><path d='M220,200 Q240,220 220,240' fill='none' stroke='black' stroke-width='2' /><polygon points='180,280 190,260 200,280' fill='rgb(148, 148, 255)' /><polygon points='210,280 220,260 230,280' fill='rgb(148, 148, 255)' /></svg>",
+      "report": {
+        "appearance": "アダムは、優雅な紫と青のグラデーションが特徴的な男性らしい外見を持ち、白い肌と凛々しい表情が目を引きます。力強い体つきと精悍な顔つきが魅力で、背中には二対の小さな翼が生えています。複雑な模様や凹凸のある角が特徴的で、神秘的な雰囲気を醸し出しています。",
+        "reason": "新たな環境に適応するため、アダムは力強さと知恵を象徴する特性が強調された進化を遂げました。",
+        "thought": "『進化を遂げた力強さを誇りに思う』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1754763757442
   }
 ]
