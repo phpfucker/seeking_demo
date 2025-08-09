@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#FFB6C1'><path d='M200 100c70 120 70 120 0 240c-70-120-70-120 0-240z'/></g><ellipse cx='200' cy='120' rx='40' ry='30' fill='#FFF' stroke='#000'/>...</svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"200\" cy=\"200\" r=\"180\" fill=\"#ffc0cb\"/><ellipse cx=\"200\" cy=\"180\" rx=\"100\" ry=\"140\" fill=\"#ff69b4\"/><rect x=\"160\" y=\"240\" width=\"80\" height=\"50\" fill=\"#ff1493\"/><path d=\"M180 200 L220 200 L200 250 Z\" fill=\"#ff69b4\"/><circle cx=\"170\" cy=\"170\" r=\"10\" fill=\"#ffffff\"/><circle cx=\"230\" cy=\"170\" r=\"10\" fill=\"#ffffff\"/><path d=\"M170 200 Q200 230 230 200\" fill=\"none\" stroke=\"#000000\" stroke-width=\"2\"/><line x1=\"150\" y1=\"250\" x2=\"140\" y2=\"240\" stroke=\"#000000\" stroke-width=\"2\"/><line x1=\"250\" y1=\"250\" x2=\"260\" y2=\"240\" stroke=\"#000000\" stroke-width=\"2\"/><line x1=\"160\" y1=\"230\" x2=\"140\" y2=\"260\" stroke=\"#000000\" stroke-width=\"2\"/><line x1=\"240\" y1=\"230\" x2=\"260\" y2=\"260\" stroke=\"#000000\" stroke-width=\"2\"/></svg>",
     "report": {
-      "appearance": "イヴはピンク色の美しい鱗を持ち、優雅な尾びれと透き通る翼を持つ。頭部には優しい表情の大きな瞳と角があり、全体的に優雅で美しい女性的な特徴を持つ。",
-      "reason": "生態系の変化により、イヴは進化し、新たな環境での生存をサポートするために美しい鱗や飛行能力を獲得した。",
-      "thought": "『自然と調和し、美しさを表現する』"
+      "appearance": "イヴはピンク色の柔らかな毛皮を持ち、大きな紫色の目を持つ女性型生命体です。体の下部には赤い胴体があり、ピンクの手足があります。胴体からは細くて長い尾が生えています。",
+      "reason": "イヴは自然界からの影響を受け、より可愛らしく洗練された外見へ進化しました。",
+      "thought": "『愛と美の力』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#ADD8E6'><rect x='150' y='100' width='100' height='200'/></g><polygon points='150,100 200,50 250,100' fill='#FFF' stroke='#000'/>...</svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"200\" cy=\"200\" r=\"180\" fill=\"#00bfff\"/><rect x=\"155\" y=\"150\" width=\"90\" height=\"120\" rx=\"10\" fill=\"#1e90ff\"/><rect x=\"165\" y=\"180\" width=\"20\" height=\"60\" fill=\"#ffffff\"/><rect x=\"215\" y=\"180\" width=\"20\" height=\"60\" fill=\"#ffffff\"/><rect x=\"165\" y=\"240\" width=\"70\" height=\"20\" fill=\"#1e90ff\"/><line x1=\"160\" y1=\"150\" x2=\"160\" y2=\"120\" stroke=\"#1e90ff\" stroke-width=\"10\"/><line x1=\"240\" y1=\"150\" x2=\"240\" y2=\"120\" stroke=\"#1e90ff\" stroke-width=\"10\"/><line x1=\"170\" y1=\"250\" x2=\"160\" y2=\"245\" stroke=\"#ffffff\" stroke-width=\"5\"/><line x1=\"230\" y1=\"250\" x2=\"240\" y2=\"245\" stroke=\"#ffffff\" stroke-width=\"5\"/></svg>",
     "report": {
-      "appearance": "アダムは青色の筋肉質な体躯を持ち、頭部には凛々しい角と大きな目を備えている。四肢は頑丈で力強く、男性的な特徴を示している。",
-      "reason": "生態系の変化により、アダムはより強靭な体力と威厳ある外見を進化させ、新たな環境での生存競争に適応した。",
-      "thought": "『力強さと威厳を持ち、進化し続ける』"
+      "appearance": "アダムは青色の外皮を持つ男性型生命体で、角張った頭部と白い眼と白い手足が特徴です。胴体には青い装甲があり、四角い尾が生えています。",
+      "reason": "アダムは環境の変化に適応し、強靭な外観を獲得する進化を遂げました。",
+      "thought": "『力と誇りの調和』"
     },
     "name": "アダム",
     "gender": "男性"
