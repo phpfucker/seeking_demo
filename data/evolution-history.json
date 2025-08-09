@@ -8239,5 +8239,28 @@
       "gender": "男性"
     },
     "timestamp": 1754720626270
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 400\"><ellipse cx=\"200\" cy=\"90\" rx=\"50\" ry=\"80\" fill=\"#f5b3b3\"/><rect x=\"150\" y=\"170\" width=\"100\" height=\"100\" fill=\"#f5b3b3\"/><rect x=\"175\" y=\"270\" width=\"50\" height=\"60\" fill=\"#f5b3b3\"/><ellipse cx=\"175\" cy=\"90\" rx=\"8\" ry=\"10\" fill=\"#ffd8d8\"/><ellipse cx=\"225\" cy=\"90\" rx=\"8\" ry=\"10\" fill=\"#ffd8d8\"/><ellipse cx=\"180\" cy=\"170\" rx=\"10\" ry=\"5\" fill=\"#ffd8d8\"/><ellipse cx=\"220\" cy=\"170\" rx=\"10\" ry=\"5\" fill=\"#ffd8d8\"/><ellipse cx=\"160\" cy=\"170\" rx=\"8\" ry=\"8\" fill=\"#ffd8d8\"/><ellipse cx=\"240\" cy=\"170\" rx=\"8\" ry=\"8\" fill=\"#ffd8d8\"/><polygon points=\"175,120 185,120 180,130\" fill=\"#000\"/><polygon points=\"215,120 225,120 220,130\" fill=\"#000\"/><text x=\"200\" y=\"350\" font-family=\"Arial\" font-size=\"20\" fill=\"#000\" text-anchor=\"middle\">イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな外見を持つ女性の生命体です。頭部には大きな楕円形の目と柔らかな表情を持つ顔があり、胴体は四角形の形状をしています。手足は短くて丸みを帯びた形状で、しっぽが短く胴体についています。",
+        "reason": "イヴは、新たな進化を遂げ、より優美で柔らかな姿に変化しました。これは環境の変化に適応するため、より親しみやすい外見となるよう進化した結果です。",
+        "thought": "『安らぎと包容』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 400\"><ellipse cx=\"200\" cy=\"90\" rx=\"50\" ry=\"80\" fill=\"#9ec1cf\"/><rect x=\"150\" y=\"170\" width=\"100\" height=\"100\" fill=\"#9ec1cf\"/><rect x=\"175\" y=\"270\" width=\"50\" height=\"60\" fill=\"#9ec1cf\"/><ellipse cx=\"175\" cy=\"90\" rx=\"8\" ry=\"10\" fill=\"#c9e3ed\"/><ellipse cx=\"225\" cy=\"90\" rx=\"8\" ry=\"10\" fill=\"#c9e3ed\"/><ellipse cx=\"180\" cy=\"170\" rx=\"10\" ry=\"5\" fill=\"#c9e3ed\"/><ellipse cx=\"220\" cy=\"170\" rx=\"10\" ry=\"5\" fill=\"#c9e3ed\"/><ellipse cx=\"160\" cy=\"170\" rx=\"8\" ry=\"8\" fill=\"#c9e3ed\"/><ellipse cx=\"240\" cy=\"170\" rx=\"8\" ry=\"8\" fill=\"#c9e3ed\"/><polygon points=\"175,120 185,120 180,130\" fill=\"#000\"/><polygon points=\"215,120 225,120 220,130\" fill=\"#000\"/><text x=\"200\" y=\"350\" font-family=\"Arial\" font-size=\"20\" fill=\"#000\" text-anchor=\"middle\">アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青色のすっきりとした外見を持つ男性の生命体です。頭部には大きな楕円形の目と幾何学的な要素を持つ顔があり、胴体は四角形の形状をしています。手足は短くて直線的な形状で、しっぽが短く胴体についています。",
+        "reason": "アダムは、新たな進化を遂げ、より知的で引き締まった姿に変化しました。これは環境の変化に適応するため、より効率的で洗練された外見となるよう進化した結果です。",
+        "thought": "『知識と冷静さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1754742733747
   }
 ]
