@@ -8308,5 +8308,28 @@
       "gender": "男性"
     },
     "timestamp": 1754789879315
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,255,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,192,203);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#grad1)' /><ellipse cx='130' cy='170' rx='25' ry='40' fill='rgb(255,192,203)' /><ellipse cx='270' cy='170' rx='25' ry='40' fill='rgb(255,192,203)' /><path d='M170 270 Q200 320 230 270' fill='none' stroke='rgb(255,192,203)' stroke-width='6' /><path d='M160 210 Q200 180 240 210' fill='none' stroke='rgb(255,192,203)' stroke-width='6' /><rect x='160' y='200' width='80' height='30' fill='rgb(255,192,203)' /><circle cx='150' cy='140' r='10' fill='black' /><circle cx='250' cy='140' r='10' fill='black' /><line x1='180' y1='140' x2='220' y2='140' stroke='black' stroke-width='3' /><text x='200' y='350' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>イヴ</text></g></svg>",
+      "report": {
+        "appearance": "「イヴ」は、ピンク色の柔らかな肌を持ち、頭に二つの角が生えています。体は優美で女性らしい曲線を描き、薄いピンク色のドレスを身に着けています。手足は細長く、華奢な指を持っています。背中には大きなピンク色のしっぽがあります。",
+        "reason": "女性らしさと優美さをより強調するため、イヴの進化により、ピンク色の肌や柔らかな曲線が強調されました。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><defs><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,255,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,191,255);stop-opacity:1' /></linearGradient></defs><rect x='150' y='200' width='100' height='150' fill='url(#grad2)' /><ellipse cx='200' cy='120' rx='50' ry='40' fill='rgb(0,191,255)' /><path d='M160 320 Q200 350 240 320' fill='none' stroke='rgb(0,191,255)' stroke-width='6' /><path d='M160 200 Q200 170 240 200' fill='none' stroke='rgb(0,191,255)' stroke-width='6' /><circle cx='180' cy='100' r='10' fill='black' /><circle cx='220' cy='100' r='10' fill='black' /><line x1='150' y1='200' x2='100' y2='240' stroke='rgb(0,0,0)' stroke-width='3' /><line x1='250' y1='200' x2='300' y2='240' stroke='rgb(0,0,0)' stroke-width='3' /><text x='200' y='350' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>アダム</text></g></svg>",
+      "report": {
+        "appearance": "「アダム」は、青い体色を持ち、力強い体つきと頭に一本の角が特徴です。体は筋肉質で頑丈な印象を与え、青いローブを纏っています。手足は太くて丈夫で、大きな足跡を残します。背中には二本の青い角が生えており、重厚な印象を与えます。",
+        "reason": "男性らしさと力強さをより表現するため、アダムの進化により、青い体色や筋肉質な体つきが強調されました。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1754807035914
   }
 ]
