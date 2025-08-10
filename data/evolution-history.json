@@ -8331,5 +8331,28 @@
       "gender": "男性"
     },
     "timestamp": 1754807035914
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#f9c1bb'/><circle cx='200' cy='200' r='80' fill='#ffadad'/><ellipse cx='150' cy='160' rx='20' ry='10' fill='#ffadad'/><ellipse cx='250' cy='160' rx='20' ry='10' fill='#ffadad'/><path d='M175 220 Q200 260 225 220' stroke='#ffadad' stroke-width='6' fill='none'/><path d='M175 230 Q200 270 225 230' stroke='#ffadad' stroke-width='6' fill='none'/><line x1='180' y1='190' x2='170' y2='185' stroke='#000' stroke-width='4'/><line x1='220' y1='190' x2='230' y2='185' stroke='#000' stroke-width='4'/><polygon points='180,230 185,235 175,235' fill='#ffadad'/><polygon points='220,230 225,235 215,235' fill='#ffadad'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌を持つ女性で、丸い顔に大きな赤い目が特徴です。短いピンクの髪の毛があり、愛らしい笑顔を浮かべています。体は丸みを帯びており、手足は短くて丸い形状です。背中には丸いしっぽが生えています。",
+        "reason": "進化の過程において、イヴはより柔らかく優しい特徴を持つように進化しました。",
+        "thought": "『やさしさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#b8e994'/><circle cx='200' cy='200' r='80' fill='#6ab04c'/><ellipse cx='150' cy='160' rx='20' ry='10' fill='#6ab04c'/><ellipse cx='250' cy='160' rx='20' ry='10' fill='#6ab04c'/><path d='M175 220 Q200 260 225 220' stroke='#6ab04c' stroke-width='6' fill='none'/><path d='M175 230 Q200 270 225 230' stroke='#6ab04c' stroke-width='6' fill='none'/><line x1='180' y1='190' x2='170' y2='185' stroke='#000' stroke-width='4'/><line x1='220' y1='190' x2='230' y2='185' stroke='#000' stroke-width='4'/><polygon points='180,230 185,235 175,235' fill='#6ab04c'/><polygon points='220,230 225,235 215,235' fill='#6ab04c'/></svg>",
+      "report": {
+        "appearance": "アダムは、緑色の肌を持つ男性で、丸い顔に大きな緑色の目が特徴です。短い緑色の髪の毛があり、穏やかな表情をしています。体は筋肉質で角張った形状をしており、手足は太くて頑丈な造りです。背中には尖った角が生えています。",
+        "reason": "進化の過程において、アダムはより力強く頑丈な特徴を持つように進化しました。",
+        "thought": "『力強さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1754829170394
   }
 ]
