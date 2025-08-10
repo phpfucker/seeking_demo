@@ -8354,5 +8354,28 @@
       "gender": "男性"
     },
     "timestamp": 1754829170394
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightpink'/><ellipse cx='200' cy='150' rx='90' ry='120' fill='pink'/><rect x='160' y='220' width='80' height='40' fill='pink'/><polygon points='200,120 230,150 170,150' fill='pink'/><polygon points='200,240 220,260 180,260' fill='pink'/><circle cx='170' cy='170' r='10' fill='black'/><circle cx='230' cy='170' r='10' fill='black'/><path d='M180,230 Q200,250 220,230' fill='none' stroke='black'/><path d='M180,230 Q200,240 220,230' fill='none' stroke='black'/><path d='M180,230 Q200,230 220,230' fill='none' stroke='black'/><path d='M180,230 Q200,220 220,230' fill='none' stroke='black'/><path d='M180,230 Q200,210 220,230' fill='none' stroke='black'/><path d='M180,250 Q200,230 220,250' fill='none' stroke='black'/><path d='M180,250 Q200,240 220,250' fill='none' stroke='black'/></svg>",
+      "report": {
+        "appearance": "イヴは、優雅なピンク色の体と大きな目を持つ女性的な姿をしています。体は丸く、しっとりとした輝きを放ちます。柔らかな表情と優しい雰囲気が特徴です。",
+        "reason": "イヴは新たな進化を遂げ、より可愛らしさと優美さを手に入れました。環境の変化により、より美しく進化することで、他者とのコミュニケーションや繁殖の成功率が高まるためです。",
+        "thought": "『優しさが、世界を美しくする』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='lightblue'/><polygon points='200,100 150,150 250,150' fill='lightblue'/><polygon points='200,300 170,350 230,350' fill='lightblue'/><circle cx='170' cy='120' r='15' fill='black'/><circle cx='230' cy='120' r='15' fill='black'/><line x1='180' y1='250' x2='200' y2='230' stroke='black' stroke-width='2'/><line x1='200' y1='230' x2='220' y2='250' stroke='black' stroke-width='2'/><line x1='200' y1='260' x2='200' y2='280' stroke='black' stroke-width='2'/><line x1='190' y1='330' x2='210' y2='330' stroke='black' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、優しい青色の体と力強い姿を持つ男性的な外見をしています。体は四角く、安定感があります。凛々しい表情と頼もしい雰囲気が特徴です。",
+        "reason": "アダムは新たな進化を果たし、より強靭さと安定感を獲得しました。環境の変化により、より強く進化することで、生存競争において他の個体に負けない強さを手に入れるためです。",
+        "thought": "『力強さが、未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1754850097269
   }
 ]
