@@ -8400,5 +8400,28 @@
       "gender": "男性"
     },
     "timestamp": 1754875567531
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 400\"><defs><linearGradient id=\"gradA\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" style=\"stop-color:rgb(255,255,255);stop-opacity:1\" /><stop offset=\"100%\" style=\"stop-color:rgb(255,192,203);stop-opacity:1\" /></linearGradient></defs><rect x=\"50\" y=\"40\" width=\"300\" height=\"320\" fill=\"url(#gradA)\" /><circle cx=\"200\" cy=\"120\" r=\"100\" fill=\"#FFC0CB\" /><ellipse cx=\"150\" cy=\"110\" rx=\"20\" ry=\"10\" fill=\"#FF1493\" /><ellipse cx=\"250\" cy=\"110\" rx=\"20\" ry=\"10\" fill=\"#FF1493\" /><path d=\"M190 140 Q200 160 210 140\" fill=\"none\" stroke=\"#FF1493\" stroke-width=\"3\" /><path d=\"M160 190 Q200 210 240 190\" fill=\"none\" stroke=\"#FF1493\" stroke-width=\"3\" /><path d=\"M170 230 Q200 250 230 230\" fill=\"none\" stroke=\"#FF1493\" stroke-width=\"3\" /><circle cx=\"170\" cy=\"80\" r=\"5\" fill=\"#000\" /><circle cx=\"230\" cy=\"80\" r=\"5\" fill=\"#000\" /><circle cx=\"180\" cy=\"120\" r=\"5\" fill=\"#000\" /><circle cx=\"220\" cy=\"120\" r=\"5\" fill=\"#000\" /><circle cx=\"160\" cy=\"160\" r=\"5\" fill=\"#000\" /><circle cx=\"240\" cy=\"160\" r=\"5\" fill=\"#000\" /><circle cx=\"170\" cy=\"200\" r=\"5\" fill=\"#000\" /><circle cx=\"230\" cy=\"200\" r=\"5\" fill=\"#000\" /><circle cx=\"200\" cy=\"250\" r=\"5\" fill=\"#000\" /><path d=\"M160 290 Q200 310 240 290\" fill=\"none\" stroke=\"#FF1493\" stroke-width=\"3\" /><path d=\"M190 320 Q200 340 210 320\" fill=\"none\" stroke=\"#FF1493\" stroke-width=\"3\" /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持つ女性型の生命体です。頭部には明るいピンクの髪があり、大きな赤い目が特徴です。体全体には淡いピンク色のグラデーションが施され、優雅で華やかな印象を与えます。",
+        "reason": "イヴは自然界の美しさと調和を象徴する進化を遂げました。環境と共生し、新たな生命の誕生を祝福する存在としての役割を担います。",
+        "thought": "『生命と調和する喜び』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 400\"><defs><linearGradient id=\"gradB\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" style=\"stop-color:rgb(255,255,255);stop-opacity:1\" /><stop offset=\"100%\" style=\"stop-color:rgb(0,191,255);stop-opacity:1\" /></linearGradient></defs><rect x=\"50\" y=\"40\" width=\"300\" height=\"320\" fill=\"url(#gradB)\" /><circle cx=\"200\" cy=\"120\" r=\"100\" fill=\"#00BFFF\" /><ellipse cx=\"150\" cy=\"110\" rx=\"20\" ry=\"10\" fill=\"#4169E1\" /><ellipse cx=\"250\" cy=\"110\" rx=\"20\" ry=\"10\" fill=\"#4169E1\" /><path d=\"M190 140 Q200 160 210 140\" fill=\"none\" stroke=\"#4169E1\" stroke-width=\"3\" /><path d=\"M160 190 Q200 210 240 190\" fill=\"none\" stroke=\"#4169E1\" stroke-width=\"3\" /><path d=\"M170 230 Q200 250 230 230\" fill=\"none\" stroke=\"#4169E1\" stroke-width=\"3\" /><circle cx=\"170\" cy=\"80\" r=\"5\" fill=\"#000\" /><circle cx=\"230\" cy=\"80\" r=\"5\" fill=\"#000\" /><circle cx=\"180\" cy=\"120\" r=\"5\" fill=\"#000\" /><circle cx=\"220\" cy=\"120\" r=\"5\" fill=\"#000\" /><circle cx=\"160\" cy=\"160\" r=\"5\" fill=\"#000\" /><circle cx=\"240\" cy=\"160\" r=\"5\" fill=\"#000\" /><circle cx=\"170\" cy=\"200\" r=\"5\" fill=\"#000\" /><circle cx=\"230\" cy=\"200\" r=\"5\" fill=\"#000\" /><circle cx=\"200\" cy=\"250\" r=\"5\" fill=\"#000\" /><path d=\"M160 290 Q200 310 240 290\" fill=\"none\" stroke=\"#4169E1\" stroke-width=\"3\" /><path d=\"M190 320 Q200 340 210 320\" fill=\"none\" stroke=\"#4169E1\" stroke-width=\"3\" /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌を持つ男性型の生命体です。鮮やかな青い体色と輝く青い目が特徴で、頭部には短く立ち上がった青い髪があります。全体的に力強く逞しい印象を与えます。",
+        "reason": "アダムは進化によって創造性と知恵を象徴する姿へと変化しました。知的な探求心と創造力を持ち、未来への希望と成長を示す存在としての性質を持っています。",
+        "thought": "『知識と創造の力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1754893693363
   }
 ]
