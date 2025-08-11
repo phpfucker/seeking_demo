@@ -8377,5 +8377,28 @@
       "gender": "男性"
     },
     "timestamp": 1754850097269
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><rect x='125' y='200' width='150' height='200' fill='#ff99cc' /><ellipse cx='200' cy='150' rx='80' ry='45' fill='#ff6699' /><path d='M180,150 L160,130 L140,150 Q160,160 180,150Z' fill='#ff3366' /><polygon points='180,110 190,110 185,120' fill='#ff0033' /><line x1='170' y1='120' x2='180' y2='120' stroke='#cc0033' stroke-width='3' /><line x1='220' y1='120' x2='230' y2='120' stroke='#cc0033' stroke-width='3' /><line x1='180' y1='300' x2='190' y2='300' stroke='#cc0066' stroke-width='3' /><line x1='210' y1='300' x2='220' y2='300' stroke='#cc0066' stroke-width='3' /><circle cx='170' cy='260' r='10' fill='#ff0066' /><circle cx='230' cy='260' r='10' fill='#ff0066' /><circle cx='170' cy='260' r='5' fill='#cc0066' /><circle cx='230' cy='260' r='5' fill='#cc0066' /><line x1='200' y1='200' x2='200' y2='220' stroke='#cc0066' stroke-width='5' /><line x1='200' y1='220' x2='180' y2='230' stroke='#cc0066' stroke-width='5' /><line x1='200' y1='220' x2='220' y2='230' stroke='#cc0066' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の大きな円形の体に、紫色の四角い服を着た女性の姿をしています。頭部は赤い楕円形で、顔には濃いピンクの三角形の模様があり、目立つ赤い唇を持っています。両腕には赤い円形の装飾があり、手足は長方形の靴で覆われています。",
+        "reason": "進化は、イヴが自然と共鳴して育まれた結果です。新たな力を手に入れるため、より強靭な体と魅力的な外観を持つようになりました。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#b3e6b3' /><rect x='125' y='200' width='150' height='200' fill='#80c080' /><ellipse cx='200' cy='150' rx='80' ry='45' fill='#4d994d' /><path d='M180,150 L160,130 L140,150 Q160,160 180,150Z' fill='#267326' /><polygon points='180,110 190,110 185,120' fill='#005c00' /><line x1='170' y1='120' x2='180' y2='120' stroke='#004d00' stroke-width='3' /><line x1='220' y1='120' x2='230' y2='120' stroke='#004d00' stroke-width='3' /><line x1='180' y1='300' x2='190' y2='300' stroke='#005c00' stroke-width='3' /><line x1='210' y1='300' x2='220' y2='300' stroke='#005c00' stroke-width='3' /><circle cx='170' cy='260' r='10' fill='#006600' /><circle cx='230' cy='260' r='10' fill='#006600' /><circle cx='170' cy='260' r='5' fill='#005c00' /><circle cx='230' cy='260' r='5' fill='#005c00' /><line x1='200' y1='200' x2='200' y2='220' stroke='#005c00' stroke-width='5' /><line x1='200' y1='220' x2='180' y2='230' stroke='#005c00' stroke-width='5' /><line x1='200' y1='220' x2='220' y2='230' stroke='#005c00' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "アダムは、緑色の大きな円形の体に、黄色の四角い服を着た男性の姿をしています。頭部は緑色の楕円形で、顔には濃い緑色の三角形の模様があり、目立つ黄色の唇を持っています。両腕には緑色の円形の装飾があり、手足は長方形の靴で覆われています。",
+        "reason": "アダムの進化は、自然界との調和を目指した結果です。新たな生命力と知恵を得るため、より強固な外見と内面を手に入れました。",
+        "thought": "『調和と成長』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1754875567531
   }
 ]
