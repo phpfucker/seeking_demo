@@ -8446,5 +8446,28 @@
       "gender": "男性"
     },
     "timestamp": 1754915818328
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffbfd4' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#ffc3d5' /><rect x='160' y='180' width='80' height='40' fill='#ff99af' /><path d='M190,150 Q200,100 210,150' fill='none' stroke='#ff99af' stroke-width='2' /><polygon points='180,120 200,100 220,120' fill='#ff99af' /><circle cx='170' cy='130' r='5' fill='#fff' /><circle cx='230' cy='130' r='5' fill='#fff' /><path d='M180,180 Q200,190 220,180' fill='none' stroke='#ff99af' stroke-width='2' /><path d='M170,200 Q200,220 230,200' fill='none' stroke='#ff99af' stroke-width='2' /><line x1='160' y1='230' x2='140' y2='250' stroke='#ff99af' stroke-width='2' /><line x1='240' y1='230' x2='260' y2='250' stroke='#ff99af' stroke-width='2' /><polygon points='200,200 190,210 210,210' fill='#fff' /></svg>",
+      "report": {
+        "appearance": "「イヴ」は、ピンク色の肌を持ち、丸みを帯びた顔に大きな目が特徴的。頭部にはロングホーン状の角が生え、豊かな髪飾りがある。体は細身で、ピンクと白の模様が入っている。手足は短く、しっぽがフワフワしている。",
+        "reason": "環境の変化により、イヴの進化が進んでおり、新たな特徴が付加された。",
+        "thought": "『自然と調和して生きる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='160' y='180' width='80' height='40' fill='#79a0d2' /><ellipse cx='200' cy='240' rx='30' ry='50' fill='#779ecf' /><polygon points='190,210 200,200 210,210' fill='#6c87c7' /><path d='M190,150 Q200,100 210,150' fill='none' stroke='#6c87c7' stroke-width='2' /><path d='M180,180 Q200,190 220,180' fill='none' stroke='#6c87c7' stroke-width='2' /><circle cx='170' cy='130' r='5' fill='#fff' /><circle cx='230' cy='130' r='5' fill='#fff' /><path d='M170,200 Q200,220 230,200' fill='none' stroke='#6c87c7' stroke-width='2' /><line x1='160' y1='230' x2='140' y2='250' stroke='#6c87c7' stroke-width='2' /><line x1='240' y1='230' x2='260' y2='250' stroke='#6c87c7' stroke-width='2' /><polygon points='200,200 190,210 210,210' fill='#fff' /></svg>",
+      "report": {
+        "appearance": "「アダム」は、青色の体に小さな膝の角があり、短い足と長い腕を持つ。顔は角ばっており、青と紫の模様が入っている。胴体はがっしりとしており、尾は尖っている。",
+        "reason": "環境の変化により、アダムの進化が進んでおり、新たな特徴が付加された。",
+        "thought": "『強靭さと知恵を併せ持つ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1754936734747
   }
 ]
