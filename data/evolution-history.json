@@ -8492,5 +8492,28 @@
       "gender": "男性"
     },
     "timestamp": 1754961477861
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink' /><ellipse cx='130' cy='150' rx='20' ry='30' fill='white' /><ellipse cx='270' cy='150' rx='20' ry='30' fill='white' /><ellipse cx='200' cy='200' rx='80' ry='100' fill='white' /><rect x='170' y='230' width='60' height='20' fill='pink' /><polygon points='160,210 190,210 175,240' fill='pink' /><polygon points='210,210 240,210 225,240' fill='pink' /><path d='M190 180 Q200 160 210 180' fill='none' stroke='black' stroke-width='2' /><path d='M140 260 Q200 280 260 260' fill='none' stroke='black' stroke-width='2' /><line x1='150' y1='280' x2='170' y2='290' stroke='black' stroke-width='2' /><line x1='250' y1='280' x2='230' y2='290' stroke='black' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体を持ち、白い楕円形の目と長いまつげを持つ女性型生命体です。体の下部にはピンク色の衣装があり、しっかりとした足を持っています。",
+        "reason": "進化の過程で、イヴはより優美で繊細な特徴を発展させました。",
+        "thought": "『愛と美の力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='120' width='100' height='180' fill='lightblue' /><ellipse cx='200' cy='150' rx='30' ry='20' fill='white' /><ellipse cx='170' cy='150' rx='10' ry='15' fill='black' /><ellipse cx='230' cy='150' rx='10' ry='15' fill='black' /><rect x='170' y='220' width='60' height='20' fill='lightblue' /><polygon points='165,210 195,210 180,240' fill='lightblue' /><polygon points='205,210 235,210 220,240' fill='lightblue' /><path d='M190 180 Q200 160 210 180' fill='none' stroke='black' stroke-width='2' /><path d='M150 260 Q200 280 250 260' fill='none' stroke='black' stroke-width='2' /><line x1='150' y1='290' x2='170' y2='280' stroke='black' stroke-width='2' /><line x1='250' y1='290' x2='230' y2='280' stroke='black' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは青色の体を持ち、白い楕円形の目と小さな黒い目玉を持つ男性型生命体です。体の中央には青色の服があり、力強い足を持っています。",
+        "reason": "アダムの進化は、より力強く堅実な特徴を強調する方向へと進んでいます。",
+        "thought": "『力と誇りの融合』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1754979945934
   }
 ]
