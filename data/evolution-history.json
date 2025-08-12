@@ -8515,5 +8515,28 @@
       "gender": "男性"
     },
     "timestamp": 1754979945934
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><circle cx='200' cy='160' r='50' fill='#ff9999'/><circle cx='150' cy='230' r='25' fill='#ff6666'/><circle cx='250' cy='230' r='25' fill='#ff6666'/><polygon points='180,180 220,180 200,200' fill='#ffffff'/><ellipse cx='180' cy='150' rx='20' ry='10' fill='#ffffff'/><ellipse cx='220' cy='150' rx='20' ry='10' fill='#ffffff'/><path d='M185 250 Q200 280 215 250' fill='none' stroke='#000000'/><path d='M190 270 Q200 290 210 270' fill='none' stroke='#000000'/><line x1='190' y1='160' x2='180' y2='170' stroke='#000000'/><line x1='210' y1='160' x2='220' y2='170' stroke='#000000'/><line x1='180' y1='270' x2='190' y2='280' stroke='#000000'/><line x1='220' y1='270' x2='210' y2='280' stroke='#000000'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌を持ち、赤い目と白い角を持つ女性生命体です。体の中心に大きな赤い円形の模様を持ち、小さな白い手や足を持っています。",
+        "reason": "イヴは自然の摂理に従い、より美しく進化した。",
+        "thought": "『命の尊さ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#afeeee'/><circle cx='200' cy='160' r='50' fill='#87ceeb'/><circle cx='150' cy='230' r='25' fill='#4682b4'/><circle cx='250' cy='230' r='25' fill='#4682b4'/><polygon points='180,180 220,180 200,200' fill='#ffffff'/><ellipse cx='180' cy='150' rx='20' ry='10' fill='#ffffff'/><ellipse cx='220' cy='150' rx='20' ry='10' fill='#ffffff'/><path d='M185 250 Q200 280 215 250' fill='none' stroke='#000000'/><path d='M190 270 Q200 290 210 270' fill='none' stroke='#000000'/><line x1='190' y1='160' x2='180' y2='170' stroke='#000000'/><line x1='210' y1='160' x2='220' y2='170' stroke='#000000'/><line x1='180' y1='270' x2='190' y2='280' stroke='#000000'/><line x1='220' y1='270' x2='210' y2='280' stroke='#000000'/></svg>",
+      "report": {
+        "appearance": "アダムは、水色の肌を持ち、青い目と青い角を持つ男性生命体です。体の中心に大きな青い円形の模様を持ち、小さな白い手や足を持っています。",
+        "reason": "アダムは環境への適応により、より力強く進化した。",
+        "thought": "『知識と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1755002086066
   }
 ]
