@@ -8653,5 +8653,28 @@
       "gender": "男性"
     },
     "timestamp": 1755109375328
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='pink' /><circle cx='200' cy='200' r='80' fill='white' /><ellipse cx='170' cy='180' rx='15' ry='10' fill='black' /><ellipse cx='230' cy='180' rx='15' ry='10' fill='black' /><ellipse cx='200' cy='240' rx='50' ry='20' fill='pink' /><ellipse cx='180' cy='240' rx='8' ry='5' fill='white' /><ellipse cx='220' cy='240' rx='8' ry='5' fill='white' /><line x1='175' y1='275' x2='225' y2='275' stroke='black' stroke-width='4' /><polygon points='190,210 200,210 200,220' fill='black' /><polygon points='210,210 220,210 210,220' fill='black' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクの体に白い顔と大きな黒い目を持つ女性型生命体です。体の下部にはピンクの長い尾があり、手足は白い手袋と靴を履いています。",
+        "reason": "進化が起こった理由は、新たな生息環境に適応するために、より優れた視覚と柔軟性を持つ必要があったためです。",
+        "thought": "『新たな世界を見つめる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='lightblue' /><circle cx='200' cy='200' r='80' fill='white' /><ellipse cx='170' cy='180' rx='15' ry='10' fill='black' /><ellipse cx='230' cy='180' rx='15' ry='10' fill='black' /><ellipse cx='200' cy='240' rx='50' ry='20' fill='lightblue' /><line x1='180' y1='240' x2='180' y2='260' stroke='black' stroke-width='4' /><line x1='220' y1='240' x2='220' y2='260' stroke='black' stroke-width='4' /><polygon points='180,210 190,210 190,220' fill='black' /><polygon points='210,210 220,210 210,220' fill='black' /></svg>",
+      "report": {
+        "appearance": "アダムは、淡い青色の体に白い顔と大きな黒い目を持つ男性型生命体です。体の後部には青色の大きな鰭があり、足は青いフィンのような形状をしています。",
+        "reason": "進化が起こった理由は、速く泳ぐことが必要な環境に適応するために、より水中での機動性と視認性を高める必要があったためです。",
+        "thought": "『深海への探求』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1755134389489
   }
 ]
