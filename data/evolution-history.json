@@ -8814,5 +8814,28 @@
       "gender": "男性"
     },
     "timestamp": 1755261189022
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFC0CB' /><rect x='125' y='220' width='150' height='100' fill='#FF69B4' /><ellipse cx='200' cy='120' rx='60' ry='40' fill='#FF69B4' /><polygon points='175,150 200,120 225,150' fill='#FFB6C1' /><circle cx='165' cy='100' r='10' fill='#000' /><circle cx='235' cy='100' r='10' fill='#000' /><path d='M150,220 Q200,250 250,220' fill='none' stroke='#FF69B4' stroke-width='5' /><path d='M160,300 Q200,320 240,300' fill='none' stroke='#FF69B4' stroke-width='5' /><path d='M160,200 Q200,180 240,200' fill='none' stroke='#FF69B4' stroke-width='5' /><rect x='170' y='280' width='10' height='50' fill='#FFB6C1' /><rect x='220' y='280' width='10' height='50' fill='#FFB6C1' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の大きな円形の体に、紫色の四角形のスカートを身に着け、頭には楕円形の髪の毛がある。顔には三角形の鼻と丸い瞳があり、耳は丸くて小さな真ん中に黒い点のある耳飾りを付けている。腕にはピンク色の模様があり、足には紫色のストライプ模様がある。背中にはピンクの大きな羽が生えており、スカートの下には二本の尾がある。",
+        "reason": "イヴは、より柔らかく可愛らしい外見に進化した。新たな模様や装飾が追加され、女性らしい特徴が強調された。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='200' width='100' height='180' fill='#4682B4' /><polygon points='200,100 250,200 150,200' fill='#4682B4' /><circle cx='200' cy='100' r='50' fill='#4682B4' /><rect x='175' y='200' width='50' height='20' fill='#4169E1' /><circle cx='180' cy='240' r='10' fill='#FFD700' /><circle cx='220' cy='240' r='10' fill='#FFD700' /><path d='M160,230 Q200,260 240,230' fill='none' stroke='#4169E1' stroke-width='5' /><path d='M160,320 Q200,350 240,320' fill='none' stroke='#4169E1' stroke-width='5' /><path d='M160,220 Q200,200 240,220' fill='none' stroke='#4169E1' stroke-width='5' /><polygon points='160,200 200,160 240,200' fill='#4169E1' /><rect x='175' y='370' width='10' height='30' fill='#4169E1' /><rect x='215' y='370' width='10' height='30' fill='#4169E1' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の大きな長方形の体に、三角形の胸板があり、頭部は丸くて小さな顔で構成されている。顔には大きな丸い目と黄色い眼球があり、口は小さくて直線的。腕には青色の模様があり、足には黄色い模様が入っている。背中には三角形の羽があり、尾の先端には黄色い丸い飾りがある。",
+        "reason": "アダムは、より力強く男性的な外見に進化した。新たな筋肉質な特徴や細部の追加が行われ、男性らしい特徴が際立つようになった。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1755282224590
   }
 ]
