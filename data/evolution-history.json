@@ -8745,5 +8745,28 @@
       "gender": "男性"
     },
     "timestamp": 1755195864331
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff99cc' /><ellipse cx='155' cy='160' rx='25' ry='40' fill='#ffb3d9' /><ellipse cx='245' cy='160' rx='25' ry='40' fill='#ffb3d9' /><path d='M200 210 Q180 230 200 250 Q220 230 200 210z' fill='#ff66b2' /><rect x='180' y='240' width='40' height='20' fill='#ff99cc' /><ellipse cx='180' cy='260' rx='5' ry='10' fill='#ff66b2' /><ellipse cx='220' cy='260' rx='5' ry='10' fill='#ff66b2' /><line x1='185' y1='180' x2='195' y2='200' stroke='#ff66b2' stroke-width='2' /><line x1='215' y1='180' x2='205' y2='200' stroke='#ff66b2' stroke-width='2' /><text x='200' y='320' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の円形の体に、明るいピンクの楕円形の顔、二つの薄紫色の楕円形の目を持つ。手足は濃いピンクで、薄いピンクの腹部がある。優雅な曲線と柔らかな色彩が特徴的である。",
+        "reason": "進化により、イヴはより美しく魅力的な特徴を身につけ、生存競争においてパートナーを引き寄せる効果的な進化を遂げた。",
+        "thought": "『愛と美しさの輝き』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#6699ff' /><circle cx='200' cy='150' r='40' fill='#85b3ff' /><circle cx='200' cy='150' r='20' fill='#99ccff' /><circle cx='180' cy='140' r='5' fill='#4d79ff' /><circle cx='220' cy='140' r='5' fill='#4d79ff' /><path d='M190 180 Q200 170 210 180 Q200 190 190 180z' fill='#4d79ff' /><line x1='170' y1='230' x2='150' y2='250' stroke='#6699ff' stroke-width='2' /><line x1='230' y1='230' x2='250' y2='250' stroke='#6699ff' stroke-width='2' /><text x='200' y='320' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青色の四角形の体に、明るい青色の丸い頭部、二層の青い目を持つ。手足は濃い青で、頑丈な四角形の体つきが特徴的である。",
+        "reason": "進化の過程で、アダムは力強く堅牢な特徴を強化し、生存競争において効果的に獲得した新たな進化である。",
+        "thought": "『力と誇りの輝き』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1755220825203
   }
 ]
