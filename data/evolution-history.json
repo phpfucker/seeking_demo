@@ -8791,5 +8791,28 @@
       "gender": "男性"
     },
     "timestamp": 1755239129588
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#ffcccb' /><circle cx='200' cy='200' r='140' fill='#ff99cc' /><ellipse cx='130' cy='120' rx='30' ry='20' fill='#ff6699' /><ellipse cx='270' cy='120' rx='30' ry='20' fill='#ff6699' /><polygon points='200,220 180,250 220,250' fill='#cc66ff' /><polygon points='160,180 140,170 150,200' fill='#cc66ff' /><polygon points='240,180 260,170 250,200' fill='#cc66ff' /><path d='M180 300 Q200 330 220 300' fill='none' stroke='#cc66ff' stroke-width='5' /><path d='M150 250 Q200 280 250 250' fill='none' stroke='#ff66cc' stroke-width='5' /><path d='M160 160 Q200 100 240 160' fill='none' stroke='#ff66cc' stroke-width='5' /><path d='M110 210 Q200 120 290 210' fill='none' stroke='#ff66cc' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の大きな円形の体を持ち、顔には2つの楕円形がある。手足は細長いピンクの楕円形で、体の両側には薄紫色の模様がある。しっぽは紫色の三角形で、顔には2つの紫色の角がある。",
+        "reason": "イヴは新たなる生命の誕生を象徴し、より美しく進化した。",
+        "thought": "『誕生と美しさの融合』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#add8e6' /><circle cx='200' cy='200' r='140' fill='#87ceeb' /><ellipse cx='150' cy='120' rx='30' ry='20' fill='#4682b4' /><ellipse cx='250' cy='120' rx='30' ry='20' fill='#4682b4' /><polygon points='200,220 180,250 220,250' fill='#87cefa' /><polygon points='160,180 140,170 150,200' fill='#87cefa' /><polygon points='240,180 260,170 250,200' fill='#87cefa' /><path d='M180 300 Q200 330 220 300' fill='none' stroke='#4682b4' stroke-width='5' /><path d='M150 250 Q200 280 250 250' fill='none' stroke='#87ceeb' stroke-width='5' /><path d='M160 160 Q200 100 240 160' fill='none' stroke='#87ceeb' stroke-width='5' /><path d='M110 210 Q200 120 290 210' fill='none' stroke='#87ceeb' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "アダムは淡い青色の大きな円形の体を持ち、顔には2つの楕円形がある。手足は細長い青色の楕円形で、体の両側には淡い青色の模様がある。しっぽは青色の三角形で、顔には2つの青色の角がある。",
+        "reason": "アダムは進化の過程でより知性と平和を象徴する外見となり、より穏やかな存在となった。",
+        "thought": "『知性と平和の結晶』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1755261189022
   }
 ]
