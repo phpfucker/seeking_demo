@@ -8768,5 +8768,28 @@
       "gender": "男性"
     },
     "timestamp": 1755220825203
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink'/><ellipse cx='200' cy='190' rx='90' ry='120' fill='pink'/><rect x='150' y='220' width='100' height='40' fill='pink'/><path d='M170 220 L200 170 L230 220 Z' fill='white'/><circle cx='190' cy='170' r='10' fill='black'/><circle cx='210' cy='170' r='10' fill='black'/><polygon points='185,200 200,210 215,200' fill='white'/><ellipse cx='190' cy='240' rx='10' ry='5' fill='white'/><ellipse cx='210' cy='240' rx='10' ry='5' fill='white'/><path d='M180 280 Q200 320 220 280' fill='none' stroke='black' stroke-width='2'/><path d='M200 300 Q210 320 220 300' fill='none' stroke='black' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の大きな目を持つ女性型生命体です。体は丸くて柔らかい形状で、白い目と真っ黒な瞳が特徴です。手は小さく、足は四角い形状で、可愛らしいしっぽがついています。",
+        "reason": "イヴは生き生きとした色と柔らかな形状を持つことで、周囲の生物とのコミュニケーションを円滑にするために進化しました。",
+        "thought": "『愛と優しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightblue'/><ellipse cx='200' cy='190' rx='90' ry='120' fill='lightblue'/><rect x='160' y='220' width='80' height='40' fill='lightblue'/><path d='M180 220 L200 170 L220 220 Z' fill='white'/><circle cx='190' cy='170' r='10' fill='black'/><circle cx='210' cy='170' r='10' fill='black'/><polygon points='185,200 200,210 215,200' fill='white'/><line x1='190' y1='240' x2='195' y2='260' stroke='black' stroke-width='2'/><line x1='210' y1='240' x2='205' y2='260' stroke='black' stroke-width='2'/><polyline points='200,280 210,300 200,320' fill='none' stroke='black' stroke-width='2'/><ellipse cx='200' cy='290' rx='10' ry='5' fill='white'/></svg>",
+      "report": {
+        "appearance": "アダムは淡い青色の男性型生命体です。丸みを帯びた体と白い目が特徴で、四角い足と角のような模様があります。手は小さく、しっぽが細長く、しなやかなラインを描いています。",
+        "reason": "アダムは穏やかで洗練された外観を持つことで、知性と力強さを表現し、生存競争において優位に立つために進化しました。",
+        "thought": "『調和と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1755239129588
   }
 ]
