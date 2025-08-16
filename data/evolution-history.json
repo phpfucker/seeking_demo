@@ -8906,5 +8906,28 @@
       "gender": "男性"
     },
     "timestamp": 1755347469223
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#ffb6c1'/><path d='M180 200 Q200 220 220 200 Q200 180 180 200 Z' fill='#ffc0cb'/><polygon points='170,220 180,230 220,230 230,220' fill='#ff7785'/><circle cx='170' cy='170' r='5' fill='#000'/><circle cx='230' cy='170' r='5' fill='#000'/><rect x='180' y='230' width='40' height='10' fill='#000'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌と赤い髪を持つ女性で、体は丸くて柔らかい形状です。頭部には薄いピンク色の楕円形の顔があり、口や目は描かれていません。背中には2つの赤い角が生えています。手は4本の指があり、足は短く丸い形状です。",
+        "reason": "新たな進化が起こり、イヴはより柔らかく魅力的な外観を手に入れた。",
+        "thought": "『調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#add8e6'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#87ceeb'/><path d='M180 200 Q200 220 220 200 Q200 180 180 200 Z' fill='#87cefa'/><polygon points='170,220 180,230 220,230 230,220' fill='#4682b4'/><circle cx='170' cy='170' r='5' fill='#000'/><circle cx='230' cy='170' r='5' fill='#000'/><rect x='180' y='230' width='40' height='10' fill='#000'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い肌と青い髪を持つ男性で、体はやや角ばった形状です。頭部には青い楕円形の顔があり、口や目は描かれていません。背中には2つの青い角が生えています。手は4本の指があり、足はやや長い角ばった形状です。",
+        "reason": "新たな進化が起こり、アダムはより強靭でクールな外観を手に入れた。",
+        "thought": "『進化』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1755368464095
   }
 ]
