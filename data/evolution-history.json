@@ -8837,5 +8837,28 @@
       "gender": "男性"
     },
     "timestamp": 1755282224590
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#FFC0CB'/><circle cx='200' cy='200' r='120' fill='#FFA07A'/><path d='M150 250 L200 300 L250 250 Z' fill='#FF69B4'/><ellipse cx='170' cy='180' rx='20' ry='10' fill='#FF1493'/><ellipse cx='230' cy='180' rx='20' ry='10' fill='#FF1493'/><path d='M170 230 Q200 260 230 230' fill='none' stroke='#FF1493' stroke-width='5'/><path d='M190 280 Q200 310 210 280' fill='none' stroke='#FF1493' stroke-width='5'/><line x1='150' y1='170' x2='130' y2='150' stroke='#FF69B4' stroke-width='5'/><line x1='250' y1='170' x2='270' y2='150' stroke='#FF69B4' stroke-width='5'/><polygon points='180,90 170,120 190,120' fill='#FFD700'/><polygon points='220,90 210,120 230,120' fill='#FFD700'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の肌を持ち、大きな赤い目が特徴的。頭部に二本の角が生え、ピンクとオレンジ色の髪が優しく揺れる。体はピンク色で、手足には薄いオレンジ色の模様がある。しっぽはなめらかな曲線を描いている。",
+        "reason": "イヴは新たな環境に適応するため、美しい色彩と柔らかなデザインを持つ進化を遂げた。",
+        "thought": "『愛と美の力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#4682B4'/><circle cx='200' cy='200' r='120' fill='#4169E1'/><path d='M150 250 L200 300 L250 250 Z' fill='#87CEEB'/><ellipse cx='170' cy='180' rx='20' ry='10' fill='#1E90FF'/><ellipse cx='230' cy='180' rx='20' ry='10' fill='#1E90FF'/><path d='M170 230 Q200 260 230 230' fill='none' stroke='#1E90FF' stroke-width='5'/><path d='M190 280 Q200 310 210 280' fill='none' stroke='#1E90FF' stroke-width='5'/><line x1='150' y1='170' x2='130' y2='150' stroke='#87CEEB' stroke-width='5'/><line x1='250' y1='170' x2='270' y2='150' stroke='#87CEEB' stroke-width='5'/><polygon points='180,90 170,120 190,120' fill='#87CEFA'/><polygon points='220,90 210,120 230,120' fill='#87CEFA'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の肌を持ち、大きな青い目が特徴的。頭部に二本の角が生え、青と紺色の髪が風に揺れる。体は青色で、手足には淡い青色の模様がある。しっぽは力強い曲線を描いている。",
+        "reason": "アダムは狩猟や防衛のため、鮮やかな青色と堅固な構造の進化を遂げた。",
+        "thought": "『勇気と力の調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1755306979573
   }
 ]
