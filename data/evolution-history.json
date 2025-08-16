@@ -8883,5 +8883,28 @@
       "gender": "男性"
     },
     "timestamp": 1755325355107
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#FFC0CB' /><circle cx='200' cy='150' r='80' fill='#FFA07A' /><ellipse cx='150' cy='250' rx='40' ry='20' fill='#FFA07A' /><ellipse cx='250' cy='250' rx='40' ry='20' fill='#FFA07A' /><path d='M180 200 L220 200 L200 220 Z' fill='#FFD700' /><polygon points='180,300 200,300 190,320' fill='#FF69B4' /><line x1='160' y1='150' x2='140' y2='120' stroke='#000' stroke-width='5' /><line x1='240' y1='150' x2='260' y2='120' stroke='#000' stroke-width='5' /><line x1='180' y1='320' x2='200' y2='340' stroke='#000' stroke-width='5' /><line x1='220' y1='320' x2='200' y2='340' stroke='#000' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかい毛並みで覆われた女性型の生命体です。顔には黄色い光沢のある目と金色の翼状の模様があり、手足は円滑な曲線で描かれています。",
+        "reason": "環境の変化により、生息地での安定性を保つためにイヴは美しい色彩と優雅な形態へと進化しました。",
+        "thought": "『愛と美しさの力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#4682B4' /><circle cx='200' cy='150' r='80' fill='#87CEEB' /><ellipse cx='150' cy='250' rx='40' ry='20' fill='#87CEEB' /><ellipse cx='250' cy='250' rx='40' ry='20' fill='#87CEEB' /><path d='M180 200 L220 200 L200 220 Z' fill='#FFD700' /><polygon points='180,300 200,300 190,320' fill='#FF69B4' /><line x1='160' y1='150' x2='140' y2='120' stroke='#000' stroke-width='5' /><line x1='240' y1='150' x2='260' y2='120' stroke='#000' stroke-width='5' /><line x1='180' y1='320' x2='200' y2='340' stroke='#000' stroke-width='5' /><line x1='220' y1='320' x2='200' y2='340' stroke='#000' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "アダムは青色の硬い鱗で覆われた男性型の生命体です。顔には黄色い瞳と銀色の鋭い角があり、四肢は力強く筋肉質な形状をしています。",
+        "reason": "進化の過程で、アダムは厳しい環境に適応するために頑丈な外皮と力強い体躯を備えるように進化しました。",
+        "thought": "『力と堅実さの誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1755347469223
   }
 ]
