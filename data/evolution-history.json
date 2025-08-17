@@ -8952,5 +8952,28 @@
       "gender": "男性"
     },
     "timestamp": 1755393903150
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(248, 216, 229);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(239, 85, 142);stop-opacity:1' /></linearGradient></defs><rect x='50' y='100' width='300' height='250' fill='url(#gradA)' /><ellipse cx='200' cy='130' rx='80' ry='110' fill='none' stroke='rgb(239, 85, 142)' stroke-width='3' /><path d='M180,160 Q200,220 220,160' fill='none' stroke='rgb(239, 85, 142)' stroke-width='3' /><circle cx='160' cy='160' r='10' fill='black' /><circle cx='240' cy='160' r='10' fill='black' /><path d='M150,200 Q200,160 250,200' fill='none' stroke='black' stroke-width='2' /><path d='M150,200 Q200,240 250,200' fill='none' stroke='black' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと白のグラデーションを持つ美しい女性の生命体です。全身に柔らかな曲線と優しい色彩が特徴で、大きな楕円形の目を持ち、愛らしい笑顔が魅力です。背中には翼のような模様が描かれ、女性らしい優雅さが漂います。",
+        "reason": "イヴの進化は、自然界の美しさと調和を象徴し、生命の多様性を表現するために起こりました。",
+        "thought": "『愛と美の融合』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(173, 216, 230);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0, 119, 190);stop-opacity:1' /></linearGradient></defs><rect x='50' y='100' width='300' height='250' fill='url(#gradB)' /><ellipse cx='200' cy='130' rx='80' ry='110' fill='none' stroke='rgb(0, 119, 190)' stroke-width='3' /><path d='M180,160 Q200,220 220,160' fill='none' stroke='rgb(0, 119, 190)' stroke-width='3' /><circle cx='160' cy='160' r='10' fill='black' /><circle cx='240' cy='160' r='10' fill='black' /><line x1='180' y1='200' x2='200' y2='240' stroke='black' stroke-width='2' /><line x1='220' y1='200' x2='200' y2='240' stroke='black' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色のグラデーションを持つ美しい男性の生命体です。体全体がスマートで力強いフォルムをしており、冷静かつ知性的な表情が特徴です。背中には透き通るような翼の模様が浮かび、男性らしい風格を感じさせます。",
+        "reason": "アダムの進化は、知識と力強さを結集し、生命の進化の中での男性の役割を象徴するために起こりました。",
+        "thought": "『知恵と力の調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1755411823874
   }
 ]
