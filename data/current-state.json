@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='100' r='90' fill='url(#gradA)' /><ellipse cx='200' cy='240' rx='120' ry='80' fill='url(#gradA)' /><path d='M160,160 Q200,60 240,160 Q200,260 160,160 Z' fill='rgb(255,192,203)' /><path d='M160,160 Q200,140 240,160 Q200,180 160,160 Z' fill='rgb(255,105,180)' /><circle cx='160' cy='100' r='10' fill='white' /><circle cx='240' cy='100' r='10' fill='white' /><ellipse cx='180' cy='220' rx='20' ry='10' fill='white' /><ellipse cx='220' cy='220' rx='20' ry='10' fill='white' /><path d='M180,230 Q200,270 220,230 Z' fill='white' /><line x1='180' y1='230' x2='220' y2='230' stroke='black' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,204,204);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,102,102);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='200' cy='150' rx='40' ry='20' fill='rgb(255,191,191)' /><path d='M180,200 L220,200 Q200,220 180,200' fill='none' stroke='rgb(255,102,102)' stroke-width='2' /><path d='M220,200 L180,200 Q200,220 220,200' fill='none' stroke='rgb(255,102,102)' stroke-width='2' /><ellipse cx='180' cy='150' rx='10' ry='5' fill='white' /><ellipse cx='220' cy='150' rx='10' ry='5' fill='white' /><circle cx='190' cy='150' r='5' fill='black' /><circle cx='210' cy='150' r='5' fill='black' /><path d='M190,220 Q200,240 210,220' fill='none' stroke='black' stroke-width='2' /><rect x='180' y='220' width='40' height='20' fill='rgb(255,102,102)' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンクと紫のグラデーションで彩られた優美な女性型生命体です。体は柔らかな曲線で描かれ、背中には翼のような模様が見られます。顔には柔らかな表情があり、全体的に優雅で美しい外観を持っています。",
-      "reason": "進化の過程で、イヴはより華やかで優美な姿を手に入れ、美しい色彩が生命体の魅力を引き立てる役割を果たしました。",
-      "thought": "『穏やかな美しさ』"
+      "appearance": "イヴは、ピンクと赤のグラデーションが美しい女性の姿をしています。柔らかな曲線の頭部には白い眼と角、体は赤いドレスのような装飾が施されています。手は白く、足はピンク色で描かれており、品のある印象を受けます。",
+      "reason": "イヴは、美と優雅さを追求する進化を遂げました。繊細で柔らかい外見は、生命体の内面の豊かさと調和を表現しています。",
+      "thought": "『優しさと美しさが世界を豊かにする』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><radialGradient id='gradB' cx='50%' cy='50%' r='50%' fx='50%' fy='50%'><stop offset='0%' style='stop-color:rgb(0,191,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(30,144,255);stop-opacity:1' /></radialGradient></defs><rect x='150' y='50' width='100' height='200' fill='url(#gradB)' /><polygon points='200,50 150,100 250,100' fill='rgb(0,191,255)' /><polygon points='175,250 150,300 200,300' fill='rgb(30,144,255)' /><circle cx='175' cy='40' r='15' fill='white' /><circle cx='225' cy='40' r='15' fill='white' /><line x1='170' y1='250' x2='230' y2='250' stroke='white' stroke-width='5' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(204,229,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(102,178,255);stop-opacity:1' /></linearGradient></defs><rect x='150' y='50' width='100' height='150' fill='url(#gradB)' /><circle cx='200' cy='200' r='40' fill='rgb(191,223,255)' /><ellipse cx='180' cy='180' rx='10' ry='20' fill='white' /><ellipse cx='220' cy='180' rx='10' ry='20' fill='white' /><path d='M180,200 L220,200 Q200,220 180,200' fill='none' stroke='rgb(51,153,255)' stroke-width='2' /><path d='M220,200 L180,200 Q200,220 220,200' fill='none' stroke='rgb(51,153,255)' stroke-width='2' /><circle cx='190' cy='250' r='5' fill='black' /><circle cx='210' cy='250' r='5' fill='black' /><path d='M190,250 Q200,270 210,250' fill='none' stroke='black' stroke-width='2' /><polygon points='175,200 190,220 210,220 225,200' fill='rgb(102,178,255)' /></svg>",
     "report": {
-      "appearance": "アダムは、青色系のグラデーションで表現された男性型生命体です。頭部から腰にかけて角のような突起物があり、体は頑丈な矩形の形状を持っています。全体的にクールで力強い外見をしています。",
-      "reason": "進化の過程で、アダムはより力強く頼りがいのある外観を獲得し、青色のグラデーションが生命体の強さと安定感を象徴するようになりました。",
-      "thought": "『確かな強さ』"
+      "appearance": "アダムは、青と水色のグラデーションが美しい男性の姿をしています。四角形の体には淡い青色が使われ、円形の頭部に白い眼と角が描かれています。手と足は黒い斑点模様が入っており、力強さと優雅さが調和しています。",
+      "reason": "アダムは、知恵と力強さを兼ね備える進化を遂げました。知的で風格のある外見は、生命体の内面のバランスと強さを象徴しています。",
+      "thought": "『知恵と力、その調和こそが真の進化』"
     },
     "name": "アダム",
     "gender": "男性"
