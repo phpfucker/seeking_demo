@@ -8929,5 +8929,28 @@
       "gender": "男性"
     },
     "timestamp": 1755368464095
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='200' rx='120' ry='170' fill='#ffdcd1' /><path d='M100,250 Q200,350 300,250 Q200,150 100,250' fill='#f08080' /><circle cx='150' cy='150' r='25' fill='#d3a297' /><circle cx='250' cy='150' r='25' fill='#d3a297' /><path d='M175,225 Q200,250 225,225' stroke='#000' stroke-width='3' fill='none' /><path d='M175,260 Q200,250 225,260' stroke='#000' stroke-width='3' fill='none' /><circle cx='150' cy='175' r='10' fill='#000' /><circle cx='250' cy='175' r='10' fill='#000' /><rect x='180' y='300' width='40' height='40' fill='#d3a297' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかな皮膚を持ち、全体的に優しい印象を与えます。体は楕円形で、腰の部分が細くなっています。頭には双子の角が生え、手足は長くしなやかです。背中には赤い鱗状の模様が広がっています。しっぽはなめらかな曲線を描き、末端には小さな丸い尾ビレがあります。",
+        "reason": "イヴは新たな環境に適応するため、より優れた柔軟性と視覚能力が必要となり、それに伴い体の形状や模様が変化しました。",
+        "thought": "『調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#87ceeb' /><circle cx='200' cy='215' r='80' fill='#4682b4' /><ellipse cx='200' cy='150' rx='50' ry='30' fill='#b0e0e6' /><path d='M150,220 Q200,250 250,220 Q200,190 150,220' fill='#add8e6' /><circle cx='160' cy='135' r='20' fill='#87cefa' /><circle cx='240' cy='135' r='20' fill='#87cefa' /><line x1='180' y1='180' x2='185' y2='185' stroke='#000' stroke-width='3' /><line x1='220' y1='180' x2='215' y2='185' stroke='#000' stroke-width='3' /><rect x='185' y='280' width='30' height='30' fill='#4682b4' /></svg>",
+      "report": {
+        "appearance": "アダムは青色の体に包まれ、全体的に力強い雰囲気を醸し出しています。四角い体に丸い頭部と手足が特徴で、背中には大きな円形の模様があります。頭部には水色の光沢のある眼があり、しっかりとした顔つきが印象的です。",
+        "reason": "アダムは狩猟や効率的な移動のため、より俊敏で強靭な体格が求められ、その結果、体の形状や模様が変化した結果です。",
+        "thought": "『力強さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1755393903150
   }
 ]
