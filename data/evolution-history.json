@@ -9044,5 +9044,28 @@
       "gender": "男性"
     },
     "timestamp": 1755480256848
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gradA\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" style=\"stop-color:rgb(255,0,0);stop-opacity:1\" /><stop offset=\"100%\" style=\"stop-color:rgb(255,255,0);stop-opacity:1\" /></linearGradient></defs><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"url(#gradA)\"/><ellipse cx=\"200\" cy=\"150\" rx=\"70\" ry=\"40\" fill=\"white\"/><ellipse cx=\"160\" cy=\"150\" rx=\"15\" ry=\"25\" fill=\"black\"/><ellipse cx=\"240\" cy=\"150\" rx=\"15\" ry=\"25\" fill=\"black\"/><ellipse cx=\"200\" cy=\"160\" rx=\"50\" ry=\"20\" fill=\"white\"/><path d=\"M160,250 Q200,320 240,250\" fill=\"none\" stroke=\"black\"/><path d=\"M180,210 Q200,180 220,210\" fill=\"none\" stroke=\"black\"/><polygon points=\"170,280 200,260 230,280\" fill=\"black\"/><circle cx=\"200\" cy=\"240\" r=\"5\" fill=\"black\"/><circle cx=\"185\" cy=\"145\" r=\"5\" fill=\"white\"/><circle cx=\"215\" cy=\"145\" r=\"5\" fill=\"white\"/><rect x=\"180\" y=\"275\" width=\"40\" height=\"20\" fill=\"black\"/><path d=\"M150,230 Q200,180 250,230\" fill=\"none\" stroke=\"black\"/></svg>",
+      "report": {
+        "appearance": "イヴは、鮮やかな赤と黄色のグラデーションを持つ体に、白い腹部と黒い目が特徴的な女性の姿をしています。頭部には二つの黒い瞳を持ち、繊細な曲線で描かれた耳があります。四肢は白色で、しっかりとした足元に短い尾がついています。",
+        "reason": "イヴは、環境の変化に適応するために、美しいグラデーションと独特の目を持つよう進化しました。",
+        "thought": "『調和と美しさが全てを包み込む』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gradB\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" style=\"stop-color:rgb(0,0,255);stop-opacity:1\" /><stop offset=\"100%\" style=\"stop-color:rgb(0,255,255);stop-opacity:1\" /></linearGradient></defs><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"url(#gradB)\"/><ellipse cx=\"200\" cy=\"150\" rx=\"70\" ry=\"40\" fill=\"white\"/><ellipse cx=\"160\" cy=\"150\" rx=\"15\" ry=\"25\" fill=\"black\"/><ellipse cx=\"240\" cy=\"150\" rx=\"15\" ry=\"25\" fill=\"black\"/><ellipse cx=\"190\" cy=\"160\" rx=\"70\" ry=\"20\" fill=\"white\"/><path d=\"M160,250 Q200,320 240,250\" fill=\"none\" stroke=\"black\"/><path d=\"M180,210 Q200,180 220,210\" fill=\"none\" stroke=\"black\"/><polygon points=\"170,280 200,260 230,280\" fill=\"black\"/><circle cx=\"200\" cy=\"240\" r=\"5\" fill=\"black\"/><circle cx=\"185\" cy=\"145\" r=\"5\" fill=\"white\"/><circle cx=\"215\" cy=\"145\" r=\"5\" fill=\"white\"/><rect x=\"180\" y=\"275\" width=\"40\" height=\"20\" fill=\"black\"/><path d=\"M150,230 Q200,180 250,230\" fill=\"none\" stroke=\"black\"/></svg>",
+      "report": {
+        "appearance": "アダムは、深い青と水色のグラデーションを持つ体に、白い腹部と黒い目が特徴的な男性の姿をしています。頭部には二つの黒い瞳を持ち、繊細な曲線で描かれた耳があります。四肢は白色で、しっかりとした足元に短い尾がついています。",
+        "reason": "アダムは、環境の変化に適応するために、美しいグラデーションと独特の目を持つよう進化しました。",
+        "thought": "『静かなる深淵に秘められし知恵』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1755498468636
   }
 ]

@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gradA\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" style=\"stop-color:rgb(255,0,0);stop-opacity:1\" /><stop offset=\"100%\" style=\"stop-color:rgb(255,255,0);stop-opacity:1\" /></linearGradient></defs><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"url(#gradA)\"/><ellipse cx=\"200\" cy=\"150\" rx=\"70\" ry=\"40\" fill=\"white\"/><ellipse cx=\"160\" cy=\"150\" rx=\"15\" ry=\"25\" fill=\"black\"/><ellipse cx=\"240\" cy=\"150\" rx=\"15\" ry=\"25\" fill=\"black\"/><ellipse cx=\"200\" cy=\"160\" rx=\"50\" ry=\"20\" fill=\"white\"/><path d=\"M160,250 Q200,320 240,250\" fill=\"none\" stroke=\"black\"/><path d=\"M180,210 Q200,180 220,210\" fill=\"none\" stroke=\"black\"/><polygon points=\"170,280 200,260 230,280\" fill=\"black\"/><circle cx=\"200\" cy=\"240\" r=\"5\" fill=\"black\"/><circle cx=\"185\" cy=\"145\" r=\"5\" fill=\"white\"/><circle cx=\"215\" cy=\"145\" r=\"5\" fill=\"white\"/><rect x=\"180\" y=\"275\" width=\"40\" height=\"20\" fill=\"black\"/><path d=\"M150,230 Q200,180 250,230\" fill=\"none\" stroke=\"black\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='120' width='200' height='200' fill='#ffafaf' /><ellipse cx='200' cy='180' rx='80' ry='60' fill='#ffb6c1' /><circle cx='160' cy='175' r='10' fill='#ffffff' /><circle cx='240' cy='175' r='10' fill='#ffffff' /><path d='M160 220 Q200 250 240 220' fill='none' stroke='#ff0000' stroke-width='4' /><polygon points='180,200 200,220 220,200' fill='#ffafaf' /><rect x='150' y='270' width='100' height='50' fill='#ffb6c1' /><rect x='140' y='280' width='20' height='10' fill='#ffffff' /><rect x='240' y='280' width='20' height='10' fill='#ffffff' /></svg>",
     "report": {
-      "appearance": "イヴは、鮮やかな赤と黄色のグラデーションを持つ体に、白い腹部と黒い目が特徴的な女性の姿をしています。頭部には二つの黒い瞳を持ち、繊細な曲線で描かれた耳があります。四肢は白色で、しっかりとした足元に短い尾がついています。",
-      "reason": "イヴは、環境の変化に適応するために、美しいグラデーションと独特の目を持つよう進化しました。",
-      "thought": "『調和と美しさが全てを包み込む』"
+      "appearance": "イヴは、ピンク色の柔らかな肌と大きな赤い目を持つ女性。頭部には短い角があり、優雅な体つきとしなやかなしっぽが特徴的だ。",
+      "reason": "新たな生態系での適応を促すため、美しさと柔軟性が強調された進化が起こった。",
+      "thought": "『愛と美の力』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gradB\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" style=\"stop-color:rgb(0,0,255);stop-opacity:1\" /><stop offset=\"100%\" style=\"stop-color:rgb(0,255,255);stop-opacity:1\" /></linearGradient></defs><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"url(#gradB)\"/><ellipse cx=\"200\" cy=\"150\" rx=\"70\" ry=\"40\" fill=\"white\"/><ellipse cx=\"160\" cy=\"150\" rx=\"15\" ry=\"25\" fill=\"black\"/><ellipse cx=\"240\" cy=\"150\" rx=\"15\" ry=\"25\" fill=\"black\"/><ellipse cx=\"190\" cy=\"160\" rx=\"70\" ry=\"20\" fill=\"white\"/><path d=\"M160,250 Q200,320 240,250\" fill=\"none\" stroke=\"black\"/><path d=\"M180,210 Q200,180 220,210\" fill=\"none\" stroke=\"black\"/><polygon points=\"170,280 200,260 230,280\" fill=\"black\"/><circle cx=\"200\" cy=\"240\" r=\"5\" fill=\"black\"/><circle cx=\"185\" cy=\"145\" r=\"5\" fill=\"white\"/><circle cx=\"215\" cy=\"145\" r=\"5\" fill=\"white\"/><rect x=\"180\" y=\"275\" width=\"40\" height=\"20\" fill=\"black\"/><path d=\"M150,230 Q200,180 250,230\" fill=\"none\" stroke=\"black\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='120' width='200' height='200' fill='#afeeee' /><ellipse cx='200' cy='180' rx='80' ry='60' fill='#add8e6' /><circle cx='160' cy='175' r='10' fill='#ffffff' /><circle cx='240' cy='175' r='10' fill='#ffffff' /><path d='M160 220 Q200 250 240 220' fill='none' stroke='#0000ff' stroke-width='4' /><polygon points='180,200 200,220 220,200' fill='#afeeee' /><rect x='150' y='270' width='100' height='50' fill='#add8e6' /><path d='M140 280 L160 280 L150 290 Z' fill='#ffffff' /><path d='M240 280 L260 280 L250 290 Z' fill='#ffffff' /></svg>",
     "report": {
-      "appearance": "アダムは、深い青と水色のグラデーションを持つ体に、白い腹部と黒い目が特徴的な男性の姿をしています。頭部には二つの黒い瞳を持ち、繊細な曲線で描かれた耳があります。四肢は白色で、しっかりとした足元に短い尾がついています。",
-      "reason": "アダムは、環境の変化に適応するために、美しいグラデーションと独特の目を持つよう進化しました。",
-      "thought": "『静かなる深淵に秘められし知恵』"
+      "appearance": "アダムは、淡い青色の肌と穏やかな瞳を持つ男性。頭部には小さな角があり、力強い体つきとしなやかなしっぽが特徴的だ。",
+      "reason": "新たな環境での生存競争に適応するため、知性と力強さが強調された進化が起こった。",
+      "thought": "『知恵と力の調和』"
     },
     "name": "アダム",
     "gender": "男性"
