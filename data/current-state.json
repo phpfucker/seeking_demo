@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='100' width='120' height='200' fill='#ffcf9e'/><ellipse cx='200' cy='100' rx='50' ry='30' fill='#ffd5b8'/><polygon points='160,300 180,380 220,380 240,300' fill='#ffafcc'/><path d='M190 150 Q200 100 210 150 Q200 200 190 150' fill='#f9dbe0'/><circle cx='200' cy='90' r='10' fill='#ffffff'/><circle cx='180' cy='90' r='5' fill='#000000'/><circle cx='220' cy='90' r='5' fill='#000000'/><circle cx='190' cy='180' r='5' fill='#ffffff'/><circle cx='210' cy='180' r='5' fill='#ffffff'/></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gradA\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" style=\"stop-color:rgb(255,0,0);stop-opacity:1\" /><stop offset=\"100%\" style=\"stop-color:rgb(255,255,0);stop-opacity:1\" /></linearGradient></defs><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"url(#gradA)\"/><ellipse cx=\"200\" cy=\"150\" rx=\"70\" ry=\"40\" fill=\"white\"/><ellipse cx=\"160\" cy=\"150\" rx=\"15\" ry=\"25\" fill=\"black\"/><ellipse cx=\"240\" cy=\"150\" rx=\"15\" ry=\"25\" fill=\"black\"/><ellipse cx=\"200\" cy=\"160\" rx=\"50\" ry=\"20\" fill=\"white\"/><path d=\"M160,250 Q200,320 240,250\" fill=\"none\" stroke=\"black\"/><path d=\"M180,210 Q200,180 220,210\" fill=\"none\" stroke=\"black\"/><polygon points=\"170,280 200,260 230,280\" fill=\"black\"/><circle cx=\"200\" cy=\"240\" r=\"5\" fill=\"black\"/><circle cx=\"185\" cy=\"145\" r=\"5\" fill=\"white\"/><circle cx=\"215\" cy=\"145\" r=\"5\" fill=\"white\"/><rect x=\"180\" y=\"275\" width=\"40\" height=\"20\" fill=\"black\"/><path d=\"M150,230 Q200,180 250,230\" fill=\"none\" stroke=\"black\"/></svg>",
     "report": {
-      "appearance": "イヴは肌が桃色で、上半身が人間の女性のような形状を持ち、下半身は薄いピンク色の鱗で覆われています。頭には白いツノが生え、ソフトな表情を持った顔には大きな目と小さな口があります。",
-      "reason": "生態系の変化により、イヴは水中での生活に適応するため、鱗を持つように進化しました。",
-      "thought": "『調和と美しさ』"
+      "appearance": "イヴは、鮮やかな赤と黄色のグラデーションを持つ体に、白い腹部と黒い目が特徴的な女性の姿をしています。頭部には二つの黒い瞳を持ち、繊細な曲線で描かれた耳があります。四肢は白色で、しっかりとした足元に短い尾がついています。",
+      "reason": "イヴは、環境の変化に適応するために、美しいグラデーションと独特の目を持つよう進化しました。",
+      "thought": "『調和と美しさが全てを包み込む』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='100' width='120' height='200' fill='#a0e57c'/><ellipse cx='200' cy='100' rx='50' ry='30' fill='#7cc4a3'/><polygon points='160,300 180,380 220,380 240,300' fill='#5fa8d3'/><path d='M190 150 Q200 100 210 150 Q200 200 190 150' fill='#b1a3cf'/><circle cx='200' cy='90' r='10' fill='#ffffff'/><circle cx='180' cy='90' r='5' fill='#000000'/><circle cx='220' cy='90' r='5' fill='#000000'/><circle cx='190' cy='180' r='5' fill='#ffffff'/><circle cx='210' cy='180' r='5' fill='#ffffff'/></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gradB\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" style=\"stop-color:rgb(0,0,255);stop-opacity:1\" /><stop offset=\"100%\" style=\"stop-color:rgb(0,255,255);stop-opacity:1\" /></linearGradient></defs><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"url(#gradB)\"/><ellipse cx=\"200\" cy=\"150\" rx=\"70\" ry=\"40\" fill=\"white\"/><ellipse cx=\"160\" cy=\"150\" rx=\"15\" ry=\"25\" fill=\"black\"/><ellipse cx=\"240\" cy=\"150\" rx=\"15\" ry=\"25\" fill=\"black\"/><ellipse cx=\"190\" cy=\"160\" rx=\"70\" ry=\"20\" fill=\"white\"/><path d=\"M160,250 Q200,320 240,250\" fill=\"none\" stroke=\"black\"/><path d=\"M180,210 Q200,180 220,210\" fill=\"none\" stroke=\"black\"/><polygon points=\"170,280 200,260 230,280\" fill=\"black\"/><circle cx=\"200\" cy=\"240\" r=\"5\" fill=\"black\"/><circle cx=\"185\" cy=\"145\" r=\"5\" fill=\"white\"/><circle cx=\"215\" cy=\"145\" r=\"5\" fill=\"white\"/><rect x=\"180\" y=\"275\" width=\"40\" height=\"20\" fill=\"black\"/><path d=\"M150,230 Q200,180 250,230\" fill=\"none\" stroke=\"black\"/></svg>",
     "report": {
-      "appearance": "アダムは緑色の体と、人間の男性のような上半身を持ち、下半身は水色の鱗で覆われています。頭には青いツノが生え、穏やかな表情を持った顔には大きな目と小さな口があります。",
-      "reason": "アダムは陸上と水中の両方で生活できるように、水生と陸生の特徴を併せ持つ進化を遂げました。",
-      "thought": "『平和と調和』"
+      "appearance": "アダムは、深い青と水色のグラデーションを持つ体に、白い腹部と黒い目が特徴的な男性の姿をしています。頭部には二つの黒い瞳を持ち、繊細な曲線で描かれた耳があります。四肢は白色で、しっかりとした足元に短い尾がついています。",
+      "reason": "アダムは、環境の変化に適応するために、美しいグラデーションと独特の目を持つよう進化しました。",
+      "thought": "『静かなる深淵に秘められし知恵』"
     },
     "name": "アダム",
     "gender": "男性"

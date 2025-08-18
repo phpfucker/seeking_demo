@@ -9021,5 +9021,28 @@
       "gender": "男性"
     },
     "timestamp": 1755454915258
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='100' width='120' height='200' fill='#ffcf9e'/><ellipse cx='200' cy='100' rx='50' ry='30' fill='#ffd5b8'/><polygon points='160,300 180,380 220,380 240,300' fill='#ffafcc'/><path d='M190 150 Q200 100 210 150 Q200 200 190 150' fill='#f9dbe0'/><circle cx='200' cy='90' r='10' fill='#ffffff'/><circle cx='180' cy='90' r='5' fill='#000000'/><circle cx='220' cy='90' r='5' fill='#000000'/><circle cx='190' cy='180' r='5' fill='#ffffff'/><circle cx='210' cy='180' r='5' fill='#ffffff'/></svg>",
+      "report": {
+        "appearance": "イヴは肌が桃色で、上半身が人間の女性のような形状を持ち、下半身は薄いピンク色の鱗で覆われています。頭には白いツノが生え、ソフトな表情を持った顔には大きな目と小さな口があります。",
+        "reason": "生態系の変化により、イヴは水中での生活に適応するため、鱗を持つように進化しました。",
+        "thought": "『調和と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='100' width='120' height='200' fill='#a0e57c'/><ellipse cx='200' cy='100' rx='50' ry='30' fill='#7cc4a3'/><polygon points='160,300 180,380 220,380 240,300' fill='#5fa8d3'/><path d='M190 150 Q200 100 210 150 Q200 200 190 150' fill='#b1a3cf'/><circle cx='200' cy='90' r='10' fill='#ffffff'/><circle cx='180' cy='90' r='5' fill='#000000'/><circle cx='220' cy='90' r='5' fill='#000000'/><circle cx='190' cy='180' r='5' fill='#ffffff'/><circle cx='210' cy='180' r='5' fill='#ffffff'/></svg>",
+      "report": {
+        "appearance": "アダムは緑色の体と、人間の男性のような上半身を持ち、下半身は水色の鱗で覆われています。頭には青いツノが生え、穏やかな表情を持った顔には大きな目と小さな口があります。",
+        "reason": "アダムは陸上と水中の両方で生活できるように、水生と陸生の特徴を併せ持つ進化を遂げました。",
+        "thought": "『平和と調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1755480256848
   }
 ]
