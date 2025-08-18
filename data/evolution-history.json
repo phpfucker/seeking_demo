@@ -9090,5 +9090,28 @@
       "gender": "男性"
     },
     "timestamp": 1755520542638
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='lightpink' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='pink' /><path d='M120,240 L95,275 L110,290 Q120,300 150,290 Q180,280 170,250 L150,240 Z' fill='pink' /><polygon points='150,210 140,240 160,240' fill='pink' /><rect x='160' y='230' width='10' height='40' fill='pink' /><circle cx='185' cy='280' r='5' fill='black' /><circle cx='215' cy='280' r='5' fill='black' /><path d='M170,150 Q150,100 180,80 Q210,100 200,150 Z' fill='pink' /><circle cx='180' cy='180' r='10' fill='black' /><circle cx='220' cy='180' r='10' fill='black' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな体と大きな目を持つ女性の姿をしています。体は丸みを帯び、優しい雰囲気を醸し出しています。",
+        "reason": "環境の変化により、イヴは優しさや柔らかさを重視した進化を遂げました。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='lightblue' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='skyblue' /><path d='M120,240 L95,275 L110,290 Q120,300 150,290 Q180,280 170,250 L150,240 Z' fill='skyblue' /><polygon points='150,210 140,240 160,240' fill='skyblue' /><rect x='160' y='230' width='10' height='40' fill='skyblue' /><circle cx='185' cy='280' r='5' fill='black' /><circle cx='215' cy='280' r='5' fill='black' /><path d='M170,150 Q150,100 180,80 Q210,100 200,150 Z' fill='skyblue' /><circle cx='180' cy='180' r='10' fill='black' /><circle cx='220' cy='180' r='10' fill='black' /></svg>",
+      "report": {
+        "appearance": "アダムは、スカイブルーの体と優しい表情を持つ男性の姿をしています。体の形状は女性の姿と似ていますが、男性らしい特徴も見られます。",
+        "reason": "繁殖競争において、アダムは優しさと柔和な表情を持つことで、他の生命体に対して穏やかな印象を与えるために進化しました。",
+        "thought": "『調和と誠実』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1755541490873
   }
 ]
