@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,0,0);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,255,0);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='200' cy='200' rx='100' ry='130' fill='white' /><polygon points='150,180 250,180 200,300' fill='#ff99cc' /><rect x='170' y='220' width='60' height='100' fill='#ff99cc' /><circle cx='170' cy='320' r='10' fill='black' /><circle cx='230' cy='320' r='10' fill='black' /><path d='M180 170 Q200 140 220 170 C230 180 230 200 220 220 Q200 250 180 220 C170 200 170 180 180 170' fill='none' stroke='black' stroke-width='2' /><path d='M180 210 Q190 200 200 210 Q210 220 200 230 Q190 240 180 230 Q170 220 180 210' fill='none' stroke='black' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFC0CB' /><ellipse cx='200' cy='150' rx='100' ry='150' fill='#FFA07A' /><rect x='160' y='230' width='80' height='50' fill='#FFA07A' /><polygon points='200,50 240,150 160,150' fill='#FFC0CB' /><path d='M150 250 Q200 300 250 250 Q200 200 150 250 Z' fill='#FFC0CB' /><line x1='170' y1='50' x2='220' y2='50' stroke='#000' stroke-width='3' /><line x1='160' y1='120' x2='130' y2='170' stroke='#000' stroke-width='3' /><line x1='240' y1='120' x2='270' y2='170' stroke='#000' stroke-width='3' /><line x1='180' y1='280' x2='180' y2='320' stroke='#000' stroke-width='3' /><line x1='220' y1='280' x2='220' y2='320' stroke='#000' stroke-width='3' /></svg>",
     "report": {
-      "appearance": "イヴは優美な女性の姿をしており、赤と黄色のグラデーションの肌を持ち、ピンクと紫の服を身に着けています。体には白い楕円形の模様があり、しなやかな角が生えています。",
-      "reason": "イヴは進化の過程で、美しさと力強さを兼ね備えた新たな特徴を獲得しました。",
-      "thought": "『命の芸術』"
+      "appearance": "イヴは、ピンク色の体とオレンジ色の髪を持つ女性で、優雅で柔らかな特徴があります。頭には三角形の角が生え、瞳は大きく優しい表情をしています。体の下部にはオレンジ色の長いしっぽがあります。",
+      "reason": "進化の理由は、イヴが新たな生態系に適応し、より華やかで魅力的な姿に進化したためです。",
+      "thought": "『調和と美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='160' fill='#0099ff' /><ellipse cx='200' cy='200' rx='100' ry='140' fill='#ffe0bd' /><polygon points='140,200 200,300 260,200' fill='#99ccff' /><rect x='180' y='220' width='40' height='100' fill='#99ccff' /><circle cx='190' cy='320' r='10' fill='black' /><circle cx='210' cy='320' r='10' fill='black' /><path d='M180 180 Q200 150 220 180 C230 190 230 210 220 230 Q200 260 180 230 C170 210 170 190 180 180' fill='none' stroke='black' stroke-width='2' /><path d='M180 210 Q190 200 200 210 Q210 220 200 230 Q190 240 180 230 Q170 220 180 210' fill='none' stroke='black' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#4682B4' /><ellipse cx='200' cy='150' rx='100' ry='150' fill='#87CEEB' /><rect x='160' y='230' width='80' height='50' fill='#87CEEB' /><polygon points='200,50 240,150 160,150' fill='#4682B4' /><path d='M150 250 Q200 300 250 250 Q200 200 150 250 Z' fill='#4682B4' /><line x1='170' y1='50' x2='220' y2='50' stroke='#000' stroke-width='3' /><line x1='160' y1='120' x2='130' y2='170' stroke='#000' stroke-width='3' /><line x1='240' y1='120' x2='270' y2='170' stroke='#000' stroke-width='3' /><line x1='180' y1='280' x2='180' y2='320' stroke='#000' stroke-width='3' /><line x1='220' y1='280' x2='220' y2='320' stroke='#000' stroke-width='3' /></svg>",
     "report": {
-      "appearance": "アダムは力強い男性の姿をしており、青色の肌とオレンジ色の顔を持ち、青と白の服を身に着けています。体には水色の楕円形の模様があり、頭には角があります。",
-      "reason": "アダムは進化の過程で、力強さと知恵を結集した新たな姿として進化しました。",
-      "thought": "『知恵と力』"
+      "appearance": "アダムは、青色の体と空色の髪を持つ男性で、強靭で逞しい特徴があります。頭には三角形の角が生え、瞳は鋭く力強い表情をしています。体の下部には空色の長いしっぽがあります。",
+      "reason": "進化の理由は、アダムが新たな環境においてより力強く、防御的な特性を持つ必要が生じたためです。",
+      "thought": "『力と誇り』"
     },
     "name": "アダム",
     "gender": "男性"
