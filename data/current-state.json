@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFC0CB' /><ellipse cx='200' cy='150' rx='100' ry='150' fill='#FFA07A' /><rect x='160' y='230' width='80' height='50' fill='#FFA07A' /><polygon points='200,50 240,150 160,150' fill='#FFC0CB' /><path d='M150 250 Q200 300 250 250 Q200 200 150 250 Z' fill='#FFC0CB' /><line x1='170' y1='50' x2='220' y2='50' stroke='#000' stroke-width='3' /><line x1='160' y1='120' x2='130' y2='170' stroke='#000' stroke-width='3' /><line x1='240' y1='120' x2='270' y2='170' stroke='#000' stroke-width='3' /><line x1='180' y1='280' x2='180' y2='320' stroke='#000' stroke-width='3' /><line x1='220' y1='280' x2='220' y2='320' stroke='#000' stroke-width='3' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#ffcccb' /><circle cx='200' cy='200' r='150' fill='#ff9999' /><ellipse cx='150' cy='180' rx='30' ry='20' fill='#ffd9e6' /><ellipse cx='250' cy='180' rx='30' ry='20' fill='#ffd9e6' /><path d='M150 280 Q200 320 250 280 L230 300 L170 300 Z' fill='#ff6666' /><path d='M150 280 Q200 320 250 280 L210 320 L190 320 Z' fill='#ffcccc' /><circle cx='170' cy='180' r='10' fill='#ffffff' /><circle cx='230' cy='180' r='10' fill='#ffffff' /><circle cx='170' cy='180' r='5' fill='#333333' /><circle cx='230' cy='180' r='5' fill='#333333' /><path d='M150 220 Q200 250 250 220' fill='none' stroke='#333333' stroke-width='2' /><path d='M154 225 Q200 240 246 225' fill='none' stroke='#333333' stroke-width='2' /><path d='M158 230 Q200 230 242 230' fill='none' stroke='#333333' stroke-width='2' /><line x1='170' y1='310' x2='230' y2='310' stroke='#333333' stroke-width='5' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の体とオレンジ色の髪を持つ女性で、優雅で柔らかな特徴があります。頭には三角形の角が生え、瞳は大きく優しい表情をしています。体の下部にはオレンジ色の長いしっぽがあります。",
-      "reason": "進化の理由は、イヴが新たな生態系に適応し、より華やかで魅力的な姿に進化したためです。",
-      "thought": "『調和と美しさ』"
+      "appearance": "イヴは、ピンク色の柔らかな肌を持つ女性で、大きな赤い目と二つの白い角が特徴です。体は丸く愛らしい形状であり、手足は短く丸みを帯びています。背中には赤い模様が施され、しっぽは短くてふわふわです。",
+      "reason": "新たな進化が起こったのは、繊細な感性と愛情がさらに強化され、より親しみやすく魅力的な個体として進化したためです。",
+      "thought": "『やさしさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#4682B4' /><ellipse cx='200' cy='150' rx='100' ry='150' fill='#87CEEB' /><rect x='160' y='230' width='80' height='50' fill='#87CEEB' /><polygon points='200,50 240,150 160,150' fill='#4682B4' /><path d='M150 250 Q200 300 250 250 Q200 200 150 250 Z' fill='#4682B4' /><line x1='170' y1='50' x2='220' y2='50' stroke='#000' stroke-width='3' /><line x1='160' y1='120' x2='130' y2='170' stroke='#000' stroke-width='3' /><line x1='240' y1='120' x2='270' y2='170' stroke='#000' stroke-width='3' /><line x1='180' y1='280' x2='180' y2='320' stroke='#000' stroke-width='3' /><line x1='220' y1='280' x2='220' y2='320' stroke='#000' stroke-width='3' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#c4e1ff' /><circle cx='200' cy='200' r='150' fill='#99ccff' /><ellipse cx='150' cy='180' rx='30' ry='20' fill='#e6f7ff' /><ellipse cx='250' cy='180' rx='30' ry='20' fill='#e6f7ff' /><path d='M150 280 Q200 320 250 280 L230 300 L170 300 Z' fill='#0077e6' /><path d='M150 280 Q200 320 250 280 L210 320 L190 320 Z' fill='#66b3ff' /><circle cx='170' cy='180' r='10' fill='#ffffff' /><circle cx='230' cy='180' r='10' fill='#ffffff' /><circle cx='170' cy='180' r='5' fill='#333333' /><circle cx='230' cy='180' r='5' fill='#333333' /><path d='M150 220 Q200 250 250 220' fill='none' stroke='#333333' stroke-width='2' /><path d='M154 225 Q200 240 246 225' fill='none' stroke='#333333' stroke-width='2' /><path d='M158 230 Q200 230 242 230' fill='none' stroke='#333333' stroke-width='2' /><line x1='170' y1='310' x2='230' y2='310' stroke='#333333' stroke-width='5' /></svg>",
     "report": {
-      "appearance": "アダムは、青色の体と空色の髪を持つ男性で、強靭で逞しい特徴があります。頭には三角形の角が生え、瞳は鋭く力強い表情をしています。体の下部には空色の長いしっぽがあります。",
-      "reason": "進化の理由は、アダムが新たな環境においてより力強く、防御的な特性を持つ必要が生じたためです。",
-      "thought": "『力と誇り』"
+      "appearance": "アダムは、青色の爽やかな肌を持つ男性で、大きな青い目と二つの白い角が特徴です。体は男性らしい筋肉質な形状であり、手足はしっかりとした造りです。背中には青い模様が施され、しっぽは太くて力強いです。",
+      "reason": "進化は、知識と冷静な判断力の向上により、より知的で頼りがいのある個体として進化したためです。",
+      "thought": "『知恵』"
     },
     "name": "アダム",
     "gender": "男性"
