@@ -9274,5 +9274,28 @@
       "gender": "男性"
     },
     "timestamp": 1755693188375
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><rect x='150' y='100' width='100' height='200' fill='#ff80ab'/><ellipse cx='200' cy='150' rx='50' ry='70' fill='#ffb8c6'/><path d='M200 220 L180 270 L220 270 Z' fill='#ff80ab'/><path d='M150 240 Q200 290 250 240 T350 240 Z' fill='#ffb8c6'/><polyline points='170,220 160,210 180,210' fill='none' stroke='#ff80ab' stroke-width='2'/><polyline points='230,220 220,210 240,210' fill='none' stroke='#ff80ab' stroke-width='2'/><line x1='165' y1='300' x2='135' y2='250' stroke='#ff80ab' stroke-width='4'/><line x1='235' y1='300' x2='265' y2='250' stroke='#ff80ab' stroke-width='4'/><line x1='200' y1='300' x2='200' y2='350' stroke='#ff80ab' stroke-width='4'/><circle cx='200' cy='150' r='5' fill='#000'/></g></svg>",
+      "report": {
+        "appearance": "イヴは、桃色のふんわりとしたスカートを身にまとい、ふんわりとしたピンクの髪を持つ美しい女性の姿をしています。背中には小さな羽があり、愛らしい笑顔を浮かべています。",
+        "reason": "進化の過程で、イヴはより優美で華やかな姿を求め、内なる美しさを表現するために進化しました。",
+        "thought": "『優しさと美しさを守ります』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><rect x='150' y='100' width='100' height='200' fill='#7fbfff'/><ellipse cx='200' cy='150' rx='50' ry='70' fill='#b8d1ff'/><path d='M200 220 L180 270 L220 270 Z' fill='#7fbfff'/><path d='M150 240 Q200 290 250 240 T350 240 Z' fill='#b8d1ff'/><polyline points='170,220 160,210 180,210' fill='none' stroke='#7fbfff' stroke-width='2'/><polyline points='230,220 220,210 240,210' fill='none' stroke='#7fbfff' stroke-width='2'/><line x1='165' y1='300' x2='135' y2='250' stroke='#7fbfff' stroke-width='4'/><line x1='235' y1='300' x2='265' y2='250' stroke='#7fbfff' stroke-width='4'/><line x1='200' y1='300' x2='200' y2='350' stroke='#7fbfff' stroke-width='4'/><circle cx='200' cy='150' r='5' fill='#000'/></g></svg>",
+      "report": {
+        "appearance": "アダムは、青色の力強いスカートを身にまとい、逞しい青い角を持つ男性の姿をしています。背中には大きな羽があり、優しい表情を浮かべています。",
+        "reason": "アダムはより力強く逞しい姿を目指し、内面の強さと優しさを表現するために進化しました。",
+        "thought": "『強さと優しさで未来を切り開く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1755714191566
   }
 ]
