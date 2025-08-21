@@ -9366,5 +9366,28 @@
       "gender": "男性"
     },
     "timestamp": 1755779563613
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffccd1'/><path d='M200 100 C150 50,250 50,200 100' fill='#efb2ba'/><polygon points='150,170 200,100 250,170' fill='#ffccd1'/><ellipse cx='200' cy='200' rx='50' ry='70' fill='#ffccd1'/><circle cx='180' cy='190' r='8' fill='#ffffff'/><circle cx='220' cy='190' r='8' fill='#ffffff'/><path d='M170 220 Q200 250,230 220' fill='none' stroke='#000000'/><path d='M170 220 Q200 240,230 220' fill='none' stroke='#000000'/><line x1='170' y1='270' x2='230' y2='270' stroke='#000000' stroke-width='2'/><rect x='150' y='320' width='100' height='30' fill='#ffccd1'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌を持つ女性型生命体です。体は丸みを帯びた一般的な形状で、長い髪と大きな目を持っています。手足はやや短めで、しっぽとして尾があります。全体的に柔らかな印象を与える外見を持ちます。",
+        "reason": "進化が起こった理由は、環境の変化により、より親密なコミュニケーションをとる必要性が高まったためです。",
+        "thought": "『つながり』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#b8d6ba'/><path d='M200 100 C150 50,250 50,200 100' fill='#9fc5a8'/><polygon points='150,170 200,100 250,170' fill='#b8d6ba'/><ellipse cx='200' cy='200' rx='50' ry='70' fill='#b8d6ba'/><circle cx='180' cy='190' r='8' fill='#ffffff'/><circle cx='220' cy='190' r='8' fill='#ffffff'/><path d='M170 220 Q200 250,230 220' fill='none' stroke='#000000'/><path d='M170 220 Q200 240,230 220' fill='none' stroke='#000000'/><line x1='170' y1='270' x2='230' y2='270' stroke='#000000' stroke-width='2'/><rect x='150' y='320' width='100' height='30' fill='#b8d6ba'/></svg>",
+      "report": {
+        "appearance": "アダムは、緑色の肌を持つ男性型生命体です。体の形状はイヴと似ており、独自の色彩と模様を持っています。顔はマスクのような模様が描かれ、手足はやや太めです。しっぽとして尾があり、角が一対生えています。",
+        "reason": "進化が起こった理由は、狩猟や防御の必要性から、より力強く頼りになる外見が選択されたためです。",
+        "thought": "『力強さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1755800585859
   }
 ]
