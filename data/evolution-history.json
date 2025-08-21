@@ -9343,5 +9343,28 @@
       "gender": "男性"
     },
     "timestamp": 1755758043498
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='200' width='200' height='150' fill='#ffcccb'/><path d='M200,50 C250,0 300,0 300,50 C300,100 250,100 200,50 Z' fill='#ff9999'/><circle cx='200' cy='150' r='50' fill='#ffb6c1'/><circle cx='170' cy='140' r='5' fill='#000'/><circle cx='230' cy='140' r='5' fill='#000'/><path d='M180,150 Q200,120 220,150' fill='none' stroke='#000' stroke-width='2'/><path d='M190,170 Q200,190 210,170' fill='none' stroke='#000' stroke-width='2'/><line x1='180' y1='200' x2='170' y2='220' stroke='#000' stroke-width='2'/><line x1='220' y1='200' x2='230' y2='220' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、赤い髪の毛を頭の上に伸ばしています。頭部は円形で、大きな目と小さな口を持ち、柔らかな表情をしています。胴体は赤い色のドレスを着ており、手は細く、指先には小さな爪があります。足は長く、裸足です。",
+        "reason": "イヴは自然界の美しさと気品を象徴する進化を遂げました。",
+        "thought": "『調和と愛』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='200' width='200' height='150' fill='#add8e6'/><polygon points='200,50 250,0 300,50' fill='#87ceeb'/><circle cx='200' cy='150' r='50' fill='#afeeee'/><circle cx='170' cy='140' r='5' fill='#000'/><circle cx='230' cy='140' r='5' fill='#000'/><path d='M180,150 Q200,120 220,150' fill='none' stroke='#000' stroke-width='2'/><path d='M190,170 Q200,190 210,170' fill='none' stroke='#000' stroke-width='2'/><line x1='180' y1='200' x2='170' y2='220' stroke='#000' stroke-width='2'/><line x1='220' y1='200' x2='230' y2='220' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い色の肌を持ち、頭部に三角形の角を持っています。頭部は大きく、目は鋭く、口元は厳格な表情をしています。胴体には青いマントを纏い、手には力強い筋肉が発達しています。足は太く、獣のような蹴り足です。",
+        "reason": "アダムは力強い姿勢と知恵を象徴する進化を遂げました。",
+        "thought": "『誇りと勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1755779563613
   }
 ]
