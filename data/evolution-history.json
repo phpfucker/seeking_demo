@@ -9458,5 +9458,28 @@
       "gender": "男性"
     },
     "timestamp": 1755865901034
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#FFB6C1'/><ellipse cx='200' cy='180' rx='70' ry='100' fill='#FF69B4'/><path d='M180,250 L190,260 L210,260 L220,250 L210,240 L190,240 Z' fill='#FFFFFF'/><polygon points='170,170 230,170 200,140' fill='#FFFFFF'/><circle cx='170' cy='180' r='10' fill='#FF69B4'/><circle cx='230' cy='180' r='10' fill='#FF69B4'/><line x1='180' y1='220' x2='220' y2='220' stroke='#FFFFFF' stroke-width='5'/><line x1='160' y1='220' x2='140' y2='250' stroke='#FFFFFF' stroke-width='5'/><line x1='240' y1='220' x2='260' y2='250' stroke='#FFFFFF' stroke-width='5'/><line x1='180' y1='280' x2='180' y2='300' stroke='#FFFFFF' stroke-width='5'/><line x1='220' y1='280' x2='220' y2='300' stroke='#FFFFFF' stroke-width='5'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、細長い体に大きな桃色の眼が特徴の女性型生命体です。頭部に白いふわふわの耳と、白い光る角を持つ。体は赤いドレスのような外見で、手足は幾何学的な模様で飾られています。",
+        "reason": "新たな進化の一環として、イヴはより美しく、かつ神秘的な外見を手に入れることで、環境においてより強い魅力を持つためです。",
+        "thought": "『幸せな未来へ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#4682B4'/><ellipse cx='200' cy='180' rx='70' ry='100' fill='#4169E1'/><path d='M180,250 L190,260 L210,260 L220,250 L210,240 L190,240 Z' fill='#FFFFFF'/><polygon points='170,170 230,170 200,140' fill='#FFFFFF'/><circle cx='170' cy='180' r='10' fill='#4169E1'/><circle cx='230' cy='180' r='10' fill='#4169E1'/><line x1='180' y1='220' x2='220' y2='220' stroke='#FFFFFF' stroke-width='5'/><line x1='160' y1='220' x2='140' y2='250' stroke='#FFFFFF' stroke-width='5'/><line x1='240' y1='220' x2='260' y2='250' stroke='#FFFFFF' stroke-width='5'/><line x1='180' y1='280' x2='180' y2='300' stroke='#FFFFFF' stroke-width='5'/><line x1='220' y1='280' x2='220' y2='300' stroke='#FFFFFF' stroke-width='5'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い金属のような肌を持ち、頑強な体つきと深い青の眼が特徴の男性型生命体です。頭部には尖った金属の角があり、全体的に凛々しい外見をしています。体は濃い青色の装甲のような外観で、手足には幾何学的な模様が施されています。",
+        "reason": "進化のプロセスにより、アダムはより強靭な外観を手に入れ、環境への適応性と生存力を高めるためです。",
+        "thought": "『未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1755886922166
   }
 ]

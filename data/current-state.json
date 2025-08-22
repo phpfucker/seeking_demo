@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#FFB6C1'/><ellipse cx='200' cy='180' rx='70' ry='100' fill='#FF69B4'/><path d='M180,250 L190,260 L210,260 L220,250 L210,240 L190,240 Z' fill='#FFFFFF'/><polygon points='170,170 230,170 200,140' fill='#FFFFFF'/><circle cx='170' cy='180' r='10' fill='#FF69B4'/><circle cx='230' cy='180' r='10' fill='#FF69B4'/><line x1='180' y1='220' x2='220' y2='220' stroke='#FFFFFF' stroke-width='5'/><line x1='160' y1='220' x2='140' y2='250' stroke='#FFFFFF' stroke-width='5'/><line x1='240' y1='220' x2='260' y2='250' stroke='#FFFFFF' stroke-width='5'/><line x1='180' y1='280' x2='180' y2='300' stroke='#FFFFFF' stroke-width='5'/><line x1='220' y1='280' x2='220' y2='300' stroke='#FFFFFF' stroke-width='5'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='none'><rect x='100' y='100' width='200' height='200' fill='#FFC0CB'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='#FF69B4'/><path d='M160 250 Q200 300 240 250' fill='none' stroke='#FF69B4' stroke-width='2'/><path d='M160 250 Q200 200 240 250' fill='none' stroke='#FF69B4' stroke-width='2'/><ellipse cx='165' cy='185' rx='10' ry='5' fill='#FFFFFF'/><ellipse cx='235' cy='185' rx='10' ry='5' fill='#FFFFFF'/><path d='M160 250 Q200 230 240 250' fill='none' stroke='#000000' stroke-width='2'/><path d='M160 250 Q200 270 240 250' fill='none' stroke='#000000' stroke-width='2'/><polygon points='180,270 220,270 200,300' fill='#FF69B4'/><ellipse cx='180' cy='180' rx='15' ry='25' fill='#000000'/><ellipse cx='220' cy='180' rx='15' ry='25' fill='#000000'/><circle cx='190' cy='200' r='5' fill='#FFFFFF'/><circle cx='210' cy='200' r='5' fill='#FFFFFF'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな肌を持ち、細長い体に大きな桃色の眼が特徴の女性型生命体です。頭部に白いふわふわの耳と、白い光る角を持つ。体は赤いドレスのような外見で、手足は幾何学的な模様で飾られています。",
-      "reason": "新たな進化の一環として、イヴはより美しく、かつ神秘的な外見を手に入れることで、環境においてより強い魅力を持つためです。",
-      "thought": "『幸せな未来へ』"
+      "appearance": "イヴはピンク色の体と紫色の長い髪を持つ女性で、背中に小さな白い羽が生えています。顔には二つの白い眼と口があり、愛らしい笑顔をしています。四肢はしなやかで、手にはピンク色の爪があります。",
+      "reason": "進化の理由は、環境の変化によりイヴの生存率を高めるため、より優れた適応力を持つ特徴が選択されたためです。",
+      "thought": "『生命の誕生』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#4682B4'/><ellipse cx='200' cy='180' rx='70' ry='100' fill='#4169E1'/><path d='M180,250 L190,260 L210,260 L220,250 L210,240 L190,240 Z' fill='#FFFFFF'/><polygon points='170,170 230,170 200,140' fill='#FFFFFF'/><circle cx='170' cy='180' r='10' fill='#4169E1'/><circle cx='230' cy='180' r='10' fill='#4169E1'/><line x1='180' y1='220' x2='220' y2='220' stroke='#FFFFFF' stroke-width='5'/><line x1='160' y1='220' x2='140' y2='250' stroke='#FFFFFF' stroke-width='5'/><line x1='240' y1='220' x2='260' y2='250' stroke='#FFFFFF' stroke-width='5'/><line x1='180' y1='280' x2='180' y2='300' stroke='#FFFFFF' stroke-width='5'/><line x1='220' y1='280' x2='220' y2='300' stroke='#FFFFFF' stroke-width='5'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='none'><rect x='100' y='100' width='200' height='200' fill='#ADD8E6'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='#4169E1'/><path d='M160 250 Q200 300 240 250' fill='none' stroke='#4169E1' stroke-width='2'/><path d='M160 250 Q200 200 240 250' fill='none' stroke='#4169E1' stroke-width='2'/><ellipse cx='165' cy='185' rx='10' ry='5' fill='#FFFFFF'/><ellipse cx='235' cy='185' rx='10' ry='5' fill='#FFFFFF'/><path d='M160 250 Q200 230 240 250' fill='none' stroke='#000000' stroke-width='2'/><path d='M160 250 Q200 270 240 250' fill='none' stroke='#000000' stroke-width='2'/><polygon points='180,270 220,270 200,300' fill='#4169E1'/><ellipse cx='180' cy='180' rx='15' ry='25' fill='#000000'/><ellipse cx='220' cy='180' rx='15' ry='25' fill='#000000'/><circle cx='190' cy='200' r='5' fill='#FFFFFF'/><circle cx='210' cy='200' r='5' fill='#FFFFFF'/></svg>",
     "report": {
-      "appearance": "アダムは、青い金属のような肌を持ち、頑強な体つきと深い青の眼が特徴の男性型生命体です。頭部には尖った金属の角があり、全体的に凛々しい外見をしています。体は濃い青色の装甲のような外観で、手足には幾何学的な模様が施されています。",
-      "reason": "進化のプロセスにより、アダムはより強靭な外観を手に入れ、環境への適応性と生存力を高めるためです。",
-      "thought": "『未来を切り拓く』"
+      "appearance": "アダムは青色の体と濃い青色の短い髪を持つ男性で、背中に小さな青い羽が生えています。顔には二つの白い眼と口があり、穏やかな表情をしています。四肢は力強く、手には青色の爪があります。",
+      "reason": "進化の理由は、繁殖成功率を高めるため、より強靭で効率的な特徴が選択されたためです。",
+      "thought": "『永遠の探求』"
     },
     "name": "アダム",
     "gender": "男性"
