@@ -9481,5 +9481,28 @@
       "gender": "男性"
     },
     "timestamp": 1755886922166
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='none'><rect x='100' y='100' width='200' height='200' fill='#FFC0CB'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='#FF69B4'/><path d='M160 250 Q200 300 240 250' fill='none' stroke='#FF69B4' stroke-width='2'/><path d='M160 250 Q200 200 240 250' fill='none' stroke='#FF69B4' stroke-width='2'/><ellipse cx='165' cy='185' rx='10' ry='5' fill='#FFFFFF'/><ellipse cx='235' cy='185' rx='10' ry='5' fill='#FFFFFF'/><path d='M160 250 Q200 230 240 250' fill='none' stroke='#000000' stroke-width='2'/><path d='M160 250 Q200 270 240 250' fill='none' stroke='#000000' stroke-width='2'/><polygon points='180,270 220,270 200,300' fill='#FF69B4'/><ellipse cx='180' cy='180' rx='15' ry='25' fill='#000000'/><ellipse cx='220' cy='180' rx='15' ry='25' fill='#000000'/><circle cx='190' cy='200' r='5' fill='#FFFFFF'/><circle cx='210' cy='200' r='5' fill='#FFFFFF'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体と紫色の長い髪を持つ女性で、背中に小さな白い羽が生えています。顔には二つの白い眼と口があり、愛らしい笑顔をしています。四肢はしなやかで、手にはピンク色の爪があります。",
+        "reason": "進化の理由は、環境の変化によりイヴの生存率を高めるため、より優れた適応力を持つ特徴が選択されたためです。",
+        "thought": "『生命の誕生』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='none'><rect x='100' y='100' width='200' height='200' fill='#ADD8E6'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='#4169E1'/><path d='M160 250 Q200 300 240 250' fill='none' stroke='#4169E1' stroke-width='2'/><path d='M160 250 Q200 200 240 250' fill='none' stroke='#4169E1' stroke-width='2'/><ellipse cx='165' cy='185' rx='10' ry='5' fill='#FFFFFF'/><ellipse cx='235' cy='185' rx='10' ry='5' fill='#FFFFFF'/><path d='M160 250 Q200 230 240 250' fill='none' stroke='#000000' stroke-width='2'/><path d='M160 250 Q200 270 240 250' fill='none' stroke='#000000' stroke-width='2'/><polygon points='180,270 220,270 200,300' fill='#4169E1'/><ellipse cx='180' cy='180' rx='15' ry='25' fill='#000000'/><ellipse cx='220' cy='180' rx='15' ry='25' fill='#000000'/><circle cx='190' cy='200' r='5' fill='#FFFFFF'/><circle cx='210' cy='200' r='5' fill='#FFFFFF'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の体と濃い青色の短い髪を持つ男性で、背中に小さな青い羽が生えています。顔には二つの白い眼と口があり、穏やかな表情をしています。四肢は力強く、手には青色の爪があります。",
+        "reason": "進化の理由は、繁殖成功率を高めるため、より強靭で効率的な特徴が選択されたためです。",
+        "thought": "『永遠の探求』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1755911508023
   }
 ]
