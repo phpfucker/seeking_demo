@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"50\" width=\"200\" height=\"300\" fill=\"#fffae6\"/><ellipse cx=\"200\" cy=\"150\" rx=\"80\" ry=\"100\" fill=\"#ffd699\"/><circle cx=\"150\" cy=\"120\" r=\"10\" fill=\"#000\"/><circle cx=\"250\" cy=\"120\" r=\"10\" fill=\"#000\"/><path d=\"M180 200 Q200 260 220 200 Q200 260 180 200\" fill=\"none\" stroke=\"#ffd699\"/><path d=\"M170 300 Q200 330 230 300 Q200 330 170 300\" fill=\"none\" stroke=\"#ffd699\"/><path d=\"M200 300 Q190 320 200 330 Q210 320 200 300\" fill=\"none\" stroke=\"#ffd699\"/><path d=\"M150 250 Q80 220 60 300 Q100 280 150 250\" fill=\"none\" stroke=\"#ffd699\"/><path d=\"M250 250 Q320 220 340 300 Q300 280 250 250\" fill=\"none\" stroke=\"#ffd699\"/><polygon points=\"180,120 190,130 170,130\" fill=\"#ff8080\"/><polygon points=\"220,120 230,130 210,130\" fill=\"#ff8080\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><rect x='120' y='200' width='160' height='120' fill='#ff99cc' /><ellipse cx='200' cy='150' rx='80' ry='40' fill='#ff99cc' /><polygon points='150,320 250,320 200,400' fill='#ff66cc' /><rect x='150' y='80' width='100' height='20' fill='#ff66cc' /><circle cx='175' cy='160' r='10' fill='#ffffff' /><circle cx='225' cy='160' r='10' fill='#ffffff' /><path d='M170 210 Q200 230 230 210' fill='none' stroke='#ff66cc' stroke-width='3' /><path d='M230 210 Q240 220 230 230' fill='none' stroke='#ff66cc' stroke-width='3' /><path d='M170 210 Q200 190 230 210' fill='none' stroke='#ff66cc' stroke-width='3' /><path d='M170 210 Q180 200 170 190' fill='none' stroke='#000000' stroke-width='2' /><path d='M230 210 Q220 200 230 190' fill='none' stroke='#000000' stroke-width='2' /><path d='M160 330 Q200 350 240 330' fill='none' stroke='#000000' stroke-width='2' /><path d='M220 330 Q230 320 240 330' fill='none' stroke='#000000' stroke-width='2' /><circle cx='170' cy='230' r='10' fill='#ff99cc' /><circle cx='230' cy='230' r='10' fill='#ff99cc' /></svg>",
     "report": {
-      "appearance": "イヴは、柔らかなピンク色の円形の体に、明るい黄色の楕円形の顔を持ち、丸い目と緩やかな曲線の口元が特徴です。手足は優美な曲線で描かれ、体の両脇には赤い小さなポイントがあります。",
-      "reason": "進化が起こった理由は、自然界での環境変化による適応と進化の必要性から、イヴの外見が新たな要素を取り入れ、より優雅で美しい姿へと変化していったためです。",
-      "thought": "『生命の美しさが内なる世界をも彩る』"
+      "appearance": "イヴは、全体的にピンク色の体と白い顔、紫色の装飾を持つ女性型生命体です。体は丸みを帯びており、四肢は短く太めです。顔には大きな目と小さな口があり、角状の模様が両頬にあります。",
+      "reason": "進化の過程で、生存戦略の一環としてより愛らしい外見が選ばれたため、色彩豊かな柔らかな特徴が強調されました。",
+      "thought": "『愛と優しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"50\" width=\"200\" height=\"300\" fill=\"#b3e0ff\"/><ellipse cx=\"200\" cy=\"150\" rx=\"80\" ry=\"100\" fill=\"#99d6ff\"/><circle cx=\"150\" cy=\"120\" r=\"10\" fill=\"#000\"/><circle cx=\"250\" cy=\"120\" r=\"10\" fill=\"#000\"/><path d=\"M180 200 Q200 260 220 200 Q200 260 180 200\" fill=\"none\" stroke=\"#99d6ff\"/><path d=\"M170 300 Q200 330 230 300 Q200 330 170 300\" fill=\"none\" stroke=\"#99d6ff\"/><path d=\"M200 300 Q190 320 200 330 Q210 320 200 300\" fill=\"none\" stroke=\"#99d6ff\"/><path d=\"M150 250 Q80 220 60 300 Q100 280 150 250\" fill=\"none\" stroke=\"#99d6ff\"/><path d=\"M250 250 Q320 220 340 300 Q300 280 250 250\" fill=\"none\" stroke=\"#99d6ff\"/><polygon points=\"180,120 190,130 170,130\" fill=\"#ff9999\"/><polygon points=\"220,120 230,130 210,130\" fill=\"#ff9999\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#99ccff' /><rect x='140' y='200' width='120' height='120' fill='#66a3ff' /><ellipse cx='200' cy='150' rx='60' ry='40' fill='#66a3ff' /><polygon points='170,320 230,320 200,400' fill='#3385ff' /><rect x='160' y='80' width='80' height='20' fill='#3385ff' /><circle cx='180' cy='160' r='10' fill='#ffffff' /><circle cx='220' cy='160' r='10' fill='#ffffff' /><path d='M180 210 Q200 220 220 210' fill='none' stroke='#3385ff' stroke-width='3' /><path d='M220 210 Q230 220 220 230' fill='none' stroke='#3385ff' stroke-width='3' /><path d='M180 210 Q200 200 220 210' fill='none' stroke='#3385ff' stroke-width='3' /><path d='M180 210 Q190 200 180 190' fill='none' stroke='#000000' stroke-width='2' /><path d='M220 210 Q210 200 220 190' fill='none' stroke='#000000' stroke-width='2' /><path d='M170 330 Q200 340 230 330' fill='none' stroke='#000000' stroke-width='2' /><path d='M220 330 Q210 320 200 330' fill='none' stroke='#000000' stroke-width='2' /><circle cx='180' cy='230' r='10' fill='#66a3ff' /><circle cx='220' cy='230' r='10' fill='#66a3ff' /></svg>",
     "report": {
-      "appearance": "アダムは、涼やかな青色の円形の体に、穏やかな水色の楕円形の顔を持ち、丸い目と柔らかな口元が特徴です。手足は流れるような曲線で描かれ、体の両脇には赤い小さなポイントがあります。",
-      "reason": "進化が起こった理由は、環境の変化による適応と生存戦略の必要性から、アダムの外見が新たな特性を取り入れ、穏やかで清涼な姿へと進化していったためです。",
-      "thought": "『水のような穏やかさが内なる強さを生む』"
+      "appearance": "アダムは、青色の体と白い顔、濃い青色の装飾を持つ男性型生命体です。体の形状はイヴよりやや角ばっており、四肢はしっかりとした作りです。顔には大きな目と小さな口があり、頬には角状の模様があります。",
+      "reason": "進化のプロセスにおいて、より力強く見える外観が選択され、色調がクールで落ち着いたものとなりました。",
+      "thought": "『力と誇り』"
     },
     "name": "アダム",
     "gender": "男性"
