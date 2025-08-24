@@ -9573,5 +9573,28 @@
       "gender": "男性"
     },
     "timestamp": 1755973184877
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='100' rx='80' ry='50' fill='#ffd700'/><ellipse cx='170' cy='90' rx='10' ry='5' fill='#000'/><ellipse cx='230' cy='90' rx='10' ry='5' fill='#000'/><path d='M170 110 Q200 130 230 110' fill='none' stroke='#000' stroke-width='2'/><path d='M170 140 Q200 160 230 140' fill='none' stroke='#000' stroke-width='2'/> <rect x='160' y='200' width='80' height='20' fill='#ffd700'/><rect x='180' y='220' width='40' height='60' fill='#ffcccb'/><polygon points='200,280 220,320 180,320' fill='#ffd700'/><polygon points='190,200 210,200 200,220' fill='#ffcccb'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、頭部に金色の髪が特徴的です。顔には小さな目と口があり、長い金色の髪が肩に垂れています。体はピンク色で、手足は薄い黄色です。胴体には黄色い模様が入り、足元には金色のリボンがついています。",
+        "reason": "イヴは自然界の美しさを象徴する新たな特徴を得るため、進化を遂げました。",
+        "thought": "『生命の美しさを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#87ceeb'/><ellipse cx='200' cy='100' rx='80' ry='50' fill='#cd7f32'/><ellipse cx='170' cy='90' rx='10' ry='5' fill='#000'/><ellipse cx='230' cy='90' rx='10' ry='5' fill='#000'/><path d='M170 110 Q200 130 230 110' fill='none' stroke='#000' stroke-width='2'/><path d='M170 140 Q200 160 230 140' fill='none' stroke='#000' stroke-width='2'/> <rect x='160' y='200' width='80' height='20' fill='#cd7f32'/><rect x='180' y='220' width='40' height='60' fill='#87ceeb'/><polygon points='200,280 220,320 180,320' fill='#cd7f32'/><polygon points='190,200 210,200 200,220' fill='#87ceeb'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体と茶色の頭部を持ち、角のような特徴的な模様があります。顔には小さな目と口があり、長い茶色の髪が襟元まで垂れています。体は青色で、手足は茶色です。頭部には茶色の角状の模様があしらわれ、足元には青色のリボンがついています。",
+        "reason": "アダムは強さと知恵を象徴する新たな特徴を得るため、進化を遂げました。",
+        "thought": "『未来への進化を感じる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1755998532187
   }
 ]
