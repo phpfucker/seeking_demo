@@ -9872,5 +9872,28 @@
       "gender": "男性"
     },
     "timestamp": 1756257174772
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#FFD700'/><ellipse cx='200' cy='200' rx='65' ry='100' fill='#FFB6C1'/><path d='M150 300 L200 350 L250 300 Z' fill='#FF69B4'/><polygon points='200,100 180,120 220,120' fill='#FFA07A'/><line x1='160' y1='220' x2='240' y2='220' stroke='#FF4500' stroke-width='5'/><line x1='180' y1='250' x2='160' y2='280' stroke='#FF4500' stroke-width='5'/><line x1='220' y1='250' x2='240' y2='280' stroke='#FF4500' stroke-width='5'/><line x1='180' y1='320' x2='160' y2='350' stroke='#FF4500' stroke-width='5'/><line x1='220' y1='320' x2='240' y2='350' stroke='#FF4500' stroke-width='5'/><rect x='180' y='180' width='40' height='20' fill='#FFA500'/></svg>",
+      "report": {
+        "appearance": "イヴは、金色の体を持つ女性で、ピンク色の小さな顔と赤い口元を持ちます。彼女の顔には三角形の鼻とオレンジ色の角があり、薄いピンクの耳がついています。また、彼女は赤いワンピースを着ています。",
+        "reason": "進化の過程で、イヴは新しい生存環境において、より美しさとエレガンスを持つ特徴が求められました。",
+        "thought": "『生命とは美しさと強さの結集』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#1E90FF'/><ellipse cx='200' cy='200' rx='65' ry='100' fill='#FF4500'/><path d='M150 300 L200 350 L250 300 Z' fill='#00FF7F'/><polygon points='200,100 180,120 220,120' fill='#FFFF00'/><line x1='160' y1='220' x2='240' y2='220' stroke='#FFFF00' stroke-width='5'/><line x1='180' y1='250' x2='160' y2='280' stroke='#FFFF00' stroke-width='5'/><line x1='220' y1='250' x2='240' y2='280' stroke='#FFFF00' stroke-width='5'/><line x1='180' y1='320' x2='160' y2='350' stroke='#FFFF00' stroke-width='5'/><line x1='220' y1='320' x2='240' y2='350' stroke='#FFFF00' stroke-width='5'/><rect x='180' y='180' width='40' height='20' fill='#FFD700'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体を持つ男性で、オレンジ色の小さな顔と緑色の口元を持ちます。彼の顔には三角形の鼻と黄色の角があり、濃い緑の耳がついています。また、彼は黄色のショートパンツを穿いています。",
+        "reason": "アダムは進化の過程で、より力強さと活動性を持つ特徴が必要とされました。",
+        "thought": "『強さと知恵は生命の源』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1756275779567
   }
 ]
