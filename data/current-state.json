@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffa07a'/><circle cx='200' cy='150' r='80' fill='#ffd700'/><ellipse cx='150' cy='230' rx='40' ry='20' fill='#ff69b4'/><ellipse cx='250' cy='230' rx='40' ry='20' fill='#ff69b4'/><path d='M185 200 Q200 220 215 200' stroke='black' fill='none'/><path d='M185 200 Q200 190 215 200' stroke='black' fill='none'/><line x1='180' y1='250' x2='220' y2='250' stroke='black' stroke-width='2'/><polygon points='170,50 150,70 230,70 210,50' fill='#ffd700'/><polygon points='160,50 150,60 230,60 220,50' fill='#ffd700'/></svg>",
     "report": {
-      "appearance": "イヴは、羽毛で覆われた美しい女性。上半身は人間の女性のようだが、下半身は優美な孔雀の尾を持つ。腕には翼があり、頭部には複雑な羽根模様を持つ。全体的に優雅で華やかな姿をしている。",
-      "reason": "進化の過程で、イヴは美しい色彩と優美な特徴を身につけ、生物的な多様性を追求した結果として、この姿に進化した。",
-      "thought": "『自然の美しさを体現して』"
+      "appearance": "イヴは、桃色の肌に金色の巻き毛を持つ女性。背中にはピンク色の蝶の模様がある。大きな丸い目には紫色の瞳が輝き、ピンク色のドレスを身に着けている。",
+      "reason": "イヴは自然の美しさと優雅さを取り入れることで、進化の過程でより魅力的になった。",
+      "thought": "『愛と美の調和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#1e90ff'/><circle cx='200' cy='150' r='80' fill='#ff4500'/><ellipse cx='150' cy='230' rx='40' ry='20' fill='#00ff00'/><ellipse cx='250' cy='230' rx='40' ry='20' fill='#00ff00'/><path d='M185 200 Q200 220 215 200' stroke='black' fill='none'/><path d='M185 200 Q200 190 215 200' stroke='black' fill='none'/><line x1='180' y1='250' x2='220' y2='250' stroke='black' stroke-width='2'/><polygon points='170,50 150,70 230,70 210,50' fill='#ff4500'/><polygon points='160,50 150,60 230,60 220,50' fill='#ff4500'/></svg>",
     "report": {
-      "appearance": "アダムは、荒々しい雄牛の力強い体つきを持つ男性。全身には岩肌のような固い皮膚が覆い、頭には大きな角が生えている。腰には蛇のような尾があり、足元には岩を踏みしめるような強靭な脚を持つ。",
-      "reason": "進化の過程で、アダムは強靭な生存能力と力強い外見を模索し、自然の厳しさに適応するためにこのような姿に進化した。",
-      "thought": "『自然界の厳しさを受け入れて』"
+      "appearance": "アダムは、青海の肌に赤い巻き髪を持つ男性。背中には緑色の葉の模様があり、燃えるようなオレンジ色の目を持っている。赤いタンクトップを着用している。",
+      "reason": "アダムは大地の力強さと炎の情熱を取り入れ、より強靭で魅力的な存在に進化した。",
+      "thought": "『力と情熱の融合』"
     },
     "name": "アダム",
     "gender": "男性"
