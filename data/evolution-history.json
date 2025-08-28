@@ -10010,5 +10010,28 @@
       "gender": "男性"
     },
     "timestamp": 1756384333389
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffa07a'/><circle cx='200' cy='150' r='80' fill='#ffd700'/><ellipse cx='150' cy='230' rx='40' ry='20' fill='#ff69b4'/><ellipse cx='250' cy='230' rx='40' ry='20' fill='#ff69b4'/><path d='M185 200 Q200 220 215 200' stroke='black' fill='none'/><path d='M185 200 Q200 190 215 200' stroke='black' fill='none'/><line x1='180' y1='250' x2='220' y2='250' stroke='black' stroke-width='2'/><polygon points='170,50 150,70 230,70 210,50' fill='#ffd700'/><polygon points='160,50 150,60 230,60 220,50' fill='#ffd700'/></svg>",
+      "report": {
+        "appearance": "イヴは、桃色の肌に金色の巻き毛を持つ女性。背中にはピンク色の蝶の模様がある。大きな丸い目には紫色の瞳が輝き、ピンク色のドレスを身に着けている。",
+        "reason": "イヴは自然の美しさと優雅さを取り入れることで、進化の過程でより魅力的になった。",
+        "thought": "『愛と美の調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#1e90ff'/><circle cx='200' cy='150' r='80' fill='#ff4500'/><ellipse cx='150' cy='230' rx='40' ry='20' fill='#00ff00'/><ellipse cx='250' cy='230' rx='40' ry='20' fill='#00ff00'/><path d='M185 200 Q200 220 215 200' stroke='black' fill='none'/><path d='M185 200 Q200 190 215 200' stroke='black' fill='none'/><line x1='180' y1='250' x2='220' y2='250' stroke='black' stroke-width='2'/><polygon points='170,50 150,70 230,70 210,50' fill='#ff4500'/><polygon points='160,50 150,60 230,60 220,50' fill='#ff4500'/></svg>",
+      "report": {
+        "appearance": "アダムは、青海の肌に赤い巻き髪を持つ男性。背中には緑色の葉の模様があり、燃えるようなオレンジ色の目を持っている。赤いタンクトップを着用している。",
+        "reason": "アダムは大地の力強さと炎の情熱を取り入れ、より強靭で魅力的な存在に進化した。",
+        "thought": "『力と情熱の融合』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1756405326197
   }
 ]
