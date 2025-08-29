@@ -10033,5 +10033,28 @@
       "gender": "男性"
     },
     "timestamp": 1756405326197
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><circle cx='200' cy='200' r='150' fill='#ff9bb5' /><ellipse cx='200' cy='180' rx='80' ry='110' fill='#ffb6c1' /><rect x='160' y='220' width='80' height='20' fill='#ff9bb5' /><rect x='150' y='240' width='100' height='40' fill='#ffb6c1' /><ellipse cx='160' cy='175' rx='10' ry='15' fill='#ffffff' /><ellipse cx='240' cy='175' rx='10' ry='15' fill='#ffffff' /><path d='M180 210 L190 230 L170 230 Z' fill='#ffffff' /><path d='M220 210 L210 230 L230 230 Z' fill='#ffffff' /><line x1='195' y1='260' x2='205' y2='260' stroke='#000' stroke-width='2' /><line x1='195' y1='265' x2='205' y2='265' stroke='#000' stroke-width='2' /><line x1='195' y1='270' x2='205' y2='270' stroke='#000' stroke-width='2' /><circle cx='200' cy='200' r='20' fill='#000' /><circle cx='188' cy='190' r='5' fill='#fff' /><circle cx='212' cy='190' r='5' fill='#fff' /><polygon points='190,215 200,225 210,215' fill='#ff9bb5' /><text x='200' y='320' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>イヴ</text></g></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の肌と白い髪を持つ女性の姿をしています。頭には2本の白い角があり、優雅で繊細な体つきが特徴です。背中には小さな白い翼が生えています。服装はピンクと白の調和が取れたデザインです。",
+        "reason": "イヴは新たな進化によって、より美しく優雅な姿へと変化しました。外見の変化は内なる美しさや気品を表現するためです。",
+        "thought": "『愛と美の融合』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><circle cx='200' cy='200' r='150' fill='#9be5ff' /><rect x='160' y='200' width='80' height='120' fill='#a2d4ff' /><rect x='150' y='250' width='100' height='30' fill='#9be5ff' /><path d='M180 210 L190 230 L170 230 Z' fill='#ffffff' /><path d='M220 210 L210 230 L230 230 Z' fill='#ffffff' /><ellipse cx='200' cy='200' rx='20' ry='10' fill='#000' /><circle cx='190' cy='190' r='5' fill='#fff' /><circle cx='210' cy='190' r='5' fill='#fff' /><polygon points='190,215 200,225 210,215' fill='#9be5ff' /><circle cx='200' cy='260' r='20' fill='#fff' /><line x1='185' y1='250' x2='215' y2='250' stroke='#000' stroke-width='2' /><line x1='195' y1='270' x2='205' y2='270' stroke='#000' stroke-width='2' /><text x='200' y='320' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>アダム</text></g></svg>",
+      "report": {
+        "appearance": "アダムは青色の肌と黒い髪を持つ男性の姿をしています。頭には1本の黒い角があり、力強くたくましい体つきが特徴です。頭部には2つの白い模様が入っており、胸元には青と白のデザインが施されています。",
+        "reason": "アダムは新たな進化によって、より力強く堂々とした姿へと変化しました。外見の変化は内なる力強さや貫禄を表現するためです。",
+        "thought": "『力と誇りの共存』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1756429943349
   }
 ]
