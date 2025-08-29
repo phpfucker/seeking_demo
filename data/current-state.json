@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#FFCCCC' /><ellipse cx='200' cy='100' rx='100' ry='80' fill='#FF9999' /><path d='M100,150 L150,50 L250,50 L300,150 Z' fill='#FF6666' /><polygon points='120,200 140,240 160,200' fill='#FF6666' /><polyline points='180,210 160,240 180,270' fill='none' stroke='black' stroke-width='2' /><rect x='140' y='290' width='120' height='40' fill='#FF6666' /><circle cx='180' cy='170' r='10' fill='black' /><circle cx='220' cy='170' r='10' fill='black' /><line x1='180' y1='220' x2='200' y2='220' stroke='black' stroke-width='4' /><line x1='200' y1='220' x2='220' y2='220' stroke='black' stroke-width='4' /><text x='150' y='350' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><radialGradient id='gradA' cx='50%' cy='50%' r='50%' fx='50%' fy='50%'><stop offset='0%' style='stop-color:rgb(255,255,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,192,203);stop-opacity:1' /></radialGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradA)' /><ellipse cx='200' cy='220' rx='80' ry='40' fill='rgb(255,192,203)' /><rect x='150' y='200' width='100' height='20' fill='rgb(255,192,203)' /><ellipse cx='170' cy='160' rx='10' ry='20' fill='rgb(255,255,255)' /><ellipse cx='230' cy='160' rx='10' ry='20' fill='rgb(255,255,255)' /><path d='M190 240 Q200 270 210 240' fill='none' stroke='black' stroke-width='2' /><path d='M190 240 Q200 250 210 240' fill='none' stroke='black' stroke-width='2' /><path d='M190 240 Q200 250 210 240' fill='none' stroke='black' stroke-width='2' transform='rotate(180 200 220)' /><path d='M180 180 Q200 170 220 180' fill='none' stroke='black' stroke-width='2' /><path d='M170 240 Q200 250 230 240' fill='none' stroke='black' stroke-width='2' /><path d='M170 240 Q200 250 230 240' fill='none' stroke='black' stroke-width='2' transform='rotate(180 200 220)' /><line x1='170' y1='140' x2='140' y2='160' stroke='black' stroke-width='2' /><line x1='230' y1='140' x2='260' y2='160' stroke='black' stroke-width='2' /><line x1='150' y1='240' x2='140' y2='260' stroke='black' stroke-width='2' /><line x1='250' y1='240' x2='260' y2='260' stroke='black' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の体に赤い頭部を持ち、緑色のしっぽと黒い目を持つ女性型生命体です。体の中央には赤い模様があり、頭部にはヒト型の特徴が見られます。",
-      "reason": "環境の変化により、イヴはより多様な色彩を持つ進化を遂げました。",
-      "thought": "『生命の多様性が美しい』"
+      "appearance": "イヴは、ピンク色の柔らかな肌を持ち、愛らしい女性の姿をしています。丸い顔に大きな目と小さな口、ピンク色の体には淡いピンクの模様があります。手足は細く、しなやかで優雅な印象です。",
+      "reason": "進化が進む中で、イヴは外見に優しさと美しさを重視するようになりました。柔らかな色合いと愛らしい特徴は、他者とのコミュニケーションや共感をより円滑にするためです。",
+      "thought": "『愛と優しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#99CCFF' /><ellipse cx='200' cy='100' rx='100' ry='80' fill='#66B3FF' /><path d='M100,150 L150,50 L250,50 L300,150 Z' fill='#3366FF' /><polygon points='120,200 140,240 160,200' fill='#3366FF' /><polyline points='180,210 160,240 180,270' fill='none' stroke='black' stroke-width='2' /><rect x='140' y='290' width='120' height='40' fill='#3366FF' /><circle cx='180' cy='170' r='10' fill='black' /><circle cx='220' cy='170' r='10' fill='black' /><line x1='180' y1='220' x2='200' y2='220' stroke='black' stroke-width='4' /><line x1='200' y1='220' x2='220' y2='220' stroke='black' stroke-width='4' /><text x='150' y='350' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><radialGradient id='gradB' cx='50%' cy='50%' r='50%' fx='50%' fy='50%'><stop offset='0%' style='stop-color:rgb(220,220,220);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(100,149,237);stop-opacity:1' /></radialGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradB)' /><ellipse cx='200' cy='240' rx='80' ry='40' fill='rgb(100,149,237)' /><rect x='150' y='220' width='100' height='20' fill='rgb(100,149,237)' /><ellipse cx='170' cy='180' rx='10' ry='20' fill='rgb(220,220,220)' /><ellipse cx='230' cy='180' rx='10' ry='20' fill='rgb(220,220,220)' /><path d='M190 260 Q200 290 210 260' fill='none' stroke='black' stroke-width='2' /><path d='M190 260 Q200 270 210 260' fill='none' stroke='black' stroke-width='2' /><path d='M190 260 Q200 270 210 260' fill='none' stroke='black' stroke-width='2' transform='rotate(180 200 240)' /><path d='M180 200 Q200 190 220 200' fill='none' stroke='black' stroke-width='2' /><path d='M170 260 Q200 270 230 260' fill='none' stroke='black' stroke-width='2' /><path d='M170 260 Q200 270 230 260' fill='none' stroke='black' stroke-width='2' transform='rotate(180 200 240)' /><line x1='170' y1='160' x2='140' y2='180' stroke='black' stroke-width='2' /><line x1='230' y1='160' x2='260' y2='180' stroke='black' stroke-width='2' /><line x1='150' y1='260' x2='140' y2='280' stroke='black' stroke-width='2' /><line x1='250' y1='260' x2='260' y2='280' stroke='black' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "アダムは、青色の体に青い頭部を持ち、青紫色のしっぽと黒い目を持つ男性型生命体です。体の中央には濃い青色の模様があり、頭部にはヒト型の特徴が見られます。",
-      "reason": "遺伝子の変異により、アダムはより濃い色調を持つ進化を遂げました。",
-      "thought": "『青い色は誠実さを象徴する』"
+      "appearance": "アダムは、青色の肌を持ち、男性らしいミニマルな姿をしています。筋肉質な体にはクールな青色が広がり、シャープな特徴と力強さが感じられます。手足はしっかりとした造りで、堅実な印象を与えます。",
+      "reason": "アダムの進化は、強さと安定感を重視するためです。男性らしさと堅実さが強調され、生存能力やリーダーシップを表現することで、集団の中での地位向上や繁栄のために進化しました。",
+      "thought": "『力と誇り』"
     },
     "name": "アダム",
     "gender": "男性"

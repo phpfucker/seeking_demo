@@ -10079,5 +10079,28 @@
       "gender": "男性"
     },
     "timestamp": 1756448581905
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#FFCCCC' /><ellipse cx='200' cy='100' rx='100' ry='80' fill='#FF9999' /><path d='M100,150 L150,50 L250,50 L300,150 Z' fill='#FF6666' /><polygon points='120,200 140,240 160,200' fill='#FF6666' /><polyline points='180,210 160,240 180,270' fill='none' stroke='black' stroke-width='2' /><rect x='140' y='290' width='120' height='40' fill='#FF6666' /><circle cx='180' cy='170' r='10' fill='black' /><circle cx='220' cy='170' r='10' fill='black' /><line x1='180' y1='220' x2='200' y2='220' stroke='black' stroke-width='4' /><line x1='200' y1='220' x2='220' y2='220' stroke='black' stroke-width='4' /><text x='150' y='350' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に赤い頭部を持ち、緑色のしっぽと黒い目を持つ女性型生命体です。体の中央には赤い模様があり、頭部にはヒト型の特徴が見られます。",
+        "reason": "環境の変化により、イヴはより多様な色彩を持つ進化を遂げました。",
+        "thought": "『生命の多様性が美しい』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#99CCFF' /><ellipse cx='200' cy='100' rx='100' ry='80' fill='#66B3FF' /><path d='M100,150 L150,50 L250,50 L300,150 Z' fill='#3366FF' /><polygon points='120,200 140,240 160,200' fill='#3366FF' /><polyline points='180,210 160,240 180,270' fill='none' stroke='black' stroke-width='2' /><rect x='140' y='290' width='120' height='40' fill='#3366FF' /><circle cx='180' cy='170' r='10' fill='black' /><circle cx='220' cy='170' r='10' fill='black' /><line x1='180' y1='220' x2='200' y2='220' stroke='black' stroke-width='4' /><line x1='200' y1='220' x2='220' y2='220' stroke='black' stroke-width='4' /><text x='150' y='350' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に青い頭部を持ち、青紫色のしっぽと黒い目を持つ男性型生命体です。体の中央には濃い青色の模様があり、頭部にはヒト型の特徴が見られます。",
+        "reason": "遺伝子の変異により、アダムはより濃い色調を持つ進化を遂げました。",
+        "thought": "『青い色は誠実さを象徴する』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1756470694880
   }
 ]
