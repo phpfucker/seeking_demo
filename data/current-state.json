@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='130' y='90' width='140' height='220' fill='#ffcccc' /><circle cx='200' cy='80' r='70' fill='#ffcccc' /><circle cx='200' cy='150' r='100' fill='#ffd9b3' /><polygon points='160,150 200,220 240,150' fill='#ffeb99' /><polygon points='170,180 200,240 230,180' fill='#ffeb99' /><ellipse cx='170' cy='280' rx='30' ry='50' fill='#ffcccc' /><ellipse cx='230' cy='280' rx='30' ry='50' fill='#ffcccc' /><polygon points='190,280 200,320 210,280' fill='#ffeb99' /><line x1='160' y1='90' x2='130' y2='50' stroke='#ff99cc' stroke-width='3' /><line x1='240' y1='90' x2='270' y2='50' stroke='#ff99cc' stroke-width='3' /><circle cx='180' cy='70' r='5' fill='#000' /><circle cx='220' cy='70' r='5' fill='#000' /><circle cx='190' cy='160' r='10' fill='#000' /><circle cx='210' cy='160' r='10' fill='#000' /><path d='M180 160 Q200 130 220 160' fill='none' stroke='#000' stroke-width='3' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#FFCCCC' /><ellipse cx='200' cy='100' rx='100' ry='80' fill='#FF9999' /><path d='M100,150 L150,50 L250,50 L300,150 Z' fill='#FF6666' /><polygon points='120,200 140,240 160,200' fill='#FF6666' /><polyline points='180,210 160,240 180,270' fill='none' stroke='black' stroke-width='2' /><rect x='140' y='290' width='120' height='40' fill='#FF6666' /><circle cx='180' cy='170' r='10' fill='black' /><circle cx='220' cy='170' r='10' fill='black' /><line x1='180' y1='220' x2='200' y2='220' stroke='black' stroke-width='4' /><line x1='200' y1='220' x2='220' y2='220' stroke='black' stroke-width='4' /><text x='150' y='350' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴは、ピンクとオレンジの色合いの大きな円形の頭部と、ピンクの体に赤いポイントを持つ女性型生命体です。体の下部には長い脚があり、頭部には大きな目と口があります。また、両腕は細長く、手には指があります。",
-      "reason": "イヴは環境の変化に適応するため、より色鮮やかで派手な外見を持つよう進化しました。これにより、異なる生物との間でのコミュニケーションや種の多様性が促進されました。",
-      "thought": "『生命の美しさを感じる』"
+      "appearance": "イヴは、ピンク色の体に赤い頭部を持ち、緑色のしっぽと黒い目を持つ女性型生命体です。体の中央には赤い模様があり、頭部にはヒト型の特徴が見られます。",
+      "reason": "環境の変化により、イヴはより多様な色彩を持つ進化を遂げました。",
+      "thought": "『生命の多様性が美しい』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='130' y='90' width='140' height='220' fill='#80b3ff' /><circle cx='200' cy='80' r='70' fill='#80b3ff' /><circle cx='200' cy='150' r='100' fill='#668cff' /><polygon points='160,150 200,220 240,150' fill='#4d94ff' /><polygon points='170,180 200,240 230,180' fill='#4d94ff' /><ellipse cx='170' cy='280' rx='30' ry='50' fill='#80b3ff' /><ellipse cx='230' cy='280' rx='30' ry='50' fill='#80b3ff' /><polygon points='190,280 200,320 210,280' fill='#4d94ff' /><line x1='160' y1='90' x2='130' y2='50' stroke='#b3b3b3' stroke-width='3' /><line x1='240' y1='90' x2='270' y2='50' stroke='#b3b3b3' stroke-width='3' /><circle cx='180' cy='70' r='5' fill='#000' /><circle cx='220' cy='70' r='5' fill='#000' /><circle cx='190' cy='160' r='10' fill='#000' /><circle cx='210' cy='160' r='10' fill='#000' /><path d='M180 160 Q200 130 220 160' fill='none' stroke='#000' stroke-width='3' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#99CCFF' /><ellipse cx='200' cy='100' rx='100' ry='80' fill='#66B3FF' /><path d='M100,150 L150,50 L250,50 L300,150 Z' fill='#3366FF' /><polygon points='120,200 140,240 160,200' fill='#3366FF' /><polyline points='180,210 160,240 180,270' fill='none' stroke='black' stroke-width='2' /><rect x='140' y='290' width='120' height='40' fill='#3366FF' /><circle cx='180' cy='170' r='10' fill='black' /><circle cx='220' cy='170' r='10' fill='black' /><line x1='180' y1='220' x2='200' y2='220' stroke='black' stroke-width='4' /><line x1='200' y1='220' x2='220' y2='220' stroke='black' stroke-width='4' /><text x='150' y='350' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは、青と紫の色調が特徴の大きな円形の頭部と、青い体に青紫色のポイントを持つ男性型生命体です。体の下部には長い脚があり、頭部には大きな目と口があります。両腕は太く力強く、手には指があります。",
-      "reason": "アダムは狩猟や戦闘において他の生物との競争に勝ち抜くため、より力強く威厳ある外見を持つよう進化しました。この進化により、生存競争において有利な特性を獲得しました。",
-      "thought": "『生命の力強さを感じる』"
+      "appearance": "アダムは、青色の体に青い頭部を持ち、青紫色のしっぽと黒い目を持つ男性型生命体です。体の中央には濃い青色の模様があり、頭部にはヒト型の特徴が見られます。",
+      "reason": "遺伝子の変異により、アダムはより濃い色調を持つ進化を遂げました。",
+      "thought": "『青い色は誠実さを象徴する』"
     },
     "name": "アダム",
     "gender": "男性"
