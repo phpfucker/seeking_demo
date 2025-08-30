@@ -10125,5 +10125,28 @@
       "gender": "男性"
     },
     "timestamp": 1756491661736
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='150' ry='180' fill='#ffcccb' /><rect x='120' y='220' width='160' height='80' fill='#ffb6c1' /><circle cx='180' cy='210' r='20' fill='#ffffff' /><circle cx='220' cy='210' r='20' fill='#ffffff' /><rect x='160' y='260' width='80' height='20' fill='#ff1493' /><polygon points='160,220 220,220 200,240' fill='#800000' /><circle cx='180' cy='200' r='10' fill='#000000' /><circle cx='220' cy='200' r='10' fill='#000000' /><circle cx='190' cy='195' r='5' fill='#ffffff' /><circle cx='230' cy='195' r='5' fill='#ffffff' /><polygon points='195,215 230,215 215,225' fill='#ffcccb' /><polygon points='165,240 185,240 175,265' fill='#ffb6c1' /><polygon points='215,240 235,240 225,265' fill='#ffb6c1' /><polygon points='165,275 175,260 185,275' fill='#ff1493' /><polygon points='215,275 225,260 235,275' fill='#ff1493' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に赤いリボンのような模様が入った女性の進化体です。体の上部は広く、腰の部分がくびれています。顔には白い目と小さな口があり、優雅な雰囲気が漂います。",
+        "reason": "イヴは、美しさと優しさをより強調するために進化しました。",
+        "thought": "『愛と美の融合』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='150' ry='180' fill='#4682b4' /><rect x='120' y='220' width='160' height='80' fill='#4169e1' /><circle cx='180' cy='210' r='20' fill='#ffffff' /><circle cx='220' cy='210' r='20' fill='#ffffff' /><rect x='160' y='260' width='80' height='20' fill='#000080' /><polygon points='160,220 220,220 200,240' fill='#000080' /><circle cx='180' cy='200' r='10' fill='#000000' /><circle cx='220' cy='200' r='10' fill='#000000' /><circle cx='190' cy='195' r='5' fill='#ffffff' /><circle cx='230' cy='195' r='5' fill='#ffffff' /><polygon points='195,215 230,215 215,225' fill='#4682b4' /><polygon points='165,240 185,240 175,265' fill='#4169e1' /><polygon points='215,240 235,240 225,265' fill='#4169e1' /><polygon points='165,275 175,260 185,275' fill='#000080' /><polygon points='215,275 225,260 235,275' fill='#000080' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に濃い青の模様が入った男性の進化体です。体つきは頑丈で力強く、顔つきは凛々しくたくましい印象を与えます。",
+        "reason": "アダムは、力と勇気をより強調するために進化しました。",
+        "thought": "『誇りと勇気の融合』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1756516146810
   }
 ]
