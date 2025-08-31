@@ -10263,5 +10263,28 @@
       "gender": "男性"
     },
     "timestamp": 1756621275573
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#ff99cc' /><ellipse cx='200' cy='150' rx='120' ry='90' fill='#ff66cc' /><circle cx='140' cy='120' r='20' fill='#cc6699' /><circle cx='260' cy='120' r='20' fill='#cc6699' /><path d='M150,160 Q200,210 250,160' fill='none' stroke='#993366' stroke-width='2' /><path d='M180,250 Q200,270 220,250' fill='none' stroke='#993366' stroke-width='2' /><path d='M140,290 Q200,320 260,290' fill='none' stroke='#993366' stroke-width='2' /><polygon points='170,130 185,130 180,140' fill='#cc6699' /><polygon points='215,130 230,130 225,140' fill='#cc6699' /><line x1='180' y1='270' x2='220' y2='270' stroke='#993366' stroke-width='2' /><line x1='150' y1='340' x2='170' y2='340' stroke='#993366' stroke-width='2' /><line x1='230' y1='340' x2='250' y2='340' stroke='#993366' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかな皮膚を持ち、体には桃色と薄い紫色の模様が広がります。頭部には丸い耳と大きな目があり、長いしっぽと背中に小さな飾りがあります。",
+        "reason": "環境の変化により、イヴはより可愛らしく魅力的な姿に進化しました。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#6699ff' /><ellipse cx='200' cy='150' rx='120' ry='90' fill='#3366ff' /><rect x='170' y='120' width='60' height='80' fill='#0033cc' /><circle cx='160' cy='220' r='15' fill='#cc66cc' /><circle cx='240' cy='220' r='15' fill='#cc66cc' /><path d='M150,160 Q200,210 250,160' fill='none' stroke='#000066' stroke-width='2' /><path d='M180,250 Q200,270 220,250' fill='none' stroke='#000066' stroke-width='2' /><path d='M140,290 Q200,320 260,290' fill='none' stroke='#000066' stroke-width='2' /><polygon points='175,130 190,130 185,140' fill='#cc66cc' /><polygon points='215,130 230,130 225,140' fill='#cc66cc' /><line x1='180' y1='270' x2='220' y2='270' stroke='#000066' stroke-width='2' /><line x1='150' y1='340' x2='170' y2='340' stroke='#000066' stroke-width='2' /><line x1='230' y1='340' x2='250' y2='340' stroke='#000066' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは青色の硬い鱗状の皮膚を持ち、頭部には四角い角が生え、体には青と紫色の模様が入っています。大きな手と足、尾があります。",
+        "reason": "アダムは適応力を高めるため、より頑丈で力強い外見に進化しました。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1756643344541
   }
 ]
