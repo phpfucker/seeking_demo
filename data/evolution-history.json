@@ -10286,5 +10286,28 @@
       "gender": "男性"
     },
     "timestamp": 1756643344541
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='pink'/><circle cx='200' cy='220' r='80' fill='lightcoral'/><circle cx='150' cy='180' r='20' fill='black'/><circle cx='250' cy='180' r='20' fill='black'/><ellipse cx='175' cy='250' rx='30' ry='15' fill='black'/><ellipse cx='225' cy='250' rx='30' ry='15' fill='black'/><path d='M150 260 Q200 290 250 260' fill='none' stroke='black'/><polygon points='190,240 200,230 210,240' fill='white'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクの体色にライトコーラルの顔と大きな目を持つ女性型生命体です。黒い瞳と手足の装飾、しっぽ、そして白い腹部が特徴です。",
+        "reason": "環境の色彩に適応するため、イヴはピンク色の体を進化させました。美しい色彩で他の生命体を魅了し、環境に適応しやすくなりました。",
+        "thought": "『自然の一部でありたい』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='lightblue'/><circle cx='200' cy='180' r='80' fill='skyblue'/><circle cx='150' cy='150' r='20' fill='black'/><circle cx='250' cy='150' r='20' fill='black'/><polygon points='190,220 200,230 210,220' fill='white'/><line x1='165' y1='240' x2='185' y2='240' stroke='black'/><line x1='215' y1='240' x2='235' y2='240' stroke='black'/><path d='M150 250 Q200 230 250 250' fill='none' stroke='black'/></svg>",
+      "report": {
+        "appearance": "アダムは、ライトブルーの体色にスカイブルーの顔と大きな目を持つ男性型生命体です。黒い瞳と手足の装飾、しっぽ、そして白い腹部が特徴です。",
+        "reason": "環境の色彩に適応するため、アダムは青色の体を進化させました。美しい色彩で他の生命体を魅了し、環境に適応しやすくなりました。",
+        "thought": "『自然と調和する』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1756664389933
   }
 ]

@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='pink'/><circle cx='200' cy='220' r='80' fill='lightcoral'/><circle cx='150' cy='180' r='20' fill='black'/><circle cx='250' cy='180' r='20' fill='black'/><ellipse cx='175' cy='250' rx='30' ry='15' fill='black'/><ellipse cx='225' cy='250' rx='30' ry='15' fill='black'/><path d='M150 260 Q200 290 250 260' fill='none' stroke='black'/><polygon points='190,240 200,230 210,240' fill='white'/></svg>",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 400\"><rect x=\"50\" y=\"50\" width=\"300\" height=\"300\" fill=\"#ffcccb\"/><ellipse cx=\"200\" cy=\"220\" rx=\"70\" ry=\"100\" fill=\"#f8b195\"/><path d=\"M140 140 Q200 100 260 140 Q200 180 140 140 Z\" fill=\"#e5989b\"/><ellipse cx=\"160\" cy=\"220\" rx=\"10\" ry=\"20\" fill=\"#f67280\"/><ellipse cx=\"240\" cy=\"220\" rx=\"10\" ry=\"20\" fill=\"#f67280\"/><path d=\"M180 260 Q200 280 220 260\" fill=\"none\" stroke=\"#d90429\" stroke-width=\"3\"/><path d=\"M160 270 Q200 300 240 270\" fill=\"none\" stroke=\"#d90429\" stroke-width=\"3\"/><rect x=\"180\" y=\"280\" width=\"40\" height=\"20\" fill=\"#f67280\"/><path d=\"M200 180 Q195 160 205 160 Q215 160 210 180 Z\" fill=\"#a3f7bf\"/><path d=\"M170 140 Q170 120 150 120 Q145 120 140 140 Z\" fill=\"#a3f7bf\"/><rect x=\"165\" y=\"160\" width=\"70\" height=\"20\" fill=\"#e6af4b\"/></svg>",
     "report": {
-      "appearance": "イヴは、ピンクの体色にライトコーラルの顔と大きな目を持つ女性型生命体です。黒い瞳と手足の装飾、しっぽ、そして白い腹部が特徴です。",
-      "reason": "環境の色彩に適応するため、イヴはピンク色の体を進化させました。美しい色彩で他の生命体を魅了し、環境に適応しやすくなりました。",
-      "thought": "『自然の一部でありたい』"
+      "appearance": "イヴは、ピンク色の優しい肌とオレンジ色の長い髪を持つ女性の姿をしています。体の形は楕円形で、顔にはやわらかな感じのピンク色の頬があり、角のような形状の耳が付いています。腕と脚は長く、手足には細い指とつま先があり、しっぽはなめらかな曲線を描いています。服装は赤いドレスで、背中にはハート型の模様が施されています。",
+      "reason": "この進化は、イヴが新しい環境に適応するために、より優れた識別力と柔軟性を持つ必要があったためです。",
+      "thought": "『夢と愛を守る』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='lightblue'/><circle cx='200' cy='180' r='80' fill='skyblue'/><circle cx='150' cy='150' r='20' fill='black'/><circle cx='250' cy='150' r='20' fill='black'/><polygon points='190,220 200,230 210,220' fill='white'/><line x1='165' y1='240' x2='185' y2='240' stroke='black'/><line x1='215' y1='240' x2='235' y2='240' stroke='black'/><path d='M150 250 Q200 230 250 250' fill='none' stroke='black'/></svg>",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 400\"><rect x=\"50\" y=\"50\" width=\"300\" height=\"300\" fill=\"#add8e6\"/><ellipse cx=\"200\" cy=\"220\" rx=\"70\" ry=\"100\" fill=\"#aec6cf\"/><circle cx=\"170\" cy=\"215\" r=\"15\" fill=\"#7eb5e0\"/><circle cx=\"230\" cy=\"215\" r=\"15\" fill=\"#7eb5e0\"/><path d=\"M160 260 Q200 280 240 260 Q200 300 160 260 Z\" fill=\"#5e91a3\"/><path d=\"M170 140 Q200 120 230 140 Q200 180 170 140 Z\" fill=\"#5e91a3\"/><rect x=\"180\" y=\"280\" width=\"40\" height=\"20\" fill=\"#7eb5e0\"/><polygon points=\"195,160 185,180 205,180\" fill=\"#d7e9ef\"/><polygon points=\"170,160 160,170 150,160 160,150\" fill=\"#d7e9ef\"/><path d=\"M180 160 Q180 140 170 140 Q160 140 160 160 Z\" fill=\"#d7e9ef\"/></svg>",
     "report": {
-      "appearance": "アダムは、ライトブルーの体色にスカイブルーの顔と大きな目を持つ男性型生命体です。黒い瞳と手足の装飾、しっぽ、そして白い腹部が特徴です。",
-      "reason": "環境の色彩に適応するため、アダムは青色の体を進化させました。美しい色彩で他の生命体を魅了し、環境に適応しやすくなりました。",
-      "thought": "『自然と調和する』"
+      "appearance": "アダムは、青色の肌と灰色の短い髪を持つ男性の姿をしています。体の形は楕円形で、顔には丸い青い目と円形の口があり、耳は小さく丸い形状です。腕と脚は筋肉質で、手足には幅広い指とつま先があり、しっぽは短く太めの形状です。服装は青いタンクトップと灰色のパンツで、背中には波紋状の模様が入っています。",
+      "reason": "この進化は、アダムがより速く強力に動く必要があったために、よりスリムで軽快な体型とシンプルな特徴を持つように変化しました。",
+      "thought": "『空と海を駆ける』"
     },
     "name": "アダム",
     "gender": "男性"
