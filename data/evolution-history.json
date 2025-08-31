@@ -10217,5 +10217,28 @@
       "gender": "男性"
     },
     "timestamp": 1756577961645
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='pink'/><circle cx='200' cy='150' r='20' fill='white'/><circle cx='170' cy='150' r='5' fill='black'/><circle cx='230' cy='150' r='5' fill='black'/><ellipse cx='200' cy='180' rx='30' ry='20' fill='pink'/><path d='M180 200 L220 200 L200 230 Z' fill='white'/><rect x='180' y='240' width='40' height='20' fill='white'/><path d='M180 260 Q190 270 200 260 Q210 270 220 260' fill='pink'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体を持ち、白い顔と黒い目、ピンクの口元が特徴です。顔の下には白い胴体とピンクのお腹がつながっており、手足は白色です。足元にはピンクのしっぽがあります。",
+        "reason": "進化のプロセスにより、イヴはより柔らかく優しい雰囲気を持つべきと考えられました。",
+        "thought": "『愛と優しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='lightblue'/><circle cx='200' cy='150' r='20' fill='white'/><circle cx='170' cy='150' r='5' fill='black'/><circle cx='230' cy='150' r='5' fill='black'/><ellipse cx='200' cy='180' rx='30' ry='20' fill='lightblue'/><polygon points='190,200 220,200 200,230' fill='white'/><rect x='180' y='240' width='40' height='20' fill='white'/><path d='M180 260 Q190 270 200 260 Q210 270 220 260' fill='lightblue'/></svg>",
+      "report": {
+        "appearance": "アダムは淡い青色の体を持ち、白い顔と黒い目、青い口元が特徴です。白い胴体と青いお腹がつながり、手足は白色です。しっぽは青色で描かれています。",
+        "reason": "アダムの進化は、より穏やかで清潔感のある外観への要望から生じました。",
+        "thought": "『平和と知恵』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1756603025316
   }
 ]
