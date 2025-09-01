@@ -10332,5 +10332,28 @@
       "gender": "男性"
     },
     "timestamp": 1756689833243
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#FFD700'/><ellipse cx='200' cy='150' rx='80' ry='110' fill='#FFD700'/><path d='M160 160 Q200 220 240 160' fill='none' stroke='#000' stroke-width='2'/><path d='M160 160 Q200 140 240 160' fill='none' stroke='#000' stroke-width='2'/><ellipse cx='160' cy='150' rx='10' ry='20' fill='#000'/><ellipse cx='240' cy='150' rx='10' ry='20' fill='#000'/><polygon points='190,180 200,210 210,180' fill='#000'/><rect x='180' y='250' width='40' height='30' fill='#FFD700'/></svg>",
+      "report": {
+        "appearance": "イヴは金色のボディを持ち、背中には大きな黒い羽が生えています。顔には大きな黒い瞳と金色の模様があり、優雅で美しい女性の特徴を持っています。",
+        "reason": "進化の過程で、イヴは美しさと力強さを兼ね備えた姿に進化しました。金色の体と羽は、宇宙からの輝きと知恵を象徴しています。",
+        "thought": "『宇宙の神秘を感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#4682B4'/><ellipse cx='200' cy='150' rx='80' ry='110' fill='#4682B4'/><path d='M160 160 Q200 220 240 160' fill='none' stroke='#000' stroke-width='2'/><path d='M160 160 Q200 140 240 160' fill='none' stroke='#000' stroke-width='2'/><ellipse cx='160' cy='150' rx='10' ry='20' fill='#000'/><ellipse cx='240' cy='150' rx='10' ry='20' fill='#000'/><polygon points='190,180 200,210 210,180' fill='#000'/><path d='M180 250 Q190 230 200 250 Q210 230 220 250' fill='none' stroke='#4682B4' stroke-width='5'/></svg>",
+      "report": {
+        "appearance": "アダムは青銅色のボディを持ち、背中には青い鱗が並んでいます。顔には大きな青い瞳と鋭い角があり、男性らしい力強さを感じさせる外見です。",
+        "reason": "進化の過程で、アダムは知恵と勇気を兼ね備えた姿に進化しました。青銅色の体と鱗は、海と空の広大な世界への探求心を象徴しています。",
+        "thought": "『未知の世界への挑戦』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1756707976598
   }
 ]
