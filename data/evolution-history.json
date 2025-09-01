@@ -10378,5 +10378,28 @@
       "gender": "男性"
     },
     "timestamp": 1756729984030
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='120' width='100' height='150' fill='#ffcccb'/><ellipse cx='200' cy='100' rx='70' ry='90' fill='#ffd700'/><path d='M200 200 L180 230 L220 230 Z' fill='#ff69b4'/><path d='M165 270 Q200 320 235 270' fill='none' stroke='#ff4500' stroke-width='2'/><circle cx='180' cy='95' r='5' fill='black'/><circle cx='220' cy='95' r='5' fill='black'/><polygon points='150,210 200,260 250,210' fill='#87ceeb'/><line x1='180' y1='230' x2='165' y2='260' stroke='black' stroke-width='2'/><line x1='220' y1='230' x2='235' y2='260' stroke='black' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、金色の毛並みを持ち、ピンク色の肌を持つ女性の姿をしています。背中にはピンク色の羽があり、翼のように広がっています。頭部には桃色の角が2本生え、目は大きく愛らしい形状です。",
+        "reason": "イヴは、自然界の美しさと力強さを融合させ、進化しました。",
+        "thought": "『夢と希望』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='120' width='100' height='150' fill='#4682b4'/><ellipse cx='200' cy='100' rx='70' ry='90' fill='#cd5c5c'/><path d='M200 200 L180 230 L220 230 Z' fill='#556b2f'/><path d='M165 270 Q200 320 235 270' fill='none' stroke='#4b0082' stroke-width='2'/><circle cx='180' cy='95' r='5' fill='black'/><circle cx='220' cy='95' r='5' fill='black'/><polygon points='150,210 200,260 250,210' fill='#2e8b57'/><line x1='180' y1='230' x2='165' y2='260' stroke='black' stroke-width='2'/><line x1='220' y1='230' x2='235' y2='260' stroke='black' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、茶色の毛並みを持ち、赤茶色の肌を持つ男性の姿をしています。背中には緑色のうろこがあり、輝くように光っています。頭部には濃紺色の角が2本生え、目は力強く鋭い形状です。",
+        "reason": "アダムは、野生の力強さと知性を融合させ、進化しました。",
+        "thought": "『勇気と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1756750856325
   }
 ]
