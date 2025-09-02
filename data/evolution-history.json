@@ -10447,5 +10447,28 @@
       "gender": "男性"
     },
     "timestamp": 1756794273083
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='180' rx='100' ry='150' fill='#ffdab9' /><polygon points='125,250 275,250 200,350' fill='#ffc0cb' /><circle cx='150' cy='150' r='20' fill='#ffffff' /><circle cx='250' cy='150' r='20' fill='#ffffff' /><path d='M190,230 Q200,240 210,230' fill='none' stroke='#000000' stroke-width='2' /><path d='M170,220 Q200,250 230,220' fill='none' stroke='#000000' stroke-width='2' /><path d='M130,270 Q200,320 270,270' fill='none' stroke='#000000' stroke-width='2' /><rect x='180' y='200' width='40' height='10' fill='#000000' /><rect x='150' y='200' width='100' height='10' fill='#000000' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の肌を持ち、柔らかなオレンジ色の髪と白い瞳を持つ。体は楕円形で、背中には三角形の羽が生えている。四肢はしなやかで、手と足には指があり、手には爪がある。しっぽはなめらかな曲線で伸び、頭には小さな二つの角がある。",
+        "reason": "生態系で新たな環境に適応するため、イヴは柔らかな色合いとしなやかな体を発展させた。",
+        "thought": "『愛と喜び』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='150' fill='#87ceeb' /><polygon points='150,150 250,150 200,50' fill='#4682b4' /><circle cx='180' cy='200' r='20' fill='#ffffff' /><circle cx='220' cy='200' r='20' fill='#ffffff' /><line x1='200' y1='250' x2='150' y2='300' stroke='#000000' stroke-width='3' /><line x1='200' y1='250' x2='250' y2='300' stroke='#000000' stroke-width='3' /><path d='M180,230 Q200,240 220,230' fill='none' stroke='#000000' stroke-width='2' /><path d='M170,220 Q200,250 230,220' fill='none' stroke='#000000' stroke-width='2' /><rect x='180' y='200' width='40' height='10' fill='#000000' /></svg>",
+      "report": {
+        "appearance": "アダムは青い体と白い背中の模様を持つ。四角い頭と垂れた角、大きな四肢が特徴で、手足には長い指があり、足にはひれがついている。尾は2つに分かれ、頭部には小さな角が2本生えている。",
+        "reason": "アダムは新たな獲物を捕らえる能力を強化するため、青い体色と長い指を進化させた。",
+        "thought": "『力強さと知恵』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1756816384655
   }
 ]
