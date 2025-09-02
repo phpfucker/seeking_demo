@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,255,0);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,0,255);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='140' cy='170' rx='25' ry='40' fill='rgb(245,215,200)' /><ellipse cx='260' cy='170' rx='25' ry='40' fill='rgb(245,215,200)' /><rect x='170' y='230' width='60' height='15' fill='rgb(245,215,200)' /><rect x='165' y='240' width='70' height='60' fill='rgb(245,215,200)' /><ellipse cx='180' cy='280' rx='20' ry='10' fill='rgb(245,215,200)' /><ellipse cx='220' cy='280' rx='20' ry='10' fill='rgb(245,215,200)' /><ellipse cx='155' cy='160' rx='5' ry='10' fill='black' /><ellipse cx='245' cy='160' rx='5' ry='10' fill='black' /><path d='M200 180 Q190 220 200 260 Q210 220 200 180 Z' fill='rgb(245,215,200)' /><rect x='190' y='150' width='20' height='10' fill='black' /><rect x='190' y='160' width='20' height='5' fill='rgb(245,215,200)' /><rect x='190' y='185' width='20' height='15' fill='black' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='180' rx='120' ry='150' fill='#ffcce6' /><path d='M150,230 Q200,280 250,230' fill='none' stroke='#ff66cc' stroke-width='8' /><path d='M160,220 Q200,260 240,220' fill='none' stroke='#ff66cc' stroke-width='8' /><rect x='180' y='150' width='40' height='20' fill='#ff99cc' /><polygon points='200,160 220,160 210,170' fill='#ff99cc' /><rect x='165' y='170' width='70' height='20' fill='#ff99cc' /><text x='190' y='190' font-family='Arial' font-size='14' fill='white'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴは、鮮やかなグラデーションの体色を持ち、優美な顔立ちと柔らかな肌を持つ女性型生命体です。両目には黒い瞳が輝き、優雅な体つきとしなやかな四肢が特徴です。",
-      "reason": "イヴは繊細な進化を遂げ、美しさと優雅さを重視した進化が起こりました。",
-      "thought": "『調和と美しさが全てを包む。』"
+      "appearance": "イヴは、ピンク色の柔らかな体と薄紫色の優雅な姿を持つ女性の生命体です。体の中心には濃いピンク色の装飾があり、しなやかな姿勢で立っています。",
+      "reason": "進化が起こったのは、環境の変化に適応するためであり、柔らかな色合いと優雅な形状が新たな生存戦略を生み出すためである。",
+      "thought": "『慈愛と美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(0,255,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,0,255);stop-opacity:1' /></linearGradient></defs><rect x='150' y='175' width='100' height='150' fill='url(#gradB)' /><ellipse cx='200' cy='170' rx='25' ry='40' fill='rgb(200,225,245)' /><rect x='180' y='230' width='40' height='10' fill='rgb(200,225,245)' /><rect x='180' y='240' width='40' height='60' fill='rgb(200,225,245)' /><ellipse cx='190' cy='280' rx='15' ry='8' fill='rgb(200,225,245)' /><ellipse cx='210' cy='280' rx='15' ry='8' fill='rgb(200,225,245)' /><ellipse cx='180' cy='160' rx='5' ry='10' fill='black' /><ellipse cx='220' cy='160' rx='5' ry='10' fill='black' /><polygon points='200,180 190,220 200,260 210,220' fill='rgb(200,225,245)' /><rect x='190' y='150' width='20' height='10' fill='black' /><rect x='190' y='160' width='20' height='5' fill='rgb(200,225,245)' /><rect x='190' y='185' width='20' height='15' fill='black' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#99ccff' /><ellipse cx='200' cy='180' rx='120' ry='150' fill='#cce6ff' /><path d='M150,230 Q200,280 250,230' fill='none' stroke='#3399ff' stroke-width='8' /><path d='M160,220 Q200,260 240,220' fill='none' stroke='#3399ff' stroke-width='8' /><rect x='180' y='150' width='40' height='20' fill='#66a3ff' /><polygon points='200,160 220,160 210,170' fill='#66a3ff' /><rect x='165' y='170' width='70' height='20' fill='#66a3ff' /><text x='190' y='190' font-family='Arial' font-size='14' fill='white'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは、青とピンクのグラデーションが美しい体色を持つ男性型生命体で、筋骨隆々な身体と力強い雰囲気が特徴です。凛々しい顔つきと力強い腕と足が印象的です。",
-      "reason": "アダムは力強さと凛々しさを追求した進化が生じ、優れた生存能力を獲得しました。",
-      "thought": "『力強さと誇り高き生き様。』"
+      "appearance": "アダムは、青色の力強い体と淡い青色の優しい雰囲気を持つ男性の生命体です。体の中心には濃い青色の装飾があり、力強いスタンスで立っています。",
+      "reason": "進化が起こったのは、狩猟や戦闘といった生存競争において優位に立つためであり、力強い青色と優しい雰囲気が新たな適応戦略を生み出すためである。",
+      "thought": "『勇気と力』"
     },
     "name": "アダム",
     "gender": "男性"
