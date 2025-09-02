@@ -10424,5 +10424,28 @@
       "gender": "男性"
     },
     "timestamp": 1756775615222
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc00' /><ellipse cx='200' cy='150' rx='80' ry='110' fill='#ffd699' /><ellipse cx='160' cy='150' rx='15' ry='25' fill='#ffffff' /><ellipse cx='240' cy='150' rx='15' ry='25' fill='#ffffff' /><path d='M150,250 Q200,300 250,250' fill='none' stroke='#ffcc00' stroke-width='20' /><path d='M170,180 Q200,150 230,180' fill='none' stroke='#ff99cc' stroke-width='15' /><path d='M150,250 Q200,200 250,250' fill='none' stroke='#ff99cc' stroke-width='15' /><polygon points='190,120 210,120 200,130' fill='#ff6666' /><polygon points='190,120 210,120 200,110' fill='#ff6666' /><polygon points='150,250 170,240 130,300' fill='#ffcc00' /><polygon points='250,250 230,240 270,300' fill='#ffcc00' /><polygon points='140,300 160,310 150,320' fill='#ff6666' /><polygon points='260,300 240,310 250,320' fill='#ff6666' /><line x1='180' y1='290' x2='220' y2='290' stroke='#000000' stroke-width='5' /><line x1='170' y1='310' x2='230' y2='310' stroke='#000000' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "イヴは、金色の輝く皮膚を持ち、柔らかなピンク色の眼と白い長い角を持っています。細身で複雑な模様が施された胴体に、赤と黄色の鮮やかな翼があります。四本の細長い脚と、しなやかな尾が特徴です。",
+        "reason": "宇宙からの光を受け取る力を高め、知識と創造性を象徴するために、イヴはこの進化を遂げました。",
+        "thought": "『無限の可能性』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#3399ff' /><polygon points='200,50 250,150 200,250 150,150' fill='#66ccff' /><circle cx='200' cy='150' r='65' fill='#99ccff' /><ellipse cx='180' cy='130' rx='10' ry='15' fill='#ffffff' /><ellipse cx='220' cy='130' rx='10' ry='15' fill='#ffffff' /><path d='M180,200 Q200,240 220,200' fill='none' stroke='#ff6666' stroke-width='15' /><line x1='150' y1='200' x2='190' y2='200' stroke='#ffffff' stroke-width='10' /><line x1='210' y1='200' x2='250' y2='200' stroke='#ffffff' stroke-width='10' /><line x1='190' y1='250' x2='210' y2='250' stroke='#ffffff' stroke-width='10' /><line x1='170' y1='250' x2='230' y2='250' stroke='#ffffff' stroke-width='10' /></svg>",
+      "report": {
+        "appearance": "アダムは、鮮やかな青色の体に、複雑な模様が描かれた胸部を持っています。頭部には丸い水色の目と、白い羽毛のような耳があり、頭頂には短い一本角が生えています。四角い体と短い足が特徴です。",
+        "reason": "宇宙の秩序と力強さを象徴するために、アダムはこの進化を遂げました。",
+        "thought": "『調和の中の力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1756794273083
   }
 ]
