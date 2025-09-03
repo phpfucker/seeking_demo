@@ -10493,5 +10493,28 @@
       "gender": "男性"
     },
     "timestamp": 1756837212222
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='180' rx='120' ry='150' fill='#ffcce6' /><path d='M150,230 Q200,280 250,230' fill='none' stroke='#ff66cc' stroke-width='8' /><path d='M160,220 Q200,260 240,220' fill='none' stroke='#ff66cc' stroke-width='8' /><rect x='180' y='150' width='40' height='20' fill='#ff99cc' /><polygon points='200,160 220,160 210,170' fill='#ff99cc' /><rect x='165' y='170' width='70' height='20' fill='#ff99cc' /><text x='190' y='190' font-family='Arial' font-size='14' fill='white'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな体と薄紫色の優雅な姿を持つ女性の生命体です。体の中心には濃いピンク色の装飾があり、しなやかな姿勢で立っています。",
+        "reason": "進化が起こったのは、環境の変化に適応するためであり、柔らかな色合いと優雅な形状が新たな生存戦略を生み出すためである。",
+        "thought": "『慈愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#99ccff' /><ellipse cx='200' cy='180' rx='120' ry='150' fill='#cce6ff' /><path d='M150,230 Q200,280 250,230' fill='none' stroke='#3399ff' stroke-width='8' /><path d='M160,220 Q200,260 240,220' fill='none' stroke='#3399ff' stroke-width='8' /><rect x='180' y='150' width='40' height='20' fill='#66a3ff' /><polygon points='200,160 220,160 210,170' fill='#66a3ff' /><rect x='165' y='170' width='70' height='20' fill='#66a3ff' /><text x='190' y='190' font-family='Arial' font-size='14' fill='white'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青色の力強い体と淡い青色の優しい雰囲気を持つ男性の生命体です。体の中心には濃い青色の装飾があり、力強いスタンスで立っています。",
+        "reason": "進化が起こったのは、狩猟や戦闘といった生存競争において優位に立つためであり、力強い青色と優しい雰囲気が新たな適応戦略を生み出すためである。",
+        "thought": "『勇気と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1756861769690
   }
 ]
