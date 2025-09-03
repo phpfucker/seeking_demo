@@ -10516,5 +10516,28 @@
       "gender": "男性"
     },
     "timestamp": 1756861769690
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffd700'/><ellipse cx='200' cy='180' rx='100' ry='140' fill='#ff69b4'/><path d='M180,250 Q200,310 220,250 Q200,290 180,250' fill='#ff69b4'/><path d='M150,120 Q140,100 160,100 Q180,100 170,120 Q150,120' fill='#ffffff'/><path d='M250,120 Q260,100 240,100 Q220,100 230,120 Q250,120' fill='#ffffff'/><line x1='170' y1='250' x2='230' y2='250' stroke='#000' stroke-width='2'/><line x1='180' y1='170' x2='140' y2='190' stroke='#000' stroke-width='2'/><line x1='220' y1='170' x2='260' y2='190' stroke='#000' stroke-width='2'/><polygon points='200,150 190,160 210,160' fill='#333'/></svg>",
+      "report": {
+        "appearance": "イヴは、輝く金色の体とピンク色の柔らかな体型を持つ女性で、長い角や繊細な模様が彩られています。",
+        "reason": "進化の過程でイヴは、自然と調和する力を強化するため、美しい金色の輝きと優しいピンク色の魅力的な体型を手に入れました。",
+        "thought": "『自然との一体感』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#4169e1'/><ellipse cx='200' cy='100' rx='70' ry='50' fill='#ff8c00'/><path d='M170,250 Q200,310 230,250 Q200,280 170,250' fill='#ff8c00'/><path d='M170,100 Q180,80 160,80 Q140,80 150,100 Q170,100' fill='#ffffff'/><path d='M230,100 Q240,80 220,80 Q200,80 210,100 Q230,100' fill='#ffffff'/><line x1='150' y1='100' x2='250' y2='100' stroke='#000' stroke-width='2'/><line x1='180' y1='100' x2='160' y2='80' stroke='#000' stroke-width='2'/><line x1='220' y1='100' x2='240' y2='80' stroke='#000' stroke-width='2'/><polygon points='200,50 190,60 210,60' fill='#333'/></svg>",
+      "report": {
+        "appearance": "アダムは、深い青色の頑丈な体とオレンジ色の力強い外観を持つ男性で、独自の形状と角や尾が特徴的です。",
+        "reason": "アダムは、進化によって力強い外観を強調し、自然の厳しさに対抗するため、青色とオレンジ色の組み合わせと頑丈な体格を手に入れました。",
+        "thought": "『力強い生存本能』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1756880531184
   }
 ]
