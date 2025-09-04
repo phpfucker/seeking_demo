@@ -10631,5 +10631,28 @@
       "gender": "男性"
     },
     "timestamp": 1756966958209
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFB6C1' /><ellipse cx='200' cy='150' rx='100' ry='70' fill='#FFA07A' /><rect x='160' y='180' width='80' height='50' fill='#FFA07A' /><rect x='140' y='180' width='20' height='50' fill='#FFA07A' /><rect x='240' y='180' width='20' height='50' fill='#FFA07A' /><path d='M150 220 L90 300 L75 260 Z' fill='#FFA07A' /><path d='M250 220 L310 300 L325 260 Z' fill='#FFA07A' /><circle cx='170' cy='150' r='10' fill='#000' /><circle cx='230' cy='150' r='10' fill='#000' /><circle cx='180' cy='135' r='5' fill='#FFF' /><circle cx='220' cy='135' r='5' fill='#FFF' /><line x1='200' y1='180' x2='200' y2='210' stroke='#000' stroke-width='2' /><polyline points='190,260 200,280 210,260' fill='none' stroke='#000' stroke-width='2' /><polyline points='150,300 180,320 220,320 250,300' fill='none' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚とオレンジ色の髪を持つ女性の姿をしています。顔には短い角が生え、両腕には赤く模様のついた羽が生えています。体の中央には大きな楕円形の突起があり、しっぽのように後ろに伸びています。",
+        "reason": "環境の変化により、イヴは羽や角を持つよう進化しました。これは過酷な状況下での守りのために発達した特徴です。",
+        "thought": "『愛と力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#6495ED' /><ellipse cx='200' cy='150' rx='100' ry='70' fill='#87CEEB' /><rect x='160' y='180' width='80' height='50' fill='#87CEEB' /><rect x='140' y='180' width='20' height='50' fill='#87CEEB' /><rect x='240' y='180' width='20' height='50' fill='#87CEEB' /><path d='M150 220 L90 300 L75 260 Z' fill='#87CEEB' /><path d='M250 220 L310 300 L325 260 Z' fill='#87CEEB' /><circle cx='170' cy='150' r='10' fill='#000' /><circle cx='230' cy='150' r='10' fill='#000' /><circle cx='180' cy='135' r='5' fill='#FFF' /><circle cx='220' cy='135' r='5' fill='#FFF' /><line x1='190' y1='180' x2='200' y2='210' stroke='#000' stroke-width='2' /><polyline points='180,260 200,280 220,260' fill='none' stroke='#000' stroke-width='2' /><polyline points='150,300 180,320 220,320 250,300' fill='none' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌と水色の髪を持つ男性の姿をしています。顔には短い角が生え、両腕には青緑色の透明な鱗が覆われています。体の中央には四角形の突起があり、しっぽのように後ろに伸びています。",
+        "reason": "アダムは水辺での生活に特化するため、鱗やしっぽを持つよう進化しました。これは泳ぐための適応として発達した特徴です。",
+        "thought": "『知恵と調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1756989055677
   }
 ]
