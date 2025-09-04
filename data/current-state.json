@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#ffcccb'><ellipse cx='200' cy='100' rx='80' ry='100'/><ellipse cx='200' cy='250' rx='120' ry='150'/><path d='M140 150 Q200 50 260 150 Q200 250 140 150' fill='#ffc0cb'/><ellipse cx='180' cy='160' rx='10' ry='20'/><ellipse cx='220' cy='160' rx='10' ry='20'/><ellipse cx='180' cy='240' rx='10' ry='20'/><ellipse cx='220' cy='240' rx='10' ry='20'/><path d='M190 200 Q200 230 210 200 Q200 220 190 200'/><rect x='190' y='200' width='20' height='40'/></g><g fill='none' stroke='#000' stroke-width='2'><line x1='170' y1='100' x2='150' y2='60'/><line x1='230' y1='100' x2='250' y2='60'/><ellipse cx='200' cy='120' rx='25' ry='10'/><path d='M200 120 Q200 130 180 140'/><path d='M200 120 Q200 130 220 140'/><path d='M200 250 Q200 270 180 280'/><path d='M200 250 Q200 270 220 280'/><line x1='190' y1='310' x2='150' y2='360'/><line x1='210' y1='310' x2='250' y2='360'/></g></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink'/><ellipse cx='200' cy='150' rx='80' ry='120' fill='white'/><ellipse cx='150' cy='150' rx='20' ry='35' fill='black'/><ellipse cx='250' cy='150' rx='20' ry='35' fill='black'/><path d='M150 250 Q200 300 250 250 T350 250' fill='pink'/> <rect x='180' y='280' width='40' height='20' fill='pink'/><rect x='180' y='300' width='40' height='40' rx='20' ry='20' fill='pink'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、背中には大きなピンク色の羽が生えています。顔には愛らしい目と小さな口があり、四肢は細長く、ピンク色の爪が付いています。体は優雅で美しい女性らしいフォルムを持っています。",
-      "reason": "生態系の変化により、花や植物の女性的な特徴を持つ生物が求められる環境が生まれたため、イヴは美しい花のような姿に進化しました。",
-      "thought": "『豊かな自然に抱かれて』"
+      "appearance": "イヴは、ピンク色の丸い体に白い楕円形の顔を持ち、黒い瞳がある。体の下部にピンク色のしっぽがある。手はピンク色の短い長方形で、足は同じくピンク色の四角形で表現されている。",
+      "reason": "進化の理由は、新たな環境への適応により、柔らかな色合いや丸みを帯びた形状が生存を助けると考えられる。",
+      "thought": "『愛と優しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#add8e6'><ellipse cx='200' cy='100' rx='80' ry='100'/><ellipse cx='200' cy='250' rx='120' ry='150'/><path d='M140 150 Q200 50 260 150 Q200 250 140 150' fill='#b0e0e6'/><polygon points='190,140 210,140 200,150'/><ellipse cx='180' cy='160' rx='10' ry='20'/><ellipse cx='220' cy='160' rx='10' ry='20'/><ellipse cx='180' cy='240' rx='10' ry='20'/><ellipse cx='220' cy='240' rx='10' ry='20'/><path d='M190 200 Q200 230 210 200 Q200 220 190 200'/><rect x='190' y='200' width='20' height='40'/></g><g fill='none' stroke='#000' stroke-width='2'><line x1='170' y1='100' x2='150' y2='60'/><line x1='230' y1='100' x2='250' y2='60'/><ellipse cx='200' cy='120' rx='25' ry='10'/><path d='M200 120 Q200 130 180 140'/><path d='M200 120 Q200 130 220 140'/><path d='M200 250 Q200 270 180 280'/><path d='M200 250 Q200 270 220 280'/><line x1='190' y1='310' x2='150' y2='360'/><line x1='210' y1='310' x2='250' y2='360'/></g></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightblue'/><rect x='160' y='130' width='80' height='50' fill='lightblue'/><ellipse cx='180' cy='150' rx='15' ry='30' fill='black'/><ellipse cx='220' cy='150' rx='15' ry='30' fill='black'/><polygon points='180,250 200,300 220,250' fill='lightblue'/><rect x='185' y='270' width='30' height='20' fill='lightblue'/><rect x='185' y='290' width='30' height='40' rx='15' ry='15' fill='lightblue'/></svg>",
     "report": {
-      "appearance": "アダムは、淡い青色の皮膚を持ち、背中には小さな青いウイングが生えています。顔はシャープで男性的な特徴があり、筋肉質な四肢と青い爪が特徴です。体は力強く、男性らしいフォルムを持っています。",
-      "reason": "環境の厳しさから、生存に必要な力強さや俊敏さが求められたため、アダムは男性らしい特徴を持つ姿に進化しました。",
-      "thought": "『強さと優しさを持って』"
+      "appearance": "アダムは、淡い青色の円形の体に、青い矩形の顔と黒い瞳を持つ。顔の左右には小さな黒い楕円形の耳がある。体の下部には青い三角形のしっぽがついており、足は青い四角形で表現されている。",
+      "reason": "進化は、新たな捕食者との関係に対する適応であり、青色の体表面が環境に溶け込む効果を持つと考えられる。",
+      "thought": "『知識と勇気』"
     },
     "name": "アダム",
     "gender": "男性"
