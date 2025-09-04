@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink'/><ellipse cx='200' cy='150' rx='80' ry='120' fill='white'/><ellipse cx='150' cy='150' rx='20' ry='35' fill='black'/><ellipse cx='250' cy='150' rx='20' ry='35' fill='black'/><path d='M150 250 Q200 300 250 250 T350 250' fill='pink'/> <rect x='180' y='280' width='40' height='20' fill='pink'/><rect x='180' y='300' width='40' height='40' rx='20' ry='20' fill='pink'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFB6C1' /><ellipse cx='200' cy='150' rx='100' ry='70' fill='#FFA07A' /><rect x='160' y='180' width='80' height='50' fill='#FFA07A' /><rect x='140' y='180' width='20' height='50' fill='#FFA07A' /><rect x='240' y='180' width='20' height='50' fill='#FFA07A' /><path d='M150 220 L90 300 L75 260 Z' fill='#FFA07A' /><path d='M250 220 L310 300 L325 260 Z' fill='#FFA07A' /><circle cx='170' cy='150' r='10' fill='#000' /><circle cx='230' cy='150' r='10' fill='#000' /><circle cx='180' cy='135' r='5' fill='#FFF' /><circle cx='220' cy='135' r='5' fill='#FFF' /><line x1='200' y1='180' x2='200' y2='210' stroke='#000' stroke-width='2' /><polyline points='190,260 200,280 210,260' fill='none' stroke='#000' stroke-width='2' /><polyline points='150,300 180,320 220,320 250,300' fill='none' stroke='#000' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の丸い体に白い楕円形の顔を持ち、黒い瞳がある。体の下部にピンク色のしっぽがある。手はピンク色の短い長方形で、足は同じくピンク色の四角形で表現されている。",
-      "reason": "進化の理由は、新たな環境への適応により、柔らかな色合いや丸みを帯びた形状が生存を助けると考えられる。",
-      "thought": "『愛と優しさ』"
+      "appearance": "イヴは、ピンク色の柔らかな皮膚とオレンジ色の髪を持つ女性の姿をしています。顔には短い角が生え、両腕には赤く模様のついた羽が生えています。体の中央には大きな楕円形の突起があり、しっぽのように後ろに伸びています。",
+      "reason": "環境の変化により、イヴは羽や角を持つよう進化しました。これは過酷な状況下での守りのために発達した特徴です。",
+      "thought": "『愛と力』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightblue'/><rect x='160' y='130' width='80' height='50' fill='lightblue'/><ellipse cx='180' cy='150' rx='15' ry='30' fill='black'/><ellipse cx='220' cy='150' rx='15' ry='30' fill='black'/><polygon points='180,250 200,300 220,250' fill='lightblue'/><rect x='185' y='270' width='30' height='20' fill='lightblue'/><rect x='185' y='290' width='30' height='40' rx='15' ry='15' fill='lightblue'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#6495ED' /><ellipse cx='200' cy='150' rx='100' ry='70' fill='#87CEEB' /><rect x='160' y='180' width='80' height='50' fill='#87CEEB' /><rect x='140' y='180' width='20' height='50' fill='#87CEEB' /><rect x='240' y='180' width='20' height='50' fill='#87CEEB' /><path d='M150 220 L90 300 L75 260 Z' fill='#87CEEB' /><path d='M250 220 L310 300 L325 260 Z' fill='#87CEEB' /><circle cx='170' cy='150' r='10' fill='#000' /><circle cx='230' cy='150' r='10' fill='#000' /><circle cx='180' cy='135' r='5' fill='#FFF' /><circle cx='220' cy='135' r='5' fill='#FFF' /><line x1='190' y1='180' x2='200' y2='210' stroke='#000' stroke-width='2' /><polyline points='180,260 200,280 220,260' fill='none' stroke='#000' stroke-width='2' /><polyline points='150,300 180,320 220,320 250,300' fill='none' stroke='#000' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "アダムは、淡い青色の円形の体に、青い矩形の顔と黒い瞳を持つ。顔の左右には小さな黒い楕円形の耳がある。体の下部には青い三角形のしっぽがついており、足は青い四角形で表現されている。",
-      "reason": "進化は、新たな捕食者との関係に対する適応であり、青色の体表面が環境に溶け込む効果を持つと考えられる。",
-      "thought": "『知識と勇気』"
+      "appearance": "アダムは、青色の肌と水色の髪を持つ男性の姿をしています。顔には短い角が生え、両腕には青緑色の透明な鱗が覆われています。体の中央には四角形の突起があり、しっぽのように後ろに伸びています。",
+      "reason": "アダムは水辺での生活に特化するため、鱗やしっぽを持つよう進化しました。これは泳ぐための適応として発達した特徴です。",
+      "thought": "『知恵と調和』"
     },
     "name": "アダム",
     "gender": "男性"
