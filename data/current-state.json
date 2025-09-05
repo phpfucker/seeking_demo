@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='160' fill='#ffcc99' /><ellipse cx='200' cy='180' rx='80' ry='100' fill='#ffddb3' /><polygon points='150,220 190,240 210,240 250,220' fill='#ffddb3' /><polygon points='160,260 200,280 220,280 260,260' fill='#ffddb3' /><polygon points='150,320 180,330 220,330 250,320' fill='#ffddb3' /><line x1='180' y1='180' x2='180' y2='220' stroke='#664422' stroke-width='3' /><line x1='220' y1='180' x2='220' y2='220' stroke='#664422' stroke-width='3' /><rect x='150' y='200' width='100' height='40' fill='#ff9999' /><ellipse cx='180' cy='150' rx='10' ry='5' fill='#664422' /><ellipse cx='220' cy='150' rx='10' ry='5' fill='#664422' /><ellipse cx='190' cy='170' rx='5' ry='3' fill='#664422' /><ellipse cx='210' cy='170' rx='5' ry='3' fill='#664422' /><path d='M190 200 Q200 180 210 200 L210 220 Q200 240 190 220 Z' fill='#ffcccc' /><path d='M160 220 Q180 230 200 220 Q220 230 240 220 L220 260 Q200 280 180 260 Q160 280 140 260 Z' fill='#ffcccc' /><text x='200' y='350' text-anchor='middle' font-family='Arial' font-size='20' fill='#333'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffe4e1' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#ffcccc' /><path d='M190 180 L160 200 190 220 Z' fill='#ff9999' /><path d='M210 180 L240 200 210 220 Z' fill='#ff9999' /><circle cx='170' cy='160' r='10' fill='black' /><circle cx='230' cy='160' r='10' fill='black' /><ellipse cx='180' cy='125' rx='10' ry='5' fill='black' /><ellipse cx='220' cy='125' rx='10' ry='5' fill='black' /><ellipse cx='200' cy='190' rx='20' ry='10' fill='black' /><line x1='180' y1='250' x2='160' y2='300' stroke='black' stroke-width='4' /><line x1='220' y1='250' x2='240' y2='300' stroke='black' stroke-width='4' /><rect x='180' y='300' width='40' height='20' fill='black' /><polygon points='180,300 190,320 200,300' fill='gold' /><polygon points='210,300 220,320 230,300' fill='gold' /></svg>",
     "report": {
-      "appearance": "イヴはピンク色の柔らかな肌を持ち、薄いオレンジ色の鬣が頭部に生えています。体は細長く、手足は四角い形状で、赤い装飾が施されています。しっぽは短く、胸部に大きな赤い矩形模様があります。",
-      "reason": "イヴは新たな進化を迎え、より頭部の鬣や体の装飾が豊かになりました。これは繁殖成功のため、魅力的な特徴を強調するために進化した結果です。",
-      "thought": "『穏やかな愛を持ち続ける』"
+      "appearance": "イヴは、ピンク色の肌と赤い髪を持つ女性の生命体です。体は丸みを帯びており、赤いリボンのような模様が特徴です。腕と脚には黒い線が入り、金色の装飾が施されています。",
+      "reason": "イヴは新たな進化を遂げ、自然の美しさと力強さを表現するために、より色鮮やかで独創的な外見となりました。",
+      "thought": "『愛と創造の力』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='160' fill='#6688ff' /><ellipse cx='200' cy='180' rx='80' ry='100' fill='#99aaff' /><polygon points='150,220 190,240 210,240 250,220' fill='#99aaff' /><polygon points='160,260 200,280 220,280 260,260' fill='#99aaff' /><polygon points='150,320 180,330 220,330 250,320' fill='#99aaff' /><line x1='180' y1='180' x2='180' y2='220' stroke='#334466' stroke-width='3' /><line x1='220' y1='180' x2='220' y2='220' stroke='#334466' stroke-width='3' /><rect x='150' y='200' width='100' height='40' fill='#4477dd' /><ellipse cx='180' cy='150' rx='10' ry='5' fill='#334466' /><ellipse cx='220' cy='150' rx='10' ry='5' fill='#334466' /><ellipse cx='190' cy='170' rx='5' ry='3' fill='#334466' /><ellipse cx='210' cy='170' rx='5' ry='3' fill='#334466' /><path d='M190 200 Q200 180 210 200 L210 220 Q200 240 190 220 Z' fill='#99aaff' /><path d='M160 220 Q180 230 200 220 Q220 230 240 220 L220 260 Q200 280 180 260 Q160 280 140 260 Z' fill='#99aaff' /><text x='200' y='350' text-anchor='middle' font-family='Arial' font-size='20' fill='#333'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='100' fill='#c0c0c0' /><ellipse cx='200' cy='100' rx='80' ry='120' fill='#b0b0b0' /><path d='M190 180 L160 200 190 220 Z' fill='#999999' /><path d='M210 180 L240 200 210 220 Z' fill='#999999' /><circle cx='170' cy='160' r='10' fill='black' /><circle cx='230' cy='160' r='10' fill='black' /><ellipse cx='180' cy='125' rx='10' ry='5' fill='black' /><ellipse cx='220' cy='125' rx='10' ry='5' fill='black' /><ellipse cx='190' cy='190' rx='20' ry='10' fill='black' /><line x1='180' y1='250' x2='160' y2='300' stroke='black' stroke-width='4' /><line x1='220' y1='250' x2='240' y2='300' stroke='black' stroke-width='4' /><polygon points='180,300 190,320 200,300' fill='silver' /><polygon points='210,300 220,320 230,300' fill='silver' /></svg>",
     "report": {
-      "appearance": "アダムは青い鱗状の肌を持ち、薄い青紫色の鬣が頭部に生えています。体はがっしりとしており、手足は丸みを帯びた形状で、青い装飾が施されています。しっぽは長く、胸部に大きな青い矩形模様があります。",
-      "reason": "アダムは力強い進化を遂げ、より頭部の鬣や体の装飾が増加しました。これは獲物を捕らえるため、より強靭な外見を持つ必要があったため、進化した結果です。",
-      "thought": "『過酷な環境にも負けない強さを持つ』"
+      "appearance": "アダムは、灰色の体色と黒い目を持つ男性の生命体です。体は角ばっており、灰色の装甲のような模様が特徴です。手と足には黒い線が入り、銀色の装飾が施されています。",
+      "reason": "アダムは進化によって、堅実さと知性を表現するために、より落ち着いた色合いと堅固な外観となりました。",
+      "thought": "『知恵と誠実さの調和』"
     },
     "name": "アダム",
     "gender": "男性"
