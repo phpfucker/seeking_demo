@@ -10769,5 +10769,28 @@
       "gender": "男性"
     },
     "timestamp": 1757096405710
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccaa' /><ellipse cx='200' cy='120' rx='70' ry='95' fill='#ffb366' /><ellipse cx='140' cy='130' rx='20' ry='30' fill='#ff9966' /><ellipse cx='260' cy='130' rx='20' ry='30' fill='#ff9966' /><path d='M180 200 Q200 240 220 200' fill='none' stroke='#e64d00' stroke-width='3' /><polygon points='180,200 220,200 200,230' fill='none' stroke='#e64d00' stroke-width='3' /><rect x='185' y='260' width='30' height='50' fill='#ff9966' /><rect x='185' y='310' width='10' height='30' fill='#ffccaa' /><rect x='205' y='310' width='10' height='30' fill='#ffccaa' /><circle cx='175' cy='265' r='5' fill='#e64d00' /><circle cx='225' cy='265' r='5' fill='#e64d00' /><text x='200' y='380' font-family='Arial' font-size='20' fill='#333' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、橙色の肌と黄色の瞳を持つ女性型生命体です。体の上部が細く、下部が太くなっており、頭には2つの小さな角を持っています。背中にはふわふわした尾があり、手足は短く丸みを帯びています。指先には小さな鋭い爪があります。",
+        "reason": "環境の変化により、イヴは適応するために体の形状や色彩が変化しました。",
+        "thought": "『繊細な力を持つ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='200' fill='#668cff' /><ellipse cx='200' cy='120' rx='70' ry='95' fill='#4d94ff' /><ellipse cx='140' cy='130' rx='20' ry='30' fill='#3377ff' /><ellipse cx='260' cy='130' rx='20' ry='30' fill='#3377ff' /><path d='M180 200 Q200 240 220 200' fill='none' stroke='#0052cc' stroke-width='3' /><polygon points='180,200 220,200 200,230' fill='none' stroke='#0052cc' stroke-width='3' /><rect x='185' y='260' width='30' height='50' fill='#3377ff' /><rect x='185' y='310' width='10' height='30' fill='#668cff' /><rect x='205' y='310' width='10' height='30' fill='#668cff' /><circle cx='175' cy='265' r='5' fill='#0052cc' /><circle cx='225' cy='265' r='5' fill='#0052cc' /><text x='200' y='380' font-family='Arial' font-size='20' fill='#333' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青紫色の肌と青色の瞳を持つ男性型生命体です。体はがっしりとしており、四角い顔には一本の角が生えています。背中には太い尾が生え、手足は力強く大きくなっています。指先には丸い形状の爪があります。",
+        "reason": "周囲の競争から生存するため、アダムの進化は筋力と体格の向上に焦点を当てました。",
+        "thought": "『力強く輝く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1757120950543
   }
 ]
