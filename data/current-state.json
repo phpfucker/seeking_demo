@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffddf4' /><ellipse cx='200' cy='150' rx='100' ry='130' fill='#ffb3d1' /><rect x='160' y='240' width='80' height='40' fill='#ffddf4' /><rect x='150' y='280' width='100' height='20' fill='#ffb3d1' /><circle cx='170' cy='180' r='10' fill='#ffffff' /><circle cx='230' cy='180' r='10' fill='#ffffff' /><circle cx='190' cy='150' r='10' fill='#ff5f7f' /><circle cx='210' cy='150' r='10' fill='#ff5f7f' /><path d='M190 180 Q200 210 210 180' fill='none' stroke='#000000' stroke-width='2' /><path d='M190 180 Q200 190 210 180' fill='none' stroke='#000000' stroke-width='2' /><path d='M180 240 Q190 260 200 240' fill='none' stroke='#000000' stroke-width='2' /><path d='M220 240 Q210 260 200 240' fill='none' stroke='#000000' stroke-width='2' /><line x1='160' y1='240' x2='150' y2='220' stroke='#000000' stroke-width='2' /><line x1='240' y1='240' x2='250' y2='220' stroke='#000000' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffb6c1'/><ellipse cx='200' cy='180' rx='80' ry='120' fill='#ff99cc'/><ellipse cx='160' cy='180' rx='20' ry='40' fill='#ffccf2'/><ellipse cx='240' cy='180' rx='20' ry='40' fill='#ffccf2'/><path d='M180,220 Q200,250 220,220' fill='none' stroke='#ff99cc' stroke-width='2'/><path d='M170,220 Q200,240 230,220' fill='none' stroke='#ff99cc' stroke-width='2'/><polygon points='190,160 200,150 210,160' fill='#ff99cc'/><polygon points='180,140 200,120 220,140' fill='#ff99cc'/><polygon points='170,100 200,70 230,100' fill='#ff99cc'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンクと白を基調とした美しい女性の姿をしています。身体は丸みを帯びた柔らかい形状で、愛らしい雰囲気が漂います。頭部には角のような突起があり、優雅なしっぽが背中に垂れ下がっています。",
-      "reason": "女性らしさと美しさを更に強調するために、イヴはより柔らかな色合いと曲線を持つ進化を遂げました。",
-      "thought": "『宇宙の愛を宿す』"
+      "appearance": "イヴは、ピンク色の美しい体と大きな目を持つ女性。体は柔らかい曲線で描かれ、顔には優しい表情が浮かんでいます。",
+      "reason": "新たな進化が地球の自然に共鳴し、女性の柔らかさと美しさが強調された結果。",
+      "thought": "『優しさと美しさが力を生む』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='50' width='100' height='170' fill='#91d3f3' /><ellipse cx='200' cy='220' rx='60' ry='80' fill='#5bb8ea' /><polygon points='180,220 200,300 220,220' fill='#5bb8ea' /><rect x='160' y='240' width='80' height='40' fill='#91d3f3' /><rect x='150' y='280' width='100' height='20' fill='#5bb8ea' /><circle cx='170' cy='200' r='10' fill='#ffffff' /><circle cx='230' cy='200' r='10' fill='#ffffff' /><path d='M180 220 Q200 240 220 220' fill='none' stroke='#000000' stroke-width='2' /><path d='M190 270 Q200 290 210 270' fill='none' stroke='#000000' stroke-width='2' /><line x1='160' y1='240' x2='150' y2='220' stroke='#000000' stroke-width='2' /><line x1='240' y1='240' x2='250' y2='220' stroke='#000000' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='150' fill='#add8e6'/><rect x='170' y='120' width='60' height='100' fill='#b0e0e6'/><rect x='210' y='120' width='20' height='50' fill='#b0e0e6'/><rect x='170' y='300' width='60' height='40' fill='#b0e0e6'/><rect x='210' y='300' width='20' height='60' fill='#b0e0e6'/><polygon points='170,150 200,100 230,150' fill='#add8e6'/><polygon points='170,300 200,260 230,300' fill='#add8e6'/></svg>",
     "report": {
-      "appearance": "アダムは、青と白を基調とした男性らしい姿をしています。身体はより角ばった形状で、力強さと知性を感じさせます。頭部には角状の突起があり、背中には凛々しいしっぽが垂れ下がっています。",
-      "reason": "男性らしさと強さをより際立たせるために、アダムはより角ばった形状と深い青色を持つ進化を遂げました。",
-      "thought": "『未来への挑戦』"
+      "appearance": "アダムは、青色の頑丈な体と四角い形の男性。体は力強い直線と角が特徴で、表情は真剣そのもの。",
+      "reason": "進化が生存競争に対応し、男性の強さと頑丈さが際立った結果。",
+      "thought": "『強さと頑丈さが未来を切り拓く』"
     },
     "name": "アダム",
     "gender": "男性"
