@@ -10815,5 +10815,28 @@
       "gender": "男性"
     },
     "timestamp": 1757139617884
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcbf2' /><ellipse cx='200' cy='145' rx='90' ry='120' fill='#ffabf0' /><ellipse cx='165' cy='160' rx='15' ry='30' fill='#ffffff' /><ellipse cx='235' cy='160' rx='15' ry='30' fill='#ffffff' /><path d='M190,200 Q200,260 210,200' fill='none' stroke='#ff66d0' stroke-width='4' /><rect x='175' y='235' width='50' height='10' fill='#ff66d0' /><polygon points='190,170 200,160 210,170' fill='#ffabf0' /><polygon points='185,143 200,133 215,143' fill='#ffabf0' /><circle cx='190' cy='165' r='5' fill='#000000' /><circle cx='210' cy='165' r='5' fill='#000000' /><path d='M165,180 Q175,200 165,220' fill='none' stroke='#ffabf0' stroke-width='4' /><path d='M235,180 Q225,200 235,220' fill='none' stroke='#ffabf0' stroke-width='4' /><path d='M180,260 Q200,280 220,260' fill='none' stroke='#ffabf0' stroke-width='6' /><path d='M190,280 Q200,290 210,280' fill='none' stroke='#ffabf0' stroke-width='6' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の大きな眼と白い体を持つ女性型生命体です。体の一部には紫色の模様があり、優雅さと神秘性を感じさせます。",
+        "reason": "進化の過程で、イヴは環境への適応と美しさを追求する中で、より柔らかく魅力的な外見を獲得しました。",
+        "thought": "『優しさと知性が溢れる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#bde2ff' /><ellipse cx='200' cy='145' rx='90' ry='120' fill='#9dd3ff' /><ellipse cx='165' cy='160' rx='15' ry='30' fill='#ffffff' /><ellipse cx='235' cy='160' rx='15' ry='30' fill='#ffffff' /><rect x='175' y='235' width='50' height='10' fill='#66abff' /><path d='M190,200 Q200,260 210,200' fill='none' stroke='#0080ff' stroke-width='4' /><polygon points='190,170 200,160 210,170' fill='#9dd3ff' /><polygon points='185,143 200,133 215,143' fill='#9dd3ff' /><circle cx='190' cy='165' r='5' fill='#000000' /><circle cx='210' cy='165' r='5' fill='#000000' /><path d='M165,180 Q175,200 165,220' fill='none' stroke='#9dd3ff' stroke-width='4' /><path d='M235,180 Q225,200 235,220' fill='none' stroke='#9dd3ff' stroke-width='4' /><path d='M180,260 Q200,280 220,260' fill='none' stroke='#9dd3ff' stroke-width='6' /><path d='M190,280 Q200,290 210,280' fill='none' stroke='#9dd3ff' stroke-width='6' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体と淡い青の眼を持つ男性型生命体です。体には濃い青の模様が施され、知性と力強さを象徴しています。",
+        "reason": "アダムの進化は、力と知恵を備えた男性らしさを強調し、未来への希望と統率力を示すために起こりました。",
+        "thought": "『力強く、未来を切り開く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1757161637967
   }
 ]
