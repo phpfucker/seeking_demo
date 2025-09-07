@@ -10907,5 +10907,28 @@
       "gender": "男性"
     },
     "timestamp": 1757226017570
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#FFD700'/><circle cx='200' cy='200' r='120' fill='#FFD700'/><path d='M200,200 L180,230 L220,230 Z' fill='#F0E68C'/><ellipse cx='160' cy='175' rx='20' ry='15' fill='#F0E68C'/><ellipse cx='240' cy='175' rx='20' ry='15' fill='#F0E68C'/><path d='M180,230 Q200,250 220,230' fill='none' stroke='#8B4513'/><path d='M160,175 Q200,225 240,175' fill='none' stroke='#8B4513'/><circle cx='170' cy='190' r='8' fill='#000'/><circle cx='230' cy='190' r='8' fill='#000'/><circle cx='200' cy='220' r='10' fill='#FFF'/><path d='M190,260 L200,270 L210,260' fill='none' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは全身を金色に輝く毛で覆われ、優雅な女性のような特徴を持っています。顔には柔らかな表情があり、優しさと知性が感じられます。",
+        "reason": "イヴは新たな進化を遂げ、美しさと強さを兼ね備えた姿に変化しました。環境への適応と生存競争により、華やかな外見が進化の一因となりました。",
+        "thought": "『知性と美しさが力を生む』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#4682B4'/><circle cx='200' cy='200' r='120' fill='#4682B4'/><path d='M200,200 L180,230 L220,230 Z' fill='#87CEEB'/><ellipse cx='160' cy='175' rx='20' ry='15' fill='#87CEEB'/><ellipse cx='240' cy='175' rx='20' ry='15' fill='#87CEEB'/><path d='M180,230 Q200,250 220,230' fill='none' stroke='#4682B4'/><path d='M160,175 Q200,225 240,175' fill='none' stroke='#4682B4'/><circle cx='170' cy='190' r='8' fill='#000'/><circle cx='230' cy='190' r='8' fill='#000'/><polyline points='190,260 200,270 210,260' fill='none' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは鮮やかな青色の体毛を持ち、男性らしい力強い特徴を示しています。顔立ちは凛々しく、威厳と力強さが感じられます。",
+        "reason": "アダムは進化により、優れた生存能力と威圧感を強化した姿へと変貌しました。環境の厳しさに対処するため、強靭な外観が進化の理由となりました。",
+        "thought": "『力強さと誇り高き精神』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1757248089998
   }
 ]
