@@ -10953,5 +10953,28 @@
       "gender": "男性"
     },
     "timestamp": 1757269152321
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,0,0);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,165,0);stop-opacity:1' /></linearGradient></defs><ellipse cx='200' cy='200' rx='150' ry='190' fill='url(#gradA)' /><circle cx='150' cy='150' r='20' fill='white' /><circle cx='250' cy='150' r='20' fill='white' /><path d='M180 250 Q200 260 220 250 Q200 270 180 250' fill='white' /><path d='M150 220 Q200 230 250 220' fill='none' stroke='white' stroke-width='2' /><polygon points='160,240 200,260 240,240' fill='white' /><circle cx='180' cy='180' r='5' fill='black' /><circle cx='220' cy='180' r='5' fill='black' /><path d='M180 300 Q190 280 200 300 Q210 280 220 300' fill='none' stroke='black' stroke-width='2' /><line x1='170' y1='320' x2='180' y2='350' stroke='black' stroke-width='2' /><line x1='230' y1='320' x2='220' y2='350' stroke='black' stroke-width='2' /><path d='M160 210 Q180 180 200 210 Q220 180 240 210' fill='none' stroke='black' stroke-width='2' /><path d='M150 190 Q200 160 250 190' fill='none' stroke='black' stroke-width='2' /><polygon points='170,200 200,180 230,200' fill='none' stroke='black' stroke-width='2' /><text x='200' y='390' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、赤とオレンジのグラデーションを持つ美しい女性。体は楕円形で、顔には白い目と口がある。黒い瞳を持ち、髪は頭部に生えていない。手足は細く、しっぽはなめらかな曲線で描かれている。",
+        "reason": "進化の過程で、イヴはより柔らかく魅力的な特徴を身につけ、生存競争において他の生命体を惹きつけるため。",
+        "thought": "『調和と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><radialGradient id='gradB' cx='50%' cy='50%' r='50%' fx='50%' fy='50%'><stop offset='0%' style='stop-color:rgb(0,0,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(30,144,255);stop-opacity:1' /></radialGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradB)' /><polygon points='160,220 200,260 240,220' fill='white' /><circle cx='150' cy='150' r='20' fill='white' /><circle cx='250' cy='150' r='20' fill='white' /><path d='M180 250 Q200 260 220 250 Q200 270 180 250' fill='white' /><path d='M150 220 Q200 230 250 220' fill='none' stroke='white' stroke-width='2' /><circle cx='180' cy='180' r='5' fill='black' /><circle cx='220' cy='180' r='5' fill='black' /><path d='M180 300 Q190 280 200 300 Q210 280 220 300' fill='none' stroke='black' stroke-width='2' /><line x1='170' y1='320' x2='180' y2='350' stroke='black' stroke-width='2' /><line x1='230' y1='320' x2='220' y2='350' stroke='black' stroke-width='2' /><path d='M160 210 Q180 180 200 210 Q220 180 240 210' fill='none' stroke='black' stroke-width='2' /><path d='M150 190 Q200 160 250 190' fill='none' stroke='black' stroke-width='2' /><text x='200' y='390' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色の放射状グラデーションを持つ男性。四角い体に、白い三角形の模様がある。目と口は白く、瞳は黒い。手足は頑丈で、しっぽはなめらかな曲線を描いている。",
+        "reason": "進化の過程で、アダムはより強固で目立つ特徴を取り入れ、狩猟や敵対的な状況において有利になるため。",
+        "thought": "『力と威厳』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1757294075697
   }
 ]
