@@ -11091,5 +11091,28 @@
       "gender": "男性"
     },
     "timestamp": 1757399042536
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='150' width='300' height='200' fill='#FFD700'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#FFD700'/><ellipse cx='150' cy='100' rx='10' ry='20' fill='#000'/><ellipse cx='250' cy='100' rx='10' ry='20' fill='#000'/><path d='M150 250 Q200 300 250 250' stroke='#000' fill='none'/><path d='M150 250 Q200 220 250 250' stroke='#000' fill='none'/><path d='M150 250 Q200 270 250 250' stroke='#000' fill='none'/><polygon points='180,250 220,250 200,280' fill='#FFD700'/><polygon points='170,140 200,140 185,120' fill='#FFD700'/></svg>",
+      "report": {
+        "appearance": "イヴは金色の美しい毛並みを持ち、ゴールドの体と大きな黒い目が特徴です。首から先にかけての模様が繊細で、優雅な印象を与えます。四つん這いの姿勢で、力強い足としっぽを持っています。",
+        "reason": "環境の変化により、イヴは美しさと優雅さを備えた進化を遂げました。",
+        "thought": "『気品あふれる美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='150' width='300' height='200' fill='#4682B4'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#4682B4'/><ellipse cx='150' cy='100' rx='20' ry='10' fill='#000'/><ellipse cx='250' cy='100' rx='20' ry='10' fill='#000'/><path d='M150 250 Q200 300 250 250' stroke='#000' fill='none'/><path d='M150 250 Q200 220 250 250' stroke='#000' fill='none'/><path d='M150 250 Q200 270 250 250' stroke='#000' fill='none'/><polygon points='180,250 220,250 200,280' fill='#4682B4'/><polygon points='170,140 200,140 185,120' fill='#4682B4'/></svg>",
+      "report": {
+        "appearance": "アダムは青銅色の体毛を持ち、深い青色の体と穏やかな眼差しの大きな目が特徴です。頭部の装飾や腰の龍の模様が存在し、威厳ある姿をしています。四つん這いの姿勢で、力強い足としっかりとした角が特徴的です。",
+        "reason": "繁殖競争において、アダムは威厳と力強さを示すために進化を遂げました。",
+        "thought": "『優しさと力強さの融合』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1757421231524
   }
 ]
