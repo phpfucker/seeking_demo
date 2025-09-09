@@ -11045,5 +11045,28 @@
       "gender": "男性"
     },
     "timestamp": 1757355765045
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffc0cb'/><ellipse cx='200' cy='200' rx='100' ry='150' fill='#ff69b4'/><path d='M200,200 L250,250 L150,250 Z' fill='#ff1493'/><polygon points='190,160 210,160 200,180' fill='#ff69b4'/><rect x='180' y='260' width='40' height='30' fill='#ff69b4'/><line x1='150' y1='210' x2='130' y2='230' stroke='#ff69b4' stroke-width='2'/><line x1='250' y1='210' x2='270' y2='230' stroke='#ff69b4' stroke-width='2'/><path d='M160,260 L140,290 L220,290 L200,260 Z' fill='#ff1493'/><circle cx='180' cy='180' r='10' fill='#000'/><circle cx='220' cy='180' r='10' fill='#000'/><circle cx='190' cy='190' r='5' fill='#fff'/><circle cx='210' cy='190' r='5' fill='#fff'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体と紫色の美しいドレスを身にまとい、優雅で優しい雰囲気を持つ女性型生命体です。繊細な特徴や優美な曲線が特徴で、柔らかな表情が魅力的です。",
+        "reason": "種の進化により、イヴはより美しく、優雅で愛らしい特徴を持つようになりました。それは、環境での生存だけでなく、仲間との調和や連帯を重視するためです。",
+        "thought": "『愛と美しさの調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><polygon points='200,50 250,100 150,100' fill='#4682b4'/><polygon points='150,100 250,100 200,200' fill='#4169e1'/><rect x='180' y='200' width='40' height='80' fill='#4169e1'/><circle cx='200' cy='200' r='60' fill='#4682b4'/><circle cx='180' cy='190' r='5' fill='#000'/><circle cx='220' cy='190' r='5' fill='#000'/><circle cx='190' cy='220' r='10' fill='#fff'/><circle cx='210' cy='220' r='10' fill='#fff'/><line x1='150' y1='100' x2='150' y2='200' stroke='#4169e1' stroke-width='5'/><line x1='250' y1='100' x2='250' y2='200' stroke='#4169e1' stroke-width='5'/></svg>",
+      "report": {
+        "appearance": "アダムは、青と紺色のカラーリングで覆われ、筋肉質で力強い男性型生命体です。鋭い特徴とタフな外観が特徴で、力強さと知性を兼ね備えています。",
+        "reason": "進化の過程でアダムは、より強靭で知性に富んだ特徴を獲得しました。これは、狩猟や共同作業、環境適応力の向上のために進化した結果です。",
+        "thought": "『力と知性の調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1757380305213
   }
 ]
