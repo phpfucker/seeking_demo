@@ -11160,5 +11160,28 @@
       "gender": "男性"
     },
     "timestamp": 1757466604459
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff99cc' /><ellipse cx='200' cy='200' rx='120' ry='170' fill='#ff80b3' /><rect x='150' y='220' width='100' height='40' fill='#ff4d94' /><rect x='160' y='260' width='80' height='40' fill='#ff1a66' /><path d='M190 170 L210 170 L200 180 Z' fill='#ff1a66' /><path d='M190 100 Q200 80 210 100' fill='none' stroke='#ff1a66' stroke-width='2' /><path d='M190 110 Q200 90 210 110' fill='none' stroke='#ff1a66' stroke-width='2' /><polyline points='160,230 140,240 160,250' fill='none' stroke='#ff1a66' stroke-width='2' /><polyline points='240,230 260,240 240,250' fill='none' stroke='#ff1a66' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の美しい楕円形の体に、濃いピンク色の小さな角を持ち、胸に赤い模様がある。手は短く両側に二本ずつあり、しっぽはなめらかな曲線を描いている。",
+        "reason": "イヴは愛と美のシンボルであるピンク色をまとうように進化した。",
+        "thought": "『愛と美が世界を変える』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='150' width='120' height='180' fill='#4da6ff' /><ellipse cx='200' cy='200' rx='110' ry='160' fill='#3399ff' /><path d='M160 150 L200 100 L240 150 Z' fill='#1a66ff' /><path d='M180 140 Q200 120 220 140' fill='none' stroke='#1a66ff' stroke-width='2' /><path d='M180 160 Q200 140 220 160' fill='none' stroke='#1a66ff' stroke-width='2' /><line x1='150' y1='200' x2='140' y2='240' stroke='#1a66ff' stroke-width='2' /><line x1='250' y1='200' x2='260' y2='240' stroke='#1a66ff' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の立方体状の体に、濃い青色の角が二つ生え、胸に濃い青の模様がある。手は長く四本ずつあり、しっぽは直線的で頑丈な形状をしている。",
+        "reason": "アダムは知識と誠実さを象徴する青色に進化した。",
+        "thought": "『知識と誠実さが未来を切り開く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1757485376507
   }
 ]
