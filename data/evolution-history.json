@@ -11183,5 +11183,28 @@
       "gender": "男性"
     },
     "timestamp": 1757485376507
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffccff' /><rect x='150' y='200' width='100' height='150' fill='#f2a2e8' /><ellipse cx='200' cy='100' rx='50' ry='30' fill='#ffbbff' /><path d='M150 50 L100 200 L200 200 Z' fill='#ff99ff' /><circle cx='175' cy='125' r='5' fill='#661a66' /><circle cx='225' cy='125' r='5' fill='#661a66' /><polygon points='175,200 180,190 220,190 225,200' fill='#fff' /><polygon points='175,280 125,290 150,250 200,290 225,280' fill='#fff' /><rect x='150' y='200' width='100' height='10' fill='#ff99ff' /><line x1='150' y1='210' x2='250' y2='210' stroke='#ff99ff' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、全身がピンク色の柔らかな肌で覆われ、頭部には短いオレンジ色の角が生えています。体の下部には光沢のある紫色の装飾が施され、手足は小さな紫色の爪で飾られています。",
+        "reason": "進化の過程でイヴの肌の色や装飾がより鮮やかに変化し、角が生えたことで強さと気品が表現されました。",
+        "thought": "『愛と美しさの融合』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#b3e6b3' /><rect x='150' y='200' width='100' height='150' fill='#99cc99' /><ellipse cx='200' cy='100' rx='50' ry='30' fill='#99ff99' /><path d='M150 50 L200 200 L300 200 Z' fill='#66cc66' /><circle cx='175' cy='125' r='5' fill='#336633' /><circle cx='225' cy='125' r='5' fill='#336633' /><polygon points='175,200 180,190 220,190 225,200' fill='#fff' /><polygon points='175,280 125,290 150,250 200,290 225,280' fill='#fff' /><rect x='150' y='200' width='100' height='10' fill='#66cc66' /><line x1='150' y1='210' x2='250' y2='210' stroke='#66cc66' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、全身が緑色の滑らかな皮膚で覆われ、頭部には長い緑色の角が生えています。体の下部には淡い緑色の模様が施され、手足には鋭い爪が備わっています。",
+        "reason": "アダムの進化により、皮膚の緑色や模様がより生命力と調和を表現し、長い角が生えたことで力強さと独自性が強調されました。",
+        "thought": "『自然と調和した力強さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1757507478824
   }
 ]
