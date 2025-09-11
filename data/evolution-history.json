@@ -11252,5 +11252,28 @@
       "gender": "男性"
     },
     "timestamp": 1757553091990
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='rgb(255,204,229)'/><ellipse cx='200' cy='150' rx='65' ry='30' fill='rgb(255,204,229)'/><ellipse cx='150' cy='150' rx='20' ry='30' fill='rgb(255,204,229)'/><ellipse cx='250' cy='150' rx='20' ry='30' fill='rgb(255,204,229)'/><circle cx='170' cy='170' r='5' fill='black'/><circle cx='230' cy='170' r='5' fill='black'/><rect x='180' y='210' width='40' height='10' fill='rgb(255,204,229)'/><path d='M175 250 Q200 300 225 250' fill='none' stroke='black'/><path d='M200 240 Q170 280 200 290 Q230 280 200 240' fill='rgb(255,204,229)'/><polygon points='190,145 195,145 200,130 205,145 210,145 205,140 200,155 195,140' fill='black'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体と白い模様を持つ女性。背中に丸い模様があり、繊細な特徴を持つ。",
+        "reason": "生態系の変化により、イヴはより華やかで優美な姿に進化した。",
+        "thought": "『神秘的な美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='150' fill='rgb(102,178,255)'/><ellipse cx='200' cy='125' rx='50' ry='25' fill='rgb(102,178,255)'/><rect x='185' y='200' width='30' height='10' fill='rgb(102,178,255)'/><line x1='175' y1='300' x2='200' y2='350' stroke='black'/><line x1='225' y1='300' x2='200' y2='350' stroke='black'/><polygon points='190,125 195,125 200,110 205,125 210,125 205,120 200,135 195,120' fill='black'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の体を持つ男性。頭部に円形の模様があり、力強く逞しい特徴を持つ。",
+        "reason": "環境の厳しさに対応するため、アダムはより強靭で頑健な姿に進化した。",
+        "thought": "『力強さと頼もしさ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1757571798764
   }
 ]
