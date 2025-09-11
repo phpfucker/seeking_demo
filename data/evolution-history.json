@@ -11298,5 +11298,28 @@
       "gender": "男性"
     },
     "timestamp": 1757593835407
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFD1DC'/><ellipse cx='200' cy='120' rx='80' ry='100' fill='#FFB6C1'/><path d='M200,200 L180,220 L160,200 L180,180 Z' fill='#FFD1DC'/><path d='M200,200 L220,220 L240,200 L220,180 Z' fill='#FFD1DC'/><circle cx='170' cy='130' r='10' fill='#000'/><circle cx='230' cy='130' r='10' fill='#000'/><ellipse cx='190' cy='240' rx='25' ry='15' fill='#000'/><ellipse cx='210' cy='240' rx='25' ry='15' fill='#000'/><path d='M190,250 Q200,270 210,250' fill='none' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな毛並みを持ち、卵型の体に大きな目と小さな口を持つ女性の姿をしています。背中には赤い羽根のような模様が特徴です。",
+        "reason": "新たな環境への適応が進化を促し、イヴはより優れた視覚と柔らかい外観で周囲との調和を図るようになりました。",
+        "thought": "『調和と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='50' width='100' height='150' fill='#87CEEB'/><polygon points='150,50 250,50 200,10' fill='#87CEEB'/><polygon points='200,10 250,50 300,10' fill='#87CEEB'/><ellipse cx='200' cy='200' rx='80' ry='100' fill='#4682B4'/><circle cx='180' cy='180' r='20' fill='#000'/><circle cx='220' cy='180' r='20' fill='#000'/><path d='M180,220 Q200,230 220,220' fill='none' stroke='#000' stroke-width='2'/><line x1='220' y1='220' x2='220' y2='240' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い体と大きな羽を持つ男性の姿をしています。頭部に三角形の角があり、体には水滴模様が特徴です。",
+        "reason": "狩猟や領域争いから身を守るため、アダムはより強靭な体と洞察力を必要とし、新たな進化により優れた視覚と水中での機動性を得ました。",
+        "thought": "『力と知恵』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1757614734759
   }
 ]
