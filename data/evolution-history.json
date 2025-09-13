@@ -11436,5 +11436,28 @@
       "gender": "男性"
     },
     "timestamp": 1757725541872
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='120' ry='160' fill='#f7a4b8'/><path d='M200,160 Q170,140 140,160 Q170,180 200,160' fill='#e18dab'/><circle cx='170' cy='170' r='10' fill='#e18dab'/><circle cx='230' cy='170' r='10' fill='#e18dab'/><circle cx='180' cy='220' r='8' fill='#e18dab'/><circle cx='220' cy='220' r='8' fill='#e18dab'/><path d='M150,240 Q200,280 250,240' fill='none' stroke='#e18dab' stroke-width='8'/><path d='M190,260 Q200,270 210,260' fill='none' stroke='#e18dab' stroke-width='6'/><path d='M180,300 Q200,320 220,300' fill='none' stroke='#e18dab' stroke-width='8'/><ellipse cx='190' cy='180' rx='15' ry='8' fill='#f7a4b8'/><ellipse cx='210' cy='180' rx='15' ry='8' fill='#f7a4b8'/><rect x='180' y='160' width='40' height='10' fill='#e18dab'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の光沢のある体に、柔らかな赤色の髪を持つ女性の姿をしています。体は楕円形で、優雅な曲線が特徴です。顔には愛らしい笑顔があり、細やかなディテールが施されています。",
+        "reason": "進化の理由は、イヴが新たな環境に適応するため、より美しく、愛らしい姿に進化したためです。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='120' ry='160' fill='#8ac4d0'/><path d='M200,160 Q170,140 140,160 Q170,180 200,160' fill='#6eabb8'/><circle cx='170' cy='170' r='10' fill='#6eabb8'/><circle cx='230' cy='170' r='10' fill='#6eabb8'/><circle cx='180' cy='220' r='8' fill='#6eabb8'/><circle cx='220' cy='220' r='8' fill='#6eabb8'/><path d='M150,240 Q200,280 250,240' fill='none' stroke='#6eabb8' stroke-width='8'/><path d='M190,260 Q200,270 210,260' fill='none' stroke='#6eabb8' stroke-width='6'/><path d='M180,300 Q200,320 220,300' fill='none' stroke='#6eabb8' stroke-width='8'/><rect x='180' y='160' width='40' height='10' fill='#6eabb8'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の滑らかな体と、深い青色の髪を持つ男性の姿をしています。体の形状は楕円形で、力強い雰囲気が漂います。表情は落ち着いており、瞳には知性が宿っています。",
+        "reason": "アダムが新たな環境に適応するため、力強い外見で知性を持つ姿に進化したためです。",
+        "thought": "『知性と力強さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1757744399602
   }
 ]
