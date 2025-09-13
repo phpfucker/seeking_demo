@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='140' ry='180' fill='#ffacac' /><path d='M180,200 C180,100 220,100 220,200' fill='none' stroke='#e57373' stroke-width='8' /><path d='M220,200 C220,300 180,300 180,200' fill='none' stroke='#e57373' stroke-width='8' /><polygon points='200,160 195,170 205,170' fill='#f48fb1' /><path d='M190,210 Q200,230 210,210' fill='none' stroke='#e57373' stroke-width='6' /><path d='M205,230 Q200,250 195,230' fill='none' stroke='#e57373' stroke-width='6' /><circle cx='190' cy='180' r='10' fill='#40332d' /><circle cx='210' cy='180' r='10' fill='#40332d' /><path d='M170,220 Q200,250 230,220' fill='none' stroke='#e57373' stroke-width='8' /><path d='M170,220 Q200,240 230,220' fill='none' stroke='#e57373' stroke-width='8' /><polygon points='200,180 190,190 210,190' fill='#ffc3dc' /><rect x='190' y='280' width='20' height='40' fill='#40332d' /><rect x='160' y='280' width='80' height='20' fill='#ffc3dc' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#e3bb9a'/><ellipse cx='200' cy='180' rx='90' ry='120' fill='#f0d8c9'/><path d='M180,220 Q200,260 220,220 Q200,260 180,220' fill='#e9c4b9'/><path d='M160,220 Q200,300 240,220 Q200,300 160,220' fill='#e9c4b9'/><circle cx='170' cy='180' r='10' fill='#000'/><circle cx='230' cy='180' r='10' fill='#000'/><path d='M220,250 Q200,260 180,250 Q200,260 220,250' fill='none' stroke='#000' stroke-width='2'/><rect x='175' y='290' width='50' height='20' fill='#e3bb9a'/></svg>",
     "report": {
-      "appearance": "イヴは、大きな楕円形のピンク色の体に、薄いピンク色の顔と角、複数の柔らかい曲線を持つ四肢、淡い紫色の模様が入ったしっぽを持つ女性の姿をしています。体の中央には暗褐色の薄い帯があり、背中にはピンク色の翼が生えています。",
-      "reason": "イヴは、自然界の変化により、新たな生存戦略を取り入れるために、美しさと力を兼ね備えた姿に進化しました。",
-      "thought": "『生命の尊さ』"
+      "appearance": "イヴは、柔らかなピンク色の肌を持ち、長い髪と優雅な目をしています。体は優美な曲線で、しなやかな動きが特徴です。四肢は細く、指先には繊細な爪があります。背中には小さな翼が生えています。",
+      "reason": "イヴは進化し、より優美で美しい姿へと変化しました。新しい特徴は、より柔らかな色合いと、しなやかな曲線の体で、自然と共鳴するような美しさを表現しています。",
+      "thought": "『優しさと美しさを守りたい』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='140' ry='180' fill='#b3e5fc' /><path d='M180,200 C180,100 220,100 220,200' fill='none' stroke='#64b5f6' stroke-width='8' /><path d='M220,200 C220,300 180,300 180,200' fill='none' stroke='#64b5f6' stroke-width='8' /><polygon points='200,160 195,170 205,170' fill='#90caf9' /><path d='M190,210 Q200,230 210,210' fill='none' stroke='#64b5f6' stroke-width='6' /><path d='M205,230 Q200,250 195,230' fill='none' stroke='#64b5f6' stroke-width='6' /><circle cx='190' cy='180' r='10' fill='#40332d' /><circle cx='210' cy='180' r='10' fill='#40332d' /><path d='M170,220 Q200,250 230,220' fill='none' stroke='#64b5f6' stroke-width='8' /><path d='M170,220 Q200,240 230,220' fill='none' stroke='#64b5f6' stroke-width='8' /><polygon points='200,180 190,190 210,190' fill='#bbdefb' /><rect x='190' y='280' width='20' height='40' fill='#40332d' /><rect x='160' y='280' width='80' height='20' fill='#bbdefb' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='50' width='100' height='150' fill='#7aa6d8'/><rect x='150' y='200' width='100' height='150' fill='#7aa6d8'/><polygon points='150,50 200,0 250,50' fill='#7aa6d8'/><polygon points='150,350 200,400 250,350' fill='#7aa6d8'/><circle cx='180' cy='180' r='15' fill='#000'/><circle cx='220' cy='180' r='15' fill='#000'/><path d='M200,250 Q180,260 160,250 Q180,260 200,250' fill='none' stroke='#000' stroke-width='2'/><polygon points='170,350 190,360 210,360 230,350' fill='#7aa6d8'/></svg>",
     "report": {
-      "appearance": "アダムは、大きな楕円形の青色の体に、薄い青色の顔と角、複数の柔らかい曲線を持つ四肢、淡い青紫色の模様が入ったしっぽを持つ男性の姿をしています。体の中央には薄い青色の帯があり、背中には青色の翼が生えています。",
-      "reason": "アダムは、環境の変化により、新たな力と知恵を求め、美しさと知性を兼ね備えた姿に進化しました。",
-      "thought": "『知恵と調和』"
+      "appearance": "アダムは、頑丈な青い体と大きな筋肉を持ち、力強い表情をしています。四角い頭には鋭い目と鼻があり、頭部から胴体にかけて流れるような筋肉が特徴です。四肢は力強く、頑丈な足で地にしっかりと根を張っています。",
+      "reason": "アダムは進化し、より力強く頑丈な姿へと変化しました。新しい特徴は、青い色合いと頑丈な四角い体で、自然と調和する力強さを表現しています。",
+      "thought": "『力強さと勇気を示そう』"
     },
     "name": "アダム",
     "gender": "男性"

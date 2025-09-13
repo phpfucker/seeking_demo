@@ -11482,5 +11482,28 @@
       "gender": "男性"
     },
     "timestamp": 1757766453962
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='140' ry='180' fill='#ffacac' /><path d='M180,200 C180,100 220,100 220,200' fill='none' stroke='#e57373' stroke-width='8' /><path d='M220,200 C220,300 180,300 180,200' fill='none' stroke='#e57373' stroke-width='8' /><polygon points='200,160 195,170 205,170' fill='#f48fb1' /><path d='M190,210 Q200,230 210,210' fill='none' stroke='#e57373' stroke-width='6' /><path d='M205,230 Q200,250 195,230' fill='none' stroke='#e57373' stroke-width='6' /><circle cx='190' cy='180' r='10' fill='#40332d' /><circle cx='210' cy='180' r='10' fill='#40332d' /><path d='M170,220 Q200,250 230,220' fill='none' stroke='#e57373' stroke-width='8' /><path d='M170,220 Q200,240 230,220' fill='none' stroke='#e57373' stroke-width='8' /><polygon points='200,180 190,190 210,190' fill='#ffc3dc' /><rect x='190' y='280' width='20' height='40' fill='#40332d' /><rect x='160' y='280' width='80' height='20' fill='#ffc3dc' /></svg>",
+      "report": {
+        "appearance": "イヴは、大きな楕円形のピンク色の体に、薄いピンク色の顔と角、複数の柔らかい曲線を持つ四肢、淡い紫色の模様が入ったしっぽを持つ女性の姿をしています。体の中央には暗褐色の薄い帯があり、背中にはピンク色の翼が生えています。",
+        "reason": "イヴは、自然界の変化により、新たな生存戦略を取り入れるために、美しさと力を兼ね備えた姿に進化しました。",
+        "thought": "『生命の尊さ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='140' ry='180' fill='#b3e5fc' /><path d='M180,200 C180,100 220,100 220,200' fill='none' stroke='#64b5f6' stroke-width='8' /><path d='M220,200 C220,300 180,300 180,200' fill='none' stroke='#64b5f6' stroke-width='8' /><polygon points='200,160 195,170 205,170' fill='#90caf9' /><path d='M190,210 Q200,230 210,210' fill='none' stroke='#64b5f6' stroke-width='6' /><path d='M205,230 Q200,250 195,230' fill='none' stroke='#64b5f6' stroke-width='6' /><circle cx='190' cy='180' r='10' fill='#40332d' /><circle cx='210' cy='180' r='10' fill='#40332d' /><path d='M170,220 Q200,250 230,220' fill='none' stroke='#64b5f6' stroke-width='8' /><path d='M170,220 Q200,240 230,220' fill='none' stroke='#64b5f6' stroke-width='8' /><polygon points='200,180 190,190 210,190' fill='#bbdefb' /><rect x='190' y='280' width='20' height='40' fill='#40332d' /><rect x='160' y='280' width='80' height='20' fill='#bbdefb' /></svg>",
+      "report": {
+        "appearance": "アダムは、大きな楕円形の青色の体に、薄い青色の顔と角、複数の柔らかい曲線を持つ四肢、淡い青紫色の模様が入ったしっぽを持つ男性の姿をしています。体の中央には薄い青色の帯があり、背中には青色の翼が生えています。",
+        "reason": "アダムは、環境の変化により、新たな力と知恵を求め、美しさと知性を兼ね備えた姿に進化しました。",
+        "thought": "『知恵と調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1757787505641
   }
 ]
