@@ -11551,5 +11551,28 @@
       "gender": "男性"
     },
     "timestamp": 1757830834077
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"80\" width=\"200\" height=\"240\" fill=\"#ff99cc\"/><ellipse cx=\"200\" cy=\"250\" rx=\"70\" ry=\"90\" fill=\"#ffccff\"/><circle cx=\"150\" cy=\"200\" r=\"10\" fill=\"#663333\"/><circle cx=\"250\" cy=\"200\" r=\"10\" fill=\"#663333\"/><path d=\"M170 300 Q200 350 230 300\" stroke=\"#663333\" stroke-width=\"4\" fill=\"none\"/><path d=\"M190 250 Q200 230 210 250\" stroke=\"#663333\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"150,320 170,320 160,340\" fill=\"#663333\"/><polygon points=\"230,320 250,320 240,340\" fill=\"#663333\"/><path d=\"M190 170 Q200 190 210 170\" stroke=\"#663333\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"180,160 190,150 200,160\" fill=\"#ffccff\"/><polygon points=\"200,160 210,150 220,160\" fill=\"#ffccff\"/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体と大きな赤い眼と、円形の口を持つ生命体。体の中央には白い腹部があり、四本の脚がしっかりとした足となっている。背中には2本の小さな角が生えている。",
+        "reason": "進化の過程において、イヴの脚がより頑丈になり、運動能力が向上した。また、目の大きさと赤い色合いは、独特な視覚機能を発展させ、新たな環境に適応するために変化した。",
+        "thought": "『未知の世界を見据えて』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"120\" y=\"80\" width=\"160\" height=\"240\" fill=\"#66ccff\"/><ellipse cx=\"200\" cy=\"250\" rx=\"60\" ry=\"80\" fill=\"#99ccff\"/><circle cx=\"170\" cy=\"200\" r=\"10\" fill=\"#663300\"/><circle cx=\"230\" cy=\"200\" r=\"10\" fill=\"#663300\"/><path d=\"M160 300 Q200 350 240 300\" stroke=\"#663300\" stroke-width=\"4\" fill=\"none\"/><path d=\"M180 250 Q200 230 220 250\" stroke=\"#663300\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"170,320 190,320 180,340\" fill=\"#663300\"/><polygon points=\"210,320 230,320 220,340\" fill=\"#663300\"/><path d=\"M180 170 Q200 190 220 170\" stroke=\"#663300\" stroke-width=\"2\" fill=\"none\"/><polygon points=\"170,160 180,150 190,160\" fill=\"#99ccff\"/><polygon points=\"200,160 210,150 220,160\" fill=\"#99ccff\"/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体と大きな青い眼と、楕円形の口を持つ生命体。体の中央には灰色の腹部があり、四本の脚がしっかりとした足となっている。背中には2本の尖った角が生えている。",
+        "reason": "アダムの体の色や角の成長は、新たな脅威から身を守るための適応として進化した。目の位置や大きさの変化は、異なる視覚角度からの観察と捉え方を可能にし、獲物をより効率的に見つけることができるようになった。",
+        "thought": "『未来を見据えて』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1757852835451
   }
 ]
