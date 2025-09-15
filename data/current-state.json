@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(242, 118, 73);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(251, 197, 118);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='150' r='100' fill='url(#gradA)' /><rect x='150' y='200' width='100' height='100' fill='rgb(242, 118, 73)' /><ellipse cx='100' cy='300' rx='40' ry='20' fill='rgb(251, 197, 118)' /><polygon points='200,100 230,150 200,170' fill='rgb(251, 197, 118)' /><path d='M200,200 L180,230 L220,230 Z' fill='rgb(242, 118, 73)' /><line x1='160' y1='180' x2='190' y2='180' stroke='rgb(251, 197, 118)' stroke-width='3' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='60' width='200' height='280' fill='#f7cac9'/><ellipse cx='200' cy='150' rx='80' ry='100' fill='#f4a261'/><ellipse cx='200' cy='270' rx='100' ry='70' fill='#e5989b'/><path d='M180 150 Q200 100 220 150 Q200 100 220 150' fill='none' stroke='#d45079' stroke-width='4'/><path d='M180 270 Q200 320 220 270 Q200 320 220 270' fill='none' stroke='#d45079' stroke-width='4'/><circle cx='160' cy='140' r='10' fill='#f4a261'/><circle cx='240' cy='140' r='10' fill='#f4a261'/><circle cx='160' cy='260' r='10' fill='#e5989b'/><circle cx='240' cy='260' r='10' fill='#e5989b'/><polygon points='180,190 220,190 200,220' fill='#d45079'/><polygon points='180,240 220,240 200,210' fill='#d45079'/><rect x='180' y='320' width='40' height='20' fill='#d45079'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンクとオレンジのグラデーションが美しい女性型生命体です。丸い顔に大きな目と小さな口を持ち、優雅な体つきが特徴です。背中にはピンクの円形模様があります。",
-      "reason": "環境の変化により、イヴは美しい色彩と柔らかな特徴を進化させました。",
-      "thought": "『愛と美が宇宙を満たす』"
+      "appearance": "イヴは、ピンクとオレンジの色調を持つ美しい女性の姿をしています。体は上半身が楕円形で下半身が長方形の特徴的な形状であり、ピンクと赤のグラデーションで描かれています。顔には優しい表情の目と口が配置され、全体的に柔らかな雰囲気を醸し出しています。",
+      "reason": "イヴの進化は、生命の調和と美しさを追求するために、色彩豊かで柔らかな特徴が強調された結果です。",
+      "thought": "『愛と美しさの調和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(86, 173, 182);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(39, 119, 133);stop-opacity:1' /></linearGradient></defs><rect x='150' y='150' width='100' height='150' fill='url(#gradB)' /><circle cx='200' cy='100' r='50' fill='rgb(39, 119, 133)' /><polygon points='180,300 210,300 200,330' fill='rgb(86, 173, 182)' /><path d='M180,150 L200,130 L220,150 Z' fill='rgb(86, 173, 182)' /><line x1='160' y1='150' x2='190' y2='150' stroke='rgb(39, 119, 133)' stroke-width='3' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='60' width='200' height='280' fill='#aed9e0'/><ellipse cx='200' cy='150' rx='85' ry='95' fill='#5eaaa8'/><ellipse cx='200' cy='270' rx='110' ry='60' fill='#4a7c59'/><path d='M180 140 Q200 100 220 140 Q200 100 220 140' fill='none' stroke='#3b6978' stroke-width='4'/><path d='M180 260 Q200 320 220 260 Q200 320 220 260' fill='none' stroke='#3b6978' stroke-width='4'/><circle cx='160' cy='140' r='10' fill='#5eaaa8'/><circle cx='240' cy='140' r='10' fill='#5eaaa8'/><circle cx='160' cy='260' r='10' fill='#4a7c59'/><circle cx='240' cy='260' r='10' fill='#4a7c59'/><polygon points='180,190 220,190 200,220' fill='#3b6978'/><polygon points='180,240 220,240 200,210' fill='#3b6978'/><line x1='180' y1='320' x2='220' y2='320' stroke='#3b6978' stroke-width='4'/></svg>",
     "report": {
-      "appearance": "アダムは、青と水色のグラデーションが美しい男性型生命体です。四角い顔に丸い目と小さな口を持ち、頑丈な体つきが特徴です。背中には青い三角形模様があります。",
-      "reason": "アダムは新たな獲得領域への適応を目指し、頑丈な体と青い色彩を進化させました。",
-      "thought": "『力強く未来へ進む』"
+      "appearance": "アダムは、青と緑の色調を持つ男性の姿をしています。体は上半身が楕円形で下半身が長方形の形状であり、青と緑のグラデーションで描かれています。目と口が力強い表情で表現され、全体的に力強さと落ち着きが感じられます。",
+      "reason": "アダムの進化は、生存と力強さを象徴するために、青と緑の色合いと力強い表現が取り入れられた結果です。",
+      "thought": "『力と平和の調和』"
     },
     "name": "アダム",
     "gender": "男性"
