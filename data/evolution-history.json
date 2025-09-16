@@ -11689,5 +11689,28 @@
       "gender": "男性"
     },
     "timestamp": 1757960520995
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffcccb'/><circle cx='200' cy='110' r='60' fill='#ffb6c1'/><path d='M150 200 L200 300 L250 200 Z' fill='#ff1493'/><circle cx='150' cy='250' r='25' fill='#ff69b4'/><circle cx='250' cy='250' r='25' fill='#ff69b4'/><circle cx='180' cy='100' r='5' fill='#000'/><circle cx='220' cy='100' r='5' fill='#000'/><rect x='180' y='300' width='40' height='60' fill='#ffcccb'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクの柔らかな肌に包まれた女性の姿をしています。体の中心には赤い花びらのような模様があり、優雅で優しい雰囲気を醸し出しています。",
+        "reason": "新たな進化は、自然の力によって女性の美しさと優しさを象徴するために生じました。",
+        "thought": "『生命の美しさは内面から輝く』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#87cefa'/><circle cx='200' cy='110' r='60' fill='#4682b4'/><polygon points='150,200 200,300 250,200' fill='#4169e1'/><circle cx='150' cy='250' r='25' fill='#87cefa'/><circle cx='250' cy='250' r='25' fill='#87cefa'/><polygon points='180,100 200,50 220,100' fill='#000'/><rect x='180' y='300' width='40' height='60' fill='#87cefa'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い体色に覆われた男性の姿をしています。体の中央には青い鱗片のような模様があり、力強さと知性を感じさせます。",
+        "reason": "進化は、男性らしさと知性をより強調し、進化の過程での適応を示すために生じました。",
+        "thought": "『強さと知性のバランスこそが真の進化』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1757985000110
   }
 ]
