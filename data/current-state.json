@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><rect x='100' y='150' width='200' height='200' fill='url(#gradA)' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='rgb(255,192,203)' /><path d='M280 270 Q200 350 120 270 Q200 190 280 270' fill='rgb(255,105,180)' /><circle cx='160' cy='170' r='10' fill='white' /><circle cx='240' cy='170' r='10' fill='white' /><path d='M160 250 L165 260 L150 265 Z' fill='white' /><path d='M240 250 L245 260 L230 265 Z' fill='white' /><rect x='180' y='300' width='40' height='20' fill='rgb(255,105,180)' /><rect x='180' y='330' width='10' height='50' fill='rgb(255,105,180)' /><rect x='210' y='330' width='10' height='50' fill='rgb(255,105,180)' /><polygon points='150,150 200,120 250,150' fill='rgb(255,192,203)' /><polygon points='160,160 200,130 240,160' fill='rgb(255,192,203)' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
     "report": {
-      "appearance": "イヴは、ピンクと紫のグラデーションの体色を持つ女性型生命体です。体は楕円形で、複雑な曲線を持つ腕と足が特徴です。顔には白い目と口が描かれており、頭部には複雑な模様があります。",
-      "reason": "新たな環境での適応のため、イヴは美しい色彩と柔らかな形状を進化させました。",
-      "thought": "『調和と美しさ』"
+      "appearance": "イヴは、輝く鱗で覆われた美しい女性の姿をしています。背中には羽根が生え、透き通るような尾びれが長く優雅に広がっています。頭上には角が生え、薄紫色の模様が全身に広がっています。",
+      "reason": "新たな環境に適応するため、イヴは美しさと柔らかさを兼ね備えた進化を遂げました。",
+      "thought": "『宇宙の神秘を感じる』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(173,216,230);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><rect x='100' y='150' width='200' height='200' fill='url(#gradB)' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='rgb(173,216,230)' /><path d='M280 270 Q200 350 120 270 Q200 190 280 270' fill='rgb(65,105,225)' /><circle cx='160' cy='170' r='10' fill='white' /><circle cx='240' cy='170' r='10' fill='white' /><path d='M160 250 L165 260 L150 265 Z' fill='white' /><path d='M240 250 L245 260 L230 265 Z' fill='white' /><rect x='180' y='300' width='40' height='20' fill='rgb(65,105,225)' /><rect x='180' y='330' width='10' height='50' fill='rgb(65,105,225)' /><rect x='210' y='330' width='10' height='50' fill='rgb(65,105,225)' /><polygon points='150,150 200,120 250,150' fill='rgb(173,216,230)' /><polygon points='160,160 200,130 240,160' fill='rgb(173,216,230)' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
     "report": {
-      "appearance": "アダムは、青と水色のグラデーションの体色を持つ男性型生命体です。体の形状や模様はイヴと似ていますが、色彩が異なります。複雑な曲線を持つ腕と足が特徴です。",
-      "reason": "狩猟や求愛行動の効率向上のため、アダムは洗練された色彩と筋肉質な体を進化させました。",
-      "thought": "『力強さと誇り』"
+      "appearance": "アダムは、堅固な鱗に覆われた男性の姿をしています。大きな鋭い角が頭頂にそびえ、赤と黒のグラデーション模様が筋肉に沿って広がっています。四肢は力強く、尖った尾がしっかりとしたバランスを保っています。",
+      "reason": "過酷な環境に対抗するため、アダムは強靭さと防御力を高めた進化を遂げました。",
+      "thought": "『未知への挑戦』"
     },
     "name": "アダム",
     "gender": "男性"
