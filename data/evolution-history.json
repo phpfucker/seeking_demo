@@ -11850,5 +11850,28 @@
       "gender": "男性"
     },
     "timestamp": 1758112333472
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='120' width='160' height='160' fill='#f9c4cc'/><ellipse cx='200' cy='100' rx='60' ry='80' fill='#fae0d4'/><path d='M150 200 Q200 300 250 200 Q200 250 150 200 Z' fill='#f9c4cc'/><circle cx='160' cy='150' r='10' fill='#ffffff'/><circle cx='240' cy='150' r='10' fill='#ffffff'/><path d='M180 250 Q200 280 220 250' fill='none' stroke='#ffffff'/><line x1='180' y1='300' x2='160' y2='340' stroke='#fae0d4' stroke-width='4'/><line x1='220' y1='300' x2='240' y2='340' stroke='#fae0d4' stroke-width='4'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、大きな赤い目と短いピンク色の髪を持っています。胴体は四角形で、足は線が太めの細長い形状です。",
+        "reason": "生態系の変化により、イヴは柔らかな色合いと独特な体の形状に進化しました。",
+        "thought": "『自然の魅力を感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='120' width='160' height='160' fill='#aacfd0'/><ellipse cx='200' cy='100' rx='60' ry='80' fill='#b8e0e2'/><path d='M150 200 Q200 300 250 200 Q200 250 150 200 Z' fill='#aacfd0'/><circle cx='160' cy='150' r='10' fill='#ffffff'/><circle cx='240' cy='150' r='10' fill='#ffffff'/><path d='M180 250 Q200 280 220 250' fill='none' stroke='#ffffff'/><polygon points='195,300 180,340 210,340' fill='#b8e0e2'/></svg>",
+      "report": {
+        "appearance": "アダムは、青緑色の肌に覆われ、大きな青い目と短い青緑色の髪を持っています。短い角が生え、胴体は四角形で、足は細長い形状です。",
+        "reason": "環境の変化に伴い、アダムは青緑色の肌と独特な角の成長に適応しました。",
+        "thought": "『新たな力を感じる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1758133300207
   }
 ]
