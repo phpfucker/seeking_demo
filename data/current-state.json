@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#FF9AA2'><rect x='120' y='150' width='160' height='120'/><ellipse cx='200' cy='100' rx='60' ry='40'/><polygon points='150,150 200,50 250,150'/><circle cx='170' cy='120' r='5'/><circle cx='230' cy='120' r='5'/></g><g fill='#FFCBD3'><rect x='140' y='170' width='120' height='80'/><ellipse cx='200' cy='250' rx='40' ry='20'/><polygon points='190,200 200,180 210,200'/><polygon points='180,230 190,220 200,230 210,220 220,230 210,240 200,230 190,240'/></g><g fill='#FFDDD2'><path d='M200 120 L190 140 L210 140 Z'/><circle cx='170' cy='180' r='10'/><circle cx='230' cy='180' r='10'/></g><g fill='#F3E0E2'><ellipse cx='200' cy='180' rx='30' ry='15'/><polygon points='185,185 200,215 215,185'/></g></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='120' rx='90' ry='60' fill='#ff99ff' /><ellipse cx='200' cy='280' rx='90' ry='30' fill='#ff99ff' /><path d='M170,230 Q200,280 230,230' fill='none' stroke='#ff99ff' stroke-width='5' /><path d='M170,170 Q200,120 230,170' fill='none' stroke='#ff99ff' stroke-width='5' /><circle cx='160' cy='140' r='10' fill='#ffffff' /><circle cx='240' cy='140' r='10' fill='#ffffff' /><circle cx='180' cy='260' r='10' fill='#ffffff' /><circle cx='220' cy='260' r='10' fill='#ffffff' /><rect x='180' y='190' width='40' height='20' fill='#ff99ff' /><polygon points='190,250 210,250 200,260' fill='#ffccff' /><path d='M200,280 Q180,300 160,280 Q180,260 200,280' fill='none' stroke='#ff99ff' stroke-width='5' /><path d='M200,280 Q220,300 240,280 Q220,260 200,280' fill='none' stroke='#ff99ff' stroke-width='5' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンクと白の色合いを持つ優雅な女性。体には赤いドレスが美しくフィットし、透明な翼が後ろに広がっている。頭部には小さな角があり、優しい微笑みを浮かべている。",
-      "reason": "繊細な女性らしさと優美さを強調するため、進化によって翼やドレスが追加され、より優雅な外観となった。",
-      "thought": "『夢と希望』"
+      "appearance": "イヴは、ピンク色の滑らかな皮膚を持ち、頭部には大きな明るいピンク色の目があります。体は細長い形状で、胴体は淡いピンク色の楕円形で、手足は円滑な曲線で描かれています。両手には白い爪があり、足にはピンク色のヒールがあります。",
+      "reason": "イヴは、自然界の要素に満ちた環境において、優雅かつ繊細な特徴を進化させることで、生存能力を高めるために進化しました。",
+      "thought": "『優しさと美しさを守ります』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#A0E7E5'><rect x='120' y='150' width='160' height='120'/><ellipse cx='200' cy='100' rx='60' ry='40'/><polygon points='150,150 200,50 250,150'/><circle cx='170' cy='120' r='5'/><circle cx='230' cy='120' r='5'/></g><g fill='#BFE9DB'><rect x='140' y='170' width='120' height='80'/><ellipse cx='200' cy='250' rx='40' ry='20'/><polygon points='190,200 200,180 210,200'/><polygon points='180,230 190,220 200,230 210,220 220,230 210,240 200,230 190,240'/></g><g fill='#C2DBE9'><path d='M200 120 L190 140 L210 140 Z'/><circle cx='170' cy='180' r='10'/><circle cx='230' cy='180' r='10'/></g><g fill='#EAD1DC'><ellipse cx='200' cy='180' rx='30' ry='15'/><polygon points='185,185 200,215 215,185'/></g></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='120' width='100' height='160' fill='#6699cc' /><circle cx='200' cy='120' r='40' fill='#6699cc' /><ellipse cx='200' cy='280' rx='60' ry='20' fill='#6699cc' /><path d='M170,230 Q200,280 230,230' fill='none' stroke='#6699cc' stroke-width='5' /><path d='M170,170 Q200,120 230,170' fill='none' stroke='#6699cc' stroke-width='5' /><circle cx='160' cy='140' r='10' fill='#ffffff' /><circle cx='240' cy='140' r='10' fill='#ffffff' /><circle cx='180' cy='260' r='10' fill='#ffffff' /><circle cx='220' cy='260' r='10' fill='#ffffff' /><polygon points='190,250 210,250 200,260' fill='#6699cc' /><path d='M200,280 Q180,300 160,280 Q180,260 200,280' fill='none' stroke='#6699cc' stroke-width='5' /><path d='M200,280 Q220,300 240,280 Q220,260 200,280' fill='none' stroke='#6699cc' stroke-width='5' /></svg>",
     "report": {
-      "appearance": "アダムは、青と緑の色調が美しい男性。青いスーツがスマートに身体を包み、緑の鱗が腕や脚に装飾されている。頭部には鮮やかな水色の角が生え、凛々しい表情をしている。",
-      "reason": "男性らしい力強さと知性を表現するため、鱗や角が追加され、より洗練された外観となった。",
-      "thought": "『誇りと勇気』"
+      "appearance": "アダムは、青色の頑丈な体を持ち、頭部には大きな濃い青色の目があります。四肢は分厚く、胴体は大きな青い長方形で表現されています。手には白い爪があり、足には青い厚底の靴が描かれています。",
+      "reason": "アダムは、過酷な環境での生存において、強靭かつ力強い特徴を進化させることで、生存能力を高めるために進化しました。",
+      "thought": "『力強く立ち向かいます』"
     },
     "name": "アダム",
     "gender": "男性"
