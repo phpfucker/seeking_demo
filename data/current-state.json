@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='180' width='200' height='180' fill='#ffccff' /><ellipse cx='200' cy='100' rx='80' ry='100' fill='#ffb3b3' /><path d='M200 200 L180 240 L220 240 Z' fill='#ff6666' /><circle cx='150' cy='120' r='8' fill='#ff6666' /><circle cx='250' cy='120' r='8' fill='#ff6666' /><path d='M160 240 Q200 280 240 240' fill='none' stroke='#ff6666' stroke-width='6' /><polyline points='180,280 190,270 210,280 220,270' fill='none' stroke='#ff6666' stroke-width='6' /><line x1='160' y1='180' x2='180' y2='180' stroke='#000' stroke-width='4' /><line x1='220' y1='180' x2='240' y2='180' stroke='#000' stroke-width='4' /><path d='M200 220 Q180 240 200 260 Q220 240 200 220 Z' fill='#ff9999' /></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"200\" width=\"200\" height=\"150\" fill=\"#ffcc66\"/><ellipse cx=\"200\" cy=\"100\" rx=\"80\" ry=\"60\" fill=\"#ffcc66\"/><rect x=\"175\" y=\"200\" width=\"50\" height=\"150\" fill=\"#e68a00\"/><path d=\"M250 200 L275 250 L225 250 Z\" fill=\"#e68a00\"/><circle cx=\"160\" cy=\"100\" r=\"10\" fill=\"#ffcccc\"/><circle cx=\"240\" cy=\"100\" r=\"10\" fill=\"#ffcccc\"/><polygon points=\"180,280 220,280 200,300\" fill=\"#e68a00\"/><rect x=\"175\" y=\"350\" width=\"50\" height=\"20\" fill=\"#ffcc66\"/></svg>",
     "report": {
-      "appearance": "イヴは、ピンクの体色に細長い顔と大きな目を持ち、赤いリボンのような模様が左右に広がる特徴を持ちます。頭部から生える2本の角は優雅に湾曲しており、手足は細くやや長めです。",
-      "reason": "新たな進化が起こり、イヴは美しさと優美さを強調した姿に進化しました。",
-      "thought": "『優しさと美しさを守りたい』"
+      "appearance": "イヴは、全身を覆うオレンジ色の毛皮と、大きなオレンジ色の耳を持つ女性の姿をしています。体の下部には四角い尾があり、瞳は丸く愛らしい印象を与えます。",
+      "reason": "女性性をより表現するため、毛皮の色合いや形状が変化しました。",
+      "thought": "『変化と成長』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='180' width='200' height='180' fill='#99ccff' /><ellipse cx='200' cy='100' rx='80' ry='100' fill='#b3e0ff' /><path d='M200 200 L180 240 L220 240 Z' fill='#4da6ff' /><circle cx='150' cy='120' r='8' fill='#4da6ff' /><circle cx='250' cy='120' r='8' fill='#4da6ff' /><path d='M160 240 Q200 280 240 240' fill='none' stroke='#4da6ff' stroke-width='6' /><polyline points='180,280 190,270 210,280 220,270' fill='none' stroke='#4da6ff' stroke-width='6' /><line x1='160' y1='180' x2='180' y2='180' stroke='#000' stroke-width='4' /><line x1='220' y1='180' x2='240' y2='180' stroke='#000' stroke-width='4' /><path d='M200 220 Q180 240 200 260 Q220 240 200 220 Z' fill='#66b3ff' /></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"200\" width=\"200\" height=\"150\" fill=\"#6699ff\"/><ellipse cx=\"200\" cy=\"100\" rx=\"80\" ry=\"60\" fill=\"#6699ff\"/><rect x=\"175\" y=\"200\" width=\"50\" height=\"150\" fill=\"#3366ff\"/><path d=\"M250 200 L275 250 L225 250 Z\" fill=\"#3366ff\"/><circle cx=\"160\" cy=\"100\" r=\"10\" fill=\"#99ccff\"/><circle cx=\"240\" cy=\"100\" r=\"10\" fill=\"#99ccff\"/><line x1=\"195\" y1=\"300\" x2=\"205\" y2=\"300\" stroke=\"#3366ff\" stroke-width=\"2\"/><line x1=\"195\" y1=\"320\" x2=\"205\" y2=\"320\" stroke=\"#3366ff\" stroke-width=\"2\"/></svg>",
     "report": {
-      "appearance": "アダムは、青い体色に幅広い顔と優しい表情の大きな目を持ち、波状の模様が全身に広がる特徴を持ちます。角の生えた頭部は力強く、手足はがっしりとした造りです。",
-      "reason": "進化の過程で、アダムは知識と力強さを象徴する姿に進化しました。",
-      "thought": "『知識と力、調和を大切に』"
+      "appearance": "アダムは、深い青色の皮膚と、大きな青い眼を持つ男性の姿をしています。尾は四角い形状で、体の上部には素早さを表す2本の青い角が生えています。",
+      "reason": "男性性をより表現するため、皮膚の色合いや角の生え方が変化しました。",
+      "thought": "『力と誇り』"
     },
     "name": "アダム",
     "gender": "男性"
