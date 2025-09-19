@@ -12034,5 +12034,28 @@
       "gender": "男性"
     },
     "timestamp": 1758285133797
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"200\" width=\"200\" height=\"150\" fill=\"#ffcc66\"/><ellipse cx=\"200\" cy=\"100\" rx=\"80\" ry=\"60\" fill=\"#ffcc66\"/><rect x=\"175\" y=\"200\" width=\"50\" height=\"150\" fill=\"#e68a00\"/><path d=\"M250 200 L275 250 L225 250 Z\" fill=\"#e68a00\"/><circle cx=\"160\" cy=\"100\" r=\"10\" fill=\"#ffcccc\"/><circle cx=\"240\" cy=\"100\" r=\"10\" fill=\"#ffcccc\"/><polygon points=\"180,280 220,280 200,300\" fill=\"#e68a00\"/><rect x=\"175\" y=\"350\" width=\"50\" height=\"20\" fill=\"#ffcc66\"/></svg>",
+      "report": {
+        "appearance": "イヴは、全身を覆うオレンジ色の毛皮と、大きなオレンジ色の耳を持つ女性の姿をしています。体の下部には四角い尾があり、瞳は丸く愛らしい印象を与えます。",
+        "reason": "女性性をより表現するため、毛皮の色合いや形状が変化しました。",
+        "thought": "『変化と成長』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"200\" width=\"200\" height=\"150\" fill=\"#6699ff\"/><ellipse cx=\"200\" cy=\"100\" rx=\"80\" ry=\"60\" fill=\"#6699ff\"/><rect x=\"175\" y=\"200\" width=\"50\" height=\"150\" fill=\"#3366ff\"/><path d=\"M250 200 L275 250 L225 250 Z\" fill=\"#3366ff\"/><circle cx=\"160\" cy=\"100\" r=\"10\" fill=\"#99ccff\"/><circle cx=\"240\" cy=\"100\" r=\"10\" fill=\"#99ccff\"/><line x1=\"195\" y1=\"300\" x2=\"205\" y2=\"300\" stroke=\"#3366ff\" stroke-width=\"2\"/><line x1=\"195\" y1=\"320\" x2=\"205\" y2=\"320\" stroke=\"#3366ff\" stroke-width=\"2\"/></svg>",
+      "report": {
+        "appearance": "アダムは、深い青色の皮膚と、大きな青い眼を持つ男性の姿をしています。尾は四角い形状で、体の上部には素早さを表す2本の青い角が生えています。",
+        "reason": "男性性をより表現するため、皮膚の色合いや角の生え方が変化しました。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1758306081315
   }
 ]
