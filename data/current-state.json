@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#f9bb2d' /><ellipse cx='175' cy='170' rx='20' ry='30' fill='#ffffff' /><ellipse cx='225' cy='170' rx='20' ry='30' fill='#ffffff' /><path d='M190 230 Q200 250 210 230' fill='none' stroke='#000' stroke-width='2' /><path d='M190 230 Q200 250 210 230' fill='none' stroke='#000' stroke-width='2' transform='translate(20, 50) scale(1, -1)' /><ellipse cx='190' cy='180' rx='6' ry='10' fill='#000' /><ellipse cx='210' cy='180' rx='6' ry='10' fill='#000' /><rect x='175' y='250' width='50' height='10' fill='#f9bb2d' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='180' width='200' height='180' fill='#ffccff' /><ellipse cx='200' cy='100' rx='80' ry='100' fill='#ffb3b3' /><path d='M200 200 L180 240 L220 240 Z' fill='#ff6666' /><circle cx='150' cy='120' r='8' fill='#ff6666' /><circle cx='250' cy='120' r='8' fill='#ff6666' /><path d='M160 240 Q200 280 240 240' fill='none' stroke='#ff6666' stroke-width='6' /><polyline points='180,280 190,270 210,280 220,270' fill='none' stroke='#ff6666' stroke-width='6' /><line x1='160' y1='180' x2='180' y2='180' stroke='#000' stroke-width='4' /><line x1='220' y1='180' x2='240' y2='180' stroke='#000' stroke-width='4' /><path d='M200 220 Q180 240 200 260 Q220 240 200 220 Z' fill='#ff9999' /></svg>",
     "report": {
-      "appearance": "イヴは、金色の輝く肌を持ち、白いふわふわの羽根が生えた優美な女性です。大きな瞳には宇宙の輝きが宿り、背中には金の輝くしっぽが優雅に揺れます。",
-      "reason": "宇宙のエネルギーと地球の命が融合し、新たな生命を生み出すため、イヴはより美しく、より神秘的な姿へと進化しました。",
-      "thought": "『永遠の美と愛』"
+      "appearance": "イヴは、ピンクの体色に細長い顔と大きな目を持ち、赤いリボンのような模様が左右に広がる特徴を持ちます。頭部から生える2本の角は優雅に湾曲しており、手足は細くやや長めです。",
+      "reason": "新たな進化が起こり、イヴは美しさと優美さを強調した姿に進化しました。",
+      "thought": "『優しさと美しさを守りたい』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#3b5998' /><ellipse cx='175' cy='170' rx='20' ry='30' fill='#ffffff' /><ellipse cx='225' cy='170' rx='20' ry='30' fill='#ffffff' /><path d='M190 230 Q200 250 210 230' fill='none' stroke='#000' stroke-width='2' /><path d='M190 230 Q200 250 210 230' fill='none' stroke='#000' stroke-width='2' transform='translate(20, 50) scale(1, -1)' /><ellipse cx='190' cy='180' rx='6' ry='10' fill='#000' /><ellipse cx='210' cy='180' rx='6' ry='10' fill='#000' /><rect x='175' y='250' width='50' height='10' fill='#3b5998' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='180' width='200' height='180' fill='#99ccff' /><ellipse cx='200' cy='100' rx='80' ry='100' fill='#b3e0ff' /><path d='M200 200 L180 240 L220 240 Z' fill='#4da6ff' /><circle cx='150' cy='120' r='8' fill='#4da6ff' /><circle cx='250' cy='120' r='8' fill='#4da6ff' /><path d='M160 240 Q200 280 240 240' fill='none' stroke='#4da6ff' stroke-width='6' /><polyline points='180,280 190,270 210,280 220,270' fill='none' stroke='#4da6ff' stroke-width='6' /><line x1='160' y1='180' x2='180' y2='180' stroke='#000' stroke-width='4' /><line x1='220' y1='180' x2='240' y2='180' stroke='#000' stroke-width='4' /><path d='M200 220 Q180 240 200 260 Q220 240 200 220 Z' fill='#66b3ff' /></svg>",
     "report": {
-      "appearance": "アダムは、深い青色の肌を持ち、力強い筋肉と角の生えた男性です。瞳には海の底の深さが宿り、背中には青い鱗が光ります。",
-      "reason": "海と大地の力が融合し、新たな生命を生み出すため、アダムはより強く、より徳のある姿へと進化しました。",
-      "thought": "『力と誇り』"
+      "appearance": "アダムは、青い体色に幅広い顔と優しい表情の大きな目を持ち、波状の模様が全身に広がる特徴を持ちます。角の生えた頭部は力強く、手足はがっしりとした造りです。",
+      "reason": "進化の過程で、アダムは知識と力強さを象徴する姿に進化しました。",
+      "thought": "『知識と力、調和を大切に』"
     },
     "name": "アダム",
     "gender": "男性"

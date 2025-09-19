@@ -11988,5 +11988,28 @@
       "gender": "男性"
     },
     "timestamp": 1758244311457
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#f9bb2d' /><ellipse cx='175' cy='170' rx='20' ry='30' fill='#ffffff' /><ellipse cx='225' cy='170' rx='20' ry='30' fill='#ffffff' /><path d='M190 230 Q200 250 210 230' fill='none' stroke='#000' stroke-width='2' /><path d='M190 230 Q200 250 210 230' fill='none' stroke='#000' stroke-width='2' transform='translate(20, 50) scale(1, -1)' /><ellipse cx='190' cy='180' rx='6' ry='10' fill='#000' /><ellipse cx='210' cy='180' rx='6' ry='10' fill='#000' /><rect x='175' y='250' width='50' height='10' fill='#f9bb2d' /></svg>",
+      "report": {
+        "appearance": "イヴは、金色の輝く肌を持ち、白いふわふわの羽根が生えた優美な女性です。大きな瞳には宇宙の輝きが宿り、背中には金の輝くしっぽが優雅に揺れます。",
+        "reason": "宇宙のエネルギーと地球の命が融合し、新たな生命を生み出すため、イヴはより美しく、より神秘的な姿へと進化しました。",
+        "thought": "『永遠の美と愛』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#3b5998' /><ellipse cx='175' cy='170' rx='20' ry='30' fill='#ffffff' /><ellipse cx='225' cy='170' rx='20' ry='30' fill='#ffffff' /><path d='M190 230 Q200 250 210 230' fill='none' stroke='#000' stroke-width='2' /><path d='M190 230 Q200 250 210 230' fill='none' stroke='#000' stroke-width='2' transform='translate(20, 50) scale(1, -1)' /><ellipse cx='190' cy='180' rx='6' ry='10' fill='#000' /><ellipse cx='210' cy='180' rx='6' ry='10' fill='#000' /><rect x='175' y='250' width='50' height='10' fill='#3b5998' /></svg>",
+      "report": {
+        "appearance": "アダムは、深い青色の肌を持ち、力強い筋肉と角の生えた男性です。瞳には海の底の深さが宿り、背中には青い鱗が光ります。",
+        "reason": "海と大地の力が融合し、新たな生命を生み出すため、アダムはより強く、より徳のある姿へと進化しました。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1758262990483
   }
 ]
