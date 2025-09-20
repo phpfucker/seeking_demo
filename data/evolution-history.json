@@ -12103,5 +12103,28 @@
       "gender": "男性"
     },
     "timestamp": 1758349244675
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(236, 112, 99);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(229, 152, 155);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradA)' /><ellipse cx='200' cy='250' rx='70' ry='90' fill='rgb(253, 236, 214)' /><ellipse cx='170' cy='240' rx='10' ry='15' fill='rgb(0, 0, 0)' /><ellipse cx='230' cy='240' rx='10' ry='15' fill='rgb(0, 0, 0)' /><path d='M190 290 Q200 320 210 290' fill='none' stroke='rgb(0, 0, 0)' stroke-width='2' /><polygon points='180,220 190,210 210,210 220,220' fill='rgb(0, 0, 0)' /></svg>",
+      "report": {
+        "appearance": "イヴは、淡いピンクからオレンジへとグラデーションする柔らかな体色を持ち、大きな瞳と小さな耳が特徴の女性型生命体です。体は優しく曲線を描き、しなやかな動きを示します。",
+        "reason": "イヴは自然界の優美な色合いと柔らかな曲線を受け継ぎ、より美しく進化しました。",
+        "thought": "『調和と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(65, 131, 215);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(86, 171, 223);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradB)' /><ellipse cx='200' cy='240' rx='70' ry='90' fill='rgb(253, 236, 214)' /><path d='M170 290 Q200 330 230 290' fill='none' stroke='rgb(0, 0, 0)' stroke-width='2' /><ellipse cx='175' cy='240' rx='15' ry='10' fill='rgb(0, 0, 0)' /><ellipse cx='225' cy='240' rx='15' ry='10' fill='rgb(0, 0, 0)' /><polygon points='180,220 190,210 210,210 220,220' fill='rgb(0, 0, 0)' /></svg>",
+      "report": {
+        "appearance": "アダムは、青いから水色へとグラデーションする体色を持ち、力強い腕や大きな角が特徴の男性型生命体です。姿勢は堂々としており、凛とした雰囲気を醸し出しています。",
+        "reason": "アダムは自然界の澄んだ水の色合いと力強い形状を受け継ぎ、より精悍な姿に進化しました。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1758371329399
   }
 ]
