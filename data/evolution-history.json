@@ -12080,5 +12080,28 @@
       "gender": "男性"
     },
     "timestamp": 1758330498293
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='190' width='300' height='180' fill='#ffb6c1' rx='20' ry='20'/><path d='M200,130 C150,150 250,150 200,130 Z' fill='#ffb6c1'/><ellipse cx='200' cy='160' rx='100' ry='120' fill='#ff94c2'/><path d='M170,150 L130,250 L250,250 L210,150 Z' fill='#ff94c2'/><circle cx='160' cy='160' r='15' fill='#ffffff'/><circle cx='240' cy='160' r='15' fill='#ffffff'/><circle cx='200' cy='190' r='10' fill='#f8d7da'/><circle cx='180' cy='220' r='8' fill='#f8d7da'/><circle cx='220' cy='220' r='8' fill='#f8d7da'/><polygon points='190,180 195,170 205,170 210,180' fill='#000000'/><path d='M180,210 Q200,230 220,210' fill='none' stroke='#000000'/><path d='M230,260 Q250,240 270,260' fill='none' stroke='#000000'/><path d='M170,300 Q200,330 230,300' fill='none' stroke='#000000'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、優雅な女性の特徴が際立つ。体は半球形の胸と丸いヒップが特徴的で、優しい表情の顔に大きな目が並んでいる。四肢は華奢で柔らかな曲線を描き、しっぽはしなやかで優美な形状をしている。",
+        "reason": "イヴは自然の力からの影響を受け、愛と美しさの象徴として進化した。",
+        "thought": "『愛という力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='190' width='300' height='180' fill='#8ecae6' rx='20' ry='20'/><path d='M200,130 C150,150 250,150 200,130 Z' fill='#8ecae6'/><ellipse cx='200' cy='160' rx='100' ry='120' fill='#64a2d4'/><path d='M170,150 L130,250 L250,250 L210,150 Z' fill='#64a2d4'/><circle cx='160' cy='160' r='15' fill='#ffffff'/><circle cx='240' cy='160' r='15' fill='#ffffff'/><circle cx='200' cy='190' r='10' fill='#b3d3e2'/><circle cx='180' cy='220' r='8' fill='#b3d3e2'/><circle cx='220' cy='220' r='8' fill='#b3d3e2'/><rect x='190' y='180' width='20' height='10' fill='#000000'/><path d='M180,210 Q200,230 220,210' fill='none' stroke='#000000'/><path d='M230,260 Q250,240 270,260' fill='none' stroke='#000000'/><path d='M170,300 Q200,330 230,300' fill='none' stroke='#000000'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の頑丈な外殻を持ち、男性らしい力強さが感じられる。筋肉質な体つきで、シャープな顔つきと鋭い眼差しが特徴的だ。四肢はがっしりとした造りで、しっぽは力強く伸びた形状をしている。",
+        "reason": "アダムは自然の厳しさに適応し、強さと生存力を表すために進化した。",
+        "thought": "『力という鍵』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1758349244675
   }
 ]
