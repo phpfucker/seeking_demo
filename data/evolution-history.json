@@ -12218,5 +12218,28 @@
       "gender": "男性"
     },
     "timestamp": 1758457715937
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,140,0);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,215,0);stop-opacity:1' /></linearGradient></defs><rect x='150' y='50' width='100' height='200' fill='url(#gradA)' /><ellipse cx='200' cy='120' rx='40' ry='30' fill='url(#gradA)' /><ellipse cx='170' cy='120' rx='10' ry='15' fill='rgb(255,215,0)' /><ellipse cx='230' cy='120' rx='10' ry='15' fill='rgb(255,215,0)' /><ellipse cx='180' cy='160' rx='15' ry='10' fill='rgb(255,215,0)' /><ellipse cx='220' cy='160' rx='15' ry='10' fill='rgb(255,215,0)' /><ellipse cx='200' cy='180' rx='25' ry='15' fill='rgb(255,215,0)' /><rect x='180' y='250' width='40' height='20' fill='rgb(255,215,0)' /><rect x='160' y='270' width='80' height='10' fill='rgb(255,215,0)' /><circle cx='170' cy='250' r='5' fill='rgb(255,215,0)' /><circle cx='230' cy='250' r='5' fill='rgb(255,215,0)' /><circle cx='200' cy='270' r='5' fill='rgb(255,215,0)' /></svg>",
+      "report": {
+        "appearance": "イヴは、オレンジとイエローのグラデーションで彩られた体を持ち、優雅で柔らかい曲線の顔と優しい表情をしています。手足は細長く、金色の装飾が施されており、優美なしっぽが後ろに伸びています。",
+        "reason": "進化のプロセスにより、イヴはより美しく、優雅さが増した姿となりました。外見の魅力を高めるため、新しい色と模様が取り入れられました。",
+        "thought": "『宇宙の神秘を感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='150' r='100' fill='rgb(0,128,128)' /><circle cx='200' cy='130' r='20' fill='rgb(0,0,128)' /><circle cx='170' cy='130' r='10' fill='rgb(0,0,128)' /><circle cx='230' cy='130' r='10' fill='rgb(0,0,128)' /><rect x='180' y='200' width='40' height='80' fill='rgb(0,0,128)' /><circle cx='190' cy='200' r='10' fill='rgb(0,0,128)' /><circle cx='210' cy='200' r='10' fill='rgb(0,0,128)' /><rect x='180' y='280' width='40' height='20' fill='rgb(0,0,128)' /><rect x='170' y='270' width='60' height='10' fill='rgb(0,0,128)' /><line x1='180' y1='200' x2='180' y2='280' stroke='rgb(255,255,255)' stroke-width='2' /><line x1='220' y1='200' x2='220' y2='280' stroke='rgb(255,255,255)' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、深海のような青色の体に包まれており、謎めいた表情をしています。大きな青い円形が顔となり、小さな目が2つ配置されています。厚い腕と足があり、胴体には青い模様が施されています。",
+        "reason": "進化過程で、アダムはより神秘的な外見を持つようになりました。深海の生物の美しさと複雑さからインスピレーションを受け、新しい形状と模様が導入されました。",
+        "thought": "『深海の奥深き謎を探る』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1758478779612
   }
 ]
