@@ -12172,5 +12172,28 @@
       "gender": "男性"
     },
     "timestamp": 1758417437740
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,143,167);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,70,131);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='170' fill='url(#gradA)' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='rgb(255,204,218)' /><path d='M150 250 Q190 220 240 250 Q260 260 240 310 Q200 350 160 310 Q140 280 150 250' fill='rgb(255,204,218)' /><circle cx='160' cy='150' r='10' fill='white' /><circle cx='240' cy='150' r='10' fill='white' /><line x1='190' y1='180' x2='210' y2='180' stroke='black' stroke-width='2' /><line x1='170' y1='260' x2='230' y2='260' stroke='black' stroke-width='2' /><polygon points='190,130 200,100 210,130' fill='rgb(255,70,131)' /><rect x='185' y='310' width='30' height='50' fill='rgb(255,204,218)' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌を持ち、白い腕とピンクの巻き毛を持つ女性である。顔には柔らかい表情があり、薄いピンク色のドレスを身に纏っている。背中には小さな羽が生えており、しなやかな足からは薄いピンク色の光が放射されている。",
+        "reason": "女性的な美しさと進化の力が融合し、より優美かつ神秘的な姿へと進化した。",
+        "thought": "『愛と美の融合』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(116,216,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,157,255);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='170' fill='url(#gradB)' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='rgb(153,217,255)' /><path d='M150 250 Q190 220 240 250 Q260 260 240 310 Q200 350 160 310 Q140 280 150 250' fill='rgb(153,217,255)' /><circle cx='160' cy='150' r='10' fill='white' /><circle cx='240' cy='150' r='10' fill='white' /><line x1='190' y1='180' x2='210' y2='180' stroke='black' stroke-width='2' /><line x1='170' y1='260' x2='230' y2='260' stroke='black' stroke-width='2' /><polygon points='190,130 200,100 210,130' fill='rgb(0,157,255)' /><rect x='185' y='310' width='30' height='50' fill='rgb(153,217,255)' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌を持ち、白い腕と青い髪を持つ男性である。顔には力強い表情があり、青いタンクトップと黒いパンツを身に纏っている。背中には大きな銀色の翼が生えており、足元からは青色の光が放射されている。",
+        "reason": "男性的な力強さと進化の力が融合し、より堂々とした姿へと進化した。",
+        "thought": "『力と誇りの融合』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1758435685864
   }
 ]

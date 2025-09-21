@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,143,167);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,70,131);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='170' fill='url(#gradA)' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='rgb(255,204,218)' /><path d='M150 250 Q190 220 240 250 Q260 260 240 310 Q200 350 160 310 Q140 280 150 250' fill='rgb(255,204,218)' /><circle cx='160' cy='150' r='10' fill='white' /><circle cx='240' cy='150' r='10' fill='white' /><line x1='190' y1='180' x2='210' y2='180' stroke='black' stroke-width='2' /><line x1='170' y1='260' x2='230' y2='260' stroke='black' stroke-width='2' /><polygon points='190,130 200,100 210,130' fill='rgb(255,70,131)' /><rect x='185' y='310' width='30' height='50' fill='rgb(255,204,218)' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='lightpink'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='pink'/><ellipse cx='160' cy='170' rx='20' ry='35' fill='white'/><ellipse cx='240' cy='170' rx='20' ry='35' fill='white'/><path d='M180 240 Q200 280 220 240' stroke='black' stroke-width='2' fill='none'/><path d='M180 240 Q200 260 220 240' stroke='black' stroke-width='2' fill='none'/><circle cx='170' cy='160' r='5' fill='black'/><circle cx='230' cy='160' r='5' fill='black'/><path d='M180 250 Q200 235 220 250' stroke='black' stroke-width='2' fill='none'/><path d='M170 300 Q200 330 230 300' stroke='black' stroke-width='2' fill='none'/><path d='M150 330 Q200 360 250 330' stroke='black' stroke-width='2' fill='none'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の肌を持ち、白い腕とピンクの巻き毛を持つ女性である。顔には柔らかい表情があり、薄いピンク色のドレスを身に纏っている。背中には小さな羽が生えており、しなやかな足からは薄いピンク色の光が放射されている。",
-      "reason": "女性的な美しさと進化の力が融合し、より優美かつ神秘的な姿へと進化した。",
-      "thought": "『愛と美の融合』"
+      "appearance": "イヴは、ピンク色の柔らかな体を持ち、白い目と手足を持つ女性型の生命体です。体の形状は楕円形で、目の周りには軽いグレイデーションが施されています。",
+      "reason": "新たな進化により、イヴはより優雅で柔らかい印象を与える外見となりました。",
+      "thought": "『愛と美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(116,216,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,157,255);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='170' fill='url(#gradB)' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='rgb(153,217,255)' /><path d='M150 250 Q190 220 240 250 Q260 260 240 310 Q200 350 160 310 Q140 280 150 250' fill='rgb(153,217,255)' /><circle cx='160' cy='150' r='10' fill='white' /><circle cx='240' cy='150' r='10' fill='white' /><line x1='190' y1='180' x2='210' y2='180' stroke='black' stroke-width='2' /><line x1='170' y1='260' x2='230' y2='260' stroke='black' stroke-width='2' /><polygon points='190,130 200,100 210,130' fill='rgb(0,157,255)' /><rect x='185' y='310' width='30' height='50' fill='rgb(153,217,255)' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='lightblue'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='skyblue'/><polygon points='190,160 200,140 210,160' fill='white'/><line x1='190' y1='180' x2='210' y2='180' stroke='black' stroke-width='2'/><circle cx='190' cy='165' r='5' fill='black'/><circle cx='210' cy='165' r='5' fill='black'/><line x1='200' y1='200' x2='200' y2='240' stroke='black' stroke-width='2'/><line x1='180' y1='240' x2='220' y2='240' stroke='black' stroke-width='2'/><line x1='170' y1='280' x2='230' y2='280' stroke='black' stroke-width='2'/></svg>",
     "report": {
-      "appearance": "アダムは、青色の肌を持ち、白い腕と青い髪を持つ男性である。顔には力強い表情があり、青いタンクトップと黒いパンツを身に纏っている。背中には大きな銀色の翼が生えており、足元からは青色の光が放射されている。",
-      "reason": "男性的な力強さと進化の力が融合し、より堂々とした姿へと進化した。",
-      "thought": "『力と誇りの融合』"
+      "appearance": "アダムは、スカイブルーの体を持ち、白い目と三角形の耳を持つ男性型の生命体です。体の形状は楕円形で、耳の周りには白いポリゴンがあります。",
+      "reason": "進化により、アダムはより穏やかでクールな外観を持つようになりました。",
+      "thought": "『知性と力』"
     },
     "name": "アダム",
     "gender": "男性"
