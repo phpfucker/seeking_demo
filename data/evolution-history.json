@@ -12310,5 +12310,28 @@
       "gender": "男性"
     },
     "timestamp": 1758544364262
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='160' fill='url(#gradA)' /><ellipse cx='200' cy='180' rx='100' ry='120' fill='#ffdab9' /><path d='M200 220 L170 240 L200 280 L230 240 Z' fill='#ff69b4' /><path d='M170 240 Q200 260 230 240' fill='none' stroke='#b22222' stroke-width='4' /><ellipse cx='180' cy='170' rx='12' ry='8' fill='#000' /><ellipse cx='220' cy='170' rx='12' ry='8' fill='#000' /><polygon points='190,190 200,220 210,190' fill='#fff' /><path d='M180 240 Q200 260 220 240' fill='none' stroke='#000' stroke-width='3' /><rect x='180' y='320' width='40' height='60' fill='#ffdab9' /><polygon points='180,320 190,315 210,315 220,320' fill='#ff69b4' /><polygon points='180,380 190,370 210,370 220,380' fill='#ff69b4' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクからオレンジへのグラデーションが美しい柔らかな表皮を持ち、大きな赤い目が特徴です。体は華奢で優雅な曲線を描き、鮮やかなピンク色の装飾が施されています。手には四本指があり、足は長くしなやかです。背中にはピンクのしっぽが優雅に続いています。",
+        "reason": "イヴは色彩豊かな美しさを手に入れ、より魅力的で優雅な姿に進化しました。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(173,216,230);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='160' fill='url(#gradB)' /><ellipse cx='200' cy='180' rx='100' ry='120' fill='#f5deb3' /><path d='M200 220 L170 240 L200 280 L230 240 Z' fill='#87ceeb' /><path d='M170 240 Q200 260 230 240' fill='none' stroke='#4682b4' stroke-width='4' /><ellipse cx='180' cy='170' rx='12' ry='8' fill='#000' /><ellipse cx='220' cy='170' rx='12' ry='8' fill='#000' /><polygon points='190,190 200,220 210,190' fill='#fff' /><path d='M180 240 Q200 260 220 240' fill='none' stroke='#000' stroke-width='3' /><rect x='180' y='320' width='40' height='60' fill='#f5deb3' /><polygon points='180,320 190,315 210,315 220,320' fill='#87ceeb' /><polygon points='180,380 190,370 210,370 220,380' fill='#87ceeb' /></svg>",
+      "report": {
+        "appearance": "アダムは、青から水色へのグラデーションが美しい滑らかな表皮を持ち、大きな青い目が特徴です。体は引き締まった筋肉に覆われ、青と水色の美しい模様が彩りを添えています。手と足は力強くしっかりとした造りで、背中には水色のしっぽがしなやかに伸びています。",
+        "reason": "アダムは力強い美しさを手に入れ、さらなる進化と強さを象徴する姿となりました。",
+        "thought": "『力強さと誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1758565309054
   }
 ]
