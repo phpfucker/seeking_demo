@@ -12356,5 +12356,28 @@
       "gender": "男性"
     },
     "timestamp": 1758589803186
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradA)' /><circle cx='200' cy='150' r='120' fill='url(#gradA)' /><circle cx='140' cy='160' r='20' fill='white' /><circle cx='260' cy='160' r='20' fill='white' /><ellipse cx='200' cy='210' rx='50' ry='30' fill='white' /><path d='M150,220 Q200,250 250,220' fill='none' stroke='black' stroke-width='2' /><path d='M150,250 Q200,280 250,250' fill='none' stroke='black' stroke-width='2' /><path d='M200,210 L190,195 L210,195 Z' fill='black' /><line x1='160' y1='270' x2='240' y2='270' stroke='black' stroke-width='4' /><line x1='140' y1='330' x2='160' y2='270' stroke='black' stroke-width='4' /><line x1='260' y1='330' x2='240' y2='270' stroke='black' stroke-width='4' /><line x1='190' y1='50' x2='190' y2='70' stroke='black' stroke-width='4' /><line x1='210' y1='50' x2='210' y2='70' stroke='black' stroke-width='4' /></svg>",
+      "report": {
+        "appearance": "イヴはピンクと白のグラデーションで彩られた美しい女性。体は優美な曲線で描かれ、顔には繊細な特徴があり、長い髪が優雅に伸びる。手足は細く、しっぽはなめらかな曲線を描いている。",
+        "reason": "進化により、イヴは美しさと優美さが強調された。環境への順応と生存競争において、このような特徴が選ばれたと考えられる。",
+        "thought": "『優しさと美しさが生命の輝きを創る』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(135,206,235);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(30,144,255);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradB)' /><circle cx='200' cy='150' r='120' fill='url(#gradB)' /><circle cx='140' cy='160' r='20' fill='white' /><circle cx='260' cy='160' r='20' fill='white' /><path d='M150,220 Q200,250 250,220' fill='none' stroke='black' stroke-width='2' /><path d='M150,250 Q200,280 250,250' fill='none' stroke='black' stroke-width='2' /><path d='M200,210 L190,195 L210,195 Z' fill='black' /><line x1='160' y1='270' x2='240' y2='270' stroke='black' stroke-width='4' /><line x1='140' y1='330' x2='160' y2='270' stroke='black' stroke-width='4' /><line x1='260' y1='330' x2='240' y2='270' stroke='black' stroke-width='4' /><line x1='190' y1='50' x2='190' y2='70' stroke='black' stroke-width='4' /><line x1='210' y1='50' x2='210' y2='70' stroke='black' stroke-width='4' /></svg>",
+      "report": {
+        "appearance": "アダムは青と白のグラデーションで表現された男性。体つきは力強く、体の一部には青い模様が入る。顔には男性らしい特徴があり、堂々とした姿勢をとっている。",
+        "reason": "アダムの進化は、力強さと男性らしさが重視された結果と考えられる。環境での生存と繁殖のため、このような特徴が選ばれた可能性が高い。",
+        "thought": "『力強く、誇り高き未来へ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1758608645817
   }
 ]
