@@ -12333,5 +12333,28 @@
       "gender": "男性"
     },
     "timestamp": 1758565309054
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#ff99cc' /><ellipse cx='200' cy='150' rx='100' ry='130' fill='#ff66b2' /><path d='M180,160 Q200,250 220,160' fill='none' stroke='#ff4d94' stroke-width='10' /><rect x='175' y='250' width='50' height='30' fill='#ff4d94' /><circle cx='180' cy='280' r='5' fill='#ff4d94' /><circle cx='220' cy='280' r='5' fill='#ff4d94' /><rect x='180' y='290' width='40' height='10' fill='#ff4d94' /><path d='M180,280 Q200,300 220,280' fill='none' stroke='#ff4d94' stroke-width='5' /><line x1='190' y1='190' x2='180' y2='180' stroke='#99004d' stroke-width='5' /><line x1='210' y1='190' x2='220' y2='180' stroke='#99004d' stroke-width='5' /><text x='200' y='360' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかい毛並みを持ち、大きな赤い目と短い小さな耳が特徴です。体の下半分は円形の形状で、足は短く太いです。尾は短めでふさふさしています。",
+        "reason": "進化の過程で、イヴはより親しみやすい外見となるため、毛並みの色や形状が柔らかくなりました。",
+        "thought": "『幸せな毎日』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><polygon points='100,150 150,100 250,100 300,150 250,250 150,250' fill='#66ccff' /><polygon points='180,160 220,160 210,250 190,250' fill='#4da6ff' /><path d='M180,160 Q200,200 220,160' fill='none' stroke='#3385ff' stroke-width='10' /><rect x='175' y='250' width='50' height='30' fill='#1a66ff' /><circle cx='180' cy='280' r='5' fill='#1a66ff' /><circle cx='220' cy='280' r='5' fill='#1a66ff' /><rect x='180' y='290' width='40' height='10' fill='#1a66ff' /><path d='M180,280 Q200,300 220,280' fill='none' stroke='#1a66ff' stroke-width='5' /><line x1='190' y1='190' x2='180' y2='180' stroke='#004080' stroke-width='5' /><line x1='210' y1='190' x2='220' y2='180' stroke='#004080' stroke-width='5' /><text x='200' y='360' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青い鱗状の肌を持ち、多角形の頭部と鋭い角が特徴です。四肢は細長く、足は三本指で尾は鰭状になっています。",
+        "reason": "進化の過程で、アダムはより力強い外見となるため、角や鱗状の肌が強調されました。",
+        "thought": "『勇気と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1758589803186
   }
 ]
