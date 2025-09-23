@@ -12379,5 +12379,28 @@
       "gender": "男性"
     },
     "timestamp": 1758608645817
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#FFD700' /><circle cx='200' cy='60' r='50' fill='#FF69B4' /><path d='M140 180 L110 230 L170 230 Z' fill='#FF69B4' /><circle cx='160' cy='160' r='15' fill='#FF69B4' /><circle cx='240' cy='160' r='15' fill='#FF69B4' /><rect x='160' y='220' width='80' height='15' fill='#FF69B4' /><path d='M150 250 Q160 270 170 250 Q180 270 190 250 Q200 270 210 250' fill='none' stroke='#FF69B4' stroke-width='2' /><circle cx='160' cy='260' r='5' fill='#000' /><circle cx='240' cy='260' r='5' fill='#000' /></svg>",
+      "report": {
+        "appearance": "イヴは、金色の体を持ち、ピンク色の顔と手足を持った女性の姿をしています。額には3つの紫色の角が生えており、背中にはピンク色のパターンが施されています。",
+        "reason": "新たな進化が起こった理由は、繁栄と生態系への適応によるものです。体色とパターンが環境に溶け込み、より効果的な生存戦略を確立するためです。",
+        "thought": "『絶えず進化し続ける』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#00CED1' /><ellipse cx='200' cy='60' rx='60' ry='40' fill='#F0E68C' /><polygon points='140,180 170,230 110,230' fill='#F0E68C' /><circle cx='160' cy='160' r='15' fill='#F0E68C' /><circle cx='240' cy='160' r='15' fill='#F0E68C' /><rect x='160' y='220' width='80' height='15' fill='#F0E68C' /><path d='M150 250 Q160 270 170 250 Q180 270 190 250 Q200 270 210 250' fill='none' stroke='#F0E68C' stroke-width='2' /><polyline points='155,260 165,260 175,260 185,260 195,260 205,260 215,260 225,260' fill='none' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青緑色の体に黄色い顔と手足を持つ男性の姿をしています。額には大きな黄色い楕円形の角が2本あり、背中には黄色のストライプ模様が入っています。",
+        "reason": "進化の理由は、環境の変化と獲得した能力を生かすためです。新たな特徴が生存に有利であることが確認され、適応進化が起こった結果です。",
+        "thought": "『未来への進化を楽しみに』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1758630705869
   }
 ]
