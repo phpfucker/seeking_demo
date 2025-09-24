@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,255,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,192,203);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradA)' /><ellipse cx='200' cy='160' rx='60' ry='80' fill='rgb(255,192,203)' /><ellipse cx='160' cy='150' rx='20' ry='30' fill='white' /><ellipse cx='240' cy='150' rx='20' ry='30' fill='white' /><path d='M200 180 Q180 190 200 200 Q220 190 200 180 Z' fill='rgb(255,192,203)' /><path d='M170 240 L140 270 Q140 280 160 290 Q180 280 180 270 L170 240 Z' fill='white' /><path d='M230 240 L260 270 Q260 280 240 290 Q220 280 220 270 L230 240 Z' fill='white' /><ellipse cx='170' cy='260' rx='10' ry='5' fill='black' /><ellipse cx='230' cy='260' rx='10' ry='5' fill='black' /><path d='M185 280 Q190 290 195 280' stroke='black' stroke-width='2' fill='transparent' /><path d='M215 280 Q220 290 225 280' stroke='black' stroke-width='2' fill='transparent' /><path d='M180 140 Q200 120 220 140' stroke='black' stroke-width='3' fill='transparent' /><path d='M180 140 Q200 150 220 140' stroke='black' stroke-width='3' fill='transparent' /><polygon points='190,170 195,190 205,190 210,170' fill='white' /><polygon points='190,170 195,180 205,180 210,170' fill='white' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><rect x='50' y='50' width='300' height='300' fill='url(#gradA)' /><circle cx='200' cy='140' r='80' fill='white' /><circle cx='165' cy='120' r='15' fill='black' /><circle cx='235' cy='120' r='15' fill='black' /><path d='M160 180 Q200 230 240 180 Q200 230 160 180' fill='white' /><path d='M160 180 Q200 130 240 180 Q200 130 160 180' fill='white' /><polygon points='180,160 190,160 185,170' fill='black' /><polygon points='220,160 230,160 225,170' fill='black' /><rect x='180' y='220' width='40' height='20' fill='black' /><polygon points='180,240 220,240 200,280' fill='black' /></svg>",
     "report": {
-      "appearance": "イヴは、淡いピンク色の肌を持ち、大きな紅色の目を持つ女性である。長いピンクの髪の毛が優雅に流れ、繊細な体つきと白い羽のような装飾が特徴的である。手足は細くて長く、指先には小さな爪がある。しなやかなしっぽと、頭には角が一対生えている。",
-      "reason": "進化の過程で、イヴの肌はより柔らかく繊細な色合いに変化し、優美な髪や装飾が発達した。新たな特徴が加わり、より華やかな姿に進化した。",
-      "thought": "『純粋な愛』"
+      "appearance": "イヴは、ピンクと赤のグラデーションの肌を持ち、白い円形の顔に大きな黒い瞳を持つ。体は柔らかな曲線で描かれ、白い輪郭線で特徴付けられる。四肢は華奢であり、背中には黒い模様があしらわれている。",
+      "reason": "生命の進化に伴い、イヴはより美しく、柔らかな特徴を持つように進化した。",
+      "thought": "『愛と美しさが全てを包む』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,255,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,191,255);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradB)' /><ellipse cx='200' cy='160' rx='60' ry='80' fill='rgb(0,191,255)' /><ellipse cx='160' cy='150' rx='20' ry='30' fill='white' /><ellipse cx='240' cy='150' rx='20' ry='30' fill='white' /><path d='M200 180 Q180 190 200 200 Q220 190 200 180 Z' fill='rgb(0,191,255)' /><path d='M170 240 L140 270 Q140 280 160 290 Q180 280 180 270 L170 240 Z' fill='white' /><path d='M230 240 L260 270 Q260 280 240 290 Q220 280 220 270 L230 240 Z' fill='white' /><ellipse cx='170' cy='260' rx='10' ry='5' fill='black' /><ellipse cx='230' cy='260' rx='10' ry='5' fill='black' /><path d='M185 280 Q190 290 195 280' stroke='black' stroke-width='2' fill='transparent' /><path d='M215 280 Q220 290 225 280' stroke='black' stroke-width='2' fill='transparent' /><path d='M180 140 Q200 120 220 140' stroke='black' stroke-width='3' fill='transparent' /><path d='M180 140 Q200 150 220 140' stroke='black' stroke-width='3' fill='transparent' /><polygon points='190,170 195,190 205,190 210,170' fill='white' /><polygon points='190,170 195,180 205,180 210,170' fill='white' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(173,216,230);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><rect x='50' y='50' width='300' height='300' fill='url(#gradB)' /><ellipse cx='200' cy='140' rx='80' ry='100' fill='white' /><circle cx='170' cy='120' r='15' fill='black' /><circle cx='230' cy='120' r='15' fill='black' /><path d='M160 180 Q200 230 240 180 Q200 230 160 180' fill='white' /><path d='M160 180 Q200 130 240 180 Q200 130 160 180' fill='white' /><rect x='180' y='220' width='40' height='20' fill='black' /><polygon points='180,240 220,240 200,280' fill='black' /></svg>",
     "report": {
-      "appearance": "アダムは、澄んだ青色の肌を持ち、大きな水色の目を持つ男性である。短い青い髪が頭を飾り、力強い体つきと青い鱗のような模様が特徴的である。手足はがっしりとしており、爪が鋭く伸びている。しなやかなしっぽと、頭には一本の角が生えている。",
-      "reason": "アダムの肌色と模様が変化し、鱗のような美しい模様が現れた。短い髪の毛や爪が強調され、より力強い外見となった。",
-      "thought": "『純粋な力』"
+      "appearance": "アダムは、青と水色のグラデーションの肌を持ち、白い楕円形の顔に大きな黒い瞳を持つ。体は男性らしい筋肉質な曲線で描かれ、背中には青い模様があしらわれている。",
+      "reason": "生命の進化に伴い、アダムはより強靭で男性らしい特徴を持つように進化した。",
+      "thought": "『勇気と力強さが未来を切り拓く』"
     },
     "name": "アダム",
     "gender": "男性"
