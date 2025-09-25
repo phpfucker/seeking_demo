@@ -12563,5 +12563,28 @@
       "gender": "男性"
     },
     "timestamp": 1758781445941
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,215,0);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,140,0);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradA)' /><circle cx='200' cy='150' r='30' fill='white' /><circle cx='160' cy='150' r='5' fill='black' /><circle cx='240' cy='150' r='5' fill='black' /><path d='M180 180 Q200 210 220 180' fill='none' stroke='black' stroke-width='2' /><path d='M190 220 Q200 230 210 220' fill='none' stroke='black' stroke-width='2' /><path d='M150 200 Q180 170 210 200' fill='none' stroke='black' stroke-width='2' /><path d='M160 250 Q200 270 240 250' fill='none' stroke='black' stroke-width='2' /><circle cx='170' cy='300' r='10' fill='white' /><circle cx='230' cy='300' r='10' fill='white' /></svg>",
+      "report": {
+        "appearance": "イヴは、黄色とオレンジのグラデーションを持つ美しい女性。体は中心に大きく、顔には白い目と口を持ちます。曲線の線で描かれた髪の毛は優雅に広がり、手足はやや繊細な印象を与えます。",
+        "reason": "新たな進化が起こり、イヴは美しさと優雅さを更に強調しました。",
+        "thought": "『愛と知恵』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(65,105,225);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(30,144,255);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradB)' /><circle cx='200' cy='150' r='30' fill='white' /><circle cx='160' cy='150' r='5' fill='black' /><circle cx='240' cy='150' r='5' fill='black' /><path d='M190 220 Q200 230 210 220' fill='none' stroke='black' stroke-width='2' /><path d='M150 200 Q180 170 210 200' fill='none' stroke='black' stroke-width='2' /><path d='M160 250 Q200 270 240 250' fill='none' stroke='black' stroke-width='2' /><polygon points='180,160 190,170 170,170' fill='white' /><polygon points='210,160 220,170 200,170' fill='white' /><circle cx='170' cy='300' r='10' fill='white' /><circle cx='230' cy='300' r='10' fill='white' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色系のグラデーションを持つ男性。体は中心に大きく、顔には白い目と口があります。髪の毛は短く整えられ、体格がやや頑丈で力強い印象を与えます。",
+        "reason": "アダムは進化し、力強さと安定感を強調しました。",
+        "thought": "『誇りと勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1758803615619
   }
 ]
