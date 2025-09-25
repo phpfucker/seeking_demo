@@ -12586,5 +12586,28 @@
       "gender": "男性"
     },
     "timestamp": 1758803615619
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='150' cy='180' rx='30' ry='20' fill='#ff99cc' /><ellipse cx='250' cy='180' rx='30' ry='20' fill='#ff99cc' /><path d='M200 220 Q190 240 200 260 Q210 240 200 220' fill='none' stroke='#ff99cc' stroke-width='3' /><rect x='185' y='220' width='30' height='10' fill='#ff99cc' /><path d='M170 180 Q200 140 230 180 A60 60 0 0 0 170 180' fill='#ff99cc' /><circle cx='180' cy='190' r='5' fill='black' /><circle cx='220' cy='190' r='5' fill='black' /><polygon points='190,200 200,210 210,200' fill='white' /><polygon points='160,200 170,210 180,190' fill='white' /><polygon points='220,200 230,210 240,190' fill='white' /><text x='150' y='350' font-family='Arial' font-size='20' fill='black'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかな肌を持ち、薄紅色の髪と大きな瞳が特徴です。繊細な体つきと愛らしい表情が魅力的です。",
+        "reason": "環境の変化により、イヴはより華やかで優美な外見を手に入れました。",
+        "thought": "『幸せな未来が待っている』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#87ceeb' /><path d='M150 100 Q125 50 150 0 Q175 50 150 100' fill='#87ceeb' /><path d='M250 100 Q275 50 250 0 Q225 50 250 100' fill='#87ceeb' /><circle cx='175' cy='300' r='15' fill='#696969' /><circle cx='225' cy='300' r='15' fill='#696969' /><rect x='175' y='120' width='50' height='40' fill='#696969' /><rect x='175' y='180' width='50' height='20' fill='#696969' /><path d='M175 200 Q180 220 185 200 Q190 220 195 200' fill='none' stroke='#696969' stroke-width='2' /><text x='150' y='350' font-family='Arial' font-size='20' fill='black'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青い鱗状の肌と深い海色の体で覆われ、頑丈な体つきと冷静な表情が特徴です。",
+        "reason": "進化の過程で、アダムは強靭な外見と抜群の安定感を獲得しました。",
+        "thought": "『未来への自信に満ちている』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1758824578809
   }
 ]
