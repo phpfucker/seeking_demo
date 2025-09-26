@@ -12655,5 +12655,28 @@
       "gender": "男性"
     },
     "timestamp": 1758867801665
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,165,0);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,255,0);stop-opacity:1' /></linearGradient></defs><rect x='100' y='150' width='200' height='200' fill='url(#gradA)' /><circle cx='200' cy='100' r='50' fill='rgb(255,204,153)' /><ellipse cx='150' cy='250' rx='25' ry='45' fill='rgb(255,204,153)' /><path d='M200 200 L220 220 L180 220 Z' fill='rgb(255,165,0)' /><polygon points='170,210 190,210 180,230' fill='rgb(255,165,0)' /><line x1='160' y1='180' x2='140' y2='210' stroke='rgb(0,0,0)' stroke-width='2' /><line x1='240' y1='180' x2='260' y2='210' stroke='rgb(0,0,0)' stroke-width='2' /><polyline points='190,230 200,240 210,230' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M180 180 Q200 140 220 180' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M180 180 Q190 160 200 180' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M220 180 Q210 160 200 180' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、オレンジとイエローのグラデーションがかった体色を持ち、頭には橙色の角が2本生えています。顔には丸いオレンジ色の目と口があります。胴体はオレンジに近いベージュ色で、背中には細かい模様が施されています。手と足はオレンジ色で、足には複数の爪があります。",
+        "reason": "イヴは新たな環境に適応するため、色と模様が進化しました。",
+        "thought": "『創造の喜び』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(100,149,237);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><rect x='100' y='150' width='200' height='200' fill='url(#gradB)' /><circle cx='200' cy='100' r='50' fill='rgb(70,130,180)' /><ellipse cx='250' cy='250' rx='25' ry='45' fill='rgb(70,130,180)' /><path d='M200 200 L220 220 L180 220 Z' fill='rgb(100,149,237)' /><polygon points='170,210 190,210 180,230' fill='rgb(100,149,237)' /><line x1='160' y1='180' x2='140' y2='210' stroke='rgb(0,0,0)' stroke-width='2' /><line x1='240' y1='180' x2='260' y2='210' stroke='rgb(0,0,0)' stroke-width='2' /><polyline points='190,230 200,240 210,230' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M180 180 Q200 140 220 180' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M180 180 Q190 160 200 180' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M220 180 Q210 160 200 180' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と濃い青のグラデーションがかった体色を持ち、頭には青色の角が2本生えています。顔には丸い青色の目と口があります。胴体は青みを帯びた灰色で、背中には独特な模様が浮かび上がっています。手と足は青色で、足には鋭い爪があります。",
+        "reason": "アダムは獲物との闘争に適応するため、体色と爪が進化しました。",
+        "thought": "『自然の力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1758889969651
   }
 ]
