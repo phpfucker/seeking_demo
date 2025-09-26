@@ -12609,5 +12609,28 @@
       "gender": "男性"
     },
     "timestamp": 1758824578809
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99' /><rect x='150' y='220' width='100' height='100' fill='#ff9966' /><polygon points='100,200 200,100 300,200' fill='#ff9933' /><ellipse cx='200' cy='270' rx='40' ry='30' fill='#ff6633' /><path d='M170,150 Q200,50 230,150 Q200,200 170,150' fill='#ff9966' /><line x1='150' y1='220' x2='250' y2='220' stroke='#cc9966' stroke-width='5' /><line x1='160' y1='290' x2='240' y2='290' stroke='#cc9966' stroke-width='5' /><line x1='150' y1='220' x2='170' y2='250' stroke='#cc9966' stroke-width='5' /><line x1='250' y1='220' x2='230' y2='250' stroke='#cc9966' stroke-width='5' /><line x1='160' y1='290' x2='180' y2='310' stroke='#cc9966' stroke-width='5' /><line x1='240' y1='290' x2='220' y2='310' stroke='#cc9966' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "イヴは、全身がピンクからオレンジ色のグラデーションで覆われ、大きな円形の体に四角い模様が特徴です。頭部には三角形の鼻と楕円形の口を持ち、顔の中央には半円形の模様があります。四角い手と丸い足があり、背中には針のような形状のモノクロの装飾が施されています。",
+        "reason": "イヴは新たな進化を遂げ、より複雑な模様と色合いを持つようになりました。これは生存戦略の一環として、周囲の環境に適応するために変化した結果です。",
+        "thought": "『輝く未来へ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#9999ff' /><rect x='150' y='220' width='100' height='100' fill='#6666ff' /><polygon points='100,200 200,100 300,200' fill='#3333ff' /><ellipse cx='200' cy='270' rx='40' ry='30' fill='#0000cc' /><path d='M170,150 Q200,50 230,150 Q200,200 170,150' fill='#6666ff' /><line x1='150' y1='220' x2='250' y2='220' stroke='#666666' stroke-width='5' /><line x1='160' y1='290' x2='240' y2='290' stroke='#666666' stroke-width='5' /><line x1='150' y1='220' x2='170' y2='250' stroke='#666666' stroke-width='5' /><line x1='250' y1='220' x2='230' y2='250' stroke='#666666' stroke-width='5' /><line x1='160' y1='290' x2='180' y2='310' stroke='#666666' stroke-width='5' /><line x1='240' y1='290' x2='220' y2='310' stroke='#666666' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "アダムは、全身が青紫色から濃い青色のグラデーションで覆われ、大きな円形の体に四角い模様が特徴です。頭部には三角形の鼻と楕円形の口を持ち、顔の中央には半円形の模様があります。四角い手と丸い足があり、背中には針のような形状のモノクロの装飾が施されています。",
+        "reason": "アダムは新たな進化を遂げ、より複雑な模様と色合いを持つようになりました。これは生存戦略の一環として、周囲の環境に適応するために変化した結果です。",
+        "thought": "『輝ける未来へ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1758849073619
   }
 ]
