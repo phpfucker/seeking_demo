@@ -12747,5 +12747,28 @@
       "gender": "男性"
     },
     "timestamp": 1758953997960
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='100' rx='50' ry='70' fill='#ff99cc'/><path d='M150 200 Q200 50 250 200' stroke='#ff69b4' stroke-width='5' fill='none'/><polygon points='180,220 200,260 220,220' fill='#ff69b4'/><circle cx='170' cy='230' r='5' fill='#fff'/><circle cx='230' cy='230' r='5' fill='#fff'/><line x1='190' y1='270' x2='210' y2='270' stroke='#000' stroke-width='4'/><line x1='190' y1='270' x2='200' y2='290' stroke='#000' stroke-width='4'/><line x1='210' y1='270' x2='200' y2='290' stroke='#000' stroke-width='4'/><polygon points='130,170 200,120 270,170' fill='#ff6699'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかい肌を持ち、丸い顔に大きな卵形の目を持つ女性である。体は赤色のドレスで覆われ、背中には大きなピンク色の羽が生えている。四肢は長く、手には小さな白い爪が生えている。頭にはピンク色の角が2本あり、優雅なしっぽが垂れ下がっている。",
+        "reason": "イヴは自然界の美しさを象徴し、進化によってより優美で華やかな外見を手に入れた。",
+        "thought": "『優しさと美しさが宇宙の秘密を解き明かす』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#87ceeb'/><ellipse cx='200' cy='100' rx='50' ry='70' fill='#4682b4'/><path d='M150 200 Q200 50 250 200' stroke='#4169e1' stroke-width='5' fill='none'/><polygon points='180,220 200,260 220,220' fill='#4169e1'/><circle cx='170' cy='230' r='5' fill='#fff'/><circle cx='230' cy='230' r='5' fill='#fff'/><line x1='190' y1='270' x2='210' y2='270' stroke='#000' stroke-width='4'/><line x1='190' y1='270' x2='200' y2='290' stroke='#000' stroke-width='4'/><line x1='210' y1='270' x2='200' y2='290' stroke='#000' stroke-width='4'/><polygon points='130,170 200,120 270,170' fill='#87cefa'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に包まれ、丸い顔に大きな卵形の目を持つ男性である。体は青色のスーツで覆われ、背中には大きな青色の翼が生えている。四肢は頑丈で、手には小さな黒い爪が生えている。頭には青色の角が2本あり、力強いしっぽが垂れ下がっている。",
+        "reason": "アダムは進化によって自然界の強さと威厳を表現し、より力強く堂々とした外見を手に入れた。",
+        "thought": "『力強さと知恵が未来を切り開く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1758976080058
   }
 ]
