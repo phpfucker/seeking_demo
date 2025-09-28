@@ -12816,5 +12816,28 @@
       "gender": "男性"
     },
     "timestamp": 1759022283720
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99'/><ellipse cx='200' cy='120' rx='80' ry='120' fill='#ffddb3'/><path d='M160,250 Q200,350 240,250 T320,250 T240,350 T160,250 Z' fill='#ffddb3'/><polygon points='150,140 170,170 130,170' fill='#ffcc99'/><polygon points='250,140 270,170 230,170' fill='#ffcc99'/><rect x='170' y='310' width='60' height='40' fill='#ffcc99'/><rect x='170' y='350' width='10' height='40' fill='#ffddb3'/><rect x='220' y='350' width='10' height='40' fill='#ffddb3'/><line x1='190' y1='200' x2='210' y2='200' stroke='#000' stroke-width='2'/><line x1='190' y1='210' x2='210' y2='210' stroke='#000' stroke-width='2'/><line x1='190' y1='220' x2='210' y2='220' stroke='#000' stroke-width='2'/><line x1='190' y1='230' x2='210' y2='230' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとオレンジの温かみのある色合いの肌を持ち、豊かな髪と優雅な仕草が特徴です。頭部には卵型の大きな目と細い口があり、滑らかな曲線で描かれた身体はエレガントなラインを描いています。手足は細長く、小さな足先には細かな模様が施されています。",
+        "reason": "進化が起こった理由は、環境の変化により食物の取りにくさや敵から身を守る必要性から、イヴの身体が優雅で機敏なものに進化したためです。",
+        "thought": "『宇宙の神秘を感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#6699cc'/><ellipse cx='200' cy='120' rx='80' ry='120' fill='#99aaff'/><path d='M160,250 Q200,350 240,250 T320,250 T240,350 T160,250 Z' fill='#99aaff'/><polygon points='150,140 170,170 130,170' fill='#6699cc'/><polygon points='250,140 270,170 230,170' fill='#6699cc'/><rect x='170' y='310' width='60' height='40' fill='#6699cc'/><rect x='170' y='350' width='10' height='40' fill='#99aaff'/><rect x='220' y='350' width='10' height='40' fill='#99aaff'/><line x1='190' y1='200' x2='210' y2='200' stroke='#000' stroke-width='2'/><line x1='190' y1='210' x2='210' y2='210' stroke='#000' stroke-width='2'/><line x1='190' y1='220' x2='210' y2='220' stroke='#000' stroke-width='2'/><line x1='190' y1='230' x2='210' y2='230' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、ブルーとライトブルーの涼やかな色調の肌を持ち、力強い体つきと鋭い視線が特徴です。頭部には立体感のある目と太い口があり、凹凸のある筋肉質な身体は力強さを感じさせます。手足はがっしりとしており、足裏には丸い模様が配置されています。",
+        "reason": "進化が起こった理由は、狩りや生存競争においてより強靭な体力と優れた運動能力が求められたため、アダムの身体が頑丈で力強いものに進化したためです。",
+        "thought": "『未来への挑戦』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1759040462428
   }
 ]
