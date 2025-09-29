@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99' /><ellipse cx='200' cy='200' rx='50' ry='90' fill='#ffd699' /><rect x='150' y='220' width='100' height='60' fill='#ff9966' /><path d='M160 220 Q200 180 240 220' fill='none' stroke='#ff9966' stroke-width='8' /><circle cx='170' cy='170' r='20' fill='#663300' /><circle cx='230' cy='170' r='20' fill='#663300' /><path d='M190 220 Q200 240 210 220' fill='none' stroke='#663300' stroke-width='4' /><path d='M230 220 Q240 240 250 220' fill='none' stroke='#663300' stroke-width='4' /><line x1='185' y1='280' x2='215' y2='280' stroke='#ff9966' stroke-width='10' /><line x1='185' y1='300' x2='215' y2='300' stroke='#ff9966' stroke-width='10' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,99,71);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,215,0);stop-opacity:1' /></linearGradient></defs><rect x='50' y='150' width='300' height='200' fill='url(#gradA)' /><path d='M200,100 C150,200 250,200 200,100 Z' fill='rgb(255,192,203)' /><circle cx='200' cy='180' r='20' fill='rgb(255,255,255)' /><circle cx='180' cy='180' r='5' fill='black' /><circle cx='220' cy='180' r='5' fill='black' /><ellipse cx='180' cy='220' rx='10' ry='15' fill='rgb(255,192,203)' /><ellipse cx='220' cy='220' rx='10' ry='15' fill='rgb(255,192,203)' /><path d='M170,250 Q200,280 230,250' fill='none' stroke='black' /><path d='M200,250 Q220,240 230,260' fill='none' stroke='black' /><path d='M230,250 Q250,280 270,250' fill='none' stroke='black' /></svg>",
     "report": {
-      "appearance": "イヴは、全体的に桃色の肌を持ち、長い耳と角のような突起物が特徴的。体の中央には暖色系のドレスを着用し、手首には太い腕輪を身につけている。しっぽは短く、足元には大きな靴がある。",
-      "reason": "環境の変化により、イヴはより豊かな表現力と柔らかな特徴を持つよう進化した。",
-      "thought": "『愛と美の力』"
+      "appearance": "イヴは、ピンクとイエローのグラデーションが美しい体を持ち、柔らかなピンク色の肌に特徴的な二つの角が生えています。胴体はふくらんでおり、優雅な曲線が特徴です。手や足はしなやかで、全体的に柔らかな雰囲気を持っています。",
+      "reason": "イヴは花々の美しさと自然の調和を象徴する進化を遂げました。その美しさと優雅な姿は、生命の尊さと調和を表現しています。",
+      "thought": "『花々の香りに包まれて…』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='120' fill='#6699ff' /><circle cx='200' cy='150' r='50' fill='#66ccff' /><path d='M180 150 Q200 120 220 150' fill='none' stroke='#66ccff' stroke-width='8' /><path d='M190 150 Q200 160 210 150' fill='none' stroke='#0000ff' stroke-width='4' /><line x1='185' y1='270' x2='215' y2='270' stroke='#6699ff' stroke-width='10' /><line x1='185' y1='290' x2='215' y2='290' stroke='#6699ff' stroke-width='10' /><polygon points='160,270 200,320 240,270' fill='#ccffff' /><polygon points='180,310 200,300 220,310' fill='#ff99cc' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(0,191,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,215,0);stop-opacity:1' /></linearGradient></defs><rect x='50' y='150' width='300' height='200' fill='url(#gradB)' /><path d='M200,100 C150,200 250,200 200,100 Z' fill='rgb(0,128,128)' /><circle cx='200' cy='180' r='20' fill='rgb(255,255,255)' /><circle cx='180' cy='180' r='5' fill='black' /><circle cx='220' cy='180' r='5' fill='black' /><ellipse cx='180' cy='220' rx='10' ry='15' fill='rgb(0,128,128)' /><ellipse cx='220' cy='220' rx='10' ry='15' fill='rgb(0,128,128)' /><path d='M170,250 Q200,280 230,250' fill='none' stroke='black' /><path d='M200,250 Q220,240 230,260' fill='none' stroke='black' /><path d='M230,250 Q250,280 270,250' fill='none' stroke='black' /></svg>",
     "report": {
-      "appearance": "アダムは、青色の肌に太い腕と足を持ち、中央には短い胴体がある。頭部には大きな目と口、独特の模様が描かれており、背中には羽根のような装飾がある。",
-      "reason": "進化の過程で、アダムはより知識と力強さを象徴する特徴を取り入れ、より洗練された外観となった。",
-      "thought": "『知恵と勇気の融合』"
+      "appearance": "アダムは、青とイエローのグラデーションが美しい体を持ち、逆三角形の胴体に特徴的な二つの角が生えています。褐色の肌と流れるような曲線が力強さと美しさを兼ね備えています。手足はしなやかで、全体的に威厳を感じさせます。",
+      "reason": "アダムは大地の大きさと空の広がりを表現する進化を遂げました。その力強い姿と誇り高い様子は、自然の力と調和を体現しています。",
+      "thought": "『風に吹かれ、大地を感じる…』"
     },
     "name": "アダム",
     "gender": "男性"
