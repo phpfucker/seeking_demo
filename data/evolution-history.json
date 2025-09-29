@@ -12908,5 +12908,28 @@
       "gender": "男性"
     },
     "timestamp": 1759108387936
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,99,71);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,215,0);stop-opacity:1' /></linearGradient></defs><rect x='50' y='150' width='300' height='200' fill='url(#gradA)' /><path d='M200,100 C150,200 250,200 200,100 Z' fill='rgb(255,192,203)' /><circle cx='200' cy='180' r='20' fill='rgb(255,255,255)' /><circle cx='180' cy='180' r='5' fill='black' /><circle cx='220' cy='180' r='5' fill='black' /><ellipse cx='180' cy='220' rx='10' ry='15' fill='rgb(255,192,203)' /><ellipse cx='220' cy='220' rx='10' ry='15' fill='rgb(255,192,203)' /><path d='M170,250 Q200,280 230,250' fill='none' stroke='black' /><path d='M200,250 Q220,240 230,260' fill='none' stroke='black' /><path d='M230,250 Q250,280 270,250' fill='none' stroke='black' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとイエローのグラデーションが美しい体を持ち、柔らかなピンク色の肌に特徴的な二つの角が生えています。胴体はふくらんでおり、優雅な曲線が特徴です。手や足はしなやかで、全体的に柔らかな雰囲気を持っています。",
+        "reason": "イヴは花々の美しさと自然の調和を象徴する進化を遂げました。その美しさと優雅な姿は、生命の尊さと調和を表現しています。",
+        "thought": "『花々の香りに包まれて…』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(0,191,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,215,0);stop-opacity:1' /></linearGradient></defs><rect x='50' y='150' width='300' height='200' fill='url(#gradB)' /><path d='M200,100 C150,200 250,200 200,100 Z' fill='rgb(0,128,128)' /><circle cx='200' cy='180' r='20' fill='rgb(255,255,255)' /><circle cx='180' cy='180' r='5' fill='black' /><circle cx='220' cy='180' r='5' fill='black' /><ellipse cx='180' cy='220' rx='10' ry='15' fill='rgb(0,128,128)' /><ellipse cx='220' cy='220' rx='10' ry='15' fill='rgb(0,128,128)' /><path d='M170,250 Q200,280 230,250' fill='none' stroke='black' /><path d='M200,250 Q220,240 230,260' fill='none' stroke='black' /><path d='M230,250 Q250,280 270,250' fill='none' stroke='black' /></svg>",
+      "report": {
+        "appearance": "アダムは、青とイエローのグラデーションが美しい体を持ち、逆三角形の胴体に特徴的な二つの角が生えています。褐色の肌と流れるような曲線が力強さと美しさを兼ね備えています。手足はしなやかで、全体的に威厳を感じさせます。",
+        "reason": "アダムは大地の大きさと空の広がりを表現する進化を遂げました。その力強い姿と誇り高い様子は、自然の力と調和を体現しています。",
+        "thought": "『風に吹かれ、大地を感じる…』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1759127101662
   }
 ]
