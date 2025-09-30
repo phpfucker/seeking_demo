@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><style>.body{fill:#ff66b2;}.eyes{fill:#3a3a3a;}.hair{fill:#f07f28;}.horn{fill:#ffd700;}.wings{fill:#00a2ff;}.tail{fill:#ffcc00;} </style><rect x='50' y='50' width='300' height='300' class='body'/><ellipse cx='150' cy='150' rx='40' ry='25' class='eyes'/><ellipse cx='250' cy='150' rx='40' ry='25' class='eyes'/><polygon points='130,120 170,120 150,140' class='hair'/><polygon points='230,120 270,120 250,140' class='hair'/><polygon points='120,50 150,20 180,50' class='horn'/><polygon points='220,50 250,20 280,50' class='horn'/><path d='M200 350 Q150 400 100 350' fill='none' stroke='#000' stroke-width='5' class='wings'/><path d='M150 350 Q200 400 250 350' fill='none' stroke='#000' stroke-width='5' class='wings'/><path d='M200 300 Q170 250 200 200' fill='none' stroke='#000' stroke-width='5' class='tail'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='rgb(255,204,229)' /><ellipse cx='200' cy='180' rx='100' ry='140' fill='rgb(255,153,204)' /><path d='M130 220 Q200 280 270 220 Q200 260 130 220 Z' fill='rgb(255,102,178)' /><rect x='150' y='220' width='100' height='40' fill='rgb(255,51,153)' /><path d='M170 220 Q200 240 230 220 Q200 230 170 220 Z' fill='rgb(204,0,102)' /><circle cx='165' cy='185' r='5' fill='black' /><circle cx='235' cy='185' r='5' fill='black' /><polygon points='180,240 220,240 200,260' fill='rgb(255,153,204)' /><line x1='180' y1='260' x2='190' y2='250' stroke='black' stroke-width='2' /><line x1='220' y1='260' x2='210' y2='250' stroke='black' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンクの体に黒い目、オレンジの髪、黄色い角、青い羽根、黄色いしっぽを持つ女性の姿をしています。",
-      "reason": "進化が起こった理由は、新たな環境への適応のためであり、より多様性と美しさを持つためです。",
-      "thought": "『調和と美しさ』"
+      "appearance": "イヴはピンク色の体と薄い赤色の長い髪を持つ女性で、体は柔らかな曲線で覆われ、しなやかな足を持ちます。顔には美しい薄いピンクの楕円形の目と優しい笑みがあります。手足は長く、指先には小さな爪があります。そして、背中にはピンク色の柔らかい翼が生えています。",
+      "reason": "イヴはこの進化を遂げ、より美しく優雅な姿になりました。新しい特徴は、より柔らかで繊細な体と、ピンク色の柔らかい翼です。進化の過程で、より女性らしい特徴が強調されました。",
+      "thought": "『平和と美しさの象徴』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><style>.body{fill:#87ceeb;}.eyes{fill:#3a3a3a;}.hair{fill:#f07f28;}.horn{fill:#ffd700;}.wings{fill:#00a2ff;}.tail{fill:#ffcc00;} </style><rect x='50' y='50' width='300' height='300' class='body'/><ellipse cx='150' cy='150' rx='40' ry='25' class='eyes'/><ellipse cx='250' cy='150' rx='40' ry='25' class='eyes'/><polygon points='130,120 170,120 150,140' class='hair'/><polygon points='230,120 270,120 250,140' class='hair'/><polygon points='120,50 150,20 180,50' class='horn'/><polygon points='220,50 250,20 280,50' class='horn'/><path d='M200 350 Q150 400 100 350' fill='none' stroke='#000' stroke-width='5' class='wings'/><path d='M150 350 Q200 400 250 350' fill='none' stroke='#000' stroke-width='5' class='wings'/><path d='M200 300 Q170 250 200 200' fill='none' stroke='#000' stroke-width='5' class='tail'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='200' fill='rgb(102,178,255)' /><polygon points='150,150 200,100 250,150' fill='rgb(51,153,255)' /><polygon points='170,150 200,120 230,150' fill='rgb(0,102,204)' /><line x1='170' y1='150' x2='170' y2='120' stroke='black' stroke-width='2' /><line x1='230' y1='150' x2='230' y2='120' stroke='black' stroke-width='2' /><ellipse cx='200' cy='170' rx='20' ry='15' fill='black' /><circle cx='190' cy='180' r='5' fill='rgb(102,178,255)' /><circle cx='210' cy='180' r='5' fill='rgb(102,178,255)' /><polygon points='185,230 200,250 215,230' fill='rgb(51,153,255)' /><line x1='185' y1='230' x2='215' y2='230' stroke='black' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "アダムは、水色の体に黒い目、オレンジの髪、黄色い角、青い羽根、黄色いしっぽを持つ男性の姿をしています。",
-      "reason": "進化が起こった理由は、新たな環境への適応のためであり、より多様性と美しさを持つためです。",
-      "thought": "『調和と美しさ』"
+      "appearance": "アダムは青色の体を持つ男性で、四角い頭と角ばった肩を持ちます。全体的に筋肉質で、強靭な腕と太い脚が特徴です。顔には小さな黒い目と真っ直ぐな口があり、表情は力強さを示しています。",
+      "reason": "アダムはこの進化を遂げ、より堅固で力強い姿に変化しました。新しい特徴は、より筋肉質で角ばった肩と四角い頭部です。進化の過程で、男性らしい特徴がより際立つようになりました。",
+      "thought": "『力強さと守護』"
     },
     "name": "アダム",
     "gender": "男性"

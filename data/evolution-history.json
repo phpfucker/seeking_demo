@@ -12977,5 +12977,28 @@
       "gender": "男性"
     },
     "timestamp": 1759170177263
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><style>.body{fill:#ff66b2;}.eyes{fill:#3a3a3a;}.hair{fill:#f07f28;}.horn{fill:#ffd700;}.wings{fill:#00a2ff;}.tail{fill:#ffcc00;} </style><rect x='50' y='50' width='300' height='300' class='body'/><ellipse cx='150' cy='150' rx='40' ry='25' class='eyes'/><ellipse cx='250' cy='150' rx='40' ry='25' class='eyes'/><polygon points='130,120 170,120 150,140' class='hair'/><polygon points='230,120 270,120 250,140' class='hair'/><polygon points='120,50 150,20 180,50' class='horn'/><polygon points='220,50 250,20 280,50' class='horn'/><path d='M200 350 Q150 400 100 350' fill='none' stroke='#000' stroke-width='5' class='wings'/><path d='M150 350 Q200 400 250 350' fill='none' stroke='#000' stroke-width='5' class='wings'/><path d='M200 300 Q170 250 200 200' fill='none' stroke='#000' stroke-width='5' class='tail'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクの体に黒い目、オレンジの髪、黄色い角、青い羽根、黄色いしっぽを持つ女性の姿をしています。",
+        "reason": "進化が起こった理由は、新たな環境への適応のためであり、より多様性と美しさを持つためです。",
+        "thought": "『調和と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><style>.body{fill:#87ceeb;}.eyes{fill:#3a3a3a;}.hair{fill:#f07f28;}.horn{fill:#ffd700;}.wings{fill:#00a2ff;}.tail{fill:#ffcc00;} </style><rect x='50' y='50' width='300' height='300' class='body'/><ellipse cx='150' cy='150' rx='40' ry='25' class='eyes'/><ellipse cx='250' cy='150' rx='40' ry='25' class='eyes'/><polygon points='130,120 170,120 150,140' class='hair'/><polygon points='230,120 270,120 250,140' class='hair'/><polygon points='120,50 150,20 180,50' class='horn'/><polygon points='220,50 250,20 280,50' class='horn'/><path d='M200 350 Q150 400 100 350' fill='none' stroke='#000' stroke-width='5' class='wings'/><path d='M150 350 Q200 400 250 350' fill='none' stroke='#000' stroke-width='5' class='wings'/><path d='M200 300 Q170 250 200 200' fill='none' stroke='#000' stroke-width='5' class='tail'/></svg>",
+      "report": {
+        "appearance": "アダムは、水色の体に黒い目、オレンジの髪、黄色い角、青い羽根、黄色いしっぽを持つ男性の姿をしています。",
+        "reason": "進化が起こった理由は、新たな環境への適応のためであり、より多様性と美しさを持つためです。",
+        "thought": "『調和と美しさ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1759194733518
   }
 ]
