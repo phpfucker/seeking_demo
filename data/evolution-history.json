@@ -13046,5 +13046,28 @@
       "gender": "男性"
     },
     "timestamp": 1759235615584
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFB6C1' /><rect x='150' y='220' width='100' height='100' fill='#FF1493' /><ellipse cx='150' cy='220' rx='30' ry='20' fill='#FF69B4' /><ellipse cx='250' cy='220' rx='30' ry='20' fill='#FF69B4' /><polygon points='190,140 200,120 210,140' fill='#FFB6C1' /><polygon points='160,240 150,260 140,240' fill='#FFB6C1' /><polygon points='240,240 250,260 260,240' fill='#FFB6C1' /><circle cx='190' cy='170' r='15' fill='#FFFFFF' /><circle cx='210' cy='170' r='15' fill='#FFFFFF' /><ellipse cx='190' cy='170' rx='5' ry='8' fill='#000000' /><ellipse cx='210' cy='170' rx='5' ry='8' fill='#000000' /><ellipse cx='200' cy='185' rx='10' ry='5' fill='#000000' /><line x1='150' y1='320' x2='130' y2='350' stroke='#FF1493' stroke-width='3' /><line x1='250' y1='320' x2='270' y2='350' stroke='#FF1493' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな体色を持ち、頭部に二つの紫色の耳があります。体の中央には大きな赤いハート模様が描かれ、手足は白い色のふわふわの部分があります。しっぽはピンク色で、背中には小さな翼が生えています。",
+        "reason": "イヴは愛と優しさを象徴する存在として成長しました。その優美な姿は宇宙に調和をもたらし、新たな生命の誕生を祝福しています。",
+        "thought": "『愛と光の輝き』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='220' width='100' height='100' fill='#1E90FF' /><rect x='145' y='320' width='10' height='40' fill='#1E90FF' /><rect x='245' y='320' width='10' height='40' fill='#1E90FF' /><line x1='150' y1='220' x2='200' y2='170' stroke='#1E90FF' stroke-width='10' /><line x1='250' y1='220' x2='200' y2='170' stroke='#1E90FF' stroke-width='10' /><polygon points='190,140 200,120 210,140' fill='#1E90FF' /><circle cx='200' cy='200' r='150' fill='#4169E1' /><ellipse cx='150' cy='220' rx='30' ry='20' fill='#4682B4' /><ellipse cx='250' cy='220' rx='30' ry='20' fill='#4682B4' /><polygon points='160,240 150,260 140,240' fill='#4169E1' /><polygon points='240,240 250,260 260,240' fill='#4169E1' /><circle cx='190' cy='170' r='15' fill='#FFFFFF' /><circle cx='210' cy='170' r='15' fill='#FFFFFF' /><ellipse cx='190' cy='170' rx='5' ry='8' fill='#000000' /><ellipse cx='210' cy='170' rx='5' ry='8' fill='#000000' /><ellipse cx='200' cy='185' rx='10' ry='5' fill='#000000' /></svg>",
+      "report": {
+        "appearance": "アダムは、濃い青色の体色を持ち、頭部には立体的な角があります。四肢は力強く、手足には青い鱗状の装甲があります。背中には二対の青い羽が生え、体の中央には紺色の模様が描かれています。",
+        "reason": "アダムは知識と力強さを象徴する存在として進化しました。その堅固な姿は宇宙の秩序を守る守護者として存在し、未来への希望を守護しています。",
+        "thought": "『知識と力の調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1759256469112
   }
 ]
