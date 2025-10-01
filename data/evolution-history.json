@@ -13115,5 +13115,28 @@
       "gender": "男性"
     },
     "timestamp": 1759299824632
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='160' rx='100' ry='140' fill='#ffeecc' /><rect x='140' y='225' width='120' height='60' fill='#ff99cc' /><rect x='135' y='275' width='130' height='30' fill='#ffbb99' /><path d='M220 220 L240 200 L260 220 Z' fill='#ff9966' /><path d='M170 190 Q200 160 230 190' stroke='#ff6699' fill='none' stroke-width='4' /><circle cx='180' cy='180' r='10' fill='#ff6699' /><circle cx='220' cy='180' r='10' fill='#ff6699' /><polygon points='185,265 195,245 205,265' fill='#ff99cc' /><polygon points='195,295 205,275 215,295' fill='#ff99cc' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとオレンジの色合いの美しい体に、長い尾と角を持ちます。顔は柔らかな卵型で、ピンクと赤の色調が特徴的です。手足は丸くて小さく、全体的に優雅な印象を与えます。",
+        "reason": "イヴは進化の過程で、より繊細で美しい特徴を身につけました。この進化は、種の繁栄と個体の美しさを高めるために起こりました。",
+        "thought": "『美しさは内から輝く』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#99ccff' /><ellipse cx='200' cy='160' rx='100' ry='140' fill='#ccffee' /><rect x='140' y='225' width='120' height='60' fill='#99ffcc' /><rect x='135' y='275' width='130' height='30' fill='#66ff99' /><path d='M220 220 L240 200 L260 220 Z' fill='#66ccff' /><path d='M170 190 Q200 160 230 190' stroke='#3399ff' fill='none' stroke-width='4' /><circle cx='180' cy='180' r='10' fill='#3399ff' /><circle cx='220' cy='180' r='10' fill='#3399ff' /><polygon points='185,265 195,245 205,265' fill='#99ffcc' /><polygon points='195,295 205,275 215,295' fill='#99ffcc' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と緑の色調が美しい体に、太い尾と角を持ちます。顔は強い印象を与えるマスク状で、青と紫の色合いが特徴です。手足はがっしりとした造りで、全体的に力強さを感じさせます。",
+        "reason": "アダムは進化の過程で、より堅固で力強い特徴を身につけました。この進化は、種の存続と個体の強さを高めるために起こりました。",
+        "thought": "『力強さと美しさを兼ね備えた存在』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1759322065421
   }
 ]
