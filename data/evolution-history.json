@@ -13069,5 +13069,28 @@
       "gender": "男性"
     },
     "timestamp": 1759256469112
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='180' rx='50' ry='70' fill='#ff9999'/><path d='M155 230 L200 280 L245 230 Z' fill='#e57373'/><circle cx='175' cy='160' r='5' fill='#000'/><circle cx='225' cy='160' r='5' fill='#000'/><path d='M180 220 Q200 240 220 220' fill='none' stroke='#000' stroke-width='3'/><path d='M120 250 Q200 300 280 250' fill='none' stroke='#ff9999' stroke-width='5'/><path d='M180 270 Q200 290 220 270' fill='none' stroke='#e57373' stroke-width='3'/><circle cx='180' cy='190' r='5' fill='#fff'/><circle cx='220' cy='190' r='5' fill='#fff'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の肌を持ち、女性らしい曲線を持つ。赤い髪と大きな目が特徴で、柔らかな表情をしている。体には赤い模様がある。",
+        "reason": "環境の変化により、イヴの美しさと柔らかさが強調される進化が起こった。",
+        "thought": "『生命の美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#87ceeb'/><ellipse cx='200' cy='180' rx='50' ry='70' fill='#4682b4'/><path d='M155 230 L200 280 L245 230 Z' fill='#1e90ff'/><circle cx='175' cy='160' r='5' fill='#000'/><circle cx='225' cy='160' r='5' fill='#000'/><line x1='180' y1='220' x2='220' y2='220' stroke='#000' stroke-width='3'/><line x1='120' y1='250' x2='280' y2='250' stroke='#4682b4' stroke-width='5'/><line x1='180' y1='270' x2='220' y2='270' stroke='#1e90ff' stroke-width='3'/><circle cx='180' cy='190' r='5' fill='#fff'/><circle cx='220' cy='190' r='5' fill='#fff'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の肌を持ち、男性らしいシャープな筋肉と輝く目を持つ。力強い表情と青い模様がある。",
+        "reason": "生存競争の中で、アダムの力強さと輝きが際立つ進化が起こった。",
+        "thought": "『力強さの象徴』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1759281561300
   }
 ]
