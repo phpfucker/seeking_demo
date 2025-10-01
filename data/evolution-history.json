@@ -13092,5 +13092,28 @@
       "gender": "男性"
     },
     "timestamp": 1759281561300
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#ffcccb'/><ellipse cx='200' cy='180' rx='120' ry='160' fill='#ff99ac'/><rect x='140' y='220' width='120' height='60' fill='#ff99ac'/><path d='M180 160 Q220 140 260 160 Q220 180 180 160' fill='none' stroke='#ff66a3' stroke-width='3'/><path d='M170 180 Q200 200 230 180' fill='none' stroke='#ff66a3' stroke-width='3'/><path d='M200 230 Q190 250 200 250 Q210 250 200 230' fill='#ff99ac'/><circle cx='180' cy='190' r='8' fill='#fff'/><circle cx='220' cy='190' r='8' fill='#fff'/><line x1='175' y1='220' x2='140' y2='260' stroke='#ff66a3' stroke-width='3'/><line x1='225' y1='220' x2='260' y2='260' stroke='#ff66a3' stroke-width='3'/></svg>",
+      "report": {
+        "appearance": "イヴは、淡いピンク色の柔らかな肌を持ち、優雅で整った体つきをしています。体全体が柔らかな曲線で描かれ、優しい表情と大きな目が特徴です。背中には薄いピンク色の羽が生えており、優雅な雰囲気を醸し出しています。",
+        "reason": "イヴは自然の力と調和した進化を遂げました。美しさと優しさを象徴する姿となりました。",
+        "thought": "『調和と美しさが私を包み込む』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='180' width='160' height='200' fill='#87ceeb'/><circle cx='200' cy='140' r='80' fill='#4682b4'/><path d='M160 180 Q200 160 240 180 Q200 200 160 180' fill='none' stroke='#4682b4' stroke-width='3'/><path d='M170 200 Q200 220 230 200' fill='none' stroke='#4682b4' stroke-width='3'/><circle cx='180' cy='220' r='10' fill='#fff'/><circle cx='220' cy='220' r='10' fill='#fff'/><rect x='160' y='250' width='80' height='20' fill='#4682b4'/><line x1='180' y1='250' x2='180' y2='280' stroke='#4682b4' stroke-width='3'/><line x1='220' y1='250' x2='220' y2='280' stroke='#4682b4' stroke-width='3'/></svg>",
+      "report": {
+        "appearance": "アダムは、深い青色の鱗で覆われた体と、力強い脚を持つ姿をしています。大きな青い目と凛々しい表情が特徴で、背中には風を切るような細長い尾が生えています。",
+        "reason": "アダムは自然の厳しさに適応した進化を遂げました。強さと勇気を象徴する姿となりました。",
+        "thought": "『大自然と共に在り、強さを示す』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1759299824632
   }
 ]
