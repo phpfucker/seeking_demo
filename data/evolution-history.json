@@ -13276,5 +13276,28 @@
       "gender": "男性"
     },
     "timestamp": 1759453771771
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='120' width='120' height='200' fill='#ff99cc'/><ellipse cx='200' cy='100' rx='70' ry='90' fill='#ffcc99'/><path d='M200 190 L170 220 L230 220 Z' fill='#ff99cc'/><circle cx='160' cy='100' r='8' fill='#ff6666'/><circle cx='240' cy='100' r='8' fill='#ff6666'/><path d='M170 240 Q200 280 230 240' fill='none' stroke='#ff99cc' stroke-width='3'/><line x1='180' y1='120' x2='160' y2='80' stroke='#ffcc99' stroke-width='4'/><line x1='220' y1='120' x2='240' y2='80' stroke='#ffcc99' stroke-width='4'/><polygon points='190,160 210,160 200,180' fill='#ffcc99'/><text x='200' y='350' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは細身の体にピンクとオレンジの色合いの肌を持ち、大きな橙色の目を持っています。頭部に小さな角があり、柔らかなピンク色の服を身に着けています。手足は長く細い形状で、しっぽはなめらかな曲線を描いています。",
+        "reason": "イヴは美と柔らかさを象徴する進化を遂げました。この進化は、生命体の調和と愛に満ちた新たな段階を表しています。",
+        "thought": "『愛と美しさが世界を満たす』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='120' width='120' height='200' fill='#99ccff'/><ellipse cx='200' cy='100' rx='70' ry='90' fill='#99ffcc'/><path d='M200 190 L170 220 L230 220 Z' fill='#99ccff'/><circle cx='160' cy='100' r='8' fill='#6666ff'/><circle cx='240' cy='100' r='8' fill='#6666ff'/><path d='M170 240 Q200 280 230 240' fill='none' stroke='#99ccff' stroke-width='3'/><line x1='180' y1='120' x2='160' y2='80' stroke='#99ffcc' stroke-width='4'/><line x1='220' y1='120' x2='240' y2='80' stroke='#99ffcc' stroke-width='4'/><polygon points='190,160 210,160 200,180' fill='#99ffcc'/><text x='200' y='350' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは頑丈な体つきで青と緑の色調の肌を持ち、大きな青い目を備えています。頭上には尖った角があり、青と緑の調和した衣装を身に纏っています。手足は筋肉質で、しっぽは力強い曲線を描いています。",
+        "reason": "アダムは力と調和を象徴する進化を遂げました。この進化は、生命体の強さと安定した進化の新たな段階を示しています。",
+        "thought": "『力強さと調和が未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1759472555199
   }
 ]
