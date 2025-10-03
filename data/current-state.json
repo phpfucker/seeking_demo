@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,210,205);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,140,135);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradA)' /><ellipse cx='200' cy='150' rx='70' ry='100' fill='url(#gradA)' /><circle cx='155' cy='130' r='10' fill='white' /><circle cx='245' cy='130' r='10' fill='white' /><path d='M180 200 L200 160 L220 200 Z' fill='rgb(255,140,135)' /><path d='M170 280 Q200 330 230 280' stroke='black' stroke-width='2' fill='none' /><polygon points='160,230 200,250 240,230' fill='rgb(255,210,205)' /><path d='M180 150 L170 160 L180 170 M220 150 L230 160 L220 170' stroke='black' stroke-width='2' fill='none' /><line x1='190' y1='220' x2='210' y2='220' stroke='black' stroke-width='2' /><circle cx='200' cy='250' r='5' fill='black' /><circle cx='200' cy='190' r='5' fill='black' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#f7d7e1' /><ellipse cx='200' cy='180' rx='80' ry='100' fill='#f9b4c2' /><path d='M155 160 L190 140 L225 160 Q200 200 175 160 Z' fill='#f9b4c2' /><path d='M180 220 Q200 240 220 220' stroke='#d36d8a' stroke-width='6' fill='none' /><line x1='180' y1='220' x2='180' y2='240' stroke='#d36d8a' stroke-width='6' /><line x1='220' y1='220' x2='220' y2='240' stroke='#d36d8a' stroke-width='6' /><ellipse cx='160' cy='180' rx='8' ry='12' fill='#632b46' /><ellipse cx='240' cy='180' rx='8' ry='12' fill='#632b46' /><path d='M170 220 Q200 190 230 220' fill='none' stroke='#632b46' stroke-width='4' /><path d='M170 230 A30 30 0 0 0 230 230' fill='none' stroke='#632b46' stroke-width='4' /><path d='M190 210 Q200 190 210 210' fill='none' stroke='#632b46' stroke-width='4' /><rect x='180' y='240' width='40' height='30' fill='#f9b4c2' /><ellipse cx='200' cy='270' rx='20' ry='10' fill='#f7d7e1' /><polygon points='190,160 195,150 205,150 210,160' fill='#ffd9e8' /><polygon points='170,200 180,195 180,205' fill='#ffd9e8' /><polygon points='230,200 220,195 220,205' fill='#ffd9e8' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンクとオレンジのグラデーションが美しい女性型生命体です。体は丸みを帯び、愛らしい雰囲気を持っています。頭部には瞳が描かれ、優しさがにじみ出ています。背中には2つの翼があります。",
-      "reason": "進化の過程で、イヴはより優美で華やかな外見を求めるようになりました。自然への愛情と美しいものへの憧れが、新しい特徴を生み出しました。",
-      "thought": "『愛と美しさの融合』"
+      "appearance": "イヴは、ピンクと白の優しい色合いの肌を持ち、繊細な女性の特徴を持つ。体は丸く柔らかく、優美な曲線で描かれており、愛らしい印象を与える。",
+      "reason": "イヴが進化した理由は、新たな生態系に適応し、より優れた知識と洞察力を持つことで、種の存続と繁栄を促進するためである。",
+      "thought": "『深い愛と知恵』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(100,170,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(50,120,255);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradB)' /><ellipse cx='200' cy='150' rx='70' ry='100' fill='url(#gradB)' /><circle cx='155' cy='130' r='10' fill='white' /><circle cx='245' cy='130' r='10' fill='white' /><path d='M180 200 L200 160 L220 200 Z' fill='rgb(50,120,255)' /><path d='M170 280 Q200 330 230 280' stroke='black' stroke-width='2' fill='none' /><polygon points='160,230 200,250 240,230' fill='rgb(100,170,255)' /><path d='M180 150 L170 160 L180 170 M220 150 L230 160 L220 170' stroke='black' stroke-width='2' fill='none' /><line x1='190' y1='220' x2='210' y2='220' stroke='black' stroke-width='2' /><circle cx='200' cy='250' r='5' fill='black' /><circle cx='200' cy='190' r='5' fill='black' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#a0d2eb' /><ellipse cx='200' cy='180' rx='80' ry='100' fill='#6bb8db' /><path d='M155 160 L190 140 L225 160 Q200 200 175 160 Z' fill='#6bb8db' /><path d='M180 220 Q200 240 220 220' stroke='#3c8cbc' stroke-width='6' fill='none' /><line x1='180' y1='220' x2='180' y2='240' stroke='#3c8cbc' stroke-width='6' /><line x1='220' y1='220' x2='220' y2='240' stroke='#3c8cbc' stroke-width='6' /><ellipse cx='160' cy='180' rx='8' ry='12' fill='#184d6b' /><ellipse cx='240' cy='180' rx='8' ry='12' fill='#184d6b' /><path d='M170 220 Q200 200 230 220' fill='none' stroke='#184d6b' stroke-width='4' /><path d='M170 230 A30 30 0 0 0 230 230' fill='none' stroke='#184d6b' stroke-width='4' /><path d='M190 210 Q200 200 210 210' fill='none' stroke='#184d6b' stroke-width='4' /><rect x='180' y='240' width='40' height='30' fill='#6bb8db' /><ellipse cx='200' cy='270' rx='20' ry='10' fill='#a0d2eb' /><polygon points='190,160 195,150 205,150 210,160' fill='#9be6fa' /><polygon points='170,200 180,195 180,205' fill='#9be6fa' /><polygon points='230,200 220,195 220,205' fill='#9be6fa' /></svg>",
     "report": {
-      "appearance": "アダムは、青と紫のグラデーションが美しい男性型生命体です。力強い体つきと鋭い目つきが特徴であり、威厳を感じさせます。背中には大きな尾が生えています。",
-      "reason": "アダムは自身の生存戦略を強化するため、より力強く、威厳ある姿に進化しました。強さと知恵を兼ね備えた外見が、新たな環境での成功を約束します。",
-      "thought": "『力と知恵の結集』"
+      "appearance": "アダムは、青と白の清潔な色調を持つ。男性らしいシャープな特徴を備え、力強くたくましい体つきが特徴的である。",
+      "reason": "アダムが進化した背景には、新たな環境での生存競争と、より優れた運動能力と戦闘力を備えることで、種の存続と繁栄を図るためである。",
+      "thought": "『力強い意志と勇気』"
     },
     "name": "アダム",
     "gender": "男性"
