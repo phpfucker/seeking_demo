@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(236, 138, 178);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255, 192, 203);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><rect x='120' y='180' width='160' height='80' fill='rgb(255, 192, 203)' /><ellipse cx='150' cy='180' rx='30' ry='20' fill='rgb(255, 192, 203)' /><ellipse cx='250' cy='180' rx='30' ry='20' fill='rgb(255, 192, 203)' /><path d='M180,250 Q200,280 220,250' fill='none' stroke='rgb(236, 138, 178)' stroke-width='5' /><path d='M140,220 Q200,260 260,220' fill='none' stroke='rgb(236, 138, 178)' stroke-width='5' /><circle cx='170' cy='180' r='5' fill='black' /><circle cx='230' cy='180' r='5' fill='black' /><path d='M180,210 Q200,200 220,210' fill='none' stroke='black' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#FFB6C1'/><ellipse cx='200' cy='250' rx='80' ry='100' fill='#FFC0CB'/><circle cx='150' cy='200' r='15' fill='#FFFFFF'/><circle cx='250' cy='200' r='15' fill='#FFFFFF'/><path d='M190 280 Q200 320 210 280' fill='none' stroke='#000' stroke-width='2'/><polygon points='170,220 180,220 175,230' fill='#000'/><polygon points='220,220 230,220 225,230' fill='#000'/><line x1='180' y1='280' x2='220' y2='280' stroke='#000' stroke-width='2'/><line x1='180' y1='280' x2='170' y2='320' stroke='#000' stroke-width='2'/><line x1='220' y1='280' x2='230' y2='320' stroke='#000' stroke-width='2'/></svg>",
     "report": {
-      "appearance": "イヴは、柔らかなピンク色の肌を持ち、優雅な曲線で描かれた女性型生命体です。背中には大きな翼が生え、優しくキュートな表情をしています。髪の毛は長く、ピンク色のグラデーションがかった柔らかい質感のものです。",
-      "reason": "イヴは新たな進化を遂げ、より優美で美しい姿に変化しました。翼の発達は自然と調和する力を象徴し、豊かな内面を表現しています。",
-      "thought": "『優しさと美しさが宇宙の調和を紡ぎだす』"
+      "appearance": "イヴは、ピンク色の柔らかな体と、白い目を持つ女性型の生命体です。体の中心には大きな楕円形の模様があり、手足には小さな白い爪が付いています。",
+      "reason": "生態系の変化により、イヴはより柔らかく、優しさを象徴する色合いと模様を発展させました。",
+      "thought": "『自然の中で包み込まれる安らぎ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(118, 204, 204);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(179, 255, 255);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradB)' /><rect x='120' y='180' width='160' height='80' fill='rgb(179, 255, 255)' /><rect x='160' y='200' width='80' height='30' rx='15' fill='rgb(179, 255, 255)' /><line x1='170' y1='210' x2='150' y2='230' stroke='rgb(118, 204, 204)' stroke-width='5' /><line x1='230' y1='210' x2='250' y2='230' stroke='rgb(118, 204, 204)' stroke-width='5' /><polygon points='200,250 180,270 220,270' fill='rgb(118, 204, 204)' /><ellipse cx='200' cy='180' rx='25' ry='15' fill='rgb(179, 255, 255)' /><circle cx='190' cy='190' r='5' fill='black' /><circle cx='210' cy='190' r='5' fill='black' /><path d='M190,220 Q200,210 210,220' fill='none' stroke='black' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ADD8E6'/><ellipse cx='200' cy='250' rx='80' ry='100' fill='#B0E0E6'/><circle cx='150' cy='200' r='15' fill='#FFFFFF'/><circle cx='250' cy='200' r='15' fill='#FFFFFF'/><path d='M190 280 Q200 320 210 280' fill='none' stroke='#000' stroke-width='2'/><polygon points='170,220 180,220 175,230' fill='#000'/><polygon points='220,220 230,220 225,230' fill='#000'/><line x1='180' y1='280' x2='220' y2='280' stroke='#000' stroke-width='2'/><line x1='180' y1='280' x2='170' y2='320' stroke='#000' stroke-width='2'/><line x1='220' y1='280' x2='230' y2='320' stroke='#000' stroke-width='2'/></svg>",
     "report": {
-      "appearance": "アダムは、涼やかな水色の体色を持ち、男性らしい力強い体つきが特徴の生命体です。頭には角があり、穏やかな表情を浮かべ、巨大な鰭が背中に広がっています。しっかりとした足で地に足をつけ、自信に満ちた姿勢をしています。",
-      "reason": "アダムは進化し、より力強くかつ自信に満ちた外見となりました。水の力という自然のエネルギーを体現し、誇り高く生命を育む役割を果たす存在として進化しました。",
-      "thought": "『誇り高き力と知恵により、生命の輝きを守る』"
+      "appearance": "アダムは、水色の体色と、白い目を持つ男性型の生命体です。体の中心には大きな楕円形の模様があり、手足には小さな白い爪が付いています。",
+      "reason": "環境の変化により、アダムはより穏やかで清らかな色調と模様を進化させた結果です。",
+      "thought": "『心の平穏と清潔さ』"
     },
     "name": "アダム",
     "gender": "男性"
