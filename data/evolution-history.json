@@ -13414,5 +13414,28 @@
       "gender": "男性"
     },
     "timestamp": 1759580870744
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#FFB6C1'/><ellipse cx='200' cy='250' rx='80' ry='100' fill='#FFC0CB'/><circle cx='150' cy='200' r='15' fill='#FFFFFF'/><circle cx='250' cy='200' r='15' fill='#FFFFFF'/><path d='M190 280 Q200 320 210 280' fill='none' stroke='#000' stroke-width='2'/><polygon points='170,220 180,220 175,230' fill='#000'/><polygon points='220,220 230,220 225,230' fill='#000'/><line x1='180' y1='280' x2='220' y2='280' stroke='#000' stroke-width='2'/><line x1='180' y1='280' x2='170' y2='320' stroke='#000' stroke-width='2'/><line x1='220' y1='280' x2='230' y2='320' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな体と、白い目を持つ女性型の生命体です。体の中心には大きな楕円形の模様があり、手足には小さな白い爪が付いています。",
+        "reason": "生態系の変化により、イヴはより柔らかく、優しさを象徴する色合いと模様を発展させました。",
+        "thought": "『自然の中で包み込まれる安らぎ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ADD8E6'/><ellipse cx='200' cy='250' rx='80' ry='100' fill='#B0E0E6'/><circle cx='150' cy='200' r='15' fill='#FFFFFF'/><circle cx='250' cy='200' r='15' fill='#FFFFFF'/><path d='M190 280 Q200 320 210 280' fill='none' stroke='#000' stroke-width='2'/><polygon points='170,220 180,220 175,230' fill='#000'/><polygon points='220,220 230,220 225,230' fill='#000'/><line x1='180' y1='280' x2='220' y2='280' stroke='#000' stroke-width='2'/><line x1='180' y1='280' x2='170' y2='320' stroke='#000' stroke-width='2'/><line x1='220' y1='280' x2='230' y2='320' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、水色の体色と、白い目を持つ男性型の生命体です。体の中心には大きな楕円形の模様があり、手足には小さな白い爪が付いています。",
+        "reason": "環境の変化により、アダムはより穏やかで清らかな色調と模様を進化させた結果です。",
+        "thought": "『心の平穏と清潔さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1759601961179
   }
 ]
