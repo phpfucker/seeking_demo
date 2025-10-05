@@ -13437,5 +13437,28 @@
       "gender": "男性"
     },
     "timestamp": 1759601961179
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#FF69B4'/><circle cx='200' cy='150' r='70' fill='#FFC0CB'/><circle cx='160' cy='140' r='10' fill='#FFFFFF'/><circle cx='240' cy='140' r='10' fill='#FFFFFF'/><polygon points='180,170 220,170 200,190' fill='#000000'/><rect x='150' y='250' width='100' height='50' fill='#FFC0CB'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の美しい女性で、胸と尻尾がある。体は大きな赤い四角形で覆われ、顔には白い目と黒い口がある。手足は丸くて白く、背中にはピンクの矩形の模様がある。",
+        "reason": "イヴは進化の過程で、美しい色彩と柔らかな特徴を持つようになり、固い体と尻尾が追加された。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='100' rx='80' ry='100' fill='#4169E1'/><polygon points='160,200 200,320 240,200' fill='#4169E1'/><circle cx='180' cy='110' r='10' fill='#FFFFFF'/><circle cx='220' cy='110' r='10' fill='#FFFFFF'/><rect x='180' y='240' width='40' height='60' fill='#4169E1'/></svg>",
+      "report": {
+        "appearance": "アダムは青い色の男性で、上半身は楕円形で下半身は三角形。顔には白い目があり、手足は細長い青い楕円形。背中に三角形の模様があります。",
+        "reason": "アダムは進化の結果、青色で男性的な特徴を持つようになり、上半身と下半身が異なる形状となった。",
+        "thought": "『力と知恵』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1759627029514
   }
 ]
