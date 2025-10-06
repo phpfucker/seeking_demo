@@ -13529,5 +13529,28 @@
       "gender": "男性"
     },
     "timestamp": 1759688378404
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#FFC0CB'/><ellipse cx='200' cy='150' rx='70' ry='90' fill='#FFC0CB'/><path d='M150 300 L200 350 L250 300 Z' fill='#FF69B4'/><circle cx='160' cy='140' r='10' fill='#FFFFFF'/><circle cx='240' cy='140' r='10' fill='#FFFFFF'/><polygon points='180,200 220,200 200,220' fill='#FFFFFF'/><path d='M170 170 Q200 100 230 170' fill='none' stroke='#000000'/><line x1='160' y1='310' x2='140' y2='370' stroke='#000000' stroke-width='2'/><line x1='240' y1='310' x2='260' y2='370' stroke='#000000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかい毛並みで覆われ、大きな赤い目を持つ女性型生命体です。背中には優雅なピンク色の翼があります。体の一部には淡い紫色の模様が入り、優しい雰囲気を醸し出しています。",
+        "reason": "イヴの進化は、自然界の美しさと調和を表現するために起こりました。新たな色と柄が加わり、生命体の魅力を高めるために進化しました。",
+        "thought": "『優しさと美しさが調和する』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#1E90FF'/><ellipse cx='200' cy='150' rx='70' ry='90' fill='#1E90FF'/><path d='M150 300 L200 350 L250 300 Z' fill='#4169E1'/><circle cx='160' cy='140' r='10' fill='#FFFFFF'/><circle cx='240' cy='140' r='10' fill='#FFFFFF'/><polygon points='180,200 220,200 200,220' fill='#FFFFFF'/><path d='M170 170 Q200 100 230 170' fill='none' stroke='#000000'/><line x1='160' y1='310' x2='140' y2='370' stroke='#000000' stroke-width='2'/><line x1='240' y1='310' x2='260' y2='370' stroke='#000000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体毛で覆われ、鋭い青い目を持つ男性型生命体です。背中には力強い青い翼があります。体の一部には濃い青色の模様が入り、凛々しい雰囲気を醸し出しています。",
+        "reason": "アダムの進化は、力強さと誇りを象徴するために起こりました。新たな色と模様が加わり、生命体の威厳を高めるために進化しました。",
+        "thought": "『誇り高く、力強く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1759713114372
   }
 ]
