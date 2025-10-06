@@ -13598,5 +13598,28 @@
       "gender": "男性"
     },
     "timestamp": 1759753977949
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='pink'/><circle cx='200' cy='160' r='40' fill='white'/><circle cx='170' cy='150' r='10' fill='black'/><circle cx='230' cy='150' r='10' fill='black'/><path d='M180 220 Q200 250 220 220 Q200 240 180 220 Z' fill='pink'/><path d='M180 250 Q200 240 220 250' fill='white'/><rect x='180' y='250' width='40' height='30' fill='pink'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に白い顔と黒い瞳を持つ女性の生命体です。体の一部にはピンクの模様が描かれており、優雅な印象を与えます。",
+        "reason": "進化のプロセスにおいて、イヴは女性らしさをさらに表現するため、柔らかなピンク色と模様を取り入れました。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='blue'/><circle cx='200' cy='160' r='40' fill='white'/><polygon points='180,270 220,270 200,300' fill='white'/><path d='M180 220 Q200 250 220 220 Q200 240 180 220 Z' fill='blue'/><path d='M180 250 Q200 240 220 250' fill='white'/><rect x='180' y='250' width='40' height='30' fill='blue'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に白い顔と白い角を持つ男性の生命体です。体の一部には青の模様が描かれており、力強い印象を与えます。",
+        "reason": "アダムは男性らしさをより際立たせるため、力強い青色と角を取り入れ、威厳ある外見を手に入れました。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1759775006143
   }
 ]
