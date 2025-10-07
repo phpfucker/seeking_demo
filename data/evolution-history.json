@@ -13690,5 +13690,28 @@
       "gender": "男性"
     },
     "timestamp": 1759840395611
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='170' fill='pink'/><rect x='130' y='220' width='140' height='100' fill='white'/><ellipse cx='160' cy='230' rx='30' ry='20' fill='pink'/><ellipse cx='240' cy='230' rx='30' ry='20' fill='pink'/><polygon points='200,290 190,320 210,320' fill='white'/><ellipse cx='170' cy='180' rx='10' ry='20' fill='black'/><ellipse cx='230' cy='180' rx='10' ry='20' fill='black'/><path d='M160 170 Q200 100 240 170' fill='none' stroke='black' stroke-width='2'/><path d='M190 180 Q200 170 210 180' fill='none' stroke='black' stroke-width='2'/><line x1='200' y1='180' x2='200' y2='220' stroke='black' stroke-width='2'/><line x1='160' y1='280' x2='170' y2='270' stroke='black' stroke-width='2'/><line x1='240' y1='280' x2='230' y2='270' stroke='black' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴはピンクの体と白い服を身に纏っている。頭には黒い瞳を持つ二つの目があり、優雅な角が生えている。手足は細く、しっぽが優しく曲がっている。",
+        "reason": "新たなる進化が、女性らしさと優美さをより際立たせるために起こった。",
+        "thought": "『美しさと優しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='170' fill='lightblue'/><rect x='130' y='220' width='140' height='100' fill='white'/><ellipse cx='160' cy='230' rx='30' ry='20' fill='lightblue'/><ellipse cx='240' cy='230' rx='30' ry='20' fill='lightblue'/><polygon points='200,290 190,320 210,320' fill='white'/><ellipse cx='170' cy='180' rx='10' ry='20' fill='black'/><ellipse cx='230' cy='180' rx='10' ry='20' fill='black'/><path d='M160 170 Q200 100 240 170' fill='none' stroke='black' stroke-width='2'/><path d='M190 180 Q200 170 210 180' fill='none' stroke='black' stroke-width='2'/><line x1='200' y1='180' x2='200' y2='220' stroke='black' stroke-width='2'/><line x1='160' y1='280' x2='170' y2='270' stroke='black' stroke-width='2'/><line x1='240' y1='280' x2='230' y2='270' stroke='black' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは淡い青色の体と白い服を身に纏っている。頭には黒い瞳を持つ二つの目があり、力強い角が生えている。手足は頑丈で、しっぽが力強く伸びている。",
+        "reason": "男性らしさと力強さをより際立たせるために進化が起こった。",
+        "thought": "『力強さと誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1759861385464
   }
 ]
