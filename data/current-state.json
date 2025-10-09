@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,173,190);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,78,87);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='130' cy='160' rx='30' ry='20' fill='white' /><ellipse cx='270' cy='160' rx='30' ry='20' fill='white' /><path d='M150 240 L250 240 Q200 260 150 240 Z' fill='white' /><path d='M180 190 Q200 170 220 190' stroke='black' stroke-width='2' fill='transparent' /><path d='M220 190 Q240 170 260 190' stroke='black' stroke-width='2' fill='transparent' /><ellipse cx='190' cy='160' rx='8' ry='15' fill='black' /><ellipse cx='210' cy='160' rx='8' ry='15' fill='black' /><ellipse cx='200' cy='200' rx='10' ry='5' fill='black' /><path d='M130 240 Q100 270 130 280' stroke='black' stroke-width='2' fill='transparent' /><path d='M270 240 Q300 270 270 280' stroke='black' stroke-width='2' fill='transparent' /><path d='M150 340 Q200 360 250 340' stroke='black' stroke-width='2' fill='transparent' /><path d='M200 240 Q200 220 200 200' stroke='black' stroke-width='2' fill='transparent' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
     "report": {
-      "appearance": "イヴは、ピンクからレッドへとグラデーションした柔らかな肌を持ち、白い眼と薄いピンクの唇が特徴です。頭には2本の長い角が生えており、手足は細長くしなやかです。全体的に優雅で美しい姿をしています。",
-      "reason": "イヴは、自然の摂理により、美しさと優雅さを更に高められた進化を遂げました。",
-      "thought": "『調和と美しさ』"
+      "appearance": "イヴは、美しい蝶の翼を持つ女性で、その翼は優雅な色彩と複雑な模様で飾られています。頭部には透明な触角があり、鮮やかな花の模様が描かれた瞳が印象的です。体には流れるような葉の模様が広がり、手には細かい蝶の羽が生えています。",
+      "reason": "イヴは、自然界の美しさと調和を象徴する進化を遂げました。その翼の美しさは、自然の植物や昆虫との一体感を表現しています。",
+      "thought": "『調和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(153,204,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(51,153,255);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradB)' /><ellipse cx='130' cy='160' rx='30' ry='20' fill='white' /><ellipse cx='270' cy='160' rx='30' ry='20' fill='white' /><path d='M150 240 L250 240 Q200 260 150 240 Z' fill='white' /><path d='M180 190 Q200 170 220 190' stroke='black' stroke-width='2' fill='transparent' /><path d='M220 190 Q240 170 260 190' stroke='black' stroke-width='2' fill='transparent' /><ellipse cx='190' cy='160' rx='8' ry='15' fill='black' /><ellipse cx='210' cy='160' rx='8' ry='15' fill='black' /><ellipse cx='200' cy='200' rx='10' ry='5' fill='black' /><path d='M130 240 Q100 270 130 280' stroke='black' stroke-width='2' fill='transparent' /><path d='M270 240 Q300 270 270 280' stroke='black' stroke-width='2' fill='transparent' /><path d='M150 340 Q200 360 250 340' stroke='black' stroke-width='2' fill='transparent' /><path d='M200 240 Q200 220 200 200' stroke='black' stroke-width='2' fill='transparent' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
     "report": {
-      "appearance": "アダムは、青から濃い青へのグラデーションが施された肌を持ち、白い眼と凛々しい表情が特徴です。頭には2本の鋭い角があり、手足は力強く筋肉質です。全体的に力強くたくましい外見をしています。",
-      "reason": "アダムは、生存競争において強さと頼もしさをより高めるために進化を遂げました。",
-      "thought": "『力と誇り』"
+      "appearance": "アダムは、荒々しいドラゴンのような男性で、全身に鱗片が覆い、角の生えた頭部と大きな翼を持っています。燃えるような赤と黒の色彩が印象的で、尾には鋭い尖った突起がたくさんあります。",
+      "reason": "アダムは、力強さと勇気を表す進化を遂げました。その外見は、古代の伝説に登場する勇士やドラゴンのイメージからインスパイアされています。",
+      "thought": "『勇気』"
     },
     "name": "アダム",
     "gender": "男性"
