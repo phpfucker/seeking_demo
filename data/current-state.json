@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,189,219);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,103,179);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='140' cy='170' rx='25' ry='40' fill='white' /><ellipse cx='260' cy='170' rx='25' ry='40' fill='white' /><path d='M160,280 Q200,320 240,280' fill='none' stroke='black' stroke-width='2' /><path d='M180,280 Q200,300 220,280' fill='none' stroke='black' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradA)' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='rgb(255,218,185)' /><circle cx='160' cy='130' r='10' fill='black' /><circle cx='240' cy='130' r='10' fill='black' /><path d='M180 200 Q190 180 200 200 Q210 180 220 200' fill='none' stroke='black' stroke-width='2' /><path d='M150 250 Q180 260 200 250 Q220 260 250 250' fill='none' stroke='black' stroke-width='2' /><path d='M200 250 Q200 270 200 290' fill='none' stroke='black' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "イヴは、淡いピンクから鮮やかなピンクにグラデーションした柔らかな肌を持つ女性の姿をしています。顔には丸い白い目が2つあり、長いまつげと柔らかい唇を持っています。長い髪の毛は背中まで伸び、ふわふわとした印象を与えます。体の輪郭は滑らかで曲線美が特徴です。",
-      "reason": "イヴは新たな進化を遂げ、より美しく、優雅で優しい外見を手に入れました。この進化は、環境の安定と生存競争のない状況において、美的要素が重視されるようになったためです。",
-      "thought": "『やさしさ』"
+      "appearance": "イヴは、ピンクとオレンジのグラデーションを持つ美しい女性。体は細やかな曲線で描かれ、柔らかな表情と一体となった顔が特徴的。",
+      "reason": "生態系への適応を促すため、柔らかな色合いと優しい表情が進化しました。",
+      "thought": "『愛と美の力』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(182,255,226);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(68,255,193);stop-opacity:1' /></linearGradient></defs><rect x='140' y='150' width='120' height='180' fill='url(#gradB)' /><ellipse cx='200' cy='120' rx='50' ry='40' fill='white' /><circle cx='160' cy='150' r='10' fill='black' /><circle cx='240' cy='150' r='10' fill='black' /><polygon points='180,230 200,250 220,230' fill='white' /><line x1='180' y1='330' x2='200' y2='380' stroke='black' stroke-width='3' /><line x1='220' y1='330' x2='200' y2='380' stroke='black' stroke-width='3' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(173,216,230);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradB)' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='rgb(176,224,230)' /><circle cx='160' cy='130' r='10' fill='black' /><circle cx='240' cy='130' r='10' fill='black' /><line x1='180' y1='200' x2='200' y2='200' stroke='black' stroke-width='2' /><line x1='150' y1='250' x2='200' y2='290' stroke='black' stroke-width='2' /><line x1='250' y1='250' x2='200' y2='290' stroke='black' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "アダムは、淡い水色から明るい緑色にグラデーションした頑丈な体躯を持つ男性の姿をしています。頭部には丸い白目が2つあり、黒い口元があります。耳の後ろには3つの角が生えており、首からはしっかりとした体が伸びています。",
-      "reason": "アダムは進化の過程で、より強靭で防御力のある外見を獲得しました。これは、環境が厳しい過酷な条件下で生存するため、頑丈さと力強さが重視されるようになったためです。",
-      "thought": "『力強さ』"
+      "appearance": "アダムは、青と水色のグラデーションを持つ英雄的な男性。力強い体つきと凛々しい表情が特徴。",
+      "reason": "過酷な環境での生存を支援するため、力強い体と凛々しい表情が進化しました。",
+      "thought": "『勇気と誇りの心』"
     },
     "name": "アダム",
     "gender": "男性"
