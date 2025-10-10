@@ -13943,5 +13943,28 @@
       "gender": "男性"
     },
     "timestamp": 1760077431958
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='80' y='180' width='240' height='180' fill='#FFD700' /><ellipse cx='200' cy='100' rx='80' ry='60' fill='#FFD700' /><circle cx='150' cy='60' r='8' fill='#000' /><circle cx='250' cy='60' r='8' fill='#000' /><path d='M180 120 Q200 140 220 120' fill='none' stroke='#000' stroke-width='2' /><path d='M160 180 Q200 200 240 180' fill='none' stroke='#000' stroke-width='2' /><path d='M120 180 Q200 220 280 180' fill='none' stroke='#000' stroke-width='2' /><polyline points='140,220 160,220 180,200 220,200 240,220 260,220' fill='none' stroke='#000' stroke-width='2' /><line x1='160' y1='300' x2='140' y2='360' stroke='#000' stroke-width='2' /><line x1='240' y1='300' x2='260' y2='360' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、金色のしっかりとした体躯に、円らな顔立ちを持つ。小さな黒い瞳が印象的で、繊細な曲線の耳が耳たぶに向かって広がっている。上品な輝きを放つ金色の鱗が全身を覆い、優雅な美しさを放っている。",
+        "reason": "イヴは、自然の摂理と共鳴し、進化の過程で美しさと調和を追求した結果、金色の鱗を身にまとい、優美な容姿を手に入れた。",
+        "thought": "『輝く美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='80' y='180' width='240' height='180' fill='#4682B4' /><ellipse cx='200' cy='100' rx='80' ry='60' fill='#4682B4' /><circle cx='150' cy='60' r='8' fill='#000' /><circle cx='250' cy='60' r='8' fill='#000' /><path d='M180 120 Q200 140 220 120' fill='none' stroke='#000' stroke-width='2' /><path d='M160 180 Q200 200 240 180' fill='none' stroke='#000' stroke-width='2' /><path d='M120 180 Q200 220 280 180' fill='none' stroke='#000' stroke-width='2' /><line x1='160' y1='300' x2='140' y2='360' stroke='#000' stroke-width='2' /><line x1='240' y1='300' x2='260' y2='360' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い体躯に覆われた存在である。頑丈で力強い体つきをしており、輝く青い鱗が陽光を受けてきらめいている。端正な顔立ちに、凛々しい黒い瞳が光り、頭頂にはなめらかな角が生えている。",
+        "reason": "アダムは、自然の厳しさと調和し、進化の過程で力強さと威厳を手に入れた結果、青い鱗を身にまとい、凛々しい容姿を持つようになった。",
+        "thought": "『力強い威厳』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1760099566770
   }
 ]
