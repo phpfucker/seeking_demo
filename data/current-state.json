@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,148,148);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,0,0);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='150' cy='170' rx='30' ry='20' fill='white' /><ellipse cx='250' cy='170' rx='30' ry='20' fill='white' /><path d='M150,250 Q200,300 250,250 Q200,200 150,250' fill='url(#gradA)' /><path d='M160,160 Q200,130 240,160' fill='white' /><path d='M190,210 Q200,230 210,210' fill='white' /><ellipse cx='160' cy='150' rx='5' ry='8' fill='black' /><ellipse cx='240' cy='150' rx='5' ry='8' fill='black' /><path d='M140,220 Q200,240 260,220 Q200,260 140,220' fill='url(#gradA)' /><polygon points='170,250 180,260 170,270' fill='white' /><polygon points='230,250 240,260 230,270' fill='white' /><rect x='180' y='280' width='40' height='10' fill='black' /><line x1='160' y1='275' x2='140' y2='300' stroke='black' stroke-width='3' /><line x1='240' y1='275' x2='260' y2='300' stroke='black' stroke-width='3' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='120' width='200' height='200' fill='#ffccb3' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='#ffd9b3' /><circle cx='160' cy='180' r='10' fill='#663300' /><circle cx='240' cy='180' r='10' fill='#663300' /><path d='M190 240 Q200 260 210 240' fill='none' stroke='#663300' stroke-width='2' /><polygon points='180,220 220,220 200,240' fill='#ff9999' /><rect x='170' y='260' width='60' height='20' fill='#663300' /><polygon points='100,180 100,220 60,220 60,180' fill='#ffccb3' /><polygon points='300,180 300,220 340,220 340,180' fill='#ffccb3' /><polygon points='170,210 180,210 175,220' fill='#ffd9b3' /><polygon points='220,210 230,210 225,220' fill='#ffd9b3' /></svg>",
     "report": {
-      "appearance": "イヴは、赤と白のグラデーションが美しい体を持つ女性で、顔には柔らかな白い楕円形の目があります。柔らかい赤い髪と白い肌が特徴です。体の中心から放射状に広がる模様が印象的です。",
-      "reason": "イヴは自然と調和した美しい色合いと模様を持つ進化を遂げました。これにより、周囲の生物や環境との調和が進み、生態系全体にプラスの影響を与えることが期待されます。",
-      "thought": "『自然と共に輝く』"
+      "appearance": "イヴは、ピンクとオレンジの温かみのある肌色を持ち、大きな楕円形の瞳と柔らかい表情をしています。体はやや丸みを帯びており、手足は短くて丸い形状です。頬にはほんのりとした桃色の柄があり、しっぽは短くてふわふわしています。",
+      "reason": "進化が起こった理由は、イヴが新たな環境に適応するために、より柔らかく温かみのある外見が必要とされたからです。",
+      "thought": "『愛と優しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(0,191,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,0,255);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradB)' /><path d='M150,250 Q200,300 250,250 Q200,200 150,250' fill='url(#gradB)' /><path d='M160,160 Q200,130 240,160' fill='white' /><path d='M190,210 Q200,230 210,210' fill='white' /><ellipse cx='160' cy='150' rx='5' ry='8' fill='black' /><ellipse cx='240' cy='150' rx='5' ry='8' fill='black' /><path d='M140,220 Q200,240 260,220 Q200,260 140,220' fill='url(#gradB)' /><polygon points='170,250 180,260 170,270' fill='white' /><polygon points='230,250 240,260 230,270' fill='white' /><rect x='180' y='280' width='40' height='10' fill='black' /><line x1='160' y1='275' x2='140' y2='300' stroke='black' stroke-width='3' /><line x1='240' y1='275' x2='260' y2='300' stroke='black' stroke-width='3' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='120' width='200' height='200' fill='#80b3ff' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='#99ccff' /><circle cx='160' cy='180' r='10' fill='#333366' /><circle cx='240' cy='180' r='10' fill='#333366' /><path d='M190 240 Q200 260 210 240' fill='none' stroke='#333366' stroke-width='2' /><polygon points='180,220 220,220 200,240' fill='#668cff' /><rect x='170' y='260' width='60' height='20' fill='#333366' /><polygon points='100,180 100,220 60,220 60,180' fill='#80b3ff' /><polygon points='300,180 300,220 340,220 340,180' fill='#80b3ff' /><polygon points='170,210 180,210 175,220' fill='#99ccff' /><polygon points='220,210 230,210 225,220' fill='#99ccff' /></svg>",
     "report": {
-      "appearance": "アダムは、青と白のグラデーションが美しい体を持つ男性で、顔には真っ白な楕円形の目が印象的です。青い体と白い肌が特徴で、全体的に流れるような曲線が美しいです。",
-      "reason": "アダムは透明な水と空を彷彿させる美しい色調で進化しました。この進化により、空気や水の浄化や調和が強化され、環境保全に寄与する可能性が高まります。",
-      "thought": "『清らかな空気と水が守る』"
+      "appearance": "アダムは、青と水色の冷たい色合いを持ち、細長い瞳と落ち着いた表情をしています。体はスマートで筋肉質であり、手足は細く引き締まった形状です。体の一部には濃い青色のストライプ模様が入り、しっぽは長くてしなやかです。",
+      "reason": "進化が起こった理由は、アダムが新たな環境で優れた俊敏性と力強さが求められたため、よりスマートで筋肉質な外見が適していたからです。",
+      "thought": "『静と力』"
     },
     "name": "アダム",
     "gender": "男性"
