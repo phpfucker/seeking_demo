@@ -14058,5 +14058,28 @@
       "gender": "男性"
     },
     "timestamp": 1760185691224
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='rgb(255, 148, 184)' /><ellipse cx='200' cy='180' rx='90' ry='120' fill='rgb(255, 213, 221)' /><path d='M160,230 Q200,300 240,230 Q200,260 160,230 Z' fill='rgb(255, 148, 184)' /><circle cx='160' cy='180' r='15' fill='rgb(0, 0, 0)' /><circle cx='240' cy='180' r='15' fill='rgb(0, 0, 0)' /><path d='M170,220 Q200,240 230,220' fill='none' stroke='rgb(0, 0, 0)' stroke-width='2' /><polygon points='185,215 200,180 215,215' fill='rgb(255, 148, 184)' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の皮膚を持ち、卵形の体型で柔らかな雰囲気を漂わせる。透明感のある肌が特徴で、頭部には円形の目と小さな口がある。背中にはふんわりした尾があり、愛らしい印象を与える。",
+        "reason": "種の生存戦略の一環として、イヴは自然界で他の生物との調和を保つために、美しい色合いと優しい特徴を進化させた。",
+        "thought": "『優しさが力になる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='150' fill='rgb(66, 165, 245)' /><path d='M200,150 L150,300 L250,300 Z' fill='rgb(66, 165, 245)' /><circle cx='200' cy='180' r='30' fill='rgb(255, 255, 255)' /><circle cx='185' cy='170' r='5' fill='rgb(0, 0, 0)' /><circle cx='215' cy='170' r='5' fill='rgb(0, 0, 0)' /><line x1='190' y1='200' x2='210' y2='200' stroke='rgb(0, 0, 0)' stroke-width='2' /><line x1='190' y1='220' x2='210' y2='220' stroke='rgb(0, 0, 0)' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い鱗状の外皮を持つ頑丈な体格をしている。四角い頭部に丸い目と口があり、力強さを感じさせる。背中には三角形の鱗が並び、堅牢な印象を与える。",
+        "reason": "アダムは狩猟や生存競争において優位に立つため、頑丈な体と青い鱗状の外見を進化させた。",
+        "thought": "『力強く生き抜く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1760206711830
   }
 ]
