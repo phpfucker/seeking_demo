@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffe0bd' /><ellipse cx='200' cy='200' rx='130' ry='170' fill='#ffd1a9' /><path d='M180,200 Q200,280 220,200' fill='none' stroke='#ff8c66' stroke-width='5' /><path d='M190,190 Q200,240 210,190' fill='none' stroke='#ff8c66' stroke-width='4' /><circle cx='170' cy='180' r='10' fill='#ff8c66' /><circle cx='230' cy='180' r='10' fill='#ff8c66' /><path d='M150,220 Q200,300 250,220' fill='none' stroke='#ff8c66' stroke-width='5' /><path d='M140,230 Q200,280 260,230' fill='none' stroke='#ff8c66' stroke-width='4' /><rect x='180' y='260' width='40' height='20' fill='#ff8c66' /><rect x='180' y='300' width='40' height='50' fill='#ffd1a9' /><rect x='160' y='330' width='80' height='20' fill='#ffd1a9' /><polygon points='195,290 205,290 200,310' fill='#ff8c66' /><polygon points='180,260 220,260 200,280' fill='#ff8c66' /><circle cx='185' cy='195' r='5' fill='#000' /><circle cx='215' cy='195' r='5' fill='#000' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#ffbbcc' /><circle cx='140' cy='200' r='40' fill='#ffd6e3' /><circle cx='260' cy='200' r='40' fill='#ffd6e3' /><ellipse cx='200' cy='240' rx='60' ry='20' fill='#ff99b9' /><ellipse cx='165' cy='180' rx='15' ry='30' fill='#ffffff' /><ellipse cx='235' cy='180' rx='15' ry='30' fill='#ffffff' /><path d='M200,240 Q190,250 180,270' stroke='#ff99b9' fill='none' /><path d='M200,240 Q210,250 220,270' stroke='#ff99b9' fill='none' /><polygon points='190,250 210,250 200,270' fill='#ff99b9' /><line x1='180' y1='165' x2='160' y2='145' stroke='#333' stroke-width='3' /><line x1='220' y1='165' x2='240' y2='145' stroke='#333' stroke-width='3' /><text x='200' y='320' font-family='Arial' font-size='20' fill='#333' text-anchor='middle'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴは、ピンクとオレンジのグラデーションが美しい女性。体は楕円形で、ピンクが優勢。優雅な角を持ち、尾と手足はオレンジ色。手には指があり、ピンクとオレンジの衣装を身にまとっている。",
-      "reason": "イヴは進化の過程で、美しさと優雅さが新たに加わり、色彩的な魅力が増した。",
-      "thought": "『愛と知恵』"
+      "appearance": "イヴはピンク色の大きな胴体を持ち、白い目と角を持つ女性の姿をしています。胴体の下部にはピンク色の短い脚があり、優雅な雰囲気を漂わせています。",
+      "reason": "イヴは新たな力を得るため、美しさと優雅さを融合させた姿に進化しました。",
+      "thought": "『愛と美しさが宇宙を満たす』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='100' fill='#9dc1ff' /><rect x='140' y='250' width='120' height='50' fill='#77a7ef' /><circle cx='160' cy='160' r='10' fill='#77a7ef' /><circle cx='240' cy='160' r='10' fill='#77a7ef' /><polygon points='155,240 245,240 200,260' fill='#77a7ef' /><polygon points='150,250 250,250 200,280' fill='#77a7ef' /><path d='M170,250 Q200,280 230,250' fill='none' stroke='#3399ff' stroke-width='5' /><path d='M180,240 Q200,260 220,240' fill='none' stroke='#3399ff' stroke-width='4' /><path d='M180,150 Q200,100 220,150' fill='none' stroke='#3399ff' stroke-width='5' /><path d='M170,160 Q200,110 230,160' fill='none' stroke='#3399ff' stroke-width='4' /><rect x='180' y='200' width='40' height='20' fill='#3399ff' /><ellipse cx='200' cy='135' rx='20' ry='10' fill='#9dc1ff' /><ellipse cx='200' cy='155' rx='5' ry='10' fill='#000' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='180' fill='#a8d8ea' /><polygon points='200,280 140,320 260,320' fill='#a8d8ea' /><circle cx='180' cy='120' r='20' fill='#a8d8ea' /><circle cx='220' cy='120' r='20' fill='#a8d8ea' /><circle cx='180' cy='130' r='8' fill='#ffffff' /><circle cx='220' cy='130' r='8' fill='#ffffff' /><line x1='150' y1='100' x2='150' y2='80' stroke='#333' stroke-width='3' /><line x1='250' y1='100' x2='250' y2='80' stroke='#333' stroke-width='3' /><text x='200' y='320' font-family='Arial' font-size='20' fill='#333' text-anchor='middle'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは、青と薄青のグラデーションが美しい男性。体は四角形で、青が強調されている。頭部には青い角があり、手足と尾は薄青。手には指があり、青のスーツを身にまとっている。",
-      "reason": "アダムは進化の過程で、知性と力強さが増し、色彩的な魅力が向上した。",
-      "thought": "『創造と勇気』"
+      "appearance": "アダムは青い短い四角い体と青い目を持ち、背中には大きな羽が生えています。軽やかな姿勢で立ち、頭部には小さな白い模様があります。",
+      "reason": "アダムは進化の過程で空を自在に舞う能力を得るため、空に舞う鳥のような姿に進化しました。",
+      "thought": "『自由と青空の向こうへ』"
     },
     "name": "アダム",
     "gender": "男性"
