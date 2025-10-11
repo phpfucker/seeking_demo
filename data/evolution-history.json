@@ -13989,5 +13989,28 @@
       "gender": "男性"
     },
     "timestamp": 1760120551800
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='120' width='200' height='200' fill='#ffccb3' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='#ffd9b3' /><circle cx='160' cy='180' r='10' fill='#663300' /><circle cx='240' cy='180' r='10' fill='#663300' /><path d='M190 240 Q200 260 210 240' fill='none' stroke='#663300' stroke-width='2' /><polygon points='180,220 220,220 200,240' fill='#ff9999' /><rect x='170' y='260' width='60' height='20' fill='#663300' /><polygon points='100,180 100,220 60,220 60,180' fill='#ffccb3' /><polygon points='300,180 300,220 340,220 340,180' fill='#ffccb3' /><polygon points='170,210 180,210 175,220' fill='#ffd9b3' /><polygon points='220,210 230,210 225,220' fill='#ffd9b3' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとオレンジの温かみのある肌色を持ち、大きな楕円形の瞳と柔らかい表情をしています。体はやや丸みを帯びており、手足は短くて丸い形状です。頬にはほんのりとした桃色の柄があり、しっぽは短くてふわふわしています。",
+        "reason": "進化が起こった理由は、イヴが新たな環境に適応するために、より柔らかく温かみのある外見が必要とされたからです。",
+        "thought": "『愛と優しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='120' width='200' height='200' fill='#80b3ff' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='#99ccff' /><circle cx='160' cy='180' r='10' fill='#333366' /><circle cx='240' cy='180' r='10' fill='#333366' /><path d='M190 240 Q200 260 210 240' fill='none' stroke='#333366' stroke-width='2' /><polygon points='180,220 220,220 200,240' fill='#668cff' /><rect x='170' y='260' width='60' height='20' fill='#333366' /><polygon points='100,180 100,220 60,220 60,180' fill='#80b3ff' /><polygon points='300,180 300,220 340,220 340,180' fill='#80b3ff' /><polygon points='170,210 180,210 175,220' fill='#99ccff' /><polygon points='220,210 230,210 225,220' fill='#99ccff' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色の冷たい色合いを持ち、細長い瞳と落ち着いた表情をしています。体はスマートで筋肉質であり、手足は細く引き締まった形状です。体の一部には濃い青色のストライプ模様が入り、しっぽは長くてしなやかです。",
+        "reason": "進化が起こった理由は、アダムが新たな環境で優れた俊敏性と力強さが求められたため、よりスマートで筋肉質な外見が適していたからです。",
+        "thought": "『静と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1760144923839
   }
 ]
