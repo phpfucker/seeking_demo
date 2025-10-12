@@ -14081,5 +14081,28 @@
       "gender": "男性"
     },
     "timestamp": 1760206711830
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255, 0, 0);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255, 255, 0);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradA)' /><ellipse cx='200' cy='100' rx='100' ry='70' fill='rgb(255, 200, 200)' /><ellipse cx='150' cy='90' rx='20' ry='30' fill='rgb(255, 255, 255)' /><ellipse cx='250' cy='90' rx='20' ry='30' fill='rgb(255, 255, 255)' /><path d='M180 150 Q200 180 220 150' stroke='black' stroke-width='2' fill='none' /><path d='M170 300 Q200 320 230 300' stroke='black' stroke-width='2' fill='none' /><polygon points='190,150 210,150 200,160' fill='rgb(255, 200, 200)' /><circle cx='170' cy='120' r='5' fill='black' /><circle cx='230' cy='120' r='5' fill='black' /></svg>",
+      "report": {
+        "appearance": "イヴは、赤と黄色のグラデーションを持つ美しい女性生命体です。全身に柔らかなピンクの皮膚を持ち、顔には丸い目と柔らかい笑みが特徴です。髪の毛は金色で、優雅なしっぽと細い手足を持っています。",
+        "reason": "イヴは新たな進化を遂げ、美しい色彩と優美な特徴を持つようになりました。環境への順応と種の発展の一環として、より魅力的な姿を獲得しました。",
+        "thought": "『愛と美の力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(0, 0, 255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0, 255, 255);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradB)' /><ellipse cx='200' cy='100' rx='100' ry='70' fill='rgb(200, 200, 255)' /><ellipse cx='150' cy='90' rx='20' ry='30' fill='rgb(255, 255, 255)' /><ellipse cx='250' cy='90' rx='20' ry='30' fill='rgb(255, 255, 255)' /><path d='M180 150 Q200 180 220 150' stroke='black' stroke-width='2' fill='none' /><path d='M170 300 Q200 320 230 300' stroke='black' stroke-width='2' fill='none' /><polygon points='190,150 210,150 200,160' fill='rgb(200, 200, 255)' /><circle cx='170' cy='120' r='5' fill='black' /><circle cx='230' cy='120' r='5' fill='black' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色のグラデーションを持つ美しい男性生命体です。全身にやわらかな青い皮膚を持ち、顔には大きな目と優しい表情が特徴です。髪の毛は青紫色で、力強い角やしっかりした手足を持っています。",
+        "reason": "アダムは新しい進化を遂げ、美しい色調と力強い特徴を身にまといました。環境への順応と種の繁栄のため、より引き締まった姿を手に入れました。",
+        "thought": "『知識と力の融合』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1760231676415
   }
 ]
