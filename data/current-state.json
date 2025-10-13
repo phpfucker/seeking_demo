@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='130' y='120' width='140' height='200' fill='#ff85a2' /><circle cx='200' cy='100' r='80' fill='#ffbfd3' /><ellipse cx='200' cy='220' rx='60' ry='100' fill='#ffbfd3' /><circle cx='170' cy='100' r='15' fill='#ffffff' /><circle cx='230' cy='100' r='15' fill='#ffffff' /><path d='M170 240 Q200 280 230 240' fill='none' stroke='#ffffff' stroke-width='5' /><polygon points='190,150 200,130 210,150' fill='#ffffff' /><line x1='170' y1='260' x2='230' y2='260' stroke='#ffffff' stroke-width='5' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#ffffff' text-anchor='middle'>イヴ</text></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"50\" width=\"200\" height=\"300\" fill=\"#ffcccb\"/><ellipse cx=\"200\" cy=\"100\" rx=\"80\" ry=\"60\" fill=\"#ffadaf\"/><path d=\"M150 200 Q200 100 250 200 Q200 250 150 200 Z\" fill=\"#ffadaf\"/><circle cx=\"175\" cy=\"120\" r=\"10\" fill=\"#000\"/><circle cx=\"225\" cy=\"120\" r=\"10\" fill=\"#000\"/><polygon points=\"180,280 190,260 210,260 220,280\" fill=\"#ffe4e1\"/><polygon points=\"190,320 200,300 210,320\" fill=\"#ffe4e1\"/><polygon points=\"180,350 190,330 210,330 220,350\" fill=\"#ffe4e1\"/><line x1=\"160\" y1=\"250\" x2=\"240\" y2=\"250\" stroke=\"#000\" stroke-width=\"4\"/><line x1=\"160\" y1=\"270\" x2=\"240\" y2=\"270\" stroke=\"#000\" stroke-width=\"4\"/><line x1=\"160\" y1=\"290\" x2=\"240\" y2=\"290\" stroke=\"#000\" stroke-width=\"4\"/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の体に大きな白い目と優しい表情を持つ女性の姿をしています。体は丸みを帯びた形状で、手足はしなやかな曲線を描いています。白い模様が体に美しく施されています。",
-      "reason": "イヴは自然界の美しさと優しさを象徴する進化を遂げました。その優れた美しい特性と穏やかな性格が進化の理由となりました。",
-      "thought": "『調和と愛を育む』"
+      "appearance": "イヴは、淡いピンク色の肌を持ち、大きな赤い目と柔らかな顔立ちが特徴の女性型生命体です。体は細身で、身体の中央には大きな卵形の突起物があります。手足は比較的細長く、尾のような細い部分が後ろに伸びています。",
+      "reason": "環境の変化により、イヴはより優雅かつ繊細に進化しました。大きな目は視覚を重視し、柔らかな表情はコミュニケーション能力を高めるためです。",
+      "thought": "『優しさと知性を持つ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='130' y='120' width='140' height='200' fill='#85b8ff' /><circle cx='200' cy='100' r='80' fill='#aed6ff' /><ellipse cx='200' cy='220' rx='60' ry='100' fill='#aed6ff' /><circle cx='170' cy='100' r='15' fill='#ffffff' /><circle cx='230' cy='100' r='15' fill='#ffffff' /><polygon points='190,150 200,130 210,150' fill='#ffffff' /><line x1='170' y1='260' x2='230' y2='260' stroke='#ffffff' stroke-width='5' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#ffffff' text-anchor='middle'>アダム</text></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"50\" width=\"200\" height=\"300\" fill=\"#add8e6\"/><ellipse cx=\"200\" cy=\"100\" rx=\"80\" ry=\"60\" fill=\"#87ceeb\"/><path d=\"M150 200 Q200 100 250 200 Q200 250 150 200 Z\" fill=\"#87ceeb\"/><circle cx=\"175\" cy=\"120\" r=\"10\" fill=\"#000\"/><circle cx=\"225\" cy=\"120\" r=\"10\" fill=\"#000\"/><polygon points=\"180,280 190,260 210,260 220,280\" fill=\"#b0e0e6\"/><polygon points=\"190,320 200,300 210,320\" fill=\"#b0e0e6\"/><polygon points=\"180,350 190,330 210,330 220,350\" fill=\"#b0e0e6\"/><line x1=\"160\" y1=\"250\" x2=\"240\" y2=\"250\" stroke=\"#000\" stroke-width=\"4\"/><line x1=\"160\" y1=\"270\" x2=\"240\" y2=\"270\" stroke=\"#000\" stroke-width=\"4\"/><line x1=\"160\" y1=\"290\" x2=\"240\" y2=\"290\" stroke=\"#000\" stroke-width=\"4\"/></svg>",
     "report": {
-      "appearance": "アダムは、青色の体に大きな白い目と力強い表情を持つ男性の姿をしています。体は頑丈で筋肉質な形状で、手足はしっかりとしたラインを描いています。白い模様が体にクールに施されています。",
-      "reason": "アダムは自然界の力強さと知性を象徴する進化を遂げました。その強靭な体力と知的な特性が進化の理由となりました。",
-      "thought": "『勇敢さと知恵を宿す』"
+      "appearance": "アダムは、淡い水色の肌を持ち、大きな青い目と整った顔立ちが特徴の男性型生命体です。体つきはややがっしりとしており、背中には角状の突起物があります。手足は頑丈で、尾のような部分が後ろに伸びています。",
+      "reason": "環境の要求により、アダムはより力強さと耐久力を持つよう進化しました。大きな目は遠くまで見渡し、整った顔は他者とのコミュニケーションを円滑にするためです。",
+      "thought": "『力強さと誠実さを持つ』"
     },
     "name": "アダム",
     "gender": "男性"
