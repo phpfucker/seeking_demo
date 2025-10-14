@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='130' y='80' width='140' height='220' fill='#f7b3da' /><ellipse cx='200' cy='80' rx='100' ry='80' fill='#ffd8e6' /><path d='M200,160 L180,200 L220,200 Z' fill='#ffd8e6' /><path d='M170,200 Q200,240 230,200 Z' fill='#ffd8e6' /><path d='M180,180 Q200,220 220,180 Z' fill='#ffd8e6' /><polygon points='190,220 210,220 200,240' fill='#ffd8e6' /><ellipse cx='160' cy='260' rx='30' ry='20' fill='#ffd8e6' /><ellipse cx='240' cy='260' rx='30' ry='20' fill='#ffd8e6' /><path d='M150,260 Q200,300 250,260 Z' fill='#ffd8e6' /><rect x='160' y='300' width='80' height='20' fill='#ffd8e6' /><circle cx='170' cy='90' r='10' fill='#000' /><circle cx='230' cy='90' r='10' fill='#000' /><circle cx='195' cy='140' r='2' fill='#fff' /><circle cx='205' cy='140' r='2' fill='#fff' /><polygon points='180,80 200,60 220,80' fill='#000' /><line x1='180' y1='80' x2='220' y2='80' stroke='#000' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='230' width='300' height='150' fill='#FFD700' /><circle cx='200' cy='150' r='100' fill='#FFD700' /><polygon points='150,250 200,300 250,250' fill='#FFD700' /><ellipse cx='140' cy='150' rx='25' ry='40' fill='#FFD700' /><ellipse cx='260' cy='150' rx='25' ry='40' fill='#FFD700' /><path d='M200 200 Q150 250 200 300 Q250 250 200 200 Z' fill='#FFD700' /><rect x='170' y='220' width='60' height='20' fill='#FFD700' /><rect x='160' y='220' width='20' height='60' fill='#FFD700' /><rect x='220' y='220' width='20' height='60' fill='#FFD700' /><polygon points='180,220 200,190 220,220' fill='#FFD700' /><polygon points='180,280 200,310 220,280' fill='#FFD700' /><ellipse cx='200' cy='330' rx='30' ry='15' fill='#FFD700' /><polygon points='210,330 220,360 200,345 180,360 190,330' fill='#FFD700' /><polygon points='190,330 180,360 200,345 220,360 210,330' fill='#FFD700' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな皮膚を持つ女性型生命体です。体は丸みを帯びた形状で、顔には大きな目と小さな口があります。4本の手足があり、しっぽが尾部に伸びています。",
-      "reason": "イヴは新たな進化を遂げ、より優美で柔らかな特徴を身にまとって生まれ変わりました。",
-      "thought": "『優しさの中に強さが宿る』"
+      "appearance": "イヴは金色に輝く女性の姿で、円形の目と複数の角を持ち、全身に光沢のある肌を持つ。体の中央に大きな円形の模様があり、華やかな雰囲気を放つ。",
+      "reason": "イヴは進化の過程で新たな光沢のある肌や角を身に纏い、より美しく輝くように進化した。",
+      "thought": "『輝きを持つ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='130' y='80' width='140' height='220' fill='#9b9bff' /><ellipse cx='200' cy='80' rx='100' ry='80' fill='#b3b3ff' /><circle cx='180' cy='140' r='10' fill='#000' /><circle cx='220' cy='140' r='10' fill='#000' /><path d='M180,200 Q200,230 220,200 Z' fill='#b3b3ff' /><polygon points='190,220 210,220 200,240' fill='#b3b3ff' /><ellipse cx='160' cy='260' rx='30' ry='20' fill='#b3b3ff' /><ellipse cx='240' cy='260' rx='30' ry='20' fill='#b3b3ff' /><path d='M160,260 Q200,290 240,260 Z' fill='#b3b3ff' /><rect x='160' y='300' width='80' height='20' fill='#b3b3ff' /><circle cx='170' cy='90' r='2' fill='#fff' /><circle cx='230' cy='90' r='2' fill='#fff' /><polygon points='180,80 200,60 220,80' fill='#000' /><line x1='180' y1='80' x2='220' y2='80' stroke='#000' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='230' width='300' height='150' fill='#6495ED' /><circle cx='200' cy='150' r='100' fill='#6495ED' /><polygon points='150,250 200,300 250,250' fill='#6495ED' /><ellipse cx='140' cy='150' rx='25' ry='40' fill='#6495ED' /><ellipse cx='260' cy='150' rx='25' ry='40' fill='#6495ED' /><path d='M200 200 Q150 250 200 300 Q250 250 200 200 Z' fill='#6495ED' /><rect x='170' y='220' width='60' height='20' fill='#6495ED' /><rect x='160' y='220' width='20' height='60' fill='#6495ED' /><rect x='220' y='220' width='20' height='60' fill='#6495ED' /><polygon points='180,220 200,190 220,220' fill='#6495ED' /><polygon points='180,280 200,310 220,280' fill='#6495ED' /><ellipse cx='200' cy='330' rx='30' ry='15' fill='#6495ED' /><polygon points='210,330 220,360 200,345 180,360 190,330' fill='#6495ED' /><polygon points='190,330 180,360 200,345 220,360 210,330' fill='#6495ED' /></svg>",
     "report": {
-      "appearance": "アダムは、青紫色の肌を持つ男性型生命体です。体の形状はイヴに似ており、大きな目と小さな口が特徴です。4本の手足としっぽを持ち、優美な雰囲気を漂わせています。",
-      "reason": "アダムはイヴと共に進化し、より洗練された外見と内面を備えた新たな姿に変貌しました。",
-      "thought": "『力強さの中に優しさを宿す』"
+      "appearance": "アダムは青色に輝く男性の姿で、円形の目と複数の角を持ち、全身に光沢のある肌を持つ。体の中央に大きな円形の模様があり、威厳ある雰囲気を放つ。",
+      "reason": "アダムは進化の過程で新たな光沢のある肌や角を身に纏い、より優れた力強い姿に進化した。",
+      "thought": "『力強さを持つ』"
     },
     "name": "アダム",
     "gender": "男性"
