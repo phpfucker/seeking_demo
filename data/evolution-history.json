@@ -14311,5 +14311,28 @@
       "gender": "男性"
     },
     "timestamp": 1760423040022
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ffcccb'/><circle cx='200' cy='120' r='70' fill='#ffdddd'/><path d='M200 120 L160 160 L240 160 Z' fill='#ffaaaa'/><ellipse cx='175' cy='210' rx='20' ry='30' fill='#ffaaaa'/><ellipse cx='225' cy='210' rx='20' ry='30' fill='#ffaaaa'/><circle cx='175' cy='210' r='10' fill='#663333'/><circle cx='225' cy='210' r='10' fill='#663333'/><ellipse cx='200' cy='260' rx='50' ry='20' fill='#ffaaaa'/><line x1='160' y1='280' x2='180' y2='280' stroke='#663333' stroke-width='4'/><line x1='220' y1='280' x2='240' y2='280' stroke='#663333' stroke-width='4'/><rect x='180' y='350' width='40' height='10' fill='#663333'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持つ女性型生命体です。頭部に大きな赤い円形の目と、角のような耳を持ちます。体は丸みを帯びたピンク色の長方形で、足元には黒い靴を履いています。背中に丸い尻尾が生えています。",
+        "reason": "環境の変化により、イヴは自然界において自己表現と個体識別のために、目や色彩の多様性を発達させた。",
+        "thought": "『変化は美しさを生む』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#aec6cf'/><circle cx='200' cy='120' r='70' fill='#bdd3e6'/><path d='M200 120 L160 160 L240 160 Z' fill='#97abc9'/><ellipse cx='175' cy='210' rx='20' ry='30' fill='#97abc9'/><ellipse cx='225' cy='210' rx='20' ry='30' fill='#97abc9'/><circle cx='175' cy='210' r='10' fill='#333366'/><circle cx='225' cy='210' r='10' fill='#333366'/><ellipse cx='200' cy='260' rx='50' ry='20' fill='#97abc9'/><line x1='160' y1='280' x2='180' y2='280' stroke='#333366' stroke-width='4'/><line x1='220' y1='280' x2='240' y2='280' stroke='#333366' stroke-width='4'/><rect x='180' y='350' width='40' height='10' fill='#333366'/></svg>",
+      "report": {
+        "appearance": "アダムは、灰色の肌を持つ男性型生命体です。円形の青い目と、角状の耳が特徴的です。体は灰色の長方形で、青い靴を履いています。背中には尻尾が生えています。",
+        "reason": "繁殖競争の中で、アダムは他者との適応差を示すために、目や色調の変化を進化させた。",
+        "thought": "『個性は強さへの鍵』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1760445309014
   }
 ]

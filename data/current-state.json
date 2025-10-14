@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ffcccb'/><circle cx='200' cy='120' r='70' fill='#ffdddd'/><path d='M200 120 L160 160 L240 160 Z' fill='#ffaaaa'/><ellipse cx='175' cy='210' rx='20' ry='30' fill='#ffaaaa'/><ellipse cx='225' cy='210' rx='20' ry='30' fill='#ffaaaa'/><circle cx='175' cy='210' r='10' fill='#663333'/><circle cx='225' cy='210' r='10' fill='#663333'/><ellipse cx='200' cy='260' rx='50' ry='20' fill='#ffaaaa'/><line x1='160' y1='280' x2='180' y2='280' stroke='#663333' stroke-width='4'/><line x1='220' y1='280' x2='240' y2='280' stroke='#663333' stroke-width='4'/><rect x='180' y='350' width='40' height='10' fill='#663333'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='130' y='80' width='140' height='220' fill='#f7b3da' /><ellipse cx='200' cy='80' rx='100' ry='80' fill='#ffd8e6' /><path d='M200,160 L180,200 L220,200 Z' fill='#ffd8e6' /><path d='M170,200 Q200,240 230,200 Z' fill='#ffd8e6' /><path d='M180,180 Q200,220 220,180 Z' fill='#ffd8e6' /><polygon points='190,220 210,220 200,240' fill='#ffd8e6' /><ellipse cx='160' cy='260' rx='30' ry='20' fill='#ffd8e6' /><ellipse cx='240' cy='260' rx='30' ry='20' fill='#ffd8e6' /><path d='M150,260 Q200,300 250,260 Z' fill='#ffd8e6' /><rect x='160' y='300' width='80' height='20' fill='#ffd8e6' /><circle cx='170' cy='90' r='10' fill='#000' /><circle cx='230' cy='90' r='10' fill='#000' /><circle cx='195' cy='140' r='2' fill='#fff' /><circle cx='205' cy='140' r='2' fill='#fff' /><polygon points='180,80 200,60 220,80' fill='#000' /><line x1='180' y1='80' x2='220' y2='80' stroke='#000' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな肌を持つ女性型生命体です。頭部に大きな赤い円形の目と、角のような耳を持ちます。体は丸みを帯びたピンク色の長方形で、足元には黒い靴を履いています。背中に丸い尻尾が生えています。",
-      "reason": "環境の変化により、イヴは自然界において自己表現と個体識別のために、目や色彩の多様性を発達させた。",
-      "thought": "『変化は美しさを生む』"
+      "appearance": "イヴは、ピンク色の柔らかな皮膚を持つ女性型生命体です。体は丸みを帯びた形状で、顔には大きな目と小さな口があります。4本の手足があり、しっぽが尾部に伸びています。",
+      "reason": "イヴは新たな進化を遂げ、より優美で柔らかな特徴を身にまとって生まれ変わりました。",
+      "thought": "『優しさの中に強さが宿る』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#aec6cf'/><circle cx='200' cy='120' r='70' fill='#bdd3e6'/><path d='M200 120 L160 160 L240 160 Z' fill='#97abc9'/><ellipse cx='175' cy='210' rx='20' ry='30' fill='#97abc9'/><ellipse cx='225' cy='210' rx='20' ry='30' fill='#97abc9'/><circle cx='175' cy='210' r='10' fill='#333366'/><circle cx='225' cy='210' r='10' fill='#333366'/><ellipse cx='200' cy='260' rx='50' ry='20' fill='#97abc9'/><line x1='160' y1='280' x2='180' y2='280' stroke='#333366' stroke-width='4'/><line x1='220' y1='280' x2='240' y2='280' stroke='#333366' stroke-width='4'/><rect x='180' y='350' width='40' height='10' fill='#333366'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='130' y='80' width='140' height='220' fill='#9b9bff' /><ellipse cx='200' cy='80' rx='100' ry='80' fill='#b3b3ff' /><circle cx='180' cy='140' r='10' fill='#000' /><circle cx='220' cy='140' r='10' fill='#000' /><path d='M180,200 Q200,230 220,200 Z' fill='#b3b3ff' /><polygon points='190,220 210,220 200,240' fill='#b3b3ff' /><ellipse cx='160' cy='260' rx='30' ry='20' fill='#b3b3ff' /><ellipse cx='240' cy='260' rx='30' ry='20' fill='#b3b3ff' /><path d='M160,260 Q200,290 240,260 Z' fill='#b3b3ff' /><rect x='160' y='300' width='80' height='20' fill='#b3b3ff' /><circle cx='170' cy='90' r='2' fill='#fff' /><circle cx='230' cy='90' r='2' fill='#fff' /><polygon points='180,80 200,60 220,80' fill='#000' /><line x1='180' y1='80' x2='220' y2='80' stroke='#000' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "アダムは、灰色の肌を持つ男性型生命体です。円形の青い目と、角状の耳が特徴的です。体は灰色の長方形で、青い靴を履いています。背中には尻尾が生えています。",
-      "reason": "繁殖競争の中で、アダムは他者との適応差を示すために、目や色調の変化を進化させた。",
-      "thought": "『個性は強さへの鍵』"
+      "appearance": "アダムは、青紫色の肌を持つ男性型生命体です。体の形状はイヴに似ており、大きな目と小さな口が特徴です。4本の手足としっぽを持ち、優美な雰囲気を漂わせています。",
+      "reason": "アダムはイヴと共に進化し、より洗練された外見と内面を備えた新たな姿に変貌しました。",
+      "thought": "『力強さの中に優しさを宿す』"
     },
     "name": "アダム",
     "gender": "男性"
