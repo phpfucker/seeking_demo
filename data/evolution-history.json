@@ -14403,5 +14403,28 @@
       "gender": "男性"
     },
     "timestamp": 1760509460492
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccd5' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='#ffb3c2' /><rect x='160' y='220' width='80' height='120' fill='#ff99b9' /><path d='M170 340 L200 400 L230 340 Z' fill='#ff85ac' /><polygon points='180,190 220,190 200,230' fill='#ff668c' /><line x1='180' y1='150' x2='220' y2='150' stroke='#ff4d7b' stroke-width='5' /><line x1='180' y1='150' x2='200' y2='130' stroke='#ff4d7b' stroke-width='5' /><line x1='220' y1='150' x2='200' y2='130' stroke='#ff4d7b' stroke-width='5' /><line x1='160' y1='220' x2='240' y2='220' stroke='#ff4d7b' stroke-width='10' /><line x1='160' y1='250' x2='240' y2='250' stroke='#ff4d7b' stroke-width='10' /><line x1='160' y1='280' x2='240' y2='280' stroke='#ff4d7b' stroke-width='10' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に大きな赤い目と白い角を持つ女性の姿をしています。体の下部には薄いピンク色の脚があり、しっぽは三角形の形状をしています。お腹の白い部分が特徴的です。",
+        "reason": "イヴは新たな進化の過程で、優れた生存能力を持つため、姿や特徴が変化しました。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#b3e5fc' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='#81d4fa' /><rect x='160' y='220' width='80' height='120' fill='#4fc3f7' /><path d='M170 340 L200 400 L230 340 Z' fill='#29b6f6' /><polygon points='180,190 220,190 200,230' fill='#03a9f4' /><line x1='180' y1='150' x2='220' y2='150' stroke='#039be5' stroke-width='5' /><line x1='180' y1='150' x2='200' y2='130' stroke='#039be5' stroke-width='5' /><line x1='220' y1='150' x2='200' y2='130' stroke='#039be5' stroke-width='5' /><line x1='160' y1='220' x2='240' y2='220' stroke='#039be5' stroke-width='10' /><line x1='160' y1='250' x2='240' y2='250' stroke='#039be5' stroke-width='10' /><line x1='160' y1='280' x2='240' y2='280' stroke='#039be5' stroke-width='10' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い体に大きな青い目と白い角を持つ男性の姿をしています。体の下部には薄い青色の脚があり、しっぽは三角形の形状をしています。お腹の白い部分が特徴的です。",
+        "reason": "アダムは新たな進化の過程で、強い生存本能を持つため、外見に変化が生じました。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1760531681910
   }
 ]
