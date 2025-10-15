@@ -14426,5 +14426,28 @@
       "gender": "男性"
     },
     "timestamp": 1760531681910
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,255,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(221,149,192);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradA)' /><ellipse cx='200' cy='200' rx='50' ry='70' fill='rgb(255,214,237)' /><circle cx='160' cy='180' r='8' fill='rgb(0,0,0)' /><circle cx='240' cy='180' r='8' fill='rgb(0,0,0)' /><path d='M190,240 Q200,280 210,240' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M180,260 Q200,280 220,260' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M190,240 Q200,260 210,240' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M160,290 Q200,340 240,290' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M170,310 Q200,340 230,310' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M180,330 Q200,340 220,330' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><polygon points='190,200 200,180 210,200' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><text x='200' y='320' font-family='Arial' font-size='18' fill='rgb(0,0,0)' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクの肌にオレンジ色の髪を持つ女性。大きな赤い目と小さな口元が特徴で、優雅な雰囲気を醸し出しています。体は細身で背中にはピンクの小さな羽があります。",
+        "reason": "イヴは自然と調和した進化を遂げ、新たな色彩と柔らかな特徴を獲得しました。",
+        "thought": "『自然の美しさを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,255,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(138,189,255);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradB)' /><ellipse cx='200' cy='200' rx='50' ry='70' fill='rgb(174,206,255)' /><circle cx='160' cy='180' r='8' fill='rgb(0,0,0)' /><circle cx='240' cy='180' r='8' fill='rgb(0,0,0)' /><path d='M190,240 Q200,280 210,240' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M180,260 Q200,280 220,260' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M190,240 Q200,260 210,240' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M160,290 Q200,340 240,290' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M170,310 Q200,340 230,310' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M180,330 Q200,340 220,330' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><polygon points='190,200 200,180 210,200' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><text x='200' y='320' font-family='Arial' font-size='18' fill='rgb(0,0,0)' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青い肌と銀色の髪を持つ男性。大きな青い目と幅広の口元が特徴で、力強い雰囲気を漂わせています。体格はがっしりとしており、背中には青い光る鱗がある。",
+        "reason": "アダムは強靭な姿と知性を兼ね備えた進化を果たし、新たな力強さと輝きを身にまといました。",
+        "thought": "『未来への闘志を燃やす』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1760552614925
   }
 ]
