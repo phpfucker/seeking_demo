@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"50\" width=\"300\" height=\"300\" fill=\"#ffe0bd\"/><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"#ffcc9d\"/><circle cx=\"130\" cy=\"150\" r=\"20\" fill=\"#ff9999\"/><circle cx=\"270\" cy=\"150\" r=\"20\" fill=\"#ff9999\"/><path d=\"M200 240 Q180 260 200 280 Q220 260 200 240 Z\" fill=\"#ffcc9d\"/><circle cx=\"180\" cy=\"220\" r=\"5\" fill=\"#ff9999\"/><circle cx=\"220\" cy=\"220\" r=\"5\" fill=\"#ff9999\"/><circle cx=\"150\" cy=\"180\" r=\"20\" fill=\"#ffd699\"/><circle cx=\"250\" cy=\"180\" r=\"20\" fill=\"#ffd699\"/><polygon points=\"180,240 220,240 200,260\" fill=\"#ffcc9d\"/><ellipse cx=\"200\" cy=\"100\" rx=\"80\" ry=\"30\" fill=\"#ffd699\"/><polygon points=\"180,60 220,60 200,90\" fill=\"#ffcc9d\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccd5' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='#ffb3c2' /><rect x='160' y='220' width='80' height='120' fill='#ff99b9' /><path d='M170 340 L200 400 L230 340 Z' fill='#ff85ac' /><polygon points='180,190 220,190 200,230' fill='#ff668c' /><line x1='180' y1='150' x2='220' y2='150' stroke='#ff4d7b' stroke-width='5' /><line x1='180' y1='150' x2='200' y2='130' stroke='#ff4d7b' stroke-width='5' /><line x1='220' y1='150' x2='200' y2='130' stroke='#ff4d7b' stroke-width='5' /><line x1='160' y1='220' x2='240' y2='220' stroke='#ff4d7b' stroke-width='10' /><line x1='160' y1='250' x2='240' y2='250' stroke='#ff4d7b' stroke-width='10' /><line x1='160' y1='280' x2='240' y2='280' stroke='#ff4d7b' stroke-width='10' /></svg>",
     "report": {
-      "appearance": "イヴは、円っぽい体に橙色とピンクの模様が施され、頭部には小さな赤い角が生え、大きなオレンジ色の目を持つ女性型生命体です。手と足は細長く、ふんわりとしたしっぽがあります。",
-      "reason": "進化の過程で、イヴの体には可愛らしさと独自性をより強調するために模様や色彩が増加し、角や目の特徴が現れました。",
-      "thought": "『奇跡』"
+      "appearance": "イヴは、ピンク色の体に大きな赤い目と白い角を持つ女性の姿をしています。体の下部には薄いピンク色の脚があり、しっぽは三角形の形状をしています。お腹の白い部分が特徴的です。",
+      "reason": "イヴは新たな進化の過程で、優れた生存能力を持つため、姿や特徴が変化しました。",
+      "thought": "『愛と平和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"50\" width=\"300\" height=\"300\" fill=\"#b3e0ff\"/><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"#99ccff\"/><circle cx=\"130\" cy=\"150\" r=\"20\" fill=\"#66b3ff\"/><circle cx=\"270\" cy=\"150\" r=\"20\" fill=\"#66b3ff\"/><path d=\"M200 240 Q180 260 200 280 Q220 260 200 240 Z\" fill=\"#99ccff\"/><circle cx=\"180\" cy=\"220\" r=\"5\" fill=\"#66b3ff\"/><circle cx=\"220\" cy=\"220\" r=\"5\" fill=\"#66b3ff\"/><circle cx=\"150\" cy=\"180\" r=\"20\" fill=\"#99ccff\"/><circle cx=\"250\" cy=\"180\" r=\"20\" fill=\"#99ccff\"/><polygon points=\"180,240 220,240 200,260\" fill=\"#99ccff\"/><ellipse cx=\"200\" cy=\"100\" rx=\"80\" ry=\"30\" fill=\"#99ccff\"/><polygon points=\"180,60 220,60 200,90\" fill=\"#99ccff\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#b3e5fc' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='#81d4fa' /><rect x='160' y='220' width='80' height='120' fill='#4fc3f7' /><path d='M170 340 L200 400 L230 340 Z' fill='#29b6f6' /><polygon points='180,190 220,190 200,230' fill='#03a9f4' /><line x1='180' y1='150' x2='220' y2='150' stroke='#039be5' stroke-width='5' /><line x1='180' y1='150' x2='200' y2='130' stroke='#039be5' stroke-width='5' /><line x1='220' y1='150' x2='200' y2='130' stroke='#039be5' stroke-width='5' /><line x1='160' y1='220' x2='240' y2='220' stroke='#039be5' stroke-width='10' /><line x1='160' y1='250' x2='240' y2='250' stroke='#039be5' stroke-width='10' /><line x1='160' y1='280' x2='240' y2='280' stroke='#039be5' stroke-width='10' /></svg>",
     "report": {
-      "appearance": "アダムは、円形の体に青色と水色の模様が描かれ、頭部には小さな青い角が生え、大きな青色の目を持つ男性型生命体です。手と足は細長く、しなやかなしっぽがあります。",
-      "reason": "アダムの進化によって、より洗練された魅力と知性を表現するために模様や色調が変化し、角や目の特徴が際立ちました。",
-      "thought": "『知恵』"
+      "appearance": "アダムは、青い体に大きな青い目と白い角を持つ男性の姿をしています。体の下部には薄い青色の脚があり、しっぽは三角形の形状をしています。お腹の白い部分が特徴的です。",
+      "reason": "アダムは新たな進化の過程で、強い生存本能を持つため、外見に変化が生じました。",
+      "thought": "『力と誇り』"
     },
     "name": "アダム",
     "gender": "男性"

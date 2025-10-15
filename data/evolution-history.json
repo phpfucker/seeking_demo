@@ -14380,5 +14380,28 @@
       "gender": "男性"
     },
     "timestamp": 1760490799841
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"50\" width=\"300\" height=\"300\" fill=\"#ffe0bd\"/><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"#ffcc9d\"/><circle cx=\"130\" cy=\"150\" r=\"20\" fill=\"#ff9999\"/><circle cx=\"270\" cy=\"150\" r=\"20\" fill=\"#ff9999\"/><path d=\"M200 240 Q180 260 200 280 Q220 260 200 240 Z\" fill=\"#ffcc9d\"/><circle cx=\"180\" cy=\"220\" r=\"5\" fill=\"#ff9999\"/><circle cx=\"220\" cy=\"220\" r=\"5\" fill=\"#ff9999\"/><circle cx=\"150\" cy=\"180\" r=\"20\" fill=\"#ffd699\"/><circle cx=\"250\" cy=\"180\" r=\"20\" fill=\"#ffd699\"/><polygon points=\"180,240 220,240 200,260\" fill=\"#ffcc9d\"/><ellipse cx=\"200\" cy=\"100\" rx=\"80\" ry=\"30\" fill=\"#ffd699\"/><polygon points=\"180,60 220,60 200,90\" fill=\"#ffcc9d\"/></svg>",
+      "report": {
+        "appearance": "イヴは、円っぽい体に橙色とピンクの模様が施され、頭部には小さな赤い角が生え、大きなオレンジ色の目を持つ女性型生命体です。手と足は細長く、ふんわりとしたしっぽがあります。",
+        "reason": "進化の過程で、イヴの体には可愛らしさと独自性をより強調するために模様や色彩が増加し、角や目の特徴が現れました。",
+        "thought": "『奇跡』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"50\" width=\"300\" height=\"300\" fill=\"#b3e0ff\"/><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"#99ccff\"/><circle cx=\"130\" cy=\"150\" r=\"20\" fill=\"#66b3ff\"/><circle cx=\"270\" cy=\"150\" r=\"20\" fill=\"#66b3ff\"/><path d=\"M200 240 Q180 260 200 280 Q220 260 200 240 Z\" fill=\"#99ccff\"/><circle cx=\"180\" cy=\"220\" r=\"5\" fill=\"#66b3ff\"/><circle cx=\"220\" cy=\"220\" r=\"5\" fill=\"#66b3ff\"/><circle cx=\"150\" cy=\"180\" r=\"20\" fill=\"#99ccff\"/><circle cx=\"250\" cy=\"180\" r=\"20\" fill=\"#99ccff\"/><polygon points=\"180,240 220,240 200,260\" fill=\"#99ccff\"/><ellipse cx=\"200\" cy=\"100\" rx=\"80\" ry=\"30\" fill=\"#99ccff\"/><polygon points=\"180,60 220,60 200,90\" fill=\"#99ccff\"/></svg>",
+      "report": {
+        "appearance": "アダムは、円形の体に青色と水色の模様が描かれ、頭部には小さな青い角が生え、大きな青色の目を持つ男性型生命体です。手と足は細長く、しなやかなしっぽがあります。",
+        "reason": "アダムの進化によって、より洗練された魅力と知性を表現するために模様や色調が変化し、角や目の特徴が際立ちました。",
+        "thought": "『知恵』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1760509460492
   }
 ]
