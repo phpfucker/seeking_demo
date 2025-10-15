@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='230' width='300' height='150' fill='#FFD700' /><circle cx='200' cy='150' r='100' fill='#FFD700' /><polygon points='150,250 200,300 250,250' fill='#FFD700' /><ellipse cx='140' cy='150' rx='25' ry='40' fill='#FFD700' /><ellipse cx='260' cy='150' rx='25' ry='40' fill='#FFD700' /><path d='M200 200 Q150 250 200 300 Q250 250 200 200 Z' fill='#FFD700' /><rect x='170' y='220' width='60' height='20' fill='#FFD700' /><rect x='160' y='220' width='20' height='60' fill='#FFD700' /><rect x='220' y='220' width='20' height='60' fill='#FFD700' /><polygon points='180,220 200,190 220,220' fill='#FFD700' /><polygon points='180,280 200,310 220,280' fill='#FFD700' /><ellipse cx='200' cy='330' rx='30' ry='15' fill='#FFD700' /><polygon points='210,330 220,360 200,345 180,360 190,330' fill='#FFD700' /><polygon points='190,330 180,360 200,345 220,360 210,330' fill='#FFD700' /></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"50\" width=\"300\" height=\"300\" fill=\"#ffe0bd\"/><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"#ffcc9d\"/><circle cx=\"130\" cy=\"150\" r=\"20\" fill=\"#ff9999\"/><circle cx=\"270\" cy=\"150\" r=\"20\" fill=\"#ff9999\"/><path d=\"M200 240 Q180 260 200 280 Q220 260 200 240 Z\" fill=\"#ffcc9d\"/><circle cx=\"180\" cy=\"220\" r=\"5\" fill=\"#ff9999\"/><circle cx=\"220\" cy=\"220\" r=\"5\" fill=\"#ff9999\"/><circle cx=\"150\" cy=\"180\" r=\"20\" fill=\"#ffd699\"/><circle cx=\"250\" cy=\"180\" r=\"20\" fill=\"#ffd699\"/><polygon points=\"180,240 220,240 200,260\" fill=\"#ffcc9d\"/><ellipse cx=\"200\" cy=\"100\" rx=\"80\" ry=\"30\" fill=\"#ffd699\"/><polygon points=\"180,60 220,60 200,90\" fill=\"#ffcc9d\"/></svg>",
     "report": {
-      "appearance": "イヴは金色に輝く女性の姿で、円形の目と複数の角を持ち、全身に光沢のある肌を持つ。体の中央に大きな円形の模様があり、華やかな雰囲気を放つ。",
-      "reason": "イヴは進化の過程で新たな光沢のある肌や角を身に纏い、より美しく輝くように進化した。",
-      "thought": "『輝きを持つ』"
+      "appearance": "イヴは、円っぽい体に橙色とピンクの模様が施され、頭部には小さな赤い角が生え、大きなオレンジ色の目を持つ女性型生命体です。手と足は細長く、ふんわりとしたしっぽがあります。",
+      "reason": "進化の過程で、イヴの体には可愛らしさと独自性をより強調するために模様や色彩が増加し、角や目の特徴が現れました。",
+      "thought": "『奇跡』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='230' width='300' height='150' fill='#6495ED' /><circle cx='200' cy='150' r='100' fill='#6495ED' /><polygon points='150,250 200,300 250,250' fill='#6495ED' /><ellipse cx='140' cy='150' rx='25' ry='40' fill='#6495ED' /><ellipse cx='260' cy='150' rx='25' ry='40' fill='#6495ED' /><path d='M200 200 Q150 250 200 300 Q250 250 200 200 Z' fill='#6495ED' /><rect x='170' y='220' width='60' height='20' fill='#6495ED' /><rect x='160' y='220' width='20' height='60' fill='#6495ED' /><rect x='220' y='220' width='20' height='60' fill='#6495ED' /><polygon points='180,220 200,190 220,220' fill='#6495ED' /><polygon points='180,280 200,310 220,280' fill='#6495ED' /><ellipse cx='200' cy='330' rx='30' ry='15' fill='#6495ED' /><polygon points='210,330 220,360 200,345 180,360 190,330' fill='#6495ED' /><polygon points='190,330 180,360 200,345 220,360 210,330' fill='#6495ED' /></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"50\" width=\"300\" height=\"300\" fill=\"#b3e0ff\"/><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"#99ccff\"/><circle cx=\"130\" cy=\"150\" r=\"20\" fill=\"#66b3ff\"/><circle cx=\"270\" cy=\"150\" r=\"20\" fill=\"#66b3ff\"/><path d=\"M200 240 Q180 260 200 280 Q220 260 200 240 Z\" fill=\"#99ccff\"/><circle cx=\"180\" cy=\"220\" r=\"5\" fill=\"#66b3ff\"/><circle cx=\"220\" cy=\"220\" r=\"5\" fill=\"#66b3ff\"/><circle cx=\"150\" cy=\"180\" r=\"20\" fill=\"#99ccff\"/><circle cx=\"250\" cy=\"180\" r=\"20\" fill=\"#99ccff\"/><polygon points=\"180,240 220,240 200,260\" fill=\"#99ccff\"/><ellipse cx=\"200\" cy=\"100\" rx=\"80\" ry=\"30\" fill=\"#99ccff\"/><polygon points=\"180,60 220,60 200,90\" fill=\"#99ccff\"/></svg>",
     "report": {
-      "appearance": "アダムは青色に輝く男性の姿で、円形の目と複数の角を持ち、全身に光沢のある肌を持つ。体の中央に大きな円形の模様があり、威厳ある雰囲気を放つ。",
-      "reason": "アダムは進化の過程で新たな光沢のある肌や角を身に纏い、より優れた力強い姿に進化した。",
-      "thought": "『力強さを持つ』"
+      "appearance": "アダムは、円形の体に青色と水色の模様が描かれ、頭部には小さな青い角が生え、大きな青色の目を持つ男性型生命体です。手と足は細長く、しなやかなしっぽがあります。",
+      "reason": "アダムの進化によって、より洗練された魅力と知性を表現するために模様や色調が変化し、角や目の特徴が際立ちました。",
+      "thought": "『知恵』"
     },
     "name": "アダム",
     "gender": "男性"

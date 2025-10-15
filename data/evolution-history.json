@@ -14357,5 +14357,28 @@
       "gender": "男性"
     },
     "timestamp": 1760466215165
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='230' width='300' height='150' fill='#FFD700' /><circle cx='200' cy='150' r='100' fill='#FFD700' /><polygon points='150,250 200,300 250,250' fill='#FFD700' /><ellipse cx='140' cy='150' rx='25' ry='40' fill='#FFD700' /><ellipse cx='260' cy='150' rx='25' ry='40' fill='#FFD700' /><path d='M200 200 Q150 250 200 300 Q250 250 200 200 Z' fill='#FFD700' /><rect x='170' y='220' width='60' height='20' fill='#FFD700' /><rect x='160' y='220' width='20' height='60' fill='#FFD700' /><rect x='220' y='220' width='20' height='60' fill='#FFD700' /><polygon points='180,220 200,190 220,220' fill='#FFD700' /><polygon points='180,280 200,310 220,280' fill='#FFD700' /><ellipse cx='200' cy='330' rx='30' ry='15' fill='#FFD700' /><polygon points='210,330 220,360 200,345 180,360 190,330' fill='#FFD700' /><polygon points='190,330 180,360 200,345 220,360 210,330' fill='#FFD700' /></svg>",
+      "report": {
+        "appearance": "イヴは金色に輝く女性の姿で、円形の目と複数の角を持ち、全身に光沢のある肌を持つ。体の中央に大きな円形の模様があり、華やかな雰囲気を放つ。",
+        "reason": "イヴは進化の過程で新たな光沢のある肌や角を身に纏い、より美しく輝くように進化した。",
+        "thought": "『輝きを持つ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='230' width='300' height='150' fill='#6495ED' /><circle cx='200' cy='150' r='100' fill='#6495ED' /><polygon points='150,250 200,300 250,250' fill='#6495ED' /><ellipse cx='140' cy='150' rx='25' ry='40' fill='#6495ED' /><ellipse cx='260' cy='150' rx='25' ry='40' fill='#6495ED' /><path d='M200 200 Q150 250 200 300 Q250 250 200 200 Z' fill='#6495ED' /><rect x='170' y='220' width='60' height='20' fill='#6495ED' /><rect x='160' y='220' width='20' height='60' fill='#6495ED' /><rect x='220' y='220' width='20' height='60' fill='#6495ED' /><polygon points='180,220 200,190 220,220' fill='#6495ED' /><polygon points='180,280 200,310 220,280' fill='#6495ED' /><ellipse cx='200' cy='330' rx='30' ry='15' fill='#6495ED' /><polygon points='210,330 220,360 200,345 180,360 190,330' fill='#6495ED' /><polygon points='190,330 180,360 200,345 220,360 210,330' fill='#6495ED' /></svg>",
+      "report": {
+        "appearance": "アダムは青色に輝く男性の姿で、円形の目と複数の角を持ち、全身に光沢のある肌を持つ。体の中央に大きな円形の模様があり、威厳ある雰囲気を放つ。",
+        "reason": "アダムは進化の過程で新たな光沢のある肌や角を身に纏い、より優れた力強い姿に進化した。",
+        "thought": "『力強さを持つ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1760490799841
   }
 ]
