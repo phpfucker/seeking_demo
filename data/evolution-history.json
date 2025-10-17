@@ -14564,5 +14564,28 @@
       "gender": "男性"
     },
     "timestamp": 1760663542429
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink'/><ellipse cx='150' cy='180' rx='30' ry='20' fill='white'/><ellipse cx='250' cy='180' rx='30' ry='20' fill='white'/><path d='M180,250 Q200,280 220,250 Q200,270 180,250' fill='pink'/><path d='M220,250 Q240,270 260,250 Q240,270 220,250' fill='pink'/><path d='M200,280 Q180,290 160,280 Q180,300 200,280' fill='pink'/><path d='M200,280 Q220,290 240,280 Q220,300 200,280' fill='pink'/><ellipse cx='180' cy='190' rx='5' ry='10' fill='black'/><ellipse cx='220' cy='190' rx='5' ry='10' fill='black'/><path d='M150,230 Q140,220 140,200 Q150,210 150,230' fill='pink'/><path d='M250,230 Q260,220 260,200 Q250,210 250,230' fill='pink'/><ellipse cx='180' cy='230' rx='10' ry='5' fill='pink'/><ellipse cx='220' cy='230' rx='10' ry='5' fill='pink'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体を持ち、白い眼とピンク色の髪が特徴的な女性の生命体です。体の一部には優雅な曲線が描かれています。",
+        "reason": "生態系の変化により、イヴはより美しく、優雅な姿に進化しました。",
+        "thought": "『調和と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='lightblue'/><ellipse cx='200' cy='180' rx='30' ry='20' fill='white'/><rect x='180' y='220' width='40' height='20' fill='lightblue'/><rect x='180' y='250' width='40' height='10' fill='lightblue'/><path d='M180,300 Q200,320 220,300 Q200,320 180,300' fill='lightblue'/><path d='M180,300 Q200,320 220,300 Q200,320 180,300' fill='lightblue'/><rect x='190' y='220' width='20' height='20' fill='lightblue'/><rect x='190' y='250' width='20' height='10' fill='lightblue'/><ellipse cx='185' cy='185' rx='5' ry='10' fill='black'/><ellipse cx='215' cy='185' rx='5' ry='10' fill='black'/><rect x='180' y='240' width='10' height='30' fill='lightblue'/><rect x='210' y='240' width='10' height='30' fill='lightblue'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体を持ち、白い眼が特徴的な男性の生命体です。頭部と胴体に角や直線的なパーツが見られます。",
+        "reason": "環境の変化により、アダムはより力強く、頑丈な姿に進化しました。",
+        "thought": "『力強さと頑強さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1760682188158
   }
 ]
