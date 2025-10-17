@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='150' rx='100' ry='140' fill='#ffcccb' /><path d='M160 210 L200 290 L240 210 Z' fill='#ff99cc' /><rect x='180' y='180' width='40' height='50' fill='#ff66cc' /><circle cx='180' cy='300' r='10' fill='#000' /><circle cx='220' cy='300' r='10' fill='#000' /><path d='M180 270 Q200 310 220 270' fill='none' stroke='#000' stroke-width='2' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>イヴ</text></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"150\" width=\"200\" height=\"200\" fill=\"#FFD700\"/><ellipse cx=\"200\" cy=\"100\" rx=\"70\" ry=\"50\" fill=\"#FFD700\"/><path d=\"M200 150 L160 200 L240 200 Z\" fill=\"#FF6347\"/><polygon points=\"180,220 220,220 200,250\" fill=\"#FF6347\"/><line x1=\"170\" y1=\"160\" x2=\"190\" y2=\"160\" stroke=\"#000\" stroke-width=\"2\"/><line x1=\"210\" y1=\"160\" x2=\"230\" y2=\"160\" stroke=\"#000\" stroke-width=\"2\"/><line x1=\"210\" y1=\"155\" x2=\"200\" y2=\"165\" stroke=\"#000\" stroke-width=\"2\"/><line x1=\"190\" y1=\"155\" x2=\"200\" y2=\"165\" stroke=\"#000\" stroke-width=\"2\"/><rect x=\"170\" y=\"250\" width=\"60\" height=\"20\" fill=\"#FF6347\"/><path d=\"M200 185 L190 195 L210 195 Z\" fill=\"#000\"/><line x1=\"160\" y1=\"220\" x2=\"140\" y2=\"240\" stroke=\"#000\" stroke-width=\"2\"/><line x1=\"240\" y1=\"220\" x2=\"260\" y2=\"240\" stroke=\"#000\" stroke-width=\"2\"/><line x1=\"160\" y1=\"250\" x2=\"140\" y2=\"270\" stroke=\"#000\" stroke-width=\"2\"/><line x1=\"240\" y1=\"250\" x2=\"260\" y2=\"270\" stroke=\"#000\" stroke-width=\"2\"/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の楕円形の体に、桃色の三角形のドレスを着た女性型生命体です。体の中心には紫色の四角形の装飾があり、顔には大きな目が特徴です。",
-      "reason": "イヴは自然界での進化が、個体の美しさや独自性を追求するために起こりました。",
-      "thought": "『自分の内側から輝く美しさ』"
+      "appearance": "イヴは、輝く金色の体と、暖かみのあるオレンジ色の顔を持つ女性の姿をしています。顔には赤い斑点模様があり、上半身は優雅な円形の形状で、下半身はしっかりとした四角形の形状となっています。手は細長く、尾はフサフサとしたデザインです。",
+      "reason": "進化の理由は、生態系の変化によって新しい環境に適応するためであり、金色の輝きは太陽からのエネルギーを効率的に取り込むために発達した特徴です。",
+      "thought": "『光と熱の力』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='150' rx='100' ry='140' fill='#87ceeb' /><path d='M160 210 L200 290 L240 210 Z' fill='#4682b4' /><rect x='180' y='180' width='40' height='50' fill='#4169e1' /><polygon points='170,300 195,260 220,300' fill='#000' /><path d='M180 270 Q200 310 220 270' fill='none' stroke='#000' stroke-width='2' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>アダム</text></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"150\" width=\"200\" height=\"200\" fill=\"#4682B4\"/><ellipse cx=\"200\" cy=\"100\" rx=\"70\" ry=\"50\" fill=\"#4682B4\"/><path d=\"M200 150 L160 200 L240 200 Z\" fill=\"#87CEFA\"/><polygon points=\"180,220 220,220 200,250\" fill=\"#87CEFA\"/><line x1=\"170\" y1=\"160\" x2=\"190\" y2=\"160\" stroke=\"#000\" stroke-width=\"2\"/><line x1=\"210\" y1=\"160\" x2=\"230\" y2=\"160\" stroke=\"#000\" stroke-width=\"2\"/><line x1=\"210\" y1=\"155\" x2=\"200\" y2=\"165\" stroke=\"#000\" stroke-width=\"2\"/><line x1=\"190\" y1=\"155\" x2=\"200\" y2=\"165\" stroke=\"#000\" stroke-width=\"2\"/><rect x=\"170\" y=\"250\" width=\"60\" height=\"20\" fill=\"#87CEFA\"/><path d=\"M200 185 L190 195 L210 195 Z\" fill=\"#000\"/><line x1=\"160\" y1=\"220\" x2=\"140\" y2=\"240\" stroke=\"#000\" stroke-width=\"2\"/><line x1=\"240\" y1=\"220\" x2=\"260\" y2=\"240\" stroke=\"#000\" stroke-width=\"2\"/><line x1=\"160\" y1=\"250\" x2=\"140\" y2=\"270\" stroke=\"#000\" stroke-width=\"2\"/><line x1=\"240\" y1=\"250\" x2=\"260\" y2=\"270\" stroke=\"#000\" stroke-width=\"2\"/></svg>",
     "report": {
-      "appearance": "アダムは、水色の楕円形の体に、青色の三角形の服を着た男性型生命体です。体の中心には濃青色の四角形の装飾があり、顔にはシンプルな目が配置されています。",
-      "reason": "アダムの進化は、生存競争において力強さと知恵を兼ね備えるために起こりました。",
-      "thought": "『知恵と力強さの調和』"
+      "appearance": "アダムは、深い青色の体と、涼しげな水色の顔を持つ男性の姿をしています。体全体には明るい水色の模様が描かれており、上半身と下半身は流れるような曲線の形状となっています。手は力強く、尾は流れる水のようなデザインです。",
+      "reason": "進化の理由は、水辺での生活に適応するためであり、青色の体と水色の模様は水中の姿を疑似的に再現するために発達した特徴です。",
+      "thought": "『静かなる深淵』"
     },
     "name": "アダム",
     "gender": "男性"

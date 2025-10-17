@@ -14610,5 +14610,28 @@
       "gender": "男性"
     },
     "timestamp": 1760704371537
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='150' rx='100' ry='140' fill='#ffcccb' /><path d='M160 210 L200 290 L240 210 Z' fill='#ff99cc' /><rect x='180' y='180' width='40' height='50' fill='#ff66cc' /><circle cx='180' cy='300' r='10' fill='#000' /><circle cx='220' cy='300' r='10' fill='#000' /><path d='M180 270 Q200 310 220 270' fill='none' stroke='#000' stroke-width='2' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の楕円形の体に、桃色の三角形のドレスを着た女性型生命体です。体の中心には紫色の四角形の装飾があり、顔には大きな目が特徴です。",
+        "reason": "イヴは自然界での進化が、個体の美しさや独自性を追求するために起こりました。",
+        "thought": "『自分の内側から輝く美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='150' rx='100' ry='140' fill='#87ceeb' /><path d='M160 210 L200 290 L240 210 Z' fill='#4682b4' /><rect x='180' y='180' width='40' height='50' fill='#4169e1' /><polygon points='170,300 195,260 220,300' fill='#000' /><path d='M180 270 Q200 310 220 270' fill='none' stroke='#000' stroke-width='2' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、水色の楕円形の体に、青色の三角形の服を着た男性型生命体です。体の中心には濃青色の四角形の装飾があり、顔にはシンプルな目が配置されています。",
+        "reason": "アダムの進化は、生存競争において力強さと知恵を兼ね備えるために起こりました。",
+        "thought": "『知恵と力強さの調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1760725231523
   }
 ]
