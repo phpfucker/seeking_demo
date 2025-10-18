@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#f48fb1' /><ellipse cx='200' cy='180' rx='80' ry='100' fill='#ffcc80' /><path d='M180 230 L160 280 L200 280 Z' fill='#ffeb3b' /><circle cx='160' cy='180' r='10' fill='#fff' /><circle cx='240' cy='180' r='10' fill='#fff' /><rect x='170' y='230' width='60' height='10' fill='#795548' /><rect x='160' y='140' width='80' height='10' fill='#795548' /><line x1='150' y1='180' x2='100' y2='220' stroke='#000' stroke-width='2' /><line x1='250' y1='180' x2='300' y2='220' stroke='#000' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><circle cx='200' cy='200' r='80' fill='#ff9999'/><ellipse cx='150' cy='170' rx='20' ry='30' fill='#ff6666'/><ellipse cx='250' cy='170' rx='20' ry='30' fill='#ff6666'/><ellipse cx='200' cy='240' rx='40' ry='15' fill='#ff6666'/><path d='M120 150 Q200 50 280 150' fill='none' stroke='#ff6666' stroke-width='5'/><polygon points='160,220 190,220 175,240' fill='#ff6666'/><polygon points='210,220 240,220 225,240' fill='#ff6666'/></svg>",
     "report": {
-      "appearance": "イヴはピンク色の体毛を持ち、胴体は丸みを帯びた形状で、薄いイエローの腹部が特徴的です。うしろから見ると、太いしっぽがあります。頭部には黄色い髪の毛が生えており、目の周りには輝く黄色い模様があります。",
-      "reason": "イヴの進化は、環境の変化によって食物の入手方法が変わり、より効率的に捕食するために必要な特徴が発達したためです。",
-      "thought": "『愛と創造の力』"
+      "appearance": "イヴは背の高い女性の姿をしており、ピンクの肌と赤い目を持ちます。頭部は縦に長く、両腕には短い腕と指があります。体全体に赤い模様があるのが特徴です。",
+      "reason": "進化のプロセスにより、イヴは優れた運動能力と知性を身につけ、独自の美しさを追求した結果、このような姿に進化しました。",
+      "thought": "『宇宙の神秘を感じる』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#64b5f6' /><ellipse cx='200' cy='180' rx='80' ry='100' fill='#bcaaa4' /><path d='M220 230 L240 280 L200 280 Z' fill='#bcaaa4' /><circle cx='160' cy='180' r='10' fill='#fff' /><circle cx='240' cy='180' r='10' fill='#fff' /><rect x='170' y='230' width='60' height='10' fill='#795548' /><rect x='160' y='140' width='80' height='10' fill='#795548' /><line x1='150' y1='180' x2='100' y2='220' stroke='#000' stroke-width='2' /><line x1='250' y1='180' x2='300' y2='220' stroke='#000' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#add8e6'/><circle cx='200' cy='200' r='80' fill='#87ceeb'/><ellipse cx='150' cy='170' rx='20' ry='30' fill='#4682b4'/><ellipse cx='250' cy='170' rx='20' ry='30' fill='#4682b4'/><ellipse cx='200' cy='240' rx='40' ry='15' fill='#4682b4'/><path d='M120 150 Q200 50 280 150' fill='none' stroke='#4682b4' stroke-width='5'/><polygon points='160,220 190,220 175,240' fill='#4682b4'/><polygon points='210,220 240,220 225,240' fill='#4682b4'/></svg>",
     "report": {
-      "appearance": "アダムは青色の体毛を持ち、体は四角い形状で、灰色の腹部が特徴的です。背中には太いしっぽがあります。頭部には灰色の髪の毛が生えており、目の周りに灰色の模様があります。",
-      "reason": "アダムの進化は、生息地の気候の変化によって、体毛の色や模様が適応して変化したためです。",
-      "thought": "『知識と創造の結晶』"
+      "appearance": "アダムは頑丈な体つきの男性の姿をしており、青色の肌と青い目をしています。頭部はやや大きく、四肢は力強く発達しています。全体的に青色を基調とした装飾模様が施されています。",
+      "reason": "アダムは環境への適応力と強靭な生命力を持つため、進化の過程でより力強く、威厳ある姿に進化しました。",
+      "thought": "『未来への闘志』"
     },
     "name": "アダム",
     "gender": "男性"
