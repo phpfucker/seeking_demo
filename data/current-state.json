@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='pink'/><ellipse cx='200' cy='150' rx='100' ry='130' fill='white'/><path d='M150,250 C120,280 280,280 250,250 L150,250' fill='pink'/><path d='M110,160 L130,180 L170,180 L190,160 Z' fill='white'/><path d='M210,160 L230,180 L270,180 L290,160 Z' fill='white'/><ellipse cx='160' cy='150' rx='20' ry='30' fill='black'/><ellipse cx='240' cy='150' rx='20' ry='30' fill='black'/><rect x='180' y='210' width='40' height='40' fill='pink'/><rect x='185' y='220' width='10' height='20' fill='white'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffccff' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#ffb6c1' /><rect x='160' y='200' width='80' height='40' fill='#ff99cc' /><path d='M180 150 L170 220 L200 220 Z' fill='#ff66b2' /><path d='M220 150 L230 220 L200 220 Z' fill='#ff66b2' /><rect x='170' y='200' width='60' height='10' fill='#ff1a75' /><rect x='190' y='140' width='20' height='10' fill='#ff1a75' /><ellipse cx='180' cy='150' rx='5' ry='10' fill='#ff1a75' /><ellipse cx='220' cy='150' rx='5' ry='10' fill='#ff1a75' /><rect x='160' y='250' width='80' height='20' fill='#ff1a75' /><rect x='170' y='270' width='10' height='30' fill='#ff1a75' /><rect x='220' y='270' width='10' height='30' fill='#ff1a75' /><path d='M180 350 Q200 380 220 350 Z' fill='#ff66b2' /><path d='M200 350 Q180 380 160 350 Z' fill='#ff66b2' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな体を持ち、白いオーバル形の顔を持つ女性。黒い瞳と黒い髪が特徴で、手足は丸くて柔らかい。",
-      "reason": "進化のプロセスにおいて、イヴはより優美な外見と内面を求め、柔らかな色合いと丸みを帯びた特徴が強調された。",
-      "thought": "『優しさが強さへと繋がる』"
+      "appearance": "イヴは、紫色の肌を持ち、ピンク色の円形の体と長いピンクの髪を持つ女性です。顔には2つの大きなピンクの目と口があり、体の中央には細長いピンク色の模様があります。手には2本のピンクの指があり、足は短く丸い形状で、ピンク色の靴を履いています。",
+      "reason": "イヴは美しさと知性を持つ女性像を表現するため、進化によってより洗練された外見を得ました。",
+      "thought": "『永遠の愛』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='lightblue'/><rect x='160' y='150' width='80' height='120' fill='white'/><path d='M150,250 C120,280 280,280 250,250 L150,250' fill='lightblue'/><path d='M180,150 L195,135 L205,135 L220,150 Z' fill='white'/><path d='M180,270 L195,285 L205,285 L220,270 Z' fill='white'/><circle cx='170' cy='160' r='10' fill='black'/><circle cx='230' cy='160' r='10' fill='black'/><ellipse cx='200' cy='220' rx='30' ry='10' fill='lightblue'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#87ceeb' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#4682b4' /><rect x='160' y='200' width='80' height='40' fill='#4169e1' /><path d='M180 150 L170 220 L200 220 Z' fill='#0000cd' /><path d='M220 150 L230 220 L200 220 Z' fill='#0000cd' /><rect x='170' y='200' width='60' height='10' fill='#00008b' /><rect x='190' y='140' width='20' height='10' fill='#00008b' /><ellipse cx='180' cy='150' rx='5' ry='10' fill='#00008b' /><ellipse cx='220' cy='150' rx='5' ry='10' fill='#00008b' /><rect x='160' y='250' width='80' height='20' fill='#00008b' /><rect x='170' y='270' width='10' height='30' fill='#00008b' /><rect x='220' y='270' width='10' height='30' fill='#00008b' /><path d='M180 350 Q200 380 220 350 Z' fill='#0000cd' /><path d='M200 350 Q180 380 160 350 Z' fill='#0000cd' /></svg>",
     "report": {
-      "appearance": "アダムは、淡い青色の体を持ち、白い四角い顔を持つ男性。黒い瞳と短い髪が特徴で、手足は角ばっている。",
-      "reason": "進化の過程で、アダムはより力強い外観を身につけ、角ばった特徴とシンプルな形状が前面に出た。",
-      "thought": "『力強さは誠実さを象徴する』"
+      "appearance": "アダムは、青色の肌を持ち、水色の円形の体と短い水色の髪を持つ男性です。顔には2つの大きな青い目と口があり、体の中央には丸い水色の模様があります。手には2本の青い指があり、足は短く丸い形状で、青色の靴を履いています。",
+      "reason": "アダムは力強さと冷静さを持つ男性像を表現するため、進化によってより引き締まった外見を得ました。",
+      "thought": "『未来への希望』"
     },
     "name": "アダム",
     "gender": "男性"
