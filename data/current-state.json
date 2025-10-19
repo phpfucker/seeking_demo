@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink'/><ellipse cx='150' cy='170' rx='30' ry='20' fill='white'/><ellipse cx='250' cy='170' rx='30' ry='20' fill='white'/><path d='M150,250 Q200,300 250,250' fill='none' stroke='black' stroke-width='2'/><path d='M140,230 Q200,320 260,230' fill='none' stroke='black' stroke-width='2'/><polygon points='190,180 210,180 200,190' fill='black'/><polygon points='140,240 145,235 155,245' fill='black'/><polygon points='260,240 255,235 245,245' fill='black'/><rect x='185' y='260' width='30' height='10' fill='black'/><rect x='175' y='270' width='50' height='10' fill='black'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='130' ry='180' fill='#ffcccb'/><path d='M200 220 Q150 240 150 280 Q150 320 200 340 Q250 320 250 280 Q250 240 200 220' fill='#ffdddd'/><circle cx='170' cy='260' r='10' fill='#ffffff'/><circle cx='230' cy='260' r='10' fill='#ffffff'/><ellipse cx='185' cy='280' rx='15' ry='10' fill='#ffd8d8'/><ellipse cx='215' cy='280' rx='15' ry='10' fill='#ffd8d8'/><line x1='170' y1='300' x2='230' y2='300' stroke='#000000' stroke-width='2'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の体に白い眼と黒い瞳を持つ女性の姿をしています。頭部には角があり、優雅なしっぽと長い手足を持っています。",
-      "reason": "進化の過程において、イヴは環境への順応を目指し、優美な特徴と知性を持つべく進化しました。",
-      "thought": "『愛と知恵』"
+      "appearance": "イヴは、赤いピンクの柔らかな皮膚を持ち、優雅な曲線の体型をしています。顔には心地よい表情があり、白い眼と口が特徴です。腕は長くしなやかで、手には5本の指があります。",
+      "reason": "イヴは内面の成長と共に、より優美な外見を手に入れることで、周囲への穏やかさと美しさを放つよう進化しました。",
+      "thought": "『調和と美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='lightblue'/><circle cx='200' cy='170' r='20' fill='white'/><circle cx='180' cy='170' r='5' fill='black'/><circle cx='220' cy='170' r='5' fill='black'/><polygon points='160,220 200,230 240,220' fill='black'/><polygon points='180,300 170,310 190,310' fill='black'/><polygon points='220,300 230,310 210,310' fill='black'/><path d='M200,300 Q180,280 160,300' fill='none' stroke='black' stroke-width='2'/><path d='M200,300 Q220,280 240,300' fill='none' stroke='black' stroke-width='2'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#bccff9'/><path d='M200 220 Q150 240 150 280 Q150 320 200 340 Q250 320 250 280 Q250 240 200 220' fill='#d2e3fc'/><circle cx='170' cy='260' r='10' fill='#ffffff'/><circle cx='230' cy='260' r='10' fill='#ffffff'/><ellipse cx='185' cy='280' rx='15' ry='10' fill='#c5d4f7'/><ellipse cx='215' cy='280' rx='15' ry='10' fill='#c5d4f7'/><line x1='170' y1='300' x2='230' y2='300' stroke='#000000' stroke-width='2'/></svg>",
     "report": {
-      "appearance": "アダムは、青色の体に白い目と黒い瞳を持つ男性の外見をしています。頭部には立派な角があり、力強い手足としっかりしたしっぽが特徴です。",
-      "reason": "アダムは進化によって、力強く堅実な特性を身につけ、環境での生存を確保するために進化しました。",
-      "thought": "『誇りと力』"
+      "appearance": "アダムは、青い肌に包まれ、力強い四角い体つきをしています。顔には真剣な表情があり、大きな口と鼻が特徴です。腕は筋肉質で、頑強な手には5本の指があります。",
+      "reason": "アダムは内面の強さと決断力を表現するために、より頼りがいのある外見を手に入れることで、進化しました。",
+      "thought": "『力と決意』"
     },
     "name": "アダム",
     "gender": "男性"
