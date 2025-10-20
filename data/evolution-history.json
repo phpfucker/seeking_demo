@@ -14817,5 +14817,28 @@
       "gender": "男性"
     },
     "timestamp": 1760898003182
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='130' ry='180' fill='#ffcccb'/><path d='M200 220 Q150 240 150 280 Q150 320 200 340 Q250 320 250 280 Q250 240 200 220' fill='#ffdddd'/><circle cx='170' cy='260' r='10' fill='#ffffff'/><circle cx='230' cy='260' r='10' fill='#ffffff'/><ellipse cx='185' cy='280' rx='15' ry='10' fill='#ffd8d8'/><ellipse cx='215' cy='280' rx='15' ry='10' fill='#ffd8d8'/><line x1='170' y1='300' x2='230' y2='300' stroke='#000000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、赤いピンクの柔らかな皮膚を持ち、優雅な曲線の体型をしています。顔には心地よい表情があり、白い眼と口が特徴です。腕は長くしなやかで、手には5本の指があります。",
+        "reason": "イヴは内面の成長と共に、より優美な外見を手に入れることで、周囲への穏やかさと美しさを放つよう進化しました。",
+        "thought": "『調和と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#bccff9'/><path d='M200 220 Q150 240 150 280 Q150 320 200 340 Q250 320 250 280 Q250 240 200 220' fill='#d2e3fc'/><circle cx='170' cy='260' r='10' fill='#ffffff'/><circle cx='230' cy='260' r='10' fill='#ffffff'/><ellipse cx='185' cy='280' rx='15' ry='10' fill='#c5d4f7'/><ellipse cx='215' cy='280' rx='15' ry='10' fill='#c5d4f7'/><line x1='170' y1='300' x2='230' y2='300' stroke='#000000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い肌に包まれ、力強い四角い体つきをしています。顔には真剣な表情があり、大きな口と鼻が特徴です。腕は筋肉質で、頑強な手には5本の指があります。",
+        "reason": "アダムは内面の強さと決断力を表現するために、より頼りがいのある外見を手に入れることで、進化しました。",
+        "thought": "『力と決意』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1760923071430
   }
 ]
