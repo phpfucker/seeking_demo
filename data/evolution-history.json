@@ -14886,5 +14886,28 @@
       "gender": "男性"
     },
     "timestamp": 1760963654601
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffc0cb' /><polygon points='200,100 150,200 250,200' fill='#ff69b4' /><polygon points='150,200 135,250 265,250 250,200' fill='#ff69b4' /><polygon points='135,250 125,300 275,300 265,250' fill='#ff69b4' /><polygon points='125,300 120,350 280,350 275,300' fill='#ff69b4' /><ellipse cx='200' cy='160' rx='60' ry='30' fill='#ffd700' /><ellipse cx='170' cy='165' rx='12' ry='18' fill='#000' /><ellipse cx='230' cy='165' rx='12' ry='18' fill='#000' /><polygon points='180,170 220,170 200,180' fill='#fff' /><polygon points='190,190 195,190 193,195' fill='#000' /><path d='M200,210 Q190,220 200,230 Q210,220 200,210 Z' fill='#ff69b4' /><polygon points='150,200 200,210 250,200' fill='#fff' /><line x1='180' y1='270' x2='155' y2='290' stroke='#000' stroke-width='5' /><line x1='220' y1='270' x2='245' y2='290' stroke='#000' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクの柔らかい体色を持ち、頭部には金色の光沢を放つ光輪があります。体の下部には四つの薄いピンク色の羽が生えており、優雅な印象を与えます。輝く金色の目が大きく、優しさと知性を湛えた顔立ちです。",
+        "reason": "イヴは、自然界の美しさと調和を象徴する進化を遂げました。",
+        "thought": "『愛と知識が世界を照らす』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='150' fill='#6495ed' /><polygon points='200,100 150,150 250,150' fill='#4169e1' /><polygon points='150,150 135,200 265,200 250,150' fill='#4169e1' /><polygon points='135,200 125,250 275,250 265,200' fill='#4169e1' /><polygon points='125,250 120,300 280,300 275,250' fill='#4169e1' /><polygon points='120,300 100,350 300,350 280,300' fill='#4169e1' /><circle cx='200' cy='150' r='20' fill='#fff' /><circle cx='180' cy='150' r='5' fill='#000' /><circle cx='220' cy='150' r='5' fill='#000' /><rect x='175' y='200' width='50' height='30' fill='#ff0000' /><polygon points='180,230 200,240 220,230' fill='#fff' /><polygon points='190,250 195,250 193,255' fill='#000' /><line x1='180' y1='280' x2='160' y2='300' stroke='#000' stroke-width='5' /><line x1='220' y1='280' x2='240' y2='300' stroke='#000' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の頑丈な体を持ち、胸部には赤い炎をイメージさせる模様があります。四肢は力強く太く、安定感あふれる立ち姿をしています。顔には白い瞳があり、冷静で力強い表情をしています。",
+        "reason": "アダムは、強靭な生命力と勇気を象徴する進化を遂げました。",
+        "thought": "『力強く未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1760984654084
   }
 ]
