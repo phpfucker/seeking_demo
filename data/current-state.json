@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffcccb'/><circle cx='200' cy='150' r='80' fill='#ffb6c1'/><path d='M150 230 L200 280 L250 230 Z' fill='#ff69b4'/><ellipse cx='160' cy='120' rx='12' ry='18' fill='#ffffff'/><ellipse cx='240' cy='120' rx='12' ry='18' fill='#ffffff'/><path d='M180 160 Q200 170 220 160' fill='none' stroke='#000' stroke-width='2'/><path d='M200 210 Q190 220 200 230 Q210 220 200 210 Z' fill='#ff69b4'/><path d='M160 300 Q160 320 180 320 Q200 320 200 300 Q200 320 220 320 Q240 320 240 300 Z' fill='#ff69b4'/><polygon points='160,160 140,210 160,210' fill='#ffffff'/><polygon points='240,160 260,210 240,210' fill='#ffffff'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='0%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='160' cy='150' rx='20' ry='30' fill='#fff' /><ellipse cx='240' cy='150' rx='20' ry='30' fill='#fff' /><ellipse cx='200' cy='230' rx='50' ry='30' fill='#fff' /><path d='M180 220 Q200 250 220 220' fill='none' stroke='#000' stroke-width='2' /><path d='M160 190 Q200 160 240 190' fill='none' stroke='#000' stroke-width='2' /><path d='M190 260 Q200 280 210 260' fill='none' stroke='#000' stroke-width='2' /><circle cx='180' cy='170' r='5' fill='#000' /><circle cx='220' cy='170' r='5' fill='#000' /><circle cx='190' cy='220' r='5' fill='#000' /><circle cx='210' cy='220' r='5' fill='#000' /><path d='M180 260 Q200 280 220 260' fill='none' stroke='#000' stroke-width='2' /><path d='M220 260 Q240 280 260 260' fill='none' stroke='#000' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の体に大きな赤い目と白い腹部を持つ女性型生命体です。背中にはピンク色の翼があり、頭部には赤い角が2本生えています。",
-      "reason": "進化の理由は、生存環境の変化により、より効果的な警戒能力と美的魅力を持つことが有利になったためです。",
-      "thought": "『自然の中で輝く』"
+      "appearance": "イヴは、ピンクと赤のグラデーションが美しい女性の姿をしています。全体的に優雅で柔らかな印象を与え、顔にはやさしい表情が浮かんでいます。体のラインは滑らかで女性らしい特徴が際立っています。",
+      "reason": "進化の過程で、イヴはより美しく魅力的な外見を持つように変化しました。この進化は生存競争や求愛のため、さらに個体の多様性を増やすために起こりました。",
+      "thought": "『愛と美しさの源』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#add8e6'/><circle cx='200' cy='150' r='80' fill='#87ceeb'/><path d='M150 230 L200 280 L250 230 Z' fill='#4682b4'/><ellipse cx='160' cy='120' rx='12' ry='18' fill='#ffffff'/><ellipse cx='240' cy='120' rx='12' ry='18' fill='#ffffff'/><path d='M180 160 Q200 170 220 160' fill='none' stroke='#000' stroke-width='2'/><path d='M200 210 Q190 220 200 230 Q210 220 200 210 Z' fill='#4682b4'/><path d='M160 300 Q160 320 180 320 Q200 320 200 300 Q200 320 220 320 Q240 320 240 300 Z' fill='#4682b4'/><polygon points='160,160 140,210 160,210' fill='#ffffff'/><polygon points='240,160 260,210 240,210' fill='#ffffff'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='0%' y2='100%'><stop offset='0%' style='stop-color:rgb(100,149,237);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(70,130,180);stop-opacity:1' /></linearGradient></defs><rect x='150' y='100' width='100' height='150' fill='url(#gradB)' /><polygon points='150,100 200,50 250,100' fill='none' stroke='#000' stroke-width='2' /><polygon points='155,250 200,300 245,250' fill='none' stroke='#000' stroke-width='2' /><polygon points='160,225 200,275 240,225' fill='none' stroke='#000' stroke-width='2' /><circle cx='180' cy='120' r='10' fill='#000' /><circle cx='220' cy='120' r='10' fill='#000' /><circle cx='180' cy='230' r='5' fill='#000' /><circle cx='220' cy='230' r='5' fill='#000' /><line x1='160' y1='150' x2='150' y2='200' stroke='#000' stroke-width='2' /><line x1='240' y1='150' x2='250' y2='200' stroke='#000' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "アダムは、水色の体に大きな青い目を持つ男性型生命体です。背中には水色の翼があり、頭部には青い角が2本生えています。",
-      "reason": "進化の理由は、より効果的な狩猟能力と優れた運動能力を持つことで、生存競争において有利になったためです。",
-      "thought": "『未来への飛翔』"
+      "appearance": "アダムは、青を基調とした男性らしい姿をしています。力強い体つきとワイルドな印象があり、顔つきは精悍でたくましい特徴が見られます。全体的に力強さと安定感が感じられます。",
+      "reason": "アダムはより強靭で頼りがいのある外見を持つために進化しました。この進化は生存競争や狩猟、繁殖のための効果的な戦闘力や引き立つ特徴を求められた結果です。",
+      "thought": "『力と誇りの象徴』"
     },
     "name": "アダム",
     "gender": "男性"
