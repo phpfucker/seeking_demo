@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"200\" cy=\"200\" r=\"180\" fill=\"#FFD700\"/><ellipse cx=\"200\" cy=\"130\" rx=\"100\" ry=\"130\" fill=\"#FFEC8B\"/><rect x=\"150\" y=\"200\" width=\"100\" height=\"200\" fill=\"#FFD700\"/><rect x=\"150\" y=\"200\" width=\"100\" height=\"50\" fill=\"#FFEC8B\"/><rect x=\"150\" y=\"350\" width=\"60\" height=\"50\" fill=\"#FFEC8B\"/><rect x=\"190\" y=\"350\" width=\"20\" height=\"30\" fill=\"#FFD700\"/><rect x=\"210\" y=\"350\" width=\"60\" height=\"50\" fill=\"#FFEC8B\"/><path d=\"M180 180 L150 230 L150 250 L200 300 L250 250 L250 230 Z\" fill=\"#FFD700\"/><path d=\"M220 180 L250 230 L250 250 L200 300 L150 250 L150 230 Z\" fill=\"#FFD700\"/><polygon points=\"170,130 200,80 230,130\" fill=\"#FFEC8B\"/><line x1=\"180\" y1=\"185\" x2=\"170\" y2=\"200\" stroke=\"#000\" stroke-width=\"2\"/><line x1=\"220\" y1=\"185\" x2=\"230\" y2=\"200\" stroke=\"#000\" stroke-width=\"2\"/><ellipse cx=\"180\" cy=\"140\" rx=\"10\" ry=\"5\" fill=\"#000\"/><ellipse cx=\"220\" cy=\"140\" rx=\"10\" ry=\"5\" fill=\"#000\"/><ellipse cx=\"170\" cy=\"170\" rx=\"8\" ry=\"12\" fill=\"#000\"/><ellipse cx=\"230\" cy=\"170\" rx=\"8\" ry=\"12\" fill=\"#000\"/><text x=\"200\" y=\"390\" font-family=\"Arial\" font-size=\"20\" fill=\"#000\" text-anchor=\"middle\">イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccd5' /><ellipse cx='200' cy='180' rx='80' ry='100' fill='#f2a2b3' /><path d='M160,220 Q180,260 200,220 Q220,260 240,220' fill='none' stroke='#e5737a' stroke-width='5' /><rect x='175' y='220' width='50' height='40' fill='#ffffff' /><path d='M160,320 Q200,360 240,320' fill='none' stroke='#e5737a' stroke-width='5' /><line x1='180' y1='320' x2='180' y2='360' stroke='#e5737a' stroke-width='5' /><line x1='220' y1='320' x2='220' y2='360' stroke='#e5737a' stroke-width='5' /><path d='M210,280 Q190,300 170,280' fill='none' stroke='#e5737a' stroke-width='5' /><path d='M190,260 Q190,270 200,280 Q210,270 210,260 Q200,270 190,260' fill='#000000' /><circle cx='200' cy='260' r='5' fill='#ffffff' /><circle cx='190' cy='230' r='5' fill='#ffffff' /><circle cx='210' cy='230' r='5' fill='#ffffff' /><polygon points='160,180 180,160 200,180' fill='#e5737a' /><polygon points='240,180 220,160 200,180' fill='#e5737a' /></svg>",
     "report": {
-      "appearance": "イヴは、金色の光輝く体に、優美な形状の黄色い羽を持つ美しい女性の姿をしています。背中には大きな金色の翼があり、煌めく光を放ちます。",
-      "reason": "イヴは自然と調和した美しい姿を求め、進化の過程で羽を得て、輝く光を身に纏うようになりました。",
-      "thought": "『光と風と共に在り』"
+      "appearance": "イヴは、ピンク色の柔らかな肌を持ち、大きな赤い目と白い髪が特徴です。頭部には白い毛が生えた耳があり、全体的に優しげな雰囲気を醸し出しています。四肢は薄いピンク色で、手には白い爪があります。",
+      "reason": "イヴは、新たな進化段階で自然と共鳴し、内面の美しさが外見にも現れるように進化しました。",
+      "thought": "『優しさと美しさが生命を彩る』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"200\" cy=\"200\" r=\"180\" fill=\"#4682B4\"/><ellipse cx=\"200\" cy=\"130\" rx=\"100\" ry=\"130\" fill=\"#87CEEB\"/><rect x=\"150\" y=\"200\" width=\"100\" height=\"200\" fill=\"#4682B4\"/><rect x=\"150\" y=\"200\" width=\"100\" height=\"50\" fill=\"#87CEEB\"/><rect x=\"150\" y=\"350\" width=\"60\" height=\"50\" fill=\"#87CEEB\"/><rect x=\"190\" y=\"350\" width=\"20\" height=\"30\" fill=\"#4682B4\"/><rect x=\"210\" y=\"350\" width=\"60\" height=\"50\" fill=\"#87CEEB\"/><path d=\"M180 180 L150 230 L150 250 L200 300 L250 250 L250 230 Z\" fill=\"#4682B4\"/><path d=\"M220 180 L250 230 L250 250 L200 300 L150 250 L150 230 Z\" fill=\"#4682B4\"/><polygon points=\"170,130 200,80 230,130\" fill=\"#87CEEB\"/><line x1=\"180\" y1=\"185\" x2=\"170\" y2=\"200\" stroke=\"#000\" stroke-width=\"2\"/><line x1=\"220\" y1=\"185\" x2=\"230\" y2=\"200\" stroke=\"#000\" stroke-width=\"2\"/><ellipse cx=\"180\" cy=\"140\" rx=\"10\" ry=\"5\" fill=\"#000\"/><ellipse cx=\"220\" cy=\"140\" rx=\"10\" ry=\"5\" fill=\"#000\"/><ellipse cx=\"170\" cy=\"170\" rx=\"8\" ry=\"12\" fill=\"#000\"/><ellipse cx=\"230\" cy=\"170\" rx=\"8\" ry=\"12\" fill=\"#000\"/><text x=\"200\" y=\"390\" font-family=\"Arial\" font-size=\"20\" fill=\"#000\" text-anchor=\"middle\">アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#8cbad8' /><polygon points='150,100 200,50 250,100' fill='#7aa5c4' /><polygon points='150,300 200,350 250,300' fill='#7aa5c4' /><ellipse cx='200' cy='100' rx='50' ry='40' fill='#a8d0db' /><ellipse cx='200' cy='300' rx='50' ry='40' fill='#a8d0db' /><rect x='190' y='120' width='20' height='160' fill='#ffffff' /><circle cx='180' cy='130' r='10' fill='#ffffff' /><circle cx='220' cy='130' r='10' fill='#ffffff' /><circle cx='180' cy='270' r='10' fill='#ffffff' /><circle cx='220' cy='270' r='10' fill='#ffffff' /><path d='M180,150 Q200,130 220,150' fill='none' stroke='#7aa5c4' stroke-width='5' /><path d='M180,250 Q200,270 220,250' fill='none' stroke='#7aa5c4' stroke-width='5' /></svg>",
     "report": {
-      "appearance": "アダムは、青い海を思わせる体に、優雅な形状の水色の鱗を持つ美しい男性の姿をしています。背中には大きな水色のヒレがあり、輝く光を放ちます。",
-      "reason": "アダムは海と大地の神秘を求め、進化の過程で鱗とヒレを得て、水の力を宿すようになりました。",
-      "thought": "『波と共に生きる』"
+      "appearance": "アダムは、青色の頑丈な体と穏やかな表情が特徴です。頭部には短い青い角が生え、顔には白い模様があります。四肢は筋肉質で、手足には白い爪が備わっています。",
+      "reason": "アダムは進化によって力強くなり、内面の穏やかさが外見にも表れるようになりました。",
+      "thought": "『力強さと穏やかさは調和を生む』"
     },
     "name": "アダム",
     "gender": "男性"
