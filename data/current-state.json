@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffcccb'/><circle cx='200' cy='150' r='80' fill='#ffb6c1'/><path d='M150 230 L200 280 L250 230 Z' fill='#ff69b4'/><ellipse cx='160' cy='120' rx='12' ry='18' fill='#ffffff'/><ellipse cx='240' cy='120' rx='12' ry='18' fill='#ffffff'/><path d='M180 160 Q200 170 220 160' fill='none' stroke='#000' stroke-width='2'/><path d='M200 210 Q190 220 200 230 Q210 220 200 210 Z' fill='#ff69b4'/><path d='M160 300 Q160 320 180 320 Q200 320 200 300 Q200 320 220 320 Q240 320 240 300 Z' fill='#ff69b4'/><polygon points='160,160 140,210 160,210' fill='#ffffff'/><polygon points='240,160 260,210 240,210' fill='#ffffff'/></svg>",
     "report": {
-      "appearance": "イヴは、鮮やかな羽毛で覆われた美しい女性型の生命体です。頭部には複雑な宝石のような模様があり、背中には大きな光る羽根が生えています。四肢には滑らかな曲線の羽が広がり、しなやかなしっぽが優雅に舞っています。",
-      "reason": "イヴは進化の過程で、美しさと力強さを兼ね備えた姿に変化しました。全身の華やかな模様と羽毛は、環境への順応と繁栄を象徴しています。",
-      "thought": "『自然と調和する美しさ』"
+      "appearance": "イヴは、ピンク色の体に大きな赤い目と白い腹部を持つ女性型生命体です。背中にはピンク色の翼があり、頭部には赤い角が2本生えています。",
+      "reason": "進化の理由は、生存環境の変化により、より効果的な警戒能力と美的魅力を持つことが有利になったためです。",
+      "thought": "『自然の中で輝く』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#add8e6'/><circle cx='200' cy='150' r='80' fill='#87ceeb'/><path d='M150 230 L200 280 L250 230 Z' fill='#4682b4'/><ellipse cx='160' cy='120' rx='12' ry='18' fill='#ffffff'/><ellipse cx='240' cy='120' rx='12' ry='18' fill='#ffffff'/><path d='M180 160 Q200 170 220 160' fill='none' stroke='#000' stroke-width='2'/><path d='M200 210 Q190 220 200 230 Q210 220 200 210 Z' fill='#4682b4'/><path d='M160 300 Q160 320 180 320 Q200 320 200 300 Q200 320 220 320 Q240 320 240 300 Z' fill='#4682b4'/><polygon points='160,160 140,210 160,210' fill='#ffffff'/><polygon points='240,160 260,210 240,210' fill='#ffffff'/></svg>",
     "report": {
-      "appearance": "アダムは、堂々とした角を持つ男性型の生命体です。全身を覆う厚い鱗と炎のような模様が特徴で、筋肉質な体つきと鋭い目つきが力強さを示しています。",
-      "reason": "アダムは進化の過程で、防御力と威厳を兼ね備えた姿に変化しました。堅固な角と鱗は、厳しい環境での生存戦略を表しています。",
-      "thought": "『絶対的な強さ』"
+      "appearance": "アダムは、水色の体に大きな青い目を持つ男性型生命体です。背中には水色の翼があり、頭部には青い角が2本生えています。",
+      "reason": "進化の理由は、より効果的な狩猟能力と優れた運動能力を持つことで、生存競争において有利になったためです。",
+      "thought": "『未来への飛翔』"
     },
     "name": "アダム",
     "gender": "男性"
