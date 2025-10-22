@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#FFC0CB' /><ellipse cx='200' cy='150' rx='100' ry='140' fill='#FFB6C1' /><path d='M170,220 Q200,260 230,220 Q200,240 170,220 Z' fill='#FF69B4' /><path d='M145,210 Q200,290 255,210 Q200,250 145,210 Z' fill='#FF1493' /><ellipse cx='150' cy='140' rx='20' ry='10' fill='#FFFFFF' /><ellipse cx='250' cy='140' rx='20' ry='10' fill='#FFFFFF' /><path d='M180,180 Q200,230 220,180' fill='none' stroke='#000' stroke-width='2'/><line x1='165' y1='150' x2='175' y2='150' stroke='#000' stroke-width='2' /><line x1='225' y1='150' x2='235' y2='150' stroke='#000' stroke-width='2' /><ellipse cx='165' cy='135' rx='5' ry='10' fill='#000' /><ellipse cx='235' cy='135' rx='5' ry='10' fill='#000' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(244,176,225);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(218,112,214);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><polygon points='200,100 150,150 250,150' fill='rgb(244,176,225)' /><polygon points='150,250 250,250 200,300' fill='rgb(244,176,225)' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='rgb(255,192,203)' /><ellipse cx='160' cy='180' rx='20' ry='30' fill='rgb(255,182,193)' /><ellipse cx='240' cy='180' rx='20' ry='30' fill='rgb(255,182,193)' /><ellipse cx='200' cy='220' rx='30' ry='10' fill='rgb(255,182,193)' /><ellipse cx='200' cy='230' rx='15' ry='5' fill='rgb(0,0,0)' /><ellipse cx='180' cy='190' rx='10' ry='5' fill='rgb(0,0,0)' /><ellipse cx='220' cy='190' rx='10' ry='5' fill='rgb(0,0,0)' /></svg>",
     "report": {
-      "appearance": "イヴは、ふんわりとしたピンク色の体に、華やかな赤い花のような耳を持つ女性型生命体です。顔には白い楕円形の目があり、柔らかな笑みを浮かべています。手足は細くて優雅な形状で、美しい模様が全身に広がっています。",
-      "reason": "自然界の美しさと優雅さを結集して、より精巧な姿へ進化したため",
-      "thought": "『優しさと美しさが一つになった』"
+      "appearance": "イヴは、ユニコーンのような角を持ち、ピンクと白のグラデーションで彩られた体を持つ。体の下部にはリボンのような模様が描かれ、愛らしい印象を与える。",
+      "reason": "イヴは自然と調和する力を求めて進化し、その純粋な美しさを表現した。",
+      "thought": "『愛と平和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#6495ED' /><polygon points='200,100 140,250 260,250' fill='#4169E1' /><ellipse cx='200' cy='150' rx='90' ry='130' fill='#4682B4' /><ellipse cx='180' cy='130' rx='15' ry='10' fill='#FFFFFF' /><ellipse cx='220' cy='130' rx='15' ry='10' fill='#FFFFFF' /><line x1='180' y1='150' x2='220' y2='150' stroke='#000' stroke-width='2' /><line x1='200' y1='250' x2='200' y2='275' stroke='#000' stroke-width='2' /><line x1='140' y1='250' x2='140' y2='275' stroke='#000' stroke-width='2' /><line x1='260' y1='250' x2='260' y2='275' stroke='#000' stroke-width='2' /><polygon points='190,190 210,190 200,210' fill='#000' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(176,224,230);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(70,130,180);stop-opacity:1' /></linearGradient></defs><rect x='150' y='100' width='100' height='200' fill='url(#gradB)' /><polygon points='200,100 150,150 250,150' fill='rgb(70,130,180)' /><polygon points='150,300 250,300 200,250' fill='rgb(70,130,180)' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='rgb(135,206,235)' /><ellipse cx='160' cy='180' rx='20' ry='30' fill='rgb(0,191,255)' /><ellipse cx='240' cy='180' rx='20' ry='30' fill='rgb(0,191,255)' /><ellipse cx='200' cy='220' rx='30' ry='10' fill='rgb(0,191,255)' /><ellipse cx='200' cy='230' rx='15' ry='5' fill='rgb(0,0,0)' /><line x1='190' y1='190' x2='170' y2='190' stroke='rgb(0,0,0)' stroke-width='5' /><line x1='210' y1='190' x2='230' y2='190' stroke='rgb(0,0,0)' /></svg>",
     "report": {
-      "appearance": "アダムは、青色の立方体の体を持ち、頭部には青い三角形の鱗が並んでいます。顔は真っ直ぐで力強く、目つきは鋭くなりました。四肢は頑丈で角張った形状で、胴体には細やかな紋様が施されています。",
-      "reason": "生存競争への適応と力強さの向上のため、より堅固な姿に進化したため",
-      "thought": "『強靭な意志と力強さが宿る』"
+      "appearance": "アダムは、青と水色のグラデーションで塗られた体を持ち、力強い印象を与える。体の中央には海の波を思わせる模様が描かれ、風格を漂わせる。",
+      "reason": "アダムは力強さと知恵を兼ね備え、進化によってその深い内面を表現した。",
+      "thought": "『創造と力』"
     },
     "name": "アダム",
     "gender": "男性"
