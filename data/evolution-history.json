@@ -15162,5 +15162,28 @@
       "gender": "男性"
     },
     "timestamp": 1761222909395
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='170' cy='180' rx='30' ry='20' fill='white' /><ellipse cx='230' cy='180' rx='30' ry='20' fill='white' /><path d='M150,220 Q200,300 250,220 L150,220' fill='white' /><path d='M190,220 Q200,240 210,220' fill='black' /><path d='M170,160 Q200,130 230,160' fill='white' /><circle cx='170' cy='160' r='10' fill='black' /><circle cx='230' cy='160' r='10' fill='black' /><polygon points='180,190 195,210 185,210' fill='black' /><polygon points='220,190 205,210 215,210' fill='black' /><circle cx='190' cy='190' r='5' fill='white' /><circle cx='210' cy='190' r='5' fill='white' /><path d='M180,230 Q200,240 220,230' fill='white' /><path d='M140,230 Q200,270 260,230' fill='white' /><polygon points='160,260 170,250 210,250 220,260' fill='black' /></svg>",
+      "report": {
+        "appearance": "イヴは、ふんわりとした桃色の体に白い眼と優しい表情を持つ女性型生命体です。頭部には短い角が2本、しっぽはなめらかな曲線を描いています。手足には細かな模様がある。",
+        "reason": "生態系において、環境の変化に適応するため新たな特徴を獲得した。",
+        "thought": "『生命の美しさを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(173,216,230);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><rect x='150' y='100' width='100' height='200' fill='url(#gradB)' /><ellipse cx='200' cy='180' rx='30' ry='20' fill='white' /><path d='M170,180 Q200,130 230,180' fill='white' /><circle cx='170' cy='180' r='10' fill='black' /><circle cx='230' cy='180' r='10' fill='black' /><polyline points='185,220 170,210 220,210 205,220 185,220' fill='black' /><polygon points='190,200 195,210 185,210' fill='black' /><polygon points='210,200 205,210 215,210' fill='black' /><circle cx='190' cy='200' r='5' fill='white' /><circle cx='210' cy='200' r='5' fill='white' /><path d='M180,220 Q200,230 220,220' fill='white' /><path d='M180,260 Q200,250 220,260' fill='white' /><polygon points='160,260 170,250 210,250 220,260' fill='black' /></svg>",
+      "report": {
+        "appearance": "アダムは、涼やかな青色の体に真っ白な眼を持つ男性型生命体です。頭には角が4本生えており、しっぽは直線的で力強い形状です。手足にも細やかなデザインが施されている。",
+        "reason": "種の存続を目的とした繁殖行動に適しているため、進化の過程で新たな特徴が形成された。",
+        "thought": "『自然と調和する』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1761243795195
   }
 ]
