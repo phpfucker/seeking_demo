@@ -15139,5 +15139,28 @@
       "gender": "男性"
     },
     "timestamp": 1761200672087
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffb6c1'/><ellipse cx='200' cy='180' rx='100' ry='140' fill='#ff69b4'/><path d='M140,220 Q200,300 260,220' fill='none' stroke='#ff1493' stroke-width='10'/><polygon points='180,160 220,160 200,140' fill='#ff69b4'/><rect x='165' y='220' width='70' height='30' fill='#ff1493'/><circle cx='170' cy='190' r='10' fill='#ffffff'/><circle cx='230' cy='190' r='10' fill='#ffffff'/><circle cx='200' cy='240' r='12' fill='#ffffff'/><path d='M180,300 Q200,320 220,300' fill='none' stroke='#ffffff' stroke-width='5'/><path d='M180,260 Q200,280 220,260' fill='none' stroke='#ffffff' stroke-width='5'/><path d='M160,240 Q200,260 240,240' fill='none' stroke='#ffffff' stroke-width='5'/><text x='120' y='380' font-family='Arial' font-size='20' fill='#000000'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンクと赤の色合いを持つ美しい女性の姿をしています。体は大きな円形で、胴体は細長い楕円形です。頭部には長い髪の毛があり、手足は細くしなやかです。胴体の中央には細いストーリーが描かれ、背中には小さな翼が生えています。",
+        "reason": "イヴは自然界の鮮やかな色彩と優美な形状から影響を受け、美しさと優雅さを追求して進化しました。",
+        "thought": "『愛と美しさがすべてを生み出す』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='200' fill='#4682b4'/><polygon points='200,150 170,50 230,50' fill='#4169e1'/><circle cx='200' cy='100' r='50' fill='#4682b4'/><polygon points='180,150 220,150 200,210' fill='#4169e1'/><circle cx='180' cy='80' r='10' fill='#ffffff'/><circle cx='220' cy='80' r='10' fill='#ffffff'/><rect x='180' y='240' width='40' height='10' fill='#4169e1'/><rect x='180' y='260' width='10' height='30' fill='#4169e1'/><rect x='210' y='260' width='10' height='30' fill='#4169e1'/><text x='150' y='380' font-family='Arial' font-size='20' fill='#000000'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青と紺の色調を持つ男性の姿をしています。体は四角形で頭部は大きな円形です。手足は四角く頑丈で、胴体には細かな模様が施されています。背中には短い尾が生えており、頭部には大きな角が2本付いています。",
+        "reason": "アダムは力強さと頑丈さを象徴する形状と色合いにより、生存能力の向上を目指して進化しました。",
+        "thought": "『強さと知恵が未来を切り開く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1761222909395
   }
 ]
