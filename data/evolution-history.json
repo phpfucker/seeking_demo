@@ -15185,5 +15185,28 @@
       "gender": "男性"
     },
     "timestamp": 1761243795195
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='200' width='300' height='150' fill='#ffcc66' /><ellipse cx='200' cy='100' rx='80' ry='120' fill='#ffcc66' /><circle cx='150' cy='100' r='10' fill='#664422' /><circle cx='250' cy='100' r='10' fill='#664422' /><path d='M165 150 Q200 180 235 150' stroke='#664422' stroke-width='3' fill='none' /><polygon points='180,130 200,115 220,130' fill='#fff' /><line x1='180' y1='210' x2='220' y2='210' stroke='#664422' stroke-width='5' /><polygon points='100,200 150,240 200,200' fill='#ffcc66' /><polygon points='200,200 250,240 300,200' fill='#ffcc66' /></svg>",
+      "report": {
+        "appearance": "イヴは、全身を包む輝くオレンジ色の外皮を持ち、頭部は柔らかな楕円形で、黒い瞳が輝いています。四肢は丸みを帯びた形状で、手足には爪が備わっています。背中には黒い模様が施され、優美なしっぽが生えています。",
+        "reason": "イヴは新たな環境に適応するため、外皮の色と模様が変化し、より優れた身体的特徴を獲得しました。",
+        "thought": "『生命の力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='200' width='300' height='150' fill='#6699cc' /><ellipse cx='200' cy='100' rx='80' ry='120' fill='#6699cc' /><circle cx='150' cy='100' r='10' fill='#6688aa' /><circle cx='250' cy='100' r='10' fill='#6688aa' /><path d='M165 150 Q200 180 235 150' stroke='#6688aa' stroke-width='3' fill='none' /><polygon points='180,130 200,115 220,130' fill='#fff' /><line x1='180' y1='210' x2='220' y2='210' stroke='#6688aa' stroke-width='5' /><polygon points='100,200 150,240 200,200' fill='#6699cc' /><polygon points='200,200 250,240 300,200' fill='#6699cc' /></svg>",
+      "report": {
+        "appearance": "アダムは、鮮やかな青色の外皮を纏い、頭部は滑らかな楕円形で、深い青色の瞳が冷たく輝いています。四肢は力強い曲線を持ち、手足には鋭い爪があります。背中には白い模様が描かれ、太い角が生えています。",
+        "reason": "アダムは群れの中でのリーダーシップを強化するため、より威厳ある外観と力強い装飾を手に入れました。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1761268227004
   }
 ]
