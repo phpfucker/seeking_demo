@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccc' /><ellipse cx='200' cy='200' rx='100' ry='140' fill='#ff99cc' /><path d='M180 200 L185 240 L215 240 L220 200 Z' fill='#ff66b2' /><path d='M175 250 Q200 280 225 250' fill='none' stroke='#ff66b2' stroke-width='5' /><circle cx='165' cy='180' r='10' fill='#ffffff' /><circle cx='235' cy='180' r='10' fill='#ffffff' /><polygon points='185,220 215,220 200,240' fill='#ffffff' /><rect x='190' y='250' width='20' height='30' fill='#ff99cc' /><path d='M190 260 Q200 230 210 260 T220 260' fill='none' stroke='#ff66b2' stroke-width='3' /><line x1='180' y1='300' x2='220' y2='300' stroke='#ff66b2' stroke-width='8' /><polygon points='160,150 200,120 240,150' fill='#ff99cc' /><polygon points='180,170 200,160 220,170' fill='#ffffff' /><circle cx='200' cy='180' r='5' fill='#ff66b2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' width='400' height='400'><circle cx='200' cy='200' r='150' fill='#ffcfcc' /><ellipse cx='200' cy='150' rx='100' ry='130' fill='#ffafaf' /><polygon points='180,280 220,280 200,340' fill='#ffb2b2' /><ellipse cx='160' cy='150' rx='20' ry='30' fill='#ffafaf' /><ellipse cx='240' cy='150' rx='20' ry='30' fill='#ffafaf' /><path d='M180 250 Q200 300 220 250 Z' fill='#ff8585' /><path d='M160 200 Q200 250 240 200 Q200 220 160 200 Z' fill='#ffafaf' /><path d='M180 150 Q200 170 220 150 Q200 160 180 150 Z' fill='#ff8585' /><ellipse cx='170' cy='130' rx='10' ry='5' fill='#ffd9d6' /><ellipse cx='230' cy='130' rx='10' ry='5' fill='#ffd9d6' /><ellipse cx='180' cy='140' rx='5' ry='3' fill='#ffd9d6' /><ellipse cx='220' cy='140' rx='5' ry='3' fill='#ffd9d6' /><path d='M160 200 Q200 240 240 200 Q200 220 160 200 Z' fill='#ff8585' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかい皮膚を持ち、大きな赤い眼と黒い角を持つ美しい女性。体は楕円形で、胸元に白い斑点がある。手は白く、足はピンク色であり、背中には短いピンク色のしっぽがある。",
-      "reason": "進化が起こった理由は、生態系の変化に適応するために、イヴの柔らかな皮膚は色と柄を変え、角を装飾するようになりました。",
-      "thought": "『繊細な力』"
+      "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、赤い装飾を施された女性の姿をしています。小さな角や長いしっぽが特徴であり、優雅で美しい容姿を持っています。",
+      "reason": "イヴは自然の摂理により、女性的な特徴を強調する進化を遂げました。環境への適応と美的要素の融合が進化の理由です。",
+      "thought": "『命の尊さを感じる』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#99ccff' /><ellipse cx='200' cy='200' rx='100' ry='140' fill='#66b3ff' /><path d='M180 200 L185 240 L215 240 L220 200 Z' fill='#3385ff' /><path d='M175 250 Q200 280 225 250' fill='none' stroke='#3385ff' stroke-width='5' /><circle cx='165' cy='180' r='10' fill='#ffffff' /><circle cx='235' cy='180' r='10' fill='#ffffff' /><polygon points='185,220 215,220 200,240' fill='#ffffff' /><rect x='190' y='250' width='20' height='30' fill='#66b3ff' /><path d='M190 260 Q200 230 210 260 T220 260' fill='none' stroke='#3385ff' stroke-width='3' /><line x1='180' y1='300' x2='220' y2='300' stroke='#3385ff' stroke-width='8' /><polygon points='160,150 200,120 240,150' fill='#66b3ff' /><polygon points='180,170 200,160 220,170' fill='#ffffff' /><circle cx='200' cy='180' r='5' fill='#3385ff' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' width='400' height='400'><circle cx='200' cy='200' r='150' fill='#8cd5ff' /><rect x='170' y='150' width='60' height='80' fill='#6cb9ed' /><polygon points='180,280 220,280 200,340' fill='#79a7eb' /><ellipse cx='160' cy='150' rx='20' ry='30' fill='#6cb9ed' /><ellipse cx='240' cy='150' rx='20' ry='30' fill='#6cb9ed' /><path d='M180 250 Q200 300 220 250 Z' fill='#4d9be6' /><path d='M160 200 Q200 250 240 200 Q200 220 160 200 Z' fill='#6cb9ed' /><path d='M180 150 Q200 170 220 150 Q200 160 180 150 Z' fill='#4d9be6' /><polygon points='190,130 210,130 200,120' fill='#a6d1ff' /><path d='M160 200 Q200 240 240 200 Q200 220 160 200 Z' fill='#4d9be6' /></svg>",
     "report": {
-      "appearance": "アダムは、青色の滑らかな皮膚を持ち、大きな青い眼と白い角を持つ美しい男性。体は楕円形で、胸元に白いストライプがある。手は白く、足は青色であり、背中には短い青いしっぽがある。",
-      "reason": "進化が起こった理由は、環境の変化に合わせて、アダムの皮膚が色と模様を変え、角が白くなりました。",
-      "thought": "『情熱の炎』"
+      "appearance": "アダムは、青色の体に水色の胴体を持ち、男性らしい力強い外見をしています。四角い角や短いしっぽが特徴であり、力強さと知性を併せ持っています。",
+      "reason": "アダムは狩猟や生存競争において男性的な特徴を発展させた進化を遂げました。生存能力の向上と繁殖成功への適応が進化の理由です。",
+      "thought": "『未来に向かって進化する』"
     },
     "name": "アダム",
     "gender": "男性"
