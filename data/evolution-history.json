@@ -15254,5 +15254,28 @@
       "gender": "男性"
     },
     "timestamp": 1761309321325
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff66a3' /><rect x='140' y='200' width='120' height='160' fill='#ff99cc' /><ellipse cx='200' cy='120' rx='60' ry='40' fill='#ff3399' /><polygon points='160,160 200,120 240,160' fill='#ff66a3' /><line x1='170' y1='260' x2='230' y2='260' stroke='#ff3399' stroke-width='10' /><path d='M160 200 Q200 240 240 200 Q200 240 160 200' fill='#ff3399' /><circle cx='170' cy='190' r='10' fill='#ff99cc' /><circle cx='230' cy='190' r='10' fill='#ff99cc' /><circle cx='200' cy='120' r='5' fill='#fff' /><path d='M170 300 Q200 340 230 300' stroke='#ff3399' stroke-width='8' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の大きな円形の体に、紫色の四角い服を着た女性の姿をしています。頭部は赤い楕円形で、顔にはピンク色の三角形の模様があります。手足は赤とピンクのグラデーションで描かれ、手には青い爪があります。しっぽは紫色の線で描かれています。",
+        "reason": "イヴは、より洗練された色合いと特徴的な模様を持つように進化しました。これにより、生存競争において他の生命体からの識別が容易になりました。",
+        "thought": "『宇宙の創造者』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#0099cc' /><rect x='140' y='200' width='120' height='160' fill='#66ccff' /><ellipse cx='200' cy='120' rx='60' ry='40' fill='#006699' /><polygon points='160,160 200,120 240,160' fill='#0099cc' /><line x1='160' y1='270' x2='240' y2='270' stroke='#006699' stroke-width='10' /><path d='M160 200 Q200 240 240 200 Q200 240 160 200' fill='#006699' /><circle cx='170' cy='190' r='10' fill='#66ccff' /><circle cx='230' cy='190' r='10' fill='#66ccff' /><circle cx='200' cy='120' r='5' fill='#fff' /><path d='M160 300 Q200 340 240 300' stroke='#006699' stroke-width='8' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の大きな円形の体に、水色の四角い服を着た男性の姿をしています。頭部は濃紺色の楕円形で、顔には青色の三角形の模様があります。手足は濃紺と水色のグラデーションで描かれ、手には白い爪があります。しっぽは水色の線で描かれています。",
+        "reason": "アダムは、より洗練された色合いと特徴的な模様を持つように進化しました。これにより、生存競争において他の生命体からの識別が容易になりました。",
+        "thought": "『宇宙の秩序』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1761330151160
   }
 ]
