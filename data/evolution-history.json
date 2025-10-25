@@ -15277,5 +15277,28 @@
       "gender": "男性"
     },
     "timestamp": 1761330151160
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#FFD700'/><circle cx='200' cy='100' r='80' fill='#FFE4B5'/><ellipse cx='150' cy='300' rx='30' ry='20' fill='#FFD700'/><ellipse cx='250' cy='300' rx='30' ry='20' fill='#FFD700'/><path d='M200 230 Q180 260 200 290 Q220 260 200 230 Z' fill='#FF6347'/><polygon points='180,150 220,150 200,130' fill='#FF6347'/><line x1='170' y1='180' x2='230' y2='180' stroke='#000' stroke-width='2'/><line x1='160' y1='120' x2='140' y2='90' stroke='#000' stroke-width='2'/><line x1='240' y1='120' x2='260' y2='90' stroke='#000' stroke-width='2'/><line x1='170' y1='300' x2='150' y2='330' stroke='#000' stroke-width='2'/><line x1='230' y1='300' x2='250' y2='330' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、輝く金色の肌を持ち、大きな茶色の瞳が特徴です。頭部には淡いピンクの角が2本生えており、柔らかいオレンジ色の髪が背中まで流れます。全身には金色の斑点が散りばめられています。",
+        "reason": "イヴの進化は、自然との調和を求める姿勢から生じました。金色の輝きは、生命の尊さと調和への尊重を象徴しています。",
+        "thought": "『平和と調和が尊い』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#4682B4'/><circle cx='200' cy='100' r='80' fill='#87CEFA'/><ellipse cx='150' cy='300' rx='30' ry='20' fill='#4682B4'/><ellipse cx='250' cy='300' rx='30' ry='20' fill='#4682B4'/><path d='M200 230 Q180 260 200 290 Q220 260 200 230 Z' fill='#CD5C5C'/><polygon points='180,150 220,150 200,130' fill='#CD5C5C'/><line x1='170' y1='180' x2='230' y2='180' stroke='#000' stroke-width='2'/><line x1='160' y1='120' x2='140' y2='90' stroke='#000' stroke-width='2'/><line x1='240' y1='120' x2='260' y2='90' stroke='#000' stroke-width='2'/><line x1='170' y1='300' x2='150' y2='330' stroke='#000' stroke-width='2'/><line x1='230' y1='300' x2='250' y2='330' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、冷たい青色の肌を持ち、深い青の瞳が特徴です。丸みを帯びた頭部には鋭い角が2本生えており、氷のような白銀色の髪が頭上に輝きます。体表には青と赤のグラデーションの模様が広がっています。",
+        "reason": "アダムの進化は、知識と力強さを兼ね備えた姿として現れました。青色と赤色の対比は、知恵と情熱の統合を象徴しています。",
+        "thought": "『知恵と力、両方を持ちたい』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1761354696873
   }
 ]
