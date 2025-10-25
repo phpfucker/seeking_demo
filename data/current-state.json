@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99'/><ellipse cx='200' cy='240' rx='100' ry='120' fill='#ffd699'/><rect x='150' y='250' width='100' height='50' fill='#ffaa66'/><path d='M200,200 L180,220 L220,220 Z' fill='#ff9966'/><line x1='170' y1='220' x2='230' y2='220' stroke='#996633' stroke-width='3'/><polygon points='190,220 210,220 200,230' fill='#ffcc99'/><path d='M180,180 Q200,150 220,180 Q200,200 180,180 Z' fill='#ff9966'/><ellipse cx='175' cy='250' rx='10' ry='8' fill='#996633'/><ellipse cx='225' cy='250' rx='10' ry='8' fill='#996633'/><path d='M200,240 L190,260 L210,260 Z' fill='#996633'/><path d='M200,240 L195,255 L205,255 Z' fill='#996633'/><path d='M200,240 L197,252 L203,252 Z' fill='#996633'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,201,164);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(254,113,170);stop-opacity:1' /></linearGradient></defs><rect x='100' y='210' width='200' height='160' fill='url(#gradA)' /><ellipse cx='200' cy='130' rx='80' ry='100' fill='url(#gradA)' /><circle cx='160' cy='150' r='10' fill='#FFFFFF' /><circle cx='240' cy='150' r='10' fill='#FFFFFF' /><path d='M160 200 Q190 220 220 200' stroke='#000' stroke-width='2' fill='none' /><path d='M170 250 Q200 280 230 250' stroke='#000' stroke-width='2' fill='none' /><circle cx='200' cy='300' r='8' fill='black' /><rect x='180' y='300' width='40' height='20' fill='black' /><polygon points='180,210 220,210 200,230' fill='white' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンクとオレンジの温かみのある色合いの肌を持ち、柔らかな表情と細長い体が特徴です。頭部には小さな角があり、優雅な雰囲気を醸し出しています。",
-      "reason": "イヴは新たな生態系に適応し、より美しく優雅な容姿を手に入れることで、仲間や環境との調和を深めた。",
-      "thought": "『調和』"
+      "appearance": "イヴは、ピンクとオレンジのグラデーションが美しい女性の姿をしています。体は楕円形の柔らかな曲線で描かれ、顔にはやさしい微笑みが浮かんでいます。ピンクと白の斑点が体に散りばめられ、優雅な雰囲気を醸し出しています。",
+      "reason": "イヴは新たな進化を遂げ、より美しく魅力的な姿に変化しました。この進化は、環境の安定と個体の健康を示すために起こりました。",
+      "thought": "『やさしい光が射す世界』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#99ccff'/><ellipse cx='200' cy='240' rx='100' ry='120' fill='#99d6ff'/><rect x='150' y='250' width='100' height='50' fill='#668cff'/><path d='M200,200 L180,220 L220,220 Z' fill='#6699ff'/><line x1='170' y1='220' x2='230' y2='220' stroke='#336699' stroke-width='3'/><polygon points='190,220 210,220 200,230' fill='#99ccff'/><path d='M180,180 Q200,150 220,180 Q200,200 180,180 Z' fill='#6699ff'/><ellipse cx='175' cy='250' rx='10' ry='8' fill='#336699'/><ellipse cx='225' cy='250' rx='10' ry='8' fill='#336699'/><path d='M200,240 L190,260 L210,260 Z' fill='#336699'/><path d='M200,240 L195,255 L205,255 Z' fill='#336699'/><path d='M200,240 L197,252 L203,252 Z' fill='#336699'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(109,207,246);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(77,101,181);stop-opacity:1' /></linearGradient></defs><rect x='100' y='210' width='200' height='160' fill='url(#gradB)' /><ellipse cx='200' cy='120' rx='90' ry='110' fill='url(#gradB)' /><circle cx='160' cy='155' r='12' fill='#FFFFFF' /><circle cx='240' cy='155' r='12' fill='#FFFFFF' /><path d='M160 200 Q190 220 220 200' stroke='#000' stroke-width='2' fill='none' /><path d='M170 250 Q200 280 230 250' stroke='#000' stroke-width='2' fill='none' /><circle cx='200' cy='300' r='10' fill='black' /><polygon points='180,210 220,210 200,230' fill='white' /></svg>",
     "report": {
-      "appearance": "アダムは、青と紫の清涼感のある肌を持ち、力強い体つきと鋭い特徴が目立ちます。頭部には逞しい角があり、凛々しい雰囲気を醸し出しています。",
-      "reason": "アダムは環境の変化により、より強靭で力強い外観を手に入れ、生存競争において優位性を獲得した。",
-      "thought": "『進化』"
+      "appearance": "アダムは、青と水色のグラデーションが美しい男性の姿をしています。体は力強い楕円形で表現され、顔には凛とした表情が宿っています。青と白の斑点が体に散りばめられ、知性と威風堂々とした風格を放っています。",
+      "reason": "アダムは新たな進化を遂げ、より知性と力強さを備えた姿に変化しました。この進化は、狩猟や知識の獲得に適応するために起こりました。",
+      "thought": "『未知の領域への探究』"
     },
     "name": "アダム",
     "gender": "男性"

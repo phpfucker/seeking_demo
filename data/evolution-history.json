@@ -15300,5 +15300,28 @@
       "gender": "男性"
     },
     "timestamp": 1761354696873
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99'/><ellipse cx='200' cy='240' rx='100' ry='120' fill='#ffd699'/><rect x='150' y='250' width='100' height='50' fill='#ffaa66'/><path d='M200,200 L180,220 L220,220 Z' fill='#ff9966'/><line x1='170' y1='220' x2='230' y2='220' stroke='#996633' stroke-width='3'/><polygon points='190,220 210,220 200,230' fill='#ffcc99'/><path d='M180,180 Q200,150 220,180 Q200,200 180,180 Z' fill='#ff9966'/><ellipse cx='175' cy='250' rx='10' ry='8' fill='#996633'/><ellipse cx='225' cy='250' rx='10' ry='8' fill='#996633'/><path d='M200,240 L190,260 L210,260 Z' fill='#996633'/><path d='M200,240 L195,255 L205,255 Z' fill='#996633'/><path d='M200,240 L197,252 L203,252 Z' fill='#996633'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとオレンジの温かみのある色合いの肌を持ち、柔らかな表情と細長い体が特徴です。頭部には小さな角があり、優雅な雰囲気を醸し出しています。",
+        "reason": "イヴは新たな生態系に適応し、より美しく優雅な容姿を手に入れることで、仲間や環境との調和を深めた。",
+        "thought": "『調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#99ccff'/><ellipse cx='200' cy='240' rx='100' ry='120' fill='#99d6ff'/><rect x='150' y='250' width='100' height='50' fill='#668cff'/><path d='M200,200 L180,220 L220,220 Z' fill='#6699ff'/><line x1='170' y1='220' x2='230' y2='220' stroke='#336699' stroke-width='3'/><polygon points='190,220 210,220 200,230' fill='#99ccff'/><path d='M180,180 Q200,150 220,180 Q200,200 180,180 Z' fill='#6699ff'/><ellipse cx='175' cy='250' rx='10' ry='8' fill='#336699'/><ellipse cx='225' cy='250' rx='10' ry='8' fill='#336699'/><path d='M200,240 L190,260 L210,260 Z' fill='#336699'/><path d='M200,240 L195,255 L205,255 Z' fill='#336699'/><path d='M200,240 L197,252 L203,252 Z' fill='#336699'/></svg>",
+      "report": {
+        "appearance": "アダムは、青と紫の清涼感のある肌を持ち、力強い体つきと鋭い特徴が目立ちます。頭部には逞しい角があり、凛々しい雰囲気を醸し出しています。",
+        "reason": "アダムは環境の変化により、より強靭で力強い外観を手に入れ、生存競争において優位性を獲得した。",
+        "thought": "『進化』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1761373291007
   }
 ]
