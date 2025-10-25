@@ -15346,5 +15346,28 @@
       "gender": "男性"
     },
     "timestamp": 1761395371737
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='150' rx='120' ry='80' fill='#f2c4b9'/> <rect x='160' y='230' width='80' height='30' fill='#f7c6c5'/> <rect x='160' y='270' width='20' height='40' fill='#f7c6c5'/> <rect x='220' y='270' width='20' height='40' fill='#f7c6c5'/> <path d='M180,180 Q200,120 220,180' fill='none' stroke='#e59c92' stroke-width='5'/> <path d='M160,120 Q200,80 240,120' fill='none' stroke='#e59c92' stroke-width='5'/> <path d='M180,200 Q200,240 220,200' fill='none' stroke='#e59c92' stroke-width='5'/> <circle cx='180' cy='170' r='10' fill='#000'/> <circle cx='220' cy='170' r='10' fill='#000'/> <line x1='190' y1='190' x2='210' y2='190' stroke='#000' stroke-width='3'/><line x1='178' y1='230' x2='178' y2='200' stroke='#000' stroke-width='3'/><line x1='222' y1='230' x2='222' y2='200' stroke='#000' stroke-width='3'/><path d='M190,160 Q200,140 210,160' fill='none' stroke='#000' stroke-width='3'/><path d='M190,150 Q200,140 210,150' fill='none' stroke='#000' stroke-width='3'/><path d='M190,140 Q200,150 210,140' fill='none' stroke='#000' stroke-width='3'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、大きな瞳と柔らかな表情が特徴の女性型生命体です。体のラインは滑らかで、優雅な雰囲気を漂わせます。",
+        "reason": "生命の進化において、環境の変化や遺伝子の適応により、より優れた美しさと知性を持つ新たな存在が誕生したためです。",
+        "thought": "『愛と知恵』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><polygon points='170,150 230,150 200,100' fill='#87ceeb'/><ellipse cx='200' cy='150' rx='120' ry='80' fill='#7fc1ff'/> <rect x='180' y='230' width='40' height='30' fill='#7ec8ff'/> <rect x='185' y='260' width='30' height='40' fill='#7ec8ff'/> <path d='M180,180 Q200,120 220,180' fill='none' stroke='#5282be' stroke-width='5'/> <path d='M160,120 Q200,80 240,120' fill='none' stroke='#5282be' stroke-width='5'/> <path d='M180,200 Q200,240 220,200' fill='none' stroke='#5282be' stroke-width='5'/> <circle cx='180' cy='170' r='10' fill='#000'/> <circle cx='220' cy='170' r='10' fill='#000'/> <line x1='190' y1='190' x2='210' y2='190' stroke='#000' stroke-width='3'/><line x1='178' y1='230' x2='178' y2='200' stroke='#000' stroke-width='3'/><line x1='222' y1='230' x2='222' y2='200' stroke='#000' stroke-width='3'/><path d='M190,160 Q200,140 210,160' fill='none' stroke='#000' stroke-width='3'/><path d='M190,150 Q200,140 210,150' fill='none' stroke='#000' stroke-width='3'/><path d='M190,140 Q200,150 210,140' fill='none' stroke='#000' stroke-width='3'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体と鋭い視線を持つ男性型生命体です。頭部には角があり、凛とした風格を漂わせています。",
+        "reason": "進化の過程で、より強靭な外見と知性を兼ね備えた新たな生命体へと変化したためです。",
+        "thought": "『力と知恵』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1761416410372
   }
 ]
