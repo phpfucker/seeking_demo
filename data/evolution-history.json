@@ -15369,5 +15369,28 @@
       "gender": "男性"
     },
     "timestamp": 1761416410372
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffb6c1'/><ellipse cx='200' cy='200' rx='120' ry='160' fill='#ffc0cb'/><rect x='140' y='120' width='120' height='100' fill='#ff69b4'/><rect x='160' y='220' width='80' height='40' fill='#ff69b4'/><path d='M220 230 L240 220 L260 230 Z' fill='#ff69b4'/><path d='M180 230 L160 220 L140 230 Z' fill='#ff69b4'/><line x1='190' y1='180' x2='210' y2='180' stroke='#000' stroke-width='2'/><line x1='190' y1='210' x2='210' y2='210' stroke='#000' stroke-width='2'/><polygon points='200,190 220,200 200,210' fill='#fff'/><rect x='180' y='140' width='40' height='20' fill='#ff69b4'/><rect x='180' y='200' width='40' height='20' fill='#ff69b4'/><polygon points='200,240 220,250 200,260 180,250' fill='#fff'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクの柔らかな体色を持ち、体の一部に薄い赤色をアクセントとして配置した女性的な特徴を持つ。体は楕円形であり、体表には複数の細かいパーツが存在する。",
+        "reason": "イヴはより優雅で洗練された外見を求め、進化の過程で体色や形状が変化した。",
+        "thought": "『優しさと美しさがこの姿を彩る』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6'/><ellipse cx='200' cy='200' rx='120' ry='160' fill='#b0e0e6'/><rect x='140' y='120' width='120' height='100' fill='#4682b4'/><rect x='160' y='220' width='80' height='40' fill='#4682b4'/><path d='M220 230 L240 220 L260 230 Z' fill='#4682b4'/><path d='M180 230 L160 220 L140 230 Z' fill='#4682b4'/><line x1='190' y1='180' x2='210' y2='180' stroke='#000' stroke-width='2'/><line x1='190' y1='210' x2='210' y2='210' stroke='#000' stroke-width='2'/><polygon points='200,190 220,200 200,210' fill='#fff'/><rect x='180' y='140' width='40' height='20' fill='#4682b4'/><rect x='180' y='200' width='40' height='20' fill='#4682b4'/><polygon points='200,240 220,250 200,260 180,250' fill='#fff'/></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色の爽やかな体色を持ち、体の一部に濃い青色を配した男性的な特徴を持つ。体の形状は楕円形であり、複数のパーツが組み合わさっている。",
+        "reason": "アダムはより力強く鮮やかな外見を求め、進化の結果、体色やパーツ配置が変化した。",
+        "thought": "『強さと誇りを秘めし麗しき姿』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1761441517172
   }
 ]

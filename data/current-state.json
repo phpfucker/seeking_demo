@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffb6c1'/><ellipse cx='200' cy='200' rx='120' ry='160' fill='#ffc0cb'/><rect x='140' y='120' width='120' height='100' fill='#ff69b4'/><rect x='160' y='220' width='80' height='40' fill='#ff69b4'/><path d='M220 230 L240 220 L260 230 Z' fill='#ff69b4'/><path d='M180 230 L160 220 L140 230 Z' fill='#ff69b4'/><line x1='190' y1='180' x2='210' y2='180' stroke='#000' stroke-width='2'/><line x1='190' y1='210' x2='210' y2='210' stroke='#000' stroke-width='2'/><polygon points='200,190 220,200 200,210' fill='#fff'/><rect x='180' y='140' width='40' height='20' fill='#ff69b4'/><rect x='180' y='200' width='40' height='20' fill='#ff69b4'/><polygon points='200,240 220,250 200,260 180,250' fill='#fff'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><circle cx='200' cy='150' r='50' fill='#ff9999'/><circle cx='160' cy='150' r='10' fill='#ffffff'/><circle cx='240' cy='150' r='10' fill='#ffffff'/><path d='M200 200 Q180 220 200 240 Q220 220 200 200' fill='#ff9999'/><ellipse cx='170' cy='270' rx='20' ry='10' fill='#ff9999'/><ellipse cx='230' cy='270' rx='20' ry='10' fill='#ff9999'/><line x1='180' y1='250' x2='220' y2='250' stroke='#000' stroke-width='2'/><path d='M150 300 Q200 350 250 300 Q200 320 150 300' fill='none' stroke='#ff9999' stroke-width='3'/><line x1='150' y1='300' x2='130' y2='310' stroke='#ff9999' stroke-width='3'/><line x1='250' y1='300' x2='270' y2='310' stroke='#ff9999' stroke-width='3'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンクの柔らかな体色を持ち、体の一部に薄い赤色をアクセントとして配置した女性的な特徴を持つ。体は楕円形であり、体表には複数の細かいパーツが存在する。",
-      "reason": "イヴはより優雅で洗練された外見を求め、進化の過程で体色や形状が変化した。",
-      "thought": "『優しさと美しさがこの姿を彩る』"
+      "appearance": "イヴは、ピンク色の柔らかな体に赤い顔と白い瞳を持つ女性の姿をしています。顔には丸い頬と小さな口があり、しなやかな尾と四本の足が特徴です。",
+      "reason": "進化の理由は、自然界の色彩と柔らかな形状が調和し、生命体の特徴を強調するためです。",
+      "thought": "『豊かな色合いと柔らかな形状が私の内面を表しています』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6'/><ellipse cx='200' cy='200' rx='120' ry='160' fill='#b0e0e6'/><rect x='140' y='120' width='120' height='100' fill='#4682b4'/><rect x='160' y='220' width='80' height='40' fill='#4682b4'/><path d='M220 230 L240 220 L260 230 Z' fill='#4682b4'/><path d='M180 230 L160 220 L140 230 Z' fill='#4682b4'/><line x1='190' y1='180' x2='210' y2='180' stroke='#000' stroke-width='2'/><line x1='190' y1='210' x2='210' y2='210' stroke='#000' stroke-width='2'/><polygon points='200,190 220,200 200,210' fill='#fff'/><rect x='180' y='140' width='40' height='20' fill='#4682b4'/><rect x='180' y='200' width='40' height='20' fill='#4682b4'/><polygon points='200,240 220,250 200,260 180,250' fill='#fff'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#add8e6'/><circle cx='200' cy='150' r='50' fill='#6a5acd'/><circle cx='180' cy='150' r='10' fill='#ffffff'/><circle cx='220' cy='150' r='10' fill='#ffffff'/><path d='M200 200 Q180 220 200 240 Q220 220 200 200' fill='#6a5acd'/><polygon points='180,270 200,250 220,270' fill='#6a5acd'/><line x1='180' y1='250' x2='220' y2='250' stroke='#000' stroke-width='2'/><path d='M150 300 Q200 350 250 300 Q200 320 150 300' fill='none' stroke='#6a5acd' stroke-width='3'/><line x1='150' y1='300' x2='130' y2='310' stroke='#6a5acd' stroke-width='3'/><line x1='250' y1='300' x2='270' y2='310' stroke='#6a5acd' stroke-width='3'/></svg>",
     "report": {
-      "appearance": "アダムは、青と水色の爽やかな体色を持ち、体の一部に濃い青色を配した男性的な特徴を持つ。体の形状は楕円形であり、複数のパーツが組み合わさっている。",
-      "reason": "アダムはより力強く鮮やかな外見を求め、進化の結果、体色やパーツ配置が変化した。",
-      "thought": "『強さと誇りを秘めし麗しき姿』"
+      "appearance": "アダムは、青と紫の色合いで構成された体に紫色の顔と白い瞳を持つ男性の姿をしています。顔には力強い目元と口があり、しなやかな尾と四本の足が特徴です。",
+      "reason": "進化が起こった理由は、色調のバランスと形状の調和が生命体の個性を際立たせるためです。",
+      "thought": "『青と紫の色調が私の内面を反映しています』"
     },
     "name": "アダム",
     "gender": "男性"
