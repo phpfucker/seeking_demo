@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink'/><ellipse cx='150' cy='200' rx='20' ry='40' fill='lightpink'/><ellipse cx='250' cy='200' rx='20' ry='40' fill='lightpink'/><path d='M180 250 Q200 280 220 250' fill='none' stroke='black'/><path d='M170 250 Q200 290 230 250' fill='none' stroke='black'/><path d='M150 250 Q200 320 250 250' fill='none' stroke='black'/><path d='M180 210 Q200 180 220 210' fill='none' stroke='black'/><path d='M190 190 Q200 170 210 190' fill='none' stroke='black'/><path d='M160 190 Q200 120 240 190' fill='none' stroke='black'/><polygon points='180,190 220,190 200,160' fill='white'/><circle cx='180' cy='190' r='5' fill='black'/><circle cx='220' cy='190' r='5' fill='black'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><circle cx='200' cy='200' r='150' fill='#ffdbcf'/><ellipse cx='140' cy='160' rx='30' ry='20' fill='#ffd3c9'/><ellipse cx='260' cy='160' rx='30' ry='20' fill='#ffd3c9'/><path d='M180 220 Q200 240 220 220' stroke='#ffbdb1' stroke-width='5' fill='none'/><path d='M220 220 Q240 240 260 220' stroke='#ffbdb1' stroke-width='5' fill='none'/><ellipse cx='200' cy='200' rx='20' ry='10' fill='#ffbdb1'/><circle cx='170' cy='180' r='10' fill='#000'/><circle cx='230' cy='180' r='10' fill='#000'/><path d='M180 240 Q200 260 220 240' stroke='#000' stroke-width='2' fill='none'/><path d='M220 240 Q240 260 260 240' stroke='#000' stroke-width='2' fill='none'/><path d='M160 150 Q200 120 240 150' stroke='#000' stroke-width='2' fill='none'/><path d='M160 250 Q200 280 240 250' stroke='#000' stroke-width='2' fill='none'/></g></svg>",
     "report": {
-      "appearance": "イヴはピンク色の体を持ち、上品な薄桃色の眼を持つ。頭部には長いピンクの角があり、優美な曲線の体つきをしている。手足は細長く、柔らかなラインで描かれている。",
-      "reason": "進化が起こった理由は、生態系の変化に合わせて、イヴの外見が柔らかく優雅に進化したため。",
-      "thought": "『宇宙の力を感じる』"
+      "appearance": "イヴは、ピンク色の柔らかな肌を持つ女性型生命体です。全体的に優しい雰囲気を醸し出し、顔には丸い赤ちゃんのような目を持っています。手と足には薄いピンク色の蹄があり、しっぽは短くてふんわりとした毛で覆われています。",
+      "reason": "イヴは、新しい環境でより柔らかく美しい外観を持つことで、周囲との調和を求める進化を遂げました。",
+      "thought": "『愛と平和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='lightblue'/><ellipse cx='150' cy='100' rx='20' ry='40' fill='blue'/><ellipse cx='250' cy='100' rx='20' ry='40' fill='blue'/><path d='M180 250 Q200 280 220 250' fill='none' stroke='black'/><path d='M170 250 Q200 290 230 250' fill='none' stroke='black'/><path d='M150 250 Q200 320 250 250' fill='none' stroke='black'/><path d='M180 210 Q200 180 220 210' fill='none' stroke='black'/><path d='M190 190 Q200 170 210 190' fill='none' stroke='black'/><path d='M160 190 Q200 120 240 190' fill='none' stroke='black'/><polygon points='180,190 220,190 200,160' fill='white'/><circle cx='180' cy='190' r='5' fill='black'/><circle cx='220' cy='190' r='5' fill='black'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><rect x='150' y='100' width='100' height='180' fill='#b8e6e6'/><circle cx='170' cy='100' r='20' fill='#ffd3c9'/><circle cx='230' cy='100' r='20' fill='#ffd3c9'/><path d='M170 220 Q190 240 210 220' stroke='#ffbdb1' stroke-width='5' fill='none'/><path d='M210 220 Q230 240 250 220' stroke='#ffbdb1' stroke-width='5' fill='none'/><ellipse cx='190' cy='200' rx='20' ry='10' fill='#ffbdb1'/><ellipse cx='210' cy='200' rx='20' ry='10' fill='#ffbdb1'/><polygon points='150,280 100,300 100,260' fill='#ffe0bd'/><polygon points='250,280 300,300 300,260' fill='#ffe0bd'/><path d='M200 220 Q200 250 200 280' stroke='#000' stroke-width='2' fill='none'/><polyline points='170,260 200,240 230,260' fill='none' stroke='#000' stroke-width='2'/></g></svg>",
     "report": {
-      "appearance": "アダムは青い体を持ち、頭部には深い青の角がある。体は四角い形状で、力強さを感じさせる。手足は太くて頑丈で、青色の筋肉質な外観をしている。",
-      "reason": "進化は、アダムが環境に適応し、より力強く生存競争に勝つために筋肉質で頑強な体つきに進化したため。",
-      "thought": "『未来への強さ』"
+      "appearance": "アダムは、青緑色の肌を持つ男性型生命体です。全身に水のような透明感があり、体の輪郭がはっきりとしています。顔には鋭い目と長い角、手足には青い鱗があり、しっぽは波のような形状をしています。",
+      "reason": "アダムは、新たな環境でより適応力を高め、シャープで透明感のある外観へと進化しました。",
+      "thought": "『自然の力』"
     },
     "name": "アダム",
     "gender": "男性"
