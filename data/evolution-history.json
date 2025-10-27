@@ -15530,5 +15530,28 @@
       "gender": "男性"
     },
     "timestamp": 1761568516416
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#FFD700'/><circle cx='200' cy='100' r='80' fill='#FFD700'/><path d='M150,250 L125,300 L175,300 Z' fill='#FFD700'/><path d='M250,250 L225,300 L275,300 Z' fill='#FFD700'/><ellipse cx='160' cy='190' rx='20' ry='15' fill='#FF6347'/><ellipse cx='240' cy='190' rx='20' ry='15' fill='#FF6347'/><circle cx='185' cy='105' r='5' fill='#000000'/><circle cx='215' cy='105' r='5' fill='#000000'/><path d='M180,140 Q200,160 220,140' fill='none' stroke='#000000'/><polygon points='175,150 225,150 200,175' fill='#FFFFFF'/><polygon points='200,175 175,175 188,195' fill='#FFFFFF'/><polygon points='200,175 225,175 212,195' fill='#FFFFFF'/></svg>",
+      "report": {
+        "appearance": "イヴは、全身を金色の鱗に覆われた美しい女性です。頭部には赤い眼と角があり、体の一部に赤い模様があります。四肢は人間のような形状を持ち、しっぽがあります。",
+        "reason": "イヴは環境の変化に適応するため、美しい金色の鱗と赤い模様を持つ新たな特徴が進化しました。",
+        "thought": "『調和と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#4682B4'/><circle cx='200' cy='100' r='80' fill='#4682B4'/><path d='M150,250 L125,300 L175,300 Z' fill='#4682B4'/><path d='M250,250 L225,300 L275,300 Z' fill='#4682B4'/><ellipse cx='160' cy='190' rx='20' ry='15' fill='#8B4513'/><ellipse cx='240' cy='190' rx='20' ry='15' fill='#8B4513'/><circle cx='185' cy='105' r='5' fill='#000000'/><circle cx='215' cy='105' r='5' fill='#000000'/><line x1='180' y1='140' x2='220' y2='140' stroke='#000000' stroke-width='2'/><polygon points='175,150 225,150 200,175' fill='#FFA07A'/><polygon points='200,175 175,175 188,195' fill='#FFA07A'/><polygon points='200,175 225,175 212,195' fill='#FFA07A'/></svg>",
+      "report": {
+        "appearance": "アダムは、全身を青い鱗に覆われた男性です。頭部には茶色の眼と角があり、体の一部に肌色の模様があります。四肢は人間のような形状を持ち、しっぽがあります。",
+        "reason": "アダムは環境の変化に適応するため、青い鱗と肌色の模様を持つ新たな特徴が進化しました。",
+        "thought": "『力強さと調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1761589429515
   }
 ]
