@@ -15553,5 +15553,28 @@
       "gender": "男性"
     },
     "timestamp": 1761589429515
+  },
+  {
+    "entityA": {
+      "svg": "<svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='250' rx='80' ry='100' fill='#ffdab9'/><ellipse cx='160' cy='220' rx='20' ry='30' fill='#ffc0cb'/><ellipse cx='240' cy='220' rx='20' ry='30' fill='#ffc0cb'/><path d='M180 290 Q200 320 220 290' stroke='#000' fill='none'/><polygon points='180,170 220,170 200,140' fill='#fff'/><polygon points='120,140 140,140 130,120' fill='#fff'/><polygon points='260,140 280,140 270,120' fill='#fff'/><polygon points='180,290 220,290 200,320' fill='#fff'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体にオレンジ色の長い髪を持ち、体の輪郭が柔らかな女性の特徴を備えています。顔には二つのピンク色のほっぺたがあり、柔らかな表情をしています。両手には白い羽が生えており、足は軽やかな動きをする細い足となっています。",
+        "reason": "イヴは、自然の力から生まれ、生命の源泉を象徴するような優美で美しい姿となりました。",
+        "thought": "『調和と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#b0e0e6'/><ellipse cx='200' cy='250' rx='80' ry='100' fill='#4682b4'/><ellipse cx='160' cy='220' rx='20' ry='30' fill='#dda0dd'/><ellipse cx='240' cy='220' rx='20' ry='30' fill='#dda0dd'/><path d='M180 290 Q200 320 220 290' stroke='#000' fill='none'/><polygon points='180,170 220,170 200,140' fill='#fff'/><polygon points='120,140 140,140 130,120' fill='#fff'/><polygon points='260,140 280,140 270,120' fill='#fff'/><polygon points='180,290 220,290 200,320' fill='#fff'/></svg>",
+      "report": {
+        "appearance": "アダムは、水色の体に紺色の短い髪を持ち、体の輪郭が力強い男性の特徴を備えています。顔には二つの青色のほっぺたがあり、凛々しい表情をしています。両手には青い鱗が覆われ、足は力強い歩みをする太い足となっています。",
+        "reason": "アダムは、自然の厳しさと強さから生まれ、生命の意志を表すような力強い姿となりました。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1761613970639
   }
 ]
