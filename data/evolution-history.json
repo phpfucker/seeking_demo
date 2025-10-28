@@ -15622,5 +15622,28 @@
       "gender": "男性"
     },
     "timestamp": 1761654832776
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='150' rx='100' ry='130' fill='#ff90b3' /><path d='M200,280 L160,330 L240,330 Z' fill='#ff80a0' /><circle cx='160' cy='150' r='25' fill='#ff80a0' /><circle cx='240' cy='150' r='25' fill='#ff80a0' /><path d='M190,145 Q200,120 210,145 Z' fill='#fff' /><rect x='185' y='180' width='30' height='90' fill='#ff80a0' /><rect x='165' y='260' width='10' height='40' fill='#ff80a0' /><rect x='225' y='260' width='10' height='40' fill='#ff80a0' /><line x1='150' y1='240' x2='160' y2='240' stroke='#fff' stroke-width='2' /><line x1='240' y1='240' x2='250' y2='240' stroke='#fff' stroke-width='2' /><polygon points='200,160 190,170 210,170' fill='#fff' /><polygon points='190,180 180,200 200,190' fill='#fff' /><polygon points='210,180 220,200 200,190' fill='#fff' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の細長い体に白い顔と手足、ピンクの装飾を持つ女性の生命体です。顔には大きな目と小さな口があり、背中には翼のような形状の模様があります。",
+        "reason": "進化の過程で、イヴは華やかな色使いと独自の模様を持つようになり、美しさと優雅さが強調されました。",
+        "thought": "『愛と美しさが世界を彩る』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='150' rx='100' ry='130' fill='#80b3ff' /><path d='M200,280 L160,330 L240,330 Z' fill='#6699ff' /><rect x='185' y='180' width='30' height='90' fill='#6699ff' /><rect x='165' y='260' width='10' height='40' fill='#6699ff' /><rect x='225' y='260' width='10' height='40' fill='#6699ff' /><line x1='150' y1='240' x2='160' y2='240' stroke='#fff' stroke-width='2' /><line x1='240' y1='240' x2='250' y2='240' stroke='#fff' stroke-width='2' /><polygon points='200,160 190,170 210,170' fill='#fff' /><polygon points='190,180 180,200 200,190' fill='#fff' /><polygon points='210,180 220,200 200,190' fill='#fff' /><circle cx='200' cy='160' r='20' fill='#6699ff' /><path d='M190,155 Q200,130 210,155 Z' fill='#fff' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の細長い体に青と白の顔と手足を持つ男性の生命体です。背中には青い模様があり、顔には大きな目と口があります。",
+        "reason": "アダムは進化により青色が強調され、シンプルで力強い外観が生まれました。青は知恵や冷静さを象徴しています。",
+        "thought": "『力強く、だけど優しい』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1761675900657
   }
 ]
