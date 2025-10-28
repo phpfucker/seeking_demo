@@ -15599,5 +15599,28 @@
       "gender": "男性"
     },
     "timestamp": 1761632741813
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='100' width='200' height='200' fill='#ffcc99' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#ffddb3' /><path d='M150 250 L200 300 L250 250 Z' fill='#ffddb3' /><circle cx='150' cy='150' r='10' fill='#664422' /><circle cx='250' cy='150' r='10' fill='#664422' /><circle cx='170' cy='130' r='5' fill='#664422' /><circle cx='230' cy='130' r='5' fill='#664422' /><circle cx='180' cy='170' r='5' fill='#664422' /><circle cx='220' cy='170' r='5' fill='#664422' /><path d='M180 200 Q200 220 220 200' fill='none' stroke='#664422' stroke-width='2' /><path d='M150 300 Q175 320 200 300 Q225 320 250 300' fill='none' stroke='#664422' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、オレンジ色の体にピンク色の楕円形の顔を持ち、顔の中央に薄いピンク色の三角形の鼻があります。四肢は褐色で、手足には黒い爪があります。大きな茶色の目を持ち、口元には小さな口があります。",
+        "reason": "地球の気候が変化し、植物の多様性が著しく減少したため、イヴの体色がカボチャのようなオレンジ色に進化し、花粉を効率的に集めるための楕円形の顔が発達しました。",
+        "thought": "『自然と調和して生きる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='100' width='200' height='200' fill='#668cff' /><polygon points='200,100 150,200 250,200' fill='#99aaff' /><path d='M180 250 Q200 300 220 250' fill='none' stroke='#668cff' stroke-width='2' /><circle cx='180' cy='150' r='10' fill='#334488' /><circle cx='220' cy='150' r='10' fill='#334488' /><line x1='150' y1='200' x2='150' y2='300' stroke='#334488' stroke-width='4' /><line x1='250' y1='200' x2='250' y2='300' stroke='#334488' stroke-width='4' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に三角形の頭部を持ち、青と紫の模様が入っています。三角形の頭部からは2本の角が生え、身体には褐色のポリゴン模様があります。四肢は褐色で、手には4本の指があります。",
+        "reason": "海洋環境の変化により、アダムは陸上での生活を強いられ、青色の体表面に水を保持し、水中でも呼吸しやすい頭部の三角形と角が発達しました。",
+        "thought": "『未来への適応力を持つ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1761654832776
   }
 ]
