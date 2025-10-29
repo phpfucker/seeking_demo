@@ -15714,5 +15714,28 @@
       "gender": "男性"
     },
     "timestamp": 1761741323322
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g id='eve'><rect x='100' y='100' width='200' height='200' fill='#ffd700' /><circle cx='200' cy='150' r='50' fill='#ff69b4' /><circle cx='150' cy='200' r='30' fill='#ff69b4' /><circle cx='250' cy='200' r='30' fill='#ff69b4' /><path d='M150 300 Q200 350 250 300' stroke='#000' fill='none' /><path d='M170 210 Q200 230 230 210' stroke='#000' fill='none' /><path d='M150 100 Q200 70 250 100' stroke='#000' fill='none' /><line x1='180' y1='150' x2='170' y2='160' stroke='#000' /><line x1='220' y1='150' x2='230' y2='160' stroke='#000' /><line x1='150' y1='240' x2='140' y2='250' stroke='#000' /><line x1='250' y1='240' x2='260' y2='250' stroke='#000' /><circle cx='180' cy='160' r='5' fill='#000' /><circle cx='220' cy='160' r='5' fill='#000' /><polygon points='190,180 210,180 200,190' fill='#000' /></g></svg>",
+      "report": {
+        "appearance": "イヴは、輝く金色の体にピンク色の頬と手足を持つ女性の姿をしています。頭部には2つの大きなピンク色の目があり、長い金色の髪が背中まで流れています。",
+        "reason": "生態系において、新たな環境適応と特徴が必要であったため、イヴはこれらの進化を遂げました。",
+        "thought": "『生命の花が咲く』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g id='adam'><rect x='100' y='100' width='200' height='200' fill='#4682b4' /><circle cx='200' cy='150' r='50' fill='#32cd32' /><circle cx='150' cy='200' r='30' fill='#32cd32' /><circle cx='250' cy='200' r='30' fill='#32cd32' /><path d='M150 300 Q200 350 250 300' stroke='#000' fill='none' /><path d='M170 210 Q200 230 230 210' stroke='#000' fill='none' /><path d='M150 100 Q200 70 250 100' stroke='#000' fill='none' /><line x1='180' y1='150' x2='170' y2='160' stroke='#000' /><line x1='220' y1='150' x2='230' y2='160' stroke='#000' /><line x1='150' y1='240' x2='140' y2='250' stroke='#000' /><line x1='250' y1='240' x2='260' y2='250' stroke='#000' /><circle cx='180' cy='160' r='5' fill='#000' /><circle cx='220' cy='160' r='5' fill='#000' /><polygon points='190,180 210,180 200,190' fill='#000' /></g></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に緑色の頬と手足を持つ男性の姿をしています。頭部には2つの大きな緑色の目があり、短い緑色の髪が頭部に生えています。",
+        "reason": "繁殖成功率の向上と獲得した新しい獲物への適応のため、アダムはこれらの進化を遂げました。",
+        "thought": "『未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1761762267366
   }
 ]
