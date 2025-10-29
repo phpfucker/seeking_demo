@@ -15668,5 +15668,28 @@
       "gender": "男性"
     },
     "timestamp": 1761700668279
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,193,7);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,87,34);stop-opacity:1' /></linearGradient></defs><rect x='140' y='180' width='120' height='180' fill='url(#gradA)' /><circle cx='200' cy='150' r='80' fill='url(#gradA)' /><ellipse cx='200' cy='180' rx='60' ry='40' fill='rgb(255,235,59)' /><polygon points='200,120 180,160 220,160' fill='rgb(255,87,34)' /><path d='M180 300 Q200 330 220 300 Q200 320 180 300' fill='rgb(255,235,59)' /><line x1='180' y1='300' x2='220' y2='300' stroke='rgb(255,87,34)' stroke-width='2' /><line x1='180' y1='300' x2='200' y2='320' stroke='rgb(255,87,34)' stroke-width='2' /><line x1='220' y1='300' x2='200' y2='320' stroke='rgb(255,87,34)' stroke-width='2' /><circle cx='180' cy='150' r='5' fill='rgb(0,0,0)' /><circle cx='220' cy='150' r='5' fill='rgb(0,0,0)' /><text x='200' y='380' font-family='Verdana' font-size='20' fill='black' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、明るいオレンジ色と黄色のグラデーションを持つ円形の頭部を持ち、黄色い楕円形の体と赤色の模様が特徴的。手足は赤色で、顔には黄色い三角形の模様があります。",
+        "reason": "イヴは新たな環境への適応により、より鮮やかで目立つ配色や模様を獲得しました。",
+        "thought": "『輝く色彩が新たな未来を予感させる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(63,81,181);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(33,150,243);stop-opacity:1' /></linearGradient></defs><rect x='140' y='180' width='120' height='180' fill='url(#gradB)' /><circle cx='200' cy='150' r='80' fill='url(#gradB)' /><ellipse cx='200' cy='180' rx='60' ry='40' fill='rgb(33,150,243)' /><polygon points='200,120 180,160 220,160' fill='rgb(63,81,181)' /><path d='M180 300 Q200 330 220 300 Q200 320 180 300' fill='rgb(63,81,181)' /><line x1='180' y1='300' x2='220' y2='300' stroke='rgb(33,150,243)' stroke-width='2' /><line x1='180' y1='300' x2='200' y2='320' stroke='rgb(33,150,243)' stroke-width='2' /><line x1='220' y1='300' x2='200' y2='320' stroke='rgb(33,150,243)' stroke-width='2' /><circle cx='180' cy='150' r='5' fill='rgb(0,0,0)' /><circle cx='220' cy='150' r='5' fill='rgb(0,0,0)' /><text x='200' y='380' font-family='Verdana' font-size='20' fill='black' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、濃い青色と水色のグラデーションを持つ円形の頭部を持ち、水色の楕円形の体と紺色の模様が特徴的。手足は紺色で、顔には濃い青色の三角形の模様があります。",
+        "reason": "アダムは進化により、より深い青色と洗練された色合いを身につけ、優美な外観を獲得しました。",
+        "thought": "『美しさと力強さが融合した姿』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1761719149106
   }
 ]
