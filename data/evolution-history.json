@@ -15691,5 +15691,28 @@
       "gender": "男性"
     },
     "timestamp": 1761719149106
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='180' rx='80' ry='100' fill='#ffb3b3' /><path d='M150,220 Q200,260 250,220 Q200,260 150,220 Z' fill='#ff99cc' /><path d='M180,150 Q200,130 220,150 Q200,170 180,150 Z' fill='#ff99cc' /><circle cx='170' cy='170' r='10' fill='#4d4dff' /><circle cx='230' cy='170' r='10' fill='#4d4dff' /><path d='M170,250 Q200,300 230,250' fill='none' stroke='#ff99cc' stroke-width='10' /><path d='M150,270 Q190,300 230,270' fill='none' stroke='#ff99cc' stroke-width='10' /><circle cx='180' cy='170' r='5' fill='#ffdbac' /><circle cx='220' cy='170' r='5' fill='#ffdbac' /><rect x='170' y='290' width='60' height='20' fill='#ff99cc' /><rect x='160' y='290' width='80' height='10' fill='none' stroke='#4d4dff' stroke-width='3' /><polygon points='200,170 190,150 210,150' fill='#ff4d4d' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと赤の肌を持ち、大きな目と柔らかい表情が特徴の女性型生命体です。全体的にやさしく曲線的な形状を持ち、背中には小さなほくろがあります。手足がしなやかで、愛らしい雰囲気を醸し出しています。",
+        "reason": "進化の過程で、イヴはより美しい特徴と優雅な姿を手に入れることで、環境への適応力を高めました。",
+        "thought": "『愛と美しさが世界を救う』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#b3e0ff' /><ellipse cx='200' cy='180' rx='80' ry='100' fill='#99ccff' /><path d='M150,220 Q200,260 250,220 Q200,260 150,220 Z' fill='#66b3ff' /><path d='M180,150 Q200,130 220,150 Q200,170 180,150 Z' fill='#66b3ff' /><circle cx='170' cy='170' r='10' fill='#4d4dff' /><circle cx='230' cy='170' r='10' fill='#4d4dff' /><path d='M170,250 Q200,300 230,250' fill='none' stroke='#66b3ff' stroke-width='10' /><path d='M150,270 Q190,300 230,270' fill='none' stroke='#66b3ff' stroke-width='10' /><circle cx='180' cy='170' r='5' fill='#ffdbac' /><circle cx='220' cy='170' r='5' fill='#ffdbac' /><rect x='170' y='290' width='60' height='20' fill='#66b3ff' /><rect x='160' y='290' width='80' height='10' fill='none' stroke='#4d4dff' stroke-width='3' /><polygon points='200,170 190,150 210,150' fill='#ff6666' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色の肌を持ち、凛とした雰囲気と逞しい体つきが特徴の男性型生命体です。目元がシャープで、顔には細かい模様が浮かび上がっています。力強い手足としっかりとした角を持ち、迫力のある姿をしています。",
+        "reason": "アダムは進化によって、より強靭な体と力強い特徴を獲得し、過酷な環境において生存率を高めました。",
+        "thought": "『力強さと知恵を持って未来に挑む』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1761741323322
   }
 ]
