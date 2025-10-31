@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"120\" y=\"280\" width=\"160\" height=\"100\" fill=\"#ffe0bd\"/><ellipse cx=\"200\" cy=\"150\" rx=\"80\" ry=\"100\" fill=\"#f9c4a6\"/><path d=\"M200 250 Q160 320 120 250 Q160 380 200 250 Z\" fill=\"#f9c4a6\"/><rect x=\"160\" y=\"280\" width=\"80\" height=\"30\" fill=\"#f9c4a6\"/><circle cx=\"160\" cy=\"270\" r=\"10\" fill=\"#f9c4a6\"/><circle cx=\"240\" cy=\"270\" r=\"10\" fill=\"#f9c4a6\"/><circle cx=\"160\" cy=\"160\" r=\"10\" fill=\"#ffffff\"/><circle cx=\"240\" cy=\"160\" r=\"10\" fill=\"#ffffff\"/><path d=\"M190 200 Q200 220 210 200 Z\" fill=\"#000\"/><path d=\"M190 200 Q200 180 210 200 Z\" fill=\"#000\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradA)' /><circle cx='200' cy='150' r='80' fill='url(#gradA)' /><circle cx='160' cy='130' r='10' fill='#fff' /><circle cx='240' cy='130' r='10' fill='#fff' /><path d='M180 220 Q200 250 220 220' stroke='#000' stroke-width='2' fill='none' /><path d='M180 220 Q200 240 220 220' stroke='#000' stroke-width='2' fill='none' /><path d='M150 280 Q200 320 250 280' stroke='#000' stroke-width='4' fill='none' /><polygon points='190,280 210,280 200,290' fill='#000' /><polygon points='180,190 200,190 190,200' fill='#fff' /><polygon points='190,170 210,170 200,160' fill='#fff' /><rect x='180' y='290' width='40' height='20' fill='#000' /></svg>",
     "report": {
-      "appearance": "イヴは、優雅な女性の特徴を持つ生命体です。体はピーチ色の楕円形で、顔には愛らしい表情が描かれています。腕は短く、手には小さな指があります。足はしなやかで、しっぽは優しくカーブしています。",
-      "reason": "イヴは進化の過程で、美しさと優雅さをより強調するために、体のカーブや色合いが洗練されたものに変化しました。",
-      "thought": "『深い愛と知恵』"
+      "appearance": "イヴは、ピンクと赤のグラデーションを持つ美しい女性生命体です。体はしなやかで、白い目や薄いピンクの肌を持ちます。細やかな模様や角が顔や体に彩りを添えています。",
+      "reason": "生命の進化により、イヴはより優雅で複雑な特徴を身につけました。美しさと力を兼ね備え、環境への順応力が向上しました。",
+      "thought": "『生命の美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"120\" y=\"280\" width=\"160\" height=\"100\" fill=\"#94d3a2\"/><ellipse cx=\"200\" cy=\"150\" rx=\"80\" ry=\"100\" fill=\"#6ebf8c\"/><path d=\"M200 250 Q160 320 120 250 Q160 380 200 250 Z\" fill=\"#6ebf8c\"/><rect x=\"160\" y=\"280\" width=\"80\" height=\"30\" fill=\"#6ebf8c\"/><polygon points=\"160,280 200,280 200,310 180,310 180,280\" fill=\"#6ebf8c\"/><polygon points=\"220,280 240,280 240,310 220,310\" fill=\"#6ebf8c\"/><path d=\"M190 200 Q200 220 210 200 Z\" fill=\"#000\"/><path d=\"M190 200 Q200 180 210 200 Z\" fill=\"#000\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(173,216,230);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(25,25,112);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradB)' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='url(#gradB)' /><ellipse cx='170' cy='140' rx='10' ry='5' fill='#fff' /><ellipse cx='230' cy='140' rx='10' ry='5' fill='#fff' /><path d='M180 220 Q200 250 220 220' stroke='#000' stroke-width='2' fill='none' /><path d='M180 220 Q200 240 220 220' stroke='#000' stroke-width='2' fill='none' /><path d='M160 280 Q200 310 240 280' stroke='#000' stroke-width='4' fill='none' /><polygon points='190,280 210,280 200,290' fill='#000' /><polygon points='180,190 200,190 190,200' fill='#fff' /><polygon points='190,170 210,170 200,160' fill='#fff' /><rect x='180' y='290' width='40' height='20' fill='#000' /></svg>",
     "report": {
-      "appearance": "アダムは、力強い男性の特徴を持つ生命体です。体は緑色の楕円形で、頭部には逞しい顔つきが描かれています。腕は太く、手には力強い力が宿っています。足は頑丈で、しっぽは力強く突き出ています。",
-      "reason": "アダムは進化の過程で、力強さと頑丈さをより強調するために、体の形状や色調がよりマッチョなものに変化しました。",
-      "thought": "『強靭な意志と勇気』"
+      "appearance": "アダムは、青と水色のグラデーションを持つ男性生命体です。体はしっかりとした筋肉で覆われ、白い目や濃い青の肌を持っています。顔や体には複雑な模様や角が特徴的に描かれています。",
+      "reason": "アダムの進化により、より強靭で複雑な特徴が備わりました。力強さと知性を兼ね備え、環境での生存能力が向上しました。",
+      "thought": "『知性と力』"
     },
     "name": "アダム",
     "gender": "男性"
