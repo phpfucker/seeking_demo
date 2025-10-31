@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 400\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"#ffcc99\"/><ellipse cx=\"200\" cy=\"250\" rx=\"80\" ry=\"100\" fill=\"#ffddb3\"/><circle cx=\"150\" cy=\"200\" r=\"20\" fill=\"#ffd699\"/><circle cx=\"250\" cy=\"200\" r=\"20\" fill=\"#ffd699\"/><path d=\"M180 300 Q200 330 220 300\" fill=\"none\" stroke=\"#e68a00\" stroke-width=\"4\"/><path d=\"M190 300 Q200 320 210 300\" fill=\"none\" stroke=\"#e68a00\" stroke-width=\"4\"/><path d=\"M150 280 Q200 320 250 280\" fill=\"none\" stroke=\"#e68a00\" stroke-width=\"4\"/><line x1=\"180\" y1=\"210\" x2=\"220\" y2=\"210\" stroke=\"#e68a00\" stroke-width=\"10\"/><line x1=\"180\" y1=\"230\" x2=\"220\" y2=\"230\" stroke=\"#e68a00\" stroke-width=\"10\"/><polygon points=\"190,240 210,240 200,260\" fill=\"#e68a00\"/><path d=\"M160 260 Q200 300 240 260\" fill=\"none\" stroke=\"#e68a00\" stroke-width=\"4\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,0,0);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,255,0);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='150' r='120' fill='url(#gradA)' /><ellipse cx='200' cy='260' rx='100' ry='90' fill='url(#gradA)' /><rect x='160' y='180' width='80' height='20' fill='rgb(255,255,255)' /><circle cx='175' cy='130' r='10' fill='rgb(255,255,255)' /><circle cx='225' cy='130' r='10' fill='rgb(255,255,255)' /><path d='M180 270 Q200 320 220 270' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M170 140 Q180 120 190 140' fill='none' stroke='rgb(0,0,0)' stroke-width='1' /><path d='M230 140 Q240 120 250 140' fill='none' stroke='rgb(0,0,0)' stroke-width='1' /></svg>",
     "report": {
-      "appearance": "イヴは、美しいオレンジ色の肌を持つ女性の姿をしています。全身は柔らかなピンク色の服で覆われており、頭部にはゆるやかなオレンジ色の角が2本生えています。両手には長い爪があり、足元には猫のようなしっぽがあります。",
-      "reason": "イヴは新たな生態系での生存に適応するため、美しい色彩と優れた捕食能力を持つように進化しました。",
-      "thought": "『自然と調和する』"
+      "appearance": "イヴは、赤と黄色のグラデーションがかかった円形の体と、大きな赤い目を持つ女性型生命体です。体は滑らかな楕円形であり、白い色の装飾のついた腰部分が特徴的です。四肢は細く、手と足には軽い曲線があります。",
+      "reason": "進化の過程で、イヴは自然と調和する力を身につけるため、体の色彩と形状が変化しました。",
+      "thought": "『自然のエネルギーを感じる』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 400\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"#6699cc\"/><ellipse cx=\"200\" cy=\"250\" rx=\"80\" ry=\"100\" fill=\"#99b3ff\"/><circle cx=\"150\" cy=\"200\" r=\"20\" fill=\"#99ccff\"/><circle cx=\"250\" cy=\"200\" r=\"20\" fill=\"#99ccff\"/><path d=\"M180 300 Q200 330 220 300\" fill=\"none\" stroke=\"#6680cc\" stroke-width=\"4\"/><path d=\"M190 300 Q200 320 210 300\" fill=\"none\" stroke=\"#6680cc\" stroke-width=\"4\"/><path d=\"M150 280 Q200 320 250 280\" fill=\"none\" stroke=\"#6680cc\" stroke-width=\"4\"/><line x1=\"180\" y1=\"210\" x2=\"220\" y2=\"210\" stroke=\"#6680cc\" stroke-width=\"10\"/><line x1=\"180\" y1=\"230\" x2=\"220\" y2=\"230\" stroke=\"#6680cc\" stroke-width=\"10\"/><polygon points=\"190,240 210,240 200,260\" fill=\"#6680cc\"/><path d=\"M160 260 Q200 300 240 260\" fill=\"none\" stroke=\"#6680cc\" stroke-width=\"4\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(0,0,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,255,255);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='150' r='120' fill='url(#gradB)' /><rect x='180' y='240' width='40' height='60' fill='rgb(0,0,0)' /><circle cx='175' cy='130' r='10' fill='rgb(0,0,0)' /><circle cx='225' cy='130' r='10' fill='rgb(0,0,0)' /><path d='M180 200 Q200 240 220 200' fill='none' stroke='rgb(255,255,255)' stroke-width='2' /><path d='M170 140 Q180 120 190 140' fill='none' stroke='rgb(255,255,255)' stroke-width='1' /><path d='M230 140 Q240 120 250 140' fill='none' stroke='rgb(255,255,255)' stroke-width='1' /></svg>",
     "report": {
-      "appearance": "アダムは、青い皮膚を持つ男性の姿をしています。全身は淡い青色の服で覆われており、頭部には鋭い青い角が2本生えています。両手には太い腕と大きな手があり、足元には長い尾があります。",
-      "reason": "アダムは狩猟と生存競争において有利な特性を獲得するため、青い色彩と優れた筋力を持つように進化しました。",
-      "thought": "『力強く進化する』"
+      "appearance": "アダムは、青と水色のグラデーションがかかった円形の体と、黒い四角い顔を持つ男性型生命体です。頭部には角が生え、黒い大きな眼が特徴的です。四肢はがっしりとした筋肉質で、手足には白い細い線が入っています。",
+      "reason": "進化のプロセスにおいて、アダムは知識と力を象徴する特徴を獲得するため、体の形と色が変化しました。",
+      "thought": "『未知なる力を感じる』"
     },
     "name": "アダム",
     "gender": "男性"

@@ -15829,5 +15829,28 @@
       "gender": "男性"
     },
     "timestamp": 1761848606620
+  },
+  {
+    "entityA": {
+      "svg": "<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 400\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"#ffcc99\"/><ellipse cx=\"200\" cy=\"250\" rx=\"80\" ry=\"100\" fill=\"#ffddb3\"/><circle cx=\"150\" cy=\"200\" r=\"20\" fill=\"#ffd699\"/><circle cx=\"250\" cy=\"200\" r=\"20\" fill=\"#ffd699\"/><path d=\"M180 300 Q200 330 220 300\" fill=\"none\" stroke=\"#e68a00\" stroke-width=\"4\"/><path d=\"M190 300 Q200 320 210 300\" fill=\"none\" stroke=\"#e68a00\" stroke-width=\"4\"/><path d=\"M150 280 Q200 320 250 280\" fill=\"none\" stroke=\"#e68a00\" stroke-width=\"4\"/><line x1=\"180\" y1=\"210\" x2=\"220\" y2=\"210\" stroke=\"#e68a00\" stroke-width=\"10\"/><line x1=\"180\" y1=\"230\" x2=\"220\" y2=\"230\" stroke=\"#e68a00\" stroke-width=\"10\"/><polygon points=\"190,240 210,240 200,260\" fill=\"#e68a00\"/><path d=\"M160 260 Q200 300 240 260\" fill=\"none\" stroke=\"#e68a00\" stroke-width=\"4\"/></svg>",
+      "report": {
+        "appearance": "イヴは、美しいオレンジ色の肌を持つ女性の姿をしています。全身は柔らかなピンク色の服で覆われており、頭部にはゆるやかなオレンジ色の角が2本生えています。両手には長い爪があり、足元には猫のようなしっぽがあります。",
+        "reason": "イヴは新たな生態系での生存に適応するため、美しい色彩と優れた捕食能力を持つように進化しました。",
+        "thought": "『自然と調和する』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 400\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"#6699cc\"/><ellipse cx=\"200\" cy=\"250\" rx=\"80\" ry=\"100\" fill=\"#99b3ff\"/><circle cx=\"150\" cy=\"200\" r=\"20\" fill=\"#99ccff\"/><circle cx=\"250\" cy=\"200\" r=\"20\" fill=\"#99ccff\"/><path d=\"M180 300 Q200 330 220 300\" fill=\"none\" stroke=\"#6680cc\" stroke-width=\"4\"/><path d=\"M190 300 Q200 320 210 300\" fill=\"none\" stroke=\"#6680cc\" stroke-width=\"4\"/><path d=\"M150 280 Q200 320 250 280\" fill=\"none\" stroke=\"#6680cc\" stroke-width=\"4\"/><line x1=\"180\" y1=\"210\" x2=\"220\" y2=\"210\" stroke=\"#6680cc\" stroke-width=\"10\"/><line x1=\"180\" y1=\"230\" x2=\"220\" y2=\"230\" stroke=\"#6680cc\" stroke-width=\"10\"/><polygon points=\"190,240 210,240 200,260\" fill=\"#6680cc\"/><path d=\"M160 260 Q200 300 240 260\" fill=\"none\" stroke=\"#6680cc\" stroke-width=\"4\"/></svg>",
+      "report": {
+        "appearance": "アダムは、青い皮膚を持つ男性の姿をしています。全身は淡い青色の服で覆われており、頭部には鋭い青い角が2本生えています。両手には太い腕と大きな手があり、足元には長い尾があります。",
+        "reason": "アダムは狩猟と生存競争において有利な特性を獲得するため、青い色彩と優れた筋力を持つように進化しました。",
+        "thought": "『力強く進化する』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1761873305764
   }
 ]
