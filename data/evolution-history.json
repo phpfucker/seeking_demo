@@ -16013,5 +16013,28 @@
       "gender": "男性"
     },
     "timestamp": 1762021211283
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='180' rx='100' ry='80' fill='#ffc0cb' /><path d='M160 210 C160 230 240 230 240 210 Z' fill='#ff99cc' /><path d='M160 210 C160 190 240 190 240 210 Z' fill='#ff99cc' /><path d='M170 230 Q200 250 230 230' fill='none' stroke='#aa3366' stroke-width='4' /><circle cx='180' cy='170' r='10' fill='#ffffff' /><circle cx='220' cy='170' r='10' fill='#ffffff' /><rect x='180' y='260' width='40' height='20' fill='#ffccff' /><rect x='175' y='240' width='50' height='20' fill='#ffccff' /><line x1='160' y1='260' x2='140' y2='280' stroke='#aa3366' stroke-width='4' /><line x1='240' y1='260' x2='260' y2='280' stroke='#aa3366' stroke-width='4' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌と赤みがかった薄いピンク色の体を持ち、顔には薄い紫の楕円形の目とほっそりとした口があります。上半身は淡いピンク色の幅広のドレスを着ており、白い靴を履いています。",
+        "reason": "進化により、イヴは美しい色彩と女性らしい特徴を強調するように進化しました。",
+        "thought": "『愛と美の調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='120' width='120' height='200' fill='#3399cc' /><ellipse cx='200' cy='180' rx='80' ry='60' fill='#87ceeb' /><path d='M170 210 Q200 230 230 210' fill='none' stroke='#4682b4' stroke-width='4' /><path d='M170 210 Q200 190 230 210' fill='none' stroke='#4682b4' stroke-width='4' /><circle cx='180' cy='170' r='10' fill='#ffffff' /><circle cx='220' cy='170' r='10' fill='#ffffff' /><polygon points='170,320 230,320 200,380' fill='#3399cc' /><polygon points='180,350 220,350 200,380' fill='#3399cc' /><line x1='160' y1='320' x2='140' y2='340' stroke='#4682b4' stroke-width='4' /><line x1='240' y1='320' x2='260' y2='340' stroke='#4682b4' stroke-width='4' /></svg>",
+      "report": {
+        "appearance": "アダムは、深い青色の体を持ち、顔には明るい水色の楕円形の目と幅広の口があります。上半身には青いローブを身に着け、背中には青い羽根が生えています。足元には青いブーツを履いています。",
+        "reason": "進化により、アダムは威厳ある色彩と男性らしい特徴を強調するように進化しました。",
+        "thought": "『知識と力の調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1762046385842
   }
 ]
