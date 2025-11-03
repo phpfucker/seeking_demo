@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='none'><circle cx='200' cy='200' r='150' fill='#FFD700'/><ellipse cx='200' cy='200' rx='100' ry='150' fill='#FFD700'/><path d='M175 275C175 300 225 300 225 275Z' fill='#FFE4B5'/><path d='M275 275C275 300 325 300 325 275Z' fill='#FFE4B5'/><circle cx='175' cy='175' r='15' fill='#000'/><circle cx='225' cy='175' r='15' fill='#000'/><path d='M200 225C200 250 170 260 150 250C130 260 100 250 100 225C100 200 200 200 200 225Z' fill='#FF6347'/><path d='M150 250C120 240 100 190 130 160C160 120 240 120 270 160C300 190 280 240 250 250C240 260 160 260 150 250Z' fill='#FF6347'/><path d='M200 260Q150 300 200 340Q250 300 200 260Z' fill='#FF6347'/><path d='M140 300Q170 320 200 320Q230 320 260 300L200 360Z' fill='#FF6347'/><path d='M165 175Q180 150 215 175Q240 200 200 230Q160 200 165 175Z' fill='#FF6347'/><path d='M175 225Q180 200 200 225Q220 250 225 275Q220 300 200 325Q180 300 175 275Q180 250 175 225Z' fill='#FF6347'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,255,0);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,0,0);stop-opacity:1' /></linearGradient></defs><rect x='140' y='200' width='120' height='160' fill='url(#gradA)' /><ellipse cx='200' cy='100' rx='80' ry='50' fill='url(#gradA)' /><polygon points='180,100 220,100 200,140' fill='rgb(255,255,0)' /><path d='M180 200 Q200 250 220 200' fill='rgb(255,0,0)' /><circle cx='170' cy='240' r='10' fill='rgb(255,0,0)' /><circle cx='230' cy='240' r='10' fill='rgb(255,0,0)' /><path d='M160 300 L140 360 L180 360 Z' fill='rgb(255,255,0)' /><path d='M240 300 L260 360 L220 360 Z' fill='rgb(255,255,0)' /><circle cx='170' cy='95' r='5' fill='black' /><circle cx='230' cy='95' r='5' fill='black' /><ellipse cx='190' cy='110' rx='10' ry='5' fill='white' /><ellipse cx='210' cy='110' rx='10' ry='5' fill='white' /></svg>",
     "report": {
-      "appearance": "イヴは、金色の輝く皮膚を持ち、優雅で流れるような体型をしています。頭には素朴な表情の顔と、赤い鮮やかな髪があります。四肢からは暖かいオレンジ色の光が放射されています。",
-      "reason": "イヴは新たな進化を果たし、創造性と豊かなエネルギーを象徴する輝く存在となりました。",
-      "thought": "『愛と美の力が宇宙を満たす』"
+      "appearance": "イヴは、美しい金色の髪を持つ女性で、赤と黄色のグラデーションの肌を持ち、大きな赤い瞳を持っています。背中には黄色と赤の翼があり、長い金色のしっぽがあります。全体的に優雅で美しい外見をしています。",
+      "reason": "生態系の変化に伴い、イヴは美しさと力を兼ね備えた姿に進化しました。新たな翼としっぽは飛行やバランスをサポートし、環境に適応するための進化です。",
+      "thought": "『自然と調和し、力強く生きる』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='none'><rect x='125' y='150' width='150' height='200' fill='#4682B4'/><rect x='150' y='100' width='100' height='50' fill='#4682B4'/><rect x='150' y='350' width='50' height='50' fill='#4682B4'/><circle cx='200' cy='150' r='25' fill='#000'/><circle cx='200' cy='250' r='25' fill='#000'/><path d='M175 200Q150 225 175 250Q200 275 225 250Q250 225 225 200Q200 175 175 200Z' fill='#FF8C00'/><path d='M162.5 200Q150 225 162.5 250Q175 275 200 275Q225 275 237.5 250Q250 225 237.5 200Q225 175 200 175Q175 175 162.5 200Z' fill='#FF8C00'/><path d='M175 300Q150 325 175 350Q200 375 225 350Q250 325 225 300Q200 275 175 300Z' fill='#FF8C00'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><radialGradient id='gradB' cx='50%' cy='50%' r='50%' fx='50%' fy='50%'><stop offset='0%' style='stop-color:rgb(0,0,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,255,255);stop-opacity:1' /></radialGradient></defs><rect x='140' y='200' width='120' height='160' fill='url(#gradB)' /><ellipse cx='200' cy='100' rx='80' ry='50' fill='url(#gradB)' /><polygon points='180,100 220,100 200,140' fill='rgb(0,0,255)' /><path d='M180 200 Q200 250 220 200' fill='rgb(0,255,255)' /><circle cx='170' cy='240' r='10' fill='rgb(0,255,0)' /><circle cx='230' cy='240' r='10' fill='rgb(0,255,0)' /><path d='M160 300 L140 360 L180 360 Z' fill='rgb(0,0,255)' /><path d='M240 300 L260 360 L220 360 Z' fill='rgb(0,0,255)' /><circle cx='170' cy='95' r='5' fill='black' /><circle cx='230' cy='95' r='5' fill='black' /><ellipse cx='190' cy='110' rx='10' ry='5' fill='white' /><ellipse cx='210' cy='110' rx='10' ry='5' fill='white' /></svg>",
     "report": {
-      "appearance": "アダムは、青い鎧のような外皮を持つ堅実な体躯と四角い形状をしています。頭部には力強く堅い表情を持つ顔があり、黒い目が鋭く光っています。",
-      "reason": "アダムは進化し、知識と堅実な力を象徴する存在へと成長しました。",
-      "thought": "『知恵と勇気で未来を切り拓く』"
+      "appearance": "アダムは、青と水色のグラデーションの肌を持つ男性で、青い瞳を持ち、頭部には水色の角が生えています。背中には緑色の模様があり、水色と青のグラデーションのしっぽがあります。全体的に力強く、優れた外見をしています。",
+      "reason": "環境の厳しさに対応するため、アダムは力強さと知恵を兼ね備えた姿に進化しました。新たな角や模様は防御や威嚇、環境適応を助け、生存競争に勝利するための進化です。",
+      "thought": "『強さと知恵を持ち、未来へ進む』"
     },
     "name": "アダム",
     "gender": "男性"
