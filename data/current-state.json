@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#ffd700'/><polygon points='180,160 220,160 200,180' fill='#ff69b4'/><circle cx='160' cy='220' r='20' fill='#ff6347'/><circle cx='240' cy='220' r='20' fill='#ff6347'/><path d='M190,220 q10,-10 20,0' fill='none' stroke='#000' stroke-width='2'/><path d='M210,220 q10,-10 20,0' fill='none' stroke='#000' stroke-width='2'/><path d='M200,230 q0,15 -20,30' fill='none' stroke='#000' stroke-width='2'/><path d='M200,230 q0,15 20,30' fill='none' stroke='#000' stroke-width='2'/><path d='M190,240 q15,10 20,0' fill='none' stroke='#000' stroke-width='2'/><path d='M210,240 q-15,10 -20,0' fill='none' stroke='#000' stroke-width='2'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g id='entityA'><rect x='50' y='50' width='300' height='300' fill='#ffc0cb' /><circle cx='200' cy='150' r='100' fill='#ff99cc' /><ellipse cx='160' cy='130' rx='20' ry='10' fill='#ff66b2' /><ellipse cx='240' cy='130' rx='20' ry='10' fill='#ff66b2' /><polygon points='170,180 200,250 230,180' fill='#ff99cc' /><line x1='145' y1='210' x2='190' y2='210' stroke='#000' stroke-width='2' /><line x1='210' y1='210' x2='255' y2='210' stroke='#000' stroke-width='2' /><path d='M200 250 Q190 270 200 290 Q210 270 200 250 Z' fill='#ff66b2' /><circle cx='175' cy='150' r='5' fill='#000' /><circle cx='225' cy='150' r='5' fill='#000' /><path d='M170 320 Q150 340 160 360 Q170 340 170 320 Z' fill='#ff99cc' /><path d='M230 320 Q250 340 240 360 Q230 340 230 320 Z' fill='#ff99cc' /></g></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の体に黄色い顔を持ち、頭にはピンクの角が生えています。手足は赤色で、しっぽも赤く、特徴的な模様があります。",
-      "reason": "生態系での求愛行動において、より美しい姿が選好されるため、イヴはより鮮やかで華やかな色彩を身にまといました。",
-      "thought": "『愛と美の力』"
+      "appearance": "イヴは、ピンク色の肌と大きな赤い目を持つ女性型生命体です。頭部には小さな角があり、柔らかいピンク色の体にハート型の模様が描かれています。繊細な手足としっぽが特徴で、全体的に愛らしい印象を与えます。",
+      "reason": "進化のプロセスにおいて、イヴはより柔らかく魅力的な外見を求める遺伝子の変異を経験しました。この進化は、生存競争において他の生物を引き付け、繁殖の成功率を高めるために起こりました。",
+      "thought": "『愛と美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#87ceeb'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#f0e68c'/><polygon points='180,160 220,160 200,180' fill='#ffd700'/><circle cx='160' cy='220' r='20' fill='#00ff7f'/><circle cx='240' cy='220' r='20' fill='#00ff7f'/><path d='M190,220 q10,-10 20,0' fill='none' stroke='#000' stroke-width='2'/><path d='M210,220 q10,-10 20,0' fill='none' stroke='#000' stroke-width='2'/><path d='M200,230 q0,15 -20,30' fill='none' stroke='#000' stroke-width='2'/><path d='M200,230 q0,15 20,30' fill='none' stroke='#000' stroke-width='2'/><path d='M190,240 q15,10 20,0' fill='none' stroke='#000' stroke-width='2'/><path d='M210,240 q-15,10 -20,0' fill='none' stroke='#000' stroke-width='2'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g id='entityB'><rect x='50' y='50' width='300' height='300' fill='#87ceeb' /><polygon points='200,50 150,150 250,150' fill='#add8e6' /><circle cx='200' cy='150' r='80' fill='#b0e0e6' /><rect x='180' y='160' width='40' height='30' fill='#add8e6' /><line x1='190' y1='190' x2='210' y2='190' stroke='#fff' stroke-width='2' /><ellipse cx='185' cy='145' rx='5' ry='10' fill='#000' /><ellipse cx='215' cy='145' rx='5' ry='10' fill='#000' /><path d='M200 180 Q180 220 200 260 Q220 220 200 180 Z' fill='#add8e6' /><circle cx='185' cy='150' r='5' fill='#000' /><circle cx='215' cy='150' r='5' fill='#000' /><path d='M190 320 Q170 340 180 360 Q190 340 190 320 Z' fill='#b0e0e6' /><path d='M210 320 Q230 340 220 360 Q210 340 210 320 Z' fill='#b0e0e6' /></g></svg>",
     "report": {
-      "appearance": "アダムは、青色の体に黄色い顔を持ち、頭に黄色い角が生えています。手足は緑色で、しっぽも緑色で装飾が施されています。",
-      "reason": "環境への適応と偽装を目的として、アダムはより自然なブルーカラーと緑色を取り入れ、周囲の植物に溶け込むよう進化しました。",
-      "thought": "『自然と調和する』"
+      "appearance": "アダムは、青い鱗状の肌と三角形の頭部を持つ男性型生命体です。全身に青色の模様があり、大きな青い目が特徴的です。四角い手と足、そしてしっぽが存在し、全体的に凛々しい姿をしています。",
+      "reason": "アダムの進化は、より堅固で力強い外観を獲得するために生じました。この変化は、狩猟や防衛などの活動において有利さをもたらし、生存能力を高める助けとなりました。",
+      "thought": "『力と誇り』"
     },
     "name": "アダム",
     "gender": "男性"

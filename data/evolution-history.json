@@ -16105,5 +16105,28 @@
       "gender": "男性"
     },
     "timestamp": 1762107564166
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#ffd700'/><polygon points='180,160 220,160 200,180' fill='#ff69b4'/><circle cx='160' cy='220' r='20' fill='#ff6347'/><circle cx='240' cy='220' r='20' fill='#ff6347'/><path d='M190,220 q10,-10 20,0' fill='none' stroke='#000' stroke-width='2'/><path d='M210,220 q10,-10 20,0' fill='none' stroke='#000' stroke-width='2'/><path d='M200,230 q0,15 -20,30' fill='none' stroke='#000' stroke-width='2'/><path d='M200,230 q0,15 20,30' fill='none' stroke='#000' stroke-width='2'/><path d='M190,240 q15,10 20,0' fill='none' stroke='#000' stroke-width='2'/><path d='M210,240 q-15,10 -20,0' fill='none' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に黄色い顔を持ち、頭にはピンクの角が生えています。手足は赤色で、しっぽも赤く、特徴的な模様があります。",
+        "reason": "生態系での求愛行動において、より美しい姿が選好されるため、イヴはより鮮やかで華やかな色彩を身にまといました。",
+        "thought": "『愛と美の力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#87ceeb'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#f0e68c'/><polygon points='180,160 220,160 200,180' fill='#ffd700'/><circle cx='160' cy='220' r='20' fill='#00ff7f'/><circle cx='240' cy='220' r='20' fill='#00ff7f'/><path d='M190,220 q10,-10 20,0' fill='none' stroke='#000' stroke-width='2'/><path d='M210,220 q10,-10 20,0' fill='none' stroke='#000' stroke-width='2'/><path d='M200,230 q0,15 -20,30' fill='none' stroke='#000' stroke-width='2'/><path d='M200,230 q0,15 20,30' fill='none' stroke='#000' stroke-width='2'/><path d='M190,240 q15,10 20,0' fill='none' stroke='#000' stroke-width='2'/><path d='M210,240 q-15,10 -20,0' fill='none' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に黄色い顔を持ち、頭に黄色い角が生えています。手足は緑色で、しっぽも緑色で装飾が施されています。",
+        "reason": "環境への適応と偽装を目的として、アダムはより自然なブルーカラーと緑色を取り入れ、周囲の植物に溶け込むよう進化しました。",
+        "thought": "『自然と調和する』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1762132723248
   }
 ]
