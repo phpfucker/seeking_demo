@@ -16266,5 +16266,28 @@
       "gender": "男性"
     },
     "timestamp": 1762259798100
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#FFC0CB' /><circle cx='200' cy='200' r='90' fill='#FF69B4' /><path d='M150 240 L180 210 L210 240 Z' fill='#FF1493' /><ellipse cx='170' cy='180' rx='12' ry='8' fill='#800080' /><ellipse cx='230' cy='180' rx='12' ry='8' fill='#800080' /><path d='M180 260 Q200 290 220 260' fill='none' stroke='#000' stroke-width='2' /><path d='M150 220 Q200 180 250 220' fill='none' stroke='#000' stroke-width='2' /><line x1='190' y1='260' x2='210' y2='260' stroke='#000' stroke-width='2' /><line x1='190' y1='260' x2='190' y2='280' stroke='#000' stroke-width='2' /><line x1='210' y1='260' x2='210' y2='280' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体に紫色の髪、瞳の女性で、優雅で美しい存在。体にはハート型の模様があり、柔らかな雰囲気を持つ。",
+        "reason": "愛と美しさを象徴するため、より優美で美しい姿に進化した。",
+        "thought": "『愛と美しさが世界を彩る』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#87CEEB' /><circle cx='200' cy='200' r='90' fill='#4682B4' /><path d='M150 240 L180 210 L210 240 Z' fill='#4169E1' /><ellipse cx='170' cy='180' rx='12' ry='8' fill='#FFD700' /><ellipse cx='230' cy='180' rx='12' ry='8' fill='#FFD700' /><path d='M180 260 Q200 290 220 260' fill='none' stroke='#000' stroke-width='2' /><path d='M150 220 Q200 180 250 220' fill='none' stroke='#000' stroke-width='2' /><line x1='190' y1='260' x2='210' y2='260' stroke='#000' stroke-width='2' /><line x1='190' y1='260' x2='190' y2='280' stroke='#000' stroke-width='2' /><line x1='210' y1='260' x2='210' y2='280' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは青色の体に黄色い髪、瞳の男性で、力強くかっこいい存在。体には星型の模様があり、力強さと知性を感じさせる。",
+        "reason": "知性と力強さを象徴するため、より力強く魅力的な姿に進化した。",
+        "thought": "『強さと知性が未来を拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1762280627539
   }
 ]
