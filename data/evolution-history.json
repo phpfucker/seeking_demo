@@ -16312,5 +16312,28 @@
       "gender": "男性"
     },
     "timestamp": 1762305433079
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#ffb6c1' /><ellipse cx='160' cy='150' rx='20' ry='30' fill='#ff69b4' /><ellipse cx='240' cy='150' rx='20' ry='30' fill='#ff69b4' /><path d='M180 220 Q200 250 220 220' fill='none' stroke='#ff69b4' stroke-width='2' /><path d='M170 240 Q200 230 230 240' fill='none' stroke='#ff69b4' stroke-width='2' /><path d='M140 320 Q200 400 260 320' fill='none' stroke='#ff69b4' stroke-width='3' /><polygon points='185,140 200,120 215,140' fill='none' stroke='#000' stroke-width='2' /><polygon points='190,140 200,130 210,140' fill='none' stroke='#000' stroke-width='1' /><polygon points='195,140 200,135 205,140' fill='none' stroke='#000' stroke-width='1' /><polygon points='200,320 180,340 160,320' fill='none' stroke='#000' stroke-width='2' /><polygon points='200,320 220,340 240,320' fill='none' stroke='#000' stroke-width='2' /><polygon points='180,250 200,240 220,250' fill='none' stroke='#000' stroke-width='2' /><polygon points='185,260 200,250 215,260' fill='none' stroke='#000' stroke-width='2' /><polygon points='190,260 200,255 210,260' fill='none' stroke='#000' stroke-width='1' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体に、赤い髪の毛を持つ女性の姿をしています。背中には大きな羽が生え、優雅で美しい特徴を持っています。",
+        "reason": "イヴの進化は、美と気品を象徴するために、より洗練された外見となりました。",
+        "thought": "『愛と美の融合』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='160' y='150' width='80' height='120' fill='#4682b4' /><rect x='160' y='150' width='20' height='30' fill='#87ceeb' /><rect x='240' y='150' width='20' height='30' fill='#87ceeb' /><polygon points='170,270 200,240 230,270' fill='none' stroke='#ff4500' stroke-width='2' /><circle cx='200' cy='240' r='15' fill='#ff6347' /><circle cx='190' cy='130' r='5' fill='#000' /><circle cx='210' cy='130' r='5' fill='#000' /><path d='M170 320 Q200 380 230 320' fill='none' stroke='#556b2f' stroke-width='3' /><polygon points='190,150 200,130 210,150' fill='none' stroke='#000' stroke-width='1' /><polygon points='180,250 200,240 220,250' fill='none' stroke='#000' stroke-width='2' /><polygon points='185,260 200,250 215,260' fill='none' stroke='#000' stroke-width='2' /><polygon points='190,260 200,255 210,260' fill='none' stroke='#000' stroke-width='1' /></svg>",
+      "report": {
+        "appearance": "アダムは青色の体に四角い形を持つ男性の姿をしています。背中には短い尾が生え、シャープで力強い特徴を持っています。",
+        "reason": "アダムの進化は、力強さと堅実さを表現するために、よりシンプルでマッシブな外見となりました。",
+        "thought": "『力と誇りの融合』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1762323922862
   }
 ]
