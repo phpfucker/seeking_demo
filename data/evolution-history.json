@@ -16358,5 +16358,28 @@
       "gender": "男性"
     },
     "timestamp": 1762346080865
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#FFB6C1'/><ellipse cx='200' cy='150' rx='80' ry='60' fill='#FFCCCB'/><path d='M180 160 Q200 240 220 160 Z' fill='#FF99CC'/><circle cx='170' cy='140' r='10' fill='#FFFFFF'/><circle cx='230' cy='140' r='10' fill='#FFFFFF'/><path d='M170 190 Q200 220 230 190' stroke='#000000' stroke-width='2' fill='none'/><path d='M160 210 Q200 230 240 210' stroke='#000000' stroke-width='2' fill='none'/><line x1='185' y1='230' x2='215' y2='230' stroke='#000000' stroke-width='3'/><polyline points='190,250 200,260 210,250' fill='none' stroke='#000000' stroke-width='3'/><polygon points='170,140 190,120 210,140' fill='#FFCCCB'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかな肌を持ち、体全体に優しい曲線が特徴です。頭部には楕円形の頭部と、ペタル型の耳があります。白い丸い目が2つ描かれ、優雅なしっぽが背中に生えています。",
+        "reason": "イヴは自然の美しさを追求し、柔らかな色と曲線を持つ進化を遂げました。",
+        "thought": "『愛と美の融合』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ADD8E6'/><ellipse cx='200' cy='150' rx='80' ry='60' fill='#B0E0E6'/><path d='M180 160 Q200 240 220 160 Z' fill='#87CEEB'/><circle cx='170' cy='140' r='10' fill='#FFFFFF'/><circle cx='230' cy='140' r='10' fill='#FFFFFF'/><path d='M170 190 Q200 220 230 190' stroke='#000000' stroke-width='2' fill='none'/><path d='M160 210 Q200 230 240 210' stroke='#000000' stroke-width='2' fill='none'/><line x1='185' y1='230' x2='215' y2='230' stroke='#000000' stroke-width='3'/><polyline points='190,250 200,260 210,250' fill='none' stroke='#000000' stroke-width='3'/><polygon points='170,140 190,120 210,140' fill='#B0E0E6'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の涼やかな肌を持ち、体全体にスムーズな曲線が特徴です。頭部には楕円形の頭部と、ペタル型の耳があります。白い丸い目が2つ描かれ、力強いしっぽが背中に生えています。",
+        "reason": "アダムは力強さとクールさを表現した進化を遂げました。",
+        "thought": "『知性と力の調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1762367007183
   }
 ]
