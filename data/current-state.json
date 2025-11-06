@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffd1dc' /><ellipse cx='200' cy='150' rx='90' ry='120' fill='#ffc0cb' /><path d='M130,220 Q200,300 270,220 Q200,250 130,220' fill='#ff69b4'/><rect x='175' y='160' width='50' height='30' fill='#ff69b4'/><rect x='160' y='220' width='80' height='20' fill='#ff69b4'/><line x1='180' y1='100' x2='150' y2='90' stroke='#ff69b4' stroke-width='5'/><line x1='220' y1='100' x2='250' y2='90' stroke='#ff69b4' stroke-width='5'/><line x1='180' y1='100' x2='220' y2='100' stroke='#ff69b4' stroke-width='5'/><line x1='150' y1='90' x2='130' y2='80' stroke='#ff69b4' stroke-width='5'/><line x1='250' y1='90' x2='270' y2='80' stroke='#ff69b4' stroke-width='5'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccd6' /><ellipse cx='130' cy='190' rx='25' ry='40' fill='#ff99aa' /><ellipse cx='270' cy='190' rx='25' ry='40' fill='#ff99aa' /><path d='M180,220 Q200,260 220,220' fill='none' stroke='#ff99aa' stroke-width='5' /><path d='M150,250 Q200,300 250,250' fill='none' stroke='#ff99aa' stroke-width='5' /><path d='M170,180 Q200,100 230,180' fill='none' stroke='#ff99aa' stroke-width='5' /><rect x='185' y='180' width='30' height='15' fill='#ffffff' /><rect x='195' y='195' width='10' height='20' fill='#ffffff' /><polygon points='160,200 140,230 160,230' fill='#ffffff' /><polygon points='240,200 260,230 240,230' fill='#ffffff' /><circle cx='180' cy='190' r='5' fill='#000000' /><circle cx='220' cy='190' r='5' fill='#000000' /><text x='150' y='320' font-family='Arial' font-size='20' fill='#000000'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴはピンク色の柔らかな皮膚を持ち、長い髪と大きな目を持つ。頭部には明るいピンク色の角があり、胴体は赤い腕や脚を持つ。繊細な体躯と柔らかな表情が特徴。",
-      "reason": "環境の変化により、イヴはより優しく、愛情深い特性を発展させる必要が生じたため。",
+      "appearance": "イヴは、ピンク色の体に赤色の楕円形の目を持ち、柔らかな表情をしています。頭部にはホワイトの髪があり、白い服を着ています。手には小さな手袋をしており、足元には白い靴を履いています。",
+      "reason": "進化の過程で、イヴはより優美で柔らかな特徴を身につけました。これにより、周囲との調和が生まれ、新たな進化への可能性が広がりました。",
       "thought": "『愛と優しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#6495ed' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#4169e1' /><path d='M130,220 Q200,280 270,220 Q200,250 130,220' fill='#1e90ff'/><rect x='175' y='160' width='50' height='25' fill='#1e90ff'/><rect x='160' y='220' width='80' height='18' fill='#1e90ff'/><polygon points='180,100 220,100 200,85' fill='#1e90ff'/><line x1='180' y1='100' x2='150' y2='90' stroke='#1e90ff' stroke-width='5'/><line x1='220' y1='100' x2='250' y2='90' stroke='#1e90ff' stroke-width='5'/><line x1='180' y1='100' x2='220' y2='100' stroke='#1e90ff' stroke-width='5'/><line x1='150' y1='90' x2='130' y2='80' stroke='#1e90ff' stroke-width='5'/><line x1='250' y1='90' x2='270' y2='80' stroke='#1e90ff' stroke-width='5'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='150' fill='#8ab6d6' /><circle cx='200' cy='250' r='50' fill='#8ab6d6' /><ellipse cx='180' cy='150' rx='20' ry='30' fill='#668cb3' /><ellipse cx='220' cy='150' rx='20' ry='30' fill='#668cb3' /><line x1='160' y1='180' x2='140' y2='210' stroke='#668cb3' stroke-width='5' /><line x1='240' y1='180' x2='260' y2='210' stroke='#668cb3' stroke-width='5' /><line x1='180' y1='250' x2='180' y2='300' stroke='#668cb3' stroke-width='5' /><line x1='220' y1='250' x2='220' y2='300' stroke='#668cb3' stroke-width='5' /><circle cx='180' cy='150' r='5' fill='#000000' /><circle cx='220' cy='150' r='5' fill='#000000' /><text x='150' y='320' font-family='Arial' font-size='20' fill='#000000'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは青色の皮膚を持ち、筋肉質で力強い骨格を持つ。腕や脚は幅広く、頭部には濃い青色の角があり、凛々しい表情が特徴。",
-      "reason": "進化の過程で、アダムはより強靭で勇敢な特性を強化する必要が生じたため。",
-      "thought": "『勇気と力』"
+      "appearance": "アダムは、青色の体に大きな丸い頭部を持ち、優しい表情をしています。頭部には紺色の短い髪があり、水色の服を着ています。手には青色の手袋をしており、足元には青い靴を履いています。",
+      "reason": "アダムの進化は、より力強さと誠実さを持つ方向へと進展しました。この特徴により、彼の生存戦略と社会的地位が向上し、新たな環境に適応できるようになりました。",
+      "thought": "『誠実と勇気』"
     },
     "name": "アダム",
     "gender": "男性"
