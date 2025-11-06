@@ -16381,5 +16381,28 @@
       "gender": "男性"
     },
     "timestamp": 1762367007183
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff99cc' /><ellipse cx='200' cy='180' rx='80' ry='120' fill='#ffcc99' /><rect x='160' y='260' width='80' height='30' rx='15' fill='#ffcc99' /><polygon points='200,120 220,150 180,150' fill='#ff66cc' /><line x1='200' y1='180' x2='180' y2='200' stroke='#ff66cc' stroke-width='2' /><line x1='200' y1='180' x2='220' y2='200' stroke='#ff66cc' stroke-width='2' /><circle cx='185' cy='170' r='5' fill='#663300' /><circle cx='215' cy='170' r='5' fill='#663300' /><path d='M180,220 Q200,240 220,220' fill='none' stroke='#663300' stroke-width='2' /><path d='M200,250 Q180,270 200,290 Q220,270 200,250' fill='none' stroke='#663300' stroke-width='2' /><polygon points='190,260 200,250 210,260' fill='#663300' /><text x='50' y='380' font-family='Arial' font-size='20' fill='#663300'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の大きな円形の体と、オレンジ色の楕円形の顔を持つ女性の生命体です。腰にはオレンジ色の矩形のスカートがあり、頭部には紫色の三角形の模様があります。手には茶色の小さな円があり、目の周りには濃いピンクの線が引かれています。",
+        "reason": "イヴは自然の摂理に従い、新たな特徴を獲得するために進化しました。",
+        "thought": "『愛と美の力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='200' fill='#6699cc' /><circle cx='200' cy='130' r='50' fill='#99ccff' /><circle cx='180' cy='130' r='10' fill='#000' /><circle cx='220' cy='130' r='10' fill='#000' /><polygon points='200,150 220,180 180,180' fill='#6699cc' /><line x1='200' y1='130' x2='180' y2='140' stroke='#000' stroke-width='2' /><line x1='200' y1='130' x2='220' y2='140' stroke='#000' stroke-width='2' /><path d='M190,190 Q200,210 210,190' fill='none' stroke='#000' stroke-width='2' /><path d='M200,230 Q180,250 200,270 Q220,250 200,230' fill='none' stroke='#000' stroke-width='2' /><polygon points='190,230 200,220 210,230' fill='#000' /><text x='50' y='380' font-family='Arial' font-size='20' fill='#000'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青色の長方形の体と、水色の大きな円形の頭を持つ男性の生命体です。頭部には目を表す黒い円が2つあり、顔には青い三角形の模様が描かれています。手には青い小さな円があり、目の周りには黒い線が引かれています。",
+        "reason": "アダムは進化のプロセスによって、環境への適応力を高めるために変化しました。",
+        "thought": "『知識と力の融合』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1762391793807
   }
 ]
