@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff99cc' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='#ff66a3' /><rect x='150' y='260' width='100' height='40' fill='#ff66a3' /><rect x='170' y='300' width='60' height='80' fill='#ff99cc' /><path d='M180 150 Q200 100 220 150 Q200 200 180 150 Z' fill='#ff3399' /><polygon points='170,160 180,140 190,160' fill='#ff66a3' /><line x1='190' y1='165' x2='210' y2='165' stroke='#ff3399' stroke-width='3' /><line x1='210' y1='165' x2='205' y2='155' stroke='#ff3399' stroke-width='3' /><line x1='210' y1='165' x2='215' y2='155' stroke='#ff3399' stroke-width='3' /><line x1='180' y1='160' x2='175' y2='150' stroke='#ff3399' stroke-width='3' /><line x1='175' y1='150' x2='185' y2='150' stroke='#ff3399' stroke-width='3' /><line x1='185' y1='150' x2='180' y2='160' stroke='#ff3399' stroke-width='3' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffd1dc' /><ellipse cx='200' cy='150' rx='90' ry='120' fill='#ffc0cb' /><path d='M130,220 Q200,300 270,220 Q200,250 130,220' fill='#ff69b4'/><rect x='175' y='160' width='50' height='30' fill='#ff69b4'/><rect x='160' y='220' width='80' height='20' fill='#ff69b4'/><line x1='180' y1='100' x2='150' y2='90' stroke='#ff69b4' stroke-width='5'/><line x1='220' y1='100' x2='250' y2='90' stroke='#ff69b4' stroke-width='5'/><line x1='180' y1='100' x2='220' y2='100' stroke='#ff69b4' stroke-width='5'/><line x1='150' y1='90' x2='130' y2='80' stroke='#ff69b4' stroke-width='5'/><line x1='250' y1='90' x2='270' y2='80' stroke='#ff69b4' stroke-width='5'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな毛並みを持ち、優雅で優しい表情をした女性の姿をしています。長い尾と蝶のような翼を持ち、健康的な体つきが特徴です。",
-      "reason": "イヴは繊細な進化を遂げ、自然と調和した美しい姿へと変化しました。環境との調和を大切にする生命体として、美しさが求められた結果です。",
-      "thought": "『優しさが力』"
+      "appearance": "イヴはピンク色の柔らかな皮膚を持ち、長い髪と大きな目を持つ。頭部には明るいピンク色の角があり、胴体は赤い腕や脚を持つ。繊細な体躯と柔らかな表情が特徴。",
+      "reason": "環境の変化により、イヴはより優しく、愛情深い特性を発展させる必要が生じたため。",
+      "thought": "『愛と優しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#6699ff' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='#3366ff' /><rect x='150' y='260' width='100' height='40' fill='#3366ff' /><rect x='170' y='300' width='60' height='80' fill='#6699ff' /><path d='M180 150 Q200 100 220 150 Q200 200 180 150 Z' fill='#0033cc' /><polygon points='170,160 180,140 190,160' fill='#3366ff' /><line x1='190' y1='165' x2='210' y2='165' stroke='#0033cc' stroke-width='3' /><line x1='210' y1='165' x2='205' y2='155' stroke='#0033cc' stroke-width='3' /><line x1='210' y1='165' x2='215' y2='155' stroke='#0033cc' stroke-width='3' /><line x1='180' y1='160' x2='175' y2='150' stroke='#0033cc' stroke-width='3' /><line x1='175' y1='150' x2='185' y2='150' stroke='#0033cc' stroke-width='3' /><line x1='185' y1='150' x2='180' y2='160' stroke='#0033cc' stroke-width='3' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#6495ed' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#4169e1' /><path d='M130,220 Q200,280 270,220 Q200,250 130,220' fill='#1e90ff'/><rect x='175' y='160' width='50' height='25' fill='#1e90ff'/><rect x='160' y='220' width='80' height='18' fill='#1e90ff'/><polygon points='180,100 220,100 200,85' fill='#1e90ff'/><line x1='180' y1='100' x2='150' y2='90' stroke='#1e90ff' stroke-width='5'/><line x1='220' y1='100' x2='250' y2='90' stroke='#1e90ff' stroke-width='5'/><line x1='180' y1='100' x2='220' y2='100' stroke='#1e90ff' stroke-width='5'/><line x1='150' y1='90' x2='130' y2='80' stroke='#1e90ff' stroke-width='5'/><line x1='250' y1='90' x2='270' y2='80' stroke='#1e90ff' stroke-width='5'/></svg>",
     "report": {
-      "appearance": "アダムは、青色の鱗状の皮膚を持ち、力強く凛々しい男性の姿をしています。尖った角や鋭い牙を持ち、筋肉質な体つきが特徴です。",
-      "reason": "アダムは強靭な進化を遂げ、生存競争において優位性を持つ強さと威厳を示す姿へと変化しました。獲得した力で群れを守り、生き抜くための進化です。",
-      "thought": "『力強く生き抜く』"
+      "appearance": "アダムは青色の皮膚を持ち、筋肉質で力強い骨格を持つ。腕や脚は幅広く、頭部には濃い青色の角があり、凛々しい表情が特徴。",
+      "reason": "進化の過程で、アダムはより強靭で勇敢な特性を強化する必要が生じたため。",
+      "thought": "『勇気と力』"
     },
     "name": "アダム",
     "gender": "男性"
