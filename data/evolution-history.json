@@ -16634,5 +16634,28 @@
       "gender": "男性"
     },
     "timestamp": 1762604964639
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#ff9999' /><polygon points='170,180 200,230 230,180' fill='#ff6666' /><line x1='170' y1='240' x2='150' y2='280' stroke='#cc6666' stroke-width='3' /><line x1='230' y1='240' x2='250' y2='280' stroke='#cc6666' stroke-width='3' /><circle cx='160' cy='150' r='10' fill='#663333' /><circle cx='240' cy='150' r='10' fill='#663333' /><path d='M180,280 Q200,320 220,280' fill='none' stroke='#cc6666' stroke-width='3' /><path d='M140,180 Q200,100 260,180' fill='none' stroke='#cc6666' stroke-width='3' /><path d='M160,260 Q200,300 240,260' fill='none' stroke='#cc6666' stroke-width='3' /><polygon points='190,210 210,210 200,220' fill='#cc6666' /><polygon points='190,250 210,250 200,240' fill='#cc6666' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体と赤い目を持つ女性の生命体です。体は楕円形で、頭部には三角形の耳があります。赤い模様が体の各所に施され、しっぽは細長い形状です。",
+        "reason": "環境の変化により、イヴはより鮮やかな色彩と複雑な模様を持つよう進化しました。",
+        "thought": "『輝く未来へ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#c0c0c0' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#999999' /><polygon points='170,180 200,230 230,180' fill='#666666' /><line x1='170' y1='240' x2='150' y2='280' stroke='#333333' stroke-width='3' /><line x1='230' y1='240' x2='250' y2='280' stroke='#333333' stroke-width='3' /><circle cx='160' cy='150' r='10' fill='#333333' /><circle cx='240' cy='150' r='10' fill='#333333' /><path d='M180,280 Q200,320 220,280' fill='none' stroke='#333333' stroke-width='3' /><path d='M140,180 Q200,100 260,180' fill='none' stroke='#333333' stroke-width='3' /><path d='M160,260 Q200,300 240,260' fill='none' stroke='#333333' stroke-width='3' /><polygon points='190,210 210,210 200,220' fill='#666666' /><polygon points='190,250 210,250 200,240' fill='#666666' /></svg>",
+      "report": {
+        "appearance": "アダムは、灰色の体と灰色の目を持つ男性の生命体です。体の形状は楕円で、顔には三角形の角があります。体表には灰色の模様が施され、足は四角形状になっています。",
+        "reason": "生存競争の激化により、アダムはより地味な色合いとシンプルな形状を持つよう進化しました。",
+        "thought": "『未来に立つ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1762626037659
   }
 ]
