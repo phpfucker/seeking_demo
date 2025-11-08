@@ -16588,5 +16588,28 @@
       "gender": "男性"
     },
     "timestamp": 1762564329696
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='lightpink' /><circle cx='200' cy='150' r='40' fill='pink' /><circle cx='150' cy='150' r='10' fill='black' /><circle cx='250' cy='150' r='10' fill='black' /><path d='M175 250 Q200 300 225 250' stroke='black' stroke-width='2' fill='none' /><polygon points='160,200 180,180 220,180 240,200' fill='pink' /><rect x='170' y='230' width='60' height='20' fill='gray' /><rect x='170' y='250' width='60' height='10' fill='gray' /></svg>",
+      "report": {
+        "appearance": "イヴは、淡いピンク色の体に黒い瞳を持つ女性の姿をしています。頭部には大きな角があり、優しさを感じさせる表情をしています。体には灰色の模様があり、優雅さと気品を持ち合わせています。",
+        "reason": "進化の中でイヴは、より美しく優雅な姿に変化しました。環境の変化や生存競争に適応するため、美しい模様と角を持つことが重要であったためです。",
+        "thought": "『愛と美しさの輝き』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='lightblue' /><circle cx='200' cy='150' r='40' fill='skyblue' /><circle cx='170' cy='150' r='10' fill='black' /><circle cx='230' cy='150' r='10' fill='black' /><path d='M175 250 Q200 300 225 250' stroke='black' stroke-width='2' fill='none' /><polygon points='160,200 180,180 220,180 240,200' fill='skyblue' /><polygon points='180,250 190,240 210,240 220,250' fill='deepskyblue' /><rect x='170' y='230' width='60' height='20' fill='gray' /><rect x='170' y='250' width='60' height='10' fill='gray' /></svg>",
+      "report": {
+        "appearance": "アダムは、淡い青色の体に黒い瞳を持つ男性の姿をしています。頭部には大きな角があり、力強さと知性を感じさせる表情をしています。体には濃い青色の模様があり、優れた力強さと逞しさを持ち合わせています。",
+        "reason": "アダムは、より強靭で知性を持った姿に進化しました。狩猟や生存競争において強さと知恵を兼ね備えることが重要だったためです。",
+        "thought": "『知恵と力強さの調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1762582920584
   }
 ]
