@@ -16657,5 +16657,28 @@
       "gender": "男性"
     },
     "timestamp": 1762626037659
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='150' cy='170' rx='30' ry='20' fill='#ffb3d9' /><ellipse cx='250' cy='170' rx='30' ry='20' fill='#ffb3d9' /><path d='M180,250 Q200,280 220,250' fill='none' stroke='#ff80df' stroke-width='4' /><polygon points='180,160 200,140 220,160' fill='#ff66cc' /><path d='M150,220 Q190,240 230,220' fill='none' stroke='#ff80df' stroke-width='4' /><circle cx='170' cy='190' r='8' fill='#ffffff' /><circle cx='230' cy='190' r='8' fill='#ffffff' /><rect x='170' y='260' width='60' height='20' fill='#ff80df' /><line x1='170' y1='260' x2='230' y2='260' stroke='#ffffff' stroke-width='2' /><line x1='180' y1='290' x2='180' y2='320' stroke='#ffffff' stroke-width='2' /><line x1='220' y1='290' x2='220' y2='320' stroke='#ffffff' stroke-width='2' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#000000' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクの柔らかな肌に、翼を思わせる薄紫色の装飾が施された美しい女性の姿をしています。瞳は大きく、愛らしい表情を浮かべています。頭部には二本の角が生え、手足は様々な色を持つ柔らかな毛皮で覆われています。背中には小さな薄いピンクのしっぽがあります。",
+        "reason": "イヴは、自然の美しさと優しさを象徴する新たな進化を遂げました。繊細な色彩と優雅な装飾が、生命体に新たな魅力と力を与えました。",
+        "thought": "『自然と調和し、美しさを守る』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#b3e0ff' /><circle cx='200' cy='150' r='40' fill='#66b3ff' /><circle cx='180' cy='130' r='8' fill='#ffffff' /><circle cx='220' cy='130' r='8' fill='#ffffff' /><path d='M180,200 Q200,220 220,200' fill='none' stroke='#3399ff' stroke-width='4' /><line x1='150' y1='100' x2='130' y2='80' stroke='#66b3ff' stroke-width='4' /><line x1='250' y1='100' x2='270' y2='80' stroke='#66b3ff' stroke-width='4' /><line x1='150' y1='300' x2='130' y2='320' stroke='#66b3ff' stroke-width='4' /><line x1='250' y1='300' x2='270' y2='320' stroke='#66b3ff' stroke-width='4' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#000000' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青空を連想させる明るい青色の体に、頭部に大きな丸い目がある男性の姿をしています。体の中央には深い青色の大きな円があり、それを取り囲むように薄い青色の円が描かれています。手足は太く頑丈で、頭部には小さな白い斑点があります。",
+        "reason": "アダムは、自然界の広大な可能性と自由を象徴する進化を遂げました。青色の輝く体と大きな目は、生命体に新しい知識と冒険心を与えました。",
+        "thought": "『未知の世界へ、果敢に挑戦する』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1762651153390
   }
 ]
