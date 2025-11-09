@@ -16726,5 +16726,28 @@
       "gender": "男性"
     },
     "timestamp": 1762691392888
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><rect x='125' y='200' width='150' height='200' fill='#ea9999'/><ellipse cx='200' cy='100' rx='80' ry='50' fill='#ffad9f'/><ellipse cx='150' cy='90' rx='20' ry='35' fill='#e56b6f'/><ellipse cx='250' cy='90' rx='20' ry='35' fill='#e56b6f'/><ellipse cx='200' cy='100' rx='12' ry='8' fill='#fff'/><path d='M150,200 Q200,250 250,200 Q200,150 150,200' fill='#f4a688'/><path d='M200,180 L210,180 L200,190 L190,180 Z' fill='#fff'/><path d='M200,180 L190,180 L200,170 L210,180 Z' fill='#fff'/><path d='M150,200 Q200,220 250,200' fill='none' stroke='#000' stroke-width='2'/><circle cx='170' cy='130' r='5' fill='#000'/><circle cx='230' cy='130' r='5' fill='#000'/><polygon points='200,240 190,260 210,260' fill='#ffd6cc'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌と赤い髪を持つ女性。体全体は丸みを帯びており、背中には赤い模様がある。顔には小さな白い目と口があり、優しい表情をしている。四肢はしなやかで、手には指があり、足には小さな葉っぱのような模様がある。",
+        "reason": "イヴは、自然と調和する美しい姿を手に入れることで、生態系との共生を強化した。",
+        "thought": "『共に生きる喜び』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='200' fill='#9ad3bc'/><circle cx='200' cy='100' r='80' fill='#7bc9a4'/><circle cx='170' cy='90' r='20' fill='#57886c'/><circle cx='230' cy='90' r='20' fill='#57886c'/><circle cx='180' cy='110' r='12' fill='#fff'/><circle cx='220' cy='110' r='12' fill='#fff'/><path d='M200,180 L210,180 L200,190 L190,180 Z' fill='#fff'/><path d='M200,180 L190,180 L200,170 L210,180 Z' fill='#fff'/><circle cx='180' cy='140' r='5' fill='#000'/><circle cx='220' cy='140' r='5' fill='#000'/><polygon points='200,240 190,260 210,260' fill='#c0e6bf'/></svg>",
+      "report": {
+        "appearance": "アダムは、緑色の肌と茶色の髪を持つ男性。体は筋肉質で頑丈な印象を与えるが、やさしい雰囲気も感じられる。顔には大きな緑色の目と口があり、自然との調和を感じさせる表情をしている。四肢は力強く、手には指があり、足には葉っぱのような模様がある。",
+        "reason": "アダムは、自然の摂理との調和を目指し、適応力を高めるために進化した。",
+        "thought": "『自然と共に在る力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1762712423659
   }
 ]
