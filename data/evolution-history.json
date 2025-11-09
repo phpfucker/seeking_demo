@@ -16680,5 +16680,28 @@
       "gender": "男性"
     },
     "timestamp": 1762651153390
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffc0cb'/><ellipse cx='150' cy='150' rx='25' ry='40' fill='#ff69b4'/><ellipse cx='250' cy='150' rx='25' ry='40' fill='#ff69b4'/><rect x='175' y='250' width='50' height='40' fill='#ff1493'/><path d='M190 160 Q200 140 210 160' fill='none' stroke='#ff69b4'/><path d='M190 170 Q200 190 210 170' fill='none' stroke='#ff69b4'/><polygon points='175,250 225,250 200,300' fill='#ff69b4'/><line x1='175' y1='250' x2='175' y2='290' stroke='#ff1493' stroke-width='2'/><line x1='225' y1='250' x2='225' y2='290' stroke='#ff1493' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体に二つの赤い目を持ち、優雅な姿をしています。頭部には紫色の長い耳があり、細長い腕とピンク色の大きな尾が特徴です。",
+        "reason": "新たな進化段階において、イヴはより美しく優雅な姿に進化しました。生存競争において、この姿がより魅力的であり、環境への適応性が向上したためです。",
+        "thought": "『光り輝く未来へ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#87ceeb'/><ellipse cx='150' cy='150' rx='30' ry='50' fill='#4682b4'/><ellipse cx='250' cy='150' rx='30' ry='50' fill='#4682b4'/><rect x='175' y='250' width='50' height='40' fill='#4169e1'/><path d='M190 160 Q200 140 210 160' fill='none' stroke='#4682b4'/><path d='M190 170 Q200 190 210 170' fill='none' stroke='#4682b4'/><polygon points='175,250 225,250 200,300' fill='#4682b4'/><line x1='175' y1='250' x2='175' y2='290' stroke='#4169e1' stroke-width='2'/><line x1='225' y1='250' x2='225' y2='290' stroke='#4169e1' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは青い体色で、二つの青い目を持ち、凛々しい姿をしています。頭部には濃紺色の長い耳があり、筋肉質な腕と青い大きな尾が特徴です。",
+        "reason": "アダムの進化は、より力強く凛々しい外見へと変化しました。この姿は生存においてより強固な体力と威嚇力を持ち、環境への適応性が向上したためです。",
+        "thought": "『未来への力強い歩み』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1762669353616
   }
 ]
