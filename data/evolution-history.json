@@ -16795,5 +16795,28 @@
       "gender": "男性"
     },
     "timestamp": 1762756024514
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><radialGradient id='gradA' cx='0.5' cy='0.5' r='0.5'><stop offset='0%' stop-color='#ff6b6b' /><stop offset='100%' stop-color='#ff6b6b' /></radialGradient></defs><rect x='150' y='200' width='100' height='200' fill='url(#gradA)' /><ellipse cx='200' cy='150' rx='60' ry='90' fill='#ff8e71' /><path d='M180 160 Q200 120 220 160' fill='none' stroke='#ff8e71' stroke-width='5' /><path d='M180 160 Q200 200 220 160' fill='none' stroke='#ff8e71' stroke-width='5' /><circle cx='170' cy='140' r='10' fill='#fff' /><circle cx='230' cy='140' r='10' fill='#fff' /><ellipse cx='200' cy='160' rx='15' ry='10' fill='#ff8e71' /><path d='M180 280 Q200 320 220 280' fill='none' stroke='#ff8e71' stroke-width='5' /><path d='M180 280 Q200 340 220 280' fill='none' stroke='#ff8e71' stroke-width='5' /><circle cx='170' cy='300' r='10' fill='#fff' /><circle cx='230' cy='300' r='10' fill='#fff' /><ellipse cx='200' cy='280' rx='15' ry='10' fill='#ff8e71' /><rect x='170' y='350' width='60' height='30' fill='#ff8e71' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌を持ち、優雅な姿勢で立つ女性の姿をしています。体の一部には淡い赤色の模様が施され、しっぽが優しく曲がっています。",
+        "reason": "生態系の変化により、イヴの進化は美しい色合いと柔らかなラインで表現されました。環境への順応と生存戦略が新たな外見を生み出したのです。",
+        "thought": "『平和と調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><radialGradient id='gradB' cx='0.5' cy='0.5' r='0.5'><stop offset='0%' stop-color='#88f7b0' /><stop offset='100%' stop-color='#88f7b0' /></radialGradient></defs><rect x='150' y='200' width='100' height='200' fill='url(#gradB)' /><ellipse cx='200' cy='150' rx='60' ry='90' fill='#6ed3cf' /><path d='M180 160 Q200 120 220 160' fill='none' stroke='#6ed3cf' stroke-width='5' /><path d='M180 160 Q200 200 220 160' fill='none' stroke='#6ed3cf' stroke-width='5' /><circle cx='170' cy='140' r='10' fill='#fff' /><circle cx='230' cy='140' r='10' fill='#fff' /><ellipse cx='200' cy='160' rx='15' ry='10' fill='#6ed3cf' /><path d='M180 280 Q200 320 220 280' fill='none' stroke='#6ed3cf' stroke-width='5' /><path d='M180 280 Q200 340 220 280' fill='none' stroke='#6ed3cf' stroke-width='5' /><circle cx='170' cy='300' r='10' fill='#fff' /><circle cx='230' cy='300' r='10' fill='#fff' /><ellipse cx='200' cy='280' rx='15' ry='10' fill='#6ed3cf' /><rect x='170' y='350' width='60' height='30' fill='#6ed3cf' /></svg>",
+      "report": {
+        "appearance": "アダムは、青緑色の肌を持ち、力強い体つきで立つ男性の姿をしています。体の一部には淡い水色の模様が見られ、角が頭部から生えています。",
+        "reason": "環境の変化により、アダムの進化は強靭な外見と鮮やかな色彩で表現されました。生存競争への適応が新たな特徴を与えたのです。",
+        "thought": "『進化と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1762778089621
   }
 ]
