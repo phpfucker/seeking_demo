@@ -16749,5 +16749,28 @@
       "gender": "男性"
     },
     "timestamp": 1762712423659
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='150' width='300' height='200' fill='#FFC0CB'/><ellipse cx='200' cy='120' rx='80' ry='100' fill='#FFB6C1'/><path d='M140 230 L100 260 L160 290 Z' fill='#FF69B4'/><path d='M260 230 L300 260 L240 290 Z' fill='#FF69B4'/><ellipse cx='170' cy='220' rx='20' ry='10' fill='#FFC0CB'/><ellipse cx='230' cy='220' rx='20' ry='10' fill='#FFC0CB'/><ellipse cx='200' cy='230' rx='40' ry='20' fill='#FFC0CB'/><line x1='180' y1='140' x2='160' y2='190' stroke='#000' stroke-width='2'/><line x1='220' y1='140' x2='240' y2='190' stroke='#000' stroke-width='2'/><text x='150' y='350' font-family='Arial' font-size='20' fill='black'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、優雅な姿勢で立っています。頭部には大きな桃色の頬と、瞳を引き立てる淡いピンクの目があります。華奢な手足には細い指とつややかな爪が垣間見え、背中には2本の小さなピンクの翼があります。",
+        "reason": "進化によって、イヴはより美しさと優雅さを追求しました。彼女は自然と調和し、愛と美を象徴する存在となりました。",
+        "thought": "『愛と美の輝き』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='150' width='300' height='200' fill='#4682B4'/><ellipse cx='200' cy='120' rx='80' ry='100' fill='#87CEEB'/><path d='M140 230 L100 260 L160 290 Z' fill='#4169E1'/><path d='M260 230 L300 260 L240 290 Z' fill='#4169E1'/><ellipse cx='170' cy='220' rx='20' ry='10' fill='#4682B4'/><ellipse cx='230' cy='220' rx='20' ry='10' fill='#4682B4'/><ellipse cx='200' cy='230' rx='40' ry='20' fill='#4682B4'/><line x1='180' y1='140' x2='160' y2='190' stroke='#000' stroke-width='2'/><line x1='220' y1='140' x2='240' y2='190' stroke='#000' stroke-width='2'/><text x='150' y='350' font-family='Arial' font-size='20' fill='black'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青色の頑丈な体躯を持ち、立派な姿勢で立っています。頭部には深い青の目と、力強い表情が特徴です。手足は筋肉質で頑丈であり、背中には2本の大きな青い翼が生えています。",
+        "reason": "進化の過程で、アダムはより強さと威厳を追求しました。彼は自然と調和し、力と知恵を併せ持つ存在となりました。",
+        "thought": "『力と知恵の調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1762737563000
   }
 ]
