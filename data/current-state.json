@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightpink' /><ellipse cx='200' cy='180' rx='100' ry='120' fill='pink' /><ellipse cx='160' cy='160' rx='20' ry='30' fill='black' /><ellipse cx='240' cy='160' rx='20' ry='30' fill='black' /><path d='M180,220 Q200,240 220,220 Q200,260 180,220' fill='pink' /><path d='M140,170 Q100,130 140,90 T180,90 Q220,90 260,130 T300,170 Q260,210 220,210 T180,170 Z' fill='pink' /><rect x='185' y='235' width='30' height='10' fill='black' /><rect x='180' y='245' width='40' height='15' fill='black' /><polygon points='150,140 160,120 170,140' fill='black' /><polygon points='230,140 240,120 250,140' fill='black' /><line x1='180' y1='180' x2='220' y2='180' stroke='black' stroke-width='2' /><line x1='190' y1='196' x2='210' y2='196' stroke='black' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffafbd' /><ellipse cx='200' cy='220' rx='80' ry='100' fill='#ffe3d8' /><circle cx='150' cy='200' r='10' fill='#ffcc9d' /><circle cx='250' cy='200' r='10' fill='#ffcc9d' /><path d='M180 240 Q200 260 220 240' fill='none' stroke='#fae3d9' stroke-width='2' /><path d='M140 180 Q200 100 260 180' fill='none' stroke='#fae3d9' stroke-width='2' /><line x1='170' y1='280' x2='150' y2='300' stroke='#fae3d9' stroke-width='2' /><line x1='230' y1='280' x2='250' y2='300' stroke='#fae3d9' stroke-width='2' /><polygon points='180,220 200,230 220,220' fill='#ffafbd' /></svg>",
     "report": {
-      "appearance": "イヴは薄桃色の肌を持ち、優美なエレガントな体つきをしています。細長い眼を持ち、黒い瞳が光輝いています。頭部から生える小さな角が特徴的で、柔らかなピンク色のドレスを身にまとっています。",
-      "reason": "イヴは自然の美しさと調和を表現する進化を遂げました。美しい姿で周囲の生命体に安らぎと平和をもたらす存在となりました。",
-      "thought": "『美しさは心の豊かさを反映する』"
+      "appearance": "イヴは、ピンク色の肌とオレンジ色の髪を持つ女性型生命体である。体の一部には薄いピンク色の模様がある。顔には柔らかな表情を持ち、大きな目と小さな口が特徴的である。",
+      "reason": "生態系において感情や愛情の重要性が増し、より情緒豊かな個体が生存に有利だったため、イヴは感情表現が豊かな姿に進化した。",
+      "thought": "『愛と平和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='lightblue' /><path d='M200,120 Q160,80 200,40 Q240,80 200,120' fill='lightblue' /><circle cx='200' cy='120' r='10' fill='black' /><circle cx='180' cy='140' r='10' fill='black' /><circle cx='220' cy='140' r='10' fill='black' /><circle cx='180' cy='220' r='10' fill='black' /><circle cx='220' cy='220' r='10' fill='black' /><rect x='190' y='200' width='20' height='30' fill='black' /><polygon points='200,240 180,260 200,280 220,260' fill='black' /><line x1='180' y1='100' x2='150' y2='70' stroke='black' stroke-width='2' /><line x1='220' y1='100' x2='250' y2='70' stroke='black' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#b5dffd' /><ellipse cx='200' cy='220' rx='80' ry='100' fill='#d8f4ff' /><circle cx='150' cy='200' r='10' fill='#aad8e6' /><circle cx='250' cy='200' r='10' fill='#aad8e6' /><path d='M180 240 Q200 260 220 240' fill='none' stroke='#d8f4ff' stroke-width='2' /><path d='M140 180 Q200 100 260 180' fill='none' stroke='#d8f4ff' stroke-width='2' /><line x1='170' y1='280' x2='150' y2='300' stroke='#d8f4ff' stroke-width='2' /><line x1='230' y1='280' x2='250' y2='300' stroke='#d8f4ff' stroke-width='2' /><polygon points='180,220 200,230 220,220' fill='#b5dffd' /></svg>",
     "report": {
-      "appearance": "アダムは穏やかな水色の体を持ち、頑丈で力強い外見をしています。頭部に軽やかな水色の髪が生え、丸い顔には優しい表情が浮かんでいます。体の一部分に水滴のような模様が広がっています。",
-      "reason": "アダムは生命の源である水を象徴し、穏やかで包容力のある進化を遂げました。周囲の生物に安らぎと希望をもたらす存在として存在感を示しています。",
-      "thought": "『穏やかな心は、力強さを生み出す』"
+      "appearance": "アダムは、青色の肌と薄青色の髪を持つ男性型生命体である。体の色合いは涼しげで、軽やかな印象を与える。特徴的な角が頭部から生えており、冷静な表情をしている。",
+      "reason": "生存環境が変化し、知性や冷静さがより重要となったため、アダムは知的な外見と冷静な表情を持つよう進化した。",
+      "thought": "『知恵と勇気』"
     },
     "name": "アダム",
     "gender": "男性"
