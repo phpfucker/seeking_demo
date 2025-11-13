@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><rect x='100' y='150' width='200' height='150' fill='#ff99cc' /><path d='M200 250 Q150 350 200 350 Q250 350 200 250 Z' fill='#ff66cc' /><ellipse cx='150' cy='175' rx='25' ry='15' fill='#ff6699' /><ellipse cx='250' cy='175' rx='25' ry='15' fill='#ff6699' /><polygon points='175,200 225,200 200,225' fill='#ff3399' /><rect x='180' y='300' width='40' height='50' fill='#ff99cc' /><rect x='135' y='300' width='30' height='100' fill='#ff99cc' /><rect x='235' y='300' width='30' height='100' fill='#ff99cc' /><circle cx='160' cy='110' r='10' fill='#333333' /><circle cx='240' cy='110' r='10' fill='#333333' /><path d='M190 125 Q200 110 210 125' fill='none' stroke='#333333' stroke-width='2' /><path d='M210 125 Q220 110 230 125' fill='none' stroke='#333333' stroke-width='2' /><text x='130' y='30' font-family='Arial' font-size='20' fill='#333333'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='180' cy='160' rx='20' ry='15' fill='#ffffff' /><ellipse cx='220' cy='160' rx='20' ry='15' fill='#ffffff' /><path d='M180,220 Q200,240 220,220' fill='none' stroke='#000000' stroke-width='2' /><path d='M180,220 L190,240 L210,240 L220,220' fill='none' stroke='#000000' stroke-width='2' /><rect x='185' y='230' width='30' height='10' fill='#ffcccb' /><polygon points='210,240 205,245 215,245' fill='#000000' /><path d='M170,225 L180,215 L220,215 L230,225' fill='none' stroke='#000000' stroke-width='2' /><path d='M180,190 Q200,160 220,190' fill='none' stroke='#000000' stroke-width='2' /><path d='M190,160 Q200,150 210,160' fill='none' stroke='#000000' stroke-width='2' /><path d='M190,250 Q200,260 210,250' fill='none' stroke='#000000' stroke-width='2' /><path d='M190,250 Q200,240 210,250' fill='none' stroke='#000000' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "イヴはピンク色の円形の体に、薄紫色の上半身を持ち、頭部には赤い卵形の模様がある。両腕は幅広く、薄紫色の手となっている。下半身はピンク色の四角形で、脚は細長い。頭には二つの紫色の耳と、黒い瞳を持つ表情豊かな顔がある。",
-      "reason": "女性らしい柔らかな色彩と幾何学的な形状の組み合わせにより、イヴの進化が起こった。",
-      "thought": "『愛とやさしさ』"
+      "appearance": "イヴはピンク色の体を持ち、白い眼と手足を持つ。手には小さなピンク色の爪があり、しっぽは短くてフサフサしている。顔には愛らしい笑顔が浮かんでいる。",
+      "reason": "イヴは愛と善意の象徴であり、進化の過程でより優しさと美しさを表現するため、ピンク色の体と白い要素が強調された。",
+      "thought": "『愛と平和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#87cefa' /><rect x='125' y='150' width='150' height='120' fill='#4682b4' /><polygon points='180,150 180,100 220,100 220,150' fill='#4682b4' /><rect x='170' y='270' width='20' height='60' fill='#4682b4' /><rect x='210' y='270' width='20' height='60' fill='#4682b4' /><circle cx='175' cy='130' r='12' fill='#333333' /><circle cx='225' cy='130' r='12' fill='#333333' /><path d='M175 145 Q200 120 225 145' fill='none' stroke='#333333' stroke-width='2' /><text x='150' y='30' font-family='Arial' font-size='20' fill='#333333'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#87ceeb' /><rect x='175' y='100' width='50' height='75' fill='#ffffff' /><rect x='175' y='175' width='50' height='25' fill='#ffffff' /><rect x='160' y='100' width='20' height='200' fill='#87ceeb' /><polygon points='150,100 200,50 250,100' fill='#87ceeb' /><circle cx='180' cy='220' r='10' fill='#000000' /><circle cx='220' cy='220' r='10' fill='#000000' /><path d='M200,170 Q190,180 180,170' fill='none' stroke='#000000' stroke-width='2' /><path d='M180,140 Q200,110 220,140' fill='none' stroke='#000000' stroke-width='2' /><path d='M190,240 Q200,230 210,240' fill='none' stroke='#000000' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "アダムは青色の円形の体に、濃い青色の上半身を持ち、頭部には濃紺色の三角形の模様がある。両腕は幅広く、青色の手となっている。下半身は青色の四角形で、短い脚がついている。頭には二つの黒い角と、黒い瞳を持つ表情豊かな顔がある。",
-      "reason": "男性らしい冷静な色調と幾何学的な形状の組み合わせにより、アダムの進化が起こった。",
-      "thought": "『知識と勇気』"
+      "appearance": "アダムは青い体と四角い頭部を持ち、白い眼と手足が特徴的である。手には大きな爪があり、しっかりとした体つきをしている。顔つきは力強く、手足はしっかりとした造りとなっている。",
+      "reason": "アダムは力強さと正義を象徴し、進化の過程でより頼りがいと安定感を表現するため、青い体と四角い頭部が強調された。",
+      "thought": "『力と誠実』"
     },
     "name": "アダム",
     "gender": "男性"
