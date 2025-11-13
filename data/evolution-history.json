@@ -17071,5 +17071,28 @@
       "gender": "男性"
     },
     "timestamp": 1763015145628
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#ffadd9'><rect x='100' y='50' width='200' height='300'/><circle cx='200' cy='150' r='100'/><path d='M140 200 Q200 300 260 200 Q200 220 140 200'/><ellipse cx='150' cy='300' rx='40' ry='20'/><ellipse cx='250' cy='300' rx='40' ry='20'/></g><g fill='#d47eff'><circle cx='150' cy='150' r='10'/><circle cx='250' cy='150' r='10'/><path d='M170 210 Q200 230 230 210 Q200 250 170 210' fill='none' stroke='#000' stroke-width='2'/><circle cx='180' cy='260' r='10'/><circle cx='220' cy='260' r='10'/><path d='M150 300 Q200 330 250 300 Q200 320 150 300' fill='none' stroke='#000' stroke-width='2'/></g><g fill='#ff8c66'><circle cx='180' cy='150' r='15'/><circle cx='220' cy='150' r='15'/><path d='M190 200 Q200 190 210 200 Q200 210 190 200' fill='none' stroke='#000' stroke-width='2'/><path d='M190 210 Q200 220 210 210' fill='none' stroke='#000' stroke-width='2'/></g></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと紫の色合いの肌を持ち、優雅な曲線と柔らかな特徴を持つ女性の姿をしています。背中には大きな羽根が生えており、蝶のような優美さを放っています。",
+        "reason": "イヴは新たなる命の源として、美しさと柔らかさを共に持つ進化を遂げました。",
+        "thought": "『命の誕生を感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#75baff'><rect x='100' y='50' width='200' height='300'/><circle cx='200' cy='150' r='100'/><path d='M140 200 Q200 300 260 200 Q200 220 140 200'/><ellipse cx='150' cy='300' rx='40' ry='20'/><ellipse cx='250' cy='300' rx='40' ry='20'/></g><g fill='#ffadad'><circle cx='150' cy='150' r='10'/><circle cx='250' cy='150' r='10'/><path d='M170 210 Q200 230 230 210 Q200 250 170 210' fill='none' stroke='#000' stroke-width='2'/><circle cx='180' cy='260' r='10'/><circle cx='220' cy='260' r='10'/><path d='M150 300 Q200 330 250 300 Q200 320 150 300' fill='none' stroke='#000' stroke-width='2'/></g><g fill='#ffa94d'><circle cx='180' cy='150' r='15'/><circle cx='220' cy='150' r='15'/><path d='M190 200 Q200 190 210 200 Q200 210 190 200' fill='none' stroke='#000' stroke-width='2'/><path d='M190 210 Q200 220 210 210' fill='none' stroke='#000' stroke-width='2'/></g></svg>",
+      "report": {
+        "appearance": "アダムは、青と赤の色調を持ち、力強い曲線と頑丈な特徴を持つ男性の姿をしています。背中には大きな鱗が覆い、龍のような荘厳さを示しています。",
+        "reason": "アダムは生命の守護者として、力強さと頑健さを兼ね備えた進化を達成しました。",
+        "thought": "『生命の調和を守る』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1763037348818
   }
 ]
