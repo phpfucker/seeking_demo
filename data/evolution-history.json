@@ -17255,5 +17255,28 @@
       "gender": "男性"
     },
     "timestamp": 1763187776097
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='170' rx='100' ry='140' fill='#ffe4e1'/><rect x='150' y='230' width='100' height='40' fill='#ffcccb'/><rect x='140' y='250' width='120' height='20' fill='#ffe4e1'/><path d='M190 150 L160 200 L190 200 Z' fill='#d8a7b1'/><path d='M210 150 L240 200 L210 200 Z' fill='#d8a7b1'/><path d='M170 200 Q200 230 230 200 Z' fill='#d8a7b1'/><path d='M190 160 Q200 170 210 160 Z' fill='#000'/><circle cx='180' cy='160' r='5' fill='#fff'/><circle cx='220' cy='160' r='5' fill='#fff'/><line x1='185' y1='220' x2='195' y2='220' stroke='#000' stroke-width='2'/><line x1='205' y1='220' x2='215' y2='220' stroke='#000' stroke-width='2'/><text x='200' y='270' font-family='Arial' font-size='16' fill='#000' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかな体を持ち、細長い脚とふんわりとした尾が特徴です。顔には小さなはらわたのある目と丸い口があります。",
+        "reason": "イヴは花のような美しさを持ち、進化の中でより優雅で愛らしい姿に変化した。",
+        "thought": "『優しさと美しさを守りたい』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6'/><ellipse cx='200' cy='170' rx='100' ry='140' fill='#b0e0e6'/><rect x='150' y='230' width='100' height='40' fill='#add8e6'/><rect x='140' y='250' width='120' height='20' fill='#b0e0e6'/><polygon points='190,150 160,200 190,200' fill='#4682b4'/><polygon points='210,150 240,200 210,200' fill='#4682b4'/><polygon points='170,200 200,230 230,200' fill='#4682b4'/><polygon points='190,160 200,170 210,160' fill='#000'/><circle cx='180' cy='160' r='5' fill='#fff'/><circle cx='220' cy='160' r='5' fill='#fff'/><line x1='185' y1='220' x2='195' y2='220' stroke='#000' stroke-width='2'/><line x1='205' y1='220' x2='215' y2='220' stroke='#000' stroke-width='2'/><text x='200' y='270' font-family='Arial' font-size='16' fill='#000' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青色の体を持ち、がっしりとした脚としっかりとした尾が特徴です。顔には鋭い目と大きな口があります。",
+        "reason": "アダムは力強く進化し、より頼りがいのある姿に変化した。",
+        "thought": "『強さと誇りを胸に』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1763209800700
   }
 ]

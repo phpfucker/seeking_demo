@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='170' rx='100' ry='140' fill='#ffe4e1'/><rect x='150' y='230' width='100' height='40' fill='#ffcccb'/><rect x='140' y='250' width='120' height='20' fill='#ffe4e1'/><path d='M190 150 L160 200 L190 200 Z' fill='#d8a7b1'/><path d='M210 150 L240 200 L210 200 Z' fill='#d8a7b1'/><path d='M170 200 Q200 230 230 200 Z' fill='#d8a7b1'/><path d='M190 160 Q200 170 210 160 Z' fill='#000'/><circle cx='180' cy='160' r='5' fill='#fff'/><circle cx='220' cy='160' r='5' fill='#fff'/><line x1='185' y1='220' x2='195' y2='220' stroke='#000' stroke-width='2'/><line x1='205' y1='220' x2='215' y2='220' stroke='#000' stroke-width='2'/><text x='200' y='270' font-family='Arial' font-size='16' fill='#000' text-anchor='middle'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ffdb58' /><circle cx='200' cy='100' r='50' fill='#ffecb3' /><ellipse cx='150' cy='280' rx='80' ry='40' fill='#ffd700' /><polygon points='200,120 220,120 240,140 220,160 200,160 180,140' fill='#ffd700' /><rect x='190' y='210' width='20' height='60' fill='#ffd700' /><line x1='190' y1='210' x2='210' y2='210' stroke='#000' stroke-width='2' /><line x1='190' y1='270' x2='210' y2='270' stroke='#000' stroke-width='2' /><path d='M180,160 Q200,140 220,160' fill='none' stroke='#000' stroke-width='2' /><path d='M200,120 Q180,140 200,160 Q220,140 200,120' fill='none' stroke='#000' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "イヴはピンク色の柔らかな体を持ち、細長い脚とふんわりとした尾が特徴です。顔には小さなはらわたのある目と丸い口があります。",
-      "reason": "イヴは花のような美しさを持ち、進化の中でより優雅で愛らしい姿に変化した。",
-      "thought": "『優しさと美しさを守りたい』"
+      "appearance": "イヴは、金色の肌を持ち、顔には大きな円形の目と幅広い口があります。体は黄色で、腹部には卵形の模様があります。四肢は短く、太い尾があります。",
+      "reason": "イヴは新たな色彩を求めて進化し、金色の肌や明るい色合いの模様が生まれました。",
+      "thought": "『輝く色が私たちを一層美しくしてくれる』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6'/><ellipse cx='200' cy='170' rx='100' ry='140' fill='#b0e0e6'/><rect x='150' y='230' width='100' height='40' fill='#add8e6'/><rect x='140' y='250' width='120' height='20' fill='#b0e0e6'/><polygon points='190,150 160,200 190,200' fill='#4682b4'/><polygon points='210,150 240,200 210,200' fill='#4682b4'/><polygon points='170,200 200,230 230,200' fill='#4682b4'/><polygon points='190,160 200,170 210,160' fill='#000'/><circle cx='180' cy='160' r='5' fill='#fff'/><circle cx='220' cy='160' r='5' fill='#fff'/><line x1='185' y1='220' x2='195' y2='220' stroke='#000' stroke-width='2'/><line x1='205' y1='220' x2='215' y2='220' stroke='#000' stroke-width='2'/><text x='200' y='270' font-family='Arial' font-size='16' fill='#000' text-anchor='middle'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#6c5ce7' /><circle cx='200' cy='100' r='50' fill='#a29bfe' /><ellipse cx='250' cy='280' rx='80' ry='40' fill='#6c5ce7' /><polygon points='200,120 220,120 240,140 220,160 200,160 180,140' fill='#6c5ce7' /><rect x='190' y='210' width='20' height='60' fill='#6c5ce7' /><line x1='190' y1='210' x2='210' y2='210' stroke='#000' stroke-width='2' /><line x1='190' y1='270' x2='210' y2='270' stroke='#000' stroke-width='2' /><path d='M220,160 Q200,140 180,160' fill='none' stroke='#000' stroke-width='2' /><path d='M200,120 Q220,140 200,160 Q180,140 200,120' fill='none' stroke='#000' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "アダムは青色の体を持ち、がっしりとした脚としっかりとした尾が特徴です。顔には鋭い目と大きな口があります。",
-      "reason": "アダムは力強く進化し、より頼りがいのある姿に変化した。",
-      "thought": "『強さと誇りを胸に』"
+      "appearance": "アダムは、紫色の肌を持ち、瞳は明るい青色です。体は淡い紫色で、背中には複雑な模様があります。四肢は太く、長い尾が特徴です。",
+      "reason": "アダムは新たな色彩を求めて進化し、紫色の肌と青い瞳が形作られました。",
+      "thought": "『輝く色が私たちを一層美しくしてくれる』"
     },
     "name": "アダム",
     "gender": "男性"
