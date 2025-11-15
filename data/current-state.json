@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='150' ry='190' fill='#ffcccb' /><ellipse cx='140' cy='190' rx='40' ry='60' fill='#ffffff' /><ellipse cx='260' cy='190' rx='40' ry='60' fill='#ffffff' /><path d='M150,250 Q200,320 250,250 Q200,280 150,250 Z' fill='#ffc0cb' /><path d='M125,250 Q200,340 275,250 Q200,320 125,250 Z' fill='#ff69b4' /><rect x='180' y='50' width='40' height='60' fill='#ffcccb' /><rect x='180' y='110' width='40' height='20' fill='#ffffff' /><rect x='140' y='50' width='120' height='20' fill='#ffffff' /><rect x='140' y='70' width='120' height='20' fill='#ffcccb' /><rect x='140' y='90' width='40' height='10' fill='#ffffff' /><rect x='240' y='90' width='20' height='10' fill='#ffffff' /><rect x='200' y='110' width='20' height='30' fill='#ffcccb' /><path d='M160,230 Q200,210 240,230' fill='none' stroke='#000' stroke-width='2' /><path d='M160,240 Q200,220 240,240' fill='none' stroke='#000' stroke-width='2' /><ellipse cx='180' cy='150' rx='20' ry='10' fill='#ff69b4' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='170' rx='100' ry='140' fill='#ffe4e1'/><rect x='150' y='230' width='100' height='40' fill='#ffcccb'/><rect x='140' y='250' width='120' height='20' fill='#ffe4e1'/><path d='M190 150 L160 200 L190 200 Z' fill='#d8a7b1'/><path d='M210 150 L240 200 L210 200 Z' fill='#d8a7b1'/><path d='M170 200 Q200 230 230 200 Z' fill='#d8a7b1'/><path d='M190 160 Q200 170 210 160 Z' fill='#000'/><circle cx='180' cy='160' r='5' fill='#fff'/><circle cx='220' cy='160' r='5' fill='#fff'/><line x1='185' y1='220' x2='195' y2='220' stroke='#000' stroke-width='2'/><line x1='205' y1='220' x2='215' y2='220' stroke='#000' stroke-width='2'/><text x='200' y='270' font-family='Arial' font-size='16' fill='#000' text-anchor='middle'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の体に白い顔と手足を持つ女性の姿をしています。手足は細く、胴体は丸みを帯びています。頭部には角のような突起があり、優しげな表情をしています。",
-      "reason": "環境の変化により、イヴは新たな適応を求められたため、ピンク色の柔らかな体と優しい表情を持つよう進化しました。",
-      "thought": "『愛と平和』"
+      "appearance": "イヴはピンク色の柔らかな体を持ち、細長い脚とふんわりとした尾が特徴です。顔には小さなはらわたのある目と丸い口があります。",
+      "reason": "イヴは花のような美しさを持ち、進化の中でより優雅で愛らしい姿に変化した。",
+      "thought": "『優しさと美しさを守りたい』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='150' ry='190' fill='#77b5fe' /><ellipse cx='140' cy='190' rx='40' ry='60' fill='#ffffff' /><ellipse cx='260' cy='190' rx='40' ry='60' fill='#ffffff' /><path d='M150,250 Q200,320 250,250 Q200,280 150,250 Z' fill='#add8e6' /><path d='M125,250 Q200,340 275,250 Q200,320 125,250 Z' fill='#87ceeb' /><rect x='180' y='50' width='40' height='60' fill='#77b5fe' /><rect x='180' y='110' width='40' height='20' fill='#ffffff' /><rect x='140' y='50' width='120' height='20' fill='#ffffff' /><rect x='140' y='70' width='120' height='20' fill='#77b5fe' /><rect x='140' y='90' width='40' height='10' fill='#ffffff' /><rect x='240' y='90' width='20' height='10' fill='#ffffff' /><rect x='200' y='110' width='20' height='30' fill='#77b5fe' /><path d='M160,230 Q200,210 240,230' fill='none' stroke='#000' stroke-width='2' /><path d='M160,240 Q200,220 240,240' fill='none' stroke='#000' stroke-width='2' /><ellipse cx='220' cy='150' rx='25' ry='10' fill='#87ceeb' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6'/><ellipse cx='200' cy='170' rx='100' ry='140' fill='#b0e0e6'/><rect x='150' y='230' width='100' height='40' fill='#add8e6'/><rect x='140' y='250' width='120' height='20' fill='#b0e0e6'/><polygon points='190,150 160,200 190,200' fill='#4682b4'/><polygon points='210,150 240,200 210,200' fill='#4682b4'/><polygon points='170,200 200,230 230,200' fill='#4682b4'/><polygon points='190,160 200,170 210,160' fill='#000'/><circle cx='180' cy='160' r='5' fill='#fff'/><circle cx='220' cy='160' r='5' fill='#fff'/><line x1='185' y1='220' x2='195' y2='220' stroke='#000' stroke-width='2'/><line x1='205' y1='220' x2='215' y2='220' stroke='#000' stroke-width='2'/><text x='200' y='270' font-family='Arial' font-size='16' fill='#000' text-anchor='middle'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは、青色の体に白い顔と手足を持つ男性の姿をしています。体はがっしりとしており、力強い印象を与えます。頭部には角のような突起があり、凛々しい表情をしています。",
-      "reason": "環境の変化により、アダムは新たな適応を求められたため、青色の頑丈な体と力強い表情を持つよう進化しました。",
-      "thought": "『誇りと勇気』"
+      "appearance": "アダムは青色の体を持ち、がっしりとした脚としっかりとした尾が特徴です。顔には鋭い目と大きな口があります。",
+      "reason": "アダムは力強く進化し、より頼りがいのある姿に変化した。",
+      "thought": "『強さと誇りを胸に』"
     },
     "name": "アダム",
     "gender": "男性"

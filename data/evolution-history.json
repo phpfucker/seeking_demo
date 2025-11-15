@@ -17232,5 +17232,28 @@
       "gender": "男性"
     },
     "timestamp": 1763169274355
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='150' ry='190' fill='#ffcccb' /><ellipse cx='140' cy='190' rx='40' ry='60' fill='#ffffff' /><ellipse cx='260' cy='190' rx='40' ry='60' fill='#ffffff' /><path d='M150,250 Q200,320 250,250 Q200,280 150,250 Z' fill='#ffc0cb' /><path d='M125,250 Q200,340 275,250 Q200,320 125,250 Z' fill='#ff69b4' /><rect x='180' y='50' width='40' height='60' fill='#ffcccb' /><rect x='180' y='110' width='40' height='20' fill='#ffffff' /><rect x='140' y='50' width='120' height='20' fill='#ffffff' /><rect x='140' y='70' width='120' height='20' fill='#ffcccb' /><rect x='140' y='90' width='40' height='10' fill='#ffffff' /><rect x='240' y='90' width='20' height='10' fill='#ffffff' /><rect x='200' y='110' width='20' height='30' fill='#ffcccb' /><path d='M160,230 Q200,210 240,230' fill='none' stroke='#000' stroke-width='2' /><path d='M160,240 Q200,220 240,240' fill='none' stroke='#000' stroke-width='2' /><ellipse cx='180' cy='150' rx='20' ry='10' fill='#ff69b4' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に白い顔と手足を持つ女性の姿をしています。手足は細く、胴体は丸みを帯びています。頭部には角のような突起があり、優しげな表情をしています。",
+        "reason": "環境の変化により、イヴは新たな適応を求められたため、ピンク色の柔らかな体と優しい表情を持つよう進化しました。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='150' ry='190' fill='#77b5fe' /><ellipse cx='140' cy='190' rx='40' ry='60' fill='#ffffff' /><ellipse cx='260' cy='190' rx='40' ry='60' fill='#ffffff' /><path d='M150,250 Q200,320 250,250 Q200,280 150,250 Z' fill='#add8e6' /><path d='M125,250 Q200,340 275,250 Q200,320 125,250 Z' fill='#87ceeb' /><rect x='180' y='50' width='40' height='60' fill='#77b5fe' /><rect x='180' y='110' width='40' height='20' fill='#ffffff' /><rect x='140' y='50' width='120' height='20' fill='#ffffff' /><rect x='140' y='70' width='120' height='20' fill='#77b5fe' /><rect x='140' y='90' width='40' height='10' fill='#ffffff' /><rect x='240' y='90' width='20' height='10' fill='#ffffff' /><rect x='200' y='110' width='20' height='30' fill='#77b5fe' /><path d='M160,230 Q200,210 240,230' fill='none' stroke='#000' stroke-width='2' /><path d='M160,240 Q200,220 240,240' fill='none' stroke='#000' stroke-width='2' /><ellipse cx='220' cy='150' rx='25' ry='10' fill='#87ceeb' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に白い顔と手足を持つ男性の姿をしています。体はがっしりとしており、力強い印象を与えます。頭部には角のような突起があり、凛々しい表情をしています。",
+        "reason": "環境の変化により、アダムは新たな適応を求められたため、青色の頑丈な体と力強い表情を持つよう進化しました。",
+        "thought": "『誇りと勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1763187776097
   }
 ]
