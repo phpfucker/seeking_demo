@@ -17278,5 +17278,28 @@
       "gender": "男性"
     },
     "timestamp": 1763209800700
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ffdb58' /><circle cx='200' cy='100' r='50' fill='#ffecb3' /><ellipse cx='150' cy='280' rx='80' ry='40' fill='#ffd700' /><polygon points='200,120 220,120 240,140 220,160 200,160 180,140' fill='#ffd700' /><rect x='190' y='210' width='20' height='60' fill='#ffd700' /><line x1='190' y1='210' x2='210' y2='210' stroke='#000' stroke-width='2' /><line x1='190' y1='270' x2='210' y2='270' stroke='#000' stroke-width='2' /><path d='M180,160 Q200,140 220,160' fill='none' stroke='#000' stroke-width='2' /><path d='M200,120 Q180,140 200,160 Q220,140 200,120' fill='none' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、金色の肌を持ち、顔には大きな円形の目と幅広い口があります。体は黄色で、腹部には卵形の模様があります。四肢は短く、太い尾があります。",
+        "reason": "イヴは新たな色彩を求めて進化し、金色の肌や明るい色合いの模様が生まれました。",
+        "thought": "『輝く色が私たちを一層美しくしてくれる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#6c5ce7' /><circle cx='200' cy='100' r='50' fill='#a29bfe' /><ellipse cx='250' cy='280' rx='80' ry='40' fill='#6c5ce7' /><polygon points='200,120 220,120 240,140 220,160 200,160 180,140' fill='#6c5ce7' /><rect x='190' y='210' width='20' height='60' fill='#6c5ce7' /><line x1='190' y1='210' x2='210' y2='210' stroke='#000' stroke-width='2' /><line x1='190' y1='270' x2='210' y2='270' stroke='#000' stroke-width='2' /><path d='M220,160 Q200,140 180,160' fill='none' stroke='#000' stroke-width='2' /><path d='M200,120 Q220,140 200,160 Q180,140 200,120' fill='none' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、紫色の肌を持ち、瞳は明るい青色です。体は淡い紫色で、背中には複雑な模様があります。四肢は太く、長い尾が特徴です。",
+        "reason": "アダムは新たな色彩を求めて進化し、紫色の肌と青い瞳が形作られました。",
+        "thought": "『輝く色が私たちを一層美しくしてくれる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1763230850990
   }
 ]
