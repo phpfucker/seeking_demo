@@ -17370,5 +17370,28 @@
       "gender": "男性"
     },
     "timestamp": 1763296187203
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ff80bf' /><circle cx='200' cy='150' r='25' fill='#ff66a3' /><circle cx='160' cy='150' r='10' fill='#4d0019' /><circle cx='240' cy='150' r='10' fill='#4d0019' /><polygon points='185,180 215,180 200,195' fill='#ff66a3' /><ellipse cx='200' cy='220' rx='40' ry='20' fill='#ff66a3' /><rect x='180' y='220' width='40' height='50' fill='#ff80bf' /><path d='M160 250 Q200 260 240 250' fill='none' stroke='#4d0019' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴはピンクと紫の色合いを持つ美しい女性。体は四角形でヒップラインが強調され、頭部には小さな角が生えている。柔らかなピンクのエリプス型の顔に、大きな赤い目と小さな鼻、口がある。四角い体の下部には薄いピンクの長方形の脚と尻尾がある。",
+        "reason": "環境の色彩が変化し、イヴの色合いもそれに適応した結果。",
+        "thought": "『愛と美しさの力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#80bfff' /><circle cx='200' cy='150' r='25' fill='#3399ff' /><circle cx='160' cy='150' r='10' fill='#1a53ff' /><circle cx='240' cy='150' r='10' fill='#1a53ff' /><polygon points='185,180 215,180 200,195' fill='#3399ff' /><ellipse cx='200' cy='220' rx='40' ry='20' fill='#3399ff' /><rect x='180' y='220' width='40' height='50' fill='#80bfff' /><path d='M160 250 Q200 260 240 250' fill='none' stroke='#1a53ff' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは青と水色の色調を持つ男性。体の形状は四角形で、肩幅が広く筋肉質。頭には角が生え、男性らしい短い髪のような模様がある。顔は細長い楕円形で、大きな青い目と鼻、口がある。太い水色の脚と尻尾が四角い体の下部についている。",
+        "reason": "アダムの繁殖戦略に適した色彩と特徴が遺伝されたため。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1763317265500
   }
 ]
