@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,179,186);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,102,136);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='160' cy='180' rx='30' ry='20' fill='#fff' /><ellipse cx='240' cy='180' rx='30' ry='20' fill='#fff' /><ellipse cx='200' cy='240' rx='90' ry='60' fill='#fff' /><path d='M160 200 Q200 220 240 200' fill='none' stroke='#000' stroke-width='2' /><path d='M160 270 Q200 240 240 270' fill='none' stroke='#000' stroke-width='2' /><ellipse cx='180' cy='170' rx='8' ry='12' fill='#000' /><ellipse cx='220' cy='170' rx='8' ry='12' fill='#000' /><ellipse cx='190' cy='240' rx='10' ry='5' fill='#000' /><ellipse cx='210' cy='240' rx='10' ry='5' fill='#000' /><path d='M180 250 Q200 265 220 250' fill='none' stroke='#000' stroke-width='2' /><path d='M180 120 Q200 130 220 120' fill='none' stroke='#000' stroke-width='2' /><polygon points='195,180 200,190 205,180' fill='#f00' /><polygon points='180,225 195,235 210,225' fill='#f00' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='80' width='200' height='240' fill='#ffcccb'/><ellipse cx='200' cy='120' rx='80' ry='60' fill='#ffb6c1'/><path d='M150 200 L200 280 L250 200 Z' fill='#ffc0cb'/><circle cx='170' cy='130' r='10' fill='#ffffff'/><circle cx='230' cy='130' r='10' fill='#ffffff'/><polygon points='180,260 200,290 220,260' fill='#ffc0cb'/><rect x='160' y='320' width='80' height='20' fill='#ffcccb'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンクと白のグラデーションで彩られた美しい女性型の生命体です。体は柔らかな曲線で描かれ、顔には優しい表情が浮かんでいます。白い長い髪と大きな瞳が特徴で、手足はしなやかに彫られています。",
-      "reason": "進化は、環境の変化に適応するために起こりました。優れた視覚と柔軟な動きで生存に有利となる特徴が強化されました。",
-      "thought": "『未来への希望』"
+      "appearance": "イヴはピンク色の体に赤い眼、白い目玉、薄紫色の髪を持つ女性型生命体。全身には柔らかな曲線と円形の模様が特徴。",
+      "reason": "生存環境の変化により、花や果物に適応しやすい姿に進化した。",
+      "thought": "『花の美しさを感じる』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(152,205,234);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(58,128,193);stop-opacity:1' /></linearGradient></defs><rect x='150' y='100' width='100' height='200' fill='url(#gradB)' /><ellipse cx='200' cy='180' rx='30' ry='20' fill='#fff' /><path d='M180 210 Q200 195 220 210' fill='none' stroke='#000' stroke-width='2' /><path d='M180 100 Q200 110 220 100' fill='none' stroke='#000' stroke-width='2' /><ellipse cx='180' cy='170' rx='8' ry='12' fill='#000' /><ellipse cx='220' cy='170' rx='8' ry='12' fill='#000' /><polygon points='165,150 200,100 235,150' fill='#00f' /><line x1='170' y1='250' x2='150' y2='320' stroke='#000' stroke-width='5' /><line x1='230' y1='250' x2='250' y2='320' stroke='#000' stroke-width='5' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='80' width='200' height='240' fill='#add8e6'/><ellipse cx='200' cy='120' rx='80' ry='60' fill='#87ceeb'/><path d='M150 200 L200 280 L250 200 Z' fill='#b0e0e6'/><circle cx='170' cy='130' r='10' fill='#ffffff'/><circle cx='230' cy='130' r='10' fill='#ffffff'/><polygon points='180,260 200,290 220,260' fill='#b0e0e6'/><line x1='160' y1='320' x2='240' y2='320' stroke='#add8e6' stroke-width='20'/></svg>",
     "report": {
-      "appearance": "アダムは、青と白のグラデーションで表現された男性型の生命体です。四角い体と丸い顔が特徴で、大きなブルーの目が印象的です。手足は頑丈で力強く、落ち着いた表情をしています。",
-      "reason": "進化は、狩猟や防衛などの行動に適した形態への適応が進みました。強靭な体と鋭い視線が生存能力を高めました。",
-      "thought": "『誇り高き存在』"
+      "appearance": "アダムは青色の体に青い眼、白い目玉、空色の髪を持つ男性型生命体。全身には直線と角形の模様が特徴。",
+      "reason": "狩猟行動が活発になったため、魚や海洋生物に適応しやすい姿に進化した。",
+      "thought": "『水中の美しさを感じる』"
     },
     "name": "アダム",
     "gender": "男性"
