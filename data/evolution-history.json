@@ -17347,5 +17347,28 @@
       "gender": "男性"
     },
     "timestamp": 1763274185153
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='80' width='200' height='240' fill='#ffcccb'/><ellipse cx='200' cy='120' rx='80' ry='60' fill='#ffb6c1'/><path d='M150 200 L200 280 L250 200 Z' fill='#ffc0cb'/><circle cx='170' cy='130' r='10' fill='#ffffff'/><circle cx='230' cy='130' r='10' fill='#ffffff'/><polygon points='180,260 200,290 220,260' fill='#ffc0cb'/><rect x='160' y='320' width='80' height='20' fill='#ffcccb'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体に赤い眼、白い目玉、薄紫色の髪を持つ女性型生命体。全身には柔らかな曲線と円形の模様が特徴。",
+        "reason": "生存環境の変化により、花や果物に適応しやすい姿に進化した。",
+        "thought": "『花の美しさを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='80' width='200' height='240' fill='#add8e6'/><ellipse cx='200' cy='120' rx='80' ry='60' fill='#87ceeb'/><path d='M150 200 L200 280 L250 200 Z' fill='#b0e0e6'/><circle cx='170' cy='130' r='10' fill='#ffffff'/><circle cx='230' cy='130' r='10' fill='#ffffff'/><polygon points='180,260 200,290 220,260' fill='#b0e0e6'/><line x1='160' y1='320' x2='240' y2='320' stroke='#add8e6' stroke-width='20'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の体に青い眼、白い目玉、空色の髪を持つ男性型生命体。全身には直線と角形の模様が特徴。",
+        "reason": "狩猟行動が活発になったため、魚や海洋生物に適応しやすい姿に進化した。",
+        "thought": "『水中の美しさを感じる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1763296187203
   }
 ]
