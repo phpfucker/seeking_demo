@@ -17393,5 +17393,28 @@
       "gender": "男性"
     },
     "timestamp": 1763317265500
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='pink'/><circle cx='200' cy='100' r='80' fill='lightpink'/><ellipse cx='150' cy='250' rx='60' ry='30' fill='pink'/><polygon points='100,150 150,50 200,150' fill='lightpink'/><path d='M200 150 Q250 200 300 150 Q250 100 200 150' fill='pink'/><line x1='100' y1='320' x2='150' y2='370' stroke='black' stroke-width='3'/><line x1='300' y1='320' x2='250' y2='370' stroke='black' stroke-width='3'/><path d='M200 250 L180 280 M200 250 L220 280' stroke='black' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌を持ち、頭部には大きな丸い目と小さな口を持つ女性型生命体です。体には細長い腕と足があり、優美な曲線が特徴です。背中には大きな羽根が生えています。",
+        "reason": "進化の理由は、環境の変化により飛行能力が必要となったため。羽根を持つことで高い場所へ移動し、新たな資源を得ることができるように進化した。",
+        "thought": "『自由を手に入れた』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='lightblue'/><circle cx='200' cy='100' r='80' fill='skyblue'/><ellipse cx='250' cy='250' rx='60' ry='30' fill='lightblue'/><polygon points='300,150 250,50 200,150' fill='skyblue'/><path d='M200 150 Q150 200 100 150 Q150 100 200 150' fill='lightblue'/><line x1='100' y1='320' x2='150' y2='370' stroke='black' stroke-width='3'/><line x1='300' y1='320' x2='250' y2='370' stroke='black' stroke-width='3'/><path d='M200 250 L220 280 M200 250 L180 280' stroke='black' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌を持ち、大きな丸い目と口を持つ男性型生命体です。体は頑強で筋肉質であり、四角い形状が特徴です。背中には大きな角が生えています。",
+        "reason": "進化の理由は、狩りや戦闘時の防御力向上のため。角を持つことで敵からの攻撃をしのぎ、生存率を高めるために進化した。",
+        "thought": "『強さと防衛の象徴』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1763342258906
   }
 ]
