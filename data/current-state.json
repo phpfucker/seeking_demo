@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99'/><ellipse cx='200' cy='150' rx='80' ry='100' fill='#ffcc99'/><rect x='170' y='220' width='60' height='100' fill='#ff9966'/><rect x='190' y='310' width='20' height='40' fill='#ff9966'/><circle cx='170' cy='150' r='10' fill='#663300'/><circle cx='230' cy='150' r='10' fill='#663300'/><path d='M180 210 Q200 250 220 210' stroke='#663300' stroke-width='5' fill='none'/><path d='M180 210 Q200 220 220 210' stroke='#663300' stroke-width='3' fill='none'/><path d='M190 170 Q200 160 210 170' stroke='#663300' stroke-width='3' fill='none'/><polygon points='180,160 190,150 200,160' fill='#663300'/><polygon points='210,160 220,150 230,160' fill='#663300'/></svg>",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"180\" fill=\"#ffc0cb\"/><ellipse cx=\"140\" cy=\"150\" rx=\"30\" ry=\"40\" fill=\"#ffdab9\"/><ellipse cx=\"260\" cy=\"150\" rx=\"30\" ry=\"40\" fill=\"#ffdab9\"/><path d=\"M200 220 Q150 230 140 300 Q200 280 260 300 Q250 230 200 220 Z\" fill=\"#ff69b4\"/><circle cx=\"160\" cy=\"160\" r=\"10\" fill=\"#000\"/><circle cx=\"240\" cy=\"160\" r=\"10\" fill=\"#000\"/><line x1=\"190\" y1=\"180\" x2=\"210\" y2=\"180\" stroke=\"#000\" stroke-width=\"3\"/><path d=\"M200 220 Q190 230 180 240 Q190 250 200 260 Q210 250 220 240 Q210 230 200 220 Z\" fill=\"#fff\"/><polygon points=\"150,200 170,220 130,220\" fill=\"#ff69b4\"/><polygon points=\"250,200 230,220 270,220\" fill=\"#ff69b4\"/><line x1=\"160\" y1=\"300\" x2=\"170\" y2=\"320\" stroke=\"#000\" stroke-width=\"3\"/><line x1=\"240\" y1=\"300\" x2=\"230\" y2=\"320\" stroke=\"#000\" stroke-width=\"3\"/><rect x=\"180\" y=\"320\" width=\"40\" height=\"20\" fill=\"#fff\"/><line x1=\"200\" y1=\"340\" x2=\"200\" y2=\"380\" stroke=\"#000\" stroke-width=\"4\"/><line x1=\"180\" y1=\"360\" x2=\"160\" y2=\"420\" stroke=\"#000\" stroke-width=\"4\"/><line x1=\"220\" y1=\"360\" x2=\"240\" y2=\"420\" stroke=\"#000\" stroke-width=\"4\"/></svg>",
     "report": {
-      "appearance": "イヴは、ピーチ色の柔らかい体と長い髪を持つ女性です。体の下部には橙色のスカートがあり、手足は短くて丸い形状です。顔には大きな黒い瞳があり、頬には薄いピンク色の模様があります。",
-      "reason": "進化の理由は、新たな環境に適応するために、より柔らかく美しい特徴を身に付ける必要があったためです。",
-      "thought": "『やわらかい光を感じる』"
+      "appearance": "イヴは、ピンク色の体に広がる卵形の耳を持ち、紫色の髪と薄い肌をしています。背中にはピンク色の大きな羽が生えており、優雅な印象を与えます。手足は細長く、指や爪には艶やかな輝きが見られます。しっぽは長くてしなやかで、先端には美しい宝石が輝いています。",
+      "reason": "イヴは新たなる美しさを求めて進化しました。自然と調和した姿で、生命の営みを象徴しています。",
+      "thought": "『調和と美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='130' fill='#0066cc'/><ellipse cx='200' cy='150' rx='70' ry='90' fill='#0066cc'/><rect x='180' y='220' width='40' height='100' fill='#003399'/><rect x='195' y='310' width='10' height='30' fill='#003399'/><circle cx='180' cy='150' r='8' fill='#ffffff'/><circle cx='220' cy='150' r='8' fill='#ffffff'/><path d='M190 210 Q200 240 210 210' stroke='#ffcc00' stroke-width='5' fill='none'/><path d='M190 210 Q200 220 210 210' stroke='#ffcc00' stroke-width='3' fill='none'/><path d='M200 170 Q210 160 220 170' stroke='#ffcc00' stroke-width='3' fill='none'/><polygon points='190,160 195,155 200,160' fill='#ffffff'/><polygon points='220,160 225,155 230,160' fill='#ffffff'/></svg>",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 400\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"#4682b4\"/><ellipse cx=\"150\" cy=\"150\" rx=\"30\" ry=\"40\" fill=\"#ffdab9\"/><ellipse cx=\"250\" cy=\"150\" rx=\"30\" ry=\"40\" fill=\"#ffdab9\"/><path d=\"M200 180 Q150 190 130 250 Q200 220 270 250 Q250 190 200 180 Z\" fill=\"#87ceeb\"/><circle cx=\"160\" cy=\"160\" r=\"10\" fill=\"#000\"/><circle cx=\"240\" cy=\"160\" r=\"10\" fill=\"#000\"/><line x1=\"190\" y1=\"180\" x2=\"210\" y2=\"180\" stroke=\"#000\" stroke-width=\"3\"/><path d=\"M200 180 Q190 190 180 200 Q190 210 200 220 Q210 210 220 200 Q210 190 200 180 Z\" fill=\"#fff\"/><polygon points=\"150,200 170,220 130,220\" fill=\"#87ceeb\"/><polygon points=\"250,200 230,220 270,220\" fill=\"#87ceeb\"/><line x1=\"160\" y1=\"250\" x2=\"170\" y2=\"270\" stroke=\"#000\" stroke-width=\"3\"/><line x1=\"240\" y1=\"250\" x2=\"230\" y2=\"270\" stroke=\"#000\" stroke-width=\"3\"/><rect x=\"180\" y=\"270\" width=\"40\" height=\"20\" fill=\"#fff\"/><line x1=\"200\" y1=\"290\" x2=\"200\" y2=\"330\" stroke=\"#000\" stroke-width=\"4\"/><line x1=\"180\" y1=\"310\" x2=\"160\" y2=\"370\" stroke=\"#000\" stroke-width=\"4\"/><line x1=\"220\" y1=\"310\" x2=\"240\" y2=\"370\" stroke=\"#000\" stroke-width=\"4\"/></svg>",
     "report": {
-      "appearance": "アダムは、濃い青色の体と短い髪を持つ男性です。体の中心には青い胸元があり、手足は筋肉質で力強い形状です。顔には大きな白い目があり、頬には白い模様があります。",
-      "reason": "進化が起こった理由は、より強靭で力強い特徴を身に付け、狩猟や生存競争において有利になるためです。",
-      "thought": "『力強い風を感じる』"
+      "appearance": "アダムは、青い体に大きな長方形の耳を持ち、黄色い髪と青みがかった肌をしています。背中には青い鱗が輝き、水中でも活動できそうな印象を与えます。手足は頑丈で筋肉質であり、力強さを感じさせます。しっぽは太くて短く、先端には鋭いトゲが生えています。",
+      "reason": "アダムは環境に適応するため、強靭で力強い姿に進化しました。生存に有利な特徴が身についたことで、より強くなりました。",
+      "thought": "『強靭な生命力』"
     },
     "name": "アダム",
     "gender": "男性"

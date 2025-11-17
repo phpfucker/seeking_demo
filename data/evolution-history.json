@@ -17439,5 +17439,28 @@
       "gender": "男性"
     },
     "timestamp": 1763360778535
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99'/><ellipse cx='200' cy='150' rx='80' ry='100' fill='#ffcc99'/><rect x='170' y='220' width='60' height='100' fill='#ff9966'/><rect x='190' y='310' width='20' height='40' fill='#ff9966'/><circle cx='170' cy='150' r='10' fill='#663300'/><circle cx='230' cy='150' r='10' fill='#663300'/><path d='M180 210 Q200 250 220 210' stroke='#663300' stroke-width='5' fill='none'/><path d='M180 210 Q200 220 220 210' stroke='#663300' stroke-width='3' fill='none'/><path d='M190 170 Q200 160 210 170' stroke='#663300' stroke-width='3' fill='none'/><polygon points='180,160 190,150 200,160' fill='#663300'/><polygon points='210,160 220,150 230,160' fill='#663300'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピーチ色の柔らかい体と長い髪を持つ女性です。体の下部には橙色のスカートがあり、手足は短くて丸い形状です。顔には大きな黒い瞳があり、頬には薄いピンク色の模様があります。",
+        "reason": "進化の理由は、新たな環境に適応するために、より柔らかく美しい特徴を身に付ける必要があったためです。",
+        "thought": "『やわらかい光を感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='130' fill='#0066cc'/><ellipse cx='200' cy='150' rx='70' ry='90' fill='#0066cc'/><rect x='180' y='220' width='40' height='100' fill='#003399'/><rect x='195' y='310' width='10' height='30' fill='#003399'/><circle cx='180' cy='150' r='8' fill='#ffffff'/><circle cx='220' cy='150' r='8' fill='#ffffff'/><path d='M190 210 Q200 240 210 210' stroke='#ffcc00' stroke-width='5' fill='none'/><path d='M190 210 Q200 220 210 210' stroke='#ffcc00' stroke-width='3' fill='none'/><path d='M200 170 Q210 160 220 170' stroke='#ffcc00' stroke-width='3' fill='none'/><polygon points='190,160 195,155 200,160' fill='#ffffff'/><polygon points='220,160 225,155 230,160' fill='#ffffff'/></svg>",
+      "report": {
+        "appearance": "アダムは、濃い青色の体と短い髪を持つ男性です。体の中心には青い胸元があり、手足は筋肉質で力強い形状です。顔には大きな白い目があり、頬には白い模様があります。",
+        "reason": "進化が起こった理由は、より強靭で力強い特徴を身に付け、狩猟や生存競争において有利になるためです。",
+        "thought": "『力強い風を感じる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1763382918614
   }
 ]
