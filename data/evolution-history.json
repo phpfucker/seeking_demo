@@ -17508,5 +17508,28 @@
       "gender": "男性"
     },
     "timestamp": 1763428589940
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#ffcccb'/><circle cx='200' cy='160' r='50' fill='#ff99cc'/><circle cx='140' cy='240' r='30' fill='#ff99cc'/><circle cx='260' cy='240' r='30' fill='#ff99cc'/><path d='M175 220 Q200 260 225 220 Q200 230 175 220' fill='#ffffff'/><polygon points='180,200 190,200 185,210' fill='#ff66b2'/><polygon points='220,200 230,200 225,210' fill='#ff66b2'/><circle cx='200' cy='160' r='10' fill='#000000'/><circle cx='185' cy='150' r='5' fill='#ffffff'/><circle cx='215' cy='150' r='5' fill='#ffffff'/><ellipse cx='200' cy='280' rx='60' ry='20' fill='#ff99cc'/></svg>",
+      "report": {
+        "appearance": "「イヴ」は、ピンクの肌に大きな目を持つ女性の生命体です。体は淡いピンク色で覆われ、顔には小さな口と鼻があります。頭部には長い髪の毛が流れ、優雅な印象を与えます。四肢は短く、足は小さな楕円形の形状です。背中には小さなピンク色のしっぽがあります。",
+        "reason": "進化の理由は、環境の変化により植物資源が減少し、生命体がより効率的に栄養を取るために、新たな特徴が発達したためです。",
+        "thought": "『平和と調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#add8e6'/><circle cx='200' cy='160' r='50' fill='#87ceeb'/><circle cx='140' cy='240' r='30' fill='#87ceeb'/><circle cx='260' cy='240' r='30' fill='#87ceeb'/><path d='M175 220 Q200 260 225 220 Q200 230 175 220' fill='#ffffff'/><polygon points='180,200 190,200 185,210' fill='#4682b4'/><polygon points='220,200 230,200 225,210' fill='#4682b4'/><circle cx='200' cy='160' r='10' fill='#000000'/><circle cx='185' cy='150' r='5' fill='#ffffff'/><circle cx='215' cy='150' r='5' fill='#ffffff'/><line x1='180' y1='270' x2='220' y2='270' stroke='#87ceeb' stroke-width='10'/></svg>",
+      "report": {
+        "appearance": "「アダム」は、青い肌と目を持つ男性の生命体です。体は淡い青色で塗られ、顔には小さな口と鼻があります。髪の毛は短く、頭部はスマートな印象を与えます。四肢はがっしりとしており、青い楕円形の足が特徴的です。背中には青い大きなヒレが生えています。",
+        "reason": "進化は、獲物との競争が激しくなり、より速く泳ぎ、力強く攻撃するために、新しい特徴が生まれた結果です。",
+        "thought": "『強さと勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1763447094652
   }
 ]
