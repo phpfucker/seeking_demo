@@ -17485,5 +17485,28 @@
       "gender": "男性"
     },
     "timestamp": 1763403829771
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='150' ry='180' fill='#ffcccb' /><circle cx='150' cy='150' r='20' fill='#ffb6c1' /><circle cx='250' cy='150' r='20' fill='#ffb6c1' /><path d='M175 250 Q200 300 225 250' fill='none' stroke='#ff1493' stroke-width='5' /><path d='M200 300 Q200 310 190 320' fill='none' stroke='#ff1493' stroke-width='5' /><path d='M200 300 Q200 310 210 320' fill='none' stroke='#ff1493' stroke-width='5' /><polygon points='195,200 205,200 200,210' fill='#ff1493' /><polygon points='175,270 225,270 200,290' fill='#ff1493' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の楕円形の体を持ち、頭には2つの赤い小さな円形の耳があります。長い髪のようなピンク色の曲線的な形状が背中から伸び、薄い赤いポリゴン模様が両腕に繋がっています。",
+        "reason": "生態系の変化により、イヴは柔らかく美しいピンク色の体表現を進化させました。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='200' width='100' height='150' fill='#add8e6' /><circle cx='200' cy='150' r='30' fill='#87ceeb' /><circle cx='170' cy='200' r='15' fill='#87ceeb' /><circle cx='230' cy='200' r='15' fill='#87ceeb' /><path d='M180 250 Q200 290 220 250' fill='none' stroke='#4682b4' stroke-width='5' /><polygon points='195,200 205,200 200,210' fill='#4682b4' /><polygon points='180,350 220,350 200,380' fill='#4682b4' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の四角い体を持ち、頭には大きな青い円形の目がついています。頭部には2つの小さな青い円形の耳があり、背中にある青いポリゴン模様が四肢に続いています。",
+        "reason": "環境の変化により、アダムは青色の堅固な体を持つように進化しました。",
+        "thought": "『力と堅牢さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1763428589940
   }
 ]
