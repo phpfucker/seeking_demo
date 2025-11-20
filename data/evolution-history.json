@@ -17692,5 +17692,28 @@
       "gender": "男性"
     },
     "timestamp": 1763601292834
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink'/><ellipse cx='200' cy='190' rx='50' ry='30' fill='white'/><ellipse cx='165' cy='180' rx='10' ry='15' fill='black'/><ellipse cx='235' cy='180' rx='10' ry='15' fill='black'/><path d='M180,230 Q200,250 220,230' fill='none' stroke='black' stroke-width='3'/><path d='M140,230 Q200,260 260,230' fill='none' stroke='black' stroke-width='3'/><rect x='170' y='280' width='60' height='20' fill='pink'/><polygon points='190,280 210,280 200,300' fill='yellow'/></svg>",
+      "report": {
+        "appearance": "「イヴ」は、ピンク色の体に白い腹部を持ち、黒い瞳と笑顔の顔を持つ女性である。腕と足は太く短めで、ピンクと黄色の模様のついた短いしっぽがある。",
+        "reason": "新たな生態系での生存のため、柔らかい色の体と笑顔の表情が進化した。",
+        "thought": "『愛と優しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='blue'/><ellipse cx='200' cy='120' rx='30' ry='20' fill='white'/><ellipse cx='170' cy='110' rx='8' ry='12' fill='black'/><ellipse cx='230' cy='110' rx='8' ry='12' fill='black'/><path d='M180,160 Q200,140 220,160' fill='none' stroke='black' stroke-width='3'/><polygon points='175,200 225,200 200,240' fill='yellow'/></svg>",
+      "report": {
+        "appearance": "「アダム」は、青色の体を持つ男性で、白い腹部と笑顔の顔を持つ。四角い体と黄色い模様のついた手足が特徴で、短い黄色のしっぽがある。",
+        "reason": "強力な捕食者としての役割が必要とされ、青い体色と四角い頑丈な体が進化した。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1763619873153
   }
 ]
