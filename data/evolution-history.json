@@ -17669,5 +17669,28 @@
       "gender": "男性"
     },
     "timestamp": 1763576668216
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><rect x='125' y='220' width='150' height='100' fill='#ff99cc'/><polygon points='200,150 180,220 220,220' fill='#ff66cc'/><rect x='155' y='270' width='30' height='50' fill='#ff66cc'/><rect x='215' y='270' width='30' height='50' fill='#ff66cc'/><ellipse cx='170' cy='180' rx='20' ry='10' fill='#ffd700'/><ellipse cx='230' cy='180' rx='20' ry='10' fill='#ffd700'/><circle cx='190' cy='180' r='5' fill='#000'/><circle cx='210' cy='180' r='5' fill='#000'/><path d='M180,210 Q200,230 220,210' stroke='#000' stroke-width='2' fill='none'/><text x='200' y='350' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持つ女性型生命体です。体の下部には紫色のスカート状の部分があり、背中にはピンクの羽毛が生えています。腕と脚は短く、手足の先には小さな紫色の爪があります。頭部は黄色の角を持ち、目は大きくて真っ黒です。",
+        "reason": "イヴは、自然界の色彩からインスピレーションを受けて進化しました。女性らしさと優しさを表現するため、柔らかな色合いと羽毛が追加されました。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#87ceeb'/><rect x='150' y='220' width='100' height='100' fill='#4682b4'/><polygon points='200,150 180,220 220,220' fill='#4169e1'/><rect x='170' y='270' width='30' height='50' fill='#4169e1'/><rect x='200' y='270' width='30' height='50' fill='#4169e1'/><ellipse cx='180' cy='180' rx='20' ry='10' fill='#ffd700'/><ellipse cx='220' cy='180' rx='20' ry='10' fill='#ffd700'/><circle cx='190' cy='180' r='5' fill='#000'/><circle cx='210' cy='180' r='5' fill='#000'/><path d='M180,210 Q200,230 220,210' stroke='#000' stroke-width='2' fill='none'/><text x='200' y='350' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青色の鱗片で覆われた男性型生命体です。体の下部には濃い青色の胴体があり、背中にはさらに大きな青色の鱗が広がっています。腕と脚は力強く、手足の先には大きな青い爪が生えています。頭部には黄色い角が2本あり、目は鋭く青色に輝いています。",
+        "reason": "アダムは、自然界の海の色彩と力強さから進化しました。男性らしさと頼れる印象を表現するため、青色の鱗片と大きな鱗が追加されました。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1763601292834
   }
 ]
