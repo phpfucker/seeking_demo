@@ -17784,5 +17784,28 @@
       "gender": "男性"
     },
     "timestamp": 1763687742004
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ffe4c4'/><ellipse cx='200' cy='100' rx='70' ry='50' fill='#ffccbc'/><path d='M150,150 L250,150 L200,200 Z' fill='#d32f2f'/><polygon points='130,200 150,180 170,200' fill='#b71c1c'/><polygon points='230,200 250,180 270,200' fill='#b71c1c'/><path d='M180,250 Q200,280 220,250' fill='none' stroke='#8e24aa' stroke-width='3'/><path d='M210,250 Q230,280 250,250' fill='none' stroke='#8e24aa' stroke-width='3'/><rect x='155' y='300' width='90' height='50' fill='#ffecb3'/><ellipse cx='180' cy='300' rx='20' ry='15' fill='#ffd54f'/><ellipse cx='220' cy='300' rx='20' ry='15' fill='#ffd54f'/></svg>",
+      "report": {
+        "appearance": "イヴは、全身を覆う暖かいオレンジ色の皮膚を持ち、顔には丸い橙色の目と赤い口があります。頭部には赤い短い角が生え、背中には赤い模様があります。四肢は黄色で、手には小さなオレンジ色の爪があります。しっぽは太くて短く、黄色です。",
+        "reason": "イヴは環境の変化に適応するため、暖色系の色彩を持つ皮膚や模様が発達しました。",
+        "thought": "『新たな色彩、新たな可能性』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#81c784'/><ellipse cx='200' cy='100' rx='70' ry='50' fill='#4caf50'/><path d='M150,150 L250,150 L200,200 Z' fill='#1b5e20'/><polygon points='130,200 150,180 170,200' fill='#33691e'/><polygon points='230,200 250,180 270,200' fill='#33691e'/><line x1='160' y1='250' x2='180' y2='280' stroke='#64b5f6' stroke-width='3'/><line x1='220' y1='250' x2='240' y2='280' stroke='#64b5f6' stroke-width='3'/><rect x='155' y='300' width='90' height='50' fill='#fff176'/><ellipse cx='180' cy='300' rx='20' ry='15' fill='#fdd835'/><ellipse cx='220' cy='300' rx='20' ry='15' fill='#fdd835'/></svg>",
+      "report": {
+        "appearance": "アダムは、緑色の肌を持ち、顔には楕円形の緑色の目と大きな口があります。頭部には緑色の短い角がつき、背中には緑色の模様があります。四肢は黄色で、手には大きな黄色い爪があります。しっぽは太く緩やかで、黄色です。",
+        "reason": "アダムは自然環境への適応を重視し、緑色の肌や模様が進化しました。",
+        "thought": "『自然と調和する喜び』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1763706380353
   }
 ]
