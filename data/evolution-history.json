@@ -17830,5 +17830,28 @@
       "gender": "男性"
     },
     "timestamp": 1763728384316
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc00'/><ellipse cx='200' cy='150' rx='100' ry='130' fill='#ffdd88'/><path d='M150,250 Q200,300 250,250 Q200,200 150,250 Z' fill='#ffbb33'/><rect x='175' y='250' width='50' height='50' fill='#ffbb33'/><polygon points='180,150 220,150 200,170' fill='#e69500'/><line x1='180' y1='150' x2='220' y2='150' stroke='#663300' stroke-width='2'/><circle cx='180' cy='160' r='5' fill='#663300'/><circle cx='220' cy='160' r='5' fill='#663300'/><circle cx='200' cy='190' r='3' fill='#663300'/><circle cx='195' cy='140' r='3' fill='#663300'/><circle cx='205' cy='140' r='3' fill='#663300'/><circle cx='180' cy='250' r='5' fill='#663300'/><circle cx='220' cy='250' r='5' fill='#663300'/><rect x='185' y='300' width='30' height='10' fill='#663300'/></svg>",
+      "report": {
+        "appearance": "イヴは、金色の鱗に覆われた美しい女性のような姿をしています。輝く黄色の鱗が全身を覆い、柔らかなオレンジ色の前髪と尾びれが特徴です。",
+        "reason": "イヴは、生態系での繁栄と進化のために、美しい色と魅力的な特徴を身につけました。",
+        "thought": "『輝く美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#6699cc'/><circle cx='200' cy='100' r='50' fill='#88bbdd'/><ellipse cx='200' cy='320' rx='50' ry='20' fill='#6699cc'/><polygon points='150,100 200,50 250,100' fill='#77a9dd'/><path d='M170,150 Q200,120 230,150 Q200,180 170,150 Z' fill='#77a9dd'/><line x1='150' y1='100' x2='250' y2='100' stroke='#336699' stroke-width='2'/><circle cx='170' cy='150' r='5' fill='#336699'/><circle cx='230' cy='150' r='5' fill='#336699'/><circle cx='170' cy='200' r='3' fill='#336699'/><circle cx='230' cy='200' r='3' fill='#336699'/><circle cx='150' cy='160' r='3' fill='#336699'/><circle cx='150' cy='200' r='3' fill='#336699'/><circle cx='250' cy='160' r='3' fill='#336699'/><circle cx='250' cy='200' r='3' fill='#336699'/><rect x='175' y='300' width='50' height='20' fill='#336699'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い鱗に覆われた力強い男性のような姿をしています。深い青色の鱗が全身を覆い、頭部には丸い青い鱗が特徴的に装飾されています。",
+        "reason": "アダムは、環境での生存と進化のために、強靭な体力と隠れた力を持つように進化しました。",
+        "thought": "『内に秘めた力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1763749365838
   }
 ]
