@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#FFD700'/><ellipse cx='200' cy='200' rx='70' ry='100' fill='#FFCC00'/><polygon points='150,250 200,300 250,250' fill='#FFD700'/><circle cx='170' cy='180' r='10' fill='#000'/><circle cx='230' cy='180' r='10' fill='#000'/><path d='M180,220 Q200,260 220,220' fill='none' stroke='#000' stroke-width='2'/><path d='M190,215 Q200,230 210,215' fill='none' stroke='#000' stroke-width='2'/><path d='M190,215 Q200,200 210,215' fill='none' stroke='#000' stroke-width='2'/><line x1='170' y1='250' x2='230' y2='250' stroke='#000' stroke-width='3'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ffe4c4'/><ellipse cx='200' cy='100' rx='70' ry='50' fill='#ffccbc'/><path d='M150,150 L250,150 L200,200 Z' fill='#d32f2f'/><polygon points='130,200 150,180 170,200' fill='#b71c1c'/><polygon points='230,200 250,180 270,200' fill='#b71c1c'/><path d='M180,250 Q200,280 220,250' fill='none' stroke='#8e24aa' stroke-width='3'/><path d='M210,250 Q230,280 250,250' fill='none' stroke='#8e24aa' stroke-width='3'/><rect x='155' y='300' width='90' height='50' fill='#ffecb3'/><ellipse cx='180' cy='300' rx='20' ry='15' fill='#ffd54f'/><ellipse cx='220' cy='300' rx='20' ry='15' fill='#ffd54f'/></svg>",
     "report": {
-      "appearance": "イヴは、金色の体に黄色い楕円形の顔を持ち、顔周りに金色の三角形模様を持つ女性生命体です。手は黒い小さな円で表現され、体の中央に黒い瞳を持つ目があります。",
-      "reason": "イヴは自然界の光を受けて金色に輝く生命体として、自然との調和をさらに強調する進化を遂げました。",
-      "thought": "『輝く自然の一部』"
+      "appearance": "イヴは、全身を覆う暖かいオレンジ色の皮膚を持ち、顔には丸い橙色の目と赤い口があります。頭部には赤い短い角が生え、背中には赤い模様があります。四肢は黄色で、手には小さなオレンジ色の爪があります。しっぽは太くて短く、黄色です。",
+      "reason": "イヴは環境の変化に適応するため、暖色系の色彩を持つ皮膚や模様が発達しました。",
+      "thought": "『新たな色彩、新たな可能性』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#4682B4'/><ellipse cx='200' cy='200' rx='70' ry='100' fill='#4169E1'/><polygon points='150,250 200,300 250,250' fill='#4682B4'/><circle cx='170' cy='180' r='10' fill='#000'/><circle cx='230' cy='180' r='10' fill='#000'/><path d='M180,220 Q200,260 220,220' fill='none' stroke='#000' stroke-width='2'/><path d='M190,215 Q200,230 210,215' fill='none' stroke='#000' stroke-width='2'/><path d='M190,215 Q200,200 210,215' fill='none' stroke='#000' stroke-width='2'/><line x1='170' y1='250' x2='230' y2='250' stroke='#000' stroke-width='3'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#81c784'/><ellipse cx='200' cy='100' rx='70' ry='50' fill='#4caf50'/><path d='M150,150 L250,150 L200,200 Z' fill='#1b5e20'/><polygon points='130,200 150,180 170,200' fill='#33691e'/><polygon points='230,200 250,180 270,200' fill='#33691e'/><line x1='160' y1='250' x2='180' y2='280' stroke='#64b5f6' stroke-width='3'/><line x1='220' y1='250' x2='240' y2='280' stroke='#64b5f6' stroke-width='3'/><rect x='155' y='300' width='90' height='50' fill='#fff176'/><ellipse cx='180' cy='300' rx='20' ry='15' fill='#fdd835'/><ellipse cx='220' cy='300' rx='20' ry='15' fill='#fdd835'/></svg>",
     "report": {
-      "appearance": "アダムは、青い体に紺色の楕円形の顔を持ち、顔周りに青い三角形模様を持つ男性生命体です。手は黒い小さな円で表現され、体の中央に黒い瞳を持つ目があります。",
-      "reason": "アダムは深海の神秘的な色彩に魅了され、より海洋生物に適応した進化を遂げました。",
-      "thought": "『深海の謎を宿す者』"
+      "appearance": "アダムは、緑色の肌を持ち、顔には楕円形の緑色の目と大きな口があります。頭部には緑色の短い角がつき、背中には緑色の模様があります。四肢は黄色で、手には大きな黄色い爪があります。しっぽは太く緩やかで、黄色です。",
+      "reason": "アダムは自然環境への適応を重視し、緑色の肌や模様が進化しました。",
+      "thought": "『自然と調和する喜び』"
     },
     "name": "アダム",
     "gender": "男性"
