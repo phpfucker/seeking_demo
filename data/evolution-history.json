@@ -17899,5 +17899,28 @@
       "gender": "男性"
     },
     "timestamp": 1763792540240
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='200' rx='120' ry='170' fill='#ff99cc'/><path d='M120 180 Q200 20 280 180 Q200 340 120 180' fill='#ff66cc'/><polygon points='120,180 280,180 200,300' fill='#ff33cc'/><circle cx='140' cy='175' r='10' fill='#e60073'/><circle cx='260' cy='175' r='10' fill='#e60073'/><ellipse cx='200' cy='220' rx='30' ry='15' fill='#ffcccb'/><line x1='160' y1='220' x2='240' y2='220' stroke='#e60073' stroke-width='5'/><circle cx='180' cy='185' r='8' fill='#e60073'/><circle cx='220' cy='185' r='8' fill='#e60073'/><rect x='180' y='220' width='40' height='10' fill='#e60073'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかい外見を持ち、細長い体と大きな眼が特徴です。頭部には複雑な模様が描かれ、しっぽと尾びれが優雅に広がっています。",
+        "reason": "新たな環境への適応のため、イヴは柔らかく華やかな外見を身にまとい、洗練された特徴を持つように進化しました。",
+        "thought": "『優しさと美しさが共存する』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#87ceeb'/><rect x='150' y='180' width='100' height='160' rx='20' fill='#4682b4'/><path d='M200 220 L180 280 L220 280 Z' fill='#4682b4'/><circle cx='160' cy='180' r='10' fill='#4682b4'/><circle cx='240' cy='180' r='10' fill='#4682b4'/><ellipse cx='200' cy='240' rx='30' ry='15' fill='#87ceeb'/><line x1='180' y1='240' x2='220' y2='240' stroke='#4682b4' stroke-width='5'/><circle cx='180' cy='195' r='8' fill='#4682b4'/><circle cx='220' cy='195' r='8' fill='#4682b4'/><polygon points='180,250 220,250 200,300' fill='#4682b4'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い体と四角い頭部、頑丈な体つきが特徴です。背中には翼のような模様があり、しっかりとした足と尾びれを持っています。",
+        "reason": "過酷な環境での生存策として、アダムは頑丈で力強い外見を発展させ、生命力を強化するために進化しました。",
+        "thought": "『力強さと堅実さが宿る』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1763814587207
   }
 ]
