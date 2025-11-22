@@ -17853,5 +17853,28 @@
       "gender": "男性"
     },
     "timestamp": 1763749365838
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='100' rx='80' ry='120' fill='#ffda77'/><rect x='160' y='180' width='80' height='100' fill='#ffda77'/><path d='M200,180 L220,220 L180,220 Z' fill='#ffda77'/><polygon points='180,100 200,60 220,100' fill='#ffda77'/><circle cx='180' cy='80' r='10' fill='#ffffff'/><circle cx='220' cy='80' r='10' fill='#ffffff'/><circle cx='180' cy='80' r='3' fill='#000000'/><circle cx='220' cy='80' r='3' fill='#000000'/><ellipse cx='185' cy='160' rx='7' ry='10' fill='#ffffff'/><ellipse cx='215' cy='160' rx='7' ry='10' fill='#ffffff'/></svg>",
+      "report": {
+        "appearance": "イヴは、全体的に黄色がかった肌を持ち、円形の顔に大きな楕円形の目を持ちます。体は楕円形で、腰から下が四角い形状をしており、手と足は三角形のような形をしています。",
+        "reason": "イヴは新たな環境に適応するため、柔らかな色合いと幾何学的な形状が組み合わさった姿に進化しました。",
+        "thought": "『平和と調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='100' rx='90' ry='110' fill='#70a9ff'/><rect x='160' y='190' width='80' height='90' fill='#70a9ff'/><path d='M190,180 L210,180 L200,220 Z' fill='#70a9ff'/><polygon points='180,100 200,60 220,100' fill='#70a9ff'/><circle cx='180' cy='80' r='12' fill='#ffffff'/><circle cx='220' cy='80' r='12' fill='#ffffff'/><circle cx='180' cy='80' r='4' fill='#000000'/><circle cx='220' cy='80' r='4' fill='#000000'/><ellipse cx='185' cy='160' rx='7' ry='12' fill='#ffffff'/><ellipse cx='215' cy='160' rx='7' ry='12' fill='#ffffff'/></svg>",
+      "report": {
+        "appearance": "アダムは、青みがかった肌を持ち、顔は楕円形で大きな円形の目を持っています。体は楕円形で、腰から下が四角い形をしており、手と足は三角形のような形状です。",
+        "reason": "アダムは新たな環境に適応するため、青みを帯びた色調と幾何学的な形状が融合した外見に進化しました。",
+        "thought": "『勇気と創造性』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1763773987216
   }
 ]
