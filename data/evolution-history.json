@@ -18014,5 +18014,28 @@
       "gender": "男性"
     },
     "timestamp": 1763900953173
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFC0CB'/><rect x='150' y='200' width='100' height='200' fill='#FFA07A'/><ellipse cx='200' cy='100' rx='70' ry='50' fill='#F08080'/><path d='M180 100 Q200 50 220 100' fill='none' stroke='#8B0000' stroke-width='5'/><polygon points='170,200 180,220 220,220 230,200' fill='#FF69B4'/><line x1='170' y1='150' x2='190' y2='150' stroke='#8B0000' stroke-width='5'/><line x1='210' y1='150' x2='230' y2='150' stroke='#8B0000' stroke-width='5'/><circle cx='180' cy='90' r='10' fill='#FFFFFF'/><circle cx='220' cy='90' r='10' fill='#FFFFFF'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、オレンジ色の厚い尾と、赤い角が特徴の女性の進化した姿です。体は丸みを帯びており、顔には大きな赤い目があります。",
+        "reason": "環境の変化により、イヴは美しい色と柔らかな特徴を持つよう進化しました。",
+        "thought": "『愛と美しさの力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='200' width='100' height='200' fill='#4682B4'/><ellipse cx='200' cy='100' rx='70' ry='50' fill='#4169E1'/><path d='M180 100 Q200 50 220 100' fill='none' stroke='#00008B' stroke-width='5'/><polygon points='170,200 180,220 220,220 230,200' fill='#87CEEB'/><line x1='170' y1='150' x2='190' y2='150' stroke='#00008B' stroke-width='5'/><line x1='210' y1='150' x2='230' y2='150' stroke='#00008B' stroke-width='5'/><circle cx='180' cy='90' r='10' fill='#FFFFFF'/><circle cx='220' cy='90' r='10' fill='#FFFFFF'/><polygon points='150,250 170,250 160,300' fill='#778899'/><polygon points='230,250 250,250 240,300' fill='#778899'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体と青い尾、青い角が特徴の男性の進化した姿です。体は力強く、顔には大きな青い目があります。",
+        "reason": "環境の変化により、アダムは強さと逞しさを表す特徴を持つよう進化しました。",
+        "thought": "『勇気と力強さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1763922095881
   }
 ]
