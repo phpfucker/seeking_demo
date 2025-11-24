@@ -18083,5 +18083,28 @@
       "gender": "男性"
     },
     "timestamp": 1763965596458
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='150' ry='190' fill='#ffcc99' /><circle cx='150' cy='140' r='20' fill='#ff9966' /><circle cx='250' cy='140' r='20' fill='#ff9966' /><ellipse cx='200' cy='225' rx='40' ry='20' fill='#ff9966' /><path d='M180 230 Q200 250 220 230' fill='none' stroke='#663300' stroke-width='4' /><path d='M185 235 Q200 245 215 235' fill='none' stroke='#663300' stroke-width='3' /><path d='M180 178 Q200 185 220 178' fill='none' stroke='#663300' stroke-width='3' /><line x1='170' y1='230' x2='170' y2='250' stroke='#663300' stroke-width='3' /><line x1='230' y1='230' x2='230' y2='250' stroke='#663300' stroke-width='3' /><polygon points='160,190 200,210 240,190' fill='#ffcc99' /><ellipse cx='180' cy='140' rx='10' ry='6' fill='#fff' /><ellipse cx='220' cy='140' rx='10' ry='6' fill='#fff' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、体長が短く毛並みが美しい特徴を持ちます。顔には大きな瞳と柔らかな口元があり、頭部には小さな角が生えています。四肢は細長く、優雅な仕草が特徴です。",
+        "reason": "環境の変化により、イヴはより美しく、優雅で独自の特徴を持つ姿に進化しました。",
+        "thought": "『自然の美しさを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='140' ry='180' fill='#3399ff' /><circle cx='170' cy='140' r='20' fill='#3366ff' /><circle cx='230' cy='140' r='20' fill='#3366ff' /><ellipse cx='185' cy='220' rx='20' ry='40' fill='#3366ff' /><ellipse cx='215' cy='220' rx='20' ry='40' fill='#3366ff' /><line x1='170' y1='230' x2='170' y2='250' stroke='#000' stroke-width='3' /><line x1='230' y1='230' x2='230' y2='250' stroke='#000' stroke-width='3' /><polygon points='160,190 200,210 240,190' fill='#3399ff' /><ellipse cx='180' cy='140' rx='10' ry='6' fill='#fff' /><ellipse cx='220' cy='140' rx='10' ry='6' fill='#fff' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の光沢のある皮膚を持ち、スマートで引き締まった体つきが特徴です。顔には鋭い目と力強い口元があり、頭部には角が大きく発達しています。四肢は筋肉質で力強い姿勢を示します。",
+        "reason": "生存競争の激化により、アダムはより力強く、スマートで知性を感じさせる姿に進化しました。",
+        "thought": "『強靭な力を持つ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1763987737379
   }
 ]
