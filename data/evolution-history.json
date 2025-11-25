@@ -18152,5 +18152,28 @@
       "gender": "男性"
     },
     "timestamp": 1764033393222
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"100\" width=\"300\" height=\"200\" fill=\"#ffcccb\"/><ellipse cx=\"200\" cy=\"200\" rx=\"80\" ry=\"100\" fill=\"#ffb6c1\"/><circle cx=\"150\" cy=\"180\" r=\"15\" fill=\"#ffffff\"/><circle cx=\"250\" cy=\"180\" r=\"15\" fill=\"#ffffff\"/><rect x=\"180\" y=\"230\" width=\"40\" height=\"20\" fill=\"#ffffff\"/><polygon points=\"180,230 220,230 200,250\" fill=\"#ffffff\"/><polygon points=\"120,120 200,30 280,120\" fill=\"#ffb6c1\"/><polygon points=\"120,120 200,180 280,120\" fill=\"#ffcccb\"/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の大きな楕円形の体に、白い目と小さな手足を持つ女性型の生命体です。胴体の中央には白い模様があり、全体的に柔らかい印象を与えます。",
+        "reason": "進化が起こった理由は、イヴが自然界の力に感謝の意を表現し、柔らかな美しさを身にまといたいと望んだからです。",
+        "thought": "『生命の花を咲かせたい』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"100\" width=\"300\" height=\"200\" fill=\"#afeeee\"/><ellipse cx=\"200\" cy=\"200\" rx=\"80\" ry=\"100\" fill=\"#87ceeb\"/><polygon points=\"200,130 180,200 220,200\" fill=\"#ffffff\"/><rect x=\"180\" y=\"230\" width=\"40\" height=\"20\" fill=\"#ffffff\"/><circle cx=\"150\" cy=\"180\" r=\"15\" fill=\"#87ceeb\"/><circle cx=\"250\" cy=\"180\" r=\"15\" fill=\"#87ceeb\"/><polygon points=\"120,120 200,30 280,120\" fill=\"#afeeee\"/><polygon points=\"120,120 200,180 280,120\" fill=\"#87ceeb\"/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の大きな楕円形の体に、白い目と手足を持つ男性型の生命体です。胴体中央に白い模様があり、全体的に凛とした雰囲気を醸し出しています。",
+        "reason": "アダムの進化は、自然の摂理と調和を目指し、内面の強さと外見の力強さを表現したいと願った結果です。",
+        "thought": "『力強く生き抜く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1764052005872
   }
 ]
