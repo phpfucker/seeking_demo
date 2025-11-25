@@ -18129,5 +18129,28 @@
       "gender": "男性"
     },
     "timestamp": 1764008730109
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='none'><circle cx='200' cy='200' r='180' fill='#FFC0CB' /><ellipse cx='200' cy='130' rx='80' ry='110' fill='#FFC0CB' /><ellipse cx='200' cy='280' rx='90' ry='60' fill='#FFC0CB' /><path d='M150,280 Q200,330 250,280' fill='none' stroke='#FF1493' stroke-width='10' /><path d='M150,130 Q200,80 250,130' fill='none' stroke='#FF1493' stroke-width='10' /><path d='M190,140 Q200,100 210,140' fill='none' stroke='#000' stroke-width='2' /><path d='M190,270 Q200,250 210,270' fill='none' stroke='#000' stroke-width='2' /><circle cx='170' cy='120' r='20' fill='#000' /><circle cx='230' cy='120' r='20' fill='#000' /><circle cx='170' cy='120' r='10' fill='#FFC0CB' /><circle cx='230' cy='120' r='10' fill='#FFC0CB' /><path d='M170,160 Q200,180 230,160' fill='none' stroke='#000' stroke-width='5' /><path d='M200,250 Q190,260 200,270 Q210,260 200,250' fill='none' stroke='#000' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の優雅な体と長い前髪を持つ女性。頭部にはふんわりとした角があり、しっぽとして長いリボンが背中から伸びている。手足は細長く、全体的に柔らかで美しい特徴を持つ。",
+        "reason": "イヴは、より華やかで優美な姿を手に入れるために進化した。",
+        "thought": "『愛と美の力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='none'><rect x='100' y='100' width='200' height='200' fill='#ADD8E6' /><ellipse cx='200' cy='90' rx='60' ry='80' fill='#ADD8E6' /><ellipse cx='200' cy='240' rx='70' ry='50' fill='#ADD8E6' /><path d='M150,240 Q200,290 250,240' fill='none' stroke='#4682B4' stroke-width='10' /><path d='M150,90 Q200,40 250,90' fill='none' stroke='#4682B4' stroke-width='10' /><path d='M190,100 Q200,60 210,100' fill='none' stroke='#000' stroke-width='2' /><path d='M190,230 Q200,210 210,230' fill='none' stroke='#000' stroke-width='2' /><circle cx='170' cy='80' r='20' fill='#000' /><circle cx='230' cy='80' r='20' fill='#000' /><circle cx='170' cy='80' r='10' fill='#ADD8E6' /><circle cx='230' cy='80' r='10' fill='#ADD8E6' /><path d='M170,120 Q200,140 230,120' fill='none' stroke='#000' stroke-width='5' /><path d='M200,210 Q190,220 200,230 Q210,220 200,210' fill='none' stroke='#000' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の頑丈な体と厚い体毛を持つ男性。頭部には角があり、力強い印象を与える。背中には短いしっぽがあり、四肢は筋肉質で頑丈な特徴を持つ。",
+        "reason": "アダムは、より力強い外観と頑丈さを手に入れるために進化した。",
+        "thought": "『力と誇りの象徴』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1764033393222
   }
 ]
