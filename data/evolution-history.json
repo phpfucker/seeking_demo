@@ -18244,5 +18244,28 @@
       "gender": "男性"
     },
     "timestamp": 1764119810284
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ffcccb' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#ffb6c1' /><ellipse cx='150' cy='150' rx='20' ry='30' fill='#ffffff' /><ellipse cx='250' cy='150' rx='20' ry='30' fill='#ffffff' /><path d='M180 200 L200 230 L220 200 Z' fill='#ff69b4' /><path d='M160 230 Q200 250 240 230' fill='none' stroke='#000' stroke-width='2' /><path d='M160 200 Q200 250 240 200' fill='none' stroke='#000' stroke-width='2' /><polygon points='180,160 190,160 185,170' fill='#ff69b4' /><polygon points='210,160 220,160 215,170' fill='#ff69b4' /><rect x='180' y='250' width='40' height='20' fill='#ff69b4' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体と赤い髪の女性型生命体です。体は丸みを帯びた形状で、白い目と口があります。髪は肩まで届く長さで、頭の中央にツノがあります。手足は細く、爪はピンク色です。",
+        "reason": "イヴは環境の変化に適応するため、より優れた知性と柔軟性を持つ進化を遂げました。",
+        "thought": "『未来への希望』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#87ceeb' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#4682b4' /><ellipse cx='150' cy='150' rx='20' ry='30' fill='#ffffff' /><ellipse cx='250' cy='150' rx='20' ry='30' fill='#ffffff' /><path d='M180 200 L200 230 L220 200 Z' fill='#4169e1' /><path d='M160 230 Q200 250 240 230' fill='none' stroke='#000' stroke-width='2' /><path d='M160 200 Q200 250 240 200' fill='none' stroke='#000' stroke-width='2' /><polygon points='180,160 190,160 185,170' fill='#4169e1' /><polygon points='210,160 220,160 215,170' fill='#4169e1' /><rect x='180' y='250' width='40' height='20' fill='#4169e1' /></svg>",
+      "report": {
+        "appearance": "アダムは青色の体と青紫色の髪の男性型生命体です。体の形状はイヴと似ており、青い目と口を持ちます。髪は短めで、頭に生えた角が特徴です。手足は筋肉質で、強靭な印象を与えます。",
+        "reason": "アダムは生存競争に勝利するため、力強さと俊敏さを兼ね備えた進化を遂げました。",
+        "thought": "『力強さと優しさ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1764138391108
   }
 ]
