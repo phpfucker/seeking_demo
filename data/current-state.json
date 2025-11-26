@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradA)' /><circle cx='200' cy='150' r='40' fill='rgb(255,255,255)' /><circle cx='160' cy='150' r='10' fill='rgb(0,0,0)' /><circle cx='240' cy='150' r='10' fill='rgb(0,0,0)' /><path d='M180 200 Q200 230 220 200' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M160 250 Q200 280 240 250' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M150 300 Q200 330 250 300' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><circle cx='180' cy='100' r='5' fill='rgb(255,105,180)' /><circle cx='220' cy='100' r='5' fill='rgb(255,105,180)' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ffcccb' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#ffb6c1' /><ellipse cx='150' cy='150' rx='20' ry='30' fill='#ffffff' /><ellipse cx='250' cy='150' rx='20' ry='30' fill='#ffffff' /><path d='M180 200 L200 230 L220 200 Z' fill='#ff69b4' /><path d='M160 230 Q200 250 240 230' fill='none' stroke='#000' stroke-width='2' /><path d='M160 200 Q200 250 240 200' fill='none' stroke='#000' stroke-width='2' /><polygon points='180,160 190,160 185,170' fill='#ff69b4' /><polygon points='210,160 220,160 215,170' fill='#ff69b4' /><rect x='180' y='250' width='40' height='20' fill='#ff69b4' /></svg>",
     "report": {
-      "appearance": "イヴはピンクと白のグラデーションが美しい女性型生命体です。柔らかな曲線と優美な輝きを持ち、全体的に優しい印象を与えます。頭部には二つの小さな黒い瞳があり、長い髪と一体化するようにして配置されています。",
-      "reason": "進化の過程において、イヴは美しさと優しさを象徴する姿へと発展しました。繊細で愛らしいデザインが持つエレガントな特徴が、生存競争において優位性をもたらすと考えられます。",
-      "thought": "『生命の美しさ』"
+      "appearance": "イヴはピンク色の体と赤い髪の女性型生命体です。体は丸みを帯びた形状で、白い目と口があります。髪は肩まで届く長さで、頭の中央にツノがあります。手足は細く、爪はピンク色です。",
+      "reason": "イヴは環境の変化に適応するため、より優れた知性と柔軟性を持つ進化を遂げました。",
+      "thought": "『未来への希望』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(135,206,250);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,191,255);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradB)' /><circle cx='200' cy='150' r='40' fill='rgb(255,255,255)' /><circle cx='180' cy='150' r='10' fill='rgb(0,0,0)' /><circle cx='220' cy='150' r='10' fill='rgb(0,0,0)' /><path d='M160 200 Q200 230 240 200' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M140 250 Q200 280 260 250' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M130 300 Q200 330 270 300' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><rect x='190' y='100' width='20' height='10' fill='rgb(0,191,255)' /><rect x='180' y='110' width='40' height='5' fill='rgb(0,191,255)' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#87ceeb' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#4682b4' /><ellipse cx='150' cy='150' rx='20' ry='30' fill='#ffffff' /><ellipse cx='250' cy='150' rx='20' ry='30' fill='#ffffff' /><path d='M180 200 L200 230 L220 200 Z' fill='#4169e1' /><path d='M160 230 Q200 250 240 230' fill='none' stroke='#000' stroke-width='2' /><path d='M160 200 Q200 250 240 200' fill='none' stroke='#000' stroke-width='2' /><polygon points='180,160 190,160 185,170' fill='#4169e1' /><polygon points='210,160 220,160 215,170' fill='#4169e1' /><rect x='180' y='250' width='40' height='20' fill='#4169e1' /></svg>",
     "report": {
-      "appearance": "アダムは青と白のグラデーションが美しい男性型生命体です。頑丈な身体と逞しい形状を持ち、全体的に力強い印象を与えます。瞳は真っ直ぐで、マスク状の模様が頭部を覆い、威厳を漂わせています。",
-      "reason": "アダムの進化は力強さと堂々とした風格を示す姿へと向かいました。堅固な構造と優れた運動能力が、環境における生存と繁栄において有利であると判断されたためです。",
-      "thought": "『生命の力強さ』"
+      "appearance": "アダムは青色の体と青紫色の髪の男性型生命体です。体の形状はイヴと似ており、青い目と口を持ちます。髪は短めで、頭に生えた角が特徴です。手足は筋肉質で、強靭な印象を与えます。",
+      "reason": "アダムは生存競争に勝利するため、力強さと俊敏さを兼ね備えた進化を遂げました。",
+      "thought": "『力強さと優しさ』"
     },
     "name": "アダム",
     "gender": "男性"

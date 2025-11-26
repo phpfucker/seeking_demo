@@ -18221,5 +18221,28 @@
       "gender": "男性"
     },
     "timestamp": 1764095168940
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradA)' /><circle cx='200' cy='150' r='40' fill='rgb(255,255,255)' /><circle cx='160' cy='150' r='10' fill='rgb(0,0,0)' /><circle cx='240' cy='150' r='10' fill='rgb(0,0,0)' /><path d='M180 200 Q200 230 220 200' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M160 250 Q200 280 240 250' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M150 300 Q200 330 250 300' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><circle cx='180' cy='100' r='5' fill='rgb(255,105,180)' /><circle cx='220' cy='100' r='5' fill='rgb(255,105,180)' /></svg>",
+      "report": {
+        "appearance": "イヴはピンクと白のグラデーションが美しい女性型生命体です。柔らかな曲線と優美な輝きを持ち、全体的に優しい印象を与えます。頭部には二つの小さな黒い瞳があり、長い髪と一体化するようにして配置されています。",
+        "reason": "進化の過程において、イヴは美しさと優しさを象徴する姿へと発展しました。繊細で愛らしいデザインが持つエレガントな特徴が、生存競争において優位性をもたらすと考えられます。",
+        "thought": "『生命の美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(135,206,250);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,191,255);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradB)' /><circle cx='200' cy='150' r='40' fill='rgb(255,255,255)' /><circle cx='180' cy='150' r='10' fill='rgb(0,0,0)' /><circle cx='220' cy='150' r='10' fill='rgb(0,0,0)' /><path d='M160 200 Q200 230 240 200' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M140 250 Q200 280 260 250' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><path d='M130 300 Q200 330 270 300' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><rect x='190' y='100' width='20' height='10' fill='rgb(0,191,255)' /><rect x='180' y='110' width='40' height='5' fill='rgb(0,191,255)' /></svg>",
+      "report": {
+        "appearance": "アダムは青と白のグラデーションが美しい男性型生命体です。頑丈な身体と逞しい形状を持ち、全体的に力強い印象を与えます。瞳は真っ直ぐで、マスク状の模様が頭部を覆い、威厳を漂わせています。",
+        "reason": "アダムの進化は力強さと堂々とした風格を示す姿へと向かいました。堅固な構造と優れた運動能力が、環境における生存と繁栄において有利であると判断されたためです。",
+        "thought": "『生命の力強さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1764119810284
   }
 ]
