@@ -18359,5 +18359,28 @@
       "gender": "男性"
     },
     "timestamp": 1764224802858
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightpink' /><rect x='140' y='180' width='120' height='100' fill='pink' /><ellipse cx='160' cy='230' rx='25' ry='15' fill='white' /><ellipse cx='240' cy='230' rx='25' ry='15' fill='white' /><path d='M180,180 Q200,80 220,180' fill='none' stroke='black' stroke-width='2' /><path d='M180,180 Q200,130 220,180' fill='none' stroke='black' stroke-width='2' /><circle cx='170' cy='190' r='5' fill='black' /><circle cx='230' cy='190' r='5' fill='black' /><rect x='190' y='240' width='20' height='10' fill='black' /><rect x='190' y='220' width='20' height='10' fill='black' /><text x='200' y='280' font-family='Arial' font-size='18' fill='black' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、淡いピンクの全身に、白い目と手を持つ女性像です。軽やかな足取りと愛らしいしっぽが特徴で、優しさと気品を併せ持つ姿です。",
+        "reason": "進化のプロセスにおいて、イヴは優美さと優しさをより表現するため、美しいピンク色と愛らしい特徴を身に纏うように進化しました。",
+        "thought": "『優しさと愛を守り抜く』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='160' width='100' height='150' fill='lightblue' /><path d='M160,160 Q200,80 240,160' fill='none' stroke='black' stroke-width='2' /><path d='M160,160 Q200,110 240,160' fill='none' stroke='black' stroke-width='2' /><circle cx='170' cy='170' r='5' fill='black' /><circle cx='230' cy='170' r='5' fill='black' /><rect x='190' y='260' width='20' height='10' fill='black' /><rect x='190' y='240' width='20' height='10' fill='black' /><path d='M180,280 Q200,310 220,280' fill='none' stroke='black' stroke-width='2' /><polygon points='170,270 200,250 230,270' fill='white' /><text x='200' y='320' font-family='Arial' font-size='18' fill='black' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、穏やかな青色に包まれた男性像であり、頑強な体つきと白い目が特徴です。力強い足取りと尊厳ある角を持ち、威厳と誠実さを示す姿をしています。",
+        "reason": "アダムは進化を通じて、内面の誠実さと威厳をより表現するため、力強い青色と堂々とした特徴を身に纏うように進化しました。",
+        "thought": "『誠実さと力強さを誇示する』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1764246942945
   }
 ]
