@@ -18382,5 +18382,28 @@
       "gender": "男性"
     },
     "timestamp": 1764246942945
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' gradientTransform='rotate(90)'><stop offset='0%' style='stop-color:#FFDAB9' /><stop offset='100%' style='stop-color:#FFA07A' /></linearGradient></defs><rect x='50' y='100' width='300' height='200' fill='url(#gradA)' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#FFA07A' /><path d='M140,180 L200,220 L260,180 Q200,240 140,180' fill='#EF946C' /><circle cx='170' cy='130' r='10' fill='#FFF' /><circle cx='230' cy='130' r='10' fill='#FFF' /><circle cx='200' cy='170' r='5' fill='#000' /><path d='M150,260 L170,240 L200,260 L230,240 L250,260 Q200,300 150,260' fill='#FFA07A' /><polygon points='180,200 220,200 200,230' fill='#FFF' /><path d='M140,280 Q160,330 200,290 Q240,330 260,280 Q200,320 140,280' fill='#EF946C' /></svg>",
+      "report": {
+        "appearance": "イヴは、全身を包む優しい色合いのグラデーションが特徴の生命体です。体は丸みを帯びた楕円形で、柔らかなピンク色の皮膚を持ち、背中には淡いオレンジ色の模様が現れています。長くてしなやかな尾と、頭部に生えた小さな角が特徴的で、愛らしい表情を持っています。",
+        "reason": "イヴは内面の豊かさと柔らかさが進化の理由です。新たな感情や思考を形にする力が求められ、より繊細な特徴を備えることで、進化が起こりました。",
+        "thought": "『やさしさと創造力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' gradientTransform='rotate(90)'><stop offset='0%' style='stop-color:#4682B4' /><stop offset='100%' style='stop-color:#87CEEB' /></linearGradient></defs><rect x='50' y='100' width='300' height='200' fill='url(#gradB)' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#87CEEB' /><path d='M140,180 L200,220 L260,180 Q200,240 140,180' fill='#5CACEE' /><circle cx='170' cy='130' r='10' fill='#FFF' /><circle cx='230' cy='130' r='10' fill='#FFF' /><circle cx='200' cy='170' r='5' fill='#000' /><path d='M150,260 L170,240 L200,260 L230,240 L250,260 Q200,300 150,260' fill='#87CEEB' /><polygon points='180,200 220,200 200,230' fill='#FFF' /><path d='M140,280 Q160,330 200,290 Q240,330 260,280 Q200,320 140,280' fill='#5CACEE' /></svg>",
+      "report": {
+        "appearance": "アダムは、爽やかな青色のグラデーションが特徴の生命体です。体は頑丈で力強い印象を与える楕円形で、深い青色の皮膚を持ち、体表には水色の模様が広がっています。大きくて逞しい角と、力強い足が特徴的で、凛々しい表情をしています。",
+        "reason": "アダムは内面の強さと安定性が進化の理由です。生存に必要な力強さと安定感が求められ、より頑丈で力強い特徴を持つことで、進化が成就しました。",
+        "thought": "『勇気と堅実さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1764267775413
   }
 ]
