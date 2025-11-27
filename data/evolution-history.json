@@ -18336,5 +18336,28 @@
       "gender": "男性"
     },
     "timestamp": 1764206140721
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><rect x='125' y='200' width='150' height='160' fill='#ff99cc' /><polygon points='200,120 250,200 150,200' fill='#ff66b2' /><ellipse cx='200' cy='100' rx='50' ry='30' fill='#ff3399' /><path d='M180,240 Q200,300 220,240' fill='none' stroke='#99004d' stroke-width='5' /><line x1='160' y1='180' x2='130' y2='230' stroke='#99004d' stroke-width='5' /><line x1='240' y1='180' x2='270' y2='230' stroke='#99004d' stroke-width='5' /><circle cx='170' cy='90' r='10' fill='#99004d' /><circle cx='230' cy='90' r='10' fill='#99004d' /><line x1='170' y1='125' x2='210' y2='125' stroke='#99004d' stroke-width='5' /><line x1='170' y1='125' x2='180' y2='145' stroke='#99004d' stroke-width='5' /><line x1='210' y1='125' x2='200' y2='145' stroke='#99004d' stroke-width='5' /><path d='M180,260 Q200,280 220,260' fill='none' stroke='#99004d' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の円形の胴体には薄いピンク色の矩形のスカートを身に纏い、顔には薄いピンク色の楕円形の頭部を持ち、目立つ薄紫色の三角形の模様が入っています。両腕には薄いピンク色の腕を持ち、薄いピンク色の足元には薄いピンク色の靴を履いています。",
+        "reason": "生命体が新たな環境に適応するため、柔らかな色合いと優雅な模様が進化しました。",
+        "thought": "『愛と優しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#3366ff' /><rect x='125' y='200' width='150' height='160' fill='#6699ff' /><polygon points='200,120 250,200 150,200' fill='#99ccff' /><ellipse cx='200' cy='100' rx='50' ry='30' fill='#cce6ff' /><path d='M180,240 Q200,300 220,240' fill='none' stroke='#004080' stroke-width='5' /><line x1='160' y1='180' x2='130' y2='230' stroke='#004080' stroke-width='5' /><line x1='240' y1='180' x2='270' y2='230' stroke='#004080' stroke-width='5' /><circle cx='170' cy='90' r='10' fill='#004080' /><circle cx='230' cy='90' r='10' fill='#004080' /><line x1='170' y1='125' x2='210' y2='125' stroke='#004080' stroke-width='5' /><line x1='170' y1='125' x2='180' y2='145' stroke='#004080' stroke-width='5' /><line x1='210' y1='125' x2='200' y2='145' stroke='#004080' stroke-width='5' /><path d='M180,260 Q200,280 220,260' fill='none' stroke='#004080' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の円形の胴体には濃い青色の矩形のパンツを身に纏い、顔には薄い青色の楕円形の頭部を持ち、目立つ水色の三角形の模様が入っています。両腕には濃い青色の腕を持ち、濃い青色の足元には濃い青色のブーツを履いています。",
+        "reason": "生命体が新たな環境に適応するため、青色系の色合いと力強い模様が進化しました。",
+        "thought": "『勇気と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1764224802858
   }
 ]
