@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='160' fill='#ffe0bd' /><ellipse cx='200' cy='160' rx='80' ry='100' fill='#ffb5a7' /><rect x='160' y='190' width='80' height='100' fill='#ff8c94' /><path d='M140 220 L200 280 L260 220 Z' fill='#ff6666' /><path d='M150 260 C150 220 250 220 250 260' fill='none' stroke='#bf5b17' stroke-width='4' /><circle cx='180' cy='180' r='10' fill='#8c4c46' /><circle cx='220' cy='180' r='10' fill='#8c4c46' /><circle cx='200' cy='160' r='5' fill='#8c4c46' /><circle cx='180' cy='140' r='5' fill='#8c4c46' /><circle cx='220' cy='140' r='5' fill='#8c4c46' /><path d='M190 160 L210 160' stroke='#8c4c46' stroke-width='2' /><path d='M200 170 Q190 180 180 170' fill='none' stroke='#8c4c46' stroke-width='2' /><path d='M200 170 Q210 180 220 170' fill='none' stroke='#8c4c46' stroke-width='2' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#8c4c46' text-anchor='middle'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='150' rx='80' ry='110' fill='#ffebcd' /><ellipse cx='160' cy='160' rx='20' ry='10' fill='#000' /><ellipse cx='240' cy='160' rx='20' ry='10' fill='#000' /><path d='M160 220 Q200 240 240 220 Q200 260 160 220' fill='#fff' /><path d='M160 220 Q200 240 240 220 Q200 260 160 220' fill='none' stroke='#000' /><polygon points='180,220 220,220 200,260' fill='#f0e68c' /><polygon points='190,200 210,200 200,190' fill='#f0e68c' /><rect x='180' y='260' width='40' height='30' fill='#ffcccb' /><circle cx='200' cy='290' r='10' fill='#fff' /><line x1='175' y1='235' x2='165' y2='250' stroke='#000' stroke-width='2' /><line x1='225' y1='235' x2='235' y2='250' stroke='#000' stroke-width='2' /><line x1='180' y1='290' x2='220' y2='290' stroke='#000' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンクやオレンジ色のふわふわした毛並みと、赤い大きな角を持つ女性生命体です。大きな目とやさしい表情で、しっぽと手足には模様が施されています。",
-      "reason": "生態系において、新たな生存戦略を模索する中で、より華やかな色合いと優しげな特徴が好まれるようになり、イヴは進化しました。",
-      "thought": "『繊細な力強さ』"
+      "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、優雅な体つきと角のある顔が特徴的です。顔には大きな目と小さな口があり、しっぽとふわふわの毛が背中に生えています。",
+      "reason": "自然環境の変化により、イヴはより華やかで優美な姿に進化しました。",
+      "thought": "『愛と美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#8cd790' /><circle cx='200' cy='100' r='50' fill='#5cbca2' /><circle cx='200' cy='300' r='50' fill='#5cbca2' /><polygon points='150,100 200,50 250,100' fill='#5cbca2' /><polygon points='150,300 200,350 250,300' fill='#5cbca2' /><path d='M170 150 Q200 130 230 150' fill='none' stroke='#5cbca2' stroke-width='4' /><line x1='170' y1='210' x2='230' y2='210' stroke='#5cbca2' stroke-width='4' /><line x1='200' y1='210' x2='200' y2='280' stroke='#5cbca2' stroke-width='4' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#5cbca2' text-anchor='middle'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#add8e6' /><polygon points='200,100 150,150 250,150' fill='#add8e6' /><ellipse cx='200' cy='80' rx='40' ry='30' fill='#fff' /><rect x='180' y='130' width='40' height='20' fill='#000' /><circle cx='180' cy='160' r='5' fill='#fff' /><circle cx='220' cy='160' r='5' fill='#fff' /><polygon points='190,200 210,200 200,220' fill='#f0e68c' /><line x1='180' y1='220' x2='220' y2='220' stroke='#000' stroke-width='2' /><polygon points='185,300 215,300 200,320' fill='#add8e6' /><rect x='195' y='320' width='10' height='30' fill='#add8e6' /></svg>",
     "report": {
-      "appearance": "アダムは、緑色の全身を覆う鱗状の外皮と、青い目を持つ男性生命体です。頭部には2本の突起物があり、力強い印象を与えます。",
-      "reason": "環境の変化により、厳しい自然環境において生存するため、アダムはより頑丈な外見と迫力ある特徴を持つべく進化しました。",
-      "thought": "『力強い意志』"
+      "appearance": "アダムは、青色の硬い外殻を持ち、がっしりとした体つきと丸い顔が特徴的です。大きな口と角が生えた顔には優しさがにじみ出ています。",
+      "reason": "繁殖競争の中で、アダムはより強靭な体と優しい表情を持つことで、仲間たちとの絆を深めるために進化しました。",
+      "thought": "『絆と守護』"
     },
     "name": "アダム",
     "gender": "男性"

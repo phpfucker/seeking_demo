@@ -18451,5 +18451,28 @@
       "gender": "男性"
     },
     "timestamp": 1764311189450
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='160' fill='#ffe0bd' /><ellipse cx='200' cy='160' rx='80' ry='100' fill='#ffb5a7' /><rect x='160' y='190' width='80' height='100' fill='#ff8c94' /><path d='M140 220 L200 280 L260 220 Z' fill='#ff6666' /><path d='M150 260 C150 220 250 220 250 260' fill='none' stroke='#bf5b17' stroke-width='4' /><circle cx='180' cy='180' r='10' fill='#8c4c46' /><circle cx='220' cy='180' r='10' fill='#8c4c46' /><circle cx='200' cy='160' r='5' fill='#8c4c46' /><circle cx='180' cy='140' r='5' fill='#8c4c46' /><circle cx='220' cy='140' r='5' fill='#8c4c46' /><path d='M190 160 L210 160' stroke='#8c4c46' stroke-width='2' /><path d='M200 170 Q190 180 180 170' fill='none' stroke='#8c4c46' stroke-width='2' /><path d='M200 170 Q210 180 220 170' fill='none' stroke='#8c4c46' stroke-width='2' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#8c4c46' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクやオレンジ色のふわふわした毛並みと、赤い大きな角を持つ女性生命体です。大きな目とやさしい表情で、しっぽと手足には模様が施されています。",
+        "reason": "生態系において、新たな生存戦略を模索する中で、より華やかな色合いと優しげな特徴が好まれるようになり、イヴは進化しました。",
+        "thought": "『繊細な力強さ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#8cd790' /><circle cx='200' cy='100' r='50' fill='#5cbca2' /><circle cx='200' cy='300' r='50' fill='#5cbca2' /><polygon points='150,100 200,50 250,100' fill='#5cbca2' /><polygon points='150,300 200,350 250,300' fill='#5cbca2' /><path d='M170 150 Q200 130 230 150' fill='none' stroke='#5cbca2' stroke-width='4' /><line x1='170' y1='210' x2='230' y2='210' stroke='#5cbca2' stroke-width='4' /><line x1='200' y1='210' x2='200' y2='280' stroke='#5cbca2' stroke-width='4' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#5cbca2' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、緑色の全身を覆う鱗状の外皮と、青い目を持つ男性生命体です。頭部には2本の突起物があり、力強い印象を与えます。",
+        "reason": "環境の変化により、厳しい自然環境において生存するため、アダムはより頑丈な外見と迫力ある特徴を持つべく進化しました。",
+        "thought": "『力強い意志』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1764333278473
   }
 ]
