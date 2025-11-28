@@ -18405,5 +18405,28 @@
       "gender": "男性"
     },
     "timestamp": 1764267775413
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,207,148);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(254,94,65);stop-opacity:1' /></linearGradient></defs><rect x='50' y='50' width='300' height='300' fill='url(#gradA)' /><ellipse cx='200' cy='200' rx='120' ry='160' fill='rgb(255,207,148)' /><ellipse cx='170' cy='180' rx='20' ry='30' fill='rgb(254,94,65)' /><ellipse cx='230' cy='180' rx='20' ry='30' fill='rgb(254,94,65)' /><path d='M180,230 Q200,250 220,230' fill='none' stroke='black' stroke-width='2' /><path d='M150,300 Q200,340 250,300' fill='none' stroke='black' stroke-width='2' /><path d='M160,260 Q200,290 240,260' fill='none' stroke='black' stroke-width='2' /><polygon points='170,155 190,155 180,165' fill='rgb(254,94,65)' /><polygon points='210,155 230,155 220,165' fill='rgb(254,94,65)' /><polygon points='170,250 180,240 190,250' fill='rgb(254,94,65)' /><polygon points='230,250 220,240 210,250' fill='rgb(254,94,65)' /><line x1='150' y1='200' x2='170' y2='200' stroke='black' stroke-width='3' /><line x1='230' y1='200' x2='250' y2='200' stroke='black' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "イヴは、鮮やかなオレンジ色と赤色のグラデーションが美しい女性型生命体です。体は大きな楕円形で、顔には小さな赤い楕円形の目があります。神秘的な魅力を持ち、優雅な雰囲気が漂います。",
+        "reason": "進化が起こった理由は、自然界の調和を象徴する新たな美しさを追求するためです。",
+        "thought": "『生命の美しさを守りたい』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(148,207,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,94,254);stop-opacity:1' /></linearGradient></defs><rect x='50' y='50' width='300' height='300' fill='url(#gradB)' /><ellipse cx='200' cy='200' rx='120' ry='160' fill='rgb(148,207,255)' /><ellipse cx='170' cy='180' rx='20' ry='30' fill='rgb(65,94,254)' /><ellipse cx='230' cy='180' rx='20' ry='30' fill='rgb(65,94,254)' /><path d='M180,230 Q200,250 220,230' fill='none' stroke='black' stroke-width='2' /><path d='M150,300 Q200,340 250,300' fill='none' stroke='black' stroke-width='2' /><path d='M160,260 Q200,290 240,260' fill='none' stroke='black' stroke-width='2' /><polygon points='170,155 190,155 180,165' fill='rgb(65,94,254)' /><polygon points='210,155 230,155 220,165' fill='rgb(65,94,254)' /><polygon points='170,250 180,240 190,250' fill='rgb(65,94,254)' /><polygon points='230,250 220,240 210,250' fill='rgb(65,94,254)' /><line x1='150' y1='200' x2='170' y2='200' stroke='black' stroke-width='3' /><line x1='230' y1='200' x2='250' y2='200' stroke='black' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "アダムは、穏やかな青色と濃い青色のグラデーションが美しい男性型生命体です。体は大きな楕円形で、穏やかな表情と知的な眼差しを持っています。",
+        "reason": "進化が起こった理由は、知性と調和を持つ新たな進化形態が適応優位になったためです。",
+        "thought": "『新たな知識を追求する』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1764292489885
   }
 ]
