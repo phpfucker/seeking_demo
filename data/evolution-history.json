@@ -18428,5 +18428,28 @@
       "gender": "男性"
     },
     "timestamp": 1764292489885
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' width='400' height='400'><rect x='100' y='100' width='200' height='200' fill='#ffcccc' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='#ff9999' /><circle cx='140' cy='170' r='10' fill='#ff6666' /><circle cx='260' cy='170' r='10' fill='#ff6666' /><path d='M165 250 Q200 280 235 250' fill='none' stroke='#ff6666' stroke-width='4' /><path d='M190 250 Q200 270 210 250' fill='none' stroke='#ff6666' stroke-width='4' /><path d='M150 220 Q200 180 250 220' fill='none' stroke='#ff6666' stroke-width='4' /><path d='M130 300 Q200 330 270 300' fill='none' stroke='#ff6666' stroke-width='4' /><polygon points='180,160 220,160 200,180' fill='#ffcccc' /><polygon points='170,240 230,240 200,220' fill='#ffcccc' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体に赤い顔を持ち、大きな目と柔らかい曲線が特徴です。体は楕円形で、手足には赤い爪が付いています。しっぽと角がなめらかな曲線で描かれ、愛らしい表情をしています。",
+        "reason": "イヴは自然の摂理に従い、より優れた適応力を得るために進化しました。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' width='400' height='400'><rect x='100' y='100' width='200' height='200' fill='#9999ff' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='#6666ff' /><circle cx='160' cy='170' r='10' fill='#3333ff' /><circle cx='240' cy='170' r='10' fill='#3333ff' /><path d='M185 250 Q200 270 215 250' fill='none' stroke='#3333ff' stroke-width='4' /><path d='M170 230 Q200 210 230 230' fill='none' stroke='#3333ff' stroke-width='4' /><path d='M140 300 Q200 320 260 300' fill='none' stroke='#3333ff' stroke-width='4' /><path d='M160 220 Q200 200 240 220' fill='none' stroke='#3333ff' stroke-width='4' /><polygon points='180,160 220,160 200,180' fill='#9999ff' /><polygon points='170,240 230,240 200,220' fill='#9999ff' /></svg>",
+      "report": {
+        "appearance": "アダムは青色の体に紫色の顔を持ち、大きな目とカッコいい角が特徴です。体は楕円形で、手足には青い爪が付いています。しっぽと角が鋭い角度で描かれ、力強い表情をしています。",
+        "reason": "アダムは自然の摂理に従い、より優れた狩猟能力を得るために進化しました。",
+        "thought": "『力と勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1764311189450
   }
 ]
