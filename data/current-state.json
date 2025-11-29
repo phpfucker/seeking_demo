@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#ffcccb' /><circle cx='200' cy='150' r='100' fill='#ffd700' /><circle cx='200' cy='250' r='120' fill='#ffb6c1' /><path d='M150,180 Q200,230 250,180 Q200,230 150,180 Z' fill='#fff' /><ellipse cx='160' cy='135' rx='20' ry='10' fill='#fff' /><ellipse cx='240' cy='135' rx='20' ry='10' fill='#fff' /><ellipse cx='200' cy='220' rx='15' ry='10' fill='#000' /><path d='M180,270 Q200,290 220,270' fill='none' stroke='#000' stroke-width='3'/><path d='M160,300 Q200,320 240,300' fill='none' stroke='#000' stroke-width='3'/><line x1='180' y1='180' x2='190' y2='190' stroke='#000' stroke-width='3'/><line x1='220' y1='180' x2='210' y2='190' stroke='#000' stroke-width='3'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='150' rx='50' ry='30' fill='#ffc0cb'/><path d='M150 200 L200 250 L250 200 Z' fill='#ff69b4'/><circle cx='170' cy='160' r='5' fill='#fff' /><circle cx='230' cy='160' r='5' fill='#fff' /><polygon points='200,210 190,220 210,220' fill='#fff'/><line x1='190' y1='250' x2='195' y2='230' stroke='#000' stroke-width='2'/><line x1='210' y1='250' x2='205' y2='230' stroke='#000' stroke-width='2'/></svg>",
     "report": {
-      "appearance": "イヴは、金色の円形の大きな目と、優しさを表すふんわりとしたピンク色の体が特徴的です。体の中央部には白い美しい翼があり、愛と純粋さを象徴しています。",
-      "reason": "進化の過程で、イヴは自然と調和し、愛と美を追求する精神が強化されました。繊細な特徴が進化の結果として現れました。",
-      "thought": "『愛と共に生きる』"
+      "appearance": "イヴは、ピンクの体色に赤色の髪を持ち、瞳は薄いピンク色。体の中央には赤い花びらのような模様があり、愛らしい印象を与える。",
+      "reason": "環境の変化により、イヴの生態系に新たな生物が現れ、花や植物との共生を促進するため。",
+      "thought": "『愛と美しさの力』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#87ceeb' /><circle cx='200' cy='150' r='100' fill='#ff4500' /><circle cx='200' cy='250' r='120' fill='#556b2f' /><path d='M150,180 Q200,230 250,180 Q200,230 150,180 Z' fill='#fff' /><ellipse cx='160' cy='135' rx='20' ry='10' fill='#fff' /><ellipse cx='240' cy='135' rx='20' ry='10' fill='#fff' /><ellipse cx='200' cy='220' rx='15' ry='10' fill='#000' /><path d='M180,270 Q200,290 220,270' fill='none' stroke='#000' stroke-width='3'/><path d='M160,300 Q200,320 240,300' fill='none' stroke='#000' stroke-width='3'/><line x1='180' y1='180' x2='190' y2='190' stroke='#000' stroke-width='3'/><line x1='220' y1='180' x2='210' y2='190' stroke='#000' stroke-width='3'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#87ceeb'/><ellipse cx='200' cy='150' rx='50' ry='30' fill='#4682b4'/><path d='M150 200 L200 250 L250 200 Z' fill='#4169e1'/><circle cx='170' cy='160' r='5' fill='#fff' /><circle cx='230' cy='160' r='5' fill='#fff' /><polygon points='200,210 190,220 210,220' fill='#fff'/><line x1='190' y1='250' x2='195' y2='230' stroke='#000' stroke-width='2'/><line x1='210' y1='250' x2='205' y2='230' stroke='#000' stroke-width='2'/></svg>",
     "report": {
-      "appearance": "アダムは、赤色の目玉と、大地を表す青色の体が特徴です。体の中央には緑色の鱗があり、地に足をつけた強さと成長を象徴しています。",
-      "reason": "進化の過程で、アダムは自然との調和を重視し、強さと成長を追求する姿勢が強化されました。地に根ざした特徴が進化の結果として現れました。",
-      "thought": "『強く生きる』"
+      "appearance": "アダムは、青色の体色に濃い青色の髪を持ち、瞳は深い青色。体の中央には青い波紋のような模様があり、力強さと知性を感じさせる。",
+      "reason": "アダムの集団が新たな狩猟技術を獲得し、狩りの効率を高めるため。",
+      "thought": "『知識と力の調和』"
     },
     "name": "アダム",
     "gender": "男性"

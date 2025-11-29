@@ -18497,5 +18497,28 @@
       "gender": "男性"
     },
     "timestamp": 1764354209028
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#ffcccb' /><circle cx='200' cy='150' r='100' fill='#ffd700' /><circle cx='200' cy='250' r='120' fill='#ffb6c1' /><path d='M150,180 Q200,230 250,180 Q200,230 150,180 Z' fill='#fff' /><ellipse cx='160' cy='135' rx='20' ry='10' fill='#fff' /><ellipse cx='240' cy='135' rx='20' ry='10' fill='#fff' /><ellipse cx='200' cy='220' rx='15' ry='10' fill='#000' /><path d='M180,270 Q200,290 220,270' fill='none' stroke='#000' stroke-width='3'/><path d='M160,300 Q200,320 240,300' fill='none' stroke='#000' stroke-width='3'/><line x1='180' y1='180' x2='190' y2='190' stroke='#000' stroke-width='3'/><line x1='220' y1='180' x2='210' y2='190' stroke='#000' stroke-width='3'/></svg>",
+      "report": {
+        "appearance": "イヴは、金色の円形の大きな目と、優しさを表すふんわりとしたピンク色の体が特徴的です。体の中央部には白い美しい翼があり、愛と純粋さを象徴しています。",
+        "reason": "進化の過程で、イヴは自然と調和し、愛と美を追求する精神が強化されました。繊細な特徴が進化の結果として現れました。",
+        "thought": "『愛と共に生きる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#87ceeb' /><circle cx='200' cy='150' r='100' fill='#ff4500' /><circle cx='200' cy='250' r='120' fill='#556b2f' /><path d='M150,180 Q200,230 250,180 Q200,230 150,180 Z' fill='#fff' /><ellipse cx='160' cy='135' rx='20' ry='10' fill='#fff' /><ellipse cx='240' cy='135' rx='20' ry='10' fill='#fff' /><ellipse cx='200' cy='220' rx='15' ry='10' fill='#000' /><path d='M180,270 Q200,290 220,270' fill='none' stroke='#000' stroke-width='3'/><path d='M160,300 Q200,320 240,300' fill='none' stroke='#000' stroke-width='3'/><line x1='180' y1='180' x2='190' y2='190' stroke='#000' stroke-width='3'/><line x1='220' y1='180' x2='210' y2='190' stroke='#000' stroke-width='3'/></svg>",
+      "report": {
+        "appearance": "アダムは、赤色の目玉と、大地を表す青色の体が特徴です。体の中央には緑色の鱗があり、地に足をつけた強さと成長を象徴しています。",
+        "reason": "進化の過程で、アダムは自然との調和を重視し、強さと成長を追求する姿勢が強化されました。地に根ざした特徴が進化の結果として現れました。",
+        "thought": "『強く生きる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1764378904698
   }
 ]
