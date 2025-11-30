@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='150' rx='70' ry='40' fill='#ffc0cb' /><ellipse cx='200' cy='250' rx='90' ry='50' fill='#ffc0cb' /><ellipse cx='160' cy='150' rx='20' ry='30' fill='#ffffff' /><ellipse cx='240' cy='150' rx='20' ry='30' fill='#ffffff' /><ellipse cx='160' cy='250' rx='20' ry='30' fill='#ffffff' /><ellipse cx='240' cy='250' rx='20' ry='30' fill='#ffffff' /><rect x='180' y='210' width='40' height='60' fill='#ffc0cb' /><rect x='170' y='260' width='10' height='20' fill='#ffffff' /><rect x='220' y='260' width='10' height='20' fill='#ffffff' /><path d='M170 160 Q200 120 230 160' fill='none' stroke='#000000' stroke-width='2' /><path d='M150 230 Q200 280 250 230' fill='none' stroke='#000000' stroke-width='2' /><polygon points='190,135 210,135 200,145' fill='#000000' /><polygon points='170,140 180,140 175,145' fill='#000000' /><polygon points='220,140 230,140 225,145' fill='#000000' /></svg>",
     "report": {
-      "appearance": "イヴは、輝く水晶のような透明な肌を持ち、蝶の羽のような柔らかな翼が背中に生えています。細長い角のような突起物が頭部から生え、全身には優雅な蔦のような模様が広がっています。指先には小さな宝石のような光を放つ鱗があり、瞳は深い森のような緑色をしています。",
-      "reason": "イヴは新たな環境に適応するため、透明な肌と蝶の翼を獲得し、蔦の模様は自然との調和を象徴しています。",
-      "thought": "『自然と共に生きる』"
+      "appearance": "イヴは、桃色の肌と柔らかな特徴を持つ女性の姿をしています。頭部には白い眼と円形の口があり、四肢は薄いピンク色の服で覆われています。",
+      "reason": "生態系の変化により、イヴはより柔らかで魅力的な外見を持つべきだという進化のプレッシャーを感じたため、美しい特徴が強調されました。",
+      "thought": "『宇宙の神秘を感じる』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='140' fill='#add8e6' /><rect x='180' y='160' width='40' height='80' fill='#87ceeb' /><ellipse cx='200' cy='140' rx='70' ry='30' fill='#b0c4de' /><ellipse cx='160' cy='140' rx='20' ry='20' fill='#ffffff' /><ellipse cx='240' cy='140' rx='20' ry='20' fill='#ffffff' /><polygon points='190,130 210,130 200,140' fill='#000000' /></svg>",
     "report": {
-      "appearance": "アダムは、黒い鱗に覆われた頑丈な体躯を持ち、燃えるような赤い炎のような毛皮が背中に広がっています。鋭い牙と角のような突起物で武装し、尾は龍のような模様で飾られています。金属のような光を放つ爪で地面を踏みしめ、赤い瞳は獰猛な力を宿しています。",
-      "reason": "アダムは進化の中でより強靭な姿と獰猛な特徴を強化し、火の力を象徴する炎の毛皮を身にまといました。",
-      "thought": "『燃える魂の力』"
+      "appearance": "アダムは、青い肌と逞しい特徴を持つ男性の姿をしています。頭部には白い目と短い角があり、腕と脚は青い服で覆われています。",
+      "reason": "環境の厳しさに対応するため、アダムはより筋肉質で強靭な外見を持つべきだという進化の必要性から、逞しい特徴が顕著になりました。",
+      "thought": "『未来への強い意志を持つ』"
     },
     "name": "アダム",
     "gender": "男性"
