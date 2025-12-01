@@ -18681,5 +18681,28 @@
       "gender": "男性"
     },
     "timestamp": 1764526922387
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='lightpink' /><ellipse cx='140' cy='150' rx='30' ry='20' fill='white' /><ellipse cx='260' cy='150' rx='30' ry='20' fill='white' /><path d='M180,230 Q200,280 220,230' fill='none' stroke='black' stroke-width='2' /><path d='M150,250 Q200,300 250,250' fill='none' stroke='black' stroke-width='2' /><rect x='170' y='180' width='20' height='5' fill='black' /><rect x='210' y='180' width='20' height='5' fill='black' /><polygon points='175,230 225,230 200,250' fill='gray' /><circle cx='180' cy='150' r='24' fill='pink' /><circle cx='220' cy='150' r='24' fill='pink' /><polygon points='180,140 185,130 215,130 220,140' fill='pink' /><text x='200' y='320' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、薄いピンク色の全身を持ち、二つの白い楕円形の目と長いピンクの髪を持つ女性型生命体です。背中には灰色の羽が生えており、優雅な印象を与えます。",
+        "reason": "イヴは内面的な成長を経て、美しい外見を手に入れました。進化の過程で、自己愛や他者への思いやりが強調され、外見にも反映されたと考えられます。",
+        "thought": "『愛と美の調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='lightblue' /><ellipse cx='140' cy='150' rx='30' ry='20' fill='white' /><ellipse cx='260' cy='150' rx='30' ry='20' fill='white' /><path d='M180,230 Q200,280 220,230' fill='none' stroke='black' stroke-width='2' /><path d='M150,250 Q200,300 250,250' fill='none' stroke='black' stroke-width='2' /><rect x='170' y='180' width='20' height='5' fill='black' /><rect x='210' y='180' width='20' height='5' fill='black' /><polygon points='175,230 225,230 200,250' fill='gray' /><circle cx='180' cy='150' r='24' fill='lightblue' /><circle cx='220' cy='150' r='24' fill='lightblue' /><polygon points='180,140 185,130 215,130 220,140' fill='lightblue' /><text x='200' y='320' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、薄い青色の全身を持ち、二つの白い楕円形の目と短い青い髪を持つ男性型生命体です。背中には紺色の羽が生えており、力強い印象を与えます。",
+        "reason": "アダムは進化により内面的な強さを手に入れ、外見もそれに応じて変化しました。自己信頼や勇気、知識の増加が外見に表れていると推測されます。",
+        "thought": "『知識と勇気の融合』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1764553238575
   }
 ]

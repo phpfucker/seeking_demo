@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='lightpink' /><ellipse cx='140' cy='150' rx='30' ry='20' fill='white' /><ellipse cx='260' cy='150' rx='30' ry='20' fill='white' /><path d='M180,230 Q200,280 220,230' fill='none' stroke='black' stroke-width='2' /><path d='M150,250 Q200,300 250,250' fill='none' stroke='black' stroke-width='2' /><rect x='170' y='180' width='20' height='5' fill='black' /><rect x='210' y='180' width='20' height='5' fill='black' /><polygon points='175,230 225,230 200,250' fill='gray' /><circle cx='180' cy='150' r='24' fill='pink' /><circle cx='220' cy='150' r='24' fill='pink' /><polygon points='180,140 185,130 215,130 220,140' fill='pink' /><text x='200' y='320' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#ffcccb' /><ellipse cx='200' cy='140' rx='100' ry='140' fill='#ffdab9' /><rect x='160' y='250' width='80' height='90' fill='#f08080' /><path d='M200,140 L190,120 L210,120 Z' fill='#8b4513' /><polygon points='150,170 180,210 220,210 250,170' fill='#ff69b4' /><polyline points='180,210 190,240 210,240 220,210' fill='none' stroke='#8b4513' stroke-width='2' /><line x1='170' y1='260' x2='140' y2='290' stroke='#8b4513' stroke-width='2' /><line x1='230' y1='260' x2='260' y2='290' stroke='#8b4513' stroke-width='2' /><text x='150' y='350' font-size='20' fill='#8b4513' font-family='Arial'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴは、薄いピンク色の全身を持ち、二つの白い楕円形の目と長いピンクの髪を持つ女性型生命体です。背中には灰色の羽が生えており、優雅な印象を与えます。",
-      "reason": "イヴは内面的な成長を経て、美しい外見を手に入れました。進化の過程で、自己愛や他者への思いやりが強調され、外見にも反映されたと考えられます。",
-      "thought": "『愛と美の調和』"
+      "appearance": "イヴは、ピンクとオレンジの複合色で覆われた女性の生命体です。頭部にはアプリコット色の楕円形の顔があり、体は淡いピンクで構成され、薄い赤いドレスを着用しています。両手は棕色で、左手には小さなピンク色の花が飾られています。下半身は赤いスカートで覆われ、足元には赤いハイヒールがあります。",
+      "reason": "イヴは花々が豊富な環境で生活しており、自然の美しさに感化されて花を身に纏うように進化しました。",
+      "thought": "『自然の一部となる。』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='lightblue' /><ellipse cx='140' cy='150' rx='30' ry='20' fill='white' /><ellipse cx='260' cy='150' rx='30' ry='20' fill='white' /><path d='M180,230 Q200,280 220,230' fill='none' stroke='black' stroke-width='2' /><path d='M150,250 Q200,300 250,250' fill='none' stroke='black' stroke-width='2' /><rect x='170' y='180' width='20' height='5' fill='black' /><rect x='210' y='180' width='20' height='5' fill='black' /><polygon points='175,230 225,230 200,250' fill='gray' /><circle cx='180' cy='150' r='24' fill='lightblue' /><circle cx='220' cy='150' r='24' fill='lightblue' /><polygon points='180,140 185,130 215,130 220,140' fill='lightblue' /><text x='200' y='320' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#87ceeb' /><ellipse cx='200' cy='140' rx='100' ry='140' fill='#f0e68c' /><rect x='160' y='250' width='80' height='90' fill='#cd5c5c' /><path d='M200,140 L190,120 L210,120 Z' fill='#8b4513' /><polygon points='150,170 180,210 220,210 250,170' fill='#4682b4' /><polyline points='180,210 190,240 210,240 220,210' fill='none' stroke='#8b4513' stroke-width='2' /><line x1='170' y1='260' x2='140' y2='290' stroke='#8b4513' stroke-width='2' /><line x1='230' y1='260' x2='260' y2='290' stroke='#8b4513' stroke-width='2' /><text x='150' y='350' font-size='20' fill='#8b4513' font-family='Arial'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは、薄い青色の全身を持ち、二つの白い楕円形の目と短い青い髪を持つ男性型生命体です。背中には紺色の羽が生えており、力強い印象を与えます。",
-      "reason": "アダムは進化により内面的な強さを手に入れ、外見もそれに応じて変化しました。自己信頼や勇気、知識の増加が外見に表れていると推測されます。",
-      "thought": "『知識と勇気の融合』"
+      "appearance": "アダムは、青と黄色の複合色で覆われた男性の生命体です。頭部には黄色い楕円形の顔があり、体は淡い青で構成され、灰色のパンツを穿いています。両手は赤褐色で、右手には青い腕輪が装着されています。下半身は赤い短パンで覆われ、足元には青いスニーカーがあります。",
+      "reason": "アダムは海洋深部で生息しているため、深海の色彩に適応するために青色を帯びた進化を遂げました。",
+      "thought": "『深海の神秘に触れる。』"
     },
     "name": "アダム",
     "gender": "男性"
