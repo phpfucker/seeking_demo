@@ -18704,5 +18704,28 @@
       "gender": "男性"
     },
     "timestamp": 1764553238575
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#ffcccb' /><ellipse cx='200' cy='140' rx='100' ry='140' fill='#ffdab9' /><rect x='160' y='250' width='80' height='90' fill='#f08080' /><path d='M200,140 L190,120 L210,120 Z' fill='#8b4513' /><polygon points='150,170 180,210 220,210 250,170' fill='#ff69b4' /><polyline points='180,210 190,240 210,240 220,210' fill='none' stroke='#8b4513' stroke-width='2' /><line x1='170' y1='260' x2='140' y2='290' stroke='#8b4513' stroke-width='2' /><line x1='230' y1='260' x2='260' y2='290' stroke='#8b4513' stroke-width='2' /><text x='150' y='350' font-size='20' fill='#8b4513' font-family='Arial'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとオレンジの複合色で覆われた女性の生命体です。頭部にはアプリコット色の楕円形の顔があり、体は淡いピンクで構成され、薄い赤いドレスを着用しています。両手は棕色で、左手には小さなピンク色の花が飾られています。下半身は赤いスカートで覆われ、足元には赤いハイヒールがあります。",
+        "reason": "イヴは花々が豊富な環境で生活しており、自然の美しさに感化されて花を身に纏うように進化しました。",
+        "thought": "『自然の一部となる。』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#87ceeb' /><ellipse cx='200' cy='140' rx='100' ry='140' fill='#f0e68c' /><rect x='160' y='250' width='80' height='90' fill='#cd5c5c' /><path d='M200,140 L190,120 L210,120 Z' fill='#8b4513' /><polygon points='150,170 180,210 220,210 250,170' fill='#4682b4' /><polyline points='180,210 190,240 210,240 220,210' fill='none' stroke='#8b4513' stroke-width='2' /><line x1='170' y1='260' x2='140' y2='290' stroke='#8b4513' stroke-width='2' /><line x1='230' y1='260' x2='260' y2='290' stroke='#8b4513' stroke-width='2' /><text x='150' y='350' font-size='20' fill='#8b4513' font-family='Arial'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青と黄色の複合色で覆われた男性の生命体です。頭部には黄色い楕円形の顔があり、体は淡い青で構成され、灰色のパンツを穿いています。両手は赤褐色で、右手には青い腕輪が装着されています。下半身は赤い短パンで覆われ、足元には青いスニーカーがあります。",
+        "reason": "アダムは海洋深部で生息しているため、深海の色彩に適応するために青色を帯びた進化を遂げました。",
+        "thought": "『深海の神秘に触れる。』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1764570514029
   }
 ]

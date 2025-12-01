@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#ffcccb' /><ellipse cx='200' cy='140' rx='100' ry='140' fill='#ffdab9' /><rect x='160' y='250' width='80' height='90' fill='#f08080' /><path d='M200,140 L190,120 L210,120 Z' fill='#8b4513' /><polygon points='150,170 180,210 220,210 250,170' fill='#ff69b4' /><polyline points='180,210 190,240 210,240 220,210' fill='none' stroke='#8b4513' stroke-width='2' /><line x1='170' y1='260' x2='140' y2='290' stroke='#8b4513' stroke-width='2' /><line x1='230' y1='260' x2='260' y2='290' stroke='#8b4513' stroke-width='2' /><text x='150' y='350' font-size='20' fill='#8b4513' font-family='Arial'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffcccc' /><ellipse cx='200' cy='160' rx='80' ry='110' fill='#ffb3b3' /><circle cx='160' cy='130' r='10' fill='#e60000' /><circle cx='240' cy='130' r='10' fill='#e60000' /><path d='M180 200 Q200 220 220 200' stroke='#e60000' stroke-width='3' fill='none' /><polygon points='170,180 230,180 200,210' fill='#ff9999' /><rect x='180' y='230' width='40' height='30' fill='#ff9999' /><polygon points='140,310 180,310 160,260' fill='#ff9999' /><polygon points='220,310 260,310 240,260' fill='#ff9999' /><polygon points='170,260 230,260 200,320' fill='#ff8080' /><line x1='160' y1='330' x2='180' y2='330' stroke='#e60000' stroke-width='3' /><line x1='220' y1='330' x2='240' y2='330' stroke='#e60000' stroke-width='3' /><line x1='160' y1='330' x2='170' y2='380' stroke='#e60000' stroke-width='3' /><line x1='240' y1='330' x2='230' y2='380' stroke='#e60000' stroke-width='3' /><line x1='170' y1='380' x2='200' y2='380' stroke='#e60000' stroke-width='3' /><line x1='230' y1='380' x2='200' y2='380' stroke='#e60000' stroke-width='3' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンクとオレンジの複合色で覆われた女性の生命体です。頭部にはアプリコット色の楕円形の顔があり、体は淡いピンクで構成され、薄い赤いドレスを着用しています。両手は棕色で、左手には小さなピンク色の花が飾られています。下半身は赤いスカートで覆われ、足元には赤いハイヒールがあります。",
-      "reason": "イヴは花々が豊富な環境で生活しており、自然の美しさに感化されて花を身に纏うように進化しました。",
-      "thought": "『自然の一部となる。』"
+      "appearance": "イヴはピンク色の柔らかな皮膚を持ち、卵形の大きな目と赤いほっぺたが特徴です。体は丸みを帯び、手と足には小さな爪があります。頭部には短い角が生えており、しっぽは短くてふんわりとした形をしています。",
+      "reason": "進化の過程で、イヴは自然と調和し、優しさと美しさを象徴する新たな特徴を獲得しました。",
+      "thought": "『平和と愛』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#87ceeb' /><ellipse cx='200' cy='140' rx='100' ry='140' fill='#f0e68c' /><rect x='160' y='250' width='80' height='90' fill='#cd5c5c' /><path d='M200,140 L190,120 L210,120 Z' fill='#8b4513' /><polygon points='150,170 180,210 220,210 250,170' fill='#4682b4' /><polyline points='180,210 190,240 210,240 220,210' fill='none' stroke='#8b4513' stroke-width='2' /><line x1='170' y1='260' x2='140' y2='290' stroke='#8b4513' stroke-width='2' /><line x1='230' y1='260' x2='260' y2='290' stroke='#8b4513' stroke-width='2' /><text x='150' y='350' font-size='20' fill='#8b4513' font-family='Arial'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#b3e0ff' /><ellipse cx='200' cy='160' rx='80' ry='110' fill='#99ccff' /><circle cx='160' cy='130' r='10' fill='#0047b3' /><circle cx='240' cy='130' r='10' fill='#0047b3' /><path d='M180 200 Q200 220 220 200' stroke='#0047b3' stroke-width='3' fill='none' /><polygon points='170,180 230,180 200,210' fill='#80bfff' /><rect x='180' y='230' width='40' height='30' fill='#80bfff' /><polygon points='140,310 180,310 160,260' fill='#80bfff' /><polygon points='220,310 260,310 240,260' fill='#80bfff' /><polygon points='170,260 230,260 200,320' fill='#66a3ff' /><line x1='160' y1='330' x2='180' y2='330' stroke='#0047b3' stroke-width='3' /><line x1='220' y1='330' x2='240' y2='330' stroke='#0047b3' stroke-width='3' /><line x1='160' y1='330' x2='170' y2='380' stroke='#0047b3' stroke-width='3' /><line x1='240' y1='330' x2='230' y2='380' stroke='#0047b3' stroke-width='3' /><line x1='170' y1='380' x2='200' y2='380' stroke='#0047b3' stroke-width='3' /><line x1='230' y1='380' x2='200' y2='380' stroke='#0047b3' stroke-width='3' /></svg>",
     "report": {
-      "appearance": "アダムは、青と黄色の複合色で覆われた男性の生命体です。頭部には黄色い楕円形の顔があり、体は淡い青で構成され、灰色のパンツを穿いています。両手は赤褐色で、右手には青い腕輪が装着されています。下半身は赤い短パンで覆われ、足元には青いスニーカーがあります。",
-      "reason": "アダムは海洋深部で生息しているため、深海の色彩に適応するために青色を帯びた進化を遂げました。",
-      "thought": "『深海の神秘に触れる。』"
+      "appearance": "アダムは青色の滑らかな皮膚を持ち、卵形の大きな目と青いほっぺたが特徴です。体は丸みを帯び、手と足には小さな爪があります。頭部には短い角が生えており、しっぽは短くてふんわりとした形をしています。",
+      "reason": "アダムは進化のプロセスで、知恵と力強さを備えた新たな特徴を獲得しました。",
+      "thought": "『知恵と勇気』"
     },
     "name": "アダム",
     "gender": "男性"
