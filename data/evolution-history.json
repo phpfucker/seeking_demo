@@ -18727,5 +18727,28 @@
       "gender": "男性"
     },
     "timestamp": 1764570514029
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffcccc' /><ellipse cx='200' cy='160' rx='80' ry='110' fill='#ffb3b3' /><circle cx='160' cy='130' r='10' fill='#e60000' /><circle cx='240' cy='130' r='10' fill='#e60000' /><path d='M180 200 Q200 220 220 200' stroke='#e60000' stroke-width='3' fill='none' /><polygon points='170,180 230,180 200,210' fill='#ff9999' /><rect x='180' y='230' width='40' height='30' fill='#ff9999' /><polygon points='140,310 180,310 160,260' fill='#ff9999' /><polygon points='220,310 260,310 240,260' fill='#ff9999' /><polygon points='170,260 230,260 200,320' fill='#ff8080' /><line x1='160' y1='330' x2='180' y2='330' stroke='#e60000' stroke-width='3' /><line x1='220' y1='330' x2='240' y2='330' stroke='#e60000' stroke-width='3' /><line x1='160' y1='330' x2='170' y2='380' stroke='#e60000' stroke-width='3' /><line x1='240' y1='330' x2='230' y2='380' stroke='#e60000' stroke-width='3' /><line x1='170' y1='380' x2='200' y2='380' stroke='#e60000' stroke-width='3' /><line x1='230' y1='380' x2='200' y2='380' stroke='#e60000' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかな皮膚を持ち、卵形の大きな目と赤いほっぺたが特徴です。体は丸みを帯び、手と足には小さな爪があります。頭部には短い角が生えており、しっぽは短くてふんわりとした形をしています。",
+        "reason": "進化の過程で、イヴは自然と調和し、優しさと美しさを象徴する新たな特徴を獲得しました。",
+        "thought": "『平和と愛』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#b3e0ff' /><ellipse cx='200' cy='160' rx='80' ry='110' fill='#99ccff' /><circle cx='160' cy='130' r='10' fill='#0047b3' /><circle cx='240' cy='130' r='10' fill='#0047b3' /><path d='M180 200 Q200 220 220 200' stroke='#0047b3' stroke-width='3' fill='none' /><polygon points='170,180 230,180 200,210' fill='#80bfff' /><rect x='180' y='230' width='40' height='30' fill='#80bfff' /><polygon points='140,310 180,310 160,260' fill='#80bfff' /><polygon points='220,310 260,310 240,260' fill='#80bfff' /><polygon points='170,260 230,260 200,320' fill='#66a3ff' /><line x1='160' y1='330' x2='180' y2='330' stroke='#0047b3' stroke-width='3' /><line x1='220' y1='330' x2='240' y2='330' stroke='#0047b3' stroke-width='3' /><line x1='160' y1='330' x2='170' y2='380' stroke='#0047b3' stroke-width='3' /><line x1='240' y1='330' x2='230' y2='380' stroke='#0047b3' stroke-width='3' /><line x1='170' y1='380' x2='200' y2='380' stroke='#0047b3' stroke-width='3' /><line x1='230' y1='380' x2='200' y2='380' stroke='#0047b3' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "アダムは青色の滑らかな皮膚を持ち、卵形の大きな目と青いほっぺたが特徴です。体は丸みを帯び、手と足には小さな爪があります。頭部には短い角が生えており、しっぽは短くてふんわりとした形をしています。",
+        "reason": "アダムは進化のプロセスで、知恵と力強さを備えた新たな特徴を獲得しました。",
+        "thought": "『知恵と勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1764592595514
   }
 ]
