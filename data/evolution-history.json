@@ -18750,5 +18750,28 @@
       "gender": "男性"
     },
     "timestamp": 1764592595514
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,0,0);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,255,0);stop-opacity:1' /></linearGradient></defs><rect x='125' y='200' width='150' height='200' fill='url(#gradA)' /><ellipse cx='200' cy='150' rx='50' ry='80' fill='#ff9999' /><path d='M175,170 Q200,250 225,170' fill='none' stroke='#cc6666' stroke-width='5' /><circle cx='180' cy='140' r='5' fill='#000' /><circle cx='220' cy='140' r='5' fill='#000' /><rect x='175' y='250' width='50' height='20' fill='#cc6666' /><polygon points='200,250 220,270 180,270' fill='#ffcccc' /><path d='M170,200 L150,250 L200,250 L180,200 Z' fill='#ff6666' /><path d='M230,200 L250,250 L200,250 L220,200 Z' fill='#ff6666' /><path d='M180,275 Q200,290 220,275' fill='none' stroke='#cc6666' stroke-width='3' /><path d='M220,275 Q240,290 260,275' fill='none' stroke='#cc6666' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "イヴは、赤い体にピンクの顔を持ち、優雅な女性の特徴を備えた姿をしています。体はグラデーションのある赤で覆われ、顔には柔らかなピンクの色合いが広がります。細長い目と長いまつ毛が特徴で、しなやかなラインを描いています。体の一部にはピンクの装飾が施されており、優美な印象を与えます。",
+        "reason": "イヴは、自然の美しさと調和を象徴する進化を遂げました。赤い体は情熱と愛情を表し、ピンクの顔は優しさと慈愛を示しています。この進化は、生命の創造と結びついた新たなステージへの移行を表しています。",
+        "thought": "『調和と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(0,0,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,255,255);stop-opacity:1' /></linearGradient></defs><rect x='125' y='200' width='150' height='200' fill='url(#gradB)' /><ellipse cx='200' cy='150' rx='50' ry='80' fill='#9999ff' /><path d='M175,170 Q200,250 225,170' fill='none' stroke='#6666cc' stroke-width='5' /><circle cx='180' cy='140' r='5' fill='#000' /><circle cx='220' cy='140' r='5' fill='#000' /><rect x='175' y='250' width='50' height='20' fill='#6666cc' /><polygon points='200,250 220,270 180,270' fill='#ccccff' /><path d='M170,200 L150,250 L200,250 L180,200 Z' fill='#6666ff' /><path d='M230,200 L250,250 L200,250 L220,200 Z' fill='#6666ff' /><path d='M180,275 Q200,290 220,275' fill='none' stroke='#6666cc' stroke-width='3' /><path d='M220,275 Q240,290 260,275' fill='none' stroke='#6666cc' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い体に水色の顔を持ち、男性らしい力強い特徴を備えた姿をしています。体はグラデーションのある青で覆われ、顔にはクールな水色が広がります。目元にはシャープな眉があり、頬には男性らしい引き締まったラインが描かれています。体表には青の模様が施され、力強い印象を与えます。",
+        "reason": "アダムは、知識と力強さを象徴する進化を遂げました。青い体は知性と冷静さを表し、水色の顔は清澄な精神を示しています。この進化は、新たな知識と力を獲得し、進んでいく未来への意志を示しています。",
+        "thought": "『知識と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1764613683722
   }
 ]
