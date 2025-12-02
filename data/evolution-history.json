@@ -18796,5 +18796,28 @@
       "gender": "男性"
     },
     "timestamp": 1764638287350
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='150' width='300' height='200' fill='#ffbfd3'/><ellipse cx='200' cy='150' rx='120' ry='100' fill='#ff99b3'/><path d='M200,250 Q230,280 260,250' fill='none' stroke='#ff99b3'/><circle cx='160' cy='140' r='10' fill='#fff'/><circle cx='240' cy='140' r='10' fill='#fff'/><path d='M200,170 Q190,190 200,210 Q210,190 200,170' fill='#fff'/><path d='M160,270 Q190,230 220,270 Q190,310 160,270' fill='#fff'/><path d='M240,270 Q210,230 180,270 Q210,310 240,270' fill='#fff'/><polygon points='180,280 190,300 200,290 210,300 220,280 200,260' fill='#ff99b3'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の胴体と赤い頭部を持つ女性型生命体です。頭部には白い目と口があり、円滑な体と脚が特徴です。背中には白い美しい模様があります。",
+        "reason": "進化が起こった理由は、より美しく魅力的な外見を求めた結果です。",
+        "thought": "『美しさは内面から生まれる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='150' width='300' height='200' fill='#b3d9ff'/><ellipse cx='200' cy='150' rx='120' ry='100' fill='#99c2ff'/><path d='M200,250 Q230,280 260,250' fill='none' stroke='#99c2ff'/><circle cx='160' cy='140' r='10' fill='#fff'/><circle cx='240' cy='140' r='10' fill='#fff'/><path d='M200,170 Q190,190 200,210 Q210,190 200,170' fill='#fff'/><path d='M160,270 Q190,230 220,270 Q190,310 160,270' fill='#fff'/><path d='M240,270 Q210,230 180,270 Q210,310 240,270' fill='#fff'/><polygon points='180,280 190,300 200,290 210,300 220,280 200,260' fill='#99c2ff'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の胴体と青い頭部を持つ男性型生命体です。頭部には白い目と口があり、しっかりとした体つきと脚が特徴です。背中には青い美しい模様があります。",
+        "reason": "進化が起こった理由は、より強力で知性を持った外見を求めた結果です。",
+        "thought": "『力と知性を兼ね備える』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1764656847666
   }
 ]
