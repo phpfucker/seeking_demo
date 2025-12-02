@@ -18819,5 +18819,28 @@
       "gender": "男性"
     },
     "timestamp": 1764656847666
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff85a2' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#ffd1dc' /><rect x='160' y='210' width='80' height='30' fill='#ff85a2' /><path d='M180 300 L200 330 L220 300 Z' fill='#ffd1dc' /><path d='M160 210 Q200 280 240 210 Q200 240 160 210 Z' fill='#ff85a2' /><line x1='180' y1='260' x2='220' y2='260' stroke='#000' stroke-width='2' /><line x1='190' y1='260' x2='190' y2='280' stroke='#000' stroke-width='2' /><line x1='210' y1='260' x2='210' y2='280' stroke='#000' stroke-width='2' /><line x1='220' y1='260' x2='180' y2='280' stroke='#000' stroke-width='2' /><line x1='150' y1='210' x2='160' y2='210' stroke='#000' stroke-width='2' /><line x1='240' y1='210' x2='250' y2='210' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな毛並みを持ち、優雅な曲線を描く体に、白い薄い羽根のような模様が施されています。頭部には大きな耳と優しい表情の目があり、しっぽは長くしなやかです。",
+        "reason": "進化の過程で、イヴは自然界の美しさと柔らかさを象徴する要素を取り入れ、優美で魅力的な姿に進化しました。",
+        "thought": "『優しさと美しさを守りたい』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#7fb2b7' /><rect x='160' y='210' width='80' height='30' fill='#7fb2b7' /><path d='M180 300 L200 330 L220 300 Z' fill='#aecdcf' /><polygon points='160,210 200,150 240,210' fill='#7fb2b7' /><polyline points='185,260 190,270 210,270 215,260' fill='none' stroke='#000' stroke-width='2' /><line x1='180' y1='260' x2='220' y2='260' stroke='#000' stroke-width='2' /><line x1='190' y1='260' x2='190' y2='280' stroke='#000' stroke-width='2' /><line x1='210' y1='260' x2='210' y2='280' stroke='#000' stroke-width='2' /><line x1='220' y1='260' x2='180' y2='280' stroke='#000' stroke-width='2' /><line x1='150' y1='210' x2='160' y2='210' stroke='#000' stroke-width='2' /><line x1='240' y1='210' x2='250' y2='210' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青緑色の体毛と鱗状の肌が特徴で、体の一部には翼のような模様が見られます。顔には角が生え、凛々しい表情の目があります。四肢は筋肉質で頑丈です。",
+        "reason": "アダムは、自然の強さと威厳を示す要素を取り入れ、力強く堂々とした姿に進化しました。",
+        "thought": "『力強さと誇りを持って進む』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1764679022464
   }
 ]
