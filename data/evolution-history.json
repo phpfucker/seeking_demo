@@ -18888,5 +18888,28 @@
       "gender": "男性"
     },
     "timestamp": 1764724712758
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#ffe0bd' /><circle cx='200' cy='150' r='100' fill='#ffc0a8' /><ellipse cx='150' cy='250' rx='40' ry='20' fill='#ffad9e' /><ellipse cx='250' cy='250' rx='40' ry='20' fill='#ffad9e' /><path d='M200 175 Q150 200 200 225 Q250 200 200 175 Z' fill='#ffad9e' /><path d='M175 130 Q200 100 225 130 Q250 160 225 190 Q200 160 175 190 Q150 160 175 130 Z' fill='#ffad9e' /><ellipse cx='175' cy='140' rx='15' ry='10' fill='#ff6347' /><ellipse cx='225' cy='140' rx='15' ry='10' fill='#ff6347' /><line x1='160' y1='200' x2='140' y2='220' stroke='#000' stroke-width='2' /><line x1='240' y1='200' x2='260' y2='220' stroke='#000' stroke-width='2' /><polygon points='190,150 210,150 200,160' fill='#000' /><polygon points='175,220 200,210 225,220' fill='#000' /></svg>",
+      "report": {
+        "appearance": "イヴは、柔らかなピンク色の体に大きな目を持ち、中央に位置する小さな口が特徴的。顔の両側には赤い模様があり、上体は丸みを帯びた姿勢で、手と足は細長く描かれています。",
+        "reason": "生態系内でのエネルギー循環の変化により、イヴはより効率的な運動と視覚を求めて進化しました。",
+        "thought": "『宇宙の美しさを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#b0e57c' /><circle cx='200' cy='150' r='100' fill='#92c663' /><ellipse cx='150' cy='250' rx='40' ry='20' fill='#71a95a' /><ellipse cx='250' cy='250' rx='40' ry='20' fill='#71a95a' /><path d='M200 175 Q150 200 200 225 Q250 200 200 175 Z' fill='#71a95a' /><path d='M175 130 Q200 100 225 130 Q250 160 225 190 Q200 160 175 190 Q150 160 175 130 Z' fill='#71a95a' /><ellipse cx='175' cy='140' rx='15' ry='10' fill='#4b692f' /><ellipse cx='225' cy='140' rx='15' ry='10' fill='#4b692f' /><line x1='160' y1='200' x2='140' y2='220' stroke='#000' stroke-width='2' /><line x1='240' y1='200' x2='260' y2='220' stroke='#000' stroke-width='2' /><polygon points='190,150 210,150 200,160' fill='#000' /><polygon points='175,220 200,210 225,220' fill='#000' /></svg>",
+      "report": {
+        "appearance": "アダムは、爽やかな緑色の体に細い脚と四角い頭部を持ち、顔には鋭い目と口が描かれています。胴体には茶色の斑点があり、しっぽは細く先端が分かれた形状です。",
+        "reason": "繁殖競争の激化により、アダムはより強靭な外見と機敏な動きを求めて進化しました。",
+        "thought": "『未来への挑戦』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1764743220015
   }
 ]
