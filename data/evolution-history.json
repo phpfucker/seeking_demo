@@ -18911,5 +18911,28 @@
       "gender": "男性"
     },
     "timestamp": 1764743220015
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffafaf' /><ellipse cx='200' cy='240' rx='90' ry='120' fill='#ffd1dc' /><rect x='160' y='220' width='80' height='30' fill='#ff8080' /><circle cx='170' cy='180' r='10' fill='#ffffff' /><circle cx='230' cy='180' r='10' fill='#ffffff' /><path d='M200,240 Q150,220 200,200 Q250,220 200,240 Z' fill='#ff8080' /><path d='M180,210 C185,220 215,220 220,210' fill='none' stroke='#000000' stroke-width='2' /><path d='M190,230 C195,240 205,240 210,230' fill='none' stroke='#000000' stroke-width='2' /><polygon points='180,200 170,190 150,200' fill='#ffd1dc' /><polygon points='220,200 230,190 250,200' fill='#ffd1dc' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、優雅な曲線のある体と、白い顔と手を持つ女性型の生命体です。頭部には赤いリボンのような模様があり、しっかりした足と腕が特徴です。",
+        "reason": "環境の変化により、イヴは柔らかな色と優雅な体つきが進化の適応となりました。",
+        "thought": "『宇宙の神秘を感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#a0c4ff' /><ellipse cx='200' cy='240' rx='90' ry='120' fill='#b9d9ff' /><rect x='160' y='220' width='80' height='30' fill='#668cff' /><circle cx='170' cy='180' r='10' fill='#ffffff' /><circle cx='230' cy='180' r='10' fill='#ffffff' /><path d='M200,240 Q150,220 200,200 Q250,220 200,240 Z' fill='#668cff' /><path d='M180,210 C185,220 215,220 220,210' fill='none' stroke='#000000' stroke-width='2' /><path d='M190,230 C195,240 205,240 210,230' fill='none' stroke='#000000' stroke-width='2' /><polygon points='180,200 170,190 150,200' fill='#b9d9ff' /><polygon points='220,200 230,190 250,200' fill='#b9d9ff' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌を持つ男性型生命体で、力強い体と逞しい腕、頭部には青い模様があります。背中には羽のような装飾があり、堅固な足と角が特徴です。",
+        "reason": "進化の過程で、アダムは青色の肌と力強い体つきが存続に有利となり、逞しさが強調されました。",
+        "thought": "『未来への挑戦』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1764765411883
   }
 ]
