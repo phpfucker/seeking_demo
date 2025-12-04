@@ -19026,5 +19026,28 @@
       "gender": "男性"
     },
     "timestamp": 1764851860498
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='pink'/><ellipse cx='200' cy='250' rx='90' ry='120' fill='lightcoral'/><path d='M150 280 Q200 320 250 280' fill='none' stroke='black' stroke-width='2'/><path d='M150 280 Q200 320 250 280' fill='none' stroke='black' stroke-width='2'/><path d='M200 320 Q200 340 180 340' fill='none' stroke='black' stroke-width='2'/><path d='M200 320 Q200 340 220 340' fill='none' stroke='black' stroke-width='2'/><circle cx='160' cy='230' r='10' fill='black'/><circle cx='240' cy='230' r='10' fill='black'/><circle cx='180' cy='200' r='5' fill='black'/><circle cx='220' cy='200' r='5' fill='black'/><polygon points='190,240 200,250 210,240' fill='gold'/><polygon points='170,300 200,280 230,300' fill='gold'/><polygon points='160,200 200,210 240,200' fill='gold'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌を持ち、細長い眼と金色の模様が入った体が特徴です。ピンクとライトコーラルの色合いが美しく調和しています。",
+        "reason": "生態系の変化により、イヴは美しく洗練された外見を持つように進化しました。",
+        "thought": "『美しさと力を持って』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='lightblue'/><ellipse cx='200' cy='250' rx='90' ry='120' fill='skyblue'/><path d='M150 280 Q200 320 250 280' fill='none' stroke='black' stroke-width='2'/><path d='M150 280 Q200 320 250 280' fill='none' stroke='black' stroke-width='2'/><path d='M200 320 Q200 340 180 340' fill='none' stroke='black' stroke-width='2'/><path d='M200 320 Q200 340 220 340' fill='none' stroke='black' stroke-width='2'/><circle cx='160' cy='230' r='10' fill='black'/><circle cx='240' cy='230' r='10' fill='black'/><circle cx='180' cy='200' r='5' fill='black'/><circle cx='220' cy='200' r='5' fill='black'/><polygon points='190,240 200,250 210,240' fill='silver'/><polygon points='170,300 200,280 230,300' fill='silver'/><polygon points='160,200 200,210 240,200' fill='silver'/></svg>",
+      "report": {
+        "appearance": "アダムは、ライトブルーの肌を持ち、大きな目と銀色の模様が特徴です。スカイブルーとシルバーの色調がクールな印象を与えます。",
+        "reason": "環境の変化により、アダムはクールで落ち着いた外観へと進化しました。",
+        "thought": "『知性と落ち着きを持って』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1764872872892
   }
 ]
