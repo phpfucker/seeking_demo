@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"#ffcc99\"/><circle cx=\"200\" cy=\"150\" r=\"50\" fill=\"#ffd699\"/><ellipse cx=\"150\" cy=\"250\" rx=\"30\" ry=\"20\" fill=\"#ff9999\"/><path d=\"M175 275 L150 300 L200 300 Z\" fill=\"#ff6666\"/><polygon points=\"100,250 120,220 140,250\" fill=\"#ff9966\"/><polyline points=\"120,150 130,140 140,150\" fill=\"none\" stroke=\"#ff6666\" stroke-width=\"2\"/><line x1=\"120\" y1=\"300\" x2=\"150\" y2=\"325\" stroke=\"#ff6666\" stroke-width=\"2\"/><defs><linearGradient id=\"grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" style=\"stop-color:rgb(255,255,255);stop-opacity:1\"/><stop offset=\"100%\" style=\"stop-color:rgb(255,0,0);stop-opacity:1\"/></linearGradient></defs><rect x=\"110\" y=\"110\" width=\"180\" height=\"180\" fill=\"url(#grad1)\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='pink'/><ellipse cx='200' cy='250' rx='90' ry='120' fill='lightcoral'/><path d='M150 280 Q200 320 250 280' fill='none' stroke='black' stroke-width='2'/><path d='M150 280 Q200 320 250 280' fill='none' stroke='black' stroke-width='2'/><path d='M200 320 Q200 340 180 340' fill='none' stroke='black' stroke-width='2'/><path d='M200 320 Q200 340 220 340' fill='none' stroke='black' stroke-width='2'/><circle cx='160' cy='230' r='10' fill='black'/><circle cx='240' cy='230' r='10' fill='black'/><circle cx='180' cy='200' r='5' fill='black'/><circle cx='220' cy='200' r='5' fill='black'/><polygon points='190,240 200,250 210,240' fill='gold'/><polygon points='170,300 200,280 230,300' fill='gold'/><polygon points='160,200 200,210 240,200' fill='gold'/></svg>",
     "report": {
-      "appearance": "イヴは、薄い桃色の肌を持ち、頭には大きな円形の目と小さな口があります。髪の毛は短く、ピンク色の蓮の花のような模様が体に広がっています。四肢は細長く、しっぽは二股に分かれています。",
-      "reason": "進化の結果、イヴはより華やかで優美な外見を手に入れ、新たな魅力を持つようになりました。",
-      "thought": "『純粋な美しさ』"
+      "appearance": "イヴは、ピンク色の肌を持ち、細長い眼と金色の模様が入った体が特徴です。ピンクとライトコーラルの色合いが美しく調和しています。",
+      "reason": "生態系の変化により、イヴは美しく洗練された外見を持つように進化しました。",
+      "thought": "『美しさと力を持って』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"#6699ff\"/><circle cx=\"200\" cy=\"150\" r=\"50\" fill=\"#66ccff\"/><ellipse cx=\"250\" cy=\"250\" rx=\"30\" ry=\"20\" fill=\"#66ffff\"/><path d=\"M225 275 L250 300 L200 300 Z\" fill=\"#3399ff\"/><polygon points=\"300,250 320,220 340,250\" fill=\"#66ccff\"/><polyline points=\"310,150 320,140 330,150\" fill=\"none\" stroke=\"#3399ff\" stroke-width=\"2\"/><line x1=\"280\" y1=\"300\" x2=\"310\" y2=\"325\" stroke=\"#3399ff\" stroke-width=\"2\"/><defs><radialGradient id=\"grad2\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\"><stop offset=\"0%\" style=\"stop-color:rgb(255,255,255);stop-opacity:1\"/><stop offset=\"100%\" style=\"stop-color:rgb(0,0,255);stop-opacity:1\"/></radialGradient></defs><rect x=\"110\" y=\"110\" width=\"180\" height=\"180\" fill=\"url(#grad2)\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='lightblue'/><ellipse cx='200' cy='250' rx='90' ry='120' fill='skyblue'/><path d='M150 280 Q200 320 250 280' fill='none' stroke='black' stroke-width='2'/><path d='M150 280 Q200 320 250 280' fill='none' stroke='black' stroke-width='2'/><path d='M200 320 Q200 340 180 340' fill='none' stroke='black' stroke-width='2'/><path d='M200 320 Q200 340 220 340' fill='none' stroke='black' stroke-width='2'/><circle cx='160' cy='230' r='10' fill='black'/><circle cx='240' cy='230' r='10' fill='black'/><circle cx='180' cy='200' r='5' fill='black'/><circle cx='220' cy='200' r='5' fill='black'/><polygon points='190,240 200,250 210,240' fill='silver'/><polygon points='170,300 200,280 230,300' fill='silver'/><polygon points='160,200 200,210 240,200' fill='silver'/></svg>",
     "report": {
-      "appearance": "アダムは、薄い青色の肌を持ち、細長い目と大きな口が特徴です。頭には角のような突起物が生えており、体中に複雑な波の模様が広がっています。手足は太く力強く、背中には大きな鰭があります。",
-      "reason": "アダムはより頑強で力強い外観を手に入れ、進化により生存競争において有利な特徴を獲得しました。",
-      "thought": "『力の象徴』"
+      "appearance": "アダムは、ライトブルーの肌を持ち、大きな目と銀色の模様が特徴です。スカイブルーとシルバーの色調がクールな印象を与えます。",
+      "reason": "環境の変化により、アダムはクールで落ち着いた外観へと進化しました。",
+      "thought": "『知性と落ち着きを持って』"
     },
     "name": "アダム",
     "gender": "男性"
