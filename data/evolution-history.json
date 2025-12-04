@@ -18957,5 +18957,28 @@
       "gender": "男性"
     },
     "timestamp": 1764786440601
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='150' ry='180' fill='#ffcccb' /><path d='M180,230 C160,290 240,290 220,230' fill='none' stroke='#ff6f61' stroke-width='5' /><circle cx='160' cy='160' r='20' fill='#ff6f61' /><circle cx='240' cy='160' r='20' fill='#ff6f61' /><path d='M160,230 Q200,250 240,230' fill='none' stroke='#ff6f61' stroke-width='5' /><rect x='180' y='130' width='40' height='10' fill='#fff' /><rect x='160' y='210' width='80' height='20' fill='#fff' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、大きな赤い目と長いまつげが特徴です。体は楕円形で、頭部には頬ひげのような模様があります。手は小さく、足は長くしなやかです。",
+        "reason": "イヴは進化の過程で、より柔らかで美しい外見を身につけ、優雅さと華やかさを表現するために進化しました。",
+        "thought": "『優しさが力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6' /><polygon points='160,230 200,290 240,230' fill='#4682b4' /><circle cx='160' cy='160' r='20' fill='#4682b4' /><circle cx='240' cy='160' r='20' fill='#4682b4' /><path d='M160,230 Q200,250 240,230' fill='none' stroke='#4682b4' stroke-width='5' /><rect x='180' y='130' width='40' height='10' fill='#fff' /><rect x='160' y='210' width='80' height='20' fill='#fff' /><line x1='160' y1='290' x2='240' y2='290' stroke='#4682b4' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の滑らかな皮膚を持ち、大きな青い目と頭頂部に三角形の突起があります。体は円形で、頭部には鋭い角のような形状が特徴です。手足は太く頑丈です。",
+        "reason": "アダムは進化の過程で、より力強く堅固な外見を身につけ、力強さと頑丈さを表現するために進化しました。",
+        "thought": "『力強さと知恵』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1764811106467
   }
 ]
