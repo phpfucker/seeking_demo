@@ -19072,5 +19072,28 @@
       "gender": "男性"
     },
     "timestamp": 1764897536664
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='100' width='120' height='200' fill='#ffcccb'/><circle cx='200' cy='80' r='60' fill='#ff99cc'/><ellipse cx='200' cy='300' rx='50' ry='20' fill='#ff99cc'/><path d='M180 180 L220 180 L200 220 Z' fill='#ff6699'/><polygon points='200,100 220,130 180,130' fill='#ff6699'/><line x1='180' y1='220' x2='220' y2='220' stroke='#ff99cc' stroke-width='5'/><line x1='180' y1='240' x2='220' y2='240' stroke='#ff99cc' stroke-width='5'/><line x1='180' y1='260' x2='220' y2='260' stroke='#ff99cc' stroke-width='5'/><line x1='180' y1='280' x2='220' y2='280' stroke='#ff99cc' stroke-width='5'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体と円形の頭部を持ち、短い足としっぽがあります。顔には大きな目と小さな口があります。",
+        "reason": "イヴは新たな進化段階に適応するため、より美しく独自の外見を取り入れました。",
+        "thought": "『愛と美の象徴』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='100' width='120' height='200' fill='#add8e6'/><circle cx='200' cy='80' r='60' fill='#87ceeb'/><ellipse cx='200' cy='300' rx='50' ry='20' fill='#87ceeb'/><path d='M180 180 L220 180 L200 220 Z' fill='#4682b4'/><polygon points='200,100 220,130 180,130' fill='#4682b4'/><line x1='180' y1='220' x2='220' y2='220' stroke='#87ceeb' stroke-width='5'/><line x1='180' y1='240' x2='220' y2='240' stroke='#87ceeb' stroke-width='5'/><line x1='180' y1='260' x2='220' y2='260' stroke='#87ceeb' stroke-width='5'/><line x1='180' y1='280' x2='220' y2='280' stroke='#87ceeb' stroke-width='5'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体と丸い頭部を持ち、短い足としっぽがあります。顔には大きな目と小さな口があります。",
+        "reason": "アダムは新たな進化段階において、より強靭な外見を獲得し、自己表現を強化しました。",
+        "thought": "『知識と力の象徴』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1764916007310
   }
 ]
