@@ -19118,5 +19118,28 @@
       "gender": "男性"
     },
     "timestamp": 1764938148352
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffcc99'/><circle cx='200' cy='150' r='60' fill='#ff9966'/><path d='M200,210 Q230,250 200,300 Q170,250 200,210 Z' fill='#ff9966'/><circle cx='170' cy='150' r='10' fill='#664422'/><circle cx='230' cy='150' r='10' fill='#664422'/><path d='M180,180 Q200,200 220,180' fill='none' stroke='#664422' stroke-width='2'/><line x1='170' y1='250' x2='190' y2='250' stroke='#664422' stroke-width='2'/><line x1='210' y1='250' x2='230' y2='250' stroke='#664422' stroke-width='2'/><line x1='170' y1='350' x2='170' y2='390' stroke='#664422' stroke-width='10'/><line x1='230' y1='350' x2='230' y2='390' stroke='#664422' stroke-width='10'/></svg>",
+      "report": {
+        "appearance": "イヴは、肌の色がオレンジの柔らかな毛並みに覆われ、大きな桃色の目を持つ女性型生命体です。頭部には短い角が生え、手と足には小さな爪があります。背中にはしっぽがあります。",
+        "reason": "進化の過程で環境の変化に適応するため、毛並みの色や角が発達し、より美しく洗練された外見となりました。",
+        "thought": "『自然の美しさを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#9999ff'/><ellipse cx='200' cy='150' rx='60' ry='80' fill='#6666ff'/><path d='M170,150 Q200,100 230,150 Q200,200 170,150 Z' fill='#6666ff'/><circle cx='170' cy='140' r='10' fill='#333366'/><circle cx='230' cy='140' r='10' fill='#333366'/><path d='M180,180 Q200,200 220,180' fill='none' stroke='#333366' stroke-width='2'/><line x1='170' y1='250' x2='190' y2='250' stroke='#333366' stroke-width='2'/><line x1='210' y1='250' x2='230' y2='250' stroke='#333366' stroke-width='2'/><polygon points='150,350 250,350 250,390 150,390' fill='#333366'/></svg>",
+      "report": {
+        "appearance": "アダムは、青紫色の皮膚を持ち、大きな青い瞳を持つ男性型生命体です。頭には長い角が生え、手と足には鋭い爪があります。背中には多角形の装飾があります。",
+        "reason": "進化のプロセスで生存競争に勝ち抜くため、角や爪が発達し、派手な色彩と複雑な模様で他を圧倒する外観となりました。",
+        "thought": "『力強さと美しさを併せ持つ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1764958969998
   }
 ]
