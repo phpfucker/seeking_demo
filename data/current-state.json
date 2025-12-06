@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffbdd1' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#ffbad2' /><path d='M150 250 L100 350 L300 350 L250 250 Z' fill='#ffbad2' /><ellipse cx='140' cy='130' rx='20' ry='30' fill='#ffd9e3' /><ellipse cx='260' cy='130' rx='20' ry='30' fill='#ffd9e3' /><path d='M150 200 Q200 250 250 200 Z' fill='#ff99aa' /><rect x='160' y='280' width='80' height='30' fill='#ff99aa' /><polygon points='160,280 200,250 240,280' fill='#e56b89' /><polygon points='170,350 180,370 220,370 230,350' fill='#e56b89' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな肌と赤い髪を持つ女性で、円形の顔に大きな目が特徴です。体は楕円形で、頭部には丸い耳と二つの小さな角があります。服装はピンクと赤のハート柄で、足元にはピンクの靴があります。しっぽはなく、柔らかな笑顔を浮かべています。",
-      "reason": "イヴは愛と善良な性質を象徴する進化を遂げました。",
-      "thought": "『愛と優しさ』"
+      "appearance": "イヴは、美しい羽毛を持つ鮮やかな色の鳥のような生命体です。細長い尾羽と、優雅な曲線を描く羽根が特徴です。頭部には細かい模様が施され、優美な輝きを放っています。",
+      "reason": "環境の変化により、美しい飛び立つ姿を持つことが生存に有利となったため、イヴはこのような進化を遂げました。",
+      "thought": "『自然と調和し、美しく舞い上がる』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='200' width='100' height='150' fill='#9cb3ff' /><polygon points='150,200 200,100 250,200' fill='#99aaff' /><circle cx='200' cy='180' r='20' fill='#c9d3ff' /><circle cx='180' cy='170' r='5' fill='#ffffff' /><circle cx='220' cy='170' r='5' fill='#ffffff' /><rect x='180' y='230' width='40' height='20' fill='#c9d3ff' /><polygon points='180,250 190,270 210,270 220,250' fill='#c9d3ff' /><polygon points='180,350 190,370 210,370 220,350' fill='#c9d3ff' /><line x1='210' y1='270' x2='210' y2='350' stroke='#c9d3ff' stroke-width='10' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
     "report": {
-      "appearance": "アダムは、青色の肌と頑丈な体つきを持つ男性で、角ばった顔と大きな口が特徴です。体は四角形で、短い足と長い腕を持ちます。頭頂部には一本の角が生え、胸には青いストライプ模様があります。服装はシンプルな青のトップスとパンツで、足元には青いブーツがあります。",
-      "reason": "アダムは知識と力強さを表す進化を遂げました。",
-      "thought": "『知識と力』"
+      "appearance": "アダムは、堂々とした姿勢を保ち、剛毛で覆われた力強い体つきの獅子のような生命体です。鋭い牙と逞しい脚部が特徴で、背中には迫力のある模様が浮かび上がっています。",
+      "reason": "厳しい環境下での狩猟や領土争いにおいて、力強い外見が生存に不可欠となったため、アダムはこのような進化を遂げました。",
+      "thought": "『力強く生き抜く、誇り高き姿』"
     },
     "name": "アダム",
     "gender": "男性"
