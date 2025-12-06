@@ -19210,5 +19210,28 @@
       "gender": "男性"
     },
     "timestamp": 1765024319393
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,204,204);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,102,102);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='200' cy='140' rx='80' ry='100' fill='white' /><ellipse cx='160' cy='140' rx='20' ry='40' fill='white' /><ellipse cx='240' cy='140' rx='20' ry='40' fill='white' /><path d='M180,180 Q200,220 220,180' fill='none' stroke='black' stroke-width='2' /><path d='M160,240 Q200,280 240,240' fill='none' stroke='black' stroke-width='2' /><path d='M180,320 Q200,340 220,320' fill='none' stroke='black' stroke-width='2' /><rect x='170' y='280' width='60' height='20' fill='white' /></svg>",
+      "report": {
+        "appearance": "イヴは、柔らかなピンクと白のグラデーションが美しい女性型生命体です。体は円滑な曲線で描かれ、柔らかな表情と優雅な特徴を持ちます。白い長い手足と尾が優雅に広がっています。",
+        "reason": "イヴは新たな生態系の環境への適応のため、美しさと優雅さが相まって進化しました。",
+        "thought": "『優しさと美しさを守りたい』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(102,178,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,102,204);stop-opacity:1' /></linearGradient></defs><rect x='120' y='120' width='160' height='160' fill='url(#gradB)' /><circle cx='200' cy='100' r='70' fill='white' /><circle cx='160' cy='100' r='15' fill='white' /><circle cx='240' cy='100' r='15' fill='white' /><path d='M180,180 Q200,220 220,180' fill='none' stroke='black' stroke-width='2' /><path d='M160,240 Q200,280 240,240' fill='none' stroke='black' stroke-width='2' /><path d='M180,320 Q200,340 220,320' fill='none' stroke='black' stroke-width='2' /><polygon points='190,280 210,280 200,300' fill='white' /></svg>",
+      "report": {
+        "appearance": "アダムは、濃い青と白のグラデーションが特徴の男性型生命体です。四角い体と丸い顔が特徴で、力強さと知性を感じさせます。白い手足と鋭い角が頼もしさを演出しています。",
+        "reason": "アダムは新たな生態系の環境への適応のため、力強さと知性が融合して進化しました。",
+        "thought": "『知恵と力を誇りたい』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1765045306386
   }
 ]
