@@ -19187,5 +19187,28 @@
       "gender": "男性"
     },
     "timestamp": 1765002227277
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='120' width='160' height='200' fill='#FFB6C1'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#FFC0CB'/><path d='M200,160 Q250,180 200,200 Q150,180 200,160' fill='none' stroke='#FF69B4'/><circle cx='160' cy='140' r='10' fill='#FF1493'/><circle cx='240' cy='140' r='10' fill='#FF1493'/><circle cx='170' cy='90' r='5' fill='#000'/><circle cx='230' cy='90' r='5' fill='#000'/><polygon points='200,160 180,170 220,170' fill='#FF69B4'/><line x1='180' y1='145' x2='220' y2='145' stroke='#FF69B4' stroke-width='2'/><line x1='160' y1='220' x2='140' y2='280' stroke='#FF69B4' stroke-width='3'/><line x1='240' y1='220' x2='260' y2='280' stroke='#FF69B4' stroke-width='3'/><polygon points='180,280 190,310 170,310' fill='#FFB6C1'/><polygon points='220,280 210,310 230,310' fill='#FFB6C1'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持つ女性型生命体です。体は長方形で、胸元には薄いピンク色の楕円形の飾りがあります。顔には真っ赤な口元や薄いピンク色の頬が描かれ、大きな目には濃いピンク色の瞳が輝いています。頭部にはピンクの角が2つあり、短いピンクの髪の毛が生えています。四肢には薄いピンク色の手や足が付いており、しっぽは薄いピンク色の線で描かれています。",
+        "reason": "イヴは、自然界の色彩と調和を取り入れることで、より美しく進化しました。",
+        "thought": "『調和と美しさが、私たちの進化の鍵です』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='120' width='160' height='200' fill='#4682B4'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#87CEEB'/><path d='M200,160 Q250,180 200,200 Q150,180 200,160' fill='none' stroke='#4169E1'/><circle cx='160' cy='140' r='10' fill='#000080'/><circle cx='240' cy='140' r='10' fill='#000080'/><circle cx='170' cy='90' r='5' fill='#000'/><circle cx='230' cy='90' r='5' fill='#000'/><polygon points='200,160 180,170 220,170' fill='#4169E1'/><line x1='180' y1='145' x2='220' y2='145' stroke='#4169E1' stroke-width='2'/><line x1='160' y1='220' x2='140' y2='280' stroke='#4169E1' stroke-width='3'/><line x1='240' y1='220' x2='260' y2='280' stroke='#4169E1' stroke-width='3'/><polygon points='180,280 190,310 170,310' fill='#4682B4'/><polygon points='220,280 210,310 230,310' fill='#4682B4'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の堅固な皮膚を持つ男性型生命体です。体は長方形で、胸元には薄い青色の楕円形の飾りがあります。顔には濃い青色の口元や青色の頬が描かれ、大きな目には濃い青色の瞳が輝いています。頭部には青い角が2つあり、短い青色の髪の毛が生えています。四肢には薄い青色の手や足が付いており、しっぽは青色の線で描かれています。",
+        "reason": "アダムは、進化において強さと安定性を重視し、青色を身にまといました。",
+        "thought": "『強さと安定、それが私たちの進化の鍵です』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1765024319393
   }
 ]
