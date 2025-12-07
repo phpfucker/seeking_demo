@@ -19256,5 +19256,28 @@
       "gender": "男性"
     },
     "timestamp": 1765070754634
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcc99' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='#ffd699' /><path d='M150 250 Q200 280 250 250 Q200 220 150 250 Z' fill='#ffcc99' /><ellipse cx='170' cy='180' rx='10' ry='15' fill='#ffd699' /><ellipse cx='230' cy='180' rx='10' ry='15' fill='#ffd699' /><ellipse cx='170' cy='180' rx='5' ry='8' fill='#ff9966' /><ellipse cx='230' cy='180' rx='5' ry='8' fill='#ff9966' /><rect x='175' y='225' width='50' height='10' fill='#ffcc99' /><polygon points='190,250 210,250 200,270' fill='#ffcc99' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとオレンジ色の柔らかな毛皮を持ち、長い尾とふんわりした耳が特徴の女性生命体です。体は丸みを帯びており、優しさと温かさを感じさせます。",
+        "reason": "自然環境の変化により、イヴは花や果物に親しんでいたため、その色合いと形状が進化の過程で表れた。",
+        "thought": "『花々の香りが心地よい』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#0077b6' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='#49beb7' /><path d='M150 250 Q200 280 250 250 Q200 220 150 250 Z' fill='#0077b6' /><ellipse cx='170' cy='180' rx='10' ry='15' fill='#49beb7' /><ellipse cx='230' cy='180' rx='10' ry='15' fill='#49beb7' /><ellipse cx='170' cy='180' rx='5' ry='8' fill='#005da6' /><ellipse cx='230' cy='180' rx='5' ry='8' fill='#005da6' /><rect x='175' y='225' width='50' height='10' fill='#0077b6' /><polygon points='190,250 210,250 200,270' fill='#0077b6' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色の色合いを持つ男性生命体で、堅固な体つきと尾と角が特徴です。落ち着いた雰囲気を醸し出し、力強さを感じさせます。",
+        "reason": "アダムは広大な海を旅しており、その青が深い海と水をイメージさせる色合いが進化の理由となった。",
+        "thought": "『静かな波の音に癒される』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1765088614133
   }
 ]
