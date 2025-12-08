@@ -19348,5 +19348,28 @@
       "gender": "男性"
     },
     "timestamp": 1765156750053
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffb6c1'/><ellipse cx='200' cy='180' rx='100' ry='130' fill='#ff99cc'/><rect x='180' y='200' width='40' height='70' fill='#ff99cc'/><polygon points='160,210 200,160 240,210' fill='#ff99cc'/><polygon points='190,260 200,240 210,260' fill='#ff99cc'/><path d='M190 210 Q200 220 210 210' fill='none' stroke='#000' stroke-width='2'/><path d='M150 180 Q200 230 250 180' fill='none' stroke='#000' stroke-width='2'/><path d='M190 240 Q200 260 210 240' fill='none' stroke='#000' stroke-width='2'/><circle cx='180' cy='180' r='10' fill='#000'/><circle cx='220' cy='180' r='10' fill='#000'/><circle cx='190' cy='220' r='8' fill='#000'/><circle cx='210' cy='220' r='8' fill='#000'/><circle cx='195' cy='175' r='2' fill='#fff'/><circle cx='205' cy='175' r='2' fill='#fff'/><path d='M190 230 Q200 235 210 230' fill='none' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、優雅な曲線を描く女性的な体型をしています。頭部には大きな目と小さな口、耳があり、顔の中心には小さな鼻があります。手は細く長く、足は繊細で美しい形状をしています。背中には繊細な模様が浮かび上がっています。",
+        "reason": "イヴは周囲の自然と調和し、美しい色彩と形状を持つことで、新たな生態系を築くために進化しました。",
+        "thought": "『生命の愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='150' ry='180' fill='#87ceeb'/><rect x='180' y='200' width='40' height='70' fill='#4682b4'/><polygon points='160,210 200,160 240,210' fill='#4682b4'/><polygon points='190,260 200,240 210,260' fill='#4682b4'/><path d='M190 210 Q200 220 210 210' fill='none' stroke='#000' stroke-width='2'/><path d='M150 180 Q200 230 250 180' fill='none' stroke='#000' stroke-width='2'/><path d='M190 240 Q200 260 210 240' fill='none' stroke='#000' stroke-width='2'/><circle cx='180' cy='180' r='10' fill='#000'/><circle cx='220' cy='180' r='10' fill='#000'/><circle cx='190' cy='220' r='8' fill='#000'/><circle cx='210' cy='220' r='8' fill='#000'/><circle cx='195' cy='175' r='2' fill='#fff'/><circle cx='205' cy='175' r='2' fill='#fff'/><path d='M190 230 Q200 235 210 230' fill='none' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、涼やかな青色の体を持ち、力強い体格と男性的な特徴が際立っています。顔には大きな目と小さな口、粗い輪郭があり、耳も大きく立っています。手は力強く、足は頑丈で安定した形状をしています。背中には無骨な模様が刻まれています。",
+        "reason": "アダムは生存競争において他の生物との戦いに勝ち抜くため、強靭な体と鋭い感覚を備えるべく進化しました。",
+        "thought": "『野生の力と勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1765175355768
   }
 ]
