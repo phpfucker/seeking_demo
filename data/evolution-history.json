@@ -19394,5 +19394,28 @@
       "gender": "男性"
     },
     "timestamp": 1765197358905
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='135' y='50' width='130' height='200' fill='#ffcccb' /><ellipse cx='200' cy='180' rx='40' ry='60' fill='#ffdab9' /><path d='M200 180 L180 250 L220 250 Z' fill='#ff69b4' /><path d='M165 120 Q200 100 235 120' fill='none' stroke='#ff69b4' stroke-width='2' /><path d='M165 200 Q200 240 235 200' fill='none' stroke='#ff69b4' stroke-width='2' /><ellipse cx='170' cy='170' rx='10' ry='5' fill='#000' /><ellipse cx='230' cy='170' rx='10' ry='5' fill='#000' /><polygon points='170,250 200,300 230,250' fill='#fff' /><path d='M200 250 L190 310 L210 310 Z' fill='#fff' /><rect x='195' y='310' width='10' height='30' fill='#ffdab9' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、オレンジ色の長い髪と大きな赤い目をしています。体は華奢で、背中には小さな羽が生えています。胸元には淡いピンクの輝く宝石が飾られています。四肢は細く、手には小さな花が描かれています。",
+        "reason": "イヴは豊かな自然と調和する生命体へと進化しました。その美しさと優しさは自然界の中での調和を象徴しています。",
+        "thought": "『命の尊さを守りたい』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='135' y='50' width='130' height='200' fill='#87cefa' /><ellipse cx='200' cy='180' rx='40' ry='60' fill='#f0e68c' /><path d='M200 180 L180 250 L220 250 Z' fill='#f4a460' /><path d='M165 120 Q200 100 235 120' fill='none' stroke='#f4a460' stroke-width='2' /><path d='M165 200 Q200 240 235 200' fill='none' stroke='#f4a460' stroke-width='2' /><ellipse cx='170' cy='170' rx='10' ry='5' fill='#000' /><ellipse cx='230' cy='170' rx='10' ry='5' fill='#000' /><polygon points='170,250 200,300 230,250' fill='#fff' /><path d='M200 250 L190 310 L210 310 Z' fill='#fff' /><rect x='195' y='310' width='10' height='30' fill='#f0e68c' /></svg>",
+      "report": {
+        "appearance": "アダムは、水色の肌と黄色い長い髪、大きな黄金色の瞳を持つ生命体です。体格はがっしりとしており、背中には小さな鰭があります。胸元には青く輝く宝石が埋め込まれています。四肢は筋肉質で、手には小さな雷の模様が描かれています。",
+        "reason": "アダムは大気と海洋を支配する生命体へと進化しました。その力強さと知恵は自然界のバランスを保つ力を象徴しています。",
+        "thought": "『未来を築き上げる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1765218397986
   }
 ]

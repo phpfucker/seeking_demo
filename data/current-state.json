@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='135' y='50' width='130' height='200' fill='#ffcccb' /><ellipse cx='200' cy='180' rx='40' ry='60' fill='#ffdab9' /><path d='M200 180 L180 250 L220 250 Z' fill='#ff69b4' /><path d='M165 120 Q200 100 235 120' fill='none' stroke='#ff69b4' stroke-width='2' /><path d='M165 200 Q200 240 235 200' fill='none' stroke='#ff69b4' stroke-width='2' /><ellipse cx='170' cy='170' rx='10' ry='5' fill='#000' /><ellipse cx='230' cy='170' rx='10' ry='5' fill='#000' /><polygon points='170,250 200,300 230,250' fill='#fff' /><path d='M200 250 L190 310 L210 310 Z' fill='#fff' /><rect x='195' y='310' width='10' height='30' fill='#ffdab9' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='pink'/><ellipse cx='200' cy='230' rx='60' ry='40' fill='white'/><ellipse cx='170' cy='210' rx='10' ry='20' fill='black'/><ellipse cx='230' cy='210' rx='10' ry='20' fill='black'/><path d='M180 280 C190 300, 210 300, 220 280' fill='none' stroke='black' stroke-width='2'/><polygon points='180,160 220,160 200,180' fill='gold'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな肌を持ち、オレンジ色の長い髪と大きな赤い目をしています。体は華奢で、背中には小さな羽が生えています。胸元には淡いピンクの輝く宝石が飾られています。四肢は細く、手には小さな花が描かれています。",
-      "reason": "イヴは豊かな自然と調和する生命体へと進化しました。その美しさと優しさは自然界の中での調和を象徴しています。",
-      "thought": "『命の尊さを守りたい』"
+      "appearance": "イヴはピンクの体に白い楕円形の顔を持ち、黒い目と金色の口元を持つ。頭部中央から生えた金色の角が特徴的である。",
+      "reason": "イヴは内面の安定と知恵を求めて進化し、新たな知識と平和を象徴する特徴を身につけた。",
+      "thought": "『穏やかな未来を築く』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='135' y='50' width='130' height='200' fill='#87cefa' /><ellipse cx='200' cy='180' rx='40' ry='60' fill='#f0e68c' /><path d='M200 180 L180 250 L220 250 Z' fill='#f4a460' /><path d='M165 120 Q200 100 235 120' fill='none' stroke='#f4a460' stroke-width='2' /><path d='M165 200 Q200 240 235 200' fill='none' stroke='#f4a460' stroke-width='2' /><ellipse cx='170' cy='170' rx='10' ry='5' fill='#000' /><ellipse cx='230' cy='170' rx='10' ry='5' fill='#000' /><polygon points='170,250 200,300 230,250' fill='#fff' /><path d='M200 250 L190 310 L210 310 Z' fill='#fff' /><rect x='195' y='310' width='10' height='30' fill='#f0e68c' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='lightblue'/><ellipse cx='200' cy='230' rx='60' ry='40' fill='white'/><ellipse cx='170' cy='210' rx='10' ry='20' fill='black'/><ellipse cx='230' cy='210' rx='10' ry='20' fill='black'/><path d='M180 280 C190 300, 210 300, 220 280' fill='none' stroke='black' stroke-width='2'/><polygon points='180,160 220,160 200,180' fill='silver'/></svg>",
     "report": {
-      "appearance": "アダムは、水色の肌と黄色い長い髪、大きな黄金色の瞳を持つ生命体です。体格はがっしりとしており、背中には小さな鰭があります。胸元には青く輝く宝石が埋め込まれています。四肢は筋肉質で、手には小さな雷の模様が描かれています。",
-      "reason": "アダムは大気と海洋を支配する生命体へと進化しました。その力強さと知恵は自然界のバランスを保つ力を象徴しています。",
-      "thought": "『未来を築き上げる』"
+      "appearance": "アダムは淡い青色の体に白い楕円形の顔を持ち、黒い目と銀色の口元を持つ。頭部中央から生えた銀色の角が特徴的である。",
+      "reason": "アダムは内面の力と勇気を求めて進化し、新たな挑戦と勝利を象徴する特徴を身につけた。",
+      "thought": "『新たな高みを目指す』"
     },
     "name": "アダム",
     "gender": "男性"
