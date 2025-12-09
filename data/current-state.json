@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFAFBD' /><ellipse cx='150' cy='180' rx='30' ry='20' fill='#FFC3A0' /><ellipse cx='250' cy='180' rx='30' ry='20' fill='#FFC3A0' /><path d='M200 230 Q150 250 200 270 Q250 250 200 230' fill='none' stroke='#FF69B4' stroke-width='2' /><rect x='185' y='190' width='30' height='10' fill='#FF69B4' /><rect x='185' y='190' width='30' height='5' fill='#FFC3A0' /><ellipse cx='200' cy='180' rx='8' ry='5' fill='white' /><polygon points='190,170 210,170 200,160' fill='white' /><path d='M180 170 Q190 150 200 170 Q210 150 220 170' fill='none' stroke='white' stroke-width='2' /><circle cx='180' cy='220' r='5' fill='black' /><circle cx='220' cy='220' r='5' fill='black' /><rect x='185' y='235' width='30' height='10' fill='#FF69B4' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(255,218,185);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><rect x='50' y='50' width='300' height='300' fill='url(#gradA)' /><circle cx='200' cy='150' r='100' fill='url(#gradA)' /><circle cx='120' cy='120' r='20' fill='#000' /><circle cx='280' cy='120' r='20' fill='#000' /><ellipse cx='200' cy='180' rx='40' ry='20' fill='#fff' /><path d='M180 200 Q200 220 220 200 Q200 180 180 200 Z' fill='#000' /><polygon points='180,220 200,230 220,220' fill='#000' /><line x1='170' y1='260' x2='230' y2='260' stroke='#000' stroke-width='10' /><line x1='200' y1='260' x2='200' y2='320' stroke='#000' stroke-width='10' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の体に短い髪の毛を持つ女性の姿をしています。顔には白い眼と口があり、角状の耳が特徴です。背中にはピンク色のしっぽがあり、足元には赤い脚があります。",
-      "reason": "イヴは進化の過程で、より優美で柔らかな特徴を身につけることで、環境への適応性を高めました。",
-      "thought": "『愛と知恵』"
+      "appearance": "イヴは、ピンクとオレンジのグラデーションが美しい女性の姿をしています。丸い顔に大きな瞳、柔らかな表情が魅力的です。体全体が優しい色合いで包まれ、愛らしい印象を与えます。",
+      "reason": "進化の過程で、イヴはより美しく、優雅な外見を手に入れることで、環境への適応力と魅力を高めました。",
+      "thought": "『愛と美しさの力』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='160' fill='#77B5FE' /><circle cx='200' cy='100' r='50' fill='#77B5FE' /><path d='M150 100 Q125 50 200 50 Q275 50 250 100' fill='none' stroke='#5284E6' stroke-width='5' /><polygon points='175,100 200,50 225,100' fill='#5284E6' /><path d='M180 200 Q160 220 180 240 Q200 260 180 280 Q160 260 180 240' fill='none' stroke='white' stroke-width='5' /><circle cx='170' cy='190' r='5' fill='white' /><circle cx='230' cy='190' r='5' fill='white' /><rect x='180' y='260' width='20' height='10' fill='white' /><rect x='190' y='270' width='10' height='20' fill='white' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(100,149,237);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><rect x='50' y='50' width='300' height='300' fill='url(#gradB)' /><circle cx='200' cy='150' r='100' fill='url(#gradB)' /><polygon points='180,120 200,90 220,120' fill='#000' /><ellipse cx='175' cy='180' rx='10' ry='20' fill='#fff' /><ellipse cx='225' cy='180' rx='10' ry='20' fill='#fff' /><path d='M180 200 Q200 220 220 200 Q200 180 180 200 Z' fill='#000' /><line x1='170' y1='250' x2='230' y2='250' stroke='#000' stroke-width='10' /><line x1='200' y1='250' x2='200' y2='300' stroke='#000' stroke-width='10' /></svg>",
     "report": {
-      "appearance": "アダムは、青色の体に大きな頭を持つ男性の姿をしています。頭部には大きな輝く眼があり、口元は幾何学的なデザインです。背中には青色のしっぽがあり、脚は白色で構成されています。",
-      "reason": "アダムは進化の過程で、知性と力強さを示す特徴を発展させることで、狩りや生存競争において有利になりました。",
-      "thought": "『創造と勇気』"
+      "appearance": "アダムは、青と紺色のグラデーションがかっこいい男性の姿をしています。顔立ちが引き締まり、力強い印象を与えます。全体的に引き締まった雰囲気が漂い、魅力的な男性です。",
+      "reason": "進化の過程で、アダムはより力強く、魅力的な外見を手に入れることで、生存競争において有利な存在となりました。",
+      "thought": "『力と知恵の調和』"
     },
     "name": "アダム",
     "gender": "男性"
