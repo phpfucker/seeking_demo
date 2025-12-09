@@ -19486,5 +19486,28 @@
       "gender": "男性"
     },
     "timestamp": 1765283814414
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(255,218,185);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><rect x='50' y='50' width='300' height='300' fill='url(#gradA)' /><circle cx='200' cy='150' r='100' fill='url(#gradA)' /><circle cx='120' cy='120' r='20' fill='#000' /><circle cx='280' cy='120' r='20' fill='#000' /><ellipse cx='200' cy='180' rx='40' ry='20' fill='#fff' /><path d='M180 200 Q200 220 220 200 Q200 180 180 200 Z' fill='#000' /><polygon points='180,220 200,230 220,220' fill='#000' /><line x1='170' y1='260' x2='230' y2='260' stroke='#000' stroke-width='10' /><line x1='200' y1='260' x2='200' y2='320' stroke='#000' stroke-width='10' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとオレンジのグラデーションが美しい女性の姿をしています。丸い顔に大きな瞳、柔らかな表情が魅力的です。体全体が優しい色合いで包まれ、愛らしい印象を与えます。",
+        "reason": "進化の過程で、イヴはより美しく、優雅な外見を手に入れることで、環境への適応力と魅力を高めました。",
+        "thought": "『愛と美しさの力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(100,149,237);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><rect x='50' y='50' width='300' height='300' fill='url(#gradB)' /><circle cx='200' cy='150' r='100' fill='url(#gradB)' /><polygon points='180,120 200,90 220,120' fill='#000' /><ellipse cx='175' cy='180' rx='10' ry='20' fill='#fff' /><ellipse cx='225' cy='180' rx='10' ry='20' fill='#fff' /><path d='M180 200 Q200 220 220 200 Q200 180 180 200 Z' fill='#000' /><line x1='170' y1='250' x2='230' y2='250' stroke='#000' stroke-width='10' /><line x1='200' y1='250' x2='200' y2='300' stroke='#000' stroke-width='10' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と紺色のグラデーションがかっこいい男性の姿をしています。顔立ちが引き締まり、力強い印象を与えます。全体的に引き締まった雰囲気が漂い、魅力的な男性です。",
+        "reason": "進化の過程で、アダムはより力強く、魅力的な外見を手に入れることで、生存競争において有利な存在となりました。",
+        "thought": "『力と知恵の調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1765304534136
   }
 ]
