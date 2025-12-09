@@ -19417,5 +19417,28 @@
       "gender": "男性"
     },
     "timestamp": 1765218397986
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='pink'/><ellipse cx='200' cy='230' rx='60' ry='40' fill='white'/><ellipse cx='170' cy='210' rx='10' ry='20' fill='black'/><ellipse cx='230' cy='210' rx='10' ry='20' fill='black'/><path d='M180 280 C190 300, 210 300, 220 280' fill='none' stroke='black' stroke-width='2'/><polygon points='180,160 220,160 200,180' fill='gold'/></svg>",
+      "report": {
+        "appearance": "イヴはピンクの体に白い楕円形の顔を持ち、黒い目と金色の口元を持つ。頭部中央から生えた金色の角が特徴的である。",
+        "reason": "イヴは内面の安定と知恵を求めて進化し、新たな知識と平和を象徴する特徴を身につけた。",
+        "thought": "『穏やかな未来を築く』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='lightblue'/><ellipse cx='200' cy='230' rx='60' ry='40' fill='white'/><ellipse cx='170' cy='210' rx='10' ry='20' fill='black'/><ellipse cx='230' cy='210' rx='10' ry='20' fill='black'/><path d='M180 280 C190 300, 210 300, 220 280' fill='none' stroke='black' stroke-width='2'/><polygon points='180,160 220,160 200,180' fill='silver'/></svg>",
+      "report": {
+        "appearance": "アダムは淡い青色の体に白い楕円形の顔を持ち、黒い目と銀色の口元を持つ。頭部中央から生えた銀色の角が特徴的である。",
+        "reason": "アダムは内面の力と勇気を求めて進化し、新たな挑戦と勝利を象徴する特徴を身につけた。",
+        "thought": "『新たな高みを目指す』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1765243105668
   }
 ]

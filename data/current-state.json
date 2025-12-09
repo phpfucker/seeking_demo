@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='pink'/><ellipse cx='200' cy='230' rx='60' ry='40' fill='white'/><ellipse cx='170' cy='210' rx='10' ry='20' fill='black'/><ellipse cx='230' cy='210' rx='10' ry='20' fill='black'/><path d='M180 280 C190 300, 210 300, 220 280' fill='none' stroke='black' stroke-width='2'/><polygon points='180,160 220,160 200,180' fill='gold'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='#ff99cc' /><rect x='160' y='180' width='80' height='30' fill='#ff6666' /><rect x='165' y='210' width='10' height='70' fill='#ff6666' /><rect x='225' y='210' width='10' height='70' fill='#ff6666' /><polygon points='195,150 200,140 205,150' fill='#ffffff' /><ellipse cx='180' cy='120' rx='10' ry='20' fill='#ffffff' /><ellipse cx='220' cy='120' rx='10' ry='20' fill='#ffffff' /><path d='M180,250 Q200,270 220,250' fill='none' stroke='#ff6666' stroke-width='5' /><path d='M180,250 Q200,230 220,250' fill='none' stroke='#ff6666' stroke-width='5' /><line x1='185' y1='280' x2='175' y2='290' stroke='#ff6666' stroke-width='5' /><line x1='215' y1='280' x2='225' y2='290' stroke='#ff6666' stroke-width='5' /></svg>",
     "report": {
-      "appearance": "イヴはピンクの体に白い楕円形の顔を持ち、黒い目と金色の口元を持つ。頭部中央から生えた金色の角が特徴的である。",
-      "reason": "イヴは内面の安定と知恵を求めて進化し、新たな知識と平和を象徴する特徴を身につけた。",
-      "thought": "『穏やかな未来を築く』"
+      "appearance": "イヴは、ピンク色の柔らかな体を持つ女性で、顔には白い目と口が描かれています。体には赤いハイライトが入り、愛らしい雰囲気を醸し出しています。",
+      "reason": "生態系の変化により、イヴはより優れた適応性を持つべく進化しました。",
+      "thought": "『愛と平和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='lightblue'/><ellipse cx='200' cy='230' rx='60' ry='40' fill='white'/><ellipse cx='170' cy='210' rx='10' ry='20' fill='black'/><ellipse cx='230' cy='210' rx='10' ry='20' fill='black'/><path d='M180 280 C190 300, 210 300, 220 280' fill='none' stroke='black' stroke-width='2'/><polygon points='180,160 220,160 200,180' fill='silver'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6' /><rect x='160' y='180' width='80' height='30' fill='#4682b4' /><rect x='165' y='210' width='10' height='70' fill='#4682b4' /><rect x='225' y='210' width='10' height='70' fill='#4682b4' /><polygon points='195,150 200,140 205,150' fill='#ffffff' /><ellipse cx='180' cy='120' rx='10' ry='20' fill='#ffffff' /><ellipse cx='220' cy='120' rx='10' ry='20' fill='#ffffff' /><path d='M180,250 Q200,270 220,250' fill='none' stroke='#4682b4' stroke-width='5' /><path d='M180,250 Q200,230 220,250' fill='none' stroke='#4682b4' stroke-width='5' /><line x1='185' y1='280' x2='175' y2='290' stroke='#4682b4' stroke-width='5' /><line x1='215' y1='280' x2='225' y2='290' stroke='#4682b4' stroke-width='5' /></svg>",
     "report": {
-      "appearance": "アダムは淡い青色の体に白い楕円形の顔を持ち、黒い目と銀色の口元を持つ。頭部中央から生えた銀色の角が特徴的である。",
-      "reason": "アダムは内面の力と勇気を求めて進化し、新たな挑戦と勝利を象徴する特徴を身につけた。",
-      "thought": "『新たな高みを目指す』"
+      "appearance": "アダムは、青色の体を持つ男性で、力強い体つきと凛々しい表情が特徴です。体全体には濃い青色が広がり、力強さと落ち着きを感じさせます。",
+      "reason": "環境の適応に伴い、アダムはより強靭で効率的な進化を遂げました。",
+      "thought": "『誇りと勇気』"
     },
     "name": "アダム",
     "gender": "男性"
