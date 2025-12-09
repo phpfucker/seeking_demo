@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='#ff99cc' /><rect x='160' y='180' width='80' height='30' fill='#ff6666' /><rect x='165' y='210' width='10' height='70' fill='#ff6666' /><rect x='225' y='210' width='10' height='70' fill='#ff6666' /><polygon points='195,150 200,140 205,150' fill='#ffffff' /><ellipse cx='180' cy='120' rx='10' ry='20' fill='#ffffff' /><ellipse cx='220' cy='120' rx='10' ry='20' fill='#ffffff' /><path d='M180,250 Q200,270 220,250' fill='none' stroke='#ff6666' stroke-width='5' /><path d='M180,250 Q200,230 220,250' fill='none' stroke='#ff6666' stroke-width='5' /><line x1='185' y1='280' x2='175' y2='290' stroke='#ff6666' stroke-width='5' /><line x1='215' y1='280' x2='225' y2='290' stroke='#ff6666' stroke-width='5' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFAFBD' /><ellipse cx='150' cy='180' rx='30' ry='20' fill='#FFC3A0' /><ellipse cx='250' cy='180' rx='30' ry='20' fill='#FFC3A0' /><path d='M200 230 Q150 250 200 270 Q250 250 200 230' fill='none' stroke='#FF69B4' stroke-width='2' /><rect x='185' y='190' width='30' height='10' fill='#FF69B4' /><rect x='185' y='190' width='30' height='5' fill='#FFC3A0' /><ellipse cx='200' cy='180' rx='8' ry='5' fill='white' /><polygon points='190,170 210,170 200,160' fill='white' /><path d='M180 170 Q190 150 200 170 Q210 150 220 170' fill='none' stroke='white' stroke-width='2' /><circle cx='180' cy='220' r='5' fill='black' /><circle cx='220' cy='220' r='5' fill='black' /><rect x='185' y='235' width='30' height='10' fill='#FF69B4' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな体を持つ女性で、顔には白い目と口が描かれています。体には赤いハイライトが入り、愛らしい雰囲気を醸し出しています。",
-      "reason": "生態系の変化により、イヴはより優れた適応性を持つべく進化しました。",
-      "thought": "『愛と平和』"
+      "appearance": "イヴは、ピンク色の体に短い髪の毛を持つ女性の姿をしています。顔には白い眼と口があり、角状の耳が特徴です。背中にはピンク色のしっぽがあり、足元には赤い脚があります。",
+      "reason": "イヴは進化の過程で、より優美で柔らかな特徴を身につけることで、環境への適応性を高めました。",
+      "thought": "『愛と知恵』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6' /><rect x='160' y='180' width='80' height='30' fill='#4682b4' /><rect x='165' y='210' width='10' height='70' fill='#4682b4' /><rect x='225' y='210' width='10' height='70' fill='#4682b4' /><polygon points='195,150 200,140 205,150' fill='#ffffff' /><ellipse cx='180' cy='120' rx='10' ry='20' fill='#ffffff' /><ellipse cx='220' cy='120' rx='10' ry='20' fill='#ffffff' /><path d='M180,250 Q200,270 220,250' fill='none' stroke='#4682b4' stroke-width='5' /><path d='M180,250 Q200,230 220,250' fill='none' stroke='#4682b4' stroke-width='5' /><line x1='185' y1='280' x2='175' y2='290' stroke='#4682b4' stroke-width='5' /><line x1='215' y1='280' x2='225' y2='290' stroke='#4682b4' stroke-width='5' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='160' fill='#77B5FE' /><circle cx='200' cy='100' r='50' fill='#77B5FE' /><path d='M150 100 Q125 50 200 50 Q275 50 250 100' fill='none' stroke='#5284E6' stroke-width='5' /><polygon points='175,100 200,50 225,100' fill='#5284E6' /><path d='M180 200 Q160 220 180 240 Q200 260 180 280 Q160 260 180 240' fill='none' stroke='white' stroke-width='5' /><circle cx='170' cy='190' r='5' fill='white' /><circle cx='230' cy='190' r='5' fill='white' /><rect x='180' y='260' width='20' height='10' fill='white' /><rect x='190' y='270' width='10' height='20' fill='white' /></svg>",
     "report": {
-      "appearance": "アダムは、青色の体を持つ男性で、力強い体つきと凛々しい表情が特徴です。体全体には濃い青色が広がり、力強さと落ち着きを感じさせます。",
-      "reason": "環境の適応に伴い、アダムはより強靭で効率的な進化を遂げました。",
-      "thought": "『誇りと勇気』"
+      "appearance": "アダムは、青色の体に大きな頭を持つ男性の姿をしています。頭部には大きな輝く眼があり、口元は幾何学的なデザインです。背中には青色のしっぽがあり、脚は白色で構成されています。",
+      "reason": "アダムは進化の過程で、知性と力強さを示す特徴を発展させることで、狩りや生存競争において有利になりました。",
+      "thought": "『創造と勇気』"
     },
     "name": "アダム",
     "gender": "男性"
