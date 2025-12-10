@@ -19578,5 +19578,28 @@
       "gender": "男性"
     },
     "timestamp": 1765370211423
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#ffcccb' /><ellipse cx='200' cy='200' rx='120' ry='160' fill='#f08080' /><circle cx='150' cy='180' r='10' fill='#000000' /><circle cx='250' cy='180' r='10' fill='#000000' /><path d='M180 250 Q200 280 220 250' stroke='#000000' stroke-width='2' fill='none' /><path d='M140 180 Q160 150 180 180' stroke='#000000' stroke-width='2' fill='none' /><path d='M260 180 Q280 150 300 180' stroke='#000000' stroke-width='2' fill='none' /><ellipse cx='170' cy='240' rx='30' ry='15' fill='#ffffff' /><ellipse cx='230' cy='240' rx='30' ry='15' fill='#ffffff' /><text x='150' y='300' font-family='Arial' font-size='20' fill='#000000'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の肌を持つ女性型生命体です。体は楕円形で、大きな赤い目が特徴的です。頭には二本の白い角があり、手と足には白い模様が描かれています。",
+        "reason": "生態系の変化により、イヴは新たな環境に適応するため、より美しく華やかな外見を進化させました。",
+        "thought": "『誇り高く、優雅な存在』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#add8e6' /><ellipse cx='200' cy='200' rx='120' ry='160' fill='#4682b4' /><circle cx='150' cy='180' r='10' fill='#000000' /><circle cx='250' cy='180' r='10' fill='#000000' /><path d='M180 250 Q200 280 220 250' stroke='#000000' stroke-width='2' fill='none' /><path d='M140 180 Q160 150 180 180' stroke='#000000' stroke-width='2' fill='none' /><path d='M260 180 Q280 150 300 180' stroke='#000000' stroke-width='2' fill='none' /><polygon points='180,240 170,260 190,260' fill='#ffffff' /><polygon points='220,240 210,260 230,260' fill='#ffffff' /><text x='150' y='300' font-family='Arial' font-size='20' fill='#000000'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青色の体色を持つ男性型生命体です。体は楕円形で、深い青色の目が特徴的です。頭部には二本の青い角が生えており、手と足には白い模様が描かれています。",
+        "reason": "繁殖競争の激化により、アダムはより力強く逞しい外見へ進化しました。青色は頼りがいと安定を表しています。",
+        "thought": "『力強く、誇り高い存在』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1765391169983
   }
 ]

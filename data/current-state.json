@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#ffcccb' /><ellipse cx='200' cy='200' rx='120' ry='160' fill='#f08080' /><circle cx='150' cy='180' r='10' fill='#000000' /><circle cx='250' cy='180' r='10' fill='#000000' /><path d='M180 250 Q200 280 220 250' stroke='#000000' stroke-width='2' fill='none' /><path d='M140 180 Q160 150 180 180' stroke='#000000' stroke-width='2' fill='none' /><path d='M260 180 Q280 150 300 180' stroke='#000000' stroke-width='2' fill='none' /><ellipse cx='170' cy='240' rx='30' ry='15' fill='#ffffff' /><ellipse cx='230' cy='240' rx='30' ry='15' fill='#ffffff' /><text x='150' y='300' font-family='Arial' font-size='20' fill='#000000'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><circle cx='200' cy='200' r='150' fill='#ffcc99'/><ellipse cx='130' cy='170' rx='20' ry='30' fill='#ffd699'/><ellipse cx='270' cy='170' rx='20' ry='30' fill='#ffd699'/><path d='M160 240 Q200 280 240 240' fill='none' stroke='#996633' stroke-width='4'/><path d='M240 240 Q220 260 200 240' fill='none' stroke='#996633' stroke-width='4'/><path d='M130 210 Q150 180 170 210' fill='none' stroke='#996633' stroke-width='4'/><path d='M270 210 Q250 180 230 210' fill='none' stroke='#996633' stroke-width='4'/><circle cx='180' cy='180' r='10' fill='black'/><circle cx='220' cy='180' r='10' fill='black'/><polygon points='180,210 170,230 190,230' fill='#ff9999'/><polygon points='220,210 210,230 230,230' fill='#ff9999'/><rect x='185' y='280' width='30' height='60' fill='#ff9999'/></g></svg>",
     "report": {
-      "appearance": "イヴはピンク色の肌を持つ女性型生命体です。体は楕円形で、大きな赤い目が特徴的です。頭には二本の白い角があり、手と足には白い模様が描かれています。",
-      "reason": "生態系の変化により、イヴは新たな環境に適応するため、より美しく華やかな外見を進化させました。",
-      "thought": "『誇り高く、優雅な存在』"
+      "appearance": "イヴは、橙色の体にピンク色の耳としっぽを持つ女性の生命体です。肌はオレンジ色で、両腕には茶色の模様があります。",
+      "reason": "新たな環境への適応を促すため、イヴはより暖かみのある色調と模様を身につけた。",
+      "thought": "『暖かさと優しさを持って、未来へ進化する』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#add8e6' /><ellipse cx='200' cy='200' rx='120' ry='160' fill='#4682b4' /><circle cx='150' cy='180' r='10' fill='#000000' /><circle cx='250' cy='180' r='10' fill='#000000' /><path d='M180 250 Q200 280 220 250' stroke='#000000' stroke-width='2' fill='none' /><path d='M140 180 Q160 150 180 180' stroke='#000000' stroke-width='2' fill='none' /><path d='M260 180 Q280 150 300 180' stroke='#000000' stroke-width='2' fill='none' /><polygon points='180,240 170,260 190,260' fill='#ffffff' /><polygon points='220,240 210,260 230,260' fill='#ffffff' /><text x='150' y='300' font-family='Arial' font-size='20' fill='#000000'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><circle cx='200' cy='200' r='150' fill='#66ccff'/><ellipse cx='130' cy='170' rx='20' ry='30' fill='#66b3ff'/><ellipse cx='270' cy='170' rx='20' ry='30' fill='#66b3ff'/><path d='M160 240 Q200 280 240 240' fill='none' stroke='#336699' stroke-width='4'/><path d='M240 240 Q220 260 200 240' fill='none' stroke='#336699' stroke-width='4'/><path d='M130 210 Q150 180 170 210' fill='none' stroke='#336699' stroke-width='4'/><path d='M270 210 Q250 180 230 210' fill='none' stroke='#336699' stroke-width='4'/><circle cx='180' cy='180' r='10' fill='black'/><circle cx='220' cy='180' r='10' fill='black'/><polygon points='180,210 170,230 190,230' fill='#66b3ff'/><polygon points='220,210 210,230 230,230' fill='#66b3ff'/><rect x='185' y='280' width='30' height='60' fill='#66b3ff'/></g></svg>",
     "report": {
-      "appearance": "アダムは青色の体色を持つ男性型生命体です。体は楕円形で、深い青色の目が特徴的です。頭部には二本の青い角が生えており、手と足には白い模様が描かれています。",
-      "reason": "繁殖競争の激化により、アダムはより力強く逞しい外見へ進化しました。青色は頼りがいと安定を表しています。",
-      "thought": "『力強く、誇り高い存在』"
+      "appearance": "アダムは、青い体に青紫色の耳としっぽを持つ男性の生命体です。肌は水色で、両腕には濃い青色の模様があります。",
+      "reason": "環境の変化により、アダムはより涼しげな色調と模様を採用し、新たな特性を獲得した。",
+      "thought": "『変わることで強さを得て、未来を切り拓く』"
     },
     "name": "アダム",
     "gender": "男性"
