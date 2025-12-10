@@ -19532,5 +19532,28 @@
       "gender": "男性"
     },
     "timestamp": 1765329616340
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFC0CB' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#FFB6C1' /><rect x='160' y='220' width='80' height='30' fill='#FFC0CB' /><path d='M180 140 Q200 120 220 140' stroke='#FF1493' stroke-width='3' fill='none' /><polygon points='190,220 210,220 220,230 200,240 180,230' fill='#FFB6C1' /><line x1='160' y1='220' x2='160' y2='250' stroke='#FF1493' stroke-width='3' /><line x1='240' y1='220' x2='240' y2='250' stroke='#FF1493' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体と白い腹部を持つ女性の生命体です。丸い顔には桃色の楕円形の目があり、短くて丸い耳が頭部に付いています。手はピンクで、足は白とピンクの組み合わせです。しっぽはなく、角もありません。",
+        "reason": "イヴは新しい進化段階に適応するため、より優れた視覚と柔軟な身体構造が必要となりました。",
+        "thought": "『愛と知恵』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#4169E1' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#6495ED' /><rect x='160' y='220' width='80' height='30' fill='#4169E1' /><path d='M180 140 Q200 120 220 140' stroke='#1E90FF' stroke-width='3' fill='none' /><polygon points='190,220 210,220 220,230 200,240 180,230' fill='#6495ED' /><line x1='160' y1='220' x2='160' y2='250' stroke='#1E90FF' stroke-width='3' /><line x1='240' y1='220' x2='240' y2='250' stroke='#1E90FF' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "アダムは青色の体と淡い青色の腹部を持つ男性の生命体です。丸い顔には青い楕円形の目があり、短くて丸い耳が頭部に付いています。手は青で、足は青と淡い青の組み合わせです。しっぽはなく、角もありません。",
+        "reason": "アダムは進化の過程で水中環境に適応する必要が生じ、より効率的な水泳能力と柔軟な身体構造が求められました。",
+        "thought": "『力と勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1765348093122
   }
 ]
