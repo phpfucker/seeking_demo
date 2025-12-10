@@ -19555,5 +19555,28 @@
       "gender": "男性"
     },
     "timestamp": 1765348093122
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='200' width='200' height='150' fill='#ffcc99'/><circle cx='200' cy='150' r='80' fill='#ffcc99'/><circle cx='160' cy='140' r='10' fill='#000'/><circle cx='240' cy='140' r='10' fill='#000'/><ellipse cx='180' cy='170' rx='30' ry='20' fill='#fff'/><ellipse cx='220' cy='170' rx='30' ry='20' fill='#fff'/><path d='M180 210 Q200 230 220 210' fill='none' stroke='#000' stroke-width='2'/><path d='M200 230 Q190 240 180 230' fill='none' stroke='#000' stroke-width='2'/><path d='M200 230 Q210 240 220 230' fill='none' stroke='#000' stroke-width='2'/><rect x='160' y='250' width='80' height='15' fill='#cc9966'/><polygon points='180,265 200,265 210,280 170,280' fill='#cc9966'/></svg>",
+      "report": {
+        "appearance": "イヴは、桃色の肌と大きな目を持つ女性の姿をしています。顔には二つの白い楕円形の模様があり、やわらかな表情をしています。体の下部には茶色いしっぽがあり、しなやかな線で描かれています。",
+        "reason": "進化の過程で、イヴはより美しさと優雅さを持つように進化しました。柔らかな色合いと繊細な特徴がその魅力です。",
+        "thought": "『穏やかな愛を持って』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='200' width='200' height='150' fill='#6699ff'/><circle cx='200' cy='150' r='80' fill='#6699ff'/><circle cx='160' cy='140' r='10' fill='#000'/><circle cx='240' cy='140' r='10' fill='#000'/><ellipse cx='180' cy='170' rx='30' ry='20' fill='#fff'/><ellipse cx='220' cy='170' rx='30' ry='20' fill='#fff'/><line x1='190' y1='210' x2='210' y2='210' stroke='#000' stroke-width='2'/><line x1='190' y1='220' x2='210' y2='220' stroke='#000' stroke-width='2'/><rect x='160' y='250' width='80' height='15' fill='#336699'/><polygon points='180,265 200,265 210,280 170,280' fill='#336699'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌と鋭い目つきを持つ男性の姿をしています。シンメトリーな特徴と力強い表情が特徴で、背中には青いしっぽが生えています。",
+        "reason": "アダムの進化は、力強さと知恵を組み合わせた新たな姿へと変化しました。青色は知性と安定を象徴しています。",
+        "thought": "『力強く進む』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1765370211423
   }
 ]
