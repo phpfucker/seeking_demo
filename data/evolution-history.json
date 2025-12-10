@@ -19509,5 +19509,28 @@
       "gender": "男性"
     },
     "timestamp": 1765304534136
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccaa' /><ellipse cx='200' cy='180' rx='120' ry='160' fill='#ffd8be' /><path d='M150 220 L200 280 L250 220 Z' fill='#ffecd9' /><circle cx='140' cy='160' r='20' fill='#000' /><circle cx='260' cy='160' r='20' fill='#000' /><path d='M150 280 Q200 320 250 280' fill='none' stroke='#000' stroke-width='4' /><path d='M160 340 Q200 380 240 340' fill='none' stroke='#000' stroke-width='4' /><path d='M180 120 Q150 80 120 120' fill='none' stroke='#000' stroke-width='4' /><path d='M220 120 Q250 80 280 120' fill='none' stroke='#000' stroke-width='4' /><polygon points='180,240 160,260 220,260' fill='#fff' /><polygon points='220,240 240,260 180,260' fill='#fff' /></svg>",
+      "report": {
+        "appearance": "イヴはオレンジ色の柔らかな皮膚を持つ女性で、優雅な曲線を持つ細長い体と柔らかい表情が特徴です。体の一部には淡いピンクの模様が散りばめられています。",
+        "reason": "イヴは環境の変化に適応するため、より優れた美しさと柔らかさを持つよう進化しました。",
+        "thought": "『宇宙の神秘を感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#779ecb' /><polygon points='150,100 250,100 200,50' fill='#8fbadd' /><ellipse cx='200' cy='100' rx='50' ry='30' fill='#8fbadd' /><circle cx='170' cy='130' r='10' fill='#000' /><circle cx='230' cy='130' r='10' fill='#000' /><path d='M160 200 Q200 240 240 200' fill='none' stroke='#000' stroke-width='4' /><path d='M160 300 Q200 340 240 300' fill='none' stroke='#000' stroke-width='4' /><path d='M140 100 Q110 50 80 100' fill='none' stroke='#000' stroke-width='4' /><path d='M260 100 Q290 50 320 100' fill='none' stroke='#000' stroke-width='4' /><polyline points='150,250 140,270 250,270 260,250' fill='none' stroke='#fff' stroke-width='4' /></svg>",
+      "report": {
+        "appearance": "アダムは青い鱗片のような肌を持つ男性で、がっしりとした体つきと凛々しい雰囲気が特徴です。背中には白い模様が描かれています。",
+        "reason": "アダムはより強靭で頼りがいのある姿に変化し、狩猟や力仕事に適した進化を遂げました。",
+        "thought": "『未来への希望を抱く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1765329616340
   }
 ]
