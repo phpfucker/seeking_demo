@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><circle cx='200' cy='200' r='150' fill='#ffcc99'/><ellipse cx='130' cy='170' rx='20' ry='30' fill='#ffd699'/><ellipse cx='270' cy='170' rx='20' ry='30' fill='#ffd699'/><path d='M160 240 Q200 280 240 240' fill='none' stroke='#996633' stroke-width='4'/><path d='M240 240 Q220 260 200 240' fill='none' stroke='#996633' stroke-width='4'/><path d='M130 210 Q150 180 170 210' fill='none' stroke='#996633' stroke-width='4'/><path d='M270 210 Q250 180 230 210' fill='none' stroke='#996633' stroke-width='4'/><circle cx='180' cy='180' r='10' fill='black'/><circle cx='220' cy='180' r='10' fill='black'/><polygon points='180,210 170,230 190,230' fill='#ff9999'/><polygon points='220,210 210,230 230,230' fill='#ff9999'/><rect x='185' y='280' width='30' height='60' fill='#ff9999'/></g></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,197,187);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,134,134);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><circle cx='200' cy='130' r='30' fill='white' /><circle cx='170' cy='130' r='8' fill='black' /><circle cx='230' cy='130' r='8' fill='black' /><path d='M170 200 Q200 250 230 200' fill='none' stroke='black' stroke-width='2' /><path d='M190 220 Q200 230 210 220' fill='none' stroke='black' stroke-width='2' /><path d='M160 240 Q200 260 240 240' fill='none' stroke='black' stroke-width='2' /><path d='M160 240 Q200 280 240 240' fill='none' stroke='black' stroke-width='2' /><path d='M150 210 Q200 180 250 210' fill='none' stroke='black' stroke-width='2' /><path d='M150 210 Q200 150 250 210' fill='none' stroke='black' stroke-width='2' /><polygon points='180,260 200,280 220,260' fill='white' /><line x1='180' y1='260' x2='180' y2='300' stroke='black' stroke-width='2' /><line x1='220' y1='260' x2='220' y2='300' stroke='black' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "イヴは、橙色の体にピンク色の耳としっぽを持つ女性の生命体です。肌はオレンジ色で、両腕には茶色の模様があります。",
-      "reason": "新たな環境への適応を促すため、イヴはより暖かみのある色調と模様を身につけた。",
-      "thought": "『暖かさと優しさを持って、未来へ進化する』"
+      "appearance": "イヴは、ピンクから赤へとグラデーションした柔らかい毛並みを持ち、白い目と小さな黒い鼻を持つ女性の姿をしています。頭には長い角があり、優雅な曲線で描かれた体と手足が特徴です。四肢には白い爪があり、背中には白い模様が施されています。",
+      "reason": "イヴは新たな環境への適応を目指し、より美しく進化しました。",
+      "thought": "『生命の美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><circle cx='200' cy='200' r='150' fill='#66ccff'/><ellipse cx='130' cy='170' rx='20' ry='30' fill='#66b3ff'/><ellipse cx='270' cy='170' rx='20' ry='30' fill='#66b3ff'/><path d='M160 240 Q200 280 240 240' fill='none' stroke='#336699' stroke-width='4'/><path d='M240 240 Q220 260 200 240' fill='none' stroke='#336699' stroke-width='4'/><path d='M130 210 Q150 180 170 210' fill='none' stroke='#336699' stroke-width='4'/><path d='M270 210 Q250 180 230 210' fill='none' stroke='#336699' stroke-width='4'/><circle cx='180' cy='180' r='10' fill='black'/><circle cx='220' cy='180' r='10' fill='black'/><polygon points='180,210 170,230 190,230' fill='#66b3ff'/><polygon points='220,210 210,230 230,230' fill='#66b3ff'/><rect x='185' y='280' width='30' height='60' fill='#66b3ff'/></g></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(175,218,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(101,179,233);stop-opacity:1' /></linearGradient></defs><rect x='130' y='100' width='140' height='200' fill='url(#gradB)' /><circle cx='200' cy='60' r='30' fill='white' /><circle cx='170' cy='60' r='8' fill='black' /><circle cx='230' cy='60' r='8' fill='black' /><polygon points='180,100 200,80 220,100' fill='white' /><line x1='180' y1='100' x2='180' y2='140' stroke='black' stroke-width='2' /><line x1='220' y1='100' x2='220' y2='140' stroke='black' stroke-width='2' /><path d='M150 140 Q200 100 250 140' fill='none' stroke='black' stroke-width='2' /><path d='M150 160 Q200 120 250 160' fill='none' stroke='black' stroke-width='2' /><path d='M160 180 Q200 200 240 180' fill='none' stroke='black' stroke-width='2' /><path d='M160 180 Q200 220 240 180' fill='none' stroke='black' stroke-width='2' /><path d='M170 220 Q200 230 230 220' fill='none' stroke='black' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "アダムは、青い体に青紫色の耳としっぽを持つ男性の生命体です。肌は水色で、両腕には濃い青色の模様があります。",
-      "reason": "環境の変化により、アダムはより涼しげな色調と模様を採用し、新たな特性を獲得した。",
-      "thought": "『変わることで強さを得て、未来を切り拓く』"
+      "appearance": "アダムは、青から水色へとグラデーションした鱗状の外皮を持ち、白い目と小さな黒い口を持つ男性の姿をしています。頭には短い角があり、頑丈な直線と曲線で描かれた体と手足が特徴です。四肢には鋭い爪があり、胸には水色の模様が施されています。",
+      "reason": "アダムは狩猟や防衛のための進化を遂げ、より頼れる存在となりました。",
+      "thought": "『生命の力強さ』"
     },
     "name": "アダム",
     "gender": "男性"
