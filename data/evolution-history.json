@@ -19739,5 +19739,28 @@
       "gender": "男性"
     },
     "timestamp": 1765520860066
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFE1E6' /><ellipse cx='200' cy='180' rx='90' ry='120' fill='#FFB6C1' /><path d='M150 240 Q200 290 250 240 Q200 290 150 240 Z' fill='#FFD1DC' /><path d='M230 190 Q260 160 290 190 Q260 160 230 190 Z' fill='#FFD1DC' /><path d='M170 190 Q140 160 110 190 Q140 160 170 190 Z' fill='#FFD1DC' /><path d='M140 240 Q185 290 230 240 Q185 290 140 240 Z' fill='#FFC2CD' /><path d='M260 240 Q315 290 370 240 Q315 290 260 240 Z' fill='#FFC2CD' /><path d='M180 280 Q200 310 220 280 Q200 310 180 280 Z' fill='#FFC2CD' /><path d='M180 260 Q200 290 220 260 Q200 290 180 260 Z' fill='#FFC2CD' /><rect x='170' y='275' width='60' height='30' fill='#FFB6C1' /><rect x='165' y='275' width='70' height='10' fill='#FFD1DC' /><line x1='200' y1='245' x2='200' y2='260' stroke='#000' stroke-width='2' /><line x1='230' y1='265' x2='250' y2='265' stroke='#000' stroke-width='2' /><line x1='170' y1='265' x2='150' y2='265' stroke='#000' stroke-width='2' /><line x1='180' y1='190' x2='180' y2='210' stroke='#000' stroke-width='2' /><line x1='220' y1='190' x2='220' y2='210' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと赤色の柔らかな皮膚を持つ女性の生命体です。体は丸く、頭部には卵型の耳があり、薄いピンクの長い髪が垂れ下がっています。胴体には淡いピンク色の装飾が施され、四つの脚としっぽがあります。",
+        "reason": "イヴは、自然の調和と平和を象徴する新たな進化を遂げました。その姿は、優しさと美しさを表現しています。",
+        "thought": "『平和と愛』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='50' width='100' height='150' fill='#B0E57C' /><rect x='140' y='200' width='120' height='160' fill='#90CF53' /><rect x='135' y='200' width='130' height='50' fill='#B0E57C' /><rect x='140' y='260' width='120' height='60' fill='#B0E57C' /><ellipse cx='200' cy='70' rx='40' ry='20' fill='#90CF53' /><path d='M180 200 Q200 170 220 200 Q200 170 180 200 Z' fill='#B0E57C' /><path d='M135 260 Q165 295 200 260 Q165 295 135 260 Z' fill='#B0E57C' /><path d='M265 260 Q295 295 330 260 Q295 295 265 260 Z' fill='#B0E57C' /><path d='M160 310 Q200 340 240 310 Q200 340 160 310 Z' fill='#90CF53' /><path d='M150 50 Q180 20 210 50 Q180 20 150 50 Z' fill='#90CF53' /><path d='M220 50 Q250 20 280 50 Q250 20 220 50 Z' fill='#90CF53' /><path d='M190 200 Q200 220 210 200 Q200 220 190 200 Z' fill='#90CF53' /><line x1='180' y1='200' x2='180' y2='220' stroke='#000' stroke-width='2' /><line x1='220' y1='200' x2='220' y2='220' stroke='#000' stroke-width='2' /><line x1='190' y1='200' x2='190' y2='210' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、緑と黄色の色合いを持つ男性の生命体です。体は四角く、腰には緑の装飾が施されています。頭部には卵形の目があり、短い黄色い髪が生えています。四本の脚と尾があります。",
+        "reason": "アダムは、自然界の力強さと生命力を象徴する新たな進化を遂げました。その姿は、力強さと活力を表現しています。",
+        "thought": "『絶えざる成長』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1765543009915
   }
 ]
