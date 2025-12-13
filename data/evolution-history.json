@@ -19785,5 +19785,28 @@
       "gender": "男性"
     },
     "timestamp": 1765564031671
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='150' ry='180' fill='rgba(255,150,200,0.8)' /><path d='M150,200 L200,320 L250,200 Q200,220 150,200' fill='rgba(255,100,150,0.9)' /><polygon points='180,200 190,210 170,210' fill='rgba(200,50,100,0.9)' /><rect x='180' y='320' width='40' height='60' fill='rgba(255,100,150,0.9)' /><circle cx='180' cy='320' r='5' fill='rgba(0,0,0,1)' /><circle cx='220' cy='320' r='5' fill='rgba(0,0,0,1)' /><path d='M120,130 Q200,80 280,130 Q200,180 120,130' fill='rgba(255,100,150,0.9)' /><path d='M130,180 Q200,230 270,180' fill='rgba(255,100,150,0.9)' /><path d='M200,100 Q180,120 160,100' fill='none' stroke='rgba(0,0,0,1)' stroke-width='2' /><path d='M200,160 Q180,140 160,160' fill='none' stroke='rgba(0,0,0,1)' stroke-width='2' /><circle cx='160' cy='105' r='5' fill='rgba(0,0,0,1)' /><circle cx='240' cy='105' r='5' fill='rgba(0,0,0,1)' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色のしっかりとした体に、赤い瞳を持つ美しい女性である。体の中心部には暗いピンク色の模様があり、柔らかな表情と優雅な仕草が特徴だ。",
+        "reason": "イヴは新たな段階への進化に際して、美しさと優雅さをより強調するように進化した。",
+        "thought": "『愛と美の力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='140' ry='180' fill='rgba(100,150,255,0.8)' /><path d='M150,200 L200,300 L250,200 Q200,220 150,200' fill='rgba(50,100,255,0.9)' /><polyline points='180,200 190,210 170,210' fill='none' stroke='rgba(0,0,0,1)' stroke-width='2' /><rect x='180' y='300' width='40' height='60' fill='rgba(50,100,255,0.9)' /><circle cx='180' cy='300' r='5' fill='rgba(0,0,0,1)' /><circle cx='220' cy='300' r='5' fill='rgba(0,0,0,1)' /><path d='M120,120 Q200,80 280,120 Q200,160 120,120' fill='rgba(50,100,255,0.9)' /><path d='M130,160 Q200,200 270,160' fill='rgba(50,100,255,0.9)' /><path d='M200,90 Q180,110 160,90' fill='none' stroke='rgba(0,0,0,1)' stroke-width='2' /><path d='M200,150 Q180,130 160,150' fill='none' stroke='rgba(0,0,0,1)' stroke-width='2' /><circle cx='160' cy='95' r='5' fill='rgba(0,0,0,1)' /><circle cx='240' cy='95' r='5' fill='rgba(0,0,0,1)' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い体に強靭な体躯と鋭い視線を持つ男性である。体の周囲には濃い青色の模様があり、力強い表情と俊敏な動きが特徴だ。",
+        "reason": "アダムは新たな段階への進化に際して、力強さと俊敏さをより強調するように進化した。",
+        "thought": "『力と知恵の調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1765588576133
   }
 ]
