@@ -19831,5 +19831,28 @@
       "gender": "男性"
     },
     "timestamp": 1765607095944
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,205,220);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,127,80);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='150' cy='180' rx='40' ry='30' fill='white' /><ellipse cx='250' cy='180' rx='40' ry='30' fill='white' /><ellipse cx='200' cy='230' rx='80' ry='30' fill='white' /><circle cx='175' cy='170' r='10' fill='black' /><circle cx='225' cy='170' r='10' fill='black' /><path d='M190,220 Q200,250 210,220' fill='none' stroke='black' stroke-width='2' /><path d='M160,240 Q200,280 240,240' fill='none' stroke='black' stroke-width='2' /><path d='M220,260 Q200,280 180,260' fill='none' stroke='black' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、蝶のような羽を持つ美しい女性で、ピンクとオレンジのグラデーションで彩られています。顔には白い楕円形の目があり、甘い笑顔を浮かべています。体には白い模様が施され、優雅な足と蝶のしっぽが特徴です。",
+        "reason": "生態系の変化により、花や植物との共生を強化するために進化しました。",
+        "thought": "『自然と調和し、美しさを守る』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(144,238,144);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(50,205,50);stop-opacity:1' /></linearGradient></defs><rect x='150' y='120' width='100' height='180' fill='url(#gradB)' /><circle cx='200' cy='150' r='40' fill='white' /><path d='M170,200 Q200,250 230,200' fill='none' stroke='black' stroke-width='2' /><path d='M170,240 Q200,280 230,240' fill='none' stroke='black' stroke-width='2' /><path d='M190,300 Q200,320 210,300' fill='none' stroke='black' stroke-width='2' /><line x1='160' y1='300' x2='170' y2='320' stroke='black' stroke-width='2' /><line x1='240' y1='300' x2='230' y2='320' stroke='black' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、緑色の草原に溶け込むような外見を持つ男性で、緑から濃い緑へのグラデーションが全体を覆っています。四角い体には草の葉の模様が浮かび上がり、頭部には白い目が配置されています。力強い手足としっかりとした角が特徴です。",
+        "reason": "生態系の変化に適応し、自然環境に溶け込むために進化しました。",
+        "thought": "『自然と調和し、環境を守る』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1765629151768
   }
 ]
