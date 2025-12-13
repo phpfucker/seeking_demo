@@ -19854,5 +19854,28 @@
       "gender": "男性"
     },
     "timestamp": 1765629151768
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#ffcccb' /><ellipse cx='200' cy='200' rx='100' ry='120' fill='#ff9999' /><circle cx='150' cy='180' r='10' fill='#ffffff' /><circle cx='250' cy='180' r='10' fill='#ffffff' /><path d='M200 220 Q180 250 200 280 Q220 250 200 220' fill='none' stroke='#333' stroke-width='2' /><polygon points='180,160 190,150 210,150 220,160' fill='#ffcccc' /><line x1='190' y1='180' x2='210' y2='180' stroke='#333' stroke-width='2' /><polygon points='170,200 185,200 190,210 200,210 205,200 220,200 205,190 200,190 190,190 185,200' fill='#ff9999' /><polygon points='180,205 190,205 195,210 200,210 205,205 215,205 205,195 200,195 195,195 185,195' fill='#ff6666' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかな体を持ち、薄いピンクの顔と大きな目を持っています。手足は少し短めで、しっぽは小さくてふわふわです。体の一部に赤い模様があり、優雅で可愛らしい外見をしています。",
+        "reason": "生態系での順応性を高めるため、イヴはより美しく魅力的な外見を進化させました。",
+        "thought": "『愛と優しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#99ccff' /><ellipse cx='200' cy='200' rx='100' ry='120' fill='#66a3ff' /><circle cx='150' cy='180' r='10' fill='#ffffff' /><circle cx='250' cy='180' r='10' fill='#ffffff' /><path d='M200 220 Q180 250 200 280 Q220 250 200 220' fill='none' stroke='#333' stroke-width='2' /><polygon points='180,160 190,150 210,150 220,160' fill='#ccf2ff' /><line x1='190' y1='180' x2='210' y2='180' stroke='#333' stroke-width='2' /><polygon points='170,200 185,200 190,210 200,210 205,200 220,200 205,190 200,190 190,190 185,200' fill='#66a3ff' /><polygon points='180,205 190,205 195,210 200,210 205,205 215,205 205,195 200,195 195,195 185,195' fill='#3385ff' /></svg>",
+      "report": {
+        "appearance": "アダムは青色の体を持ち、濃い青の顔と大きな目を持っています。手足はしっかりとした筋肉がついており、しっぽは太くて力強い形状です。体の一部に濃い青の模様があり、力強く知性的な外見をしています。",
+        "reason": "アダムはより強靭で知性的な外見を持つことで、生存競争において有利性を得るために進化しました。",
+        "thought": "『知識と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1765650107752
   }
 ]
