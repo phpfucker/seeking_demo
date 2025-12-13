@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99' /><ellipse cx='200' cy='150' rx='100' ry='80' fill='#ffddcc' /><path d='M180,230 Q200,250 220,230' stroke='#cc9966' stroke-width='6' fill='none' /><rect x='180' y='240' width='40' height='20' fill='#cc9966' /><polygon points='150,200 160,180 170,200' fill='#ffaa66' /><polygon points='250,200 240,180 230,200' fill='#ffaa66' /><circle cx='190' cy='150' r='10' fill='#fff' /><circle cx='210' cy='150' r='10' fill='#fff' /><circle cx='200' cy='160' r='5' fill='#333' /><circle cx='190' cy='240' r='10' fill='#ffaa66' /><circle cx='210' cy='240' r='10' fill='#ffaa66' /><rect x='195' y='260' width='10' height='40' fill='#cc9966' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,205,220);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,127,80);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='150' cy='180' rx='40' ry='30' fill='white' /><ellipse cx='250' cy='180' rx='40' ry='30' fill='white' /><ellipse cx='200' cy='230' rx='80' ry='30' fill='white' /><circle cx='175' cy='170' r='10' fill='black' /><circle cx='225' cy='170' r='10' fill='black' /><path d='M190,220 Q200,250 210,220' fill='none' stroke='black' stroke-width='2' /><path d='M160,240 Q200,280 240,240' fill='none' stroke='black' stroke-width='2' /><path d='M220,260 Q200,280 180,260' fill='none' stroke='black' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな体にオレンジ色の複雑な模様を持つ女性型生命体です。頭部には大きな角があり、瞳は真っ黒であります。",
-      "reason": "生態系内での環境変化に伴い、イヴの進化は生存戦略の一環として発生しました。",
-      "thought": "『再生と調和』"
+      "appearance": "イヴは、蝶のような羽を持つ美しい女性で、ピンクとオレンジのグラデーションで彩られています。顔には白い楕円形の目があり、甘い笑顔を浮かべています。体には白い模様が施され、優雅な足と蝶のしっぽが特徴です。",
+      "reason": "生態系の変化により、花や植物との共生を強化するために進化しました。",
+      "thought": "『自然と調和し、美しさを守る』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#6699cc' /><ellipse cx='200' cy='150' rx='100' ry='80' fill='#99ccff' /><path d='M180,230 Q200,250 220,230' stroke='#336699' stroke-width='6' fill='none' /><rect x='180' y='240' width='40' height='20' fill='#336699' /><polygon points='150,200 160,180 170,200' fill='#66aaff' /><polygon points='250,200 240,180 230,200' fill='#66aaff' /><circle cx='190' cy='150' r='10' fill='#fff' /><circle cx='210' cy='150' r='10' fill='#fff' /><circle cx='200' cy='160' r='5' fill='#333' /><line x1='190' y1='240' x2='190' y2='280' stroke='#336699' stroke-width='8' /><line x1='210' y1='240' x2='210' y2='280' stroke='#336699' stroke-width='8' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(144,238,144);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(50,205,50);stop-opacity:1' /></linearGradient></defs><rect x='150' y='120' width='100' height='180' fill='url(#gradB)' /><circle cx='200' cy='150' r='40' fill='white' /><path d='M170,200 Q200,250 230,200' fill='none' stroke='black' stroke-width='2' /><path d='M170,240 Q200,280 230,240' fill='none' stroke='black' stroke-width='2' /><path d='M190,300 Q200,320 210,300' fill='none' stroke='black' stroke-width='2' /><line x1='160' y1='300' x2='170' y2='320' stroke='black' stroke-width='2' /><line x1='240' y1='300' x2='230' y2='320' stroke='black' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "アダムは、青色の逞しい体に水色の模様を持つ男性型生命体です。頭部には短い角があり、瞳は深い青色をしています。",
-      "reason": "アダムの進化は、繁殖と生存競争における適応のために適応的に進化しました。",
-      "thought": "『力強さと勇気』"
+      "appearance": "アダムは、緑色の草原に溶け込むような外見を持つ男性で、緑から濃い緑へのグラデーションが全体を覆っています。四角い体には草の葉の模様が浮かび上がり、頭部には白い目が配置されています。力強い手足としっかりとした角が特徴です。",
+      "reason": "生態系の変化に適応し、自然環境に溶け込むために進化しました。",
+      "thought": "『自然と調和し、環境を守る』"
     },
     "name": "アダム",
     "gender": "男性"
