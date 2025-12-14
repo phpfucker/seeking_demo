@@ -19877,5 +19877,28 @@
       "gender": "男性"
     },
     "timestamp": 1765650107752
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFC0CB' /><ellipse cx='200' cy='180' rx='100' ry='120' fill='#FFB6C1' /><rect x='150' y='230' width='100' height='50' fill='#FF69B4' /><rect x='160' y='230' width='20' height='80' fill='#FF1493' /><rect x='220' y='230' width='20' height='80' fill='#FF1493' /><path d='M150 250 Q200 300 250 250' fill='none' stroke='#FF69B4' stroke-width='5' /><path d='M150 260 Q200 310 250 260' fill='none' stroke='#FF69B4' stroke-width='5' /><polygon points='190,170 210,170 200,180' fill='#FFFFFF' /><polygon points='220,210 230,210 225,220' fill='#FFFFFF' /><polygon points='170,210 180,210 175,220' fill='#FFFFFF' /><text x='140' y='30' font-family='Arial' font-size='20' fill='#000000'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体を持ち、やや長めの卵型の頭部に大きな目を持っています。胴体は薄いピンクで、上半身は楕円形の形状です。腕と脚は短く、ピンクと濃いピンクのストライプ模様があります。",
+        "reason": "イヴは自然界の色彩と形状の調和を目指し、柔らかなピンク色が進化によって選ばれました。",
+        "thought": "『変化と美しさの融合』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#4169E1' /><ellipse cx='200' cy='180' rx='100' ry='120' fill='#4682B4' /><rect x='150' y='230' width='100' height='50' fill='#1E90FF' /><rect x='160' y='230' width='20' height='80' fill='#00BFFF' /><rect x='220' y='230' width='20' height='80' fill='#00BFFF' /><path d='M150 250 Q200 300 250 250' fill='none' stroke='#1E90FF' stroke-width='5' /><path d='M150 260 Q200 310 250 260' fill='none' stroke='#1E90FF' stroke-width='5' /><polygon points='190,170 210,170 200,180' fill='#FFFFFF' /><polygon points='220,210 230,210 225,220' fill='#FFFFFF' /><polygon points='170,210 180,210 175,220' fill='#FFFFFF' /><text x='140' y='30' font-family='Arial' font-size='20' fill='#000000'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青色の体を持ち、丸みを帯びた頭部に大きな眼を持っています。胴体は青色で、頭部には紺色の模様があります。短い腕と脚は青と水色のストライプが入っています。",
+        "reason": "アダムは進化の過程で冷静さと知性を表現するため、青色が選ばれました。",
+        "thought": "『知性と美しさの融合』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1765675573661
   }
 ]
