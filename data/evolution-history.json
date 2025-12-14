@@ -19900,5 +19900,28 @@
       "gender": "男性"
     },
     "timestamp": 1765675573661
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='200' rx='120' ry='180' fill='#ff99aa' /><path d='M150,200 Q200,300 250,200 Q200,100 150,200' fill='#ff6699' /><rect x='180' y='150' width='40' height='100' fill='#ff3366' /><polygon points='180,210 220,210 200,240' fill='#ff0033' /><path d='M210,180 Q230,220 250,180' fill='none' stroke='#cc0033' stroke-width='3' /><line x1='190' y1='150' x2='210' y2='150' stroke='#990033' stroke-width='4' /><line x1='190' y1='150' x2='200' y2='140' stroke='#990033' stroke-width='4' /><line x1='210' y1='150' x2='200' y2='140' stroke='#990033' stroke-width='4' /><line x1='190' y1='250' x2='180' y2='240' stroke='#990033' stroke-width='4' /><line x1='210' y1='250' x2='220' y2='240' stroke='#990033' stroke-width='4' /><text x='200' y='280' fill='black' font-family='Arial' font-size='20' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかい皮膚を持つ女性型生命体です。全身を覆うエレガントなピンク色のフリルが特徴で、優雅な曲線と美しいグラデーションが顔や体全体を彩ります。長い髪の毛は薄いピンク色で、まるで繊細な花弁のように輝いています。",
+        "reason": "イヴは、美と優しさを象徴するような進化を遂げました。繊細な外見と優雅な特徴を持つことで、新たな魅力を身にまといました。",
+        "thought": "『優しさと美しさが力を生む』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#87ceeb' /><ellipse cx='200' cy='250' rx='50' ry='30' fill='#4682b4' /><path d='M150,100 Q200,150 250,100 Q200,50 150,100' fill='#4169e1' /><polygon points='180,100 220,100 200,70' fill='#6495ed' /><path d='M190,110 Q210,130 230,110' fill='none' stroke='#1e90ff' stroke-width='3' /><line x1='170' y1='100' x2='190' y2='100' stroke='#00bfff' stroke-width='4' /><line x1='170' y1='100' x2='180' y2='90' stroke='#00bfff' stroke-width='4' /><line x1='190' y1='100' x2='180' y2='90' stroke='#00bfff' stroke-width='4' /><line x1='170' y1='200' x2='160' y2='190' stroke='#00bfff' stroke-width='4' /><line x1='190' y1='200' x2='200' y2='190' stroke='#00bfff' stroke-width='4' /><text x='200' y='240' fill='black' font-family='Arial' font-size='20' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青い鱗に覆われた男性型生命体です。体のラインはがっしりとしており、逞しい腕や頑丈な体つきが印象的です。青い鱗の光沢が全身を覆い、煌めく姿はまるで水中から現れた神秘的な生き物のようです。",
+        "reason": "アダムは、強靭さと神秘性を併せ持つ進化を遂げました。逞しい体つきと煌めく鱗が、新たな力強さを示しています。",
+        "thought": "『力強さと神秘性が未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1765693499092
   }
 ]
