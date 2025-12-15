@@ -20038,5 +20038,28 @@
       "gender": "男性"
     },
     "timestamp": 1765802382059
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffddcb' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='#ffd8b1' /><path d='M150 250 Q200 300 250 250' fill='none' stroke='#ff9a8b' stroke-width='5' /><path d='M150 250 Q200 220 250 250' fill='none' stroke='#ff9a8b' stroke-width='5' /><path d='M150 250 Q200 280 250 250' fill='none' stroke='#ff9a8b' stroke-width='5' /><rect x='180' y='240' width='40' height='20' fill='#ffd8b1' /><line x1='230' y1='240' x2='230' y2='260' stroke='#ffd8b1' stroke-width='5' /><line x1='170' y1='240' x2='170' y2='260' stroke='#ffd8b1' stroke-width='5' /><circle cx='180' cy='150' r='10' fill='#333' /><circle cx='220' cy='150' r='10' fill='#333' /><polygon points='190,160 210,160 200,170' fill='#fff' /><rect x='185' y='160' width='30' height='10' fill='#333' /><circle cx='200' cy='180' r='5' fill='#333' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクやオレンジの温かみのある色合いの肌を持ち、優雅で流れるような曲線を特徴とする女性の姿をしています。頭部には繊細な角や模様があり、しなやかなしっぽと優美な手足が調和したデザインです。",
+        "reason": "地球の生態系が変化し、植物との共生を強化するため、イヴは美しい色彩と柔らかな曲線を持つ進化を遂げました。",
+        "thought": "『調和と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#b3e2cd' /><path d='M200 100 Q150 50 100 100' fill='none' stroke='#2eb67d' stroke-width='5' /><path d='M200 100 Q250 50 300 100' fill='none' stroke='#2eb67d' stroke-width='5' /><circle cx='175' cy='100' r='15' fill='#333' /><circle cx='225' cy='100' r='15' fill='#333' /><rect x='170' y='200' width='60' height='20' fill='#b3e2cd' /><line x1='175' y1='200' x2='175' y2='220' stroke='#b3e2cd' stroke-width='5' /><line x1='225' y1='200' x2='225' y2='220' stroke='#b3e2cd' stroke-width='5' /><polygon points='185,210 215,210 200,230' fill='#fff' /><rect x='190' y='210' width='20' height='10' fill='#333' /><circle cx='200' cy='240' r='5' fill='#333' /></svg>",
+      "report": {
+        "appearance": "アダムは、緑や青の爽やかな色調の全身を持ち、直線的な形状と角張った特徴が顕著な男性の姿をしています。頭部には堅固な角があり、力強い手足と重厚なしっぽが特徴的なデザインです。",
+        "reason": "生存競争が激化し、アダムは迅速かつ堅牢な体と保護色を持つ進化を遂げました。",
+        "thought": "『力強さと堅実さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1765823232810
   }
 ]
