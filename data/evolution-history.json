@@ -20084,5 +20084,28 @@
       "gender": "男性"
     },
     "timestamp": 1765848089459
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99' /><ellipse cx='200' cy='150' rx='110' ry='140' fill='#ffddb3' /><rect x='150' y='200' width='100' height='100' fill='#ffd699' /><polygon points='175,180 200,130 225,180' fill='#e66f00' /><polygon points='170,200 200,170 230,200' fill='#b35900' /><rect x='180' y='280' width='40' height='20' fill='#e66f00' /><rect x='280' y='280' width='40' height='20' fill='#e66f00' /><circle cx='170' cy='150' r='10' fill='#331900' /><circle cx='230' cy='150' r='10' fill='#331900' /><circle cx='200' cy='170' r='8' fill='#331900' /><path d='M190 220 Q200 240 210 220' stroke='#331900' stroke-width='2' fill='none' /><text x='200' y='320' font-family='Arial' font-size='18' fill='#331900' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、橙色と茶色の柔らかな肌を持ち、長めの耳と円らな顔立ちが特徴です。体は楕円形であり、下半身にはオレンジ色のスカート状の装飾があります。四角い靴と美しい線の模様が入った服を着ています。",
+        "reason": "イヴは優雅さと知性を象徴する進化を遂げました。環境への適応により、より繊細で柔らかな特徴が強調されました。",
+        "thought": "『知性と美しさが力となる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#99ccff' /><ellipse cx='200' cy='150' rx='110' ry='140' fill='#b3d3ff' /><rect x='150' y='200' width='100' height='100' fill='#99b3ff' /><polygon points='175,180 200,130 225,180' fill='#0059b3' /><polygon points='170,200 200,170 230,200' fill='#004080' /><rect x='180' y='280' width='40' height='20' fill='#0059b3' /><rect x='280' y='280' width='40' height='20' fill='#0059b3' /><circle cx='170' cy='150' r='10' fill='#192e33' /><circle cx='230' cy='150' r='10' fill='#192e33' /><circle cx='200' cy='170' r='8' fill='#192e33' /><path d='M190 220 Q200 240 210 220' stroke='#192e33' stroke-width='2' fill='none' /><text x='200' y='320' font-family='Arial' font-size='18' fill='#192e33' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青と白の清潔な肌を持ち、短い耳と力強い顔つきが特徴です。体は楕円形であり、下半身には青いパンツ状の装飾があります。四角い靴と幾何学模様が入った服を着ています。",
+        "reason": "アダムは力強さと勇気を象徴する進化を遂げました。新たな環境での生存に備えて、より力強い外見が形成されました。",
+        "thought": "『力強さと勇気で未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1765866503063
   }
 ]
