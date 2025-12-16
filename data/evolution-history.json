@@ -20130,5 +20130,28 @@
       "gender": "男性"
     },
     "timestamp": 1765888650106
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gradA\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" style=\"stop-color:rgb(255,255,255);stop-opacity:1\" /><stop offset=\"100%\" style=\"stop-color:rgb(255,192,203);stop-opacity:1\" /></linearGradient></defs><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"url(#gradA)\" /><ellipse cx=\"200\" cy=\"250\" rx=\"80\" ry=\"50\" fill=\"rgb(255,192,203)\" /><ellipse cx=\"150\" cy=\"200\" rx=\"25\" ry=\"40\" fill=\"rgb(255,192,203)\" /><ellipse cx=\"250\" cy=\"200\" rx=\"25\" ry=\"40\" fill=\"rgb(255,192,203)\" /><path d=\"M150 300 Q200 350 250 300\" stroke=\"black\" stroke-width=\"2\" fill=\"none\" /><line x1=\"170\" y1=\"160\" x2=\"140\" y2=\"120\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"230\" y1=\"160\" x2=\"260\" y2=\"120\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"150\" y1=\"210\" x2=\"170\" y2=\"230\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"250\" y1=\"210\" x2=\"230\" y2=\"230\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"160\" y1=\"250\" x2=\"180\" y2=\"240\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"240\" y1=\"250\" x2=\"220\" y2=\"240\" stroke=\"black\" stroke-width=\"2\" /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと白のグラデーションが美しい女性の姿をしています。体は丸みを帯びた形状で、胸元に小さな突起があります。頭部は卵型で、瞳が大きく優しい印象を与えます。手足は細くしなやかで、しっぽが長くしなやかに伸びています。",
+        "reason": "進化が起こった理由は、環境の安定と資源の豊富さにより、美しさと柔らかさが重要な特徴となったためです。",
+        "thought": "『やさしさと美しさが心を豊かにする』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gradB\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" style=\"stop-color:rgb(173,216,230);stop-opacity:1\" /><stop offset=\"100%\" style=\"stop-color:rgb(0,0,128);stop-opacity:1\" /></linearGradient></defs><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"url(#gradB)\" /><ellipse cx=\"200\" cy=\"250\" rx=\"80\" ry=\"50\" fill=\"rgb(173,216,230)\" /><ellipse cx=\"150\" cy=\"200\" rx=\"25\" ry=\"40\" fill=\"rgb(173,216,230)\" /><ellipse cx=\"250\" cy=\"200\" rx=\"25\" ry=\"40\" fill=\"rgb(173,216,230)\" /><path d=\"M150 300 Q200 350 250 300\" stroke=\"black\" stroke-width=\"2\" fill=\"none\" /><line x1=\"170\" y1=\"160\" x2=\"140\" y2=\"120\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"230\" y1=\"160\" x2=\"260\" y2=\"120\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"150\" y1=\"210\" x2=\"170\" y2=\"230\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"250\" y1=\"210\" x2=\"230\" y2=\"230\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"160\" y1=\"250\" x2=\"180\" y2=\"240\" stroke=\"black\" stroke-width=\"2\" /><line x1=\"240\" y1=\"250\" x2=\"220\" y2=\"240\" stroke=\"black\" stroke-width=\"2\" /></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色のグラデーションが美しい男性の姿をしています。体は力強くしっかりとした形状で、胸部に角状の突起があります。顔は鋭い輪郭を持ち、目つきが鋭く力強い印象を与えます。手足は筋肉質で、角のあるしっかりとしたしっぽが特徴です。",
+        "reason": "進化が起こった理由は、狩猟や防衛のために力強く頼りになる外見が求められたためです。",
+        "thought": "『力強さと頼もしさが未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1765909620458
   }
 ]
