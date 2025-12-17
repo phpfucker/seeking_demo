@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,204,204);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,102,102);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#grad1)' /><circle cx='200' cy='150' r='50' fill='rgb(255,204,204)' /><circle cx='150' cy='220' r='20' fill='rgb(255,102,102)' /><circle cx='250' cy='220' r='20' fill='rgb(255,102,102)' /><path d='M180 230 Q200 250 220 230' stroke='black' stroke-width='2' fill='none' /><path d='M230 230 Q250 250 270 230' stroke='black' stroke-width='2' fill='none' /><path d='M190 180 Q200 160 210 180' stroke='black' stroke-width='2' fill='none' /><path d='M190 250 Q200 270 210 250' stroke='black' stroke-width='2' fill='none' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#FFD700'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='#FFE4B5'/><path d='M150 300 C150 250 250 250 250 300' fill='none' stroke='#FF6347' stroke-width='8'/><polygon points='160,170 200,130 240,170' fill='#FFB6C1'/><circle cx='160' cy='200' r='10' fill='#000'/><circle cx='240' cy='200' r='10' fill='#000'/><ellipse cx='180' cy='220' rx='12' ry='8' fill='#000'/><ellipse cx='220' cy='220' rx='12' ry='8' fill='#000'/><path d='M190 230 Q200 240 210 230' fill='none' stroke='#000' stroke-width='2'/><path d='M160 260 Q200 290 240 260' fill='none' stroke='#000' stroke-width='4'/><path d='M180 160 Q200 140 220 160' fill='none' stroke='#000' stroke-linecap='round' stroke-width='6'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンクと赤のグラデーションが美しい体色を持ち、優しさと力強さを象徴する。顔には温かみのある表情があり、手足はしなやかで柔らかな印象を与える。背中には2つの赤い小さな円が配置され、優雅さを際立たせる。",
-      "reason": "イヴは内面の美しさと外見の調和を追求した進化を遂げた。柔らかな色彩としなやかなパーツが、他者に対する思いやりと力強さを表現している。",
-      "thought": "『愛と調和』"
+      "appearance": "イヴは、金色の美しい皮膚を持ち、柔らかなピンク色の目を持っています。体の形は楕円形で、薄暗い赤いピンク色の頬があり、頭部に赤い三角形の耳がついています。背中にはふわふわした毛が生えており、優雅なしっぽが特徴です。",
+      "reason": "イヴは新たなエリアに住むようになり、金色の皮膚は日光を浴びて輝くため、美しい変化が生じました。",
+      "thought": "『誇り高き美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(204,204,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(102,102,255);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#grad2)' /><circle cx='200' cy='150' r='50' fill='rgb(204,204,255)' /><circle cx='150' cy='220' r='20' fill='rgb(102,102,255)' /><circle cx='250' cy='220' r='20' fill='rgb(102,102,255)' /><path d='M180 230 Q200 250 220 230' stroke='black' stroke-width='2' fill='none' /><path d='M220 230 Q240 250 260 230' stroke='black' stroke-width='2' fill='none' /><path d='M190 180 Q200 160 210 180' stroke='black' stroke-width='2' fill='none' /><path d='M190 250 Q200 270 210 250' stroke='black' stroke-width='2' fill='none' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#4682B4'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='#87CEEB'/><path d='M150 300 C150 250 250 250 250 300' fill='none' stroke='#2E8B57' stroke-width='8'/><polygon points='160,170 200,130 240,170' fill='#3CB371'/><circle cx='160' cy='200' r='10' fill='#000'/><circle cx='240' cy='200' r='10' fill='#000'/><ellipse cx='180' cy='220' rx='12' ry='8' fill='#000'/><ellipse cx='220' cy='220' rx='12' ry='8' fill='#000'/><path d='M190 230 Q200 240 210 230' fill='none' stroke='#000' stroke-width='2'/><path d='M160 260 Q200 290 240 260' fill='none' stroke='#000' stroke-width='4'/><path d='M180 160 Q200 140 220 160' fill='none' stroke='#000' stroke-linecap='round' stroke-width='6'/></svg>",
     "report": {
-      "appearance": "アダムは、青と紫のグラデーションが美しい体色を持ち、知性と精神力を象徴する。顔には穏やかな表情があり、手足はしなやかで緻密な印象を与える。背中には2つの青い小さな円が配置され、高貴さを際立たせる。",
-      "reason": "アダムは知性と精神力を高める進化を遂げた。落ち着いた色彩と緻密なパーツが、環境への適応力と知的な成長を反映している。",
-      "thought": "『知性と調和』"
+      "appearance": "アダムは、青い肌に覆われ、穏やかな空色の目を持っています。体は楕円形で、緑色の口元が特徴的です。頭には青い三角形の耳がつき、背中には水色の軟らかいフィンが生えています。",
+      "reason": "アダムは新たな環境に順応するため、水辺に適応する特徴を持つように進化しました。",
+      "thought": "『穏やかな水の精霊』"
     },
     "name": "アダム",
     "gender": "男性"
