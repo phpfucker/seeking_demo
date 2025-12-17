@@ -20153,5 +20153,28 @@
       "gender": "男性"
     },
     "timestamp": 1765909620458
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='rgb(255,205,230)' /><rect x='150' y='200' width='100' height='180' fill='rgb(240,150,200)' /><ellipse cx='175' cy='250' rx='20' ry='35' fill='rgb(255,205,230)' /><ellipse cx='225' cy='250' rx='20' ry='35' fill='rgb(255,205,230)' /><rect x='180' y='325' width='40' height='50' fill='rgb(255,205,230)' /><circle cx='190' cy='180' r='15' fill='rgb(255,150,200)' /><circle cx='210' cy='180' r='15' fill='rgb(255,150,200)' /><polygon points='190,180 180,160 200,160' fill='rgb(255,150,200)' /><polygon points='210,180 220,160 200,160' fill='rgb(255,150,200)' /><ellipse cx='200' cy='140' rx='30' ry='20' fill='rgb(255,205,230)' /><path d='M190 170 Q200 160 210 170' stroke='black' fill='none' /><text x='200' y='380' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の美しい肌を持つ女性で、体は丸く幅広であり、丸い顔に大きな目が特徴です。手足は短くてしっかりとした造りで、背中には小さな翼が生えています。",
+        "reason": "環境の変化により、イヴは色彩豊かで美しい外見を持つように進化しました。",
+        "thought": "『愛と美しさを守る』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='200' width='100' height='200' fill='rgb(150,200,255)' /><circle cx='200' cy='180' r='25' fill='rgb(100,150,255)' /><circle cx='180' cy='190' r='10' fill='rgb(240,240,240)' /><circle cx='220' cy='190' r='10' fill='rgb(240,240,240)' /><line x1='180' y1='220' x2='180' y2='250' stroke='black' /><line x1='220' y1='220' x2='220' y2='250' stroke='black' /><ellipse cx='200' cy='150' rx='20' ry='25' fill='rgb(150,200,255)' /><path d='M190 160 Q200 140 210 160' stroke='black' fill='none' /><text x='200' y='380' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青色の体を持つ男性で、がっしりとした体つきで腕や脚が太く頑丈です。顔つきはシャープで、大きな口と力強い目が特徴です。",
+        "reason": "進化の過程で、アダムはより力強くたくましい外見を持つことで、獲得したリーダーシップ能力を表現するようになりました。",
+        "thought": "『強さと勇気を示す』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1765934214266
   }
 ]

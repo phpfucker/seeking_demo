@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='rgb(255,205,230)' /><rect x='150' y='200' width='100' height='180' fill='rgb(240,150,200)' /><ellipse cx='175' cy='250' rx='20' ry='35' fill='rgb(255,205,230)' /><ellipse cx='225' cy='250' rx='20' ry='35' fill='rgb(255,205,230)' /><rect x='180' y='325' width='40' height='50' fill='rgb(255,205,230)' /><circle cx='190' cy='180' r='15' fill='rgb(255,150,200)' /><circle cx='210' cy='180' r='15' fill='rgb(255,150,200)' /><polygon points='190,180 180,160 200,160' fill='rgb(255,150,200)' /><polygon points='210,180 220,160 200,160' fill='rgb(255,150,200)' /><ellipse cx='200' cy='140' rx='30' ry='20' fill='rgb(255,205,230)' /><path d='M190 170 Q200 160 210 170' stroke='black' fill='none' /><text x='200' y='380' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(238,130,238);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,192,203);stop-opacity:1' /></linearGradient></defs><rect x='100' y='150' width='200' height='200' fill='url(#gradA)' /><circle cx='200' cy='120' r='50' fill='rgb(238,130,238)' /><path d='M150,200 L250,200 L200,250 Z' fill='rgb(255,192,203)' /><ellipse cx='180' cy='280' rx='20' ry='35' fill='rgb(238,130,238)' /><ellipse cx='220' cy='280' rx='20' ry='35' fill='rgb(238,130,238)' /><path d='M170,220 Q200,260 230,220' fill='none' stroke='rgb(255,192,203)' stroke-width='3' /><path d='M180,260 Q200,280 220,260' fill='none' stroke='rgb(255,192,203)' stroke-width='3' /></svg>",
     "report": {
-      "appearance": "イヴはピンク色の美しい肌を持つ女性で、体は丸く幅広であり、丸い顔に大きな目が特徴です。手足は短くてしっかりとした造りで、背中には小さな翼が生えています。",
-      "reason": "環境の変化により、イヴは色彩豊かで美しい外見を持つように進化しました。",
-      "thought": "『愛と美しさを守る』"
+      "appearance": "イヴは、進化により上半身が人間のような女性の姿を保ちつつ、下半身が鮮やかなピンクと白のグラデーションの柔らかな楕円形の複数の葉で覆われた美しい生物となっています。胸元には紫の輝く円形の装飾があり、透き通るような光を放っています。",
+      "reason": "生態系の変化により、イヴは植物との共生が進み、環境への適応のために葉を持つ生物として進化しました。",
+      "thought": "『調和と美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='200' width='100' height='200' fill='rgb(150,200,255)' /><circle cx='200' cy='180' r='25' fill='rgb(100,150,255)' /><circle cx='180' cy='190' r='10' fill='rgb(240,240,240)' /><circle cx='220' cy='190' r='10' fill='rgb(240,240,240)' /><line x1='180' y1='220' x2='180' y2='250' stroke='black' /><line x1='220' y1='220' x2='220' y2='250' stroke='black' /><ellipse cx='200' cy='150' rx='20' ry='25' fill='rgb(150,200,255)' /><path d='M190 160 Q200 140 210 160' stroke='black' fill='none' /><text x='200' y='380' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(0,191,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><rect x='100' y='150' width='200' height='200' fill='url(#gradB)' /><circle cx='200' cy='120' r='50' fill='rgb(0,191,255)' /><path d='M150,200 L250,200 L200,250 Z' fill='rgb(65,105,225)' /><polygon points='180,235 190,245 210,245 220,235' fill='rgb(0,191,255)' /><polygon points='190,245 200,235 210,245' fill='rgb(65,105,225)' /><path d='M190,260 Q200,280 210,260' fill='none' stroke='rgb(65,105,225)' stroke-width='3' /><path d='M170,220 Q200,250 230,220' fill='none' stroke='rgb(65,105,225)' stroke-width='3' /></svg>",
     "report": {
-      "appearance": "アダムは青色の体を持つ男性で、がっしりとした体つきで腕や脚が太く頑丈です。顔つきはシャープで、大きな口と力強い目が特徴です。",
-      "reason": "進化の過程で、アダムはより力強くたくましい外見を持つことで、獲得したリーダーシップ能力を表現するようになりました。",
-      "thought": "『強さと勇気を示す』"
+      "appearance": "アダムは、青と深い青のグラデーションが美しい全身を覆う生物となっています。頭部は鋭い形状で、胴体は長方形の装飾で飾られ、胸部には鮮やかな青色の模様があります。四肢は円滑な曲線で描かれ、しっかりした姿勢を保っています。",
+      "reason": "狩猟行動の効率を高めるため、アダムは優れた視覚と俊敏性を持つ生物として進化しました。",
+      "thought": "『力強さと優雅さ』"
     },
     "name": "アダム",
     "gender": "男性"
