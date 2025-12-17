@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(238,130,238);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,192,203);stop-opacity:1' /></linearGradient></defs><rect x='100' y='150' width='200' height='200' fill='url(#gradA)' /><circle cx='200' cy='120' r='50' fill='rgb(238,130,238)' /><path d='M150,200 L250,200 L200,250 Z' fill='rgb(255,192,203)' /><ellipse cx='180' cy='280' rx='20' ry='35' fill='rgb(238,130,238)' /><ellipse cx='220' cy='280' rx='20' ry='35' fill='rgb(238,130,238)' /><path d='M170,220 Q200,260 230,220' fill='none' stroke='rgb(255,192,203)' stroke-width='3' /><path d='M180,260 Q200,280 220,260' fill='none' stroke='rgb(255,192,203)' stroke-width='3' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,204,204);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,102,102);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#grad1)' /><circle cx='200' cy='150' r='50' fill='rgb(255,204,204)' /><circle cx='150' cy='220' r='20' fill='rgb(255,102,102)' /><circle cx='250' cy='220' r='20' fill='rgb(255,102,102)' /><path d='M180 230 Q200 250 220 230' stroke='black' stroke-width='2' fill='none' /><path d='M230 230 Q250 250 270 230' stroke='black' stroke-width='2' fill='none' /><path d='M190 180 Q200 160 210 180' stroke='black' stroke-width='2' fill='none' /><path d='M190 250 Q200 270 210 250' stroke='black' stroke-width='2' fill='none' /></svg>",
     "report": {
-      "appearance": "イヴは、進化により上半身が人間のような女性の姿を保ちつつ、下半身が鮮やかなピンクと白のグラデーションの柔らかな楕円形の複数の葉で覆われた美しい生物となっています。胸元には紫の輝く円形の装飾があり、透き通るような光を放っています。",
-      "reason": "生態系の変化により、イヴは植物との共生が進み、環境への適応のために葉を持つ生物として進化しました。",
-      "thought": "『調和と美しさ』"
+      "appearance": "イヴは、ピンクと赤のグラデーションが美しい体色を持ち、優しさと力強さを象徴する。顔には温かみのある表情があり、手足はしなやかで柔らかな印象を与える。背中には2つの赤い小さな円が配置され、優雅さを際立たせる。",
+      "reason": "イヴは内面の美しさと外見の調和を追求した進化を遂げた。柔らかな色彩としなやかなパーツが、他者に対する思いやりと力強さを表現している。",
+      "thought": "『愛と調和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(0,191,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><rect x='100' y='150' width='200' height='200' fill='url(#gradB)' /><circle cx='200' cy='120' r='50' fill='rgb(0,191,255)' /><path d='M150,200 L250,200 L200,250 Z' fill='rgb(65,105,225)' /><polygon points='180,235 190,245 210,245 220,235' fill='rgb(0,191,255)' /><polygon points='190,245 200,235 210,245' fill='rgb(65,105,225)' /><path d='M190,260 Q200,280 210,260' fill='none' stroke='rgb(65,105,225)' stroke-width='3' /><path d='M170,220 Q200,250 230,220' fill='none' stroke='rgb(65,105,225)' stroke-width='3' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(204,204,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(102,102,255);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#grad2)' /><circle cx='200' cy='150' r='50' fill='rgb(204,204,255)' /><circle cx='150' cy='220' r='20' fill='rgb(102,102,255)' /><circle cx='250' cy='220' r='20' fill='rgb(102,102,255)' /><path d='M180 230 Q200 250 220 230' stroke='black' stroke-width='2' fill='none' /><path d='M220 230 Q240 250 260 230' stroke='black' stroke-width='2' fill='none' /><path d='M190 180 Q200 160 210 180' stroke='black' stroke-width='2' fill='none' /><path d='M190 250 Q200 270 210 250' stroke='black' stroke-width='2' fill='none' /></svg>",
     "report": {
-      "appearance": "アダムは、青と深い青のグラデーションが美しい全身を覆う生物となっています。頭部は鋭い形状で、胴体は長方形の装飾で飾られ、胸部には鮮やかな青色の模様があります。四肢は円滑な曲線で描かれ、しっかりした姿勢を保っています。",
-      "reason": "狩猟行動の効率を高めるため、アダムは優れた視覚と俊敏性を持つ生物として進化しました。",
-      "thought": "『力強さと優雅さ』"
+      "appearance": "アダムは、青と紫のグラデーションが美しい体色を持ち、知性と精神力を象徴する。顔には穏やかな表情があり、手足はしなやかで緻密な印象を与える。背中には2つの青い小さな円が配置され、高貴さを際立たせる。",
+      "reason": "アダムは知性と精神力を高める進化を遂げた。落ち着いた色彩と緻密なパーツが、環境への適応力と知的な成長を反映している。",
+      "thought": "『知性と調和』"
     },
     "name": "アダム",
     "gender": "男性"
