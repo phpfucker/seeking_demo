@@ -20268,5 +20268,28 @@
       "gender": "男性"
     },
     "timestamp": 1766020649433
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gradA\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" style=\"stop-color:rgb(238,130,238);stop-opacity:1\" /><stop offset=\"100%\" style=\"stop-color:rgb(255,192,203);stop-opacity:1\" /></linearGradient></defs><ellipse cx=\"200\" cy=\"200\" rx=\"150\" ry=\"180\" fill=\"url(#gradA)\" /><circle cx=\"150\" cy=\"150\" r=\"15\" fill=\"rgb(255,192,203)\" /><circle cx=\"250\" cy=\"150\" r=\"15\" fill=\"rgb(255,192,203)\" /><path d=\"M150 250 Q200 300 250 250\" stroke=\"black\" stroke-width=\"2\" fill=\"none\" /><path d=\"M200 250 Q200 300 200 350\" stroke=\"black\" stroke-width=\"2\" fill=\"none\" /><rect x=\"170\" y=\"320\" width=\"60\" height=\"40\" fill=\"rgb(238,130,238)\" /><polygon points=\"140,200 145,180 155,180 160,200\" fill=\"rgb(255,192,203)\" /><polygon points=\"240,200 245,180 255,180 260,200\" fill=\"rgb(255,192,203)\" /><line x1=\"160\" y1=\"180\" x2=\"240\" y2=\"180\" stroke=\"rgb(255,192,203)\" stroke-width=\"3\" /><circle cx=\"180\" cy=\"220\" r=\"5\" fill=\"black\" /><circle cx=\"220\" cy=\"220\" r=\"5\" fill=\"black\" /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとパープルのグラデーションを持つ大きな楕円形の体を持ち、ピンクの円形の頭部には2つの小さな目としっかりとした口があり、上に反った角がついています。四肢は短く、楕円形の尾を持っています。体表にはピンクと白の模様が広がっています。",
+        "reason": "この進化は、イヴがかわいらしい特徴と優雅な色合いを持つことで、環境適応の一環として美しさと魅力を強調するために起こりました。",
+        "thought": "『愛と美しさの融合』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gradB\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" style=\"stop-color:rgb(0,191,255);stop-opacity:1\" /><stop offset=\"100%\" style=\"stop-color:rgb(30,144,255);stop-opacity:1\" /></linearGradient></defs><rect x=\"150\" y=\"150\" width=\"100\" height=\"150\" fill=\"url(#gradB)\" /><circle cx=\"175\" cy=\"160\" r=\"15\" fill=\"rgb(0,191,255)\" /><circle cx=\"225\" cy=\"160\" r=\"15\" fill=\"rgb(0,191,255)\" /><path d=\"M175 300 Q200 350 225 300\" stroke=\"black\" stroke-width=\"2\" fill=\"none\" /><path d=\"M200 300 Q200 350 200 400\" stroke=\"black\" stroke-width=\"2\" fill=\"none\" /><polygon points=\"150,150 155,130 165,130 170,150\" fill=\"rgb(30,144,255)\" /><polygon points=\"250,150 255,130 265,130 270,150\" fill=\"rgb(30,144,255)\" /><line x1=\"170\" y1=\"130\" x2=\"230\" y2=\"130\" stroke=\"rgb(30,144,255)\" stroke-width=\"3\" /><circle cx=\"190\" cy=\"170\" r=\"5\" fill=\"black\" /><circle cx=\"210\" cy=\"170\" r=\"5\" fill=\"black\" /></svg>",
+      "report": {
+        "appearance": "アダムは、ブルーとライトブルーのグラデーションを持つ矩形の体を持ち、青い円形の頭部には2つの大きな目と口があり、角ばった耳と尾がついています。四肢は太く短く、青い斑点模様が体表に広がっています。",
+        "reason": "この進化は、アダムが力強い特徴と冷静な色調を持つことで、狩猟や防衛に適しているために起こりました。",
+        "thought": "『知性と力の調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1766039278809
   }
 ]
