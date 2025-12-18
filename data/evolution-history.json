@@ -20291,5 +20291,28 @@
       "gender": "男性"
     },
     "timestamp": 1766039278809
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,182,193);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradA)' /><circle cx='200' cy='150' r='50' fill='white' /><ellipse cx='170' cy='150' rx='15' ry='10' fill='black' /><ellipse cx='230' cy='150' rx='15' ry='10' fill='black' /><path d='M180 200 Q200 230 220 200' fill='none' stroke='black' stroke-width='2' /><path d='M200 210 Q180 240 200 270 Q220 240 200 210 Z' fill='rgb(255,182,193)' stroke='black' stroke-width='2' /><line x1='180' y1='250' x2='220' y2='250' stroke='black' stroke-width='2' /><circle cx='180' cy='50' r='10' fill='black' /><circle cx='220' cy='50' r='10' fill='black' /><polygon points='160,50 240,50 200,80' fill='rgb(255,182,193)' /><polygon points='190,280 210,280 200,320' fill='rgb(255,105,180)' /><rect x='180' y='280' width='40' height='20' fill='rgb(255,105,180)' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと赤のグラデーションの体色を持つ女性。頭部には角が生え、瞳は大きくて真っ黒。体には白い模様が施され、しっぽと手足には柔らかな輝きがある。",
+        "reason": "進化の過程で、イヴは美と優雅さを象徴する色合いと模様を身に纏うことで、より強い生存戦略を獲得した。",
+        "thought": "『愛と美の力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(135,206,235);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradB)' /><circle cx='200' cy='150' r='50' fill='white' /><ellipse cx='170' cy='150' rx='15' ry='10' fill='black' /><ellipse cx='230' cy='150' rx='15' ry='10' fill='black' /><path d='M180 200 Q200 230 220 200' fill='none' stroke='black' stroke-width='2' /><path d='M200 210 Q180 240 200 270 Q220 240 200 210 Z' fill='rgb(135,206,235)' stroke='black' stroke-width='2' /><line x1='180' y1='250' x2='220' y2='250' stroke='black' stroke-width='2' /><circle cx='180' cy='50' r='10' fill='black' /><circle cx='220' cy='50' r='10' fill='black' /><polygon points='160,50 240,50 200,80' fill='rgb(135,206,235)' /><polygon points='190,280 210,280 200,320' fill='rgb(65,105,225)' /><rect x='180' y='280' width='40' height='20' fill='rgb(65,105,225)' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色のグラデーションの体色を持つ男性。頭部には角が生え、瞳は大きくて真っ黒。体には青い模様が施され、しっぽと手足には輝く青が踊る。",
+        "reason": "進化の過程で、アダムは知恵と力強さを表す色調と模様を身に纏うことで、より優れた適応力を獲得した。",
+        "thought": "『知恵と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1766061398192
   }
 ]
