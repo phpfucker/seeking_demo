@@ -20314,5 +20314,28 @@
       "gender": "男性"
     },
     "timestamp": 1766061398192
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><circle cx='200' cy='200' r='150' fill='#ffe0bd' /><ellipse cx='150' cy='180' rx='30' ry='20' fill='#ffc09f' /><ellipse cx='250' cy='180' rx='30' ry='20' fill='#ffc09f' /><path d='M150,230 Q200,260 250,230' fill='none' stroke='#ff6f61' stroke-width='8' /><path d='M170,210 Q200,260 230,210' fill='none' stroke='#ff6f61' stroke-width='8' /><circle cx='170' cy='180' r='10' fill='#333333' /><circle cx='230' cy='180' r='10' fill='#333333' /><path d='M160,160 Q200,120 240,160 Q200,120 160,160' fill='#fff' stroke='#333333' stroke-width='2' /><path d='M140,260 Q200,290 260,260' fill='none' stroke='#ff6f61' stroke-width='8' /><polygon points='180,260 200,280 220,260' fill='none' stroke='#ff6f61' stroke-width='4' /><line x1='200' y1='280' x2='200' y2='320' stroke='#333333' stroke-width='8' /><rect x='180' y='320' width='40' height='20' fill='#ff6f61' /><circle cx='190' cy='330' r='5' fill='#333333' /><circle cx='210' cy='330' r='5' fill='#333333' /><polygon points='200,210 190,230 210,230' fill='#ff6f61' /></g></svg>",
+      "report": {
+        "appearance": "イヴは、クリーム色の柔らかな皮膚を持ち、頭には長い金髪がある。両腕と両足はしなやかで、赤い装飾が施されている。薄桃色のドレスを着ており、優雅で美しい容姿をしている。",
+        "reason": "イヴは新たな生態系での繁栄のため、より調和のとれた美しい外見を進化させた。",
+        "thought": "『生命の美しさが未来を彩る』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><circle cx='200' cy='200' r='150' fill='#b2e2e2' /><path d='M150,230 Q200,260 250,230' fill='none' stroke='#6ac5b8' stroke-width='8' /><path d='M170,210 Q200,260 230,210' fill='none' stroke='#6ac5b8' stroke-width='8' /><ellipse cx='170' cy='180' rx='30' ry='20' fill='#a2d2c1' /><ellipse cx='230' cy='180' rx='30' ry='20' fill='#a2d2c1' /><circle cx='170' cy='180' r='10' fill='#333333' /><circle cx='230' cy='180' r='10' fill='#333333' /><path d='M140,260 Q200,290 260,260' fill='none' stroke='#6ac5b8' stroke-width='8' /><polygon points='180,260 200,280 220,260' fill='none' stroke='#6ac5b8' stroke-width='4' /><line x1='200' y1='270' x2='200' y2='330' stroke='#333333' stroke-width='8' /><rect x='180' y='330' width='40' height='20' fill='#6ac5b8' /><circle cx='190' cy='340' r='5' fill='#333333' /><circle cx='210' cy='340' r='5' fill='#333333' /><polygon points='200,210 190,230 210,230' fill='#6ac5b8' /><path d='M160,160 Q200,130 240,160 Q200,130 160,160' fill='#fff' stroke='#333333' stroke-width='2' /></g></svg>",
+      "report": {
+        "appearance": "アダムは、青緑色の皮膚を持ち、頭には海藍色の髪がある。筋骨隆々とした腕と足には緑の模様が彫られている。背中には大きな水色の翼が生え、颯爽とした姿をしている。",
+        "reason": "アダムは過酷な環境での生存をサポートするため、飛行能力を備えた進化を遂げた。",
+        "thought": "『自由を手に入れた瞬間』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1766082395261
   }
 ]
