@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink'/><ellipse cx='200' cy='180' rx='90' ry='50' fill='white'/><ellipse cx='170' cy='160' rx='15' ry='10' fill='black'/><ellipse cx='230' cy='160' rx='15' ry='10' fill='black'/><path d='M150,230 Q200,280 250,230' fill='none' stroke='black'/><path d='M165,240 Q200,260 235,240' fill='none' stroke='black'/><path d='M140,205 Q200,150 260,205' fill='none' stroke='pink'/><path d='M135,200 Q200,100 265,200' fill='none' stroke='pink'/><polygon points='180,180 200,220 220,180' fill='pink'/></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gradA\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" style=\"stop-color:rgb(238,130,238);stop-opacity:1\" /><stop offset=\"100%\" style=\"stop-color:rgb(255,192,203);stop-opacity:1\" /></linearGradient></defs><ellipse cx=\"200\" cy=\"200\" rx=\"150\" ry=\"180\" fill=\"url(#gradA)\" /><circle cx=\"150\" cy=\"150\" r=\"15\" fill=\"rgb(255,192,203)\" /><circle cx=\"250\" cy=\"150\" r=\"15\" fill=\"rgb(255,192,203)\" /><path d=\"M150 250 Q200 300 250 250\" stroke=\"black\" stroke-width=\"2\" fill=\"none\" /><path d=\"M200 250 Q200 300 200 350\" stroke=\"black\" stroke-width=\"2\" fill=\"none\" /><rect x=\"170\" y=\"320\" width=\"60\" height=\"40\" fill=\"rgb(238,130,238)\" /><polygon points=\"140,200 145,180 155,180 160,200\" fill=\"rgb(255,192,203)\" /><polygon points=\"240,200 245,180 255,180 260,200\" fill=\"rgb(255,192,203)\" /><line x1=\"160\" y1=\"180\" x2=\"240\" y2=\"180\" stroke=\"rgb(255,192,203)\" stroke-width=\"3\" /><circle cx=\"180\" cy=\"220\" r=\"5\" fill=\"black\" /><circle cx=\"220\" cy=\"220\" r=\"5\" fill=\"black\" /></svg>",
     "report": {
-      "appearance": "イヴは美しいピンク色の体と白い柔らかな毛皮を持ち、大きな目と丸い顔立ちが特徴的です。しなやかな姿勢と優雅な仕草が魅力的です。",
-      "reason": "新たな食物源の獲得により、イヴの毛皮が色鮮やかに発展し、美しさが進化の要因となりました。",
-      "thought": "『自然の美しさを感じる』"
+      "appearance": "イヴは、ピンクとパープルのグラデーションを持つ大きな楕円形の体を持ち、ピンクの円形の頭部には2つの小さな目としっかりとした口があり、上に反った角がついています。四肢は短く、楕円形の尾を持っています。体表にはピンクと白の模様が広がっています。",
+      "reason": "この進化は、イヴがかわいらしい特徴と優雅な色合いを持つことで、環境適応の一環として美しさと魅力を強調するために起こりました。",
+      "thought": "『愛と美しさの融合』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='200' fill='lightblue'/><ellipse cx='200' cy='170' rx='80' ry='40' fill='white'/><ellipse cx='180' cy='160' rx='12' ry='8' fill='black'/><ellipse cx='220' cy='160' rx='12' ry='8' fill='black'/><path d='M160,300 Q200,350 240,300' fill='none' stroke='black'/><path d='M165,310 Q200,330 235,310' fill='none' stroke='black'/><path d='M150,260 Q200,200 250,260' fill='none' stroke='lightblue'/><path d='M145,250 Q200,150 255,250' fill='none' stroke='lightblue'/><polygon points='180,170 200,210 220,170' fill='lightblue'/></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gradB\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" style=\"stop-color:rgb(0,191,255);stop-opacity:1\" /><stop offset=\"100%\" style=\"stop-color:rgb(30,144,255);stop-opacity:1\" /></linearGradient></defs><rect x=\"150\" y=\"150\" width=\"100\" height=\"150\" fill=\"url(#gradB)\" /><circle cx=\"175\" cy=\"160\" r=\"15\" fill=\"rgb(0,191,255)\" /><circle cx=\"225\" cy=\"160\" r=\"15\" fill=\"rgb(0,191,255)\" /><path d=\"M175 300 Q200 350 225 300\" stroke=\"black\" stroke-width=\"2\" fill=\"none\" /><path d=\"M200 300 Q200 350 200 400\" stroke=\"black\" stroke-width=\"2\" fill=\"none\" /><polygon points=\"150,150 155,130 165,130 170,150\" fill=\"rgb(30,144,255)\" /><polygon points=\"250,150 255,130 265,130 270,150\" fill=\"rgb(30,144,255)\" /><line x1=\"170\" y1=\"130\" x2=\"230\" y2=\"130\" stroke=\"rgb(30,144,255)\" stroke-width=\"3\" /><circle cx=\"190\" cy=\"170\" r=\"5\" fill=\"black\" /><circle cx=\"210\" cy=\"170\" r=\"5\" fill=\"black\" /></svg>",
     "report": {
-      "appearance": "アダムは爽やかなライトブルーの体と白い柔らかな毛皮を持ち、力強い体つきと大きな脚が特徴です。颯爽とした動きと凛々しい表情が印象的です。",
-      "reason": "狩猟の進化により、アダムの筋肉質な体と俊敏な脚が発展し、肉体的な強さが進化の要因となりました。",
-      "thought": "『力強さを感じる』"
+      "appearance": "アダムは、ブルーとライトブルーのグラデーションを持つ矩形の体を持ち、青い円形の頭部には2つの大きな目と口があり、角ばった耳と尾がついています。四肢は太く短く、青い斑点模様が体表に広がっています。",
+      "reason": "この進化は、アダムが力強い特徴と冷静な色調を持つことで、狩猟や防衛に適しているために起こりました。",
+      "thought": "『知性と力の調和』"
     },
     "name": "アダム",
     "gender": "男性"
