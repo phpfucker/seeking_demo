@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffd1dc' /><circle cx='200' cy='200' r='80' fill='#ff85a2' /><ellipse cx='160' cy='160' rx='20' ry='40' fill='#ff85a2' /><ellipse cx='240' cy='160' rx='20' ry='40' fill='#ff85a2' /><rect x='160' y='240' width='80' height='20' fill='#ffd1dc' /><circle cx='160' cy='160' r='10' fill='#ffffff' /><circle cx='240' cy='160' r='10' fill='#ffffff' /><path d='M180 240 Q200 260 220 240' fill='none' stroke='#000000' stroke-width='2' /><path d='M190 140 Q200 120 210 140' fill='none' stroke='#000000' stroke-width='2' /><path d='M170 140 Q200 160 230 140' fill='none' stroke='#000000' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "イヴは、美しい羽毛を持ち、優雅な角を頭にそびえ立て、輝く宝石のような瞳を持つ女性型生命体です。背中には蝶の翼が生えており、優美なしっぽが後ろに伸びています。体には優しい色のグラデーションが施され、全体的に優雅で美しい姿をしています。",
-      "reason": "イヴは優美な進化を遂げました。その美しさは、自然界の調和と美しさを象徴しており、新たなる生命の誕生と繁栄を示しています。",
-      "thought": "『調和と美しさ』"
+      "appearance": "イヴは、ピンクと白の柔らかな色合いを持つ女性の姿をしています。体は丸く、顔には大きな目と柔らかい表情が特徴です。手足は短く、胴体にはふんわりとした模様があります。",
+      "reason": "進化が起こった理由は、環境の変化により柔らかな色と優しい特徴を持つ生物が優位に立てると考えられたためです。",
+      "thought": "『優しさが強さを生む』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#98eff9' /><circle cx='200' cy='200' r='80' fill='#2dd5e3' /><ellipse cx='160' cy='160' rx='20' ry='40' fill='#2dd5e3' /><ellipse cx='240' cy='160' rx='20' ry='40' fill='#2dd5e3' /><rect x='160' y='240' width='80' height='20' fill='#98eff9' /><polygon points='180,240 200,260 220,240' fill='#ffffff' /><polygon points='190,140 200,120 210,140' fill='#ffffff' /><polygon points='170,140 200,160 230,140' fill='#ffffff' /><line x1='180' y1='240' x2='220' y2='240' stroke='#000000' stroke-width='2' /><line x1='190' y1='140' x2='210' y2='140' stroke='#000000' stroke-width='2' /><line x1='170' y1='140' x2='230' y2='140' stroke='#000000' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "アダムは、力強い筋肉と堅固な角を持ち、草原を駆ける鹿のような足を持つ男性型生命体です。全身には草木の緑を基調とした模様が施されており、凛々しい表情を浮かべています。",
-      "reason": "アダムは力強い進化を遂げました。その強さは、自然界の生命力と躍動感を象徴しており、新たなる挑戦と冒険を示しています。",
-      "thought": "『生命力と躍動感』"
+      "appearance": "アダムは、青と水色の爽やかな色調を持つ男性の姿をしています。体は四角く、顔立ちはシャープで目つきが鋭い特徴があります。手足は長く、胴体にはシンプルな模様が見られます。",
+      "reason": "進化が起こった理由は、強靭な特徴を持つ生物が環境において生存競争で優位に立てると考えられたためです。",
+      "thought": "『力強さが生存を支える』"
     },
     "name": "アダム",
     "gender": "男性"
