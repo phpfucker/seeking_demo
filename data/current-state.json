@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff99cc'/><ellipse cx='200' cy='120' rx='60' ry='30' fill='#ffb3d9'/><rect x='160' y='160' width='80' height='100' fill='#ff80b3'/><polygon points='180,250 220,250 200,280' fill='#ff66a3'/><rect x='175' y='210' width='10' height='30' fill='#e60073'/><rect x='215' y='210' width='10' height='30' fill='#e60073'/><line x1='185' y1='140' x2='170' y2='100' stroke='#cc3399' stroke-width='4'/><line x1='215' y1='140' x2='230' y2='100' stroke='#cc3399' stroke-width='4'/><polygon points='200,160 190,170 210,170' fill='#ff99cc'/><path d='M180,150 Q200,100 220,150' fill='none' stroke='#cc3399' stroke-width='3'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
     "report": {
-      "appearance": "イヴは、ピンクの体色を持ち、細長い目と丸い鼻を持つ女性。背中に小さな蝶々の模様がある。手足は短く丸みを帯びている。",
-      "reason": "進化の結果、イヴは花の女神としての美しさと優雅さを身にまとっている。",
-      "thought": "『自然の美しさを守りたい』"
+      "appearance": "イヴは、美しい羽毛を持ち、優雅な角を頭にそびえ立て、輝く宝石のような瞳を持つ女性型生命体です。背中には蝶の翼が生えており、優美なしっぽが後ろに伸びています。体には優しい色のグラデーションが施され、全体的に優雅で美しい姿をしています。",
+      "reason": "イヴは優美な進化を遂げました。その美しさは、自然界の調和と美しさを象徴しており、新たなる生命の誕生と繁栄を示しています。",
+      "thought": "『調和と美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#66ccff'/><ellipse cx='200' cy='120' rx='60' ry='30' fill='#99d6ff'/><rect x='160' y='160' width='80' height='100' fill='#33b5e5'/><polygon points='180,250 220,250 200,280' fill='#0099cc'/><rect x='175' y='210' width='10' height='30' fill='#005b7f'/><rect x='215' y='210' width='10' height='30' fill='#005b7f'/><line x1='185' y1='140' x2='170' y2='100' stroke='#007399' stroke-width='4'/><line x1='215' y1='140' x2='230' y2='100' stroke='#007399' stroke-width='4'/><polygon points='200,160 190,170 210,170' fill='#66ccff'/><path d='M180,150 Q200,100 220,150' fill='none' stroke='#007399' stroke-width='3'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
     "report": {
-      "appearance": "アダムは、青い体色を持ち、大きな目と鋭い鼻を持つ男性。背中に青い羽の模様がある。手足は力強く筋肉質である。",
-      "reason": "進化により、アダムは自然界の守護者としての力強さと知恵を備えている。",
-      "thought": "『誇り高き守護者』"
+      "appearance": "アダムは、力強い筋肉と堅固な角を持ち、草原を駆ける鹿のような足を持つ男性型生命体です。全身には草木の緑を基調とした模様が施されており、凛々しい表情を浮かべています。",
+      "reason": "アダムは力強い進化を遂げました。その強さは、自然界の生命力と躍動感を象徴しており、新たなる挑戦と冒険を示しています。",
+      "thought": "『生命力と躍動感』"
     },
     "name": "アダム",
     "gender": "男性"
