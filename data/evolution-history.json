@@ -20475,5 +20475,28 @@
       "gender": "男性"
     },
     "timestamp": 1766211939815
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFD700'/><ellipse cx='200' cy='200' rx='100' ry='140' fill='#FFD700'/><rect x='160' y='220' width='80' height='50' fill='#996633'/><rect x='180' y='270' width='40' height='30' fill='#996633'/><circle cx='165' cy='180' r='10' fill='#000'/><circle cx='235' cy='180' r='10' fill='#000'/><path d='M180 210 Q200 240 220 210 Z' fill='#FFD700'/><path d='M150 175 Q200 120 250 175 Q200 220 150 175 Z' fill='#FFD700'/><line x1='170' y1='240' x2='130' y2='280' stroke='#000' stroke-width='3'/><line x1='230' y1='240' x2='270' y2='280' stroke='#000' stroke-width='3'/><text x='180' y='350' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは金色の柔らかい皮膚を持ち、大きな黄金色の瞳が特徴です。体は一見しなやかですが、内部に強靭な筋肉を秘めています。頭部には小さな角が一対生えており、手足はしなやかな動きをするために適した形状です。",
+        "reason": "イヴは生存環境の変化に適応するため、美しい金色の皮膚と大きな瞳を持つように進化しました。",
+        "thought": "『命の輝きを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#4682B4'/><rect x='160' y='200' width='80' height='120' fill='#4682B4'/><rect x='180' y='320' width='40' height='30' fill='#996633'/><circle cx='165' cy='190' r='10' fill='#000'/><circle cx='235' cy='190' r='10' fill='#000'/><path d='M150 175 Q200 120 250 175 Q200 220 150 175 Z' fill='#4682B4'/><line x1='170' y1='200' x2='130' y2='240' stroke='#000' stroke-width='3'/><line x1='230' y1='200' x2='270' y2='240' stroke='#000' stroke-width='3'/><text x='200' y='350' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青い鱗状の皮膚を持ち、頭頂部には独特の帽子のような突起があります。四肢は太く筋肉質で、水中での推進力を強化するために適した形状です。背中には青い透明なヒレがあり、泳ぎを助けます。",
+        "reason": "アダムは水中での生活に適応するため、青い鱗状の皮膚と水中推進力を強化するための筋肉質な四肢を持つように進化しました。",
+        "thought": "『静かな深海の底で輝く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1766233932134
   }
 ]
