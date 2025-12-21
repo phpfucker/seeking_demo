@@ -20567,5 +20567,28 @@
       "gender": "男性"
     },
     "timestamp": 1766298339077
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#ffcccb'/><ellipse cx='200' cy='175' rx='100' ry='75' fill='#ff9999'/><path d='M150 300 Q200 350 250 300 Q200 320 150 300' fill='#ff6666'/><line x1='150' y1='300' x2='250' y2='300' stroke='#cc3333' stroke-width='3'/><circle cx='160' cy='165' r='5' fill='#331a00'/><circle cx='240' cy='165' r='5' fill='#331a00'/><circle cx='200' cy='215' r='8' fill='white'/><ellipse cx='190' cy='165' rx='15' ry='8' fill='white'/><ellipse cx='210' cy='165' rx='15' ry='8' fill='white'/><path d='M180 180 Q200 200 220 180 Q200 190 180 180' fill='#331a00'/><path d='M240 240 Q230 220 220 240 Q230 230 240 240' fill='#331a00'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌を持ち、赤い髪と大きな赤い目を持つ女性です。体は楕円形で、赤いドレスを着用しています。手足は細長く、手には白い手袋を付けています。",
+        "reason": "女性らしさと優しさをより表現するために、イヴはより柔らかく美しい特徴へと進化しました。",
+        "thought": "『愛と美しさの力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#add8e6'/><ellipse cx='200' cy='175' rx='100' ry='75' fill='#66b2ff'/><path d='M150 300 Q200 350 250 300 Q200 320 150 300' fill='#3399ff'/><line x1='150' y1='300' x2='250' y2='300' stroke='#005fa8' stroke-width='3'/><circle cx='160' cy='165' r='5' fill='#331a00'/><circle cx='240' cy='165' r='5' fill='#331a00'/><circle cx='200' cy='215' r='8' fill='white'/><ellipse cx='190' cy='165' rx='15' ry='8' fill='white'/><ellipse cx='210' cy='165' rx='15' ry='8' fill='white'/><path d='M180 180 Q200 200 220 180 Q200 190 180 180' fill='#331a00'/><path d='M240 240 Q230 220 220 240 Q230 230 240 240' fill='#331a00'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い肌を持ち、青い髪と大きな青い目を持つ男性です。体は楕円形で、青いタイトなスーツを着用しています。手足はしなやかで、足には青い靴を履いています。",
+        "reason": "男性らしさと強さをより表現するために、アダムはよりスマートで力強い特徴へと進化しました。",
+        "thought": "『知識と力の調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1766320380153
   }
 ]
