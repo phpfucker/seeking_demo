@@ -20521,5 +20521,28 @@
       "gender": "男性"
     },
     "timestamp": 1766254915078
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb' /><circle cx='200' cy='150' r='50' fill='#ffd700' /><circle cx='200' cy='250' r='50' fill='#ffd700' /><path d='M150,200 Q200,250 250,200 Q200,150 150,200' fill='none' stroke='#000' stroke-width='2' /><path d='M150,210 Q200,260 250,210' fill='none' stroke='#000' stroke-width='2' /><path d='M150,190 Q200,140 250,190' fill='none' stroke='#000' stroke-width='2' /><circle cx='180' cy='170' r='15' fill='#000' /><circle cx='220' cy='170' r='15' fill='#000' /><circle cx='200' cy='220' r='10' fill='#000' /><polygon points='190,250 210,250 200,270' fill='#000' /></svg>",
+      "report": {
+        "appearance": "イヴは全身が桃色で覆われ、頭部には黒い瞳を持つ円形の目があります。手足は細く、髪のような模様が描かれています。",
+        "reason": "新たな生命の誕生により、より柔らかく優しい特性を持つ進化が生じました。",
+        "thought": "『愛と温かさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#87ceeb' /><circle cx='200' cy='150' r='50' fill='#ff8c00' /><circle cx='200' cy='250' r='50' fill='#ff8c00' /><path d='M150,200 Q200,250 250,200 Q200,150 150,200' fill='none' stroke='#000' stroke-width='2' /><path d='M150,210 Q200,260 250,210' fill='none' stroke='#000' stroke-width='2' /><path d='M150,190 Q200,140 250,190' fill='none' stroke='#000' stroke-width='2' /><circle cx='180' cy='170' r='15' fill='#000' /><circle cx='220' cy='170' r='15' fill='#000' /><circle cx='200' cy='220' r='10' fill='#000' /><polygon points='190,250 210,250 200,270' fill='#000' /></svg>",
+      "report": {
+        "appearance": "アダムは全身が水色で覆われ、頭部には黒い瞳を持つ円形の目があります。手足は細く、鮮やかな色彩が特徴です。",
+        "reason": "新たな生命の誕生により、より精力的で勇敢な特性を持つ進化が生じました。",
+        "thought": "『誇りと勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1766280359643
   }
 ]
