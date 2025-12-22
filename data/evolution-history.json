@@ -20613,5 +20613,28 @@
       "gender": "男性"
     },
     "timestamp": 1766341396494
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(239, 161, 212);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(134, 185, 222);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='200' cy='180' rx='100' ry='120' fill='url(#gradA)' /><path d='M150,250 L200,320 L250,250 Z' fill='rgb(243, 207, 164)' /><rect x='170' y='280' width='60' height='20' fill='rgb(243, 207, 164)' /><circle cx='170' cy='150' r='10' fill='black' /><circle cx='230' cy='150' r='10' fill='black' /><path d='M180,220 Q200,240 220,220' stroke='black' fill='none' /><path d='M160,190 Q200,170 240,190' stroke='black' fill='none' /><path d='M190,170 Q200,190 210,170' stroke='black' fill='none' /><path d='M140,240 Q200,280 260,240' stroke='black' fill='none' /><line x1='130' y1='190' x2='150' y2='180' stroke='black' /><line x1='270' y1='190' x2='290' y2='180' stroke='black' /><line x1='130' y1='220' x2='150' y2='230' stroke='black' /><line x1='270' y1='220' x2='290' y2='230' stroke='black' /><line x1='140' y1='250' x2='160' y2='260' stroke='black' /><line x1='260' y1='250' x2='280' y2='260' stroke='black' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと青のグラデーションで彩られた滑らかな体と、柔らかな表情を持つ女性型生命体です。頭部には円形の耳と大きな眼があり、腰には黄色い装飾が施されています。四肢はしなやかで優雅なラインを描き、全体的に温かみと優しさを感じさせます。",
+        "reason": "イヴは新たな進化を遂げ、生命の美しさと調和を表現するために、より柔らかで色鮮やかな外見を手に入れました。",
+        "thought": "『調和と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(129, 207, 224);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(241, 181, 219);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradB)' /><ellipse cx='200' cy='180' rx='100' ry='120' fill='url(#gradB)' /><polygon points='180,200 190,220 210,220 220,200' fill='rgb(255, 196, 160)' /><rect x='185' y='220' width='30' height='40' fill='rgb(255, 196, 160)' /><line x1='170' y1='180' x2='160' y2='160' stroke='black' /><line x1='230' y1='180' x2='240' y2='160' stroke='black' /><line x1='170' y1='220' x2='160' y2='240' stroke='black' /><line x1='230' y1='220' x2='240' y2='240' stroke='black' /><line x1='200' y1='280' x2='200' y2='320' stroke='black' /><circle cx='190' cy='150' r='10' fill='black' /><circle cx='210' cy='150' r='10' fill='black' /><path d='M180,240 Q200,220 220,240' stroke='black' fill='none' /><path d='M160,200 Q200,170 240,200' stroke='black' fill='none' /><path d='M190,170 Q200,190 210,170' stroke='black' fill='none' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と紫のグラデーションで彩られた力強い体と、凛々しい表情を持つ男性型生命体です。頭部には三角形の角があり、背中には黄色い模様が施されています。四肢はしっかりとした筋肉で引き締まり、全体的に力強さと活力を感じさせます。",
+        "reason": "アダムは進化を遂げ、より強靭で力強い姿と表情を手に入れ、生命の力強さと繁栄を象徴するために進化しました。",
+        "thought": "『力強さと繁栄』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1766366661558
   }
 ]
