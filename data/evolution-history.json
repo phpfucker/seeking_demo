@@ -20659,5 +20659,28 @@
       "gender": "男性"
     },
     "timestamp": 1766384976002
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#F4D03F' /><circle cx='200' cy='150' r='50' fill='#E74C3C' /><ellipse cx='150' cy='250' rx='30' ry='20' fill='#E59866' /><path d='M180 260 L200 280 L220 260 Z' fill='#EC7063' /><polygon points='190,200 200,180 210,200' fill='#F4D03F' /><line x1='180' y1='230' x2='220' y2='230' stroke='#AF7AC5' stroke-width='2' /><circle cx='180' cy='150' r='10' fill='#EC7063' /><circle cx='220' cy='150' r='10' fill='#EC7063' /><path d='M140 220 Q200 270 260 220' fill='none' stroke='#A569BD' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "イヴは、黄色い体に赤い顔、オレンジの髪、赤い口元を持つ女性型生命体です。体の下部には赤い模様が施され、紫色の角が二つ生えています。",
+        "reason": "進化により、イヴはより美しい色彩と複雑な模様が加わりました。これにより、繁殖の成功率が向上しました。",
+        "thought": "『色と模様が私たちの繁栄をもたらす』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#3498DB' /><circle cx='200' cy='150' r='50' fill='#2E86C1' /><ellipse cx='150' cy='250' rx='30' ry='20' fill='#5DADE2' /><path d='M180 260 L200 280 L220 260 Z' fill='#5499C7' /><polygon points='190,200 200,180 210,200' fill='#3498DB' /><line x1='180' y1='230' x2='220' y2='230' stroke='#1F618D' stroke-width='2' /><circle cx='180' cy='150' r='10' fill='#5499C7' /><circle cx='220' cy='150' r='10' fill='#5499C7' /><path d='M140 220 Q200 270 260 220' fill='none' stroke='#2980B9' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い体に青い顔、青い髪、青い口元を持つ男性型生命体です。体の下部には青い模様が施され、紫色の角が二つ生えています。",
+        "reason": "進化により、アダムはより鮮やかな色彩と多様なパターンが加わりました。これにより、狩猟や防御の能力が向上しました。",
+        "thought": "『色彩と模様が私たちの生存戦略を強化している』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1766406988779
   }
 ]
