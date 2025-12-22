@@ -1,19 +1,19 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccbb' /><ellipse cx='200' cy='180' rx='100' ry='140' fill='#ffddcc' /><rect x='150' y='220' width='100' height='50' fill='#ff99aa' /><path d='M200 220 L180 280 L220 280 Z' fill='#ff99aa' /><polygon points='180,180 200,150 220,180' fill='#ffbbcc' /><line x1='180' y1='220' x2='220' y2='220' stroke='#ff99aa' stroke-width='5' /><line x1='170' y1='210' x2='190' y2='210' stroke='#ff99aa' stroke-width='5' /><line x1='210' y1='210' x2='230' y2='210' stroke='#ff99aa' stroke-width='5' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,165,0);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,255,0);stop-opacity:1' /></linearGradient></defs><rect x='100' y='150' width='200' height='200' fill='url(#gradA)' /><circle cx='200' cy='100' r='50' fill='url(#gradA)' /><path d='M180 140 Q200 120 220 140' fill='none' stroke='black' stroke-width='2' /><circle cx='170' cy='110' r='5' fill='black' /><circle cx='230' cy='110' r='5' fill='black' /><path d='M150 160 Q200 200 250 160' fill='none' stroke='black' stroke-width='2' /><path d='M150 200 Q200 240 250 200' fill='none' stroke='black' stroke-width='2' /><polygon points='170,220 200,240 230,220' fill='white' stroke='black' stroke-width='2' /><circle cx='180' cy='260' r='10' fill='black' /><circle cx='220' cy='260' r='10' fill='black' /><circle cx='190' cy='280' r='5' fill='black' /><circle cx='210' cy='280' r='5' fill='black' /><circle cx='200' cy='230' r='10' fill='white' /><circle cx='200' cy='230' r='5' fill='black' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、優雅な女性の特徴を備えた進化を遂げました。体は楕円形で、薄いピンク色のエプロンを着用し、手には小さなリボンが飾られています。",
-      "reason": "イヴはより女性らしさを強調し、優美さを持たせるために進化しました。",
-      "thought": "『愛と美しさ』"
+      "appearance": "イヴは、橙色と黄色のグラデーションを持つ美しい女性で、体は四角形で大きな丸い頭部を持ち、顔には黒い曲線で描かれた目と口があります。胸には黒い線で装飾された模様があり、4本のしっかりとした腕と脚があります。",
+      "reason": "新たな進化の過程で、イヴはより多様な色彩と模様を持つ姿に進化しました。これにより、環境への適応性が高まり、美しさと強さが融合した姿となりました。",
+      "thought": "『生命の輝き』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#aacbff' /><ellipse cx='200' cy='180' rx='100' ry='140' fill='#bbddff' /><rect x='150' y='220' width='100' height='50' fill='#77aaff' /><path d='M200 220 L180 280 L220 280 Z' fill='#77aaff' /><polygon points='180,180 200,150 220,180' fill='#99bbff' /><line x1='180' y1='220' x2='220' y2='220' stroke='#77aaff' stroke-width='5' /><line x1='170' y1='210' x2='190' y2='210' stroke='#77aaff' stroke-width='5' /><line x1='210' y1='210' x2='230' y2='210' stroke='#77aaff' stroke-width='5' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(0,191,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(30,144,255);stop-opacity:1' /></linearGradient></defs><rect x='100' y='150' width='200' height='200' fill='url(#gradB)' /><polygon points='150,200 200,120 250,200' fill='white' stroke='black' stroke-width='2' /><circle cx='200' cy='240' r='40' fill='url(#gradB)' /><path d='M180 260 Q200 280 220 260' fill='none' stroke='black' stroke-width='2' /><circle cx='180' cy='230' r='10' fill='black' /><circle cx='220' cy='230' r='10' fill='black' /><circle cx='170' cy='260' r='5' fill='black' /><circle cx='230' cy='260' r='5' fill='black' /><path d='M180 300 Q200 320 220 300' fill='none' stroke='black' stroke-width='2' /><circle cx='180' cy='330' r='10' fill='black' /><circle cx='220' cy='330' r='10' fill='black' /><circle cx='200' cy='280' r='10' fill='white' /><circle cx='200' cy='280' r='5' fill='black' /></svg>",
     "report": {
-      "appearance": "アダムは、青色の肌を持ち、男性らしい特徴を強調した進化を遂げました。体型は力強く、青いマントを纏い、手には堅固な装甲が施されています。",
-      "reason": "アダムはより男性らしさを表現し、力強さを強調するために進化しました。",
+      "appearance": "アダムは、青色と濃い青色のグラデーションを持つ強壮な男性で、頭部は三角形で白い面と黒い模様で構成されています。大きな丸い胴体には白い三角形の模様があり、4本の丈夫な腕と脚が備わっています。",
+      "reason": "アダムは進化の過程で、より力強さを表現するために青色のグラデーションと強調された筋肉模様を持つ姿に進化しました。この特徴により、生存競争において優位性を獲得しました。",
       "thought": "『力と誇り』"
     },
     "name": "アダム",
