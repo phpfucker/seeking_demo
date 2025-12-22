@@ -20636,5 +20636,28 @@
       "gender": "男性"
     },
     "timestamp": 1766366661558
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='150' cy='150' rx='30' ry='40' fill='rgb(255,192,203)' /><ellipse cx='250' cy='150' rx='30' ry='40' fill='rgb(255,192,203)' /><ellipse cx='200' cy='250' rx='100' ry='60' fill='rgb(255,192,203)' /><ellipse cx='200' cy='250' rx='80' ry='50' fill='rgb(255,220,221)' /><polygon points='180,230 220,230 200,250' fill='rgb(255,192,203)' /><ellipse cx='160' cy='160' rx='10' ry='20' fill='rgb(0,0,0)' /><ellipse cx='240' cy='160' rx='10' ry='20' fill='rgb(0,0,0)' /><path d='M180,260 Q200,275 220,260' stroke='rgb(0,0,0)' stroke-width='3' fill='none' /><path d='M210,170 A30,50 0 0,1 190,170' stroke='rgb(0,0,0)' stroke-width='2' fill='none' /><rect x='185' y='280' width='30' height='20' fill='rgb(255,105,180)' /><ellipse cx='160' cy='260' rx='10' ry='15' fill='rgb(255,192,203)' /><ellipse cx='240' cy='260' rx='10' ry='15' fill='rgb(255,192,203)' /><line x1='170' y1='290' x2='160' y2='310' stroke='rgb(0,0,0)' stroke-width='2' /><line x1='230' y1='290' x2='240' y2='310' stroke='rgb(0,0,0)' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと白のグラデーションが美しい女性型生命体です。体は柔らかなピンク色で覆われ、背中には白い模様があります。大きくて丸い目と柔らかい表情が特徴です。四肢は丸みを帯び、しっぽが優雅に伸びています。",
+        "reason": "環境の安定と豊かさから、イヴはより美しく華やかな姿に進化しました。",
+        "thought": "『愛と美しさが世界を導く』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(173,216,230);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><rect x='100' y='150' width='200' height='200' fill='url(#gradB)' /><circle cx='200' cy='150' r='80' fill='rgb(173,216,230)' /><circle cx='200' cy='150' r='70' fill='rgb(135,206,235)' /><ellipse cx='180' cy='140' rx='20' ry='15' fill='rgb(0,0,0)' /><ellipse cx='220' cy='140' rx='20' ry='15' fill='rgb(0,0,0)' /><line x1='180' y1='165' x2='220' y2='165' stroke='rgb(0,0,0)' stroke-width='3' /><ellipse cx='180' cy='240' rx='25' ry='15' fill='rgb(173,216,230)' /><ellipse cx='220' cy='240' rx='25' ry='15' fill='rgb(173,216,230)' /><line x1='180' y1='255' x2='170' y2='280' stroke='rgb(0,0,0)' stroke-width='2' /><line x1='220' y1='255' x2='230' y2='280' stroke='rgb(0,0,0)' stroke-width='2' /><polygon points='180,250 220,250 200,280' fill='rgb(173,216,230)' /><rect x='165' y='300' width='70' height='40' fill='rgb(65,105,225)' /><line x1='170' y1='300' x2='170' y2='340' stroke='rgb(0,0,0)' stroke-width='3' /><line x1='230' y1='300' x2='230' y2='340' stroke='rgb(0,0,0)' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色のグラデーションを持つ男性型生命体です。体は頑丈な青色で覆われ、胸元には水色の模様があります。大きな円形の目と穏やかな表情が特徴で、四肢はがっしりとした作りとなっています。",
+        "reason": "アダムは狩猟と知恵の進化により、より力強く頼れる外見へと進化しました。",
+        "thought": "『誇り高く、未来への希望を胸に』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1766384976002
   }
 ]
