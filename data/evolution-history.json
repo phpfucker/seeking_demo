@@ -20728,5 +20728,28 @@
       "gender": "男性"
     },
     "timestamp": 1766452855613
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink'/><ellipse cx='200' cy='150' rx='100' ry='120' fill='lightpink'/><rect x='150' y='250' width='100' height='40' fill='pink'/><path d='M200 200 L230 160 L270 210 Z' fill='white'/><path d='M200 200 L170 160 L130 210 Z' fill='white'/><polygon points='180,180 200,160 220,180' fill='black'/><line x1='190' y1='230' x2='210' y2='230' stroke='black' stroke-width='2'/><line x1='180' y1='240' x2='220' y2='240' stroke='black' stroke-width='2'/><line x1='170' y1='250' x2='230' y2='250' stroke='black' stroke-width='2'/><line x1='160' y1='260' x2='240' y2='260' stroke='black' stroke-width='2'/><line x1='150' y1='270' x2='250' y2='270' stroke='black' stroke-width='2'/><line x1='140' y1='280' x2='260' y2='280' stroke='black' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは全身がピンク色の姿で、円形の頭部と楕円形の胴体、四角形の下半身を持ち、白い模様が入った顔と、アーチ状に広がる白い翼が特徴です。",
+        "reason": "生態系の変化により、イヴは花や植物に適応するために、より華やかで可憐な姿に進化しました。",
+        "thought": "『自然と共に、美しさを届ける』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='140' fill='lightblue'/><ellipse cx='200' cy='160' rx='90' ry='110' fill='skyblue'/><rect x='170' y='250' width='60' height='30' fill='lightblue'/><path d='M200 200 L230 160 L270 210 Z' fill='white'/><path d='M200 200 L170 160 L130 210 Z' fill='white'/><polygon points='180,180 200,160 220,180' fill='black'/><line x1='190' y1='230' x2='210' y2='230' stroke='black' stroke-width='2'/><line x1='180' y1='240' x2='220' y2='240' stroke='black' stroke-width='2'/><line x1='170' y1='250' x2='230' y2='250' stroke='black' stroke-width='2'/><line x1='160' y1='260' x2='240' y2='260' stroke='black' stroke-width='2'/><line x1='150' y1='270' x2='250' y2='270' stroke='black' stroke-width='2'/><line x1='140' y1='280' x2='260' y2='280' stroke='black' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは全身が青色の姿で、円形の頭部と楕円形の胴体、四角形の下半身を持ち、白い模様が入った顔と、広がる白い羽根が特徴です。",
+        "reason": "アダムは海洋環境での生存を重視し、水中での泳ぎやすさと美しい姿を兼ね備えるために、このような進化を遂げました。",
+        "thought": "『青い海を自在に泳ぎ、美しさを紡ぐ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1766471318243
   }
 ]
