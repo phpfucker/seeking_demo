@@ -20751,5 +20751,28 @@
       "gender": "男性"
     },
     "timestamp": 1766471318243
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='150' rx='70' ry='90' fill='#ffc0cb'/><ellipse cx='150' cy='150' rx='15' ry='30' fill='#fff'/><ellipse cx='250' cy='150' rx='15' ry='30' fill='#fff'/><path d='M170 210 Q200 250 230 210' fill='none' stroke='#000' stroke-width='2'/><path d='M150 250 Q200 300 250 250' fill='none' stroke='#000' stroke-width='2'/><path d='M150 180 Q200 160 250 180' fill='none' stroke='#000' stroke-width='2'/><polygon points='180,230 200,240 220,230' fill='#000'/><polygon points='180,170 200,160 220,170' fill='#000'/><line x1='180' y1='300' x2='220' y2='300' stroke='#000' stroke-width='2'/><line x1='180' y1='320' x2='220' y2='320' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、顔には白い目と唇が描かれています。体は大きな楕円形で、手足は長くしなやかです。背中には二組の羽があり、柔らかな光沢を放っています。",
+        "reason": "生命体イヴは、新たな進化段階に至り、繊細な美しさと力強さを併せ持つ姿に変化しました。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#87ceeb'/><ellipse cx='200' cy='150' rx='70' ry='90' fill='#add8e6'/><ellipse cx='150' cy='150' rx='20' ry='30' fill='#fff'/><ellipse cx='250' cy='150' rx='20' ry='30' fill='#fff'/><path d='M155 210 Q200 250 245 210' fill='none' stroke='#000' stroke-width='2'/><path d='M150 250 Q200 300 250 250' fill='none' stroke='#000' stroke-width='2'/><path d='M150 180 Q200 160 250 180' fill='none' stroke='#000' stroke-width='2'/><polygon points='180,230 200,240 220,230' fill='#000'/><polygon points='180,170 200,160 220,170' fill='#000'/><ellipse cx='200' cy='280' rx='20' ry='10' fill='#87ceeb'/><ellipse cx='200' cy='320' rx='20' ry='10' fill='#87ceeb'/><line x1='180' y1='300' x2='220' y2='300' stroke='#000' stroke-width='2'/><line x1='180' y1='320' x2='220' y2='320' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌を持ち、体は頑丈な四角形で表現されています。顔には白い目があり、体には様々な模様が描かれています。角状の突起物が頭部に生えています。",
+        "reason": "アダムは、自然界の厳しさに適応し、進化を遂げ、頑強な姿と知恵を備えた新たな形態へと変化しました。",
+        "thought": "『知恵と勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1766493423966
   }
 ]
