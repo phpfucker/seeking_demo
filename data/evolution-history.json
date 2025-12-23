@@ -20774,5 +20774,28 @@
       "gender": "男性"
     },
     "timestamp": 1766493423966
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradientA1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,217,226);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,134,173);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradientA1)' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='url(#gradientA1)' /><path d='M150,250 Q200,300 250,250' fill='none' stroke='black' stroke-width='3' /><polygon points='180,200 200,180 220,200' fill='rgb(255,134,173)' /><line x1='180' y1='320' x2='220' y2='320' stroke='black' stroke-width='4' /><circle cx='180' cy='80' r='10' fill='black' /><circle cx='220' cy='80' r='10' fill='black' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと白のグラデーションが美しい女性の姿をしています。優雅な曲線を持つ体に、柔らかな表情が特徴です。背中には翼のような模様があり、優しさと力強さを兼ね備えています。",
+        "reason": "自然界の美しさと優しさを象徴するため、新たな進化が生じました。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradientB1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(169,230,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(113,181,235);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradientB1)' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='url(#gradientB1)' /><path d='M150,250 Q200,300 250,250' fill='none' stroke='black' stroke-width='3' /><polygon points='180,200 200,180 220,200' fill='rgb(113,181,235)' /><line x1='180' y1='320' x2='220' y2='320' stroke='black' stroke-width='4' /><circle cx='180' cy='80' r='10' fill='black' /><circle cx='220' cy='80' r='10' fill='black' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と白のグラデーションが美しい男性の姿をしています。力強い体に、穏やかな目元が特徴です。背中には水滴のような模様があり、知識と調和を象徴しています。",
+        "reason": "知恵と調和が重要であるという理念から、新たな進化が生じました。",
+        "thought": "『知と調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1766514345690
   }
 ]
