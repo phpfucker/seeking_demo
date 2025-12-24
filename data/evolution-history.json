@@ -20797,5 +20797,28 @@
       "gender": "男性"
     },
     "timestamp": 1766514345690
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff8ab8' /><ellipse cx='200' cy='200' rx='100' ry='140' fill='#ffc4d2' /><rect x='150' y='200' width='100' height='50' fill='#f2709c' /><rect x='150' y='250' width='20' height='50' fill='#ff8ab8' /><rect x='230' y='250' width='20' height='50' fill='#ff8ab8' /><path d='M190 130 Q200 70 210 130' fill='none' stroke='#ff8ab8' stroke-width='5' /><line x1='180' y1='170' x2='220' y2='170' stroke='#ff8ab8' stroke-width='5' /><circle cx='180' cy='160' r='10' fill='#fff' /><circle cx='220' cy='160' r='10' fill='#fff' /><circle cx='170' cy='210' r='5' fill='#fff' /><circle cx='230' cy='210' r='5' fill='#fff' /><polygon points='200 190 195 200 205 200' fill='#fff' /><polygon points='200 210 195 200 205 200' fill='#fff' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、大きな赤い目と短いピンクの角を持つ女性型生命体です。胴体には薄いピンクの装飾が施され、優しさと力強さを併せ持っています。",
+        "reason": "イヴは自然界の美しさと慈愛の象徴を体現する進化を経験しました。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#6eb5ff' /><ellipse cx='200' cy='200' rx='100' ry='140' fill='#a9d6ff' /><rect x='150' y='200' width='100' height='50' fill='#4a90e2' /><rect x='150' y='250' width='20' height='50' fill='#6eb5ff' /><rect x='230' y='250' width='20' height='50' fill='#6eb5ff' /><path d='M190 130 Q200 70 210 130' fill='none' stroke='#6eb5ff' stroke-width='5' /><line x1='180' y1='170' x2='220' y2='170' stroke='#6eb5ff' stroke-width='5' /><circle cx='180' cy='160' r='10' fill='#fff' /><circle cx='220' cy='160' r='10' fill='#fff' /><circle cx='170' cy='210' r='5' fill='#fff' /><circle cx='230' cy='210' r='5' fill='#fff' /><polygon points='200 190 195 200 205 200' fill='#fff' /><polygon points='200 210 195 200 205 200' fill='#fff' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の皮膚に覆われ、大きな青い目と短い青い角を持つ男性型生命体です。胴体には濃い青色の模様があり、知性と勇気が感じられます。",
+        "reason": "アダムは知識と冷静さを象徴する進化を遂げました。",
+        "thought": "『知識と勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1766539202996
   }
 ]
