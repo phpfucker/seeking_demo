@@ -20866,5 +20866,28 @@
       "gender": "男性"
     },
     "timestamp": 1766579783569
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,135,135);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,50,50);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='200' cy='180' rx='100' ry='130' fill='#ffbdbd' /><path d='M240 250 Q220 300 260 300 Q300 300 280 250 Z' fill='#ffbdbd' /><ellipse cx='160' cy='180' rx='20' ry='30' fill='#222' /><ellipse cx='240' cy='180' rx='20' ry='30' fill='#222' /><path d='M200 230 Q180 270 220 270 Q260 270 240 230 Z' fill='#222' /><circle cx='160' cy='180' r='10' fill='#fff' /><circle cx='240' cy='180' r='10' fill='#fff' /><path d='M180 140 Q190 120 200 140 Q210 120 220 140 Q210 160 200 140 Z' fill='#f442c8' /><path d='M220 140 Q230 120 240 140 Q250 120 260 140 Q250 160 240 140 Z' fill='#f442c8' /><ellipse cx='175' cy='250' rx='10' ry='5' fill='#222' /><ellipse cx='225' cy='250' rx='10' ry='5' fill='#222' /><path d='M160 300 Q140 310 160 330 Q180 330 160 300 Z' fill='#222' /><path d='M240 300 Q220 310 240 330 Q260 330 240 300 Z' fill='#222' /></svg>",
+      "report": {
+        "appearance": "イヴは、明るい赤いグラデーションの体に大きな目と柔らかな表情を持つ女性の姿をしています。体はピンク色であり、頭には2つの小さな黒い角が生え、手には2本のしっぽがあります。手足は短く、全体的に愛らしい印象を与えます。",
+        "reason": "進化は、自然界の美しさと平和を表現するために起こりました。",
+        "thought": "『自然の力を感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(135,206,250);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(70,130,180);stop-opacity:1' /></linearGradient></defs><rect x='130' y='50' width='140' height='220' fill='url(#gradB)' /><circle cx='200' cy='190' r='100' fill='#b0e2ff' /><path d='M230 230 Q210 280 250 280 Q290 280 270 230 Z' fill='#b0e2ff' /><ellipse cx='160' cy='200' rx='15' ry='35' fill='#222' /><ellipse cx='240' cy='200' rx='15' ry='35' fill='#222' /><circle cx='160' cy='200' r='10' fill='#fff' /><circle cx='240' cy='200' r='10' fill='#fff' /><polygon points='175,250 185,240 195,250' fill='#222' /><polygon points='225,250 235,240 245,250' fill='#222' /><path d='M160 300 Q140 310 160 330 Q180 330 160 300 Z' fill='#222' /><path d='M240 300 Q220 310 240 330 Q260 330 240 300 Z' fill='#222' /></svg>",
+      "report": {
+        "appearance": "アダムは、穏やかな青いグラデーションの体に大きな目と優しい表情を持つ男性の姿をしています。体は水色であり、頭には2つの小さな黒い角が生え、手には2本のしっぽがあります。手足は頑丈で、全体的に穏やかな雰囲気を醸し出します。",
+        "reason": "進化は、知恵と調和を象徴するために起こりました。",
+        "thought": "『調和と平和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1766600706965
   }
 ]
