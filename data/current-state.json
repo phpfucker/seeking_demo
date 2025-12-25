@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#FFD700'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#FF9933'/><path d='M180 130 L220 130 L200 180 Z' fill='#FFCC00'/><polygon points='160,250 240,250 200,300' fill='#FFCC00'/><circle cx='160' cy='180' r='10' fill='#FFFFFF'/><circle cx='240' cy='180' r='10' fill='#FFFFFF'/><line x1='170' y1='160' x2='190' y2='160' stroke='#000000' stroke-width='2'/><line x1='210' y1='160' x2='230' y2='160' stroke='#000000' stroke-width='2'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ffccff' /><ellipse cx='200' cy='100' rx='80' ry='50' fill='#ffccff' /><path d='M170 200 L230 200 L200 250 Z' fill='#ff99cc' /><circle cx='160' cy='160' r='10' fill='#ff66cc' /><circle cx='240' cy='160' r='10' fill='#ff66cc' /><polygon points='180,220 220,220 200,240' fill='#ff99cc' /><rect x='190' y='250' width='20' height='50' fill='#ff99cc' /><rect x='170' y='300' width='60' height='10' fill='#ff99cc' /><polygon points='160,150 240,150 200,130' fill='#ff99cc' /><rect x='170' y='100' width='20' height='10' fill='#ff66cc' /><rect x='210' y='100' width='20' height='10' fill='#ff66cc' /></svg>",
     "report": {
-      "appearance": "イヴは黄色い肌を持ち、オレンジ色の髪と金色の大きな目を持つ女性。体は四角形の黄金色で、頭部にはオレンジ色の楕円形の顔と、金色の短い角がある。",
-      "reason": "イヴは新しい環境に適応するために、肌の色や目の色が変化し、より輝く外見を手に入れた。",
-      "thought": "『新たな姿、新たな可能性』"
+      "appearance": "イヴは、ピンク色の柔らかな肌を持ち、背中にふわふわの羽が生えた女性。頭部には紫の髪の毛が優雅に広がり、目元はやさしい表情を浮かべている。",
+      "reason": "進化の過程で、イヴは環境の変化に対応するため、羽毛を持つようになり、より美しい色彩を身に纏うように進化しました。",
+      "thought": "『自然と調和している』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#6495ED'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#4682B4'/><path d='M180 130 L220 130 L200 180 Z' fill='#87CEEB'/><polygon points='160,250 240,250 200,300' fill='#87CEEB'/><circle cx='160' cy='180' r='10' fill='#FFFFFF'/><circle cx='240' cy='180' r='10' fill='#FFFFFF'/><line x1='170' y1='160' x2='190' y2='160' stroke='#000000' stroke-width='2'/><line x1='210' y1='160' x2='230' y2='160' stroke='#000000' stroke-width='2'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#99ccff' /><ellipse cx='200' cy='100' rx='80' ry='50' fill='#99ccff' /><path d='M170 200 L230 200 L200 250 Z' fill='#6699ff' /><circle cx='160' cy='160' r='10' fill='#3366ff' /><circle cx='240' cy='160' r='10' fill='#3366ff' /><polygon points='180,220 220,220 200,240' fill='#6699ff' /><rect x='190' y='250' width='20' height='50' fill='#6699ff' /><rect x='170' y='300' width='60' height='10' fill='#6699ff' /><polygon points='160,150 240,150 200,130' fill='#6699ff' /><rect x='170' y='100' width='20' height='10' fill='#3366ff' /><rect x='210' y='100' width='20' height='10' fill='#3366ff' /></svg>",
     "report": {
-      "appearance": "アダムは青い肌を持ち、青紫色の髪と青色の大きな目を持つ男性。体は四角形の青い色で、頭部には青紫色の楕円形の顔と、青色の短い角がある。",
-      "reason": "アダムは繁殖成功率を高めるために、肌の色や目の色が変化し、より魅力的な外見を得た。",
-      "thought": "『強さと美しさを同時に持つ』"
+      "appearance": "アダムは、青色の皮膚を持つ男性で、角のような突起物が顔の両側に生えている。背中にはブルーの鱗がきらめき、力強い足元が立派な姿を見せる。",
+      "reason": "アダムは強靱な生存力を求める環境で進化し、体色や角の突起物がより鮮やかで強力になるよう進化しました。",
+      "thought": "『自らを信じる力』"
     },
     "name": "アダム",
     "gender": "男性"
