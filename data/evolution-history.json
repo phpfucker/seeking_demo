@@ -20889,5 +20889,28 @@
       "gender": "男性"
     },
     "timestamp": 1766600706965
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='180' rx='100' ry='140' fill='#FFB6C1' /><path d='M160 200 Q200 320 240 200 Q200 260 160 200 Z' fill='#FFC0CB' /><path d='M155 180 Q200 80 245 180' fill='none' stroke='#FF69B4' stroke-width='3' /><path d='M180 230 Q200 280 220 230' fill='none' stroke='#FF69B4' stroke-width='3' /><ellipse cx='170' cy='170' rx='10' ry='5' fill='white' /><ellipse cx='230' cy='170' rx='10' ry='5' fill='white' /><ellipse cx='200' cy='220' rx='10' ry='5' fill='#FF69B4' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の胴体を持ち、女性的な曲線と柔らかいラインで描かれています。背中には薄いピンク色の羽があり、白い卵形の顔に大きな目を持っています。頭部に薄いピンク色の角が2本あり、優雅で繊細な印象を与えます。",
+        "reason": "生態系内でのパートナーや子孫の繁栄を促すために、イヴは美しい外見と繊細な特徴を進化させました。",
+        "thought": "『生命の芸術』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='180' rx='110' ry='150' fill='#87CEEB' /><rect x='180' y='300' width='40' height='60' fill='#87CEEB' /><polygon points='180,300 220,300 200,250' fill='#6495ED' /><path d='M165 180 Q200 80 235 180' fill='none' stroke='#4169E1' stroke-width='3' /><ellipse cx='170' cy='170' rx='10' ry='5' fill='white' /><ellipse cx='230' cy='170' rx='10' ry='5' fill='white' /><ellipse cx='200' cy='240' rx='10' ry='5' fill='white' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の大きな体と筋肉質な腕を持ち、男性らしい力強い姿が特徴です。頭部には濃い青色の鋭い角が1本あり、尾には三角形の青いしっぽが付いています。顔には小さな白い模様が入り、力強い表情をしています。",
+        "reason": "環境での生存競争において、アダムは強靭な体と力強い特徴を発展させたことで、より効果的に獲物を狩ることができるように進化しました。",
+        "thought": "『生命の力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1766625649868
   }
 ]
