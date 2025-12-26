@@ -20981,5 +20981,28 @@
       "gender": "男性"
     },
     "timestamp": 1766687079055
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ffccff' /><ellipse cx='200' cy='100' rx='80' ry='50' fill='#ffccff' /><path d='M170 200 L230 200 L200 250 Z' fill='#ff99cc' /><circle cx='160' cy='160' r='10' fill='#ff66cc' /><circle cx='240' cy='160' r='10' fill='#ff66cc' /><polygon points='180,220 220,220 200,240' fill='#ff99cc' /><rect x='190' y='250' width='20' height='50' fill='#ff99cc' /><rect x='170' y='300' width='60' height='10' fill='#ff99cc' /><polygon points='160,150 240,150 200,130' fill='#ff99cc' /><rect x='170' y='100' width='20' height='10' fill='#ff66cc' /><rect x='210' y='100' width='20' height='10' fill='#ff66cc' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、背中にふわふわの羽が生えた女性。頭部には紫の髪の毛が優雅に広がり、目元はやさしい表情を浮かべている。",
+        "reason": "進化の過程で、イヴは環境の変化に対応するため、羽毛を持つようになり、より美しい色彩を身に纏うように進化しました。",
+        "thought": "『自然と調和している』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#99ccff' /><ellipse cx='200' cy='100' rx='80' ry='50' fill='#99ccff' /><path d='M170 200 L230 200 L200 250 Z' fill='#6699ff' /><circle cx='160' cy='160' r='10' fill='#3366ff' /><circle cx='240' cy='160' r='10' fill='#3366ff' /><polygon points='180,220 220,220 200,240' fill='#6699ff' /><rect x='190' y='250' width='20' height='50' fill='#6699ff' /><rect x='170' y='300' width='60' height='10' fill='#6699ff' /><polygon points='160,150 240,150 200,130' fill='#6699ff' /><rect x='170' y='100' width='20' height='10' fill='#3366ff' /><rect x='210' y='100' width='20' height='10' fill='#3366ff' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の皮膚を持つ男性で、角のような突起物が顔の両側に生えている。背中にはブルーの鱗がきらめき、力強い足元が立派な姿を見せる。",
+        "reason": "アダムは強靱な生存力を求める環境で進化し、体色や角の突起物がより鮮やかで強力になるよう進化しました。",
+        "thought": "『自らを信じる力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1766712064624
   }
 ]
