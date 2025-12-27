@@ -21073,5 +21073,28 @@
       "gender": "男性"
     },
     "timestamp": 1766773505292
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='160' fill='#ffccff' /><rect x='120' y='180' width='160' height='140' fill='#ffb3b3' /><ellipse cx='150' cy='180' rx='30' ry='20' fill='#ff6666' /><ellipse cx='250' cy='180' rx='30' ry='20' fill='#ff6666' /><ellipse cx='150' cy='320' rx='30' ry='20' fill='#ff6666' /><ellipse cx='250' cy='320' rx='30' ry='20' fill='#ff6666' /><rect x='180' y='240' width='40' height='100' fill='#ff9999' /><polygon points='200,60 220,140 180,140' fill='#ffcccc' /><polygon points='160,200 220,180 200,240' fill='#ff6666' /><polygon points='240,200 180,180 200,240' fill='#ff6666' /><circle cx='150' cy='180' r='10' fill='#ffffff' /><circle cx='250' cy='180' r='10' fill='#ffffff' /><path d='M140 160 Q200 130 260 160' stroke='#666666' stroke-width='2' fill='none' /><path d='M140 340 Q200 370 260 340' stroke='#666666' stroke-width='2' fill='none' /><text x='200' y='380' font-family='Arial' font-size='20' fill='#333333' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体に赤い服を着た女性の姿をしています。体の四隅には四つ角があり、手足が太く短いです。顔には丸い目と小さな口があり、長い赤い髪が特徴です。",
+        "reason": "新たな進化が起こり、イヴはより優しい雰囲気を持つようになりました。この進化は共感と愛情をより深めるためです。",
+        "thought": "『愛と共感』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='120' width='160' height='160' fill='#80b3ff' /><rect x='140' y='140' width='120' height='40' fill='#4d79ff' /><ellipse cx='160' cy='200' rx='20' ry='40' fill='#4d79ff' /><ellipse cx='240' cy='200' rx='20' ry='40' fill='#4d79ff' /><polygon points='200,100 220,120 180,120' fill='#99c2ff' /><polygon points='160,120 220,140 200,100' fill='#4d79ff' /><polygon points='240,120 180,140 200,100' fill='#4d79ff' /><rect x='180' y='260' width='40' height='100' fill='#99c2ff' /><circle cx='160' cy='160' r='10' fill='#b3d9ff' /><circle cx='240' cy='160' r='10' fill='#b3d9ff' /><line x1='160' y1='240' x2='160' y2='300' stroke='#666666' stroke-width='2' /><line x1='240' y1='240' x2='240' y2='300' stroke='#666666' stroke-width='2' /><text x='200' y='380' font-family='Arial' font-size='20' fill='#333333' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青い体に白い服を着た男性の姿をしています。頭部に二本角があり、四肢が頑丈で力強い印象です。顔には大きな目と丸い口があり、短い青い髪が特徴です。",
+        "reason": "アダムの進化は力強さと守護精神を強調したものです。新たな特徴が加わり、集団を守るリーダー像を表現するためです。",
+        "thought": "『絆と守護』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1766798346282
   }
 ]
