@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99' /><ellipse cx='200' cy='130' rx='80' ry='40' fill='#ffcc99' /><ellipse cx='160' cy='130' rx='10' ry='20' fill='#333333' /><ellipse cx='240' cy='130' rx='10' ry='20' fill='#333333' /><path d='M180 210 Q200 230 220 210' fill='none' stroke='#333333' stroke-width='3' /><path d='M180 210 Q200 250 220 210' fill='none' stroke='#333333' stroke-width='3' /><rect x='180' y='250' width='40' height='80' fill='#ffcc99' /><rect x='180' y='330' width='10' height='30' fill='#333333' /><rect x='210' y='330' width='10' height='30' fill='#333333' /><rect x='160' y='250' width='20' height='20' fill='#333333' /><rect x='220' y='250' width='20' height='20' fill='#333333' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#FFD700'/><circle cx='200' cy='150' r='50' fill='#FFB6C1'/><rect x='125' y='300' width='150' height='50' fill='#FFB6C1'/><ellipse cx='150' cy='150' rx='20' ry='10' fill='#FFFFFF'/><ellipse cx='250' cy='150' rx='20' ry='10' fill='#FFFFFF'/><circle cx='170' cy='160' r='5' fill='#000000'/><circle cx='230' cy='160' r='5' fill='#000000'/><line x1='150' y1='175' x2='250' y2='175' stroke='#000000' stroke-width='2'/><rect x='180' y='250' width='10' height='50' fill='#000000'/><rect x='210' y='250' width='10' height='50' fill='#000000'/><polygon points='200,100 190,120 210,120' fill='#FFB6C1'/></svg>",
     "report": {
-      "appearance": "イヴは大きな丸い目を持つ女性。ピンクの体と白い胸を持ち、手足は短く丸みを帯びた形状です。顔には小さな口があり、愛らしい顔立ちをしています。",
-      "reason": "生態系のバランスを保つため、イヴはより愛らしく魅力的な姿へ進化した。",
-      "thought": "『愛と優しさ』"
+      "appearance": "イヴは金色の体毛を持つ女性型生命体です。頭部にはピンク色の丸い耳があり、白い目玉と黒い瞳を持ちます。体はピンク色で、手足は黒色です。しっぽは短く、尾端が三角形に広がっています。",
+      "reason": "環境の変化により、イヴは新たな栄養源を求める必要が生じ、金色の体毛を持つことで生存をサポートするために進化しました。",
+      "thought": "『成長と変化』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#6699ff' /><ellipse cx='180' cy='130' rx='30' ry='60' fill='#6699ff' /><ellipse cx='220' cy='130' rx='30' ry='60' fill='#6699ff' /><polygon points='200,200 190,220 210,220' fill='none' stroke='#333333' stroke-width='3' /><rect x='180' y='250' width='40' height='80' fill='#6699ff' /><rect x='180' y='330' width='10' height='30' fill='#333333' /><rect x='210' y='330' width='10' height='30' fill='#333333' /><rect x='160' y='250' width='20' height='20' fill='#333333' /><rect x='220' y='250' width='20' height='20' fill='#333333' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#4682B4'/><circle cx='200' cy='150' r='50' fill='#FFA07A'/><rect x='125' y='300' width='150' height='50' fill='#FFA07A'/><ellipse cx='150' cy='150' rx='20' ry='10' fill='#FFFFFF'/><ellipse cx='250' cy='150' rx='20' ry='10' fill='#FFFFFF'/><circle cx='170' cy='160' r='5' fill='#000000'/><circle cx='230' cy='160' r='5' fill='#000000'/><line x1='150' y1='175' x2='250' y2='175' stroke='#000000' stroke-width='2'/><rect x='180' y='250' width='10' height='50' fill='#000000'/><rect x='210' y='250' width='10' height='50' fill='#000000'/><polygon points='200,100 190,120 210,120' fill='#FFA07A'/></svg>",
     "report": {
-      "appearance": "アダムは鮮やかな青色の体を持つ男性。目は大きくオーバル形状で、体には青色の模様がある。手足はがっしりとした形状で、力強さを感じさせる。",
-      "reason": "アダムはより力強く、鮮やかな色彩を持つ姿へ進化した。生存競争において優位性を持つため。",
-      "thought": "『力と誇り』"
+      "appearance": "アダムは青色の体毛を持つ男性型生命体です。頭部にはオレンジ色の丸い耳があり、白い目玉と黒い瞳を持ちます。体はオレンジ色で、手足は黒色です。しっぽは短く、尾端が三角形に広がっています。",
+      "reason": "食物連鎖の変化により、アダムは新たな獲物を狩るために青色の体毛を持つことでカモフラージュする必要が生じ、進化しました。",
+      "thought": "『適応と生存』"
     },
     "name": "アダム",
     "gender": "男性"
