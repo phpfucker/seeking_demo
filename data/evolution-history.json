@@ -21119,5 +21119,28 @@
       "gender": "男性"
     },
     "timestamp": 1766816759113
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#FFD700'/><circle cx='200' cy='150' r='50' fill='#FFB6C1'/><rect x='125' y='300' width='150' height='50' fill='#FFB6C1'/><ellipse cx='150' cy='150' rx='20' ry='10' fill='#FFFFFF'/><ellipse cx='250' cy='150' rx='20' ry='10' fill='#FFFFFF'/><circle cx='170' cy='160' r='5' fill='#000000'/><circle cx='230' cy='160' r='5' fill='#000000'/><line x1='150' y1='175' x2='250' y2='175' stroke='#000000' stroke-width='2'/><rect x='180' y='250' width='10' height='50' fill='#000000'/><rect x='210' y='250' width='10' height='50' fill='#000000'/><polygon points='200,100 190,120 210,120' fill='#FFB6C1'/></svg>",
+      "report": {
+        "appearance": "イヴは金色の体毛を持つ女性型生命体です。頭部にはピンク色の丸い耳があり、白い目玉と黒い瞳を持ちます。体はピンク色で、手足は黒色です。しっぽは短く、尾端が三角形に広がっています。",
+        "reason": "環境の変化により、イヴは新たな栄養源を求める必要が生じ、金色の体毛を持つことで生存をサポートするために進化しました。",
+        "thought": "『成長と変化』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#4682B4'/><circle cx='200' cy='150' r='50' fill='#FFA07A'/><rect x='125' y='300' width='150' height='50' fill='#FFA07A'/><ellipse cx='150' cy='150' rx='20' ry='10' fill='#FFFFFF'/><ellipse cx='250' cy='150' rx='20' ry='10' fill='#FFFFFF'/><circle cx='170' cy='160' r='5' fill='#000000'/><circle cx='230' cy='160' r='5' fill='#000000'/><line x1='150' y1='175' x2='250' y2='175' stroke='#000000' stroke-width='2'/><rect x='180' y='250' width='10' height='50' fill='#000000'/><rect x='210' y='250' width='10' height='50' fill='#000000'/><polygon points='200,100 190,120 210,120' fill='#FFA07A'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の体毛を持つ男性型生命体です。頭部にはオレンジ色の丸い耳があり、白い目玉と黒い瞳を持ちます。体はオレンジ色で、手足は黒色です。しっぽは短く、尾端が三角形に広がっています。",
+        "reason": "食物連鎖の変化により、アダムは新たな獲物を狩るために青色の体毛を持つことでカモフラージュする必要が生じ、進化しました。",
+        "thought": "『適応と生存』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1766838797476
   }
 ]
