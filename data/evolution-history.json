@@ -21188,5 +21188,28 @@
       "gender": "男性"
     },
     "timestamp": 1766885922796
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffe8bd' /><rect x='150' y='250' width='100' height='40' fill='#d9a679' /><rect x='140' y='200' width='120' height='70' fill='#d9a679' /><rect x='150' y='200' width='100' height='10' fill='#d9a679' /><circle cx='170' cy='180' r='15' fill='white' /><circle cx='230' cy='180' r='15' fill='white' /><path d='M160 210 Q200 170 240 210 L240 230 Q200 190 160 230 Z' fill='#d9a679' /><line x1='180' y1='250' x2='160' y2='280' stroke='#d9a679' stroke-width='2' /><line x1='220' y1='250' x2='240' y2='280' stroke='#d9a679' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、淡いオレンジ色の肌を持ち、優しげな表情の女性です。頭部には白い目があり、手足は柔らかな茶色で、背中に小さな翼が生えています。",
+        "reason": "環境の変化により、イヴは季節の移り変わりに合わせた色彩と柔らかな特徴を進化させました。",
+        "thought": "『調和と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='200' width='100' height='150' fill='#6b8dd9' /><circle cx='200' cy='180' r='20' fill='#6b8dd9' /><path d='M150 200 L100 300 L200 300 Z' fill='#6b8dd9' /><path d='M250 200 L300 300 L200 300 Z' fill='#6b8dd9' /><circle cx='180' cy='250' r='10' fill='white' /><circle cx='220' cy='250' r='10' fill='white' /><line x1='170' y1='220' x2='160' y2='240' stroke='#6b8dd9' stroke-width='2' /><line x1='230' y1='220' x2='240' y2='240' stroke='#6b8dd9' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い鱗状の肌を持つ男性で、力強い体つきをしています。頭部に大きな青い目があり、四肢は太く頑丈で、背中には二対の翼が生えています。",
+        "reason": "アダムは、厳しい環境下での生存に適応するため、強靭な外見と翼を持つように進化しました。",
+        "thought": "『生命の力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1766903195646
   }
 ]
