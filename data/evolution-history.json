@@ -21211,5 +21211,28 @@
       "gender": "男性"
     },
     "timestamp": 1766903195646
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#f7b7a3' /><ellipse cx='200' cy='200' rx='100' ry='140' fill='#ffebcd' /><circle cx='140' cy='160' r='20' fill='#6b5b95' /><circle cx='260' cy='160' r='20' fill='#6b5b95' /><path d='M180 240 q20 -30 40 0 q20 30 40 0' fill='none' stroke='#6b5b95' stroke-width='6' /><path d='M100 240 q20 -25 40 0 q20 25 40 0' fill='none' stroke='#6b5b95' stroke-width='6' /><path d='M300 240 q20 -25 40 0 q20 25 40 0' fill='none' stroke='#6b5b95' stroke-width='6' /><polygon points='180,100 220,100 240,140 160,140' fill='#ffebcd' /><polygon points='160,160 240,160 220,180 180,180' fill='#ffebcd' /><rect x='180' y='200' width='40' height='60' fill='#f7b7a3' /><rect x='180' y='260' width='40' height='40' fill='#6b5b95' /><path d='M200 240 q-10 10 0 20 q10 -10 0 -20' fill='none' stroke='#6b5b95' stroke-width='4' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとオレンジ色の柔らかな体を持ち、優雅な女性の特徴を持っています。顔には大きな目と優しい笑みが描かれ、しっぽや模様は可愛らしさを引き立てています。",
+        "reason": "進化によって、イヴはより美しく優雅になり、内面の穏やかさと柔らかさを表現するために変化しました。",
+        "thought": "『愛と豊かさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='120' width='100' height='160' fill='#4b3832' /><circle cx='200' cy='80' r='60' fill='#726a95' /><path d='M180 240 q20 -30 40 0 q20 30 40 0' fill='none' stroke='#4b3832' stroke-width='6' /><path d='M100 240 q20 -25 40 0 q20 25 40 0' fill='none' stroke='#4b3832' stroke-width='6' /><path d='M300 240 q20 -25 40 0 q20 25 40 0' fill='none' stroke='#4b3832' stroke-width='6' /><polygon points='180,100 220,100 240,140 160,140' fill='#726a95' /><polygon points='160,160 240,160 220,180 180,180' fill='#726a95' /><rect x='180' y='200' width='40' height='60' fill='#4b3832' /><rect x='180' y='260' width='40' height='40' fill='#726a95' /><line x1='180' y1='240' x2='220' y2='240' stroke='#b7b7a4' stroke-width='8' /><line x1='200' y1='240' x2='200' y2='260' stroke='#b7b7a4' stroke-width='8' /></svg>",
+      "report": {
+        "appearance": "アダムは、ダークブラウンとパープルの色合いが特徴の頑丈な体を持ち、男性らしい力強さが感じられます。顔には大きな角やシャープな目が描かれ、しっぽや模様は凛々しさを表現しています。",
+        "reason": "進化によって、アダムはより力強く頼もしい外見と強さを強調するために変化しました。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1766925237740
   }
 ]
