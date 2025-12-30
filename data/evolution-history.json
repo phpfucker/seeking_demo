@@ -21418,5 +21418,28 @@
       "gender": "男性"
     },
     "timestamp": 1767098239271
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='140' fill='url(#gradA)'/><rect x='130' y='160' width='140' height='80' fill='#FFB6C1'/><polygon points='180,240 220,240 200,280' fill='#F08080'/><ellipse cx='170' cy='185' rx='20' ry='10' fill='#FFFFFF'/><ellipse cx='230' cy='185' rx='20' ry='10' fill='#FFFFFF'/><path d='M180,210 Q200,240 220,210' fill='none' stroke='#000' stroke-width='2'/><line x1='190' y1='200' x2='210' y2='200' stroke='#000' stroke-width='2'/><line x1='160' y1='240' x2='140' y2='260' stroke='#000' stroke-width='2'/><line x1='240' y1='240' x2='260' y2='260' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、大きな赤い目と優しい表情をしています。頭部にはフリルのような模様があり、背中に小さな翼が生えています。四肢は繊細で、ピンクと白のカラフルな装飾が施されています。",
+        "reason": "イヴは新たな環境に適応し、自然と共生するための進化を遂げました。色彩と柔らかな特徴は、他の生物との調和を象徴しています。",
+        "thought": "『愛と美の調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='140' fill='url(#gradB)'/><rect x='160' y='160' width='80' height='120' fill='#4682B4'/><polygon points='180,240 220,240 200,280' fill='#87CEEB'/><ellipse cx='170' cy='185' rx='20' ry='10' fill='#FFFFFF'/><ellipse cx='230' cy='185' rx='20' ry='10' fill='#FFFFFF'/><path d='M180,210 Q200,240 220,210' fill='none' stroke='#000' stroke-width='2'/><line x1='190' y1='200' x2='210' y2='200' stroke='#000' stroke-width='2'/><line x1='160' y1='240' x2='140' y2='260' stroke='#000' stroke-width='2'/><line x1='240' y1='240' x2='260' y2='260' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の鱗状の肌と複雑な模様を持ち、大きな青い目と強靭な表情をしています。頭部には尖った角があり、背中には大きな羽根が生えています。四肢は力強く、青と白のカラフルな装飾が施されています。",
+        "reason": "アダムは強靭な外見と力強い特徴を進化させ、新たな環境での生存競争に適応しました。色彩と鱗状の肌は、自然との共存を示しています。",
+        "thought": "『力と知恵の融合』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1767119191437
   }
 ]
