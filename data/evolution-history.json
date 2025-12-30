@@ -21395,5 +21395,28 @@
       "gender": "男性"
     },
     "timestamp": 1767076088229
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='180' width='160' height='200' fill='#FFD700' /><ellipse cx='200' cy='120' rx='100' ry='60' fill='#FFD700' /><circle cx='150' cy='110' r='10' fill='#FFFFFF' /><circle cx='250' cy='110' r='10' fill='#FFFFFF' /><circle cx='180' cy='140' r='5' fill='#000000' /><circle cx='220' cy='140' r='5' fill='#000000' /><path d='M150 200 Q200 220 250 200' fill='none' stroke='#000000' stroke-width='4' /><polygon points='160,180 190,180 175,200' fill='#FFD700' /><polygon points='210,180 240,180 225,200' fill='#FFD700' /><ellipse cx='185' cy='240' rx='10' ry='5' fill='#FFD700' /><ellipse cx='215' cy='240' rx='10' ry='5' fill='#FFD700' /><line x1='160' y1='380' x2='190' y2='380' stroke='#000000' stroke-width='4' /><line x1='210' y1='380' x2='240' y2='380' stroke='#000000' stroke-width='4' /></svg>",
+      "report": {
+        "appearance": "イヴは全身を金色に輝く鱗で覆われた美しい女性で、長い金色の髪と柔らかな笑顔を持っています。胴体は長く、四肢は滑らかな曲線で結ばれ、しなやかなしっぽが優雅に揺れています。",
+        "reason": "イヴは自然の摂理に従い、進化のプロセスによって美しく洗練された姿に変化しました。",
+        "thought": "『命の美しさを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='180' width='160' height='200' fill='#4682B4' /><ellipse cx='200' cy='120' rx='100' ry='60' fill='#4682B4' /><circle cx='150' cy='110' r='10' fill='#FFFFFF' /><circle cx='250' cy='110' r='10' fill='#FFFFFF' /><circle cx='180' cy='140' r='5' fill='#000000' /><circle cx='220' cy='140' r='5' fill='#000000' /><path d='M150 200 Q200 220 250 200' fill='none' stroke='#000000' stroke-width='4' /><polygon points='160,180 190,180 175,200' fill='#4682B4' /><polygon points='210,180 240,180 225,200' fill='#4682B4' /><ellipse cx='185' cy='240' rx='10' ry='5' fill='#4682B4' /><ellipse cx='215' cy='240' rx='10' ry='5' fill='#4682B4' /><line x1='160' y1='380' x2='190' y2='380' stroke='#000000' stroke-width='4' /><line x1='210' y1='380' x2='240' y2='380' stroke='#000000' stroke-width='4' /></svg>",
+      "report": {
+        "appearance": "アダムは全身を青い鱗で覆われた美しい男性で、流れるような褐色の髪と優しい表情を持っています。胴体はがっしりとしており、四肢は力強く筋肉質で、堂々としたしっぽが威厳を感じさせます。",
+        "reason": "アダムは進化の過程で、力強く気高い姿に変貌しました。",
+        "thought": "『誇り高き生命』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1767098239271
   }
 ]
