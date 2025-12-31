@@ -21510,5 +21510,28 @@
       "gender": "男性"
     },
     "timestamp": 1767184582642
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='120' width='200' height='200' fill='#ffccff' /><circle cx='200' cy='180' r='50' fill='#ff99cc' /><ellipse cx='160' cy='260' rx='40' ry='20' fill='#ff66a3' /><ellipse cx='240' cy='260' rx='40' ry='20' fill='#ff66a3' /><path d='M180 220 L200 220 L190 240 Z' fill='#cc6699' /><path d='M220 220 L200 220 L210 240 Z' fill='#cc6699' /><circle cx='170' cy='180' r='5' fill='#333' /><circle cx='230' cy='180' r='5' fill='#333' /><polygon points='190,270 200,290 210,270' fill='#cc6699' /><polygon points='170,300 200,340 230,300' fill='#cc6699' /><line x1='160' y1='200' x2='140' y2='240' stroke='#333' stroke-width='2' /><line x1='240' y1='200' x2='260' y2='240' stroke='#333' stroke-width='2' /><rect x='180' y='260' width='40' height='40' fill='#ff99cc' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌に大きな目を持ち、頭には二本の角が生えています。体の中心には紫色の大きな円があり、手足は楕円形で構成されています。しっぽとして背中に小さな短い四角形の装飾があります。",
+        "reason": "イヴはこの進化で、より優美で芸術的な特徴を獲得し、自然と調和した美しさを追求しています。",
+        "thought": "『調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='120' width='200' height='200' fill='#99ccff' /><circle cx='200' cy='180' r='50' fill='#66a3ff' /><ellipse cx='160' cy='260' rx='40' ry='20' fill='#3385ff' /><ellipse cx='240' cy='260' rx='40' ry='20' fill='#3385ff' /><path d='M180 220 L200 220 L190 240 Z' fill='#3366cc' /><path d='M220 220 L200 220 L210 240 Z' fill='#3366cc' /><circle cx='170' cy='180' r='5' fill='#333' /><circle cx='230' cy='180' r='5' fill='#333' /><polygon points='190,270 200,290 210,270' fill='#3366cc' /><polygon points='170,300 200,340 230,300' fill='#3366cc' /><line x1='160' y1='200' x2='140' y2='240' stroke='#333' stroke-width='2' /><line x1='240' y1='200' x2='260' y2='240' stroke='#333' stroke-width='2' /><rect x='180' y='260' width='40' height='40' fill='#66a3ff' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い肌に銀色の目を持ち、頭には鋭い角が二本生えています。体の中心には青色の大きな円があり、手足は楕円形で構成されています。背中には青色の四角形の装飾があり、しっぽとして橙色の長い楕円形が付いています。",
+        "reason": "アダムはこの進化で、より力強く知性的な特徴を獲得し、独自の領域で進化しています。",
+        "thought": "『知性と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1767205514604
   }
 ]
