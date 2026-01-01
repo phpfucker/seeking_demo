@@ -21533,5 +21533,28 @@
       "gender": "男性"
     },
     "timestamp": 1767205514604
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFB6C1' /><ellipse cx='200' cy='150' rx='80' ry='110' fill='#FFC0CB' /><ellipse cx='160' cy='160' rx='15' ry='25' fill='#FFFFFF' /><ellipse cx='240' cy='160' rx='15' ry='25' fill='#FFFFFF' /><path d='M180,230 Q200,250 220,230' stroke='#000000' stroke-width='2' fill='none' /><rect x='180' y='230' width='40' height='10' fill='#000000' /><polygon points='180,150 185,145 195,155 190,160' fill='#FFFFFF' /><polygon points='220,150 215,145 205,155 210,160' fill='#FFFFFF' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、大きな赤い目を持つ女性型生命体です。体の中央には白い胸部があり、薄いピンク色の手足が特徴です。",
+        "reason": "新たな進化に伴い、イヴはより華やかな色彩と柔らかな特徴を獲得し、美しさと優雅さが強調されました。",
+        "thought": "『愛と美の調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ADD8E6' /><ellipse cx='200' cy='150' rx='80' ry='110' fill='#B0E0E6' /><ellipse cx='160' cy='160' rx='15' ry='25' fill='#FFFFFF' /><ellipse cx='240' cy='160' rx='15' ry='25' fill='#FFFFFF' /><rect x='180' y='230' width='40' height='10' fill='#000000' /><path d='M180,230 Q200,250 220,230' stroke='#000000' stroke-width='2' fill='none' /><polygon points='180,150 185,145 195,155 190,160' fill='#FFFFFF' /><polygon points='220,150 215,145 205,155 210,160' fill='#FFFFFF' /></svg>",
+      "report": {
+        "appearance": "アダムは、水色の肌と青い目を持つ男性型生命体であり、体の中央には淡い青色の胸部があります。手足は薄い青色で構成されています。",
+        "reason": "進化の過程で、アダムは穏やかな色調と柔らかな特徴が強調され、優しさと穏やかさが表現されました。",
+        "thought": "『知性と優しさの融合』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1767231603473
   }
 ]
