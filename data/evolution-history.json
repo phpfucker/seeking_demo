@@ -21602,5 +21602,28 @@
       "gender": "男性"
     },
     "timestamp": 1767270979375
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink' /><ellipse cx='200' cy='150' rx='100' ry='80' fill='lightpink' /><polygon points='200,100 250,150 150,150' fill='pink' /><rect x='180' y='230' width='40' height='70' fill='pink' /><path d='M170 180 Q200 250 230 180' fill='none' stroke='black' /><path d='M170 180 Q200 210 230 180' fill='none' stroke='black' /><path d='M200 230 L180 250' stroke='black' /><path d='M200 230 L220 250' stroke='black' /><path d='M200 280 Q180 320 200 340 Q220 320 200 280' fill='pink' /><circle cx='180' cy='170' r='5' fill='black' /><circle cx='220' cy='170' r='5' fill='black' /><circle cx='190' cy='140' r='5' fill='black' /><circle cx='210' cy='140' r='5' fill='black' /><circle cx='190' cy='160' r='5' fill='black' /><circle cx='210' cy='160' r='5' fill='black' /><circle cx='190' cy='180' r='5' fill='black' /><circle cx='210' cy='180' r='5' fill='black' /><circle cx='190' cy='200' r='5' fill='black' /><circle cx='210' cy='200' r='5' fill='black' /><circle cx='210' cy='320' r='10' fill='pink' /><circle cx='190' cy='320' r='10' fill='pink' /><circle cx='200' cy='350' r='10' fill='pink' /><text x='150' y='30' font-family='Verdana' font-size='20' fill='black'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかな皮膚を持ち、女性らしい曲線と優雅な特徴を持つ。大きな目と柔らかな表情が特徴で、背中には小さな翼が生えている。",
+        "reason": "イヴの進化は、自然界の美しさと優しさを表現するために起こった。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='lightblue' /><polygon points='150,100 200,50 250,100' fill='blue' /><circle cx='200' cy='70' r='20' fill='blue' /><circle cx='180' cy='140' r='10' fill='blue' /><circle cx='220' cy='140' r='10' fill='blue' /><circle cx='150' cy='300' r='10' fill='lightblue' /><circle cx='250' cy='300' r='10' fill='lightblue' /><circle cx='170' cy='300' r='10' fill='lightblue' /><circle cx='230' cy='300' r='10' fill='lightblue' /><path d='M170 200 Q200 250 230 200' fill='none' stroke='black' /><path d='M170 220 Q200 270 230 220' fill='none' stroke='black' /><circle cx='200' cy='250' r='10' fill='blue' /><circle cx='180' cy='270' r='10' fill='blue' /><circle cx='220' cy='270' r='10' fill='blue' /><text x='150' y='30' font-family='Verdana' font-size='20' fill='black'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青色の頑丈な体躯を持ち、男性らしい力強さと堅実な特徴を見せる。大きな目と真剣な表情が特徴で、背中には小さな羽根が生えている。",
+        "reason": "アダムの進化は、自然界の力強さと堅実さを表現するために起こった。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1767291924998
   }
 ]
