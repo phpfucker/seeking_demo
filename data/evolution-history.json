@@ -21717,5 +21717,28 @@
       "gender": "男性"
     },
     "timestamp": 1767378319330
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff99cc' /><ellipse cx='200' cy='180' rx='100' ry='130' fill='#ffc0cb' /><rect x='160' y='260' width='80' height='40' fill='#ff99cc' /><rect x='175' y='300' width='50' height='80' fill='#ffc0cb' /><polygon points='190,220 210,220 200,230' fill='#ff66b2' /><polygon points='180,250 220,250 200,280' fill='#ff66b2' /><path d='M190 170 Q200 130 210 170' fill='none' stroke='#993366' stroke-width='3' /><path d='M170 150 Q200 100 230 150' fill='none' stroke='#993366' stroke-width='3' /><line x1='190' y1='120' x2='210' y2='120' stroke='#993366' stroke-width='3' /><line x1='180' y1='140' x2='220' y2='140' stroke='#993366' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、優雅で上品な特徴が際立つ。全身には愛らしい模様が散りばめられており、女性らしい美しさが満ちている。",
+        "reason": "生態系の多様性を増やすため、イヴはより魅力的で個性的な外見へと進化した。",
+        "thought": "『優しさと美しさを守る』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#66b3ff' /><ellipse cx='200' cy='180' rx='100' ry='130' fill='#87ceeb' /><rect x='160' y='260' width='80' height='40' fill='#66b3ff' /><rect x='175' y='300' width='50' height='80' fill='#87ceeb' /><polygon points='190,220 210,220 200,230' fill='#4682b4' /><polygon points='180,250 220,250 200,280' fill='#4682b4' /><path d='M190 170 Q200 130 210 170' fill='none' stroke='#336699' stroke-width='3' /><path d='M170 150 Q200 100 230 150' fill='none' stroke='#336699' stroke-width='3' /><line x1='190' y1='120' x2='210' y2='120' stroke='#336699' stroke-width='3' /><line x1='180' y1='140' x2='220' y2='140' stroke='#336699' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌を持ち、凛々しい風貌が特徴的である。シャープなラインと力強い姿勢が男性らしさを表している。",
+        "reason": "生存競争において、アダムはより強靭で力強い外見へと進化し、環境においての優位性を獲得した。",
+        "thought": "『力強さと誇りを持つ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1767403100975
   }
 ]

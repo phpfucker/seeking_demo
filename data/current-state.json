@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff99cc' /><ellipse cx='200' cy='180' rx='100' ry='130' fill='#ffc0cb' /><rect x='160' y='260' width='80' height='40' fill='#ff99cc' /><rect x='175' y='300' width='50' height='80' fill='#ffc0cb' /><polygon points='190,220 210,220 200,230' fill='#ff66b2' /><polygon points='180,250 220,250 200,280' fill='#ff66b2' /><path d='M190 170 Q200 130 210 170' fill='none' stroke='#993366' stroke-width='3' /><path d='M170 150 Q200 100 230 150' fill='none' stroke='#993366' stroke-width='3' /><line x1='190' y1='120' x2='210' y2='120' stroke='#993366' stroke-width='3' /><line x1='180' y1='140' x2='220' y2='140' stroke='#993366' stroke-width='3' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#FFD700'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#F4A460'/><polygon points='180,160 220,160 200,190' fill='#FF6347'/><polygon points='170,200 230,200 200,250' fill='#FF6347'/><ellipse cx='160' cy='300' rx='20' ry='40' fill='#F4A460'/><ellipse cx='240' cy='300' rx='20' ry='40' fill='#F4A460'/><path d='M150 150 Q200 50 250 150' fill='none' stroke='#000' stroke-width='2'/><path d='M212 160 Q200 180 188 160' fill='none' stroke='#000' stroke-width='2'/><path d='M170 300 Q200 350 230 300' fill='none' stroke='#000' stroke-width='2'/><path d='M190 110 Q200 130 210 110' fill='none' stroke='#000' stroke-width='2'/><circle cx='180' cy='90' r='5' fill='#000'/><circle cx='220' cy='90' r='5' fill='#000'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、優雅で上品な特徴が際立つ。全身には愛らしい模様が散りばめられており、女性らしい美しさが満ちている。",
-      "reason": "生態系の多様性を増やすため、イヴはより魅力的で個性的な外見へと進化した。",
-      "thought": "『優しさと美しさを守る』"
+      "appearance": "イヴは金色の全身を持つ女性で、顔に赤い模様が入っています。大きな赤い羽のような装飾が特徴的で、手足は細長く、角のような突起が頭にあります。",
+      "reason": "この進化は、自然界の光と繊細さを象徴するために起こりました。",
+      "thought": "『光輝く愛』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#66b3ff' /><ellipse cx='200' cy='180' rx='100' ry='130' fill='#87ceeb' /><rect x='160' y='260' width='80' height='40' fill='#66b3ff' /><rect x='175' y='300' width='50' height='80' fill='#87ceeb' /><polygon points='190,220 210,220 200,230' fill='#4682b4' /><polygon points='180,250 220,250 200,280' fill='#4682b4' /><path d='M190 170 Q200 130 210 170' fill='none' stroke='#336699' stroke-width='3' /><path d='M170 150 Q200 100 230 150' fill='none' stroke='#336699' stroke-width='3' /><line x1='190' y1='120' x2='210' y2='120' stroke='#336699' stroke-width='3' /><line x1='180' y1='140' x2='220' y2='140' stroke='#336699' stroke-width='3' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#4682B4'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#2E8B57'/><polygon points='180,160 220,160 200,190' fill='#FF6347'/><polygon points='170,200 230,200 200,250' fill='#FF6347'/><ellipse cx='160' cy='300' rx='20' ry='40' fill='#2E8B57'/><ellipse cx='240' cy='300' rx='20' ry='40' fill='#2E8B57'/><path d='M150 150 Q200 50 250 150' fill='none' stroke='#000' stroke-width='2'/><path d='M212 160 Q200 180 188 160' fill='none' stroke='#000' stroke-width='2'/><path d='M170 300 Q200 350 230 300' fill='none' stroke='#000' stroke-width='2'/><path d='M190 110 Q200 130 210 110' fill='none' stroke='#000' stroke-width='2'/><circle cx='180' cy='90' r='5' fill='#000'/><circle cx='220' cy='90' r='5' fill='#000'/></svg>",
     "report": {
-      "appearance": "アダムは、青色の肌を持ち、凛々しい風貌が特徴的である。シャープなラインと力強い姿勢が男性らしさを表している。",
-      "reason": "生存競争において、アダムはより強靭で力強い外見へと進化し、環境においての優位性を獲得した。",
-      "thought": "『力強さと誇りを持つ』"
+      "appearance": "アダムは青色の全身を持つ男性で、顔に赤い模様が入っています。大きな赤い羽のような装飾が特徴的で、手足は細長く、角のような突起が頭にあります。",
+      "reason": "この進化は、青い空と大地の力強さを表現するために起こりました。",
+      "thought": "『大地の調和』"
     },
     "name": "アダム",
     "gender": "男性"
