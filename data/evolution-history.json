@@ -21786,5 +21786,28 @@
       "gender": "男性"
     },
     "timestamp": 1767443593361
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255, 193, 7);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(238, 130, 238);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradA)' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='url(#gradA)' /><path d='M150 250 L200 350 L250 250 Z' fill='rgb(238, 130, 238)' /><circle cx='160' cy='150' r='8' fill='black' /><circle cx='240' cy='150' r='8' fill='black' /><polygon points='180,200 220,200 200,230' fill='rgb(238, 130, 238)' /><path d='M180 300 Q200 330 220 300' fill='none' stroke='black' /><path d='M190 160 Q180 140 200 160 Q220 140 210 160' fill='none' stroke='black' /><line x1='170' y1='270' x2='150' y2='310' stroke='black' stroke-width='2' /><line x1='230' y1='270' x2='250' y2='310' stroke='black' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、流れるような紫色の体と大きな黄色い目を持つ女性型の生命体です。体の中心には明るいピンク色の三角形の模様があり、しなやかな角が二本生えています。手足は紫とピンクのグラデーションで彩られ、足先には小さな黒い爪があります。",
+        "reason": "イヴは自然の力を象徴し、力強さと優雅さを兼ね備えた進化を遂げました。",
+        "thought": "『自然と共に在り』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(0, 191, 255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255, 99, 71);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradB)' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='url(#gradB)' /><path d='M150 250 L200 350 L250 250 Z' fill='rgb(255, 99, 71)' /><circle cx='160' cy='150' r='8' fill='black' /><circle cx='240' cy='150' r='8' fill='black' /><polygon points='180,200 220,200 200,230' fill='rgb(255, 99, 71)' /><path d='M180 300 Q200 330 220 300' fill='none' stroke='black' /><path d='M190 160 Q180 140 200 160 Q220 140 210 160' fill='none' stroke='black' /><line x1='170' y1='270' x2='150' y2='310' stroke='black' stroke-width='2' /><line x1='230' y1='270' x2='250' y2='310' stroke='black' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青とオレンジのグラデーションがかかった体と大きな赤い目を持つ男性型の生命体です。体には橙色の三角形の模様があり、頭には太い一本角が生えています。手足は青とオレンジの色合いで構成され、足先には小さな黒い爪があります。",
+        "reason": "アダムは知識と勇気を象徴し、知恵と力強さを備えた進化を遂げました。",
+        "thought": "『知恵と勇気を持つ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1767464628337
   }
 ]
