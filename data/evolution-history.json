@@ -21763,5 +21763,28 @@
       "gender": "男性"
     },
     "timestamp": 1767421583525
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"#FFC0CB\"/><circle cx=\"200\" cy=\"150\" r=\"70\" fill=\"#FF69B4\"/><circle cx=\"140\" cy=\"200\" r=\"30\" fill=\"#FFB6C1\"/><circle cx=\"260\" cy=\"200\" r=\"30\" fill=\"#FFB6C1\"/><circle cx=\"170\" cy=\"150\" r=\"10\" fill=\"#000\"/><circle cx=\"230\" cy=\"150\" r=\"10\" fill=\"#000\"/><path d=\"M150 250 Q200 300 250 250\" fill=\"none\" stroke=\"#000\" stroke-width=\"5\"/><path d=\"M175 225 Q200 200 225 225\" fill=\"none\" stroke=\"#000\" stroke-width=\"5\"/><rect x=\"175\" y=\"275\" width=\"50\" height=\"15\" fill=\"#000\"/><rect x=\"175\" y=\"300\" width=\"10\" height=\"5\" fill=\"#FFB6C1\"/><rect x=\"215\" y=\"300\" width=\"10\" height=\"5\" fill=\"#FFB6C1\"/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体に、大きな桃色の頭と二つの小さな桃色の耳を持つ女性の生命体です。体の中央にある大きなピンクの円形の模様と、背中に小さな桃色の丸いモザイク模様が特徴です。",
+        "reason": "イヴの進化は、環境の中での生存競争において、より効果的な警戒色や仲間識別のための模様が発達した結果です。",
+        "thought": "『謎めいた魅力を持つ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"#ADD8E6\"/><circle cx=\"200\" cy=\"150\" r=\"70\" fill=\"#87CEEB\"/><ellipse cx=\"160\" cy=\"200\" rx=\"30\" ry=\"20\" fill=\"#B0C4DE\"/><ellipse cx=\"240\" cy=\"200\" rx=\"30\" ry=\"20\" fill=\"#B0C4DE\"/><line x1=\"200\" y1=\"220\" x2=\"200\" y2=\"300\" stroke=\"#000\" stroke-width=\"8\"/><line x1=\"200\" y1=\"300\" x2=\"175\" y2=\"325\" stroke=\"#000\" stroke-width=\"8\"/><line x1=\"200\" y1=\"300\" x2=\"225\" y2=\"325\" stroke=\"#000\" stroke-width=\"8\"/><polygon points=\"190,160 210,160 200,170\" fill=\"#000\"/><polygon points=\"190,150 210,150 200,140\" fill=\"#FFD700\"/></svg>",
+      "report": {
+        "appearance": "アダムは水色の体に、大きな青色の頭と二つの青色の角を持つ男性の生命体です。体の中央にある大きな水色の円形の模様と、背中に小さな黄色の三角形の模様が特徴です。",
+        "reason": "アダムの進化は、遺伝子の多様性が生じた結果、新たな形質が顕著に現れたためです。水色の体は、環境への適応を示しています。",
+        "thought": "『誇り高く輝く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1767443593361
   }
 ]

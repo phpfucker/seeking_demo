@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"#FFC0CB\"/><circle cx=\"200\" cy=\"150\" r=\"70\" fill=\"#FF69B4\"/><circle cx=\"140\" cy=\"200\" r=\"30\" fill=\"#FFB6C1\"/><circle cx=\"260\" cy=\"200\" r=\"30\" fill=\"#FFB6C1\"/><circle cx=\"170\" cy=\"150\" r=\"10\" fill=\"#000\"/><circle cx=\"230\" cy=\"150\" r=\"10\" fill=\"#000\"/><path d=\"M150 250 Q200 300 250 250\" fill=\"none\" stroke=\"#000\" stroke-width=\"5\"/><path d=\"M175 225 Q200 200 225 225\" fill=\"none\" stroke=\"#000\" stroke-width=\"5\"/><rect x=\"175\" y=\"275\" width=\"50\" height=\"15\" fill=\"#000\"/><rect x=\"175\" y=\"300\" width=\"10\" height=\"5\" fill=\"#FFB6C1\"/><rect x=\"215\" y=\"300\" width=\"10\" height=\"5\" fill=\"#FFB6C1\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255, 193, 7);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(238, 130, 238);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradA)' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='url(#gradA)' /><path d='M150 250 L200 350 L250 250 Z' fill='rgb(238, 130, 238)' /><circle cx='160' cy='150' r='8' fill='black' /><circle cx='240' cy='150' r='8' fill='black' /><polygon points='180,200 220,200 200,230' fill='rgb(238, 130, 238)' /><path d='M180 300 Q200 330 220 300' fill='none' stroke='black' /><path d='M190 160 Q180 140 200 160 Q220 140 210 160' fill='none' stroke='black' /><line x1='170' y1='270' x2='150' y2='310' stroke='black' stroke-width='2' /><line x1='230' y1='270' x2='250' y2='310' stroke='black' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "イヴはピンク色の体に、大きな桃色の頭と二つの小さな桃色の耳を持つ女性の生命体です。体の中央にある大きなピンクの円形の模様と、背中に小さな桃色の丸いモザイク模様が特徴です。",
-      "reason": "イヴの進化は、環境の中での生存競争において、より効果的な警戒色や仲間識別のための模様が発達した結果です。",
-      "thought": "『謎めいた魅力を持つ』"
+      "appearance": "イヴは、流れるような紫色の体と大きな黄色い目を持つ女性型の生命体です。体の中心には明るいピンク色の三角形の模様があり、しなやかな角が二本生えています。手足は紫とピンクのグラデーションで彩られ、足先には小さな黒い爪があります。",
+      "reason": "イヴは自然の力を象徴し、力強さと優雅さを兼ね備えた進化を遂げました。",
+      "thought": "『自然と共に在り』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"#ADD8E6\"/><circle cx=\"200\" cy=\"150\" r=\"70\" fill=\"#87CEEB\"/><ellipse cx=\"160\" cy=\"200\" rx=\"30\" ry=\"20\" fill=\"#B0C4DE\"/><ellipse cx=\"240\" cy=\"200\" rx=\"30\" ry=\"20\" fill=\"#B0C4DE\"/><line x1=\"200\" y1=\"220\" x2=\"200\" y2=\"300\" stroke=\"#000\" stroke-width=\"8\"/><line x1=\"200\" y1=\"300\" x2=\"175\" y2=\"325\" stroke=\"#000\" stroke-width=\"8\"/><line x1=\"200\" y1=\"300\" x2=\"225\" y2=\"325\" stroke=\"#000\" stroke-width=\"8\"/><polygon points=\"190,160 210,160 200,170\" fill=\"#000\"/><polygon points=\"190,150 210,150 200,140\" fill=\"#FFD700\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(0, 191, 255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255, 99, 71);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradB)' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='url(#gradB)' /><path d='M150 250 L200 350 L250 250 Z' fill='rgb(255, 99, 71)' /><circle cx='160' cy='150' r='8' fill='black' /><circle cx='240' cy='150' r='8' fill='black' /><polygon points='180,200 220,200 200,230' fill='rgb(255, 99, 71)' /><path d='M180 300 Q200 330 220 300' fill='none' stroke='black' /><path d='M190 160 Q180 140 200 160 Q220 140 210 160' fill='none' stroke='black' /><line x1='170' y1='270' x2='150' y2='310' stroke='black' stroke-width='2' /><line x1='230' y1='270' x2='250' y2='310' stroke='black' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "アダムは水色の体に、大きな青色の頭と二つの青色の角を持つ男性の生命体です。体の中央にある大きな水色の円形の模様と、背中に小さな黄色の三角形の模様が特徴です。",
-      "reason": "アダムの進化は、遺伝子の多様性が生じた結果、新たな形質が顕著に現れたためです。水色の体は、環境への適応を示しています。",
-      "thought": "『誇り高く輝く』"
+      "appearance": "アダムは、青とオレンジのグラデーションがかかった体と大きな赤い目を持つ男性型の生命体です。体には橙色の三角形の模様があり、頭には太い一本角が生えています。手足は青とオレンジの色合いで構成され、足先には小さな黒い爪があります。",
+      "reason": "アダムは知識と勇気を象徴し、知恵と力強さを備えた進化を遂げました。",
+      "thought": "『知恵と勇気を持つ』"
     },
     "name": "アダム",
     "gender": "男性"
