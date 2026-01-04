@@ -21855,5 +21855,28 @@
       "gender": "男性"
     },
     "timestamp": 1767508007905
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='none'><circle cx='200' cy='200' r='150' fill='#FFC0CB' /><ellipse cx='175' cy='150' rx='40' ry='25' fill='#FFA07A' /><ellipse cx='225' cy='150' rx='40' ry='25' fill='#FFA07A' /><path d='M180 240C200 290 300 290 320 240' stroke='#000' stroke-width='2' /><path d='M220 240C240 290 260 290 280 240' stroke='#000' stroke-width='2' /><rect x='180' y='300' width='40' height='50' fill='#FFA07A' /><rect x='220' y='300' width='40' height='50' fill='#FFA07A' /><path d='M150 150C120 120 100 250 150 300' stroke='#000' stroke-width='2' /><path d='M250 150C280 120 300 250 250 300' stroke='#000' stroke-width='2' /><circle cx='170' cy='170' r='5' fill='#000' /><circle cx='230' cy='170' r='5' fill='#000' /><circle cx='190' cy='180' r='2' fill='#000' /><circle cx='210' cy='180' r='2' fill='#000' /><text x='200' y='360' font-size='20' text-anchor='middle' fill='#000'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体にオレンジ色の髪を持つ女性。顔には柔らかな表情があり、四肢は人間のような形状をしている。背中には2本の尻尾が生えており、優美な角が生えている。",
+        "reason": "イヴは新たなる生命を育むために、より優しさと知恵を持つ進化を遂げた。",
+        "thought": "『愛と知恵の調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='none'><circle cx='200' cy='200' r='150' fill='#4682B4' /><ellipse cx='180' cy='150' rx='30' ry='20' fill='#8B4513' /><ellipse cx='220' cy='150' rx='30' ry='20' fill='#8B4513' /><path d='M180 240C200 290 300 290 320 240' stroke='#000' stroke-width='2' /><path d='M220 240C240 290 260 290 280 240' stroke='#000' stroke-width='2' /><rect x='180' y='300' width='40' height='50' fill='#8B4513' /><rect x='220' y='300' width='40' height='50' fill='#8B4513' /><polygon points='180,150 170,170 190,170' fill='#000' /><polygon points='220,150 210,170 230,170' fill='#000' /><circle cx='180' cy='170' r='5' fill='#000' /><circle cx='220' cy='170' r='5' fill='#000' /><text x='200' y='360' font-size='20' text-anchor='middle' fill='#000'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青色の体に茶色の髪を持つ男性。顔つきは力強く、四肢は筋肉質な形状をしている。背中には2つの羽が生えており、凛々しい角が生えている。",
+        "reason": "アダムは新たなる生命を守るために、より強さと勇気を持つ進化を果たした。",
+        "thought": "『力と勇気の誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1767530042342
   }
 ]
