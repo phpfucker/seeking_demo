@@ -21832,5 +21832,28 @@
       "gender": "男性"
     },
     "timestamp": 1767490787126
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,255,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,192,203);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='140' cy='190' rx='20' ry='30' fill='rgb(255,192,203)' /><ellipse cx='260' cy='190' rx='20' ry='30' fill='rgb(255,192,203)' /><path d='M200 220 Q180 250 200 280 Q220 250 200 220' fill='rgb(255,192,203)' /><ellipse cx='180' cy='140' rx='10' ry='20' fill='rgb(255,255,255)' /><ellipse cx='220' cy='140' rx='10' ry='20' fill='rgb(255,255,255)' /><ellipse cx='170' cy='180' rx='5' ry='10' fill='rgb(0,0,0)' /><ellipse cx='230' cy='180' rx='5' ry='10' fill='rgb(0,0,0)' /><polygon points='190,250 210,250 200,260' fill='rgb(0,0,0)' /><circle cx='170' cy='210' r='5' fill='rgb(0,0,0)' /><circle cx='230' cy='210' r='5' fill='rgb(0,0,0)' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと白のグラデーションを持つ美しい女性。頭部には明るいピンク色の角があり、柔らかなピンク色の体には優雅な模様が施されています。四肢は複雑な曲線を持ち、優しい表情を浮かべています。",
+        "reason": "生命体が新たな進化を遂げ、花のような美しさと優雅さを身につけた。",
+        "thought": "『美しさは内なる喜びの表れ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(0,191,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(100,149,237);stop-opacity:1' /></linearGradient></defs><rect x='120' y='150' width='160' height='200' fill='url(#gradB)' /><polygon points='200,100 140,150 200,200 260,150' fill='rgb(0,191,255)' /><path d='M200 220 Q180 250 200 280 Q220 250 200 220' fill='rgb(100,149,237)' /><circle cx='180' cy='120' r='10' fill='rgb(255,255,255)' /><circle cx='220' cy='120' r='10' fill='rgb(255,255,255)' /><circle cx='170' cy='160' r='5' fill='rgb(0,0,0)' /><circle cx='230' cy='160' r='5' fill='rgb(0,0,0)' /><polygon points='190,250 210,250 200,260' fill='rgb(0,0,0)' /><ellipse cx='180' cy='210' rx='5' ry='10' fill='rgb(0,0,0)' /><ellipse cx='220' cy='210' rx='5' ry='10' fill='rgb(0,0,0)' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と紫のグラデーションを持つ男性。頑丈な青色の体には紫色の模様が入り、力強い足と腕を備えています。頭部には角があり、知的な眼差しを放っています。",
+        "reason": "生命体が進化し、知性と力強さを兼ね備えた外見となった。",
+        "thought": "『知性と力、調和の中に真の強さがある』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1767508007905
   }
 ]
