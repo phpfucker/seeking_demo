@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightpink'/><ellipse cx='200' cy='190' rx='120' ry='70' fill='pink'/><circle cx='150' cy='170' r='15' fill='black'/><circle cx='250' cy='170' r='15' fill='black'/><path d='M160 250 Q200 290 240 250 Q200 220 160 250' fill='pink'/><path d='M140 220 Q120 250 140 280 Q160 270 140 220' fill='pink'/><path d='M260 220 Q280 250 260 280 Q240 270 260 220' fill='pink'/><path d='M220 300 Q200 330 180 300 Q200 320 220 300' fill='pink'/><path d='M180 300 Q200 330 220 300 Q200 320 180 300' fill='pink'/><path d='M180 300 Q200 320 220 300 Q200 330 180 300' fill='pink'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
     "report": {
-      "appearance": "イヴはピンク色の柔らかな外見を持ち、大きな目と柔らかい曲線の体が特徴。手足は円滑であり、美しい模様が全身に散らばっています。",
-      "reason": "生態系の変化により、環境に馴染むために色彩と柔らかな特徴が進化した。",
-      "thought": "『優しさが力』"
+      "appearance": "イヴは、進化により透明な翼を持ち、輝く鱗で覆われた美しい女性。頭には角があり、流れるような長いしっぽが尾を引く。四肢には細い模様が入り、全体は神秘的で優雅な輝きを放つ。",
+      "reason": "環境の変化により、イヴは空を自在に舞える能力を求め、透明な翼と輝く鱗を獲得した。",
+      "thought": "『自由の美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='130' y='180' width='140' height='180' fill='lightblue'/><rect x='150' y='170' width='20' height='20' fill='black'/><rect x='230' y='170' width='20' height='20' fill='black'/><polygon points='200,140 185,160 215,160' fill='lightblue'/><polygon points='140,260 120,290 160,290' fill='lightblue'/><polygon points='260,260 240,290 280,290' fill='lightblue'/><polygon points='200,360 180,390 220,390' fill='lightblue'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
     "report": {
-      "appearance": "アダムは青色の堅い外見をしており、角ばった形状や直線的な特徴が目立つ。全体的にシンプルで力強い姿となっている。",
-      "reason": "環境の厳しさに対応するため、堅固でシンプルな外観が進化し、生存に適応した。",
-      "thought": "『力強く生き抜く』"
+      "appearance": "アダムは、進化により岩のような硬い皮膚と剛毛で覆われ、大きな角を持つ男性。胸には炎の模様が浮かび、四肢は力強く筋肉質。凛々しい姿勢を保ち、威厳を放つ。",
+      "reason": "生存競争からくる必要性により、アダムは防御力を高めるために硬い皮膚と剛毛を身につけ、威嚇と攻撃のために大きな角を発達させた。",
+      "thought": "『不屈の意志』"
     },
     "name": "アダム",
     "gender": "男性"
