@@ -21809,5 +21809,28 @@
       "gender": "男性"
     },
     "timestamp": 1767464628337
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#FFD700' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#FFD700' /><ellipse cx='160' cy='130' rx='20' ry='15' fill='#FF6347' /><ellipse cx='240' cy='130' rx='20' ry='15' fill='#FF6347' /><path d='M180,200 Q200,220 220,200 Q200,180 180,200' fill='none' stroke='#000' stroke-width='2' /><polygon points='190,170 195,165 200,170' fill='#000' /><polygon points='210,170 215,165 220,170' fill='#000' /><line x1='180' y1='240' x2='160' y2='280' stroke='#000' stroke-width='2' /><line x1='220' y1='240' x2='240' y2='280' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、金色の輝く体と赤い目を持つ女性です。顔には丸い赤い頬と華やかな金色の髪があります。四肢はしなやかで、尾と角が特徴的です。",
+        "reason": "イヴは内面の美しさと外見の輝きを組み合わせることで、進化しました。",
+        "thought": "『光に包まれた心の美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#4682B4' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#4682B4' /><ellipse cx='160' cy='130' rx='20' ry='15' fill='#8B4513' /><ellipse cx='240' cy='130' rx='20' ry='15' fill='#8B4513' /><path d='M180,200 Q200,220 220,200 Q200,180 180,200' fill='none' stroke='#000' stroke-width='2' /><polygon points='190,170 195,165 200,170' fill='#000' /><polygon points='210,170 215,165 220,170' fill='#000' /><line x1='180' y1='240' x2='160' y2='280' stroke='#000' stroke-width='2' /><line x1='220' y1='240' x2='240' y2='280' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青銅色の体と茶色の目を持つ男性です。顔には丸い茶色の頬と逞しい青銅色の髪があります。四肢はたくましく、尾と角が特徴的です。",
+        "reason": "アダムは力強さと知性を融合させることで、進化しました。",
+        "thought": "『知恵と力、両方を持つ者』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1767490787126
   }
 ]
