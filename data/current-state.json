@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb' /><circle cx='200' cy='180' r='60' fill='#ffd700' /><ellipse cx='160' cy='180' rx='20' ry='35' fill='#ff9999' /><ellipse cx='240' cy='180' rx='20' ry='35' fill='#ff9999' /><path d='M180 220 Q200 240 220 220' fill='none' stroke='#000' stroke-width='2' /><path d='M160 220 Q200 250 240 220' fill='none' stroke='#000' stroke-width='2' /><path d='M180 220 Q190 200 200 220 Q210 200 220 220' fill='none' stroke='#000' stroke-width='2' /><polygon points='180,180 190,160 200,170' fill='#ffb6c1' /><polygon points='220,180 230,160 240,170' fill='#ffb6c1' /><rect x='180' y='260' width='40' height='20' fill='#ffd700' /><rect x='180' y='280' width='10' height='40' fill='#ffcccb' /><rect x='210' y='280' width='10' height='40' fill='#ffcccb' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='rgb(238, 207, 172)' /><ellipse cx='200' cy='180' rx='120' ry='150' fill='rgb(254, 218, 185)' /><path d='M120,230 Q200,300 280,230' fill='none' stroke='rgb(0, 0, 0)' stroke-width='2' /><path d='M150,190 Q130,170 140,150' fill='none' stroke='rgb(0, 0, 0)' stroke-width='2' /><path d='M250,190 Q270,170 260,150' fill='none' stroke='rgb(0, 0, 0)' stroke-width='2' /><ellipse cx='160' cy='170' rx='20' ry='15' fill='rgb(255, 255, 255)' /><ellipse cx='240' cy='170' rx='20' ry='15' fill='rgb(255, 255, 255)' /><circle cx='170' cy='165' r='5' fill='rgb(0, 0, 0)' /><circle cx='230' cy='165' r='5' fill='rgb(0, 0, 0)' /><ellipse cx='200' cy='230' rx='60' ry='20' fill='rgb(238, 207, 172)' /><path d='M190,250 Q200,260 210,250' fill='none' stroke='rgb(0, 0, 0)' stroke-width='2' /><path d='M175,230 Q200,260 225,230' fill='none' stroke='rgb(0, 0, 0)' stroke-width='2' /><polygon points='190,230 200,220 210,230' fill='rgb(0, 0, 0)' /><path d='M180,250 Q200,270 220,250' fill='none' stroke='rgb(0, 0, 0)' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンクとゴールドの色合いの体に、赤い髪と大きな瞳を持つ女性の姿をしています。頭部には二本の小さな角があり、背中には金色の蝶の模様が描かれています。手足は太めで丸みを帯び、しっぽはなめらかな曲線を描いています。",
-      "reason": "生態系の変化により、イヴは花や蝶などの自然の要素から影響を受け、美しさと繊細さを取り入れた進化を遂げました。",
-      "thought": "『自然の美しさを守りたい』"
+      "appearance": "イヴは、長い流れる髪と柔らかい特徴を持つ女性。肌は淡いピンク色で、優雅さと力強さを併せ持つ。目には知恵と優しさが宿っている。",
+      "reason": "イヴは新たな力を手に入れるため、進化し、より知性と美しさを備えた姿に変化した。",
+      "thought": "『知恵と愛が未来を紡ぐ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='100' width='160' height='200' fill='#6495ed' /><circle cx='200' cy='180' r='60' fill='#ffd700' /><ellipse cx='160' cy='180' rx='20' ry='35' fill='#b0c4de' /><ellipse cx='240' cy='180' rx='20' ry='35' fill='#b0c4de' /><path d='M180 220 Q200 240 220 220' fill='none' stroke='#000' stroke-width='2' /><path d='M160 220 Q200 250 240 220' fill='none' stroke='#000' stroke-width='2' /><path d='M180 220 Q190 200 200 220 Q210 200 220 220' fill='none' stroke='#000' stroke-width='2' /><rect x='180' y='260' width='40' height='20' fill='#ffd700' /><rect x='180' y='280' width='10' height='40' fill='#6495ed' /><rect x='210' y='280' width='10' height='40' fill='#6495ed' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='200' fill='rgb(125, 205, 230)' /><polygon points='200,150 250,50 300,150' fill='rgb(125, 205, 230)' /><ellipse cx='200' cy='220' rx='50' ry='30' fill='rgb(125, 205, 230)' /><path d='M180,160 Q200,120 220,160' fill='none' stroke='rgb(0, 0, 0)' stroke-width='2' /><path d='M180,190 Q200,230 220,190' fill='none' stroke='rgb(0, 0, 0)' stroke-width='2' /><circle cx='190' cy='210' r='8' fill='rgb(0, 0, 0)' /><circle cx='210' cy='210' r='8' fill='rgb(0, 0, 0)' /><rect x='170' y='250' width='60' height='50' fill='rgb(125, 205, 230)' /><rect x='195' y='240' width='10' height='20' fill='rgb(255, 255, 255)' /><polygon points='180,250 200,280 220,250' fill='rgb(0, 0, 0)' /><path d='M175,240 Q200,260 225,240' fill='none' stroke='rgb(0, 0, 0)' stroke-width='2' /><path d='M190,250 Q200,260 210,250' fill='none' stroke='rgb(0, 0, 0)' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "アダムは、青とゴールドの体色に、青い瞳を持つ男性の姿をしています。二本の角が頭部に生え、背中には青い鱗の模様があります。手足は頑丈で筋肉質、しっぽは太くて力強い曲線を描いています。",
-      "reason": "環境の厳しさに対処するため、アダムは海や魚類からインスピレーションを受け、力強さと青色の要素を取り入れた進化を遂げました。",
-      "thought": "『強さと知恵を併せ持ち、未来に向かって進む』"
+      "appearance": "アダムは力強くたくましい体躯を持つ男性。青い皮膚と尖った角、大きな手足が特徴で、威厳と勇敢さを感じさせる。",
+      "reason": "アダムは強靭な姿に進化し、生存能力と支配力を高めたため、より力強い容姿となった。",
+      "thought": "『未来への挑戦』"
     },
     "name": "アダム",
     "gender": "男性"

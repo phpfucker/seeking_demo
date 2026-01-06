@@ -21993,5 +21993,28 @@
       "gender": "男性"
     },
     "timestamp": 1767637689530
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb' /><circle cx='200' cy='180' r='60' fill='#ffd700' /><ellipse cx='160' cy='180' rx='20' ry='35' fill='#ff9999' /><ellipse cx='240' cy='180' rx='20' ry='35' fill='#ff9999' /><path d='M180 220 Q200 240 220 220' fill='none' stroke='#000' stroke-width='2' /><path d='M160 220 Q200 250 240 220' fill='none' stroke='#000' stroke-width='2' /><path d='M180 220 Q190 200 200 220 Q210 200 220 220' fill='none' stroke='#000' stroke-width='2' /><polygon points='180,180 190,160 200,170' fill='#ffb6c1' /><polygon points='220,180 230,160 240,170' fill='#ffb6c1' /><rect x='180' y='260' width='40' height='20' fill='#ffd700' /><rect x='180' y='280' width='10' height='40' fill='#ffcccb' /><rect x='210' y='280' width='10' height='40' fill='#ffcccb' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとゴールドの色合いの体に、赤い髪と大きな瞳を持つ女性の姿をしています。頭部には二本の小さな角があり、背中には金色の蝶の模様が描かれています。手足は太めで丸みを帯び、しっぽはなめらかな曲線を描いています。",
+        "reason": "生態系の変化により、イヴは花や蝶などの自然の要素から影響を受け、美しさと繊細さを取り入れた進化を遂げました。",
+        "thought": "『自然の美しさを守りたい』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='100' width='160' height='200' fill='#6495ed' /><circle cx='200' cy='180' r='60' fill='#ffd700' /><ellipse cx='160' cy='180' rx='20' ry='35' fill='#b0c4de' /><ellipse cx='240' cy='180' rx='20' ry='35' fill='#b0c4de' /><path d='M180 220 Q200 240 220 220' fill='none' stroke='#000' stroke-width='2' /><path d='M160 220 Q200 250 240 220' fill='none' stroke='#000' stroke-width='2' /><path d='M180 220 Q190 200 200 220 Q210 200 220 220' fill='none' stroke='#000' stroke-width='2' /><rect x='180' y='260' width='40' height='20' fill='#ffd700' /><rect x='180' y='280' width='10' height='40' fill='#6495ed' /><rect x='210' y='280' width='10' height='40' fill='#6495ed' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青とゴールドの体色に、青い瞳を持つ男性の姿をしています。二本の角が頭部に生え、背中には青い鱗の模様があります。手足は頑丈で筋肉質、しっぽは太くて力強い曲線を描いています。",
+        "reason": "環境の厳しさに対処するため、アダムは海や魚類からインスピレーションを受け、力強さと青色の要素を取り入れた進化を遂げました。",
+        "thought": "『強さと知恵を併せ持ち、未来に向かって進む』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1767662572565
   }
 ]
