@@ -22062,5 +22062,28 @@
       "gender": "男性"
     },
     "timestamp": 1767703076407
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='200' width='200' height='150' fill='#ff99cc' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#ff66cc' /><circle cx='150' cy='150' r='10' fill='#fff' /><circle cx='250' cy='150' r='10' fill='#fff' /><path d='M150 250 C 150 300, 250 300, 250 250' fill='none' stroke='#ff99cc' stroke-width='5' /><polygon points='190,240 210,240 200,225' fill='#ff66cc' /><line x1='190' y1='250' x2='210' y2='250' stroke='#ff66cc' stroke-width='3' /><line x1='170' y1='230' x2='190' y2='240' stroke='#ff66cc' stroke-width='3' /><line x1='230' y1='230' x2='210' y2='240' stroke='#ff66cc' stroke-width='3' /><circle cx='180' cy='170' r='5' fill='#000' /><circle cx='220' cy='170' r='5' fill='#000' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかい毛皮に覆われ、大きな赤い目を持つ女性の姿をしています。体の下部には白いふわふわの尾があり、やさしい表情をしています。",
+        "reason": "新たな進化が起こり、イヴは環境により適応するために、毛皮の柔らかさと色調が変化しました。",
+        "thought": "『自然と調和し、優しさを宿す』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='200' width='200' height='150' fill='#66ccff' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#3399ff' /><circle cx='150' cy='150' r='10' fill='#fff' /><circle cx='250' cy='150' r='10' fill='#fff' /><path d='M150 250 C 150 300, 250 300, 250 250' fill='none' stroke='#66ccff' stroke-width='5' /><polygon points='190,240 210,240 200,225' fill='#3399ff' /><line x1='190' y1='250' x2='210' y2='250' stroke='#3399ff' stroke-width='3' /><line x1='170' y1='230' x2='190' y2='240' stroke='#3399ff' stroke-width='3' /><line x1='230' y1='230' x2='210' y2='240' stroke='#3399ff' stroke-width='3' /><circle cx='180' cy='170' r='5' fill='#000' /><circle cx='220' cy='170' r='5' fill='#000' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体毛と深い青の目を持つ男性の姿をしています。体の下部には短い青い尾があり、力強い表情をしています。",
+        "reason": "進化のプロセスにより、アダムはより強靭な体毛と色調を獲得し、環境への適応性が向上しました。",
+        "thought": "『力強さと知恵を持ち、未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1767723991209
   }
 ]
