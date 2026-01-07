@@ -22085,5 +22085,28 @@
       "gender": "男性"
     },
     "timestamp": 1767723991209
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><path d='M200 150 L175 200 L225 200 Z' fill='#ff99ff' /><path d='M200 150 Q190 120 180 150' fill='none' stroke='#ff99ff' stroke-width='2' /><ellipse cx='150' cy='180' rx='10' ry='20' fill='#ff99ff' /><ellipse cx='250' cy='180' rx='10' ry='20' fill='#ff99ff' /><path d='M175 220 Q200 240 225 220' fill='none' stroke='#ff99ff' stroke-width='2' /><line x1='180' y1='280' x2='220' y2='280' stroke='#ff99ff' stroke-width='5' /><polygon points='190,300 210,300 200,320' fill='#ff99ff' /><rect x='170' y='280' width='60' height='20' fill='#ffccff' /></svg>",
+      "report": {
+        "appearance": "「イヴ」は、胴体をピンク色の円で表現し、頭部には薄紫色の三角形の耳と大きな目を持つ。腕と脚は薄紫色の細長い楕円形で描かれ、手足の先には小さな薄紫色の円がある。緑色のしっぽが背中から伸び、胸の上には薄紫色の楕円形の模様がある。",
+        "reason": "環境の変化により、イヴの色彩がより柔らかく洗練されたものに進化した。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='175' y='175' width='50' height='100' fill='#6699ff' /><path d='M200 150 L175 200 L225 200 Z' fill='#3366cc' /><path d='M200 150 Q210 120 220 150' fill='none' stroke='#3366cc' stroke-width='2' /><ellipse cx='180' cy='180' rx='10' ry='20' fill='#3366cc' /><ellipse cx='220' cy='180' rx='10' ry='20' fill='#3366cc' /><path d='M175 220 Q200 240 225 220' fill='none' stroke='#3366cc' stroke-width='2' /><line x1='180' y1='280' x2='220' y2='280' stroke='#3366cc' stroke-width='5' /><polygon points='190,300 210,300 200,320' fill='#3366cc' /><rect x='170' y='280' width='60' height='20' fill='#6699ff' /></svg>",
+      "report": {
+        "appearance": "「アダム」は、青色の四角形で胴体を表現し、頭部には濃い青色の三角形の耳と目を持つ。腕と脚は濃い青色の楕円形で描かれ、手足の先には小さな濃い青色の円がある。青色のしっぽが背中から伸び、胸の上には濃い青色の楕円形の模様がある。",
+        "reason": "アダムは、食物連鎖の変化に適応するため、より力強く見えるような青色の体に進化した。",
+        "thought": "『勇気と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1767748974387
   }
 ]

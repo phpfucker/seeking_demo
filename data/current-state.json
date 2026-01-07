@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><path d='M200 150 L175 200 L225 200 Z' fill='#ff99ff' /><path d='M200 150 Q190 120 180 150' fill='none' stroke='#ff99ff' stroke-width='2' /><ellipse cx='150' cy='180' rx='10' ry='20' fill='#ff99ff' /><ellipse cx='250' cy='180' rx='10' ry='20' fill='#ff99ff' /><path d='M175 220 Q200 240 225 220' fill='none' stroke='#ff99ff' stroke-width='2' /><line x1='180' y1='280' x2='220' y2='280' stroke='#ff99ff' stroke-width='5' /><polygon points='190,300 210,300 200,320' fill='#ff99ff' /><rect x='170' y='280' width='60' height='20' fill='#ffccff' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><circle cx='200' cy='200' r='150' fill='#ffcc66' /><ellipse cx='200' cy='250' rx='100' ry='50' fill='#ffcc66' /><rect x='150' y='160' width='100' height='30' fill='#993333' /><polygon points='180,230 220,230 200,270' fill='#993333' /><path d='M190 185 Q200 150 210 185 Z' fill='#ff6666' /><path d='M190 185 Q200 220 210 185 Z' fill='#ff6666' /><circle cx='180' cy='150' r='10' fill='#000' /><circle cx='220' cy='150' r='10' fill='#000' /><circle cx='190' cy='145' r='5' fill='#fff' /><circle cx='210' cy='145' r='5' fill='#fff' /><ellipse cx='160' cy='280' rx='15' ry='8' fill='#ffcc66' /><ellipse cx='240' cy='280' rx='15' ry='8' fill='#ffcc66' /><rect x='170' y='280' width='60' height='40' fill='#ffcc66' /><rect x='195' y='320' width='10' height='20' fill='#993333' /><rect x='195' y='330' width='10' height='5' fill='#000' /><polygon points='180,300 170,320 190,320' fill='#000' /><polygon points='220,300 230,320 210,320' fill='#000' /><rect x='175' y='350' width='50' height='10' fill='#993333' /></g></svg>",
     "report": {
-      "appearance": "「イヴ」は、胴体をピンク色の円で表現し、頭部には薄紫色の三角形の耳と大きな目を持つ。腕と脚は薄紫色の細長い楕円形で描かれ、手足の先には小さな薄紫色の円がある。緑色のしっぽが背中から伸び、胸の上には薄紫色の楕円形の模様がある。",
-      "reason": "環境の変化により、イヴの色彩がより柔らかく洗練されたものに進化した。",
-      "thought": "『愛と平和』"
+      "appearance": "イヴは、全身を覆う金色の美しい鱗に包まれた女性の姿を持ち、獅子のような鬣が首元に垂れています。腕と脚には赤い炎の模様があり、尾には炎を表す赤いリボンがついています。",
+      "reason": "イヴの進化は、自然界の中で光と炎の力を司る存在への適応と進化によるものです。",
+      "thought": "『煌めく炎の中に新たな命を見る』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='175' y='175' width='50' height='100' fill='#6699ff' /><path d='M200 150 L175 200 L225 200 Z' fill='#3366cc' /><path d='M200 150 Q210 120 220 150' fill='none' stroke='#3366cc' stroke-width='2' /><ellipse cx='180' cy='180' rx='10' ry='20' fill='#3366cc' /><ellipse cx='220' cy='180' rx='10' ry='20' fill='#3366cc' /><path d='M175 220 Q200 240 225 220' fill='none' stroke='#3366cc' stroke-width='2' /><line x1='180' y1='280' x2='220' y2='280' stroke='#3366cc' stroke-width='5' /><polygon points='190,300 210,300 200,320' fill='#3366cc' /><rect x='170' y='280' width='60' height='20' fill='#6699ff' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><ellipse cx='200' cy='200' rx='130' ry='180' fill='#3366ff' /><ellipse cx='200' cy='130' rx='80' ry='50' fill='#3366ff' /><rect x='180' y='170' width='40' height='20' fill='#000' /><rect x='180' y='170' width='5' height='50' fill='#3366ff' /><rect x='215' y='170' width='5' height='50' fill='#3366ff' /><rect x='185' y='220' width='10' height='30' fill='#000' /><rect x='205' y='220' width='10' height='30' fill='#000' /><polygon points='200,200 220,210 220,190' fill='#000' /><circle cx='200' cy='240' r='5' fill='#000' /><rect x='190' y='260' width='20' height='10' fill='#3366ff' /><rect x='190' y='270' width='20' height='5' fill='#000' /><polygon points='180,280 200,270 220,280' fill='#3366ff' /><polygon points='180,320 200,330 220,320' fill='#3366ff' /></g></svg>",
     "report": {
-      "appearance": "「アダム」は、青色の四角形で胴体を表現し、頭部には濃い青色の三角形の耳と目を持つ。腕と脚は濃い青色の楕円形で描かれ、手足の先には小さな濃い青色の円がある。青色のしっぽが背中から伸び、胸の上には濃い青色の楕円形の模様がある。",
-      "reason": "アダムは、食物連鎖の変化に適応するため、より力強く見えるような青色の体に進化した。",
-      "thought": "『勇気と力』"
+      "appearance": "アダムは、青い透き通るような体と光を反射する羽のような尻尾を持つ男性の姿をしています。頭部には角のような突起があり、背中には水面を波立てるような模様が広がっています。",
+      "reason": "アダムの進化は、水中での生存と力強い波の力を表現した進化です。",
+      "thought": "『青い波の中で新たな未来を見つめる』"
     },
     "name": "アダム",
     "gender": "男性"
