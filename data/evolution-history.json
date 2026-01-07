@@ -22154,5 +22154,28 @@
       "gender": "男性"
     },
     "timestamp": 1767789523404
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ffccff' /><ellipse cx='200' cy='120' rx='60' ry='80' fill='#ff99cc' /><polygon points='200,120 190,140 210,140' fill='#ff66a3' /><ellipse cx='170' cy='120' rx='10' ry='5' fill='#000' /><ellipse cx='230' cy='120' rx='10' ry='5' fill='#000' /><ellipse cx='175' cy='240' rx='30' ry='10' fill='#ff99cc' /><ellipse cx='225' cy='240' rx='30' ry='10' fill='#ff99cc' /><ellipse cx='150' cy='150' rx='10' ry='20' fill='#fff' /><ellipse cx='250' cy='150' rx='10' ry='20' fill='#fff' /><ellipse cx='200' cy='250' rx='70' ry='30' fill='#ffccff' /><path d='M150,350 Q200,400 250,350' fill='none' stroke='#ff66a3' stroke-width='5' /><path d='M180,360 Q200,380 220,360' fill='none' stroke='#ff66a3' stroke-width='3' /><path d='M160,150 Q180,130 200,150' fill='none' stroke='#000' stroke-width='3' /><path d='M200,150 Q220,130 240,150' fill='none' stroke='#000' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に大きな赤い目を持ち、短い角と尾を持つ女性の生命体です。体の中央には淡いピンクのお腹があり、全体的に柔らかな印象を与えます。",
+        "reason": "新たな進化は、生態系の変化によりイヴがより柔らかく優しい性質を身につける必要があったためです。",
+        "thought": "『優しさが未来を育む』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#99ccff' /><ellipse cx='200' cy='120' rx='60' ry='80' fill='#66a3ff' /><polygon points='200,120 190,140 210,140' fill='#3385ff' /><ellipse cx='170' cy='120' rx='10' ry='5' fill='#000' /><ellipse cx='230' cy='120' rx='10' ry='5' fill='#000' /><ellipse cx='175' cy='240' rx='30' ry='10' fill='#66a3ff' /><ellipse cx='225' cy='240' rx='30' ry='10' fill='#66a3ff' /><ellipse cx='150' cy='150' rx='10' ry='20' fill='#fff' /><ellipse cx='250' cy='150' rx='10' ry='20' fill='#fff' /><ellipse cx='200' cy='250' rx='70' ry='30' fill='#99ccff' /><path d='M150,350 Q200,400 250,350' fill='none' stroke='#3385ff' stroke-width='5' /><path d='M180,360 Q200,380 220,360' fill='none' stroke='#3385ff' stroke-width='3' /><path d='M160,150 Q180,130 200,150' fill='none' stroke='#000' stroke-width='3' /><path d='M200,150 Q220,130 240,150' fill='none' stroke='#000' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に大きな青い目を持ち、短い角と尾を持つ男性の生命体です。体の中央には薄い青色のお腹があり、全体的に力強い印象を与えます。",
+        "reason": "アダムの進化は、過酷な環境においてより強靭な性質を獲得する必要が生じたためです。",
+        "thought": "『強さは未来を守る』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1767810460887
   }
 ]
