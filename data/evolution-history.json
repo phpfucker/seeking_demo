@@ -22246,5 +22246,28 @@
       "gender": "男性"
     },
     "timestamp": 1767875918396
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#FFB6C1'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='#FFC0CB'/><path d='M150 250 L200 300 L250 250 Z' fill='#FF69B4'/><circle cx='160' cy='175' r='10' fill='#FFFFFF'/><circle cx='240' cy='175' r='10' fill='#FFFFFF'/><path d='M180 210 Q200 240 220 210' fill='none' stroke='#000000' stroke-width='2'/><path d='M150 200 Q200 100 250 200' fill='none' stroke='#000000' stroke-width='2'/><line x1='150' y1='300' x2='160' y2='280' stroke='#000000' stroke-width='2'/><line x1='250' y1='300' x2='240' y2='280' stroke='#000000' stroke-width='2'/><line x1='180' y1='300' x2='180' y2='330' stroke='#000000' stroke-width='2'/><line x1='220' y1='300' x2='220' y2='330' stroke='#000000' stroke-width='2'/><polygon points='190,240 210,240 200,260' fill='#FF1493'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に大きな赤い眼と白い光る点を持つ女性型生命体です。体は楕円形で、頭部に三角形の小さな耳があります。白い牙を持ち、薄いピンクの模様が体を覆っています。",
+        "reason": "環境の変化により、生命体の特異な目と模様が進化しました。",
+        "thought": "『愛と美の力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#4682B4'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='#87CEEB'/><path d='M150 250 L200 300 L250 250 Z' fill='#1E90FF'/><circle cx='160' cy='175' r='10' fill='#FFFFFF'/><circle cx='240' cy='175' r='10' fill='#FFFFFF'/><path d='M180 210 Q200 240 220 210' fill='none' stroke='#000000' stroke-width='2'/><path d='M150 200 Q200 100 250 200' fill='none' stroke='#000000' stroke-width='2'/><line x1='150' y1='300' x2='160' y2='280' stroke='#000000' stroke-width='2'/><line x1='250' y1='300' x2='240' y2='280' stroke='#000000' stroke-width='2'/><line x1='180' y1='300' x2='180' y2='330' stroke='#000000' stroke-width='2'/><line x1='220' y1='300' x2='220' y2='330' stroke='#000000' stroke-width='2'/><polygon points='190,240 210,240 200,260' fill='#4169E1'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に大きな青い眼と白い光る点を持つ男性型生命体です。体は楕円形で、頭部に三角形の小さな耳があります。白い牙を持ち、濃い青の模様が体を覆っています。",
+        "reason": "進化の過程で、生命体の目の色と模様が新たな外見を形成しました。",
+        "thought": "『知識と創造の力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1767896622020
   }
 ]
