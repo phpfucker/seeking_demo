@@ -22200,5 +22200,28 @@
       "gender": "男性"
     },
     "timestamp": 1767835415453
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffc0cb'/><ellipse cx='200' cy='180' rx='100' ry='130' fill='#ff69b4'/><rect x='160' y='250' width='80' height='50' fill='#ff69b4'/><path d='M180 330 L190 340 L210 340 L220 330 Z' fill='#800080'/><polygon points='160,180 200,140 240,180' fill='#800080'/><line x1='180' y1='180' x2='220' y2='180' stroke='#800080' stroke-width='5'/><line x1='190' y1='210' x2='210' y2='210' stroke='#800080' stroke-width='5'/><line x1='180' y1='260' x2='220' y2='260' stroke='#800080' stroke-width='5'/><line x1='200' y1='260' x2='200' y2='400' stroke='#800080' stroke-width='5'/></svg>",
+      "report": {
+        "appearance": "イヴは、薄いピンク色の身体に大きな赤い胴体を持ち、薄紫色の手足と尾を持つ女性型生命体です。体の一部には濃い紫色の模様があります。",
+        "reason": "生態系の変化により、イヴは新たな環境に適応するために身体の色と模様を変化させました。",
+        "thought": "『未来への希望』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='160' y='150' width='80' height='130' fill='#4682b4'/><rect x='140' y='280' width='120' height='20' fill='#4682b4'/><path d='M200 180 L160 220 L200 260 L240 220 Z' fill='#000080'/><polygon points='150,150 200,100 250,150' fill='#000080'/><line x1='160' y1='160' x2='240' y2='160' stroke='#000080' stroke-width='5'/><line x1='160' y1='190' x2='240' y2='190' stroke='#000080' stroke-width='5'/><line x1='160' y1='270' x2='240' y2='270' stroke='#000080' stroke-width='5'/><line x1='200' y1='280' x2='200' y2='400' stroke='#000080' stroke-width='5'/></svg>",
+      "report": {
+        "appearance": "アダムは、濃い青色の体と大きな灰色の胴体を持つ男性型生命体です。胴体には濃い青色の模様があり、青い手足と尾を持っています。",
+        "reason": "生態系の変化により、アダムは新しい環境への適応を図るために身体の構造と色を変えました。",
+        "thought": "『進化とは、未知への挑戦』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1767853766279
   }
 ]
