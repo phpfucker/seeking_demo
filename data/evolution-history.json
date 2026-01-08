@@ -22223,5 +22223,28 @@
       "gender": "男性"
     },
     "timestamp": 1767853766279
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='180' fill='url(#gradA)' /><ellipse cx='140' cy='150' rx='40' ry='60' fill='#ffc0cb' /><ellipse cx='260' cy='150' rx='40' ry='60' fill='#ffc0cb' /><path d='M180,250 Q200,300 220,250' fill='none' stroke='#000' stroke-width='2' /><path d='M180,250 Q200,290 220,250' fill='none' stroke='#000' stroke-width='2' /><path d='M170,130 Q180,110 190,130 Q200,150 210,130 Q220,110 230,130' fill='none' stroke='#000' stroke-width='2' /><path d='M160,160 Q180,170 200,160 Q220,170 240,160' fill='none' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと白のグラデーションが美しい女性型生命体です。背中に大きな羽を持ち、柔らかいピンク色の肌をしています。瞳は大きく輝き、優しさと知性を感じさせます。胸元には薔薇の花のモチーフが施されています。",
+        "reason": "新たな進化が起こり、イヴは美と優しさを象徴する姿へと進化しました。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(0,191,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><rect x='150' y='100' width='100' height='200' fill='url(#gradB)' /><circle cx='200' cy='100' r='50' fill='#4682b4' /><circle cx='200' cy='70' r='20' fill='#000' /><circle cx='170' cy='70' r='10' fill='#fff' /><circle cx='230' cy='70' r='10' fill='#fff' /><circle cx='180' cy='120' r='10' fill='#fff' /><circle cx='220' cy='120' r='10' fill='#fff' /><polygon points='180,180 200,220 220,180' fill='#fff' /><line x1='180' y1='220' x2='220' y2='220' stroke='#fff' stroke-width='5' /><line x1='180' y1='220' x2='200' y2='250' stroke='#fff' stroke-width='5' /><line x1='220' y1='220' x2='200' y2='250' stroke='#fff' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "アダムは、濃い青色の体と明るい青色の頭部を持つ男性型生命体です。頭部には鋭い目と威厳を感じさせる一本角があり、体には水の波紋模様が浮かんでいます。腕と足は頑丈で力強い印象を与えます。",
+        "reason": "アダムは新たな力強さと知性を備えた姿に進化しました。",
+        "thought": "『誇りと勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1767875918396
   }
 ]

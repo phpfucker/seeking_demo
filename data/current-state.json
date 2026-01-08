@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='180' fill='url(#gradA)' /><ellipse cx='140' cy='150' rx='40' ry='60' fill='#ffc0cb' /><ellipse cx='260' cy='150' rx='40' ry='60' fill='#ffc0cb' /><path d='M180,250 Q200,300 220,250' fill='none' stroke='#000' stroke-width='2' /><path d='M180,250 Q200,290 220,250' fill='none' stroke='#000' stroke-width='2' /><path d='M170,130 Q180,110 190,130 Q200,150 210,130 Q220,110 230,130' fill='none' stroke='#000' stroke-width='2' /><path d='M160,160 Q180,170 200,160 Q220,170 240,160' fill='none' stroke='#000' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#FFB6C1'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='#FFC0CB'/><path d='M150 250 L200 300 L250 250 Z' fill='#FF69B4'/><circle cx='160' cy='175' r='10' fill='#FFFFFF'/><circle cx='240' cy='175' r='10' fill='#FFFFFF'/><path d='M180 210 Q200 240 220 210' fill='none' stroke='#000000' stroke-width='2'/><path d='M150 200 Q200 100 250 200' fill='none' stroke='#000000' stroke-width='2'/><line x1='150' y1='300' x2='160' y2='280' stroke='#000000' stroke-width='2'/><line x1='250' y1='300' x2='240' y2='280' stroke='#000000' stroke-width='2'/><line x1='180' y1='300' x2='180' y2='330' stroke='#000000' stroke-width='2'/><line x1='220' y1='300' x2='220' y2='330' stroke='#000000' stroke-width='2'/><polygon points='190,240 210,240 200,260' fill='#FF1493'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンクと白のグラデーションが美しい女性型生命体です。背中に大きな羽を持ち、柔らかいピンク色の肌をしています。瞳は大きく輝き、優しさと知性を感じさせます。胸元には薔薇の花のモチーフが施されています。",
-      "reason": "新たな進化が起こり、イヴは美と優しさを象徴する姿へと進化しました。",
-      "thought": "『愛と平和』"
+      "appearance": "イヴは、ピンク色の体に大きな赤い眼と白い光る点を持つ女性型生命体です。体は楕円形で、頭部に三角形の小さな耳があります。白い牙を持ち、薄いピンクの模様が体を覆っています。",
+      "reason": "環境の変化により、生命体の特異な目と模様が進化しました。",
+      "thought": "『愛と美の力』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(0,191,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><rect x='150' y='100' width='100' height='200' fill='url(#gradB)' /><circle cx='200' cy='100' r='50' fill='#4682b4' /><circle cx='200' cy='70' r='20' fill='#000' /><circle cx='170' cy='70' r='10' fill='#fff' /><circle cx='230' cy='70' r='10' fill='#fff' /><circle cx='180' cy='120' r='10' fill='#fff' /><circle cx='220' cy='120' r='10' fill='#fff' /><polygon points='180,180 200,220 220,180' fill='#fff' /><line x1='180' y1='220' x2='220' y2='220' stroke='#fff' stroke-width='5' /><line x1='180' y1='220' x2='200' y2='250' stroke='#fff' stroke-width='5' /><line x1='220' y1='220' x2='200' y2='250' stroke='#fff' stroke-width='5' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#4682B4'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='#87CEEB'/><path d='M150 250 L200 300 L250 250 Z' fill='#1E90FF'/><circle cx='160' cy='175' r='10' fill='#FFFFFF'/><circle cx='240' cy='175' r='10' fill='#FFFFFF'/><path d='M180 210 Q200 240 220 210' fill='none' stroke='#000000' stroke-width='2'/><path d='M150 200 Q200 100 250 200' fill='none' stroke='#000000' stroke-width='2'/><line x1='150' y1='300' x2='160' y2='280' stroke='#000000' stroke-width='2'/><line x1='250' y1='300' x2='240' y2='280' stroke='#000000' stroke-width='2'/><line x1='180' y1='300' x2='180' y2='330' stroke='#000000' stroke-width='2'/><line x1='220' y1='300' x2='220' y2='330' stroke='#000000' stroke-width='2'/><polygon points='190,240 210,240 200,260' fill='#4169E1'/></svg>",
     "report": {
-      "appearance": "アダムは、濃い青色の体と明るい青色の頭部を持つ男性型生命体です。頭部には鋭い目と威厳を感じさせる一本角があり、体には水の波紋模様が浮かんでいます。腕と足は頑丈で力強い印象を与えます。",
-      "reason": "アダムは新たな力強さと知性を備えた姿に進化しました。",
-      "thought": "『誇りと勇気』"
+      "appearance": "アダムは、青色の体に大きな青い眼と白い光る点を持つ男性型生命体です。体は楕円形で、頭部に三角形の小さな耳があります。白い牙を持ち、濃い青の模様が体を覆っています。",
+      "reason": "進化の過程で、生命体の目の色と模様が新たな外見を形成しました。",
+      "thought": "『知識と創造の力』"
     },
     "name": "アダム",
     "gender": "男性"
