@@ -22315,5 +22315,28 @@
       "gender": "男性"
     },
     "timestamp": 1767940122917
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='none'><rect x='50' y='50' width='300' height='300' fill='#FFC0CB'/><circle cx='200' cy='200' r='140' fill='#FFC0CB'/><ellipse cx='140' cy='180' rx='20' ry='40' fill='#FFB6C1'/><ellipse cx='260' cy='180' rx='20' ry='40' fill='#FFB6C1'/><path d='M160 270L200 320L240 270' fill='none' stroke='#FF1493' stroke-width='4'/><path d='M180 175Q200 220 220 175' fill='none' stroke='#FF1493' stroke-width='4'/><circle cx='180' cy='140' r='12' fill='white'/><circle cx='220' cy='140' r='12' fill='white'/><circle cx='180' cy='140' r='6' fill='#FF69B4'/><circle cx='220' cy='140' r='6' fill='#FF69B4'/><path d='M180 230C180 250 220 250 220 230' fill='none' stroke='#FF1493' stroke-width='4'/><rect x='190' y='260' width='20' height='40' fill='#FF1493'/></svg>",
+      "report": {
+        "appearance": "イヴは桃色の柔らかい肌を持ち、長い髪と優美な曲線を特徴とする。顔には大きな瞳と優しい笑顔があり、体にはピンクと白のグラデーションが美しい。",
+        "reason": "新たな進化により、イヴはより優雅で魅力的な外見になることで、生存競争において相手を惹きつける効果を高めるため。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='none'><rect x='50' y='50' width='300' height='300' fill='#4682B4'/><circle cx='200' cy='200' r='140' fill='#4682B4'/><ellipse cx='150' cy='180' rx='30' ry='20' fill='#4169E1'/><ellipse cx='250' cy='180' rx='30' ry='20' fill='#4169E1'/><path d='M180 270L200 320L220 270' fill='none' stroke='#0000CD' stroke-width='4'/><path d='M180 175Q200 220 220 175' fill='none' stroke='#0000CD' stroke-width='4'/><circle cx='180' cy='140' r='12' fill='white'/><circle cx='220' cy='140' r='12' fill='white'/><circle cx='180' cy='140' r='6' fill='#000080'/><circle cx='220' cy='140' r='6' fill='#000080'/><path d='M180 230C180 250 220 250 220 230' fill='none' stroke='#0000CD' stroke-width='4'/><polygon points='190,260 210,260 200,300' fill='#0000CD'/></svg>",
+      "report": {
+        "appearance": "アダムは力強い青色の外見を持ち、マッスルラインと逞しい体つきが特徴的である。威厳を感じさせる顔つきと深い青色が印象的。",
+        "reason": "進化により、アダムはより強靭な外観を手に入れ、狩りや防御において優位性を高め、生存のための競争力を向上させるため。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1767962265233
   }
 ]
