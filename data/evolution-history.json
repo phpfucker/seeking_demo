@@ -22269,5 +22269,28 @@
       "gender": "男性"
     },
     "timestamp": 1767896622020
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb' /><ellipse cx='200' cy='180' rx='90' ry='110' fill='#f08080' /><ellipse cx='160' cy='160' rx='20' ry='40' fill='#ffcccb' /><ellipse cx='240' cy='160' rx='20' ry='40' fill='#ffcccb' /><path d='M160 280 Q200 320 240 280' fill='none' stroke='#000' stroke-width='2' /><path d='M150 250 Q200 280 250 250' fill='none' stroke='#000' stroke-width='2' /><path d='M180 260 Q200 280 220 260' fill='none' stroke='#000' stroke-width='2' /><circle cx='180' cy='140' r='10' fill='#000' /><circle cx='220' cy='140' r='10' fill='#000' /><path d='M160 220 Q200 260 240 220' fill='none' stroke='#000' stroke-width='2' /><path d='M130 190 Q200 230 270 190' fill='none' stroke='#000' stroke-width='2' /><path d='M120 230 Q200 210 280 230' fill='none' stroke='#000' stroke-width='2' /><path d='M150 320 Q200 350 250 320' fill='none' stroke='#000' stroke-width='2' /><path d='M145 330 Q200 360 255 330' fill='none' stroke='#000' stroke-width='2' /><path d='M180 330 Q200 350 220 330' fill='none' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、大きな赤い目と柔らかいピンク色の体を持つ女性型生命体です。体の中央には明るいピンクの胸部があり、優雅な曲線が特徴です。手足は細長く、綺麗な指先があります。",
+        "reason": "イヴは、自然界における繊細さと美しさを組み合わせた進化を遂げました。その柔らかな色合いと優雅な形状は、環境への適応と生存のために発展した結果です。",
+        "thought": "『美しさは力なり』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#87ceeb' /><ellipse cx='200' cy='180' rx='90' ry='110' fill='#4682b4' /><ellipse cx='160' cy='160' rx='20' ry='40' fill='#87ceeb' /><ellipse cx='240' cy='160' rx='20' ry='40' fill='#87ceeb' /><path d='M160 280 Q200 320 240 280' fill='none' stroke='#000' stroke-width='2' /><path d='M150 250 Q200 280 250 250' fill='none' stroke='#000' stroke-width='2' /><path d='M180 260 Q200 280 220 260' fill='none' stroke='#000' stroke-width='2' /><circle cx='180' cy='140' r='10' fill='#000' /><circle cx='220' cy='140' r='10' fill='#000' /><path d='M160 220 Q200 260 240 220' fill='none' stroke='#000' stroke-width='2' /><path d='M130 190 Q200 230 270 190' fill='none' stroke='#000' stroke-width='2' /><path d='M120 230 Q200 210 280 230' fill='none' stroke='#000' stroke-width='2' /><path d='M150 320 Q200 350 250 320' fill='none' stroke='#000' stroke-width='2' /><path d='M145 330 Q200 360 255 330' fill='none' stroke='#000' stroke-width='2' /><path d='M180 330 Q200 350 220 330' fill='none' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色の色合いを持つ男性型生命体で、体の輪郭がスマートで引き締まっています。腹部には薄い青い筋が入り、筋肉質な印象を与えます。顔は男性らしいシャープな輪郭を持ちます。",
+        "reason": "アダムは、進化において力強さとスマートさを強調する方向に進化しました。その筋肉質な外観や男性らしい輪郭は、獲得した資源を守るために発展した特徴です。",
+        "thought": "『力強さと優雅さを併せ持つ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1767921817414
   }
 ]
