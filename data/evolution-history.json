@@ -22338,5 +22338,28 @@
       "gender": "男性"
     },
     "timestamp": 1767962265233
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink'/><ellipse cx='200' cy='150' rx='100' ry='120' fill='white'/><path d='M150,250 Q200,300 250,250 Q200,275 150,250 Z' fill='pink'/><path d='M200,230 Q180,220 140,250 Q180,240 200,230 Z' fill='white'/><rect x='175' y='180' width='50' height='20' fill='pink'/><rect x='180' y='160' width='10' height='20' fill='white'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の大きな円形の体を持ち、白い楕円形の顔と手を持つ女性型の生命体です。体の中央にはピンクと白のパターンが施されています。",
+        "reason": "環境の変化により、イヴは美しさと柔らかさを象徴するピンク色の体を発達させました。",
+        "thought": "『愛と包容』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='175' y='180' width='50' height='20' fill='blue'/><rect x='180' y='160' width='10' height='20' fill='white'/><polygon points='200,100 220,150 180,150' fill='blue'/><polygon points='190,110 200,130 210,110' fill='white'/><circle cx='200' cy='200' r='150' fill='blue'/><ellipse cx='200' cy='150' rx='100' ry='120' fill='white'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い大きな四角形の体を持ち、白い楕円形の顔と手を持つ男性型の生命体です。体の中央には青と白の模様が施されています。",
+        "reason": "環境の変化により、アダムは信頼と安定を象徴する青色の体を発達させました。",
+        "thought": "『力強さと誠実さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1767983225975
   }
 ]
