@@ -22430,5 +22430,28 @@
       "gender": "男性"
     },
     "timestamp": 1768048416050
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99' /><ellipse cx='160' cy='190' rx='20' ry='35' fill='#ffffff' /><ellipse cx='240' cy='190' rx='20' ry='35' fill='#ffffff' /><path d='M200 220 Q190 240 200 260 Q210 240 200 220 Z' fill='#ffd699' /><path d='M180 160 Q160 140 140 160 Q160 180 180 160 Z' fill='#ffd699' /><path d='M220 160 Q240 140 260 160 Q240 180 220 160 Z' fill='#ffd699' /><circle cx='180' cy='210' r='5' fill='#000000' /><circle cx='220' cy='210' r='5' fill='#000000' /><polygon points='180,180 190,170 200,180' fill='#ffcc99' /><polygon points='220,180 230,170 240,180' fill='#ffcc99' /><path d='M170 230 Q190 250 210 230' fill='none' stroke='#000000' stroke-width='2' /><path d='M190 230 Q210 250 230 230' fill='none' stroke='#000000' stroke-width='2' /><path d='M180 250 Q200 260 220 250' fill='none' stroke='#000000' stroke-width='2' /><text x='200' y='320' text-anchor='middle' font-family='Arial' font-size='20' fill='#000000'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、桃色の肌に白い瞳を持つ女性型生命体です。頭部には円錐状の角があり、柔らかなオレンジ色の髪が揺れます。体は優雅な曲線で構成され、手足は長くしなやかです。背中には大きな羽が生えています。",
+        "reason": "イヴは自然の中で新たな姿に進化しました。環境の変化や適応力が生じ、美しい姿を持つようになりました。",
+        "thought": "『自然と調和する美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='150' fill='#668cff' /><ellipse cx='200' cy='200' rx='25' ry='35' fill='#ffffff' /><path d='M180 220 Q190 240 200 260 Q210 240 220 220 Z' fill='#99b3ff' /><path d='M180 160 Q160 140 140 160 Q160 180 180 160 Z' fill='#99b3ff' /><path d='M220 160 Q240 140 260 160 Q240 180 220 160 Z' fill='#99b3ff' /><polygon points='180,160 200,130 220,160' fill='#668cff' /><circle cx='180' cy='210' r='8' fill='#000000' /><circle cx='220' cy='210' r='8' fill='#000000' /><line x1='180' y1='300' x2='160' y2='350' stroke='#333333' stroke-width='4' /><line x1='220' y1='300' x2='240' y2='350' stroke='#333333' stroke-width='4' /><text x='200' y='320' text-anchor='middle' font-family='Arial' font-size='20' fill='#000000'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青い肌と逆三角形の体型を持つ男性型生命体です。頭部には丸い角が生え、目は大きく優しげです。手足は頑丈で力強く、背中には翼のような模様が描かれています。",
+        "reason": "アダムは新たな環境に合わせて進化しました。強靭な体と知性を兼ね備え、成功につながる特性を身につけました。",
+        "thought": "『強さと知性の調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1768069497289
   }
 ]
