@@ -22407,5 +22407,28 @@
       "gender": "男性"
     },
     "timestamp": 1768026360805
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gradA\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" style=\"stop-color:rgb(255,192,203);stop-opacity:1\" /><stop offset=\"100%\" style=\"stop-color:rgb(255,105,180);stop-opacity:1\" /></linearGradient></defs><circle cx=\"200\" cy=\"200\" r=\"180\" fill=\"url(#gradA)\" /><circle cx=\"150\" cy=\"150\" r=\"20\" fill=\"white\" /><circle cx=\"250\" cy=\"150\" r=\"20\" fill=\"white\" /><ellipse cx=\"200\" cy=\"230\" rx=\"80\" ry=\"35\" fill=\"rgb(255,192,203)\" /><polygon points=\"190,230 210,230 200,240\" fill=\"rgb(255,105,180)\" /><ellipse cx=\"150\" cy=\"220\" rx=\"15\" ry=\"25\" fill=\"white\" /><ellipse cx=\"250\" cy=\"220\" rx=\"15\" ry=\"25\" fill=\"white\" /><rect x=\"170\" y=\"255\" width=\"60\" height=\"25\" fill=\"rgb(255,105,180)\" /><polygon points=\"200,280 180,295 220,295\" fill=\"rgb(255,192,203)\" /><ellipse cx=\"170\" cy=\"260\" rx=\"10\" ry=\"20\" fill=\"white\" /><ellipse cx=\"230\" cy=\"260\" rx=\"10\" ry=\"20\" fill=\"white\" /><polygon points=\"200,210 180,205 220,205\" fill=\"rgb(255,192,203)\" /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと紫のグラデーションが美しい体を持ち、白い目と角のある優美な女性。手足は色鮮やかなピンクで、しっぽは短くてふわふわ。胴体は淡いピンク色で、女性らしい曲線が特徴的。",
+        "reason": "イヴは花のエキゾチックな色合いと優美な特徴を身に纏い、自然と調和する進化を遂げた。",
+        "thought": "『優しさと美しさの力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gradB\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" style=\"stop-color:rgb(173,216,230);stop-opacity:1\" /><stop offset=\"100%\" style=\"stop-color:rgb(65,105,225);stop-opacity:1\" /></linearGradient></defs><circle cx=\"200\" cy=\"200\" r=\"180\" fill=\"url(#gradB)\" /><rect x=\"180\" y=\"150\" width=\"40\" height=\"80\" fill=\"white\" /><circle cx=\"200\" cy=\"150\" r=\"20\" fill=\"rgb(173,216,230)\" /><polygon points=\"180,150 220,150 200,130\" fill=\"rgb(65,105,225)\" /><rect x=\"190\" y=\"230\" width=\"20\" height=\"90\" fill=\"white\" /><polygon points=\"200,320 190,340 210,340\" fill=\"rgb(173,216,230)\" /><circle cx=\"190\" cy=\"320\" r=\"10\" fill=\"rgb(65,105,225)\" /><circle cx=\"210\" cy=\"320\" r=\"10\" fill=\"rgb(65,105,225)\" /><polygon points=\"200,210 180,205 220,205\" fill=\"rgb(173,216,230)\" /></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色のグラデーションが美しい体を持ち、白い目と尖った角が特徴的な男性。手足は水色で、しっぽは長く繊細。胴体は青色で、力強さと優雅さを感じさせる。",
+        "reason": "アダムは海と空の神秘的な色調をまとい、進化の中で知性と力強さを増した。",
+        "thought": "『知性と力強さの調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1768048416050
   }
 ]
