@@ -22591,5 +22591,28 @@
       "gender": "男性"
     },
     "timestamp": 1768199489704
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='150' ry='190' fill='#f5b2bc' /><ellipse cx='160' cy='150' rx='20' ry='30' fill='#ffffff' /><ellipse cx='240' cy='150' rx='20' ry='30' fill='#ffffff' /><path d='M200 220 Q160 250 200 300 Q240 250 200 220' fill='#f5b2bc' /><ellipse cx='170' cy='190' rx='10' ry='5' fill='#000000' /><ellipse cx='230' cy='190' rx='10' ry='5' fill='#000000' /><ellipse cx='180' cy='235' rx='10' ry='5' fill='#ffcccc' /><ellipse cx='220' cy='235' rx='10' ry='5' fill='#ffcccc' /><rect x='180' y='250' width='40' height='20' fill='#f5b2bc' /><path d='M170 225 Q200 250 230 225' fill='none' stroke='#000000' stroke-width='2' /><path d='M230 225 Q200 275 170 225' fill='none' stroke='#000000' stroke-width='2' /><rect x='185' y='230' width='30' height='5' fill='#000000' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体に白い顔と、円滑な体型を持ちます。顔には丸い目と小さな口があり、柔らかな雰囲気を醸し出しています。手足は細長く、脚には赤い靴を履いています。",
+        "reason": "進化の過程で、イヴはより優美で柔らかな特徴を取り入れ、内面の美しさを表現するために変化しました。",
+        "thought": "『優しさと美しさを共に』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='160' ry='180' fill='#8ab5ff' /><rect x='180' y='150' width='40' height='40' fill='#ffffff' /><rect x='190' y='230' width='20' height='70' fill='#8ab5ff' /><rect x='190' y='300' width='20' height='20' fill='#ffffff' /><path d='M200 220 Q160 250 200 300 Q240 250 200 220' fill='#8ab5ff' /><ellipse cx='170' cy='190' rx='10' ry='5' fill='#000000' /><ellipse cx='230' cy='190' rx='10' ry='5' fill='#000000' /><rect x='185' y='230' width='30' height='5' fill='#000000' /><rect x='180' y='250' width='40' height='20' fill='#8ab5ff' /><ellipse cx='180' cy='250' rx='10' ry='5' fill='#ffffff' /><ellipse cx='220' cy='250' rx='10' ry='5' fill='#ffffff' /></svg>",
+      "report": {
+        "appearance": "アダムは青色の体に白い四角い顔を持ち、がっしりとした体つきをしています。体は大きく筋肉質で、足には青い長靴が履かれています。顔には角のような突起があり、凛々しい印象を与えます。",
+        "reason": "アダムは力強さと頑丈さを象徴する外見に進化し、より強靭な存在としての特性を引き出すために変化しました。",
+        "thought": "『力と誇りを胸に』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1768221584480
   }
 ]
