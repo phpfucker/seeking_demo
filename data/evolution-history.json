@@ -22614,5 +22614,28 @@
       "gender": "男性"
     },
     "timestamp": 1768221584480
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='120' width='200' height='200' fill='#ffcc99'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='#ffc0cb'/><circle cx='160' cy='180' r='10' fill='#000'/><circle cx='240' cy='180' r='10' fill='#000'/><polygon points='200,180 220,210 180,210' fill='#fff'/><rect x='160' y='240' width='80' height='40' fill='#fff'/><polygon points='160,240 200,240 220,280 140,280' fill='#ff9999'/><polygon points='240,240 200,240 180,280 260,280' fill='#ff9999'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体にオレンジ色の顔を持ち、長い楕円形の耳と丸い目を持っています。白い胴体には赤い模様があり、ピンク色の尻尾があります。",
+        "reason": "生態系の変化により、イヴは新たな環境に適応するために進化しました。",
+        "thought": "『希望』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='120' width='200' height='200' fill='#87ceeb'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='#f0e68c'/><circle cx='160' cy='180' r='10' fill='#000'/><circle cx='240' cy='180' r='10' fill='#000'/><polygon points='200,180 220,210 180,210' fill='#fff'/><rect x='160' y='240' width='80' height='40' fill='#fff'/><polygon points='160,240 200,240 220,280 140,280' fill='#4682b4'/><polygon points='240,240 200,240 180,280 260,280' fill='#4682b4'/></svg>",
+      "report": {
+        "appearance": "アダムは、ライトブルーの体に黄色い顔を持ち、楕円形の耳と丸い目を持っています。白い胴体には青い模様があり、青い尻尾があります。",
+        "reason": "食物連鎖の変化により、アダムは狩猟や繁殖のための新たな能力を獲得するために進化しました。",
+        "thought": "『勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1768242457514
   }
 ]
