@@ -22568,5 +22568,28 @@
       "gender": "男性"
     },
     "timestamp": 1768181211737
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='150' width='300' height='200' fill='#ffcccb'/><ellipse cx='200' cy='100' rx='80' ry='120' fill='#f3c6c4'/><path d='M200 220 L160 280 L240 280 Z' fill='#ffb6b4'/><polygon points='160,280 170,320 200,310 230,320 240,280' fill='#ed8e84'/><ellipse cx='160' cy='200' rx='20' ry='12' fill='#333'/><ellipse cx='240' cy='200' rx='20' ry='12' fill='#333'/><polygon points='160,320 130,340 90,320' fill='#ffcccb'/><polygon points='240,320 270,340 310,320' fill='#ffcccb'/><line x1='130' y1='340' x2='170' y2='340' stroke='#333' stroke-width='2'/><line x1='230' y1='340' x2='270' y2='340' stroke='#333' stroke-width='2'/><polygon points='160,200 150,220 170,220' fill='#333'/><polygon points='240,200 230,220 250,220' fill='#333'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかい肌を持ち、赤い髪と大きな目を持つ女性の姿をしています。体はオレンジ色のドレスで覆われ、丸い耳と小さな口が特徴です。手には短い爪があり、しっぽはなめらかな曲線を描いています。",
+        "reason": "進化の過程で、イヴはより優美で美しい外見を持つようになりました。繊細な特徴が強調され、生命を育む力を象徴するような姿となりました。",
+        "thought": "『愛と美しさの力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='150' width='300' height='200' fill='#add8e6'/><ellipse cx='200' cy='100' rx='80' ry='120' fill='#9bcfe3'/><path d='M200 220 L160 280 L240 280 Z' fill='#7ec8e3'/><polygon points='160,280 170,320 200,310 230,320 240,280' fill='#5ba2c4'/><ellipse cx='160' cy='200' rx='20' ry='12' fill='#333'/><ellipse cx='240' cy='200' rx='20' ry='12' fill='#333'/><polygon points='160,320 130,340 90,320' fill='#add8e6'/><polygon points='240,320 270,340 310,320' fill='#add8e6'/><line x1='130' y1='340' x2='170' y2='340' stroke='#333' stroke-width='2'/><line x1='230' y1='340' x2='270' y2='340' stroke='#333' stroke-width='2'/><polygon points='160,200 150,220 170,220' fill='#333'/><polygon points='240,200 230,220 250,220' fill='#333'/></svg>",
+      "report": {
+        "appearance": "アダムは青い肌を持ち、青と白の髪で覆われた男性の姿をしています。体は水色のシャツで覆われ、角のような特徴がある頭部と大きな目が特徴です。手には鋭い爪があり、しっぽは曲線的な形状をしています。",
+        "reason": "アダムは進化によりより知性と力強さを持つ外見に変化しました。青色が知性と冷静さを表し、新たな特徴が加わることで生存競争において有利な姿となりました。",
+        "thought": "『知恵と力強さの融合』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1768199489704
   }
 ]
