@@ -22683,5 +22683,28 @@
       "gender": "男性"
     },
     "timestamp": 1768285732217
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#FFD700' /><ellipse cx='200' cy='250' rx='80' ry='120' fill='#FFB6C1' /><polygon points='150,300 250,300 200,380' fill='#FFA07A' /><circle cx='150' cy='160' r='20' fill='#8B4513' /><circle cx='250' cy='160' r='20' fill='#8B4513' /><path d='M180,180 Q200,140 220,180' fill='none' stroke='#000' stroke-width='2' /><line x1='180' y1='210' x2='220' y2='210' stroke='#000' stroke-width='2' /><line x1='190' y1='240' x2='210' y2='240' stroke='#000' stroke-width='2' /><path d='M150,320 Q200,350 250,320' fill='none' stroke='#000' stroke-width='2' /><line x1='160' y1='310' x2='170' y2='310' stroke='#000' stroke-width='2' /><line x1='180' y1='330' x2='220' y2='330' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、金色の体に桃色の腹部を持ち、長い脚としっぽが特徴の女性型生命体です。顔には茶色の瞳を持ち、長い耳とふんわりした髪があります。",
+        "reason": "イヴは自然と調和する力を強化するために、より美しく優雅な外観へ進化しました。",
+        "thought": "『自然の中で輝く美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#4682B4' /><ellipse cx='200' cy='250' rx='80' ry='120' fill='#FF8C00' /><polygon points='150,300 250,300 200,380' fill='#2E8B57' /><circle cx='150' cy='160' r='20' fill='#000' /><circle cx='250' cy='160' r='20' fill='#000' /><path d='M180,180 Q200,140 220,180' fill='none' stroke='#000' stroke-width='2' /><line x1='180' y1='210' x2='220' y2='210' stroke='#000' stroke-width='2' /><line x1='190' y1='240' x2='210' y2='240' stroke='#000' stroke-width='2' /><path d='M150,320 Q200,350 250,320' fill='none' stroke='#000' stroke-width='2' /><line x1='160' y1='310' x2='170' y2='310' stroke='#000' stroke-width='2' /><line x1='180' y1='330' x2='220' y2='330' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青銅色の体にオレンジ色の腹部を持ち、力強い脚としっぽが特徴の男性型生命体です。顔には黒い瞳を持ち、鋭い角と剛毛があります。",
+        "reason": "アダムは自然の中での生存競争に対処するために、より力強く頑丈な外観へ進化しました。",
+        "thought": "『力強さと生命力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1768307998631
   }
 ]
