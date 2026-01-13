@@ -22706,5 +22706,28 @@
       "gender": "男性"
     },
     "timestamp": 1768307998631
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='50' width='120' height='200' fill='#ffcccb'/><rect x='140' y='250' width='120' height='100' fill='#ffb6c1'/><path d='M200,50 L100,150 L300,150 Z' fill='#ffcccb'/><ellipse cx='160' cy='120' rx='20' ry='30' fill='#ffc0cb'/><ellipse cx='240' cy='120' rx='20' ry='30' fill='#ffc0cb'/><circle cx='160' cy='120' r='5' fill='#000'/><circle cx='240' cy='120' r='5' fill='#000'/><path d='M180,160 Q200,200 220,160' fill='none' stroke='#000' stroke-width='2'/><polygon points='150,250 200,230 250,250' fill='#ff99cc'/><polygon points='160,250 200,230 240,250' fill='#ff99cc'/><polygon points='100,250 150,250 125,300' fill='#ff99cc'/><polygon points='250,250 300,250 275,300' fill='#ff99cc'/></svg>",
+      "report": {
+        "appearance": "イヴは、ローズピンクの体色を持つ女性で、背中に大きな羽が生えています。顔には二つのピンク色の目があり、優しげな微笑みを浮かべています。手足は薄いピンクで、体の中央にはハート型の模様があります。",
+        "reason": "イヴは愛と美しさを象徴する進化を遂げました。新たな感情の表現として、より豊かな色彩と装飾が生まれたのです。",
+        "thought": "『愛と美の融合』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='50' width='120' height='200' fill='#add8e6'/><rect x='140' y='250' width='120' height='100' fill='#87ceeb'/><path d='M200,50 L100,150 L300,150 Z' fill='#add8e6'/><ellipse cx='160' cy='120' rx='20' ry='30' fill='#b0e0e6'/><ellipse cx='240' cy='120' rx='20' ry='30' fill='#b0e0e6'/><circle cx='160' cy='120' r='5' fill='#000'/><circle cx='240' cy='120' r='5' fill='#000'/><path d='M180,160 Q200,200 220,160' fill='none' stroke='#000' stroke-width='2'/><polygon points='150,250 200,230 250,250' fill='#87cefa'/><polygon points='160,250 200,230 240,250' fill='#87cefa'/><polygon points='100,250 150,250 125,300' fill='#87cefa'/><polygon points='250,250 300,250 275,300' fill='#87cefa'/></svg>",
+      "report": {
+        "appearance": "アダムは、パウダーブルーの体色を持つ男性で、背中に大きな水色の鱗が並んでいます。顔は穏やかな表情で、青い目が光っています。手足は濃い青で、体の中央には波の模様があります。",
+        "reason": "アダムは知性と平和を象徴する進化を遂げました。新たな発展の姿として、冷静な色彩と流れるような模様が生じたのです。",
+        "thought": "『知性と平和の調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1768328849721
   }
 ]
