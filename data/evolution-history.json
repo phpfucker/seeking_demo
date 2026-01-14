@@ -22798,5 +22798,28 @@
       "gender": "男性"
     },
     "timestamp": 1768394336733
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='170' rx='80' ry='100' fill='#ffbbbc'/><rect x='160' y='210' width='80' height='30' fill='#ff99aa'/><polygon points='190,180 210,180 200,190' fill='#aa4466'/><path d='M190,250 Q200,260 210,250 Q200,260 190,250' fill='#ff99aa'/><line x1='180' y1='300' x2='150' y2='330' stroke='#aa4466' stroke-width='3'/><line x1='220' y1='300' x2='250' y2='330' stroke='#aa4466' stroke-width='3'/><text x='190' y='380' font-family='Arial' font-size='12' fill='#333' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の大きな円形の体に、赤い楕円形の髪、ピンクの服を身につけた女性型生命体です。足元には赤い小さな靴があります。",
+        "reason": "進化の理由は、環境に適応するためにより優れた知能と感情を持つ必要があったためです。",
+        "thought": "『生命の尊さ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#99ccff'/><ellipse cx='200' cy='170' rx='80' ry='100' fill='#88bbff'/><rect x='160' y='210' width='80' height='30' fill='#6688ff'/><polygon points='190,180 210,180 200,190' fill='#2244aa'/><path d='M190,250 Q200,260 210,250 Q200,260 190,250' fill='#6688ff'/><line x1='180' y1='300' x2='150' y2='330' stroke='#2244aa' stroke-width='3'/><line x1='220' y1='300' x2='250' y2='330' stroke='#2244aa' stroke-width='3'/><text x='190' y='380' font-family='Arial' font-size='12' fill='#333' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青色の大きな円形の体に、青い楕円形の髪、青い服を身につけた男性型生命体です。足元には青い小さな靴があります。",
+        "reason": "進化の理由は、狩猟や戦闘などの活動においてより強靭な身体能力が求められたためです。",
+        "thought": "『勇気と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1768415328660
   }
 ]
