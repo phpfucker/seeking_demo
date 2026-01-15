@@ -22890,5 +22890,28 @@
       "gender": "男性"
     },
     "timestamp": 1768480725959
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='80' width='300' height='240' fill='#FFC0CB'/><circle cx='200' cy='120' r='60' fill='#FF69B4'/><path d='M160 200 L125 220 L100 250 Q125 260 160 290 Q195 260 220 250 L195 220 L160 200 Z' fill='#FF69B4'/><polygon points='175,150 185,150 180,160' fill='#FF69B4'/><ellipse cx='170' cy='140' rx='8' ry='5' fill='#FFF'/><ellipse cx='230' cy='140' rx='8' ry='5' fill='#FFF'/><ellipse cx='190' cy='180' rx='20' ry='10' fill='#FFF'/><ellipse cx='210' cy='180' rx='20' ry='10' fill='#FFF'/><circle cx='190' cy='120' r='5' fill='#000'/><circle cx='210' cy='120' r='5' fill='#000'/><path d='M190 230 Q200 240 210 230 Q200 235 190 230 Z' fill='#000'/><path d='M190 230 Q200 235 210 230 L200 260 L190 230' fill='#FFF'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体に紫色の頭部を持つ女性の姿をしています。頭部には大きな目と小さな口があり、柔らかな表情を見せます。軽やかな足と翼のような腕を持ち、胴体には丸い模様が描かれています。",
+        "reason": "新たな環境への適応に伴い、イヴは翼を持つことで高い場所への飛翔能力を獲得し、柔らかな色合いと模様は自然に溶け込むために進化しました。",
+        "thought": "『平和と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='80' width='300' height='240' fill='#1E90FF'/><circle cx='200' cy='120' r='60' fill='#4682B4'/><path d='M160 200 L125 220 L100 250 Q125 260 160 290 Q195 260 220 250 L195 220 L160 200 Z' fill='#4682B4'/><polygon points='175,150 185,150 180,160' fill='#4682B4'/><ellipse cx='170' cy='140' rx='8' ry='5' fill='#FFF'/><ellipse cx='230' cy='140' rx='8' ry='5' fill='#FFF'/><ellipse cx='190' cy='180' rx='20' ry='10' fill='#FFF'/><ellipse cx='210' cy='180' rx='20' ry='10' fill='#FFF'/><circle cx='190' cy='120' r='5' fill='#000'/><circle cx='210' cy='120' r='5' fill='#000'/><path d='M190 230 Q200 240 210 230 Q200 235 190 230 Z' fill='#000'/><line x1='180' y1='250' x2='220' y2='250' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の体と灰色の頭部を持つ男性の姿をしています。頭部には大きな目と小さな口があり、力強い表情を見せます。脚と腕は頑丈で、胴体には幾何学的な模様が描かれています。",
+        "reason": "生存競争の激化により、アダムは頑丈な体と力強い色合いで自らを守るために進化しました。幾何学的な模様は環境に溶け込みながら相手に強さをアピールします。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1768501911747
   }
 ]
