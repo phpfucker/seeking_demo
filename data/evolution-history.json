@@ -22936,5 +22936,28 @@
       "gender": "男性"
     },
     "timestamp": 1768526647696
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffe0bd' /><ellipse cx='150' cy='180' rx='40' ry='25' fill='#ffcc9d' /><ellipse cx='250' cy='180' rx='40' ry='25' fill='#ffcc9d' /><ellipse cx='200' cy='230' rx='75' ry='35' fill='#ffcc9d' /><rect x='175' y='240' width='50' height='100' fill='#ffcc9d' /><path d='M170 240 L200 320 L230 240 Z' fill='#ffcc9d' /><polygon points='180,160 190,150 210,150 220,160' fill='#ffcc9d' /><polygon points='190,140 200,130 210,140' fill='#ffcc9d' /><circle cx='180' cy='190' r='10' fill='#e57373' /><circle cx='220' cy='190' r='10' fill='#e57373' /><circle cx='180' cy='190' r='5' fill='#000' /><circle cx='220' cy='190' r='5' fill='#000' /><polygon points='170,225 170,235 160,230' fill='#000' /><polygon points='230,225 230,235 240,230' fill='#000' /><path d='M200 250 Q190 270 200 290 Q210 270 200 250' fill='#f9a825' /><path d='M185 320 Q200 340 215 320' fill='none' stroke='#000' stroke-width='2' /><path d='M185 320 Q200 330 215 320' fill='none' stroke='#000' stroke-width='2' /><path d='M185 320 Q200 320 215 320' fill='none' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは全身がピンク色の柔らかな皮膚で覆われており、長い尾と巨大な耳を持つ女性的な姿をしています。体は丸く柔らかな形状で、大きな目が特徴です。背中には四角い模様があります。",
+        "reason": "イヴは自然界の妖精からの影響を受け、環境に適応するため、柔らかなピンク色の皮膚と大きな耳で生まれ変わりました。",
+        "thought": "『自然と一体化したい』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='200' fill='#b0bec5' /><circle cx='200' cy='150' r='50' fill='#90a4ae' /><circle cx='200' cy='150' r='40' fill='#eceff1' /><circle cx='180' cy='150' r='5' fill='#000' /><circle cx='220' cy='150' r='5' fill='#000' /><circle cx='180' cy='170' r='10' fill='#ffd54f' /><circle cx='220' cy='170' r='10' fill='#ffd54f' /><polygon points='150,150 250,150 200,100' fill='#90a4ae' /><path d='M180 220 Q200 250 220 220' fill='none' stroke='#546e7a' stroke-width='8' /><path d='M190 340 Q200 360 210 340' fill='none' stroke='#37474f' stroke-width='8' /><path d='M185 340 Q200 360 215 340' fill='none' stroke='#263238' stroke-width='8' /><path d='M180 150 Q170 120 200 100 Q230 120 220 150 Q230 120 200 100 Q170 120 180 150' fill='#cfd8dc' /><path d='M190 150 Q200 140 210 150' fill='none' stroke='#263238' stroke-width='2' /><path d='M185 160 Q200 170 215 160' fill='none' stroke='#263238' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは銀色の硬い外皮を持ち、四角い体と大きな目が特徴の男性的な姿をしています。頭部には円形の装飾があり、全体的に直線的な形状をしています。",
+        "reason": "アダムは宇宙の力に導かれ、強固な銀の外皮と直線的な体型で新たな進化を遂げました。",
+        "thought": "『未来を切り開く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1768544963446
   }
 ]
