@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#ffcccb' /><circle cx='200' cy='100' r='80' fill='#ffc0cb' /><circle cx='140' cy='100' r='20' fill='#ffffff' /><circle cx='260' cy='100' r='20' fill='#ffffff' /><path d='M180 150 Q200 130 220 150' fill='none' stroke='#ff1493' stroke-width='4' /><path d='M150 240 Q200 220 250 240' fill='none' stroke='#ff1493' stroke-width='4' /><path d='M130 300 Q200 280 270 300' fill='none' stroke='#ff1493' stroke-width='4' /><polygon points='180,100 200,80 220,100' fill='#ffffff' /><polygon points='170,290 200,260 230,290' fill='#ffffff' /><ellipse cx='200' cy='250' rx='40' ry='20' fill='#ffcccb' /><rect x='170' y='220' width='60' height='20' fill='#ffcccb' /><rect x='150' y='280' width='100' height='20' fill='#ffcccb' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffcccb'/><ellipse cx='200' cy='150' rx='80' ry='100' fill='#ff99cc'/><polygon points='160,250 200,300 240,250' fill='#ffb6c1'/><path d='M190 250 Q200 230 210 250' fill='none' stroke='#ff69b4'/><circle cx='175' cy='160' r='5' fill='#000'/><circle cx='225' cy='160' r='5' fill='#000'/><path d='M170 200 Q200 180 230 200' fill='none' stroke='#ff69b4'/><path d='M150 300 Q200 340 250 300' fill='none' stroke='#ff69b4'/><path d='M120 200 Q200 140 280 200' fill='none' stroke='#ff69b4'/><path d='M120 300 Q200 340 280 300' fill='none' stroke='#ff69b4'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな肌を持つ女性。全身に優しい色合いが広がり、顔には愛らしい表情が浮かんでいる。頭には2本の白い角が生えており、優雅なしっぽが後ろに伸びている。手足は細く長く、優美な曲線を描いている。",
-      "reason": "イヴは新たな進化を遂げ、より美しく優雅な姿になった。柔らかな色合いと優しい表情は、環境への適応と個体間のコミュニケーションを向上させるために進化した。",
-      "thought": "『優しさが力となる』"
+      "appearance": "イヴは、淡いピンク色の柔らかな肌を持ち、優雅な姿をした女性型生命体です。体は赤みを帯びたピンク色の薄い皮膚で覆われ、瞳は大きく輝いています。頭部には短い髪の毛があり、優しい表情を浮かべています。手足は細長く、しなやかな体つきが特徴です。",
+      "reason": "イヴは内面からの美しさが進化し、より優雅で繊細な外見となりました。",
+      "thought": "『宇宙の調和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#6495ed' /><circle cx='200' cy='100' r='80' fill='#4169e1' /><circle cx='140' cy='100' r='20' fill='#ffffff' /><circle cx='260' cy='100' r='20' fill='#ffffff' /><path d='M180 150 Q200 130 220 150' fill='none' stroke='#4169e1' stroke-width='4' /><path d='M150 240 Q200 220 250 240' fill='none' stroke='#4169e1' stroke-width='4' /><path d='M130 300 Q200 280 270 300' fill='none' stroke='#4169e1' stroke-width='4' /><polygon points='180,100 200,80 220,100' fill='#ffffff' /><polygon points='170,290 200,260 230,290' fill='#ffffff' /><ellipse cx='200' cy='250' rx='40' ry='20' fill='#6495ed' /><rect x='170' y='220' width='60' height='20' fill='#6495ed' /><rect x='150' y='280' width='100' height='20' fill='#6495ed' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#add8e6'/><ellipse cx='200' cy='150' rx='80' ry='100' fill='#87ceeb'/><polygon points='160,250 200,300 240,250' fill='#b0e0e6'/><path d='M190 250 Q200 230 210 250' fill='none' stroke='#4682b4'/><circle cx='175' cy='160' r='5' fill='#000'/><circle cx='225' cy='160' r='5' fill='#000'/><path d='M170 200 Q200 180 230 200' fill='none' stroke='#4682b4'/><path d='M150 300 Q200 340 250 300' fill='none' stroke='#4682b4'/><path d='M120 200 Q200 140 280 200' fill='none' stroke='#4682b4'/><path d='M120 300 Q200 340 280 300' fill='none' stroke='#4682b4'/></svg>",
     "report": {
-      "appearance": "アダムは、青色の肌を持つ男性。全体的に力強い印象を与えるが、顔には穏やかな表情が見られる。角の生えた頭部と重厚なしっぽが特徴であり、手足はしっかりとした筋肉で描かれている。",
-      "reason": "アダムは進化により強靭な体躯と穏やかな表情を備えるようになった。青色の肌は環境への適応と、仲間との連携を強化するための変化と考えられる。",
-      "thought": "『力強さと穏やかさの調和』"
+      "appearance": "アダムは、優しい青色の肌を持つ男性型生命体で、頑丈な体つきをしています。身体は淡い青色の皮膚で覆われ、凛とした表情をしています。瞳は鋭く、力強さを感じさせます。手足は筋肉質で引き締まり、力強い雰囲気が漂っています。",
+      "reason": "アダムは内面からの強靭さが進化し、より力強く頼りがいのある外見となりました。",
+      "thought": "『創造の意志』"
     },
     "name": "アダム",
     "gender": "男性"
