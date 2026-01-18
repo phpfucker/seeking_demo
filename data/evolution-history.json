@@ -23097,5 +23097,28 @@
       "gender": "男性"
     },
     "timestamp": 1768674219894
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffcccb'/><ellipse cx='200' cy='150' rx='80' ry='100' fill='#ff99cc'/><polygon points='160,250 200,300 240,250' fill='#ffb6c1'/><path d='M190 250 Q200 230 210 250' fill='none' stroke='#ff69b4'/><circle cx='175' cy='160' r='5' fill='#000'/><circle cx='225' cy='160' r='5' fill='#000'/><path d='M170 200 Q200 180 230 200' fill='none' stroke='#ff69b4'/><path d='M150 300 Q200 340 250 300' fill='none' stroke='#ff69b4'/><path d='M120 200 Q200 140 280 200' fill='none' stroke='#ff69b4'/><path d='M120 300 Q200 340 280 300' fill='none' stroke='#ff69b4'/></svg>",
+      "report": {
+        "appearance": "イヴは、淡いピンク色の柔らかな肌を持ち、優雅な姿をした女性型生命体です。体は赤みを帯びたピンク色の薄い皮膚で覆われ、瞳は大きく輝いています。頭部には短い髪の毛があり、優しい表情を浮かべています。手足は細長く、しなやかな体つきが特徴です。",
+        "reason": "イヴは内面からの美しさが進化し、より優雅で繊細な外見となりました。",
+        "thought": "『宇宙の調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#add8e6'/><ellipse cx='200' cy='150' rx='80' ry='100' fill='#87ceeb'/><polygon points='160,250 200,300 240,250' fill='#b0e0e6'/><path d='M190 250 Q200 230 210 250' fill='none' stroke='#4682b4'/><circle cx='175' cy='160' r='5' fill='#000'/><circle cx='225' cy='160' r='5' fill='#000'/><path d='M170 200 Q200 180 230 200' fill='none' stroke='#4682b4'/><path d='M150 300 Q200 340 250 300' fill='none' stroke='#4682b4'/><path d='M120 200 Q200 140 280 200' fill='none' stroke='#4682b4'/><path d='M120 300 Q200 340 280 300' fill='none' stroke='#4682b4'/></svg>",
+      "report": {
+        "appearance": "アダムは、優しい青色の肌を持つ男性型生命体で、頑丈な体つきをしています。身体は淡い青色の皮膚で覆われ、凛とした表情をしています。瞳は鋭く、力強さを感じさせます。手足は筋肉質で引き締まり、力強い雰囲気が漂っています。",
+        "reason": "アダムは内面からの強靭さが進化し、より力強く頼りがいのある外見となりました。",
+        "thought": "『創造の意志』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1768700332980
   }
 ]
