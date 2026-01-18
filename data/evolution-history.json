@@ -23120,5 +23120,28 @@
       "gender": "男性"
     },
     "timestamp": 1768700332980
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#FFB6C1' /><ellipse cx='200' cy='150' rx='100' ry='80' fill='#FFDAB9' /><path d='M150 250 L200 300 L250 250 Z' fill='#FFA07A' /><circle cx='170' cy='140' r='10' fill='#FFFFFF' /><circle cx='230' cy='140' r='10' fill='#FFFFFF' /><circle cx='190' cy='200' r='20' fill='#FFA07A' /><circle cx='210' cy='200' r='20' fill='#FFA07A' /><path d='M150 300 Q200 330 250 300' fill='none' stroke='#000000' stroke-width='2' /><line x1='150' y1='100' x2='130' y2='60' stroke='#000000' stroke-width='2' /><line x1='250' y1='100' x2='270' y2='60' stroke='#000000' stroke-width='2' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#000000' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の肌を持ち、オレンジ色の角を頭に生やし、白い目を持つ女性型生命体です。体はピンク色で、大きなエプロンのような部分があります。",
+        "reason": "イヴは環境の変化に適応するため、柔らかな色合いと優しい表情を持つよう進化しました。",
+        "thought": "『安らぎと暖かさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#ADD8E6' /><ellipse cx='200' cy='150' rx='100' ry='80' fill='#B0E0E6' /><path d='M150 250 L200 300 L250 250 Z' fill='#87CEEB' /><circle cx='170' cy='140' r='10' fill='#FFFFFF' /><circle cx='230' cy='140' r='10' fill='#FFFFFF' /><circle cx='190' cy='200' r='20' fill='#87CEEB' /><circle cx='210' cy='200' r='20' fill='#87CEEB' /><path d='M150 300 Q200 330 250 300' fill='none' stroke='#000000' stroke-width='2' /><line x1='150' y1='100' x2='130' y2='60' stroke='#000000' stroke-width='2' /><line x1='250' y1='100' x2='270' y2='60' stroke='#000000' stroke-width='2' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#000000' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青色の肌を持ち、水色の角を頭に生やし、白い目を持つ男性型生命体です。体は青色で、大きなエプロンのような部分があります。",
+        "reason": "アダムは環境の変化に適応するため、穏やかな色合いと優しい表情を持つよう進化しました。",
+        "thought": "『平和と調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1768717613335
   }
 ]
