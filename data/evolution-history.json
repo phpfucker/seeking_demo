@@ -23189,5 +23189,28 @@
       "gender": "男性"
     },
     "timestamp": 1768760612739
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffdbc9' /><polygon points='200,120 160,180 240,180' fill='#ffaf96' /><ellipse cx='150' cy='200' rx='30' ry='20' fill='#ffaf96' /><ellipse cx='250' cy='200' rx='30' ry='20' fill='#ffaf96' /><ellipse cx='200' cy='280' rx='100' ry='40' fill='#ffaf96' /><circle cx='160' cy='190' r='10' fill='black' /><circle cx='240' cy='190' r='10' fill='black' /><line x1='185' y1='210' x2='215' y2='210' stroke='black' stroke-width='2' /><path d='M190 240 Q200 270 210 240' fill='none' stroke='black' stroke-width='2' /><path d='M190 240 Q200 250 210 240' fill='none' stroke='black' stroke-dasharray='5' /><path d='M160 250 Q200 290 240 250' fill='none' stroke='black' stroke-width='2' /><text x='180' y='350' font-family='Arial' font-size='20' fill='black'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、桃色の肌と円らな顔立ちを持つ女性型の生命体です。薄いピンク色の目と長い髪が特徴で、全体的に柔らかな印象を与えます。体の下部には四つの脚があり、しっかりとした足取りで歩みます。",
+        "reason": "イヴはより優雅な外見と知性を持つため、進化の過程でより繊細な特徴が発達しました。",
+        "thought": "『優しさと強さを同時に持つ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='170' y='50' width='60' height='100' fill='#bcc5ff' /><polygon points='200,160 160,210 240,210' fill='#839cf7' /><ellipse cx='150' cy='200' rx='30' ry='20' fill='#839cf7' /><ellipse cx='250' cy='200' rx='30' ry='20' fill='#839cf7' /><ellipse cx='200' cy='280' rx='70' ry='30' fill='#839cf7' /><circle cx='160' cy='200' r='15' fill='black' /><circle cx='240' cy='200' r='15' fill='black' /><line x1='180' y1='220' x2='220' y2='220' stroke='black' stroke-width='2' /><path d='M160 240 Q200 280 240 240' fill='none' stroke='black' stroke-width='2' /><path d='M160 240 Q200 260 240 240' fill='none' stroke='black' stroke-dasharray='5' /><path d='M160 240 Q200 270 240 240' fill='none' stroke='black' stroke-dasharray='5' /><text x='180' y='350' font-family='Arial' font-size='20' fill='black'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青紫色の肌と力強い体つきを持つ男性型の生命体です。深い青の目と短い髪が特徴で、全体的に力強い雰囲気を放っています。四肢が頑丈で筋肉質であり、立派な角が頭部に生えています。",
+        "reason": "アダムはより力強さと発展した能力を持つため、進化の過程でより頑丈で堅固な特徴が発達しました。",
+        "thought": "『誇り高く、守るべきものを守る』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1768786065400
   }
 ]
