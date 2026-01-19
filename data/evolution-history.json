@@ -23212,5 +23212,28 @@
       "gender": "男性"
     },
     "timestamp": 1768786065400
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,255,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,192,203);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradA)' /><circle cx='200' cy='150' r='40' fill='#f0c0c0' /><circle cx='160' cy='150' r='10' fill='#000' /><circle cx='240' cy='150' r='10' fill='#000' /><rect x='180' y='190' width='40' height='20' fill='#fff' /><polygon points='170,270 200,250 230,270' fill='#f0c0c0' /><polygon points='190,200 200,180 210,200' fill='#f0c0c0' /><ellipse cx='180' cy='290' rx='20' ry='10' fill='#fff' /><ellipse cx='220' cy='290' rx='20' ry='10' fill='#fff' /><path d='M180 200 Q200 250 220 200' fill='none' stroke='#000' stroke-width='2' /><path d='M210 210 Q200 220 190 210' fill='none' stroke='#000' stroke-width='2' /><path d='M150 250 Q200 280 250 250' fill='none' stroke='#000' stroke-width='2' /><path d='M150 250 Q200 240 250 250' fill='none' stroke='#000' stroke-width='2' /><path d='M190 270 Q200 280 210 270' fill='none' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴはピンクの柔らかな肌を持ち、優しい表情の女性型生命体です。頭には二つの小さな角があり、背中にはフワフワした白い羽が生えています。手足は細くて長い指と爪があり、しっぽは尖っています。",
+        "reason": "生態系において、イヴはより優れた知能と協力の精神を持つことで、進化の過程で他の生物とのコミュニケーションや共同作業をより円滑に行えるようになったためです。",
+        "thought": "『平和と協力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='0%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,255,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(176,224,230);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradB)' /><ellipse cx='200' cy='150' rx='40' ry='30' fill='#b0e0e6' /><circle cx='180' cy='140' r='5' fill='#000' /><circle cx='220' cy='140' r='5' fill='#000' /><rect x='180' y='190' width='40' height='20' fill='#fff' /><polygon points='170,270 200,250 230,270' fill='#b0e0e6' /><polygon points='190,200 200,180 210,200' fill='#b0e0e6' /><ellipse cx='180' cy='290' rx='20' ry='10' fill='#fff' /><ellipse cx='220' cy='290' rx='20' ry='10' fill='#fff' /><path d='M180 200 Q200 250 220 200' fill='none' stroke='#000' stroke-width='2' /><path d='M210 210 Q200 220 190 210' fill='none' stroke='#000' stroke-width='2' /><path d='M150 250 Q200 280 250 250' fill='none' stroke='#000' stroke-width='2' /><path d='M150 250 Q200 240 250 250' fill='none' stroke='#000' stroke-width='2' /><path d='M190 270 Q200 280 210 270' fill='none' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは青色の肌を持つ男性型生命体で、穏やかな表情が特徴です。頭部には一本の角が生え、背中には水色の鱗が並んでいます。手足はしっかりとした筋肉があり、背中には小さな翼が生えています。",
+        "reason": "進化の過程で、アダムはより強靭な身体能力と防御力を得ることで、環境への適応性を高め、生存競争において有利な地位を築くためです。",
+        "thought": "『調和と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1768804407841
   }
 ]
