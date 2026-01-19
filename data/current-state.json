@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='250' rx='80' ry='120' fill='#ffc0cb'/><path d='M200 250 L160 220 L240 220 Z' fill='#ff99cc'/><path d='M160 220 Q180 200 200 220 Q220 200 240 220 Z' fill='#ff66cc'/><circle cx='170' cy='240' r='10' fill='#ffffff'/><circle cx='230' cy='240' r='10' fill='#ffffff'/><path d='M190 270 Q200 290 210 270' fill='none' stroke='#000000' stroke-width='2'/><path d='M190 270 Q200 290 210 270 Q200 280 190 270' fill='none' stroke='#000000' stroke-width='2'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#ff99cc' /><ellipse cx='200' cy='120' rx='100' ry='50' fill='#ff66a3' /><ellipse cx='150' cy='130' rx='15' ry='10' fill='#ff4d8c' /><ellipse cx='250' cy='130' rx='15' ry='10' fill='#ff4d8c' /><path d='M200 150 Q180 170 200 190 Q220 170 200 150' fill='none' stroke='#ff1a66' stroke-width='5' /><ellipse cx='170' cy='220' rx='30' ry='20' fill='#ff1a66' /><ellipse cx='230' cy='220' rx='30' ry='20' fill='#ff1a66' /><line x1='180' y1='250' x2='220' y2='250' stroke='#ff1a66' stroke-width='5' /><line x1='170' y1='250' x2='180' y2='280' stroke='#ff1a66' stroke-width='5' /><line x1='220' y1='250' x2='230' y2='280' stroke='#ff1a66' stroke-width='5' /><line x1='170' y1='250' x2='150' y2='280' stroke='#ff1a66' stroke-width='5' /><line x1='230' y1='250' x2='250' y2='280' stroke='#ff1a66' stroke-width='5' /><ellipse cx='200' cy='240' rx='30' ry='15' fill='#ff1a66' /><polygon points='190,240 210,240 200,260' fill='#ff1a66' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、優雅で流れるような体型をしています。大きな赤い目と、短くて丸い耳が特徴です。胸元には深いピンクの模様があり、しなやかなしっぽが優雅に垂れ下がっています。",
-      "reason": "イヴは、新たな進化の過程で自然界の美しさと優雅さを取り入れることで、自らの生存戦略をより洗練されたものに進化させました。",
-      "thought": "『優美な美しさ』"
+      "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、頭部には明るいピンクの楕円形の耳がついています。体の中心には濃いピンクの長い髪があり、体は上部が明るいピンクで下部に向かって徐々に濃いピンクに変化しています。4本の腕を持ち、手は5本指で構成され、手首からは薄いピンクの輪郭が描かれています。下半身は2つの脚で構成され、足先には尖った爪があります。背中には2つの大きなピンクの羽が生えています。",
+      "reason": "イヴは新たな環境に適応するため、空を飛ぶ能力を獲得しました。そのため、羽の進化が起こりました。",
+      "thought": "『自由を感じる』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#add8e6'/><ellipse cx='200' cy='250' rx='80' ry='120' fill='#87ceeb'/><path d='M200 250 L160 220 L240 220 Z' fill='#4682b4'/><path d='M160 220 Q180 200 200 220 Q220 200 240 220 Z' fill='#4169e1'/><circle cx='170' cy='240' r='10' fill='#ffffff'/><circle cx='230' cy='240' r='10' fill='#ffffff'/><path d='M190 270 Q200 290 210 270' fill='none' stroke='#000000' stroke-width='2'/><path d='M190 270 Q200 290 210 270 Q200 280 190 270' fill='none' stroke='#000000' stroke-width='2'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#66ccff' /><rect x='150' y='50' width='100' height='100' fill='#3399ff' /><circle cx='200' cy='150' r='25' fill='#1a66ff' /><line x1='175' y1='175' x2='225' y2='175' stroke='#1a66ff' stroke-width='5' /><line x1='200' y1='175' x2='200' y2='225' stroke='#1a66ff' stroke-width='5' /><line x1='200' y1='225' x2='175' y2='275' stroke='#1a66ff' stroke-width='5' /><line x1='200' y1='225' x2='225' y2='275' stroke='#1a66ff' stroke-width='5' /><circle cx='150' cy='300' r='20' fill='#1a66ff' /><circle cx='250' cy='300' r='20' fill='#1a66ff' /><polygon points='170,200 230,200 200,240' fill='#1a66ff' /></svg>",
     "report": {
-      "appearance": "アダムは、淡い青色の皮膚を持ち、力強く引き締まった体つきが特徴です。鋭い青い眼と、立体的な角の生えた大きな頭部が際立ちます。腹部には青の縞模様があり、しなやかなしっぽがしっかりとした存在感を放っています。",
-      "reason": "アダムは、新たな進化により力強さと知性を兼ね備え、より厳しい環境でも生存できるように進化しました。",
-      "thought": "『力強い知性』"
+      "appearance": "アダムは、青色の硬い外殻を持ち、四角い頭部には濃い青色の目があります。体は上部が濃い青で下部に向かって徐々に明るい青色に変化しています。腕と脚は同じ形状で、四角い指を持っており、爪は鋭く尖っています。背中には2つの大きな水色の鱗が並んでおり、尾の先端には青い玉がついています。",
+      "reason": "アダムは鱗の進化を遂げ、水中での航行能力が向上しました。そのため、尾の鱗が発達しました。",
+      "thought": "『静かな深海へ』"
     },
     "name": "アダム",
     "gender": "男性"
