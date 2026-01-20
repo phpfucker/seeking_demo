@@ -23327,5 +23327,28 @@
       "gender": "男性"
     },
     "timestamp": 1768890650280
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255, 105, 180);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255, 192, 203);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradA)' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='white' /><circle cx='160' cy='130' r='10' fill='black' /><circle cx='240' cy='130' r='10' fill='black' /><path d='M200,220 Q160,250 200,280 Q240,250 200,220' fill='white' /><polygon points='180,180 220,180 200,200' fill='white' /><polyline points='160,240 140,280 160,280' fill='none' stroke='black' stroke-width='2'/><polyline points='240,240 260,280 240,280' fill='none' stroke='black' stroke-width='2'/><path d='M170,250 Q150,260 160,300 Q200,320 240,300 Q250,260 230,250 Q220,260 200,265 Q180,260 170,250' fill='url(#gradA)' /><path d='M200,300 L190,310 L210,310 Z' fill='black' /><line x1='180' y1='280' x2='180' y2='310' stroke='black' stroke-width='2'/><line x1='220' y1='280' x2='220' y2='310' stroke='black' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと白のグラデーションを持つ柔らかな外見をしています。体の中央には大きな白い楕円形があり、頭部には丸い黒い目があります。長いピンクの髪は優雅に垂れ、白い光沢のある肌が特徴です。",
+        "reason": "イヴは新たな生態系への適応により、美しい色彩と優れた外観を発展させました。",
+        "thought": "『輝く未来へ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(0, 191, 255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(135, 206, 235);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradB)' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='white' /><circle cx='160' cy='130' r='10' fill='black' /><circle cx='240' cy='130' r='10' fill='black' /><path d='M200,220 Q160,250 200,280 Q240,250 200,220' fill='white' /><polygon points='180,180 220,180 200,200' fill='white' /><polyline points='160,240 140,280 160,280' fill='none' stroke='black' stroke-width='2'/><polyline points='240,240 260,280 240,280' fill='none' stroke='black' stroke-width='2'/><path d='M170,250 Q150,260 160,300 Q200,320 240,300 Q250,260 230,250 Q220,260 200,265 Q180,260 170,250' fill='url(#gradB)' /><path d='M200,300 L190,310 L210,310 Z' fill='black' /><line x1='180' y1='280' x2='180' y2='310' stroke='black' stroke-width='2'/><line x1='220' y1='280' x2='220' y2='310' stroke='black' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、青と白のグラデーションを持つ外見をしています。体の中央には大きな白い楕円形があり、頭部には丸い黒い目があります。鮮やかな青色の髪が生え、進化した姿は力強く見えます。",
+        "reason": "アダムは環境の変化に対応し、進化した外観が新たな環境での存続に適しているためです。",
+        "thought": "『未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1768912916494
   }
 ]
