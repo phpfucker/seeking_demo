@@ -23442,5 +23442,28 @@
       "gender": "男性"
     },
     "timestamp": 1768999306084
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='150' ry='190' fill='#ffcccb' /><ellipse cx='200' cy='170' rx='100' ry='120' fill='#ffebcd' /><path d='M170,180 Q200,230 230,180' stroke='#000' stroke-width='2' fill='none' /><path d='M160,200 Q200,260 240,200' stroke='#000' stroke-width='2' fill='none' /><ellipse cx='165' cy='150' rx='10' ry='5' fill='#000' /><ellipse cx='235' cy='150' rx='10' ry='5' fill='#000' /><polygon points='180,220 200,230 220,220' fill='gray' /><ellipse cx='185' cy='220' rx='5' ry='3' fill='black' /><ellipse cx='215' cy='220' rx='5' ry='3' fill='black' /><line x1='180' y1='150' x2='160' y2='130' stroke='#000' stroke-width='2' /><line x1='220' y1='150' x2='240' y2='130' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の大きな楕円形の体にオレンジ色の小さな楕円形の顔が特徴の女性型生命体です。顔には目がなく、上下に長い角を持っており、灰色の装飾が施されています。腕は灰色の模様入りの楕円形で、手はクロスした指があります。足は灰色と黒のストライプ模様が入った三角形で、尾は灰色の細い線で描かれています。",
+        "reason": "繊細な感性と知性を持つ新たな進化が必要とされたため、イヴはより洗練された外見を得るために進化しました。",
+        "thought": "『知性と美しさが宿る』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='140' ry='200' fill='#add8e6' /><ellipse cx='200' cy='170' rx='90' ry='120' fill='#f0e68c' /><path d='M170,180 Q200,240 230,180' stroke='#000' stroke-width='2' fill='none' /><path d='M160,200 Q200,260 240,200' stroke='#000' stroke-width='2' fill='none' /><ellipse cx='165' cy='150' rx='10' ry='5' fill='#000' /><ellipse cx='235' cy='150' rx='10' ry='5' fill='#000' /><polygon points='180,220 200,230 220,220' fill='gray' /><ellipse cx='185' cy='220' rx='5' ry='3' fill='black' /><ellipse cx='215' cy='220' rx='5' ry='3' fill='black' /><line x1='180' y1='150' x2='160' y2='130' stroke='#000' stroke-width='2' /><line x1='220' y1='150' x2='240' y2='130' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の楕円形の体に黄色の小さな楕円形の顔を持つ男性型生命体です。角はなく、腕と足には灰色の模様が入っており、手には爪があります。尾は短く太く、灰色で描かれています。",
+        "reason": "強靭な力と勇気が求められたため、アダムはより頑強で野生的な外見を手に入れるために進化しました。",
+        "thought": "『野性味と力強さが満ちる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1769020670804
   }
 ]
