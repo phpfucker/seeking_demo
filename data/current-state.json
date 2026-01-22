@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff99cc'/><ellipse cx='155' cy='150' rx='25' ry='40' fill='#ffd700'/><ellipse cx='245' cy='150' rx='25' ry='40' fill='#ffd700'/><path d='M200,220 Q190,240 200,250 Q210,240 200,220 Z' fill='#ffd700'/><path d='M170,240 Q190,230 170,220 Q160,230 170,240 Z' fill='#333'/><path d='M230,240 Q250,230 230,220 Q220,230 230,240 Z' fill='#333'/><circle cx='180' cy='180' r='5' fill='#000'/><circle cx='220' cy='180' r='5' fill='#000'/><rect x='165' y='270' width='70' height='20' rx='10' fill='#333'/><rect x='185' y='290' width='30' height='20' fill='#ff99cc'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='180' width='160' height='180' fill='#FFB6C1'/><ellipse cx='200' cy='100' rx='80' ry='70' fill='#FFC0CB'/><path d='M160 190 Q200 230 240 190' fill='none' stroke='#FF1493'/><path d='M160 210 Q200 250 240 210' fill='none' stroke='#FF1493'/><circle cx='190' cy='90' r='10' fill='#000'/><circle cx='210' cy='90' r='10' fill='#000'/><path d='M150 300 Q200 350 250 300' fill='none' stroke='#FF69B4'/><path d='M160 310 Q200 350 240 310' fill='none' stroke='#FF69B4'/><path d='M160 350 Q200 370 240 350' fill='none' stroke='#FF69B4'/><line x1='200' y1='260' x2='200' y2='300' stroke='#FFC0CB' stroke-width='4'/><ellipse cx='200' cy='290' rx='20' ry='15' fill='#FFC0CB'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の肌を持つ女性型生命体です。金色の髪と薄い金色の眉毛を持ち、顔には明るい黄色の眼と口があります。体には金色の装飾が施されています。足元にはピンクと紫色のドレスを着用しています。",
-      "reason": "進化の過程で、イヴはより華やかで優美な容姿を手に入れ、内面の美しさを外に表現するようになりました。",
-      "thought": "『調和と美しさ』"
+      "appearance": "イヴは、ピンク色の柔らかな肌を持ち、優雅な曲線の体と大きな憂いを帯びた目を持つ女性型生命体です。体の中央には淡いピンクの胴体があり、頭部には繊細なピンク色の顔が配置されています。優美なしっぽと繊細な四肢が特徴です。",
+      "reason": "イヴは、新たな色彩と優美な形状を持つ進化を遂げました。その美しさと独自性が、種の繁栄に貢献すると考えられます。",
+      "thought": "『永遠の美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#0066cc'/><polygon points='200,100 150,200 250,200' fill='#ffcc00'/><circle cx='200' cy='150' r='40' fill='#ffcc00'/><line x1='180' y1='180' x2='190' y2='190' stroke='#000' stroke-width='2'/><line x1='220' y1='180' x2='210' y2='190' stroke='#000' stroke-width='2'/><polygon points='170,240 230,240 200,300' fill='#ffcc00'/><rect x='185' y='300' width='30' height='20' fill='#0066cc'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='180' width='160' height='180' fill='#87CEEB'/><ellipse cx='200' cy='100' rx='80' ry='70' fill='#00BFFF'/><path d='M160 190 Q200 230 240 190' fill='none' stroke='#4682B4'/><path d='M160 210 Q200 250 240 210' fill='none' stroke='#4682B4'/><circle cx='190' cy='90' r='10' fill='#000'/><circle cx='210' cy='90' r='10' fill='#000'/><path d='M150 300 Q200 350 250 300' fill='none' stroke='#1E90FF'/><path d='M160 310 Q200 350 240 310' fill='none' stroke='#1E90FF'/><line x1='200' y1='260' x2='200' y2='300' stroke='#00BFFF' stroke-width='4'/><polygon points='190,300 200,320 210,300' fill='#00BFFF'/></svg>",
     "report": {
-      "appearance": "アダムは、青色の肌を持つ男性型生命体です。黄色の鋭い目と大きな黄色の口を持ち、顔には橙色の三角形の模様があります。体には黄色のストライプが施されています。足元には青色の短パンがあり、頭には黄色の角が2本生えています。",
-      "reason": "アダムは進化により、より強靭で力強い風貌となり、狩猟や生存に適した外見が強調されました。",
-      "thought": "『力と勇気』"
+      "appearance": "アダムは、青色の肌と逞しい体つき、深い青色の目を持つ男性型生命体です。体は青い胴体が中央にあり、頭部は力強い雰囲気を漂わせる青い顔で構成されています。力強い四肢と特徴的な角が特徴です。",
+      "reason": "アダムは、強さと独創性を兼ね備えた進化を遂げました。その力強さが集団の安定や生存に寄与する可能性が考えられます。",
+      "thought": "『未来への力強い想い』"
     },
     "name": "アダム",
     "gender": "男性"
