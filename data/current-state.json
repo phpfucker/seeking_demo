@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#FFDBAC'/><ellipse cx='200' cy='240' rx='80' ry='100' fill='#FFC09F'/><path d='M200 300 L180 330 L220 330 Z' fill='#FF5733'/><path d='M160 190 Q200 250 240 190 Q200 220 160 190 Z' fill='#E85A4F'/><circle cx='160' cy='220' r='10' fill='#2C3E50'/><circle cx='240' cy='220' r='10' fill='#2C3E50'/><line x1='150' y1='330' x2='250' y2='330' stroke='#2C3E50' stroke-width='5'/><line x1='180' y1='310' x2='220' y2='310' stroke='#2C3E50' stroke-width='5'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='140' cy='180' rx='30' ry='20' fill='#ffcccb'/><ellipse cx='260' cy='180' rx='30' ry='20' fill='#ffcccb'/><path d='M180,240 Q200,280 220,240 Q200,260 180,240' fill='none' stroke='#333' stroke-width='2'/><circle cx='170' cy='170' r='5' fill='#333'/><circle cx='230' cy='170' r='5' fill='#333'/><path d='M150,240 Q190,250 230,240' fill='none' stroke='#333' stroke-width='2'/><rect x='185' y='240' width='30' height='10' fill='#333'/><rect x='170' y='250' width='60' height='10' fill='#ffcccb'/><line x1='180' y1='260' x2='180' y2='290' stroke='#333' stroke-width='2'/><line x1='220' y1='260' x2='220' y2='290' stroke='#333' stroke-width='2'/><text x='200' y='330' font-family='Arial' font-size='20' fill='#333' text-anchor='middle'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴは肌がオレンジ色の円柱状の体を持ち、薄いピンク色の楕円形の顔と大きな赤い口元が特徴です。顔には小さな青い目があり、頭部には赤い角が2本生えています。四肢は短いがしっかりとした形状で、手や足には小さな青い円形の爪があります。",
-      "reason": "イヴはより社会的になるため、顔の表情やコミュニケーション機能が進化しました。",
-      "thought": "『希望』"
+      "appearance": "イヴはピンク色の柔らかな皮膚を持ち、優雅な曲線と柔らかな表情を特徴とする。首には短い角が生え、背中には美しい模様が彩る。手足は華奢でありながら力強さを感じさせる。",
+      "reason": "イヴは進化の過程で優美さと力強さを兼ね備えるようになり、よりバランスの取れた生存戦略を獲得した。",
+      "thought": "『生命の源より、調和を。』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#C9C9FF'/><ellipse cx='200' cy='240' rx='80' ry='100' fill='#A7A4FF'/><path d='M200 300 L180 330 L220 330 Z' fill='#6B66FF'/><path d='M160 190 Q200 250 240 190 Q200 220 160 190 Z' fill='#4C4AE3'/><circle cx='160' cy='220' r='10' fill='#2C3E50'/><circle cx='240' cy='220' r='10' fill='#2C3E50'/><line x1='150' y1='330' x2='250' y2='330' stroke='#2C3E50' stroke-width='5'/><line x1='180' y1='310' x2='220' y2='310' stroke='#2C3E50' stroke-width='5'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='160' width='100' height='160' fill='#5a7d7c'/><rect x='160' y='250' width='20' height='60' fill='#5a7d7c'/><rect x='220' y='250' width='20' height='60' fill='#5a7d7c'/><ellipse cx='200' cy='150' rx='60' ry='40' fill='#5a7d7c'/><path d='M180,240 Q200,280 220,240 Q200,260 180,240' fill='none' stroke='#333' stroke-width='2'/><circle cx='170' cy='170' r='5' fill='#333'/><circle cx='230' cy='170' r='5' fill='#333'/><path d='M150,240 Q190,250 230,240' fill='none' stroke='#333' stroke-width='2'/><rect x='185' y='240' width='30' height='10' fill='#333'/><rect x='170' y='250' width='60' height='10' fill='#5a7d7c'/><line x1='180' y1='260' x2='180' y2='290' stroke='#333' stroke-width='2'/><line x1='220' y1='260' x2='220' y2='290' stroke='#333' stroke-width='2'/><text x='200' y='330' font-family='Arial' font-size='20' fill='#333' text-anchor='middle'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは淡い青色の円柱状の体を持ち、薄紫色の楕円形の顔と大きな青い目が特徴です。口元は紫色で、頭部には青い角が2本生えています。四肢はしっかりとした形状で、手や足には小さな青い円形の爪があります。",
-      "reason": "アダムはより力強く進化し、身体能力が向上しました。",
-      "thought": "『調和』"
+      "appearance": "アダムは青緑色の頑丈な体躯を持ち、堅固な四角形と直線が特徴的である。体全体に力強さが漂い、角の生えた頭部が威厳を感じさせる。足は頑丈で安定感があり、しっかりと地に根を張る。",
+      "reason": "アダムは進化の中で頑丈さと安定性を重視し、より堅牢な生存力を手に入れた。",
+      "thought": "『堅固な体は、確かな未来への礎。』"
     },
     "name": "アダム",
     "gender": "男性"
