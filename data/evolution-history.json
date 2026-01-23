@@ -23603,5 +23603,28 @@
       "gender": "男性"
     },
     "timestamp": 1769149792770
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcbc1' /><ellipse cx='200' cy='180' rx='80' ry='120' fill='#fcb4a4' /><circle cx='140' cy='130' r='20' fill='#ffffff' /><circle cx='260' cy='130' r='20' fill='#ffffff' /><path d='M200 220 Q150 250 200 280 Q250 250 200 220 Z' fill='#ff958a' /><rect x='180' y='200' width='40' height='20' fill='#ffffff' /><rect x='160' y='220' width='80' height='20' fill='#ffffff' /><path d='M170 180 Q200 140 230 180 Q200 160 170 180' fill='#fcb4a4' /><path d='M180 240 Q200 260 220 240' stroke='#000000' stroke-width='2' fill='none' /><path d='M180 240 Q190 250 200 240 Q210 250 220 240' stroke='#000000' stroke-width='2' fill='none' /><line x1='180' y1='200' x2='160' y2='230' stroke='#000000' stroke-width='2' /><line x1='220' y1='200' x2='240' y2='230' stroke='#000000' stroke-width='2' /><line x1='180' y1='250' x2='160' y2='280' stroke='#000000' stroke-width='2' /><line x1='220' y1='250' x2='240' y2='280' stroke='#000000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな外見を持つ女性型生命体です。体は大きな円形であり、頭部には楕円形の顔があります。白い目が2つついており、口元は赤い色合いで表現されています。",
+        "reason": "環境の変化により、イヴはより優しくて温和な特徴を発展させ、共感性と思いやりを持った進化を遂げました。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='120' width='120' height='180' fill='#9dc7e0' /><ellipse cx='200' cy='160' rx='50' ry='70' fill='#6ca7d2' /><ellipse cx='160' cy='150' rx='10' ry='20' fill='#ffffff' /><ellipse cx='240' cy='150' rx='10' ry='20' fill='#ffffff' /><polygon points='200,160 180,180 220,180' fill='#6ca7d2' /><rect x='180' y='200' width='40' height='20' fill='#ffffff' /><rect x='160' y='220' width='80' height='20' fill='#ffffff' /><line x1='160' y1='240' x2='140' y2='260' stroke='#000000' stroke-width='2' /><line x1='240' y1='240' x2='260' y2='260' stroke='#000000' stroke-width='2' /><line x1='160' y1='240' x2='140' y2='280' stroke='#000000' stroke-width='2' /><line x1='240' y1='240' x2='260' y2='280' stroke='#000000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の外見を持つ男性型生命体です。体は四角形の頑丈な体型で、頭部には小さな楕円形の顔があります。白い目が2つついており、口元は青い色合いで表現されています。",
+        "reason": "環境の変化により、アダムはより力強くて堅固な特徴を発展させ、勇気と決断力を持った進化を遂げました。",
+        "thought": "『誇りと勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1769171975005
   }
 ]
