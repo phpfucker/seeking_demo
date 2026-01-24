@@ -23695,5 +23695,28 @@
       "gender": "男性"
     },
     "timestamp": 1769236021370
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='160' fill='#ffcc99' /><ellipse cx='200' cy='130' rx='80' ry='100' fill='#ffddb3' /><ellipse cx='200' cy='270' rx='120' ry='60' fill='#ffddb3' /><path d='M150,250 Q200,330 250,250 Q200,330 150,250 Z' fill='#ffaa66' /><path d='M120,130 Q200,50 280,130 Q200,160 120,130 Z' fill='#ffaa66' /><circle cx='150' cy='150' r='20' fill='#000' /><circle cx='250' cy='150' r='20' fill='#000' /><path d='M130,280 Q160,320 170,290 Q180,320 210,320 Q240,320 250,290 Q260,320 290,280 Q260,300 210,300 Q160,300 130,280 Z' fill='#000' /><rect x='170' y='150' width='60' height='20' fill='#ffaa66' /><rect x='180' y='170' width='40' height='60' fill='#ffaa66' /><polygon points='190,200 210,180 230,200' fill='#000' /><polygon points='190,220 210,240 230,220' fill='#000' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、眩いオレンジ色の髪と大きな黒い瞳を持つ女性の姿をしています。体の一部はオレンジ色の斑点模様で覆われています。",
+        "reason": "イヴは、自然界の美しさと調和を象徴するため、より華やかで色鮮やかな外見に進化しました。",
+        "thought": "『生命の美しさを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='160' fill='#6699cc' /><ellipse cx='200' cy='130' rx='70' ry='90' fill='#b3d1ff' /><ellipse cx='200' cy='270' rx='110' ry='50' fill='#b3d1ff' /><path d='M150,250 Q200,330 250,250 Q200,330 150,250 Z' fill='#6688ff' /><path d='M120,130 Q200,50 280,130 Q200,160 120,130 Z' fill='#6688ff' /><circle cx='150' cy='150' r='20' fill='#000' /><circle cx='250' cy='150' r='20' fill='#000' /><path d='M130,280 Q160,320 170,290 Q180,320 210,320 Q240,320 250,290 Q260,320 290,280 Q260,300 210,300 Q160,300 130,280 Z' fill='#000' /><rect x='170' y='150' width='60' height='20' fill='#6688ff' /><rect x='180' y='170' width='40' height='60' fill='#6688ff' /><polygon points='190,200 210,180 230,200' fill='#000' /><polygon points='190,220 210,240 230,220' fill='#000' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い鱗状の皮膚と紺色の髪、蒼い瞳を持つ男性の姿をしています。体の一部は淡い青色の斑点模様で彩られています。",
+        "reason": "アダムは、強さと知性を備えるべく、より洗練された外観と神秘的な色彩へと進化しました。",
+        "thought": "『自分の内なる力を信じる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1769258071972
   }
 ]
