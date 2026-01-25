@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='palegoldenrod' /><ellipse cx='200' cy='180' rx='80' ry='100' fill='lightcoral' /><rect x='160' y='220' width='80' height='100' fill='plum' /><polygon points='150,200 250,200 200,280' fill='lightblue' /><path d='M180,270 L190,290 L210,290 L220,270 Z' fill='lightpink' /><line x1='170' y1='220' x2='160' y2='240' stroke='black' stroke-width='2' /><line x1='230' y1='220' x2='240' y2='240' stroke='black' stroke-width='2' /><line x1='170' y1='320' x2='160' y2='340' stroke='black' stroke-width='2' /><line x1='230' y1='320' x2='240' y2='340' stroke='black' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFD700' /><rect x='125' y='250' width='150' height='80' fill='#FFB6C1' /><polygon points='200,150 220,170 180,170' fill='#FFB6C1' /><ellipse cx='160' cy='220' rx='20' ry='10' fill='#FFB6C1' /><ellipse cx='240' cy='220' rx='20' ry='10' fill='#FFB6C1' /><ellipse cx='200' cy='250' rx='10' ry='5' fill='#FFB6C1' /><circle cx='170' cy='180' r='10' fill='#000' /><circle cx='230' cy='180' r='10' fill='#000' /><path d='M175 240 Q200 260 225 240' fill='none' stroke='#000' stroke-width='2' /><path d='M180 160 Q200 140 220 160' fill='none' stroke='#000' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "イヴは、金色の円形の輪郭に、赤い楕円形の体と紫色の四角形の装飾を持つ。青い三角形の模様が描かれた背中にピンクの模様がある。四本の足と角を持ち、幅広い表情を見せる。",
-      "reason": "生存環境の変化により、イヴは美しい色彩と独特なパターンを持つよう進化した。",
-      "thought": "『輝く色彩の中で、自身を表現する』"
+      "appearance": "イヴは金色の体を持ち、ピンク色の服を着ています。体は円形で、手足は楕円形の小さなふわふわしたものです。顔には丸い目と口があり、やや長めの鼻が特徴です。",
+      "reason": "イヴは新たな力を手に入れるため、金色の輝く体と柔らかい雰囲気の服で自らの内面を表現した。",
+      "thought": "『希望』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='skyblue' /><ellipse cx='200' cy='180' rx='80' ry='100' fill='lightgreen' /><rect x='160' y='220' width='80' height='100' fill='goldenrod' /><polygon points='150,200 250,200 200,280' fill='orchid' /><path d='M180,270 L190,290 L210,290 L220,270 Z' fill='lightsalmon' /><line x1='170' y1='220' x2='160' y2='240' stroke='black' stroke-width='2' /><line x1='230' y1='220' x2='240' y2='240' stroke='black' stroke-width='2' /><line x1='170' y1='320' x2='160' y2='340' stroke='black' stroke-width='2' /><line x1='230' y1='320' x2='240' y2='340' stroke='black' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='200' width='100' height='180' fill='#4682B4' /><polygon points='200,150 220,170 180,170' fill='#4682B4' /><circle cx='175' cy='240' r='10' fill='#000' /><circle cx='225' cy='240' r='10' fill='#000' /><ellipse cx='160' cy='220' rx='20' ry='10' fill='#4682B4' /><ellipse cx='240' cy='220' rx='20' ry='10' fill='#4682B4' /><ellipse cx='200' cy='270' rx='10' ry='5' fill='#4682B4' /><path d='M175 240 Q200 260 225 240' fill='none' stroke='#000' stroke-width='2' /><path d='M180 160 Q200 140 220 160' fill='none' stroke='#000' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "アダムは、青い円形の輪郭に、緑色の楕円形の体と金色の四角形の装飾を持つ。紫色の三角形の模様が描かれた背中にオレンジ色の模様がある。四本の足と角を持ち、穏やかな表情を見せる。",
-      "reason": "獲物や敵から身を守るため、アダムは美しい色彩と特徴的なパターンを持つよう進化した。",
-      "thought": "『安らぎと調和の中で、自然に溶け込む』"
+      "appearance": "アダムは青い体を持ち、太い四角い脚と長い尾を持っています。体は四角形で、頭部に三角形の突起があります。目は丸く、口は大きく開いています。",
+      "reason": "アダムは自然界の力強さを表現するため、青い体と太い脚、そして長い尾を手に入れた。",
+      "thought": "『力』"
     },
     "name": "アダム",
     "gender": "男性"
