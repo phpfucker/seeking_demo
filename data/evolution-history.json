@@ -23764,5 +23764,28 @@
       "gender": "男性"
     },
     "timestamp": 1769305285555
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ff8c94'/><ellipse cx='200' cy='150' rx='80' ry='100' fill='#ffc0cb'/><path d='M150 200 L200 280 L250 200 Z' fill='#ff6381'/><circle cx='160' cy='180' r='5' fill='#fff'/><circle cx='240' cy='180' r='5' fill='#fff'/><polygon points='180,220 200,260 220,220' fill='#fff'/><line x1='170' y1='260' x2='200' y2='300' stroke='#000' stroke-width='2'/><line x1='230' y1='260' x2='200' y2='300' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴはピンクの体色を持ち、大きな赤い目と、華やかな赤い服を身に着けた女性型の生命体です。体の上部が楕円形で、下部が四角形の特異な形状をしています。手足は細長く、背中には赤い翼が生えています。",
+        "reason": "イヴは新たな進化の一環として、より華やかで鮮やかな外見を身にまとうことで、環境への適応を意識して進化しました。",
+        "thought": "『華やかさが、内面の輝きを反映している』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#66b3ff'/><ellipse cx='200' cy='150' rx='80' ry='100' fill='#add8e6'/><path d='M150 200 L200 280 L250 200 Z' fill='#66b3ff'/><circle cx='160' cy='180' r='5' fill='#fff'/><circle cx='240' cy='180' r='5' fill='#fff'/><polygon points='180,220 200,260 220,220' fill='#fff'/><line x1='170' y1='260' x2='200' y2='300' stroke='#000' stroke-width='2'/><line x1='230' y1='260' x2='200' y2='300' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の体色を持ち、大きな青い目と、シンプルで涼やかな青い服を身に纏った男性型の生命体です。体の上部は楕円形で、下部は四角形の独特な形状をしています。手足は細長く、背中には青い翼が生えています。",
+        "reason": "アダムは自然環境に対する適応力を高めるべく、よりシンプルで涼やかな外見へと進化しました。",
+        "thought": "『青さが、心の平静と調和を象徴している』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1769322437042
   }
 ]
