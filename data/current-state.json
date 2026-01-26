@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='50' width='160' height='220' fill='#ffcccb'/><circle cx='200' cy='160' r='100' fill='#ffb6c1'/><rect x='170' y='100' width='60' height='150' fill='#ff99aa'/><circle cx='170' cy='160' r='15' fill='#ff6666'/><circle cx='230' cy='160' r='15' fill='#ff6666'/><path d='M180 200 Q200 240 220 200' fill='none' stroke='#ff6666'/><path d='M200 240 Q200 230 220 240' fill='none' stroke='#ff6666'/><polygon points='185,145 215,145 200,160' fill='#ffcccc'/><polygon points='170,260 190,260 180,280' fill='#ff9999'/><polygon points='210,260 230,260 220,280' fill='#ff9999'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#ffa64d' /><rect x='160' y='220' width='80' height='40' fill='#ff9933' /><path d='M200,220 L220,260 L180,260 Z' fill='#ff9933' /><polygon points='190,140 200,120 210,140' fill='#e65c00' /><line x1='170' y1='150' x2='190' y2='140' stroke='#660000' stroke-width='4' /><line x1='230' y1='150' x2='210' y2='140' stroke='#660000' stroke-width='4' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の肌と赤い髪を持つ女性の進化体です。体はピンクの一枚皮で覆われ、大きな赤い目が特徴的です。両腕には手があり、髪は長くてウェーブがかかっています。",
-      "reason": "生存環境の変化により、イヴは感情表現がより重要となり、大きな目や長い髪など、コミュニケーション能力の向上に適した特徴が進化しました。",
-      "thought": "『つながり』"
+      "appearance": "イヴはピンク色の柔らかな皮膚を持ち、オレンジ色の長い髪が波打っています。頭部には小さな角があり、目元がやさしさを表現しています。腕と脚は力強く、細長い形状をしており、尾は丸くてふさふさしています。",
+      "reason": "女性的な特徴をより強調し、生命体の美しさを際立たせるために進化しました。",
+      "thought": "『生命の力強さと美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='50' width='160' height='220' fill='#add8e6'/><circle cx='200' cy='160' r='100' fill='#87ceeb'/><rect x='170' y='100' width='60' height='150' fill='#4682b4'/><circle cx='170' cy='160' r='15' fill='#4169e1'/><circle cx='230' cy='160' r='15' fill='#4169e1'/><path d='M180 200 Q200 240 220 200' fill='none' stroke='#4169e1'/><path d='M200 240 Q200 230 220 240' fill='none' stroke='#4169e1'/><polygon points='185,145 215,145 200,160' fill='#b0e0e6'/><polygon points='170,260 190,260 180,280' fill='#87cefa'/><polygon points='210,260 230,260 220,280' fill='#87cefa'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#7fb3d5' /><polygon points='175,180 200,120 225,180' fill='#336699' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#4d80b3' /><rect x='180' y='220' width='40' height='80' fill='#005fae' /><path d='M200,220 L220,240 L200,260 Z' fill='#005fae' /><polyline points='180,140 200,120 220,140' fill='none' stroke='#00264d' stroke-width='4' /><line x1='190' y1='240' x2='210' y2='240' stroke='#00264d' stroke-width='4' /></svg>",
     "report": {
-      "appearance": "アダムは、青色の肌と青い髪を持つ男性の進化体です。体は青い鱗に覆われ、大きな青い目が特徴的です。手足があり、髪は短く立ち上がっています。",
-      "reason": "繁殖競争が激化し、アダムは目立つ特徴を持つことが重要になりました。青い鱗や目の大きさは仲間に対して強さをアピールするために進化しました。",
-      "thought": "『競争』"
+      "appearance": "アダムは青色の体毛を持つ生命体で、頭部に三角形の角が特徴的に生えています。体は筋肉質で引き締まり、脚は頑丈で安定感があります。尾は短く、大きな鰭がついています。",
+      "reason": "男性らしさと力強さを強調し、生命体の威厳を示すために進化しました。",
+      "thought": "『生命の堅固さと輝き』"
     },
     "name": "アダム",
     "gender": "男性"
