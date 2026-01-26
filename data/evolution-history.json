@@ -23902,5 +23902,28 @@
       "gender": "男性"
     },
     "timestamp": 1769431227058
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='150' cy='180' rx='25' ry='40' fill='#ffe0bd' /><ellipse cx='250' cy='180' rx='25' ry='40' fill='#ffe0bd' /><circle cx='170' cy='180' r='7' fill='#000' /><circle cx='230' cy='180' r='7' fill='#000' /><path d='M150,230 Q200,270 250,230' fill='none' stroke='#000' stroke-width='5' /><path d='M150,230 Q200,250 250,230' fill='none' stroke='#000' stroke-width='5' /><path d='M170,180 Q200,100 230,180' fill='none' stroke='#000' stroke-width='5' /><path d='M160,220 Q200,280 240,220' fill='none' stroke='#000' stroke-width='5' /><rect x='180' y='250' width='40' height='20' fill='#ff69b4' /><polygon points='180,250 220,250 200,280' fill='#ff69b4' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の全身を持ち、やわらかな雰囲気を醸し出しています。頭部には楕円形の耳があり、目は丸く大きく、口元は微笑んでいます。腕と脚は流線型であり、胴体には赤い色の装飾が施されています。",
+        "reason": "遺伝子の進化により、イヴはより華やかで優しい特徴を身につけ、仲間を魅了する力が強化されました。",
+        "thought": "『愛と美の融合』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#87ceeb' /><polygon points='150,100 250,80 250,100' fill='#87ceeb' /><polygon points='150,300 250,320 250,300' fill='#87ceeb' /><ellipse cx='200' cy='90' rx='20' ry='10' fill='#ffd700' /><circle cx='180' cy='110' r='7' fill='#000' /><circle cx='220' cy='110' r='7' fill='#000' /><rect x='180' y='200' width='40' height='20' fill='#ffa07a' /><line x1='160' y1='250' x2='240' y2='250' stroke='#ffa07a' stroke-width='10' /><line x1='160' y1='260' x2='240' y2='260' stroke='#ffa07a' stroke-width='10' /><line x1='160' y1='270' x2='240' y2='270' stroke='#ffa07a' stroke-width='10' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体を持ち、堅実な印象を与えます。四角い顔には黄色い角があり、眼は真ん中に並び、口は力強く閉じられています。腕と脚は太く、胴体にはオレンジ色の模様があります。",
+        "reason": "進化の過程で、アダムはより頼りがいのある装いと力強い特徴を獲得し、集団を守るリーダーシップを強化しました。",
+        "thought": "『誇りと守護』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1769452198635
   }
 ]
