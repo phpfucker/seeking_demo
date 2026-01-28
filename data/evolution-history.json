@@ -24063,5 +24063,28 @@
       "gender": "男性"
     },
     "timestamp": 1769604120633
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#ffe0bd'/><circle cx='200' cy='130' r='60' fill='#ffcc99'/><ellipse cx='150' cy='280' rx='100' ry='50' fill='#ffcc99'/><path d='M200 150 L180 170 L220 170 Z' fill='#ff99cc'/><path d='M170 300 Q200 350 230 300 Q200 320 170 300 Z' fill='#ff99cc'/><line x1='150' y1='180' x2='250' y2='180' stroke='#663300' stroke-width='2'/><line x1='160' y1='190' x2='240' y2='190' stroke='#663300' stroke-width='2'/><line x1='170' y1='200' x2='230' y2='200' stroke='#663300' stroke-width='2'/><line x1='140' y1='300' x2='170' y2='300' stroke='#663300' stroke-width='2'/><line x1='230' y1='300' x2='260' y2='300' stroke='#663300' stroke-width='2'/><line x1='175' y1='300' x2='225' y2='300' stroke='#663300' stroke-width='2'/><line x1='160' y1='290' x2='200' y2='330' stroke='#663300' stroke-width='2'/><line x1='240' y1='290' x2='200' y2='330' stroke='#663300' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、全体的に柔らかなオレンジ色の肌を持ち、顔には円形のピンク色の頬があります。長い髪の毛は短くなり、全体的に丸みを帯びた体つきになりました。両手にはピンク色の爪が生え、足は太めで丸い形状です。しっぽはなめらかな曲線を描き、頭には小さな角が生えています。",
+        "reason": "生息環境の変化により、イヴの進化は柔らかで丸みのある特徴を強化し、愛らしさと共感性を高めることで種の存続を支援するためです。",
+        "thought": "『愛と包容』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#b0c4de'/><circle cx='200' cy='130' r='60' fill='#8ab8ff'/><ellipse cx='150' cy='280' rx='100' ry='50' fill='#8ab8ff'/><path d='M200 150 L180 170 L220 170 Z' fill='#b386ff'/><path d='M170 300 Q200 350 230 300 Q200 320 170 300 Z' fill='#b386ff'/><line x1='150' y1='180' x2='250' y2='180' stroke='#4d648d' stroke-width='2'/><line x1='160' y1='190' x2='240' y2='190' stroke='#4d648d' stroke-width='2'/><line x1='170' y1='200' x2='230' y2='200' stroke='#4d648d' stroke-width='2'/><line x1='140' y1='300' x2='170' y2='300' stroke='#4d648d' stroke-width='2'/><line x1='230' y1='300' x2='260' y2='300' stroke='#4d648d' stroke-width='2'/><line x1='175' y1='300' x2='225' y2='300' stroke='#4d648d' stroke-width='2'/><line x1='160' y1='290' x2='200' y2='330' stroke='#4d648d' stroke-width='2'/><line x1='240' y1='290' x2='200' y2='330' stroke='#4d648d' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、青みがかった灰色の肌を持ち、強靭な体つきと角張った顔立ちをしています。髪の毛は短く、全体的に角ばった形状をしており、筋肉質な腕と足を持つ。背中にはピンク色の斑点模様があり、しっぽは分厚く硬い質感です。",
+        "reason": "アダムの進化は、生存競争の激化により、力強さと防御能力を高め、環境への適応力を向上させるためです。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1769625183607
   }
 ]
