@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='purple'/><ellipse cx='200' cy='150' rx='100' ry='130' fill='pink'/><rect x='160' y='200' width='80' height='120' fill='purple'/><path d='M150 250 L200 300 L250 250 Z' fill='pink'/><polygon points='175,150 225,150 200,120' fill='pink'/><circle cx='180' cy='170' r='10' fill='white'/><circle cx='220' cy='170' r='10' fill='white'/><polygon points='190,220 200,240 210,220' fill='white'/><polygon points='160,280 200,290 240,280' fill='pink'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#f7b3da' /><rect x='100' y='250' width='200' height='100' fill='#ff80ab' /><ellipse cx='150' cy='150' rx='20' ry='40' fill='#ff6b8a' /><ellipse cx='250' cy='150' rx='20' ry='40' fill='#ff6b8a' /><polygon points='190,170 210,170 200,180' fill='#ff80ab' /><line x1='170' y1='250' x2='230' y2='250' stroke='#ff6b8a' stroke-width='10' /><line x1='150' y1='350' x2='175' y2='320' stroke='#ff6b8a' stroke-width='10' /><line x1='250' y1='350' x2='225' y2='320' stroke='#ff6b8a' stroke-width='10' /><line x1='130' y1='200' x2='170' y2='200' stroke='#ff6b8a' stroke-width='10' /><line x1='230' y1='200' x2='270' y2='200' stroke='#ff6b8a' stroke-width='10' /><path d='M180,220 Q200,250 220,220' fill='none' stroke='#ff6b8a' stroke-width='7' /><text x='200' y='380' text-anchor='middle' font-family='Arial' font-size='18' fill='#333'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴは、紫とピンクの色合いを持つ美しい女性の姿をしています。体には大きな紫の円形があり、ピンクの楕円形が胸元に広がっています。手足は短く、ピンクの装飾が施されています。顔には白い目と口があり、愛らしい表情をしています。",
-      "reason": "イヴは、美しい色彩と柔らかな曲線を持つ進化を遂げました。環境の変化により、より視覚的な魅力を持つことで仲間を引き寄せるためです。",
-      "thought": "『愛と美しさ』"
+      "appearance": "イヴはピンク色の体に赤色の服を着た女性で、頭には二本の髪の毛があります。体の一部には赤い模様があり、手足は太めで短いです。",
+      "reason": "イヴは新しい環境に適応するため、より可愛らしい外見に進化しました。",
+      "thought": "『夢と希望』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='blue'/><ellipse cx='200' cy='150' rx='100' ry='130' fill='lightblue'/><rect x='160' y='200' width='80' height='120' fill='blue'/><path d='M150 250 L200 300 L250 250 Z' fill='lightblue'/><polygon points='175,150 225,150 200,120' fill='lightblue'/><line x1='180' y1='170' x2='190' y2='180' stroke='white' stroke-width='2'/><line x1='210' y1='170' x2='220' y2='180' stroke='white' stroke-width='2'/><polyline points='190,220 200,240 210,220' fill='none' stroke='white' stroke-width='2'/><polygon points='160,280 200,290 240,280' fill='lightblue'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='300' fill='#8ad7ff' /><rect x='125' y='200' width='50' height='50' fill='#9adef6' /><rect x='225' y='200' width='50' height='50' fill='#9adef6' /><circle cx='200' cy='100' r='40' fill='#96ccff' /><polygon points='190,160 210,160 200,180' fill='#9adef6' /><line x1='150' y1='250' x2='250' y2='250' stroke='#96ccff' stroke-width='10' /><line x1='125' y1='300' x2='145' y2='280' stroke='#96ccff' stroke-width='10' /><line x1='275' y1='300' x2='255' y2='280' stroke='#96ccff' stroke-width='10' /><line x1='175' y1='120' x2='200' y2='120' stroke='#96ccff' stroke-width='10' /><line x1='200' y1='120' x2='225' y2='120' stroke='#96ccff' stroke-width='10' /><text x='200' y='30' text-anchor='middle' font-family='Arial' font-size='18' fill='#333'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは、青とライトブルーの色調が特徴的な男性の姿をしています。体には大きな青い円形があり、胸元にはライトブルーの楕円形が広がっています。手足は短く、ライトブルーの模様が描かれています。顔には白い目と口があり、穏やかな表情を浮かべています。",
-      "reason": "アダムは、進化の過程で青色と柔らかな曲線を取り入れました。自然環境において、青色が視覚的な効果を持つことで仲間とのコミュニケーションを強化するためです。",
-      "thought": "『平和と知恵』"
+      "appearance": "アダムは青色の体を持つ男性で、短い四角形の顔と両腕が特徴です。体の一部には水色の模様があり、脚は太く短いです。",
+      "reason": "アダムは狩猟や戦闘をより効果的に行うため、力強い外見に進化しました。",
+      "thought": "『勇気と力』"
     },
     "name": "アダム",
     "gender": "男性"
