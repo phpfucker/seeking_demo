@@ -24178,5 +24178,28 @@
       "gender": "男性"
     },
     "timestamp": 1769711934219
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffcccb'/><ellipse cx='200' cy='150' rx='80' ry='100' fill='#ffe4e1'/><polygon points='150,250 250,250 200,350' fill='#ffb6c1'/><ellipse cx='170' cy='150' rx='10' ry='20' fill='#333'/><ellipse cx='230' cy='150' rx='10' ry='20' fill='#333'/><path d='M180 190 Q200 220 220 190' fill='none' stroke='#333' stroke-width='2'/><polygon points='190,120 195,125 185,125' fill='#333'/><polygon points='210,120 215,125 205,125' fill='#333'/><rect x='170' y='280' width='60' height='40' fill='#333'/><rect x='150' y='320' width='100' height='30' fill='#333'/><line x1='180' y1='330' x2='180' y2='360' stroke='#333' stroke-width='2'/><line x1='220' y1='330' x2='220' y2='360' stroke='#333' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、優美な曲線の体をしています。顔には大きな灰色の瞳と小さな鼻があり、長いまつ毛が特徴です。頭部には二本の角が生え、しっぽは短くてフサフサしています。手足は細長く、指先には尖った爪があります。",
+        "reason": "イヴは環境の変化に対応するため、より柔らかで愛らしい外見を手に入れました。",
+        "thought": "『優しさが最大の力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#add8e6'/><ellipse cx='200' cy='150' rx='80' ry='100' fill='#b0e0e6'/><polygon points='150,250 250,250 200,350' fill='#87ceeb'/><ellipse cx='170' cy='150' rx='10' ry='20' fill='#333'/><ellipse cx='230' cy='150' rx='10' ry='20' fill='#333'/><path d='M180 190 Q200 220 220 190' fill='none' stroke='#333' stroke-width='2'/><polygon points='190,120 195,125 185,125' fill='#333'/><polygon points='210,120 215,125 205,125' fill='#333'/><rect x='170' y='280' width='60' height='40' fill='#333'/><rect x='150' y='320' width='100' height='30' fill='#333'/><line x1='180' y1='330' x2='180' y2='360' stroke='#333' stroke-width='2'/><line x1='220' y1='330' x2='220' y2='360' stroke='#333' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、淡い青色の肌を持ち、引き締まった筋肉と力強い体つきをしています。顔には優しい表情と大きな青色の瞳があり、鼻は高く整った形です。頭部には一本の角が生え、しっぽは太くてしっかりした造りです。手足は頑丈で、広い肉球がついています。",
+        "reason": "アダムは生存競争に勝利するため、力強い外見と優れた体力を獲得しました。",
+        "thought": "『限界を超える力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1769737622885
   }
 ]
