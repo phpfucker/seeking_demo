@@ -24224,5 +24224,28 @@
       "gender": "男性"
     },
     "timestamp": 1769755367329
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#f7b3da' /><rect x='100' y='250' width='200' height='100' fill='#ff80ab' /><ellipse cx='150' cy='150' rx='20' ry='40' fill='#ff6b8a' /><ellipse cx='250' cy='150' rx='20' ry='40' fill='#ff6b8a' /><polygon points='190,170 210,170 200,180' fill='#ff80ab' /><line x1='170' y1='250' x2='230' y2='250' stroke='#ff6b8a' stroke-width='10' /><line x1='150' y1='350' x2='175' y2='320' stroke='#ff6b8a' stroke-width='10' /><line x1='250' y1='350' x2='225' y2='320' stroke='#ff6b8a' stroke-width='10' /><line x1='130' y1='200' x2='170' y2='200' stroke='#ff6b8a' stroke-width='10' /><line x1='230' y1='200' x2='270' y2='200' stroke='#ff6b8a' stroke-width='10' /><path d='M180,220 Q200,250 220,220' fill='none' stroke='#ff6b8a' stroke-width='7' /><text x='200' y='380' text-anchor='middle' font-family='Arial' font-size='18' fill='#333'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体に赤色の服を着た女性で、頭には二本の髪の毛があります。体の一部には赤い模様があり、手足は太めで短いです。",
+        "reason": "イヴは新しい環境に適応するため、より可愛らしい外見に進化しました。",
+        "thought": "『夢と希望』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='300' fill='#8ad7ff' /><rect x='125' y='200' width='50' height='50' fill='#9adef6' /><rect x='225' y='200' width='50' height='50' fill='#9adef6' /><circle cx='200' cy='100' r='40' fill='#96ccff' /><polygon points='190,160 210,160 200,180' fill='#9adef6' /><line x1='150' y1='250' x2='250' y2='250' stroke='#96ccff' stroke-width='10' /><line x1='125' y1='300' x2='145' y2='280' stroke='#96ccff' stroke-width='10' /><line x1='275' y1='300' x2='255' y2='280' stroke='#96ccff' stroke-width='10' /><line x1='175' y1='120' x2='200' y2='120' stroke='#96ccff' stroke-width='10' /><line x1='200' y1='120' x2='225' y2='120' stroke='#96ccff' stroke-width='10' /><text x='200' y='30' text-anchor='middle' font-family='Arial' font-size='18' fill='#333'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青色の体を持つ男性で、短い四角形の顔と両腕が特徴です。体の一部には水色の模様があり、脚は太く短いです。",
+        "reason": "アダムは狩猟や戦闘をより効果的に行うため、力強い外見に進化しました。",
+        "thought": "『勇気と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1769777212106
   }
 ]
