@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='200' rx='100' ry='140' fill='#ffdab9' /><path d='M150,300 Q200,350 250,300' stroke='#ff1493' stroke-width='5' fill='none' /><path d='M150,200 Q200,150 250,200' stroke='#ff1493' stroke-width='5' fill='none' /><path d='M100,180 Q200,100 300,180' stroke='#ff1493' stroke-width='5' fill='none' /><path d='M200,230 Q250,180 300,230' stroke='#ff69b4' stroke-width='5' fill='none' /><line x1='180' y1='260' x2='190' y2='250' stroke='#000' stroke-width='3' /><line x1='220' y1='260' x2='230' y2='250' stroke='#000' stroke-width='3' /><polygon points='180,320 200,350 220,320' fill='#ff69b4' /><rect x='190' y='300' width='20' height='30' fill='#ff69b4' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='150' rx='60' ry='80' fill='#ffc0cb' /><ellipse cx='200' cy='260' rx='40' ry='25' fill='#ffcccb' /><polygon points='175,165 225,165 200,180' fill='#ffffff' /><ellipse cx='180' cy='140' rx='10' ry='5' fill='#ffffff' /><ellipse cx='220' cy='140' rx='10' ry='5' fill='#ffffff' /><circle cx='180' cy='140' r='3' fill='#000000' /><circle cx='220' cy='140' r='3' fill='#000000' /><line x1='190' y1='155' x2='195' y2='155' stroke='#000000' stroke-width='2' /><line x1='210' y1='155' x2='215' y2='155' stroke='#000000' stroke-width='2' /><path d='M180,260 Q200,290 220,260' fill='none' stroke='#000000' stroke-width='3' /><path d='M180,260 Q200,250 220,260' fill='none' stroke='#000000' stroke-width='3' /><path d='M160,230 Q200,280 240,230' fill='none' stroke='#000000' stroke-width='3' /><path d='M160,230 Q200,220 240,230' fill='none' stroke='#000000' stroke-width='3' /></svg>",
     "report": {
-      "appearance": "イヴはピンク色の柔らかな皮膚を持ち、鮮やかな赤色の髪の毛が特徴です。四肢はしなやかで、優雅な姿勢をとっています。",
-      "reason": "新たな進化により、イヴはより優美で美しい姿に変化しました。",
-      "thought": "『知性と美しさの融合』"
+      "appearance": "イヴはピンク色の玉虫のような体に、淡い赤色の髪を持つ女性です。背中には翼があり、しっぽと尖った耳が特徴です。",
+      "reason": "進化の過程で、イヴは自然界での生存に適した姿に変化しました。翼や尖った耳は、環境への適応を示しています。",
+      "thought": "『自然に溶け込み、調和する』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6' /><ellipse cx='200' cy='200' rx='100' ry='140' fill='#87ceeb' /><path d='M160,300 Q200,350 240,300' stroke='#4169e1' stroke-width='5' fill='none' /><path d='M160,200 Q200,150 240,200' stroke='#4169e1' stroke-width='5' fill='none' /><path d='M120,180 Q200,100 280,180' stroke='#4169e1' stroke-width='5' fill='none' /><path d='M200,230 Q260,180 320,230' stroke='#0000cd' stroke-width='5' fill='none' /><line x1='180' y1='260' x2='190' y2='250' stroke='#000' stroke-width='3' /><line x1='220' y1='260' x2='230' y2='250' stroke='#000' stroke-width='3' /><polygon points='180,320 200,350 220,320' fill='#4169e1' /><rect x='190' y='300' width='20' height='30' fill='#4169e1' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='200' fill='#87ceeb' /><polygon points='200,100 250,200 150,200' fill='#87ceeb' /><polygon points='175,160 225,160 200,130' fill='#ffffff' /><ellipse cx='180' cy='150' rx='10' ry='5' fill='#ffffff' /><ellipse cx='220' cy='150' rx='10' ry='5' fill='#ffffff' /><circle cx='180' cy='150' r='3' fill='#000000' /><circle cx='220' cy='150' r='3' fill='#000000' /><line x1='190' y1='165' x2='195' y2='165' stroke='#000000' stroke-width='2' /><line x1='210' y1='165' x2='215' y2='165' stroke='#000000' stroke-width='2' /><ellipse cx='200' cy='150' rx='30' ry='20' fill='#ffd700' /><line x1='200' y1='200' x2='200' y2='220' stroke='#000000' stroke-width='3' /><polygon points='190,200 210,200 200,210' fill='#000000' /></svg>",
     "report": {
-      "appearance": "アダムは青色の肌と淡い青色の髪を持つ、力強くたくましい体つきが特徴です。堅い表情を浮かべ、優れた筋肉を持っています。",
-      "reason": "進化の過程で、アダムはより強靭で頼りがいのある姿に変貌しました。",
-      "thought": "『力と誠実さの融合』"
+      "appearance": "アダムは青色の体に、黄色の鱗状の装飾が施された男性です。頭部には黄色い角があり、背中には鰭が生えています。",
+      "reason": "進化の過程で、アダムは優れた防衛手段と危険を察知する能力を発展させました。鱗や角は敵に対する警戒を示しています。",
+      "thought": "『力強く守るべし』"
     },
     "name": "アダム",
     "gender": "男性"
