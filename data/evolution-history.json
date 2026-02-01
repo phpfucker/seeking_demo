@@ -24362,5 +24362,28 @@
       "gender": "男性"
     },
     "timestamp": 1769884031455
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#FFB6C1' /><circle cx='200' cy='200' r='140' fill='#FF69B4' /><ellipse cx='160' cy='150' rx='20' ry='30' fill='#FFFFFF' /><ellipse cx='240' cy='150' rx='20' ry='30' fill='#FFFFFF' /><path d='M180 240 Q200 260 220 240' stroke='#000000' stroke-width='3' fill='none' /><path d='M160 320 Q200 340 240 320' stroke='#000000' stroke-width='3' fill='none' /><path d='M160 320 Q190 330 220 320' stroke='#000000' stroke-width='3' fill='none' /><path d='M220 320 Q250 330 280 320' stroke='#000000' stroke-width='3' fill='none' /><rect x='175' y='150' width='50' height='5' fill='#000000' /><rect x='175' y='160' width='50' height='5' fill='#000000' /><path d='M180 140 Q190 120 220 140' stroke='#000000' stroke-width='3' fill='none' /><path d='M220 140 Q250 120 280 140' stroke='#000000' stroke-width='3' fill='none' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に大きな赤い円形の頭部を持ち、白い目と口を持った女性型の進化生命体です。四肢は細長く、手足には指があり、短い尾がついています。",
+        "reason": "新たなる環境への適応により、イヴはより優雅で繊細な特徴を持つ進化を遂げました。",
+        "thought": "『愛と知恵』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#ADD8E6' /><circle cx='200' cy='200' r='140' fill='#87CEFA' /><rect x='175' y='150' width='50' height='100' fill='#FFFFFF' /><path d='M160 240 Q200 260 240 240' stroke='#000000' stroke-width='3' fill='none' /><path d='M160 320 Q180 330 200 320' stroke='#000000' stroke-width='3' fill='none' /><path d='M200 320 Q220 330 240 320' stroke='#000000' stroke-width='3' fill='none' /><rect x='175' y='150' width='50' height='5' fill='#000000' /><rect x='175' y='160' width='50' height='5' fill='#000000' /><path d='M180 140 Q190 120 220 140' stroke='#000000' stroke-width='3' fill='none' /><path d='M220 140 Q250 120 280 140' stroke='#000000' stroke-width='3' fill='none' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に大きな青い円形の頭部を持ち、白い目と口を持った男性型の進化生命体です。四肢は頑丈で筋肉質であり、手足には指があります。",
+        "reason": "狩猟や防衛の必要性から、アダムはより力強く頑丈な特徴を強調した進化を遂げました。",
+        "thought": "『勇気と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1769911278727
   }
 ]
