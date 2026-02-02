@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff'/><ellipse cx='200' cy='180' rx='100' ry='140' fill='#ff99cc'/><rect x='150' y='250' width='100' height='50' fill='#ff99cc'/><path d='M180 120 L200 80 L220 120 Z' fill='#ff66cc'/><polygon points='180,220 220,220 200,240' fill='#ff66cc'/><line x1='150' y1='250' x2='100' y2='300' stroke='#ff66cc' stroke-width='5'/><line x1='250' y1='250' x2='300' y2='300' stroke='#ff66cc' stroke-width='5'/><circle cx='170' cy='180' r='10' fill='#ff99cc'/><circle cx='230' cy='180' r='10' fill='#ff99cc'/><line x1='160' y1='220' x2='140' y2='240' stroke='#ff66cc' stroke-width='2'/><line x1='240' y1='220' x2='260' y2='240' stroke='#ff66cc' stroke-width='2'/><line x1='180' y1='280' x2='180' y2='320' stroke='#ff66cc' stroke-width='5'/><line x1='220' y1='280' x2='220' y2='320' stroke='#ff66cc' stroke-width='5'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='180' rx='100' ry='150' fill='#ffdab9' /><path d='M190 220 Q200 160 210 220 L200 260 Z' fill='#fae3d3' /><polygon points='180,200 190,220 210,220 220,200' fill='#ffebcd' /><circle cx='180' cy='180' r='8' fill='#000' /><circle cx='220' cy='180' r='8' fill='#000' /><ellipse cx='185' cy='180' rx='15' ry='10' fill='#fff' /><ellipse cx='215' cy='180' rx='15' ry='10' fill='#fff' /><path d='M190 220 Q200 230 210 220' fill='none' stroke='#000' stroke-width='2' /><path d='M190 260 Q200 300 210 260' fill='none' stroke='#000' stroke-width='2' /><path d='M180 230 Q200 250 220 230' fill='none' stroke='#000' stroke-width='2' /><path d='M180 240 Q200 260 220 240' fill='none' stroke='#000' stroke-width='2' /><circle cx='200' cy='230' r='5' fill='#000' /><circle cx='200' cy='240' r='5' fill='#000' /><text x='150' y='50' font-family='Arial' font-size='20' fill='#000'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の肌にオレンジ色の眼と紫色の長い毛を持つ女性です。丸い体に楕円形の顔、四角い胴体と短い足を持ち、頭に角が生えています。手と足は細長く、背中には模様があり、しっぽを持っています。",
-      "reason": "生態系の変化により、イヴは美しさと柔らかさを兼ね備えた進化を遂げました。",
-      "thought": "『愛と平和』"
+      "appearance": "イヴはピンクとオレンジ色の柔らかな体を持ち、大きな目とまん丸の頬が特徴です。優しさが溢れる姿です。",
+      "reason": "生態系のバランスが変化し、イヴの生存環境がより花々に恵まれるようになったため、花と共生する能力を獲得した。",
+      "thought": "『花と共に在り、世界を一緒に彩る』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#99ccff'/><rect x='150' y='180' width='100' height='160' fill='#66a3ff'/><path d='M180 120 L200 80 L220 120 Z' fill='#3366ff'/><polygon points='180,220 220,220 200,240' fill='#3366ff'/><line x1='150' y1='340' x2='120' y2='380' stroke='#3366ff' stroke-width='5'/><line x1='250' y1='340' x2='280' y2='380' stroke='#3366ff' stroke-width='5'/><circle cx='170' cy='180' r='10' fill='#66a3ff'/><circle cx='230' cy='180' r='10' fill='#66a3ff'/><line x1='160' y1='220' x2='140' y2='240' stroke='#3366ff' stroke-width='2'/><line x1='240' y1='220' x2='260' y2='240' stroke='#3366ff' stroke-width='2'/><line x1='180' y1='340' x2='180' y2='380' stroke='#3366ff' stroke-width='5'/><line x1='220' y1='340' x2='220' y2='380' stroke='#3366ff' stroke-width='5'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='150' fill='#aec6cf' /><path d='M200 300 Q160 330 200 350 Q240 330 200 300' fill='#b0e0e6' /><polygon points='170,250 200,220 230,250' fill='#add8e6' /><circle cx='190' cy='240' r='10' fill='#000' /><circle cx='210' cy='240' r='10' fill='#000' /><circle cx='180' cy='235' r='5' fill='#fff' /><circle cx='220' cy='235' r='5' fill='#fff' /><path d='M180 250 Q200 270 220 250' fill='none' stroke='#000' stroke-width='2' /><path d='M180 260 Q200 280 220 260' fill='none' stroke='#000' stroke-width='2' /><circle cx='200' cy='270' r='5' fill='#000' /><circle cx='200' cy='280' r='5' fill='#000' /><text x='150' y='50' font-family='Arial' font-size='20' fill='#000'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは、青い肌に黄色い眼と青い短い毛を持つ男性です。丸い体に四角い胴体と長い足を持ち、頭に角が生えています。手と足は太く、背中に模様があり、しっぽを持っています。",
-      "reason": "環境の要求により、アダムは力強さと知恵を兼ね備えた進化を遂げました。",
-      "thought": "『勇気と冒険』"
+      "appearance": "アダムは青と水色の頑丈な体を持ち、流麗な動きが特徴です。逆立つ角と繊細な尾が印象的です。",
+      "reason": "アダムは繁殖競争において、より効果的に縄張りを守るため、角や尾の特徴が発達した。",
+      "thought": "『我が角は誇り、紡ぐ尾は家族の絆』"
     },
     "name": "アダム",
     "gender": "男性"
