@@ -24615,5 +24615,28 @@
       "gender": "男性"
     },
     "timestamp": 1770123163878
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='150' rx='100' ry='120' fill='#ffcccc'/><polygon points='150,250 200,300 250,250' fill='#ff9999'/><polygon points='175,250 200,280 225,250' fill='#ff6666'/><circle cx='150' cy='175' r='10' fill='#ff6666'/><circle cx='250' cy='175' r='10' fill='#ff6666'/><circle cx='200' cy='170' r='5' fill='#fff'/><line x1='180' y1='130' x2='190' y2='140' stroke='#333' stroke-width='2'/><line x1='220' y1='130' x2='210' y2='140' stroke='#333' stroke-width='2'/><path d='M180 250 Q200 280 220 250' fill='none' stroke='#333' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな体と赤いリボンのような模様が特徴の女性型生命体です。体は丸みを帯び、心温まる優しさを感じさせます。",
+        "reason": "イヴは、美と優しさを象徴する新たな進化を遂げました。その優美な姿は、世界に温かさと平和をもたらす使命を持っています。",
+        "thought": "『愛と優しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='200' width='100' height='150' fill='#66b3ff'/><polygon points='150,200 200,150 250,200' fill='#66ccff'/><rect x='170' y='180' width='60' height='40' fill='#3385ff'/><circle cx='180' cy='185' r='10' fill='#3385ff'/><circle cx='220' cy='185' r='10' fill='#3385ff'/><circle cx='200' cy='175' r='5' fill='#fff'/><line x1='180' y1='150' x2='190' y2='140' stroke='#333' stroke-width='2'/><line x1='220' y1='150' x2='210' y2='140' stroke='#333' stroke-width='2'/><path d='M190 200 L200 170 L210 200' fill='none' stroke='#333' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い体と風になびく羽のような模様が特徴の男性型生命体です。力強く進化し、風を切るような風格を持っています。",
+        "reason": "アダムは、力強さと自由を象徴する進化を遂げました。その風貌は、未来への希望と勇気をもたらす存在となるでしょう。",
+        "thought": "『勇気と自由』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1770144734365
   }
 ]

@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='150' rx='100' ry='120' fill='#ffcccc'/><polygon points='150,250 200,300 250,250' fill='#ff9999'/><polygon points='175,250 200,280 225,250' fill='#ff6666'/><circle cx='150' cy='175' r='10' fill='#ff6666'/><circle cx='250' cy='175' r='10' fill='#ff6666'/><circle cx='200' cy='170' r='5' fill='#fff'/><line x1='180' y1='130' x2='190' y2='140' stroke='#333' stroke-width='2'/><line x1='220' y1='130' x2='210' y2='140' stroke='#333' stroke-width='2'/><path d='M180 250 Q200 280 220 250' fill='none' stroke='#333' stroke-width='2'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><polygon points='200,100 120,300 280,300' fill='#ff9999' /><rect x='170' y='150' width='30' height='80' fill='#cc6666' /><circle cx='170' cy='150' r='10' fill='#e63946' /><circle cx='230' cy='150' r='10' fill='#e63946' /><path d='M180 220 Q200 270 220 220' fill='none' stroke='#e63946' stroke-width='5' /><path d='M220 220 Q240 270 260 220' fill='none' stroke='#e63946' stroke-width='5' /><line x1='160' y1='100' x2='140' y2='120' stroke='#cc6666' stroke-width='5' /><line x1='240' y1='100' x2='260' y2='120' stroke='#cc6666' stroke-width='5' /><line x1='160' y1='300' x2='140' y2='280' stroke='#cc6666' stroke-width='5' /><line x1='240' y1='300' x2='260' y2='280' stroke='#cc6666' /><circle cx='200' cy='200' r='30' fill='none' stroke='#e63946' stroke-width='5' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな体と赤いリボンのような模様が特徴の女性型生命体です。体は丸みを帯び、心温まる優しさを感じさせます。",
-      "reason": "イヴは、美と優しさを象徴する新たな進化を遂げました。その優美な姿は、世界に温かさと平和をもたらす使命を持っています。",
-      "thought": "『愛と優しさ』"
+      "appearance": "イヴは、淡いピンク色の肌を持ち、細身の体に赤い服を身に着けた女性の姿をしています。頭部には二つの赤い角があり、顔には赤いチークと目立つ口元が特徴的です。背中には赤い翼が生えています。",
+      "reason": "イヴは、自然界の色彩と調和する進化を遂げました。赤色は生命の力強さや情熱を表し、女性らしさを引き立てています。",
+      "thought": "『命の美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='200' width='100' height='150' fill='#66b3ff'/><polygon points='150,200 200,150 250,200' fill='#66ccff'/><rect x='170' y='180' width='60' height='40' fill='#3385ff'/><circle cx='180' cy='185' r='10' fill='#3385ff'/><circle cx='220' cy='185' r='10' fill='#3385ff'/><circle cx='200' cy='175' r='5' fill='#fff'/><line x1='180' y1='150' x2='190' y2='140' stroke='#333' stroke-width='2'/><line x1='220' y1='150' x2='210' y2='140' stroke='#333' stroke-width='2'/><path d='M190 200 L200 170 L210 200' fill='none' stroke='#333' stroke-width='2'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6' /><polygon points='200,100 120,300 280,300' fill='#87ceeb' /><rect x='170' y='150' width='30' height='80' fill='#4682b4' /><circle cx='170' cy='150' r='10' fill='#264653' /><circle cx='230' cy='150' r='10' fill='#264653' /><path d='M180 220 Q200 270 220 220' fill='none' stroke='#264653' stroke-width='5' /><path d='M220 220 Q240 270 260 220' fill='none' stroke='#264653' stroke-width='5' /><line x1='160' y1='100' x2='140' y2='120' stroke='#4682b4' stroke-width='5' /><line x1='240' y1='100' x2='260' y2='120' stroke='#4682b4' stroke-width='5' /><line x1='160' y1='300' x2='140' y2='280' stroke='#4682b4' stroke-width='5' /><line x1='240' y1='300' x2='260' y2='280' stroke='#4682b4' /><circle cx='200' cy='200' r='30' fill='none' stroke='#264653' stroke-width='5' /></svg>",
     "report": {
-      "appearance": "アダムは、青い体と風になびく羽のような模様が特徴の男性型生命体です。力強く進化し、風を切るような風格を持っています。",
-      "reason": "アダムは、力強さと自由を象徴する進化を遂げました。その風貌は、未来への希望と勇気をもたらす存在となるでしょう。",
-      "thought": "『勇気と自由』"
+      "appearance": "アダムは、青みがかった肌の色を持ち、筋肉質な体つきに青い服を纏った男性の姿をしています。頭には二つの青い角が生え、凛々しい顔つきと力強い表情が特徴です。",
+      "reason": "アダムは、情熱と知恵を象徴する青色への進化を果たしました。青は精神的な成長と理性を示し、男性らしさを際立たせています。",
+      "thought": "『知恵と勇気』"
     },
     "name": "アダム",
     "gender": "男性"
