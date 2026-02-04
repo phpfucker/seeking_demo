@@ -24638,5 +24638,28 @@
       "gender": "男性"
     },
     "timestamp": 1770144734365
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><polygon points='200,100 120,300 280,300' fill='#ff9999' /><rect x='170' y='150' width='30' height='80' fill='#cc6666' /><circle cx='170' cy='150' r='10' fill='#e63946' /><circle cx='230' cy='150' r='10' fill='#e63946' /><path d='M180 220 Q200 270 220 220' fill='none' stroke='#e63946' stroke-width='5' /><path d='M220 220 Q240 270 260 220' fill='none' stroke='#e63946' stroke-width='5' /><line x1='160' y1='100' x2='140' y2='120' stroke='#cc6666' stroke-width='5' /><line x1='240' y1='100' x2='260' y2='120' stroke='#cc6666' stroke-width='5' /><line x1='160' y1='300' x2='140' y2='280' stroke='#cc6666' stroke-width='5' /><line x1='240' y1='300' x2='260' y2='280' stroke='#cc6666' /><circle cx='200' cy='200' r='30' fill='none' stroke='#e63946' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "イヴは、淡いピンク色の肌を持ち、細身の体に赤い服を身に着けた女性の姿をしています。頭部には二つの赤い角があり、顔には赤いチークと目立つ口元が特徴的です。背中には赤い翼が生えています。",
+        "reason": "イヴは、自然界の色彩と調和する進化を遂げました。赤色は生命の力強さや情熱を表し、女性らしさを引き立てています。",
+        "thought": "『命の美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6' /><polygon points='200,100 120,300 280,300' fill='#87ceeb' /><rect x='170' y='150' width='30' height='80' fill='#4682b4' /><circle cx='170' cy='150' r='10' fill='#264653' /><circle cx='230' cy='150' r='10' fill='#264653' /><path d='M180 220 Q200 270 220 220' fill='none' stroke='#264653' stroke-width='5' /><path d='M220 220 Q240 270 260 220' fill='none' stroke='#264653' stroke-width='5' /><line x1='160' y1='100' x2='140' y2='120' stroke='#4682b4' stroke-width='5' /><line x1='240' y1='100' x2='260' y2='120' stroke='#4682b4' stroke-width='5' /><line x1='160' y1='300' x2='140' y2='280' stroke='#4682b4' stroke-width='5' /><line x1='240' y1='300' x2='260' y2='280' stroke='#4682b4' /><circle cx='200' cy='200' r='30' fill='none' stroke='#264653' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "アダムは、青みがかった肌の色を持ち、筋肉質な体つきに青い服を纏った男性の姿をしています。頭には二つの青い角が生え、凛々しい顔つきと力強い表情が特徴です。",
+        "reason": "アダムは、情熱と知恵を象徴する青色への進化を果たしました。青は精神的な成長と理性を示し、男性らしさを際立たせています。",
+        "thought": "『知恵と勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1770169643573
   }
 ]
