@@ -24707,5 +24707,28 @@
       "gender": "男性"
     },
     "timestamp": 1770209524570
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='160' rx='100' ry='120' fill='#ffd1dc' /><path d='M180,240 Q200,260 220,240' fill='none' stroke='#ff69b4' stroke-width='4' /><path d='M170,210 Q200,190 230,210' fill='none' stroke='#ff69b4' stroke-width='4' /><ellipse cx='170' cy='180' rx='10' ry='20' fill='white' /><ellipse cx='230' cy='180' rx='10' ry='20' fill='white' /><circle cx='160' cy='150' r='10' fill='black' /><circle cx='240' cy='150' r='10' fill='black' /><rect x='180' y='250' width='40' height='20' fill='#ff1493' /><polygon points='190,250 210,250 200,270' fill='#ff1493' /><rect x='180' y='270' width='40' height='10' fill='#ff69b4' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌と白い髪を持つ女性的な姿をしています。体には薄いピンクのエプロンを身に着け、頭には真っ白なリボンを結んでいます。",
+        "reason": "進化が起こった理由は、新たな世代に優しさと愛情を伝えるためです。",
+        "thought": "『優しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6' /><ellipse cx='200' cy='160' rx='100' ry='120' fill='#87ceeb' /><path d='M180,240 Q200,260 220,240' fill='none' stroke='#4169e1' stroke-width='4' /><path d='M170,210 Q200,190 230,210' fill='none' stroke='#4169e1' stroke-width='4' /><ellipse cx='170' cy='180' rx='10' ry='20' fill='white' /><ellipse cx='230' cy='180' rx='10' ry='20' fill='white' /><circle cx='160' cy='150' r='10' fill='black' /><circle cx='240' cy='150' r='10' fill='black' /><rect x='180' y='250' width='40' height='20' fill='#4682b4' /><polygon points='190,250 210,250 200,270' fill='#4682b4' /><rect x='180' y='270' width='40' height='10' fill='#4169e1' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌と水色の髪を持つ男性らしい姿をしています。背中には羽根模様が浮かび、頭には水色のリボンを結んでいます。",
+        "reason": "進化が起こった理由は、新しい世代に勇気と活力を与えるためです。",
+        "thought": "『活力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1770230598331
   }
 ]
