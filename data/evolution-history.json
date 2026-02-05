@@ -24753,5 +24753,28 @@
       "gender": "男性"
     },
     "timestamp": 1770256137608
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffb6c1'/><ellipse cx='200' cy='220' rx='80' ry='120' fill='#ff69b4'/><path d='M220 240 L230 260 L210 260 Z' fill='#ffffff'/><path d='M180 240 L170 260 L190 260 Z' fill='#ffffff'/><circle cx='180' cy='210' r='5' fill='#000000'/><circle cx='220' cy='210' r='5' fill='#000000'/><polygon points='190,230 200,240 210,230' fill='#ffffff'/><polygon points='190,250 200,240 210,250' fill='#ffffff'/><rect x='180' y='270' width='40' height='20' fill='#ffffff'/><rect x='160' y='290' width='80' height='5' fill='#ffffff'/><circle cx='190' cy='180' r='10' fill='#ffffff'/><circle cx='210' cy='180' r='10' fill='#ffffff'/><line x1='190' y1='200' x2='210' y2='200' stroke='#000000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、赤い瞳を持つ美しい女性型生命体です。体の上部は楕円形で、下部には白いフリル状の装飾があります。手は白く、腕には白い装飾が施され、脚は白いスカートで覆われています。また、頭部には白い角が一対あります。",
+        "reason": "イヴは、より優美で美しい姿に進化し、新たな特徴を加えることで、自然と環境に適応し生存競争に勝つために進化しました。",
+        "thought": "『永遠の美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='200' fill='#4682b4'/><rect x='170' y='150' width='60' height='100' fill='#4169e1'/><ellipse cx='200' cy='220' rx='30' ry='40' fill='#6495ed'/><polygon points='200,190 180,170 220,170' fill='#ffffff'/><circle cx='190' cy='210' r='5' fill='#000000'/><circle cx='210' cy='210' r='5' fill='#000000'/><polygon points='200,240 190,250 210,250' fill='#ffffff'/><rect x='180' y='270' width='40' height='20' fill='#ffffff'/><rect x='160' y='290' width='80' height='5' fill='#ffffff'/><polygon points='160,150 150,170 160,190' fill='#4169e1'/><polygon points='240,150 250,170 240,190' fill='#4169e1'/><line x1='170' y1='220' x2='150' y2='240' stroke='#000000' stroke-width='2'/><line x1='230' y1='220' x2='250' y2='240' stroke='#000000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の頑丈な外皮を持つ男性型生命体で、体は四角形であり、上半身は濃い青色で、下半身は淡い青色です。頭部は楕円形で、白い瞳を持ち、青い装飾が施されています。腕と脚は太く短く、青い色調が続いています。また、背中には青いしっぽと青い角があります。",
+        "reason": "アダムは、より頑丈で力強い姿に進化し、環境への適応力を高めるために、新たな特徴を備えることで進化しました。",
+        "thought": "『力強さと誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1770274483404
   }
 ]

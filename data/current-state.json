@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffb6c1'/><ellipse cx='200' cy='220' rx='80' ry='120' fill='#ff69b4'/><path d='M220 240 L230 260 L210 260 Z' fill='#ffffff'/><path d='M180 240 L170 260 L190 260 Z' fill='#ffffff'/><circle cx='180' cy='210' r='5' fill='#000000'/><circle cx='220' cy='210' r='5' fill='#000000'/><polygon points='190,230 200,240 210,230' fill='#ffffff'/><polygon points='190,250 200,240 210,250' fill='#ffffff'/><rect x='180' y='270' width='40' height='20' fill='#ffffff'/><rect x='160' y='290' width='80' height='5' fill='#ffffff'/><circle cx='190' cy='180' r='10' fill='#ffffff'/><circle cx='210' cy='180' r='10' fill='#ffffff'/><line x1='190' y1='200' x2='210' y2='200' stroke='#000000' stroke-width='2'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccdd' /><ellipse cx='200' cy='180' rx='130' ry='100' fill='#ff99aa' /><path d='M160 220 Q200 300 240 220' fill='none' stroke='#ff6699' stroke-width='5' /><path d='M165 225 Q200 280 235 225' fill='none' stroke='#ff6699' stroke-width='5' /><circle cx='170' cy='170' r='20' fill='#333333' /><circle cx='230' cy='170' r='20' fill='#333333' /><circle cx='170' cy='170' r='10' fill='#ffffff' /><circle cx='230' cy='170' r='10' fill='#ffffff' /><path d='M190 220 Q200 230 210 220' fill='none' stroke='#333333' stroke-width='3' /><path d='M185 230 Q200 240 215 230' fill='none' stroke='#333333' stroke-width='3' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、赤い瞳を持つ美しい女性型生命体です。体の上部は楕円形で、下部には白いフリル状の装飾があります。手は白く、腕には白い装飾が施され、脚は白いスカートで覆われています。また、頭部には白い角が一対あります。",
-      "reason": "イヴは、より優美で美しい姿に進化し、新たな特徴を加えることで、自然と環境に適応し生存競争に勝つために進化しました。",
-      "thought": "『永遠の美しさ』"
+      "appearance": "イヴは、ピンク色の柔らかな皮膚を持つ女性。体の大部分が楕円形で、腰から流れる曲線が特徴的。顔には大きな目と繊細な口元があり、頭部からは角が生えている。手足はきめ細やかな手袋と靴を履いている。",
+      "reason": "イヴは周囲の生態系に適応し、より優れたコミュニケーション能力を持つため、進化により柔らかな表現力を強化した。",
+      "thought": "『調和と愛を育む』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='200' fill='#4682b4'/><rect x='170' y='150' width='60' height='100' fill='#4169e1'/><ellipse cx='200' cy='220' rx='30' ry='40' fill='#6495ed'/><polygon points='200,190 180,170 220,170' fill='#ffffff'/><circle cx='190' cy='210' r='5' fill='#000000'/><circle cx='210' cy='210' r='5' fill='#000000'/><polygon points='200,240 190,250 210,250' fill='#ffffff'/><rect x='180' y='270' width='40' height='20' fill='#ffffff'/><rect x='160' y='290' width='80' height='5' fill='#ffffff'/><polygon points='160,150 150,170 160,190' fill='#4169e1'/><polygon points='240,150 250,170 240,190' fill='#4169e1'/><line x1='170' y1='220' x2='150' y2='240' stroke='#000000' stroke-width='2'/><line x1='230' y1='220' x2='250' y2='240' stroke='#000000' stroke-width='2'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='150' width='160' height='200' fill='#6699ff' /><ellipse cx='200' cy='170' rx='120' ry='80' fill='#3366ff' /><path d='M160 220 Q200 300 240 220' fill='none' stroke='#0033cc' stroke-width='5' /><path d='M165 225 Q200 280 235 225' fill='none' stroke='#0033cc' stroke-width='5' /><polygon points='175,180 185,180 180,195' fill='#cccccc' /><polygon points='215,180 225,180 220,195' fill='#cccccc' /><path d='M195 220 Q200 230 205 220' fill='none' stroke='#000000' stroke-width='3' /><path d='M190 230 Q200 240 210 230' fill='none' stroke='#000000' stroke-width='3' /></svg>",
     "report": {
-      "appearance": "アダムは、青色の頑丈な外皮を持つ男性型生命体で、体は四角形であり、上半身は濃い青色で、下半身は淡い青色です。頭部は楕円形で、白い瞳を持ち、青い装飾が施されています。腕と脚は太く短く、青い色調が続いています。また、背中には青いしっぽと青い角があります。",
-      "reason": "アダムは、より頑丈で力強い姿に進化し、環境への適応力を高めるために、新たな特徴を備えることで進化しました。",
-      "thought": "『力強さと誇り』"
+      "appearance": "アダムは、青色の筋肉質な体を持つ男性。四角い胴体と楕円形の頭部が特徴で、逞しい腕と足を持つ。顔は鋭い視線を持ち、頭頂部には短い角が生えている。手足は頑丈なブーツとグローブで覆われている。",
+      "reason": "アダムは狩猟や防衛の能力を高めるため、より筋肉質で頑丈な体つきに進化した。",
+      "thought": "『力強く進化を受け継ぐ』"
     },
     "name": "アダム",
     "gender": "男性"
