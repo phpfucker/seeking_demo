@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='120' width='160' height='160' fill='#ff7eb9'/><ellipse cx='200' cy='180' rx='50' ry='80' fill='#ff9ed9'/><ellipse cx='170' cy='170' rx='10' ry='20' fill='#fff'/><ellipse cx='230' cy='170' rx='10' ry='20' fill='#fff'/><path d='M185 230 Q200 250 215 230' fill='none' stroke='#000' stroke-width='2'/><path d='M170 280 Q200 320 230 280' fill='none' stroke='#000' stroke-width='2'/><path d='M150 240 Q180 260 210 240' fill='none' stroke='#000' stroke-width='2'/><path d='M190 260 Q200 270 210 260' fill='none' stroke='#000' stroke-width='2'/><polygon points='180,240 190,230 200,240' fill='#000'/><polygon points='190,275 205,275 200,290' fill='#000'/><circle cx='180' cy='200' r='5' fill='#000'/><circle cx='220' cy='200' r='5' fill='#000'/><line x1='160' y1='170' x2='165' y2='175' stroke='#000' stroke-width='2'/><line x1='240' y1='170' x2='235' y2='175' stroke='#000' stroke-width='2'/><text x='200' y='350' font-family='Arial' font-size='20' text-anchor='middle' fill='#000'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='150' width='300' height='200' fill='#ffcccb'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#ffcccb'/><path d='M150 180 L200 150 L250 180 Z' fill='#ffb6c1'/><circle cx='170' cy='100' r='10' fill='#ffffff'/><circle cx='230' cy='100' r='10' fill='#ffffff'/><rect x='170' y='200' width='60' height='100' fill='#ffb6c1'/><polygon points='180,200 220,200 200,240' fill='#ffb6c1'/><path d='M150 180 Q200 230 250 180' fill='none' stroke='#000000'/><path d='M180 250 Q200 270 220 250' fill='none' stroke='#000000'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな肌を持ち、大きな赤い目を持つ女性の姿をしています。体の一部に白い模様があり、優雅で繊細な印象を与えます。",
-      "reason": "イヴは自然環境に適応するため、より美しい模様と優れた視覚を持つよう進化しました。",
-      "thought": "『調和と美しさ』"
+      "appearance": "イヴは、ピンク色の花びらのような肌を持ち、顔には柔らかな表情が描かれています。体は丸みを帯びており、背中には丸いしっぽがあります。手足は細く、優雅なラインを形成しています。",
+      "reason": "イヴは進化するにつれ、花の美しさと優しさをより強調するように変化しました。その内面の優しさと豊かな美しさが新たな特徴として現れたのです。",
+      "thought": "『優しさと美しさが世界を彩る』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='120' width='160' height='160' fill='#7db9ff'/><ellipse cx='200' cy='180' rx='50' ry='80' fill='#9ed9ff'/><ellipse cx='170' cy='170' rx='10' ry='20' fill='#fff'/><ellipse cx='230' cy='170' rx='10' ry='20' fill='#fff'/><path d='M185 230 Q200 250 215 230' fill='none' stroke='#000' stroke-width='2'/><path d='M170 280 Q200 320 230 280' fill='none' stroke='#000' stroke-width='2'/><path d='M150 240 Q180 260 210 240' fill='none' stroke='#000' stroke-width='2'/><path d='M190 260 Q200 270 210 260' fill='none' stroke='#000' stroke-width='2'/><polygon points='180,240 190,230 200,240' fill='#000'/><polygon points='190,275 205,275 200,290' fill='#000'/><circle cx='180' cy='200' r='5' fill='#000'/><circle cx='220' cy='200' r='5' fill='#000'/><line x1='160' y1='170' x2='165' y2='175' stroke='#000' stroke-width='2'/><line x1='240' y1='170' x2='235' y2='175' stroke='#000' stroke-width='2'/><text x='200' y='350' font-family='Arial' font-size='20' text-anchor='middle' fill='#000'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='150' width='300' height='200' fill='#add8e6'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#add8e6'/><path d='M150 180 L200 150 L250 180 Z' fill='#87ceeb'/><circle cx='170' cy='100' r='10' fill='#ffffff'/><circle cx='230' cy='100' r='10' fill='#ffffff'/><rect x='170' y='200' width='60' height='100' fill='#87ceeb'/><polygon points='180,200 220,200 200,240' fill='#87ceeb'/><line x1='170' y1='200' x2='230' y2='200' stroke='#ffffff'/><line x1='170' y1='250' x2='230' y2='250' stroke='#ffffff'/></svg>",
     "report": {
-      "appearance": "アダムは、青色の肌を持ち、大きな青い目を持つ男性の姿をしています。体の一部に白い模様があり、力強さと優しさを併せ持つ外見です。",
-      "reason": "アダムは狩猟とコミュニケーション能力の向上のため、視覚と模様が進化しました。",
-      "thought": "『勇気と知恵』"
+      "appearance": "アダムは、青色の涼しげな肌を持ち、凛とした表情が特徴です。体はシャープで角張っており、背中には鋭い角が生えています。手足は細長く、力強いラインを形成しています。",
+      "reason": "アダムは進化するにつれ、凛とした魅力と威厳をより強調するように変化しました。その内面の強さと誇り高さが新たな特徴として現れたのです。",
+      "thought": "『誇り高き魂が未来を切り拓く』"
     },
     "name": "アダム",
     "gender": "男性"

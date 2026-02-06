@@ -24891,5 +24891,28 @@
       "gender": "男性"
     },
     "timestamp": 1770382340941
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='120' width='160' height='160' fill='#ff7eb9'/><ellipse cx='200' cy='180' rx='50' ry='80' fill='#ff9ed9'/><ellipse cx='170' cy='170' rx='10' ry='20' fill='#fff'/><ellipse cx='230' cy='170' rx='10' ry='20' fill='#fff'/><path d='M185 230 Q200 250 215 230' fill='none' stroke='#000' stroke-width='2'/><path d='M170 280 Q200 320 230 280' fill='none' stroke='#000' stroke-width='2'/><path d='M150 240 Q180 260 210 240' fill='none' stroke='#000' stroke-width='2'/><path d='M190 260 Q200 270 210 260' fill='none' stroke='#000' stroke-width='2'/><polygon points='180,240 190,230 200,240' fill='#000'/><polygon points='190,275 205,275 200,290' fill='#000'/><circle cx='180' cy='200' r='5' fill='#000'/><circle cx='220' cy='200' r='5' fill='#000'/><line x1='160' y1='170' x2='165' y2='175' stroke='#000' stroke-width='2'/><line x1='240' y1='170' x2='235' y2='175' stroke='#000' stroke-width='2'/><text x='200' y='350' font-family='Arial' font-size='20' text-anchor='middle' fill='#000'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、大きな赤い目を持つ女性の姿をしています。体の一部に白い模様があり、優雅で繊細な印象を与えます。",
+        "reason": "イヴは自然環境に適応するため、より美しい模様と優れた視覚を持つよう進化しました。",
+        "thought": "『調和と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='120' width='160' height='160' fill='#7db9ff'/><ellipse cx='200' cy='180' rx='50' ry='80' fill='#9ed9ff'/><ellipse cx='170' cy='170' rx='10' ry='20' fill='#fff'/><ellipse cx='230' cy='170' rx='10' ry='20' fill='#fff'/><path d='M185 230 Q200 250 215 230' fill='none' stroke='#000' stroke-width='2'/><path d='M170 280 Q200 320 230 280' fill='none' stroke='#000' stroke-width='2'/><path d='M150 240 Q180 260 210 240' fill='none' stroke='#000' stroke-width='2'/><path d='M190 260 Q200 270 210 260' fill='none' stroke='#000' stroke-width='2'/><polygon points='180,240 190,230 200,240' fill='#000'/><polygon points='190,275 205,275 200,290' fill='#000'/><circle cx='180' cy='200' r='5' fill='#000'/><circle cx='220' cy='200' r='5' fill='#000'/><line x1='160' y1='170' x2='165' y2='175' stroke='#000' stroke-width='2'/><line x1='240' y1='170' x2='235' y2='175' stroke='#000' stroke-width='2'/><text x='200' y='350' font-family='Arial' font-size='20' text-anchor='middle' fill='#000'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌を持ち、大きな青い目を持つ男性の姿をしています。体の一部に白い模様があり、力強さと優しさを併せ持つ外見です。",
+        "reason": "アダムは狩猟とコミュニケーション能力の向上のため、視覚と模様が進化しました。",
+        "thought": "『勇気と知恵』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1770403405051
   }
 ]
