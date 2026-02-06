@@ -24845,5 +24845,28 @@
       "gender": "男性"
     },
     "timestamp": 1770342496606
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffe4e1'/><ellipse cx='200' cy='190' rx='80' ry='110' fill='#ffb6c1'/><path d='M173 210 C173 205 167 205 167 210 L167 230 C167 235 173 235 173 230 Z' fill='#ff69b4'/><path d='M227 210 C227 205 233 205 233 210 L233 230 C233 235 227 235 227 230 Z' fill='#ff69b4'/><ellipse cx='180' cy='218' rx='5' ry='10' fill='#000'/><ellipse cx='220' cy='218' rx='5' ry='10' fill='#000'/><path d='M200 220 L190 240 L210 240 Z' fill='#ff69b4'/><polygon points='180,170 220,170 200,150' fill='#ff69b4'/><rect x='180' y='250' width='40' height='20' fill='#ff69b4'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持つ女性の姿をしています。体の一部には淡い赤色の模様があり、丸い頭部や細い手足が特徴です。",
+        "reason": "変化する環境に適応するため、より優れた柔軟性と知覚能力を持つ進化を遂げました。",
+        "thought": "『温かい愛が世界を包む』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6'/><ellipse cx='200' cy='190' rx='80' ry='110' fill='#87ceeb'/><path d='M173 210 C173 205 167 205 167 210 L167 230 C167 235 173 235 173 230 Z' fill='#4682b4'/><path d='M227 210 C227 205 233 205 233 210 L233 230 C233 235 227 235 227 230 Z' fill='#4682b4'/><ellipse cx='180' cy='218' rx='5' ry='10' fill='#000'/><ellipse cx='220' cy='218' rx='5' ry='10' fill='#000'/><path d='M200 220 L190 240 L210 240 Z' fill='#4682b4'/><polygon points='180,170 220,170 200,150' fill='#4682b4'/><rect x='180' y='250' width='40' height='20' fill='#4682b4'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌を持ち、男性らしい力強い体つきをしています。頭部や手足は丸く、青色の模様と角が特徴です。",
+        "reason": "進化の過程で、より強靭な筋力と防御力を備え、狩りや生存競争に適応するための進化を遂げました。",
+        "thought": "『力強さと知恵を合わせ持つ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1770360586631
   }
 ]
