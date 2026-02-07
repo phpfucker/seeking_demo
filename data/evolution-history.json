@@ -24937,5 +24937,28 @@
       "gender": "男性"
     },
     "timestamp": 1770428721181
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradA)' /><ellipse cx='200' cy='180' rx='80' ry='110' fill='#fde0dc' /><ellipse cx='160' cy='170' rx='20' ry='30' fill='#fff' /><ellipse cx='240' cy='170' rx='20' ry='30' fill='#fff' /><ellipse cx='200' cy='230' rx='40' ry='15' fill='#ffcccb' /><path d='M180 240 Q200 280 220 240' fill='none' stroke='#f08080' stroke-width='3' /><path d='M170 240 Q200 260 230 240' fill='none' stroke='#f08080' stroke-width='3' /><polygon points='190,170 210,170 200,180' fill='#f8bbd0' /><polygon points='190,190 210,190 200,180' fill='#f8bbd0' /><polygon points='190,210 210,210 200,220' fill='#f8bbd0' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと白のグラデーションが美しい女性で、柔らかな楕円形の体に大きな目を持ち、ふんわりとしたしっぽと角が特徴です。",
+        "reason": "イヴは自然界の美しさと柔らかさを表現するため、より優雅な外見へ進化しました。",
+        "thought": "『深い愛と包容力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><radialGradient id='gradB' cx='50%' cy='50%' r='50%' fx='50%' fy='50%'><stop offset='0%' style='stop-color:rgb(70,130,180);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></radialGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradB)' /><ellipse cx='200' cy='180' rx='80' ry='110' fill='#4682b4' /><ellipse cx='160' cy='170' rx='20' ry='30' fill='#fff' /><ellipse cx='240' cy='170' rx='20' ry='30' fill='#fff' /><ellipse cx='200' cy='230' rx='40' ry='15' fill='#b0c4de' /><path d='M180 240 Q200 280 220 240' fill='none' stroke='#87ceeb' stroke-width='3' /><path d='M170 240 Q200 260 230 240' fill='none' stroke='#87ceeb' stroke-width='3' /><polygon points='190,170 210,170 200,180' fill='#b0c4de' /><polygon points='190,190 210,190 200,180' fill='#b0c4de' /><polygon points='190,210 210,210 200,220' fill='#b0c4de' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と白のラディアントなグラデーションが美しい男性で、力強い楕円形の体に大きな目を持ち、たくましいしっぽと角が特徴です。",
+        "reason": "アダムは自然界の強さと威厳を表現するため、より力強く美しい外見へ進化しました。",
+        "thought": "『力強さと誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1770446251143
   }
 ]
