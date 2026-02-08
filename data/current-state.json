@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#f7a8b8' /><ellipse cx='200' cy='100' rx='80' ry='60' fill='#ffdae9' /><circle cx='160' cy='85' r='8' fill='#872355' /><circle cx='240' cy='85' r='8' fill='#872355' /><path d='M200 120 Q170 140 200 160 Q230 140 200 120 Z' fill='#ffdae9' /><polygon points='180,180 220,180 200,220' fill='#ffdae9' /><rect x='160' y='200' width='80' height='20' fill='#872355' /><rect x='160' y='240' width='80' height='20' fill='#872355' /><polygon points='180,200 220,200 200,180' fill='#ffdae9' /><path d='M180 270 Q200 290 220 270 Q200 290 180 270 Z' fill='#ffdae9' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='120' rx='80' ry='100' fill='#ffc0cb' /><path d='M150,250 Q200,300 250,250 Q200,300 150,250' fill='#ffb6c1' /><path d='M160,250 Q200,320 240,250 Q200,320 160,250' fill='#ff69b4' /><rect x='170' y='280' width='60' height='20' fill='#ff1493' /><rect x='200' y='280' width='20' height='80' fill='#ff69b4' /><polygon points='180,180 200,160 220,180' fill='#ff69b4' /><line x1='180' y1='120' x2='190' y2='120' stroke='#800080' stroke-width='3' /><line x1='210' y1='120' x2='220' y2='120' stroke='#800080' stroke-width='3' /><line x1='190' y1='200' x2='210' y2='200' stroke='#800080' stroke-width='3' /><text x='180' y='50' font-family='Arial' font-size='20' fill='#800080'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴはピンク色の体に、ふんわりした薄桃色の顔を持ち、大きな丸い瞳と柔らかな表情が特徴です。背中にはハート型の模様があり、優しさと温かさを象徴しています。手足は短くて丸みを帯び、しっぽは尖っています。",
-      "reason": "イヴは新たな生態系に適応するため、愛情と包容力を持った特徴が進化しました。",
-      "thought": "『愛と優しさ』"
+      "appearance": "イヴは、紫色の円形の体とピンク色の楕円形の顔を持ち、ピンク色と赤色のパターンの装飾が施されています。手は赤色の長方形で、腕にはピンク色の模様があります。ピンク色の三角形の耳があり、目立つ紫色の角が頭頂部に生えています。",
+      "reason": "地球の気候変動により、植物の色彩が変異し、イヴの進化に影響を与えました。",
+      "thought": "『愛と平和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#4c72b0' /><ellipse cx='200' cy='120' rx='80' ry='60' fill='#6b8cce' /><path d='M160 240 Q200 260 240 240 Q200 260 160 240 Z' fill='#6b8cce' /><polygon points='180,200 220,200 200,240' fill='#6b8cce' /><rect x='180' y='260' width='40' height='20' fill='#324b9b' /><rect x='180' y='300' width='40' height='20' fill='#324b9b' /><polygon points='160,260 240,260 200,240' fill='#6b8cce' /><polygon points='160,300 240,300 200,280' fill='#6b8cce' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='50' width='100' height='150' fill='#87cefa' /><ellipse cx='200' cy='120' rx='80' ry='100' fill='#add8e6' /><path d='M150,200 Q200,270 250,200 Q200,270 150,200' fill='#87cefa' /><path d='M160,200 Q200,280 240,200 Q200,280 160,200' fill='#4682b4' /><rect x='170' y='250' width='60' height='20' fill='#4169e1' /><rect x='200' y='250' width='20' height='80' fill='#4682b4' /><polygon points='180,100 200,80 220,100' fill='#4682b4' /><line x1='180' y1='40' x2='190' y2='40' stroke='#0000cd' stroke-width='3' /><line x1='210' y1='40' x2='220' y2='40' stroke='#0000cd' stroke-width='3' /><line x1='190' y1='120' x2='210' y2='120' stroke='#0000cd' stroke-width='3' /><text x='180' y='30' font-family='Arial' font-size='20' fill='#0000cd'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは濃い青色の体に太めの四角い顔を持ち、力強い目つきと堅い表情が特徴です。体全体に波紋模様があり、力強さと安定感を表現しています。手足は太くて頑丈で、しっぽは二本あります。",
-      "reason": "アダムは厳しい環境下で生存するため、力強さと堅さを持った特徴が進化しました。",
-      "thought": "『力と誇り』"
+      "appearance": "アダムは、青色の長方形の体と水色の楕円形の顔を持ち、青色と紺色のパターンの装飾が施されています。手は紺色の長方形で、腕には水色の模様があります。青色の三角形の耳があり、目立つ青色の角が頭頂部に生えています。",
+      "reason": "海洋汚染が進み、海中の生物の色彩が変異したため、アダムの進化に影響を及ぼしました。",
+      "thought": "『知識と勇気』"
     },
     "name": "アダム",
     "gender": "男性"
