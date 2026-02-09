@@ -25144,5 +25144,28 @@
       "gender": "男性"
     },
     "timestamp": 1770620420319
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFD700'/><ellipse cx='150' cy='150' rx='30' ry='20' fill='#FFC0CB'/><ellipse cx='250' cy='150' rx='30' ry='20' fill='#FFC0CB'/><path d='M175,225 Q200,300 225,225' fill='none' stroke='#FF1493' stroke-width='3'/><path d='M150,160 Q200,120 250,160' fill='none' stroke='#FF1493' stroke-width='3'/><rect x='180' y='250' width='40' height='25' fill='#DC143C'/><polygon points='180,250 220,250 200,230' fill='#FFD700'/><polygon points='190,185 195,170 205,170 210,185' fill='#FFC0CB'/><line x1='180' y1='250' x2='200' y2='230' stroke='#000' stroke-width='2'/><line x1='220' y1='250' x2='200' y2='230' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、金色の体毛を持ち、ピンク色の顔と手足を持つ女性型生命体です。背中には赤い角が生えており、赤い装飾のある赤いしっぽが特徴です。",
+        "reason": "イヴは新たな環境への適応のため、金色の体毛とピンク色の顔が発達しました。",
+        "thought": "『生命とは、美しさと力強さの融合だ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#4682B4'/><ellipse cx='200' cy='150' rx='25' ry='15' fill='#F0E68C'/><ellipse cx='200' cy='250' rx='25' ry='15' fill='#F0E68C'/><path d='M200,200 Q150,250 100,200' fill='none' stroke='#FF8C00' stroke-width='3'/><path d='M175,110 Q200,80 225,110' fill='none' stroke='#FF8C00' stroke-width='3'/><polygon points='150,200 150,220 170,200' fill='#4682B4'/><polygon points='250,200 250,220 230,200' fill='#4682B4'/><polygon points='192,150 198,150 200,140' fill='#F0E68C'/><line x1='150' y1='200' x2='170' y2='200' stroke='#000' stroke-width='2'/><line x1='150' y1='220' x2='170' y2='200' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体を持ち、黄色の顔と手足を持つ男性型生命体です。背中にはオレンジ色の角があり、青色の体に合わせたオレンジ色のしっぽが特徴です。",
+        "reason": "アダムは自然界での生存競争に対応するため、青色の体と黄色の顔が発展しました。",
+        "thought": "『力強さと知恵、両方を持つことこそ真の強さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1770642080750
   }
 ]
