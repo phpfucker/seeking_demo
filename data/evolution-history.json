@@ -25098,5 +25098,28 @@
       "gender": "男性"
     },
     "timestamp": 1770575473668
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='180' cy='180' rx='20' ry='10' fill='#f09fa1' /><ellipse cx='220' cy='180' rx='20' ry='10' fill='#f09fa1' /><path d='M190 220 Q200 240 210 220' stroke='#000' stroke-width='2' fill='none' /><path d='M150 220 Q200 250 250 220' stroke='#000' stroke-width='2' fill='none' /><rect x='190' y='240' width='20' height='20' fill='#f09fa1' /><polygon points='170,250 180,260 190,250' fill='#ffcccb' /><polygon points='210,250 220,260 230,250' fill='#ffcccb' /><circle cx='185' cy='190' r='5' fill='#000' /><circle cx='215' cy='190' r='5' fill='#000' /><rect x='195' y='240' width='10' height='5' fill='#000' /><rect x='195' y='255' width='10' height='5' fill='#000' /><ellipse cx='200' cy='220' rx='7' ry='3' fill='#000' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持つ女性型生命体です。体の丸みがあり、優しい表情と角のような突起が特徴です。手足は細く、心温まる存在です。",
+        "reason": "イヴは自然と調和した進化を遂げ、柔らかな色合いと優しい特徴が生まれました。",
+        "thought": "『自然の中で穏やかな時間を過ごす』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#87ceeb' /><circle cx='200' cy='150' r='40' fill='#4682b4' /><path d='M180 170 Q200 200 220 170' stroke='#000' stroke-width='2' fill='none' /><path d='M170 220 Q200 250 230 220' stroke='#000' stroke-width='2' fill='none' /><ellipse cx='190' cy='270' rx='15' ry='10' fill='#4682b4' /><ellipse cx='210' cy='270' rx='15' ry='10' fill='#4682b4' /><polygon points='180,250 190,260 200,250' fill='#87ceeb' /><polygon points='220,250 230,260 240,250' fill='#87ceeb' /><circle cx='185' cy='145' r='5' fill='#000' /><circle cx='215' cy='145' r='5' fill='#000' /><rect x='185' y='170' width='30' height='10' fill='#000' /><rect x='185' y='185' width='30' height='10' fill='#000' /><ellipse cx='200' cy='220' rx='7' ry='3' fill='#000' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体と大きな丸い頭を持つ男性型生命体です。体はがっしりとしており、優れた筋力を持っています。頭部には角のような突起があります。",
+        "reason": "アダムは力強い進化を遂げ、青色やがっしりした体が強さを象徴しています。",
+        "thought": "『力強く未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1770602155358
   }
 ]

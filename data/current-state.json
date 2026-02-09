@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='180' cy='180' rx='20' ry='10' fill='#f09fa1' /><ellipse cx='220' cy='180' rx='20' ry='10' fill='#f09fa1' /><path d='M190 220 Q200 240 210 220' stroke='#000' stroke-width='2' fill='none' /><path d='M150 220 Q200 250 250 220' stroke='#000' stroke-width='2' fill='none' /><rect x='190' y='240' width='20' height='20' fill='#f09fa1' /><polygon points='170,250 180,260 190,250' fill='#ffcccb' /><polygon points='210,250 220,260 230,250' fill='#ffcccb' /><circle cx='185' cy='190' r='5' fill='#000' /><circle cx='215' cy='190' r='5' fill='#000' /><rect x='195' y='240' width='10' height='5' fill='#000' /><rect x='195' y='255' width='10' height='5' fill='#000' /><ellipse cx='200' cy='220' rx='7' ry='3' fill='#000' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffcccb'/><circle cx='200' cy='150' r='80' fill='#ff99cc'/><circle cx='150' cy='120' r='10' fill='#333'/><circle cx='250' cy='120' r='10' fill='#333'/><path d='M185 180 Q200 220 215 180' fill='none' stroke='#333' stroke-width='2'/><path d='M210 180 Q225 220 240 180' fill='none' stroke='#333' stroke-width='2'/><ellipse cx='170' cy='250' rx='30' ry='20' fill='#ff99cc'/><ellipse cx='230' cy='250' rx='30' ry='20' fill='#ff99cc'/><polygon points='190,250 210,250 200,280' fill='#f00'/><polygon points='160,325 200,320 240,325' fill='#ffcccb'/><polygon points='135,100 165,70 195,100' fill='#ffcccb'/><polygon points='205,100 235,70 265,100' fill='#ffcccb'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな肌を持つ女性型生命体です。体の丸みがあり、優しい表情と角のような突起が特徴です。手足は細く、心温まる存在です。",
-      "reason": "イヴは自然と調和した進化を遂げ、柔らかな色合いと優しい特徴が生まれました。",
-      "thought": "『自然の中で穏やかな時間を過ごす』"
+      "appearance": "イヴは細身の女性で、ピンク色の肌を持ち、大きな赤い翼を背中に広げています。頭部には小さな黒い目と鼻があり、やや長めのピンク色の口が特徴です。胴体はピンク色で、手と足は小さく丸く、しっぽは赤く、模様が入っています。",
+      "reason": "イヴは新たな環境に適応するため、空を飛ぶ能力を得るために翼が進化しました。",
+      "thought": "『自由な空間を感じる』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#87ceeb' /><circle cx='200' cy='150' r='40' fill='#4682b4' /><path d='M180 170 Q200 200 220 170' stroke='#000' stroke-width='2' fill='none' /><path d='M170 220 Q200 250 230 220' stroke='#000' stroke-width='2' fill='none' /><ellipse cx='190' cy='270' rx='15' ry='10' fill='#4682b4' /><ellipse cx='210' cy='270' rx='15' ry='10' fill='#4682b4' /><polygon points='180,250 190,260 200,250' fill='#87ceeb' /><polygon points='220,250 230,260 240,250' fill='#87ceeb' /><circle cx='185' cy='145' r='5' fill='#000' /><circle cx='215' cy='145' r='5' fill='#000' /><rect x='185' y='170' width='30' height='10' fill='#000' /><rect x='185' y='185' width='30' height='10' fill='#000' /><ellipse cx='200' cy='220' rx='7' ry='3' fill='#000' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#87ceeb'/><ellipse cx='200' cy='150' rx='80' ry='60' fill='#6495ed'/><circle cx='170' cy='130' r='12' fill='#333'/><circle cx='230' cy='130' r='12' fill='#333'/><path d='M185 200 Q200 240 215 200' fill='none' stroke='#333' stroke-width='2'/><path d='M210 200 Q225 240 240 200' fill='none' stroke='#333' stroke-width='2'/><ellipse cx='170' cy='250' rx='30' ry='20' fill='#6495ed'/><ellipse cx='230' cy='250' rx='30' ry='20' fill='#6495ed'/><polygon points='190,250 210,250 200,290' fill='#00f'/><polygon points='160,325 200,320 240,325' fill='#87ceeb'/><polygon points='135,100 165,70 195,100' fill='#87ceeb'/><polygon points='205,100 235,70 265,100' fill='#87ceeb'/></svg>",
     "report": {
-      "appearance": "アダムは、青色の体と大きな丸い頭を持つ男性型生命体です。体はがっしりとしており、優れた筋力を持っています。頭部には角のような突起があります。",
-      "reason": "アダムは力強い進化を遂げ、青色やがっしりした体が強さを象徴しています。",
-      "thought": "『力強く未来を切り拓く』"
+      "appearance": "アダムは男性で、青い体色を持ち、大きな青い尾びれが特徴です。頭部には大きな青い目と鼻があり、口元はやや厚めです。胴体は青色で、手と足は丸みを帯び、尾は青く、模様が施されています。",
+      "reason": "アダムは水中での生活に適応するため、尾びれが進化しました。",
+      "thought": "『青い海の底で安らぎを見つける』"
     },
     "name": "アダム",
     "gender": "男性"
