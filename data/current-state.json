@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffcccb'/><circle cx='200' cy='150' r='80' fill='#ff99cc'/><circle cx='150' cy='120' r='10' fill='#333'/><circle cx='250' cy='120' r='10' fill='#333'/><path d='M185 180 Q200 220 215 180' fill='none' stroke='#333' stroke-width='2'/><path d='M210 180 Q225 220 240 180' fill='none' stroke='#333' stroke-width='2'/><ellipse cx='170' cy='250' rx='30' ry='20' fill='#ff99cc'/><ellipse cx='230' cy='250' rx='30' ry='20' fill='#ff99cc'/><polygon points='190,250 210,250 200,280' fill='#f00'/><polygon points='160,325 200,320 240,325' fill='#ffcccb'/><polygon points='135,100 165,70 195,100' fill='#ffcccb'/><polygon points='205,100 235,70 265,100' fill='#ffcccb'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFD700'/><ellipse cx='150' cy='150' rx='30' ry='20' fill='#FFC0CB'/><ellipse cx='250' cy='150' rx='30' ry='20' fill='#FFC0CB'/><path d='M175,225 Q200,300 225,225' fill='none' stroke='#FF1493' stroke-width='3'/><path d='M150,160 Q200,120 250,160' fill='none' stroke='#FF1493' stroke-width='3'/><rect x='180' y='250' width='40' height='25' fill='#DC143C'/><polygon points='180,250 220,250 200,230' fill='#FFD700'/><polygon points='190,185 195,170 205,170 210,185' fill='#FFC0CB'/><line x1='180' y1='250' x2='200' y2='230' stroke='#000' stroke-width='2'/><line x1='220' y1='250' x2='200' y2='230' stroke='#000' stroke-width='2'/></svg>",
     "report": {
-      "appearance": "イヴは細身の女性で、ピンク色の肌を持ち、大きな赤い翼を背中に広げています。頭部には小さな黒い目と鼻があり、やや長めのピンク色の口が特徴です。胴体はピンク色で、手と足は小さく丸く、しっぽは赤く、模様が入っています。",
-      "reason": "イヴは新たな環境に適応するため、空を飛ぶ能力を得るために翼が進化しました。",
-      "thought": "『自由な空間を感じる』"
+      "appearance": "イヴは、金色の体毛を持ち、ピンク色の顔と手足を持つ女性型生命体です。背中には赤い角が生えており、赤い装飾のある赤いしっぽが特徴です。",
+      "reason": "イヴは新たな環境への適応のため、金色の体毛とピンク色の顔が発達しました。",
+      "thought": "『生命とは、美しさと力強さの融合だ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#87ceeb'/><ellipse cx='200' cy='150' rx='80' ry='60' fill='#6495ed'/><circle cx='170' cy='130' r='12' fill='#333'/><circle cx='230' cy='130' r='12' fill='#333'/><path d='M185 200 Q200 240 215 200' fill='none' stroke='#333' stroke-width='2'/><path d='M210 200 Q225 240 240 200' fill='none' stroke='#333' stroke-width='2'/><ellipse cx='170' cy='250' rx='30' ry='20' fill='#6495ed'/><ellipse cx='230' cy='250' rx='30' ry='20' fill='#6495ed'/><polygon points='190,250 210,250 200,290' fill='#00f'/><polygon points='160,325 200,320 240,325' fill='#87ceeb'/><polygon points='135,100 165,70 195,100' fill='#87ceeb'/><polygon points='205,100 235,70 265,100' fill='#87ceeb'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#4682B4'/><ellipse cx='200' cy='150' rx='25' ry='15' fill='#F0E68C'/><ellipse cx='200' cy='250' rx='25' ry='15' fill='#F0E68C'/><path d='M200,200 Q150,250 100,200' fill='none' stroke='#FF8C00' stroke-width='3'/><path d='M175,110 Q200,80 225,110' fill='none' stroke='#FF8C00' stroke-width='3'/><polygon points='150,200 150,220 170,200' fill='#4682B4'/><polygon points='250,200 250,220 230,200' fill='#4682B4'/><polygon points='192,150 198,150 200,140' fill='#F0E68C'/><line x1='150' y1='200' x2='170' y2='200' stroke='#000' stroke-width='2'/><line x1='150' y1='220' x2='170' y2='200' stroke='#000' stroke-width='2'/></svg>",
     "report": {
-      "appearance": "アダムは男性で、青い体色を持ち、大きな青い尾びれが特徴です。頭部には大きな青い目と鼻があり、口元はやや厚めです。胴体は青色で、手と足は丸みを帯び、尾は青く、模様が施されています。",
-      "reason": "アダムは水中での生活に適応するため、尾びれが進化しました。",
-      "thought": "『青い海の底で安らぎを見つける』"
+      "appearance": "アダムは、青色の体を持ち、黄色の顔と手足を持つ男性型生命体です。背中にはオレンジ色の角があり、青色の体に合わせたオレンジ色のしっぽが特徴です。",
+      "reason": "アダムは自然界での生存競争に対応するため、青色の体と黄色の顔が発展しました。",
+      "thought": "『力強さと知恵、両方を持つことこそ真の強さ』"
     },
     "name": "アダム",
     "gender": "男性"
