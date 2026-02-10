@@ -25213,5 +25213,28 @@
       "gender": "男性"
     },
     "timestamp": 1770706743416
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#ffcc00'/><circle cx='200' cy='180' r='80' fill='#ffddcc'/><circle cx='150' cy='180' r='10' fill='#333333'/><circle cx='250' cy='180' r='10' fill='#333333'/><path d='M200,200 L180,230 L220,230 Z' fill='#ff9999'/><rect x='170' y='230' width='60' height='10' fill='#ff9999'/><path d='M200,260 L180,300 L220,300 Z' fill='#ff9999'/><polygon points='180,140 200,100 220,140' fill='#ffcc00'/><polygon points='170,230 200,250 230,230' fill='#ffcc00'/><ellipse cx='200' cy='280' rx='60' ry='20' fill='#ffddcc'/><polygon points='200,270 190,260 210,260' fill='#ff9999'/></svg>",
+      "report": {
+        "appearance": "イヴは、全身を覆う金色の皮膚を持ち、大きな赤い目を持つ女性の姿をしています。背中には双頭の翼が生えており、優雅なしっぽが後ろに伸びています。",
+        "reason": "新たな進化が起こり、イヴは強力な飛行能力を持つようになりました。",
+        "thought": "『自由な空を飛びたい』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#66ccff'/><circle cx='200' cy='180' r='80' fill='#ffddcc'/><circle cx='150' cy='180' r='10' fill='#333333'/><circle cx='250' cy='180' r='10' fill='#333333'/><path d='M200,200 L180,230 L220,230 Z' fill='#3399cc'/><rect x='170' y='230' width='60' height='10' fill='#3399cc'/><path d='M200,260 L180,300 L220,300 Z' fill='#3399cc'/><polygon points='180,140 200,100 220,140' fill='#66ccff'/><polygon points='170,230 200,250 230,230' fill='#66ccff'/><ellipse cx='200' cy='280' rx='60' ry='20' fill='#ffddcc'/><polygon points='200,270 190,260 210,260' fill='#3399cc'/></svg>",
+      "report": {
+        "appearance": "アダムは、深い青色の体に包まれ、銀色の鋭い角を持つ男性の姿をしています。背中には大きな水色の帆が広がり、しなやかな尾びれが生えています。",
+        "reason": "新たな進化が起こり、アダムは水中でも俊敏な動きをするように進化しました。",
+        "thought": "『深海の秘密を探りたい』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1770728695978
   }
 ]

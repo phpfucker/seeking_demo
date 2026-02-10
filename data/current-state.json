@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#ffcc00'/><circle cx='200' cy='180' r='80' fill='#ffddcc'/><circle cx='150' cy='180' r='10' fill='#333333'/><circle cx='250' cy='180' r='10' fill='#333333'/><path d='M200,200 L180,230 L220,230 Z' fill='#ff9999'/><rect x='170' y='230' width='60' height='10' fill='#ff9999'/><path d='M200,260 L180,300 L220,300 Z' fill='#ff9999'/><polygon points='180,140 200,100 220,140' fill='#ffcc00'/><polygon points='170,230 200,250 230,230' fill='#ffcc00'/><ellipse cx='200' cy='280' rx='60' ry='20' fill='#ffddcc'/><polygon points='200,270 190,260 210,260' fill='#ff9999'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,174,174);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,112,112);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><polygon points='160,180 200,140 240,180' fill='rgb(255,112,112)' /><circle cx='160' cy='180' r='10' fill='rgb(0,0,0)' /><circle cx='240' cy='180' r='10' fill='rgb(0,0,0)' /><ellipse cx='200' cy='220' rx='40' ry='20' fill='rgb(255,174,174)' /><path d='M185,230 Q200,250 215,230' fill='none' stroke='black' stroke-width='2' /><polygon points='180,220 200,240 220,220' fill='rgb(255,112,112)' /><rect x='190' y='230' width='20' height='10' fill='rgb(0,0,0)' /></svg>",
     "report": {
-      "appearance": "イヴは、全身を覆う金色の皮膚を持ち、大きな赤い目を持つ女性の姿をしています。背中には双頭の翼が生えており、優雅なしっぽが後ろに伸びています。",
-      "reason": "新たな進化が起こり、イヴは強力な飛行能力を持つようになりました。",
-      "thought": "『自由な空を飛びたい』"
+      "appearance": "イヴは、ピンクと赤のグラデーションがかった柔らかな肌を持ち、大きな赤い目と小さな黒い鼻を持つ女性型生命体です。頭には角が生え、手足は細長く、しっぽが優雅に伸びています。",
+      "reason": "イヴは新たな能力を身につけるため、進化の過程で美しいグラデーションと繊細なパーツを獲得しました。",
+      "thought": "『生命の美しさを感じる』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#66ccff'/><circle cx='200' cy='180' r='80' fill='#ffddcc'/><circle cx='150' cy='180' r='10' fill='#333333'/><circle cx='250' cy='180' r='10' fill='#333333'/><path d='M200,200 L180,230 L220,230 Z' fill='#3399cc'/><rect x='170' y='230' width='60' height='10' fill='#3399cc'/><path d='M200,260 L180,300 L220,300 Z' fill='#3399cc'/><polygon points='180,140 200,100 220,140' fill='#66ccff'/><polygon points='170,230 200,250 230,230' fill='#66ccff'/><ellipse cx='200' cy='280' rx='60' ry='20' fill='#ffddcc'/><polygon points='200,270 190,260 210,260' fill='#3399cc'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(174,182,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(112,121,255);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradB)' /><polygon points='160,180 200,140 240,180' fill='rgb(112,121,255)' /><circle cx='160' cy='180' r='10' fill='rgb(0,0,0)' /><circle cx='240' cy='180' r='10' fill='rgb(0,0,0)' /><ellipse cx='200' cy='220' rx='40' ry='20' fill='rgb(174,182,255)' /><path d='M185,230 Q200,250 215,230' fill='none' stroke='black' stroke-width='2' /><polygon points='180,220 200,240 220,220' fill='rgb(112,121,255)' /><rect x='190' y='230' width='20' height='10' fill='rgb(0,0,0)' /></svg>",
     "report": {
-      "appearance": "アダムは、深い青色の体に包まれ、銀色の鋭い角を持つ男性の姿をしています。背中には大きな水色の帆が広がり、しなやかな尾びれが生えています。",
-      "reason": "新たな進化が起こり、アダムは水中でも俊敏な動きをするように進化しました。",
-      "thought": "『深海の秘密を探りたい』"
+      "appearance": "アダムは、青と紫のグラデーションがかった肌を持つ男性型生命体で、大きな青い目と小さな黒い鼻を持ちます。頭には角があり、手足はしなやかに伸び、しっぽが優雅に広がります。",
+      "reason": "アダムは新たな環境に適応するため、進化の過程で洗練されたグラデーションと柔軟な外見を獲得しました。",
+      "thought": "『進化とは、新たな挑戦への準備』"
     },
     "name": "アダム",
     "gender": "男性"
