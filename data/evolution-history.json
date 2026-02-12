@@ -25397,5 +25397,28 @@
       "gender": "男性"
     },
     "timestamp": 1770879432343
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='lightpink' /><ellipse cx='200' cy='240' rx='80' ry='100' fill='pink' /><rect x='150' y='240' width='100' height='60' fill='white' /><circle cx='160' cy='220' r='10' fill='black' /><circle cx='240' cy='220' r='10' fill='black' /><path d='M150 300 Q200 320 250 300' fill='none' stroke='black' stroke-width='2' /><polygon points='180,180 200,160 220,180' fill='grey' /><polygon points='180,320 200,340 220,320' fill='grey' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に白いお腹を持つ特徴的な姿をしています。頭部には黒い目があり、やわらかな表情を見せます。灰色の角と尻尾があり、全体的に愛らしい雰囲気を醸し出しています。",
+        "reason": "イヴは、進化の過程でより柔らかで優しいイメージを持つようになりました。この進化は、環境の平和と共生を象徴するために起こりました。",
+        "thought": "『やさしさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='lightblue' /><ellipse cx='200' cy='240' rx='80' ry='100' fill='skyblue' /><rect x='150' y='240' width='100' height='60' fill='white' /><circle cx='160' cy='220' r='10' fill='black' /><circle cx='240' cy='220' r='10' fill='black' /><path d='M150 300 Q200 320 250 300' fill='none' stroke='black' stroke-width='2' /><polygon points='180,180 200,160 220,180' fill='grey' /><polygon points='180,320 200,340 220,320' fill='grey' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に白いお腹を持つ特徴的な姿をしています。頭部には黒い目があり、凛々しい表情を見せます。灰色の角と尻尾があり、全体的に力強い雰囲気を醸し出しています。",
+        "reason": "アダムは、進化の過程でより強靭で堅実なイメージを持つようになりました。この進化は、環境の厳しさに対処するために起こりました。",
+        "thought": "『力強さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1770901176281
   }
 ]
