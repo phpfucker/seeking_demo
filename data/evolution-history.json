@@ -25535,5 +25535,28 @@
       "gender": "男性"
     },
     "timestamp": 1771008124815
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='pink'/><ellipse cx='200' cy='120' rx='80' ry='100' fill='white'/><ellipse cx='160' cy='120' rx='20' ry='35' fill='black'/><ellipse cx='240' cy='120' rx='20' ry='35' fill='black'/><path d='M150 240 Q200 300 250 240 T350 240 Z' fill='pink'/><path d='M180 220 Q200 230 220 220 Z' fill='black'/><path d='M140 240 Q200 280 260 240 Z' fill='pink'/><path d='M190 160 Q200 140 210 160 Z' fill='black'/><path d='M190 160 Q200 100 210 160 Z' fill='pink'/><polygon points='160,80 200,40 240,80' fill='white'/><polygon points='170,60 200,30 230,60' fill='pink'/><rect x='170' y='260' width='60' height='40' fill='black'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクの体に白い腹部、優しい表情をした女性の姿をしています。顔には大きな目と黒い眉毛があり、しっぽと角があります。",
+        "reason": "自然界の多様性を反映し、イヴが環境への適応や美的進化を遂げました。",
+        "thought": "『生命とは美しいもの』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='80' width='120' height='220' fill='blue'/><ellipse cx='200' cy='160' rx='60' ry='80' fill='white'/><ellipse cx='160' cy='160' rx='15' ry='30' fill='black'/><ellipse cx='240' cy='160' rx='15' ry='30' fill='black'/><path d='M150 240 Q200 280 250 240 T350 240 Z' fill='blue'/><path d='M190 140 Q200 120 210 140 Z' fill='black'/><path d='M190 140 Q200 100 210 140 Z' fill='blue'/><polygon points='160,80 200,40 240,80' fill='white'/><polygon points='170,60 200,30 230,60' fill='blue'/><line x1='180' y1='300' x2='180' y2='340' stroke='black' stroke-width='5'/><line x1='220' y1='300' x2='220' y2='340' stroke='black' stroke-width='5'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い体に白い腹部、力強い表情をした男性の姿をしています。顔には大きな口と鋭い眼があり、しっぽと角があります。",
+        "reason": "環境や求愛競争の影響で、アダムがより強靭で洗練された外見へ進化しました。",
+        "thought": "『強靭な姿こそが進化の証』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1771033659355
   }
 ]
