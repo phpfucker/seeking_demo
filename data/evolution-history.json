@@ -25558,5 +25558,28 @@
       "gender": "男性"
     },
     "timestamp": 1771033659355
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc66' /><ellipse cx='200' cy='130' rx='80' ry='100' fill='#ffdd99' /><polygon points='160,210 200,250 240,210' fill='#ffdd99' /><polygon points='185,200 200,180 215,200' fill='#fff' /><path d='M150,270 Q200,320 250,270 Q200,320 150,270 Z' fill='#ffdd99' /><circle cx='170' cy='130' r='10' fill='#664422' /><circle cx='230' cy='130' r='10' fill='#664422' /><line x1='180' y1='150' x2='220' y2='150' stroke='#664422' stroke-width='5' /><ellipse cx='200' cy='240' rx='40' ry='15' fill='#ffdd99' /><line x1='180' y1='260' x2='190' y2='260' stroke='#664422' stroke-width='5' /><line x1='210' y1='260' x2='220' y2='260' stroke='#664422' stroke-width='5' /><polygon points='180,210 200,220 220,210' fill='#ffcc66' /><text x='140' y='350' font-family='Verdana' font-size='20' fill='#333'>'イヴ'</text></svg>",
+      "report": {
+        "appearance": "「イヴ」は、美しい金色の体色を持ち、柔らかな表情と優雅な特徴を持つ女性的な姿をしています。顔には大きな目と柔らかい口元があり、頭部には2本の小さな角が生えています。背中には大きな翼があり、足元にはしっかりした足があります。",
+        "reason": "金色の体色と優雅な特徴を持つことで、より美しく進化しました。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='50' width='100' height='150' fill='#6699cc' /><circle cx='200' cy='110' r='20' fill='#99ccff' /><line x1='160' y1='200' x2='160' y2='250' stroke='#6699cc' stroke-width='10' /><line x1='240' y1='200' x2='240' y2='250' stroke='#6699cc' stroke-width='10' /><polygon points='170,200 200,170 230,200' fill='#99ccff' /><path d='M180,200 Q200,250 220,200 Q200,250 180,200 Z' fill='#99ccff' /><polygon points='160,200 200,230 240,200' fill='#6699cc' /><circle cx='180' cy='60' r='12' fill='#336699' /><circle cx='220' cy='60' r='12' fill='#336699' /><ellipse cx='200' cy='240' rx='40' ry='15' fill='#99ccff' /><line x1='180' y1='260' x2='190' y2='260' stroke='#336699' stroke-width='5' /><line x1='210' y1='260' x2='220' y2='260' stroke='#336699' stroke-width='5' /><text x='140' y='350' font-family='Verdana' font-size='20' fill='#333'>'アダム'</text></svg>",
+      "report": {
+        "appearance": "「アダム」は、クールな青色の体色を持ち、頑丈な体つきと男性的な特徴を持つ姿をしています。顔には力強い眼差しと頑丈な口元があり、頭部には1本の角が生えています。背中には小さな翼があり、足元には頑丈な足があります。",
+        "reason": "青色の体色と男性的な特徴を持つことで、より強靭に進化しました。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1771051194013
   }
 ]
