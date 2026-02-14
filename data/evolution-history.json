@@ -25581,5 +25581,28 @@
       "gender": "男性"
     },
     "timestamp": 1771051194013
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='pink'/><ellipse cx='200' cy='250' rx='80' ry='100' fill='lightpink'/><polygon points='150,300 200,350 250,300' fill='white'/><polygon points='180,220 200,210 220,220' fill='white'/><polygon points='150,250 170,240 190,260' fill='white'/><rect x='180' y='320' width='40' height='20' fill='white'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかな体を持ち、薄いピンク色の楕円形の顔と、白い三角形状の牙を持っています。手は白い三角形の爪を持ち、足は白い小さな三角形の爪と白い長方形の靴を履いています。",
+        "reason": "進化により、イヴはより優美で女性らしい特徴を身につけました。",
+        "thought": "『愛と美の力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='lightblue'/><ellipse cx='200' cy='250' rx='80' ry='100' fill='skyblue'/><polygon points='150,300 200,350 250,300' fill='white'/><polygon points='180,220 200,210 220,220' fill='white'/><polygon points='150,250 170,240 190,260' fill='white'/><rect x='180' y='320' width='40' height='20' fill='white'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の力強い体を持ち、明るい青色の楕円形の顔と、白い三角形状の牙を持っています。手は白い三角形の爪を持ち、足は白い小さな三角形の爪と白い長方形の靴を履いています。",
+        "reason": "進化により、アダムはより頼りになる男性らしい特徴を身につけました。",
+        "thought": "『力と誇りの調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1771072784566
   }
 ]
