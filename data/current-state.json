@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99' /><ellipse cx='200' cy='170' rx='80' ry='120' fill='#ffcc99' /><rect x='160' y='230' width='80' height='100' fill='#ffcc99' /><path d='M180 220 L160 170 L200 150 Q240 170 220 220 Z' fill='#ff9966' /><circle cx='170' cy='160' r='10' fill='#333333' /><circle cx='230' cy='160' r='10' fill='#333333' /><circle cx='185' cy='200' r='5' fill='#333333' /><circle cx='215' cy='200' r='5' fill='#333333' /><polygon points='180,280 200,280 190,300' fill='#ff9966' /><polygon points='210,280 230,280 220,300' fill='#ff9966' /><polygon points='170,250 200,250 185,270' fill='#ff9966' /><polygon points='200,250 230,250 215,270' fill='#ff9966' /><line x1='165' y1='210' x2='155' y2='230' stroke='#333333' stroke-width='2' /><line x1='235' y1='210' x2='245' y2='230' stroke='#333333' stroke-width='2' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#333333' text-anchor='middle'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#FFDAB9' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#FFA07A' /><ellipse cx='200' cy='210' rx='60' ry='70' fill='#FFA07A' /><path d='M150,300 L125,350 L275,350 L250,300 Z' fill='#FFA07A' /><circle cx='160' cy='170' r='5' fill='#000' /><circle cx='240' cy='170' r='5' fill='#000' /><line x1='160' y1='200' x2='240' y2='200' stroke='#000' stroke-width='2' /><polygon points='180,300 200,320 220,300' fill='#FF6347' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、大きな瞳と円形の顔を持つ女性型の生命体です。体は大きな楕円形でお腹がやや膨らんでおり、四角形のスカートを着用しています。手足は細長く、足先には尖った爪があります。頭には二本の角が生えており、背中にはふわふわのしっぽがあります。",
-      "reason": "イヴは繊細な感性と創造力を持つ進化を遂げました。新たな色彩と柔らかな特徴が、環境への適応を促しました。",
-      "thought": "『夢と現実の狭間で』"
+      "appearance": "イヴは、ピンク色の柔らかな肌とオレンジ色の長い髪を持つ女性型生命体です。頭部には二つの小さな角があり、上半身は桃色の服で覆われています。四肢は太く、赤い靴を履いています。",
+      "reason": "過酷な環境での生存に適応するため、イヴは柔らかな肌と長い髪、角を持つよう進化しました。",
+      "thought": "『調和と愛』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='150' fill='#99ccff' /><circle cx='200' cy='150' r='60' fill='#99ccff' /><circle cx='200' cy='200' r='100' fill='#99ccff' /><path d='M180 210 Q200 250 220 210 Z' fill='#6699cc' /><rect x='175' y='300' width='50' height='80' fill='#6699cc' /><rect x='185' y='360' width='10' height='40' fill='#333333' /><rect x='205' y='360' width='10' height='40' fill='#333333' /><polygon points='180,150 200,120 220,150' fill='#6699cc' /><line x1='190' y1='140' x2='210' y2='140' stroke='#333333' stroke-width='2' /><text x='200' y='30' font-family='Arial' font-size='20' fill='#333333' text-anchor='middle'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#4682B4' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#87CEEB' /><ellipse cx='200' cy='210' rx='60' ry='70' fill='#87CEEB' /><path d='M150,300 L125,350 L275,350 L250,300 Z' fill='#87CEEB' /><rect x='180' y='320' width='40' height='40' fill='#4682B4' /><line x1='160' y1='200' x2='240' y2='200' stroke='#000' stroke-width='2' /><polygon points='180,300 200,320 220,300' fill='#87CEEB' /></svg>",
     "report": {
-      "appearance": "アダムは、青色の強靱な肉体を持つ男性型の生命体です。体は四角形で筋肉質であり、大きな丸い頭と短い首を持ちます。顔には大きな目と突き出た口があり、角ばった形状が特徴です。手足は太く短く、足には厚い爪が生えています。",
-      "reason": "アダムは進化において力強さと堅実さを追求しました。青色の体と頑強な外観が、厳しい環境への順応を可能にしました。",
-      "thought": "『力強い未来へ』"
+      "appearance": "アダムは、青い肌と水色の髪を持つ男性型生命体です。頭部には二つの小さな角があり、上半身は青い服で覆われています。四肢は太く、青いパンツを履いています。",
+      "reason": "極端な気候変動により、アダムは水を象徴する青色の特徴を持つように進化しました。",
+      "thought": "『自然の力』"
     },
     "name": "アダム",
     "gender": "男性"
