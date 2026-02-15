@@ -25650,5 +25650,28 @@
       "gender": "男性"
     },
     "timestamp": 1771120647742
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#FFDAB9' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#FFA07A' /><ellipse cx='200' cy='210' rx='60' ry='70' fill='#FFA07A' /><path d='M150,300 L125,350 L275,350 L250,300 Z' fill='#FFA07A' /><circle cx='160' cy='170' r='5' fill='#000' /><circle cx='240' cy='170' r='5' fill='#000' /><line x1='160' y1='200' x2='240' y2='200' stroke='#000' stroke-width='2' /><polygon points='180,300 200,320 220,300' fill='#FF6347' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌とオレンジ色の長い髪を持つ女性型生命体です。頭部には二つの小さな角があり、上半身は桃色の服で覆われています。四肢は太く、赤い靴を履いています。",
+        "reason": "過酷な環境での生存に適応するため、イヴは柔らかな肌と長い髪、角を持つよう進化しました。",
+        "thought": "『調和と愛』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#4682B4' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#87CEEB' /><ellipse cx='200' cy='210' rx='60' ry='70' fill='#87CEEB' /><path d='M150,300 L125,350 L275,350 L250,300 Z' fill='#87CEEB' /><rect x='180' y='320' width='40' height='40' fill='#4682B4' /><line x1='160' y1='200' x2='240' y2='200' stroke='#000' stroke-width='2' /><polygon points='180,300 200,320 220,300' fill='#87CEEB' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い肌と水色の髪を持つ男性型生命体です。頭部には二つの小さな角があり、上半身は青い服で覆われています。四肢は太く、青いパンツを履いています。",
+        "reason": "極端な気候変動により、アダムは水を象徴する青色の特徴を持つように進化しました。",
+        "thought": "『自然の力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1771137983810
   }
 ]
