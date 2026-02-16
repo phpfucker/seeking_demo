@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='150' width='300' height='200' fill='#FFB6C1'/><ellipse cx='150' cy='100' rx='40' ry='60' fill='#FFC0CB'/><ellipse cx='250' cy='100' rx='40' ry='60' fill='#FFC0CB'/><path d='M200 200 L200 250 Q220 270 240 250 L240 200 Z' fill='#FFC0CB'/><path d='M220 200 L220 240 Q230 260 240 240 L240 200 Z' fill='#FFB6C1'/><ellipse cx='180' cy='110' rx='10' ry='5' fill='#FFFFFF'/><ellipse cx='220' cy='110' rx='10' ry='5' fill='#FFFFFF'/><ellipse cx='200' cy='230' rx='20' ry='10' fill='#FFB6C1'/><path d='M200 230 Q190 240 200 250 Q210 240 200 230 Z' fill='#FFC0CB'/><circle cx='190' cy='90' r='5' fill='#000000'/><circle cx='210' cy='90' r='5' fill='#000000'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#ff8c94'><circle cx='200' cy='150' r='100'/><ellipse cx='200' cy='250' rx='120' ry='80'/><polygon points='180,200 220,200 200,230'/><polygon points='160,160 200,190 240,160'/><circle cx='170' cy='120' r='10'/><circle cx='230' cy='120' r='10'/><path d='M175,225 Q200,265 225,225'/><path d='M160,240 Q200,280 240,240'/><rect x='190' y='280' width='20' height='40'/></g></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな体に二つの白いハート模様を持つ女性です。顔には親しみやすい笑顔が描かれ、愛らしさを放っています。四肢はしなやかで優美な曲線を描いており、全体的に優雅な印象を与えます。",
-      "reason": "イヴは愛と美を象徴するため、柔らかなピンク色とハート模様が与えられました。笑顔は穏やかな性格を表現し、しなやかな体は女性らしい美しさを強調しています。",
-      "thought": "『愛と美の調和』"
+      "appearance": "イヴは、ピンク色の柔らかい輪郭の体に、優雅な曲線の顔と大きな薄紅色の目を持つ女性。白い装飾の模様が体全体に広がり、優美なしっぽが垂れ下がっている。",
+      "reason": "イヴは新たなる美しさを求め、独自の華やかさと優雅さを追求して進化を遂げた。",
+      "thought": "『魅力は内面から』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='150' width='300' height='200' fill='#87CEEB'/><ellipse cx='150' cy='100' rx='40' ry='60' fill='#ADD8E6'/><ellipse cx='250' cy='100' rx='40' ry='60' fill='#ADD8E6'/><path d='M200 200 L200 250 Q220 270 240 250 L240 200 Z' fill='#ADD8E6'/><path d='M220 200 L220 240 Q230 260 240 240 L240 200 Z' fill='#87CEEB'/><ellipse cx='180' cy='110' rx='10' ry='5' fill='#FFFFFF'/><ellipse cx='220' cy='110' rx='10' ry='5' fill='#FFFFFF'/><ellipse cx='200' cy='230' rx='20' ry='10' fill='#ADD8E6'/><path d='M200 230 Q190 240 200 250 Q210 240 200 230 Z' fill='#ADD8E6'/><circle cx='190' cy='90' r='5' fill='#000000'/><circle cx='210' cy='90' r='5' fill='#000000'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#8cc5ff'><circle cx='200' cy='150' r='100'/><ellipse cx='200' cy='250' rx='120' ry='80'/><polygon points='180,200 220,200 200,230'/><polygon points='160,160 200,190 240,160'/><circle cx='170' cy='120' r='10'/><circle cx='230' cy='120' r='10'/><polyline points='190,280 220,300 230,280'/><polyline points='210,280 220,260 230,280'/><rect x='190' y='280' width='20' height='40'/></g></svg>",
     "report": {
-      "appearance": "アダムは、青色の体に流れるようなウェーブ模様を持つ男性です。顔には真剣な表情が描かれ、力強さを感じさせます。四肢はしっかりとした筋肉が描かれ、全体的に力強さと安定感を示しています。",
-      "reason": "アダムは力強さと知恵を象徴するため、青色の体とウェーブ模様が与えられました。真剣な表情は積極的な性格を表現し、筋肉質な体は男性らしい力強さを強調しています。",
-      "thought": "『力と知恵の融合』"
+      "appearance": "アダムは、青色の力強い輪郭の体に、角のある頑丈な顔と深い青色の目を持つ男性。体表には青い模様が入り、力強い尾が生えている。",
+      "reason": "アダムは力強さと知恵を兼ね備えた新たな姿への進化を果たした。",
+      "thought": "『力強さと知恵を持つ』"
     },
     "name": "アダム",
     "gender": "男性"
