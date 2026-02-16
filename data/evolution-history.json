@@ -25742,5 +25742,28 @@
       "gender": "男性"
     },
     "timestamp": 1771206793579
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#ffcccb' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='#f08080' /><path d='M150,200 L200,300 L250,200 L150,200 Z' fill='#ffb6c1' /><circle cx='150' cy='120' r='20' fill='#ffffff' /><circle cx='250' cy='120' r='20' fill='#ffffff' /><rect x='175' y='250' width='50' height='50' fill='#ffb6c1' /></svg>",
+      "report": {
+        "appearance": "イヴは美しい女性の姿をしています。ピンク色の肌と赤い髪があり、背中には小さな羽があります。体の一部には白い模様が施されています。",
+        "reason": "環境の変化により、イヴの羽が発達し、美しい模様が追加された。",
+        "thought": "『自然と調和する美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#add8e6' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='#87ceeb' /><path d='M150,200 L200,300 L250,200 L150,200 Z' fill='#b0e0e6' /><circle cx='150' cy='120' r='20' fill='#ffffff' /><circle cx='250' cy='120' r='20' fill='#ffffff' /><polygon points='175,250 200,220 225,250' fill='#b0e0e6' /></svg>",
+      "report": {
+        "appearance": "アダムは優雅な男性の姿をしています。青い肌と青い髪があり、背中には小さな翼が生えています。体の一部に青と水色の模様が彩られています。",
+        "reason": "アダムが水辺に生息するようになり、体の模様や色が水を反映したものとなった。",
+        "thought": "『静かな水面のような優しさ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1771225119827
   }
 ]
