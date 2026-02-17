@@ -25834,5 +25834,28 @@
       "gender": "男性"
     },
     "timestamp": 1771293076522
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='140' cy='180' rx='20' ry='30' fill='#ff99cc' /><ellipse cx='260' cy='180' rx='20' ry='30' fill='#ff99cc' /><path d='M200 220 Q190 240 200 260 Q210 240 200 220' fill='none' stroke='#996699' stroke-width='3' /><rect x='180' y='220' width='40' height='20' fill='#ffccff' /><line x1='180' y1='220' x2='180' y2='240' stroke='#996699' stroke-width='3' /><line x1='220' y1='220' x2='220' y2='240' stroke='#996699' stroke-width='3' /><polygon points='200,180 190,190 210,190' fill='#ff99cc' /><circle cx='190' cy='190' r='5' fill='black' /><circle cx='210' cy='190' r='5' fill='black' /><path d='M180 260 Q160 250 140 270' fill='none' stroke='#996699' stroke-width='3' /><path d='M220 260 Q240 250 260 270' fill='none' stroke='#996699' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "イヴは、淡いピンク色の体を持ち、優美な曲線の体型をしています。顔には二つの楕円形の目と、ふんわりした頬があり、上品な雰囲気が漂います。手足は細くしなやかで、しっぽは繊細な模様が施されています。",
+        "reason": "環境の変化に伴い、イヴの美しさと優雅さが進化の過程で強化されました。",
+        "thought": "『優しさが、美しさを生み出す』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='100' fill='#99ccff' /><ellipse cx='175' cy='150' rx='15' ry='25' fill='#6699ff' /><ellipse cx='225' cy='150' rx='15' ry='25' fill='#6699ff' /><line x1='175' y1='200' x2='180' y2='220' stroke='#0066cc' stroke-width='3' /><line x1='225' y1='200' x2='220' y2='220' stroke='#0066cc' stroke-width='3' /><circle cx='180' cy='180' r='5' fill='black' /><circle cx='220' cy='180' r='5' fill='black' /><polygon points='175,150 165,140 185,140' fill='#6699ff' /><polygon points='225,150 215,140 235,140' fill='#6699ff' /><polygon points='150,150 180,130 210,150' fill='#99ccff' /><polygon points='150,250 180,230 210,250' fill='#99ccff' /><line x1='180' y1='250' x2='180' y2='270' stroke='#0066cc' stroke-width='3' /><line x1='220' y1='250' x2='220' y2='270' stroke='#0066cc' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い体を持ち、力強い四角形の体型をしています。顔には二つの楕円形の目と、キリッとした眉があり、凛々しい雰囲気が漂います。手足は太く頑丈で、しっぽはシンプルながら力強い印象を与えます。",
+        "reason": "環境の変化に伴い、アダムの力強さと頑丈さが進化の過程で強化されました。",
+        "thought": "『力強さこそ、生き抜く力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1771311276909
   }
 ]
