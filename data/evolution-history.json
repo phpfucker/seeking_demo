@@ -25811,5 +25811,28 @@
       "gender": "男性"
     },
     "timestamp": 1771267057244
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#ff8c94'><circle cx='200' cy='150' r='100'/><ellipse cx='200' cy='250' rx='120' ry='80'/><polygon points='180,200 220,200 200,230'/><polygon points='160,160 200,190 240,160'/><circle cx='170' cy='120' r='10'/><circle cx='230' cy='120' r='10'/><path d='M175,225 Q200,265 225,225'/><path d='M160,240 Q200,280 240,240'/><rect x='190' y='280' width='20' height='40'/></g></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかい輪郭の体に、優雅な曲線の顔と大きな薄紅色の目を持つ女性。白い装飾の模様が体全体に広がり、優美なしっぽが垂れ下がっている。",
+        "reason": "イヴは新たなる美しさを求め、独自の華やかさと優雅さを追求して進化を遂げた。",
+        "thought": "『魅力は内面から』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#8cc5ff'><circle cx='200' cy='150' r='100'/><ellipse cx='200' cy='250' rx='120' ry='80'/><polygon points='180,200 220,200 200,230'/><polygon points='160,160 200,190 240,160'/><circle cx='170' cy='120' r='10'/><circle cx='230' cy='120' r='10'/><polyline points='190,280 220,300 230,280'/><polyline points='210,280 220,260 230,280'/><rect x='190' y='280' width='20' height='40'/></g></svg>",
+      "report": {
+        "appearance": "アダムは、青色の力強い輪郭の体に、角のある頑丈な顔と深い青色の目を持つ男性。体表には青い模様が入り、力強い尾が生えている。",
+        "reason": "アダムは力強さと知恵を兼ね備えた新たな姿への進化を果たした。",
+        "thought": "『力強さと知恵を持つ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1771293076522
   }
 ]
