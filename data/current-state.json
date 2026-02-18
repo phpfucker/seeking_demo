@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffc0cb'/><polygon points='150,200 250,200 200,300' fill='#ff1493'/><path d='M120,160 Q180,100 200,160 Q220,100 280,160 Q220,220 200,160 Q180,220 120,160' fill='#ff69b4'/><rect x='170' y='260' width='60' height='20' fill='#ff1493'/><circle cx='180' cy='210' r='5' fill='#ffffff'/><circle cx='220' cy='210' r='5' fill='#ffffff'/><line x1='220' y1='230' x2='240' y2='240' stroke='#ffffff' stroke-width='2'/><line x1='180' y1='230' x2='160' y2='240' stroke='#ffffff' stroke-width='2'/><text x='200' y='350' font-family='Arial' font-size='20' fill='#000000' text-anchor='middle'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffd5cd' /><rect x='100' y='180' width='200' height='120' fill='#fccac1' /><ellipse cx='150' cy='200' rx='40' ry='80' fill='#ffaba1' /><ellipse cx='250' cy='200' rx='40' ry='80' fill='#ffaba1' /><path d='M200 230 Q190 250 200 270 Q210 250 200 230' fill='#ffeaad' /><circle cx='170' cy='180' r='10' fill='#ffffff' /><circle cx='230' cy='180' r='10' fill='#ffffff' /><path d='M185 215 Q200 225 215 215' fill='none' stroke='#000000' stroke-width='2' /><path d='M180 230 Q200 220 220 230' fill='none' stroke='#000000' stroke-width='2' /><polygon points='160,160 145,190 175,190' fill='#ffc0b3' /><polygon points='240,160 225,190 255,190' fill='#ffc0b3' /><text x='160' y='350' font-family='Arial' font-size='20' fill='#000000'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、頭には三本角が生えています。鮮やかなピンクと紫の色調で、優雅で美しい女性の特徴を持っています。手元にはピンクの装飾品があり、上品な雰囲気を醸し出しています。",
-      "reason": "イヴは内面の純粋さと美しさから、進化の過程でより優雅で華やかな特徴を身につけました。",
-      "thought": "『愛と美の調和』"
+      "appearance": "イヴは大きな円形の頭部に人間のような体を持つ女性。桃色の肌に、ピンクとオレンジのグラデーションの髪が特徴的。頭部には長い羽毛のような装飾があり、優雅な雰囲気を漂わせる。",
+      "reason": "環境の変化により、花や鳥など自然の要素からインスピレーションを受けて進化した。",
+      "thought": "『命の美しさを感じる』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#87ceeb'/><polygon points='150,200 250,200 200,300' fill='#4682b4'/><path d='M120,160 Q180,100 200,160 Q220,100 280,160 Q220,220 200,160 Q180,220 120,160' fill='#add8e6'/><rect x='170' y='260' width='60' height='20' fill='#4682b4'/><circle cx='180' cy='210' r='5' fill='#ffffff'/><circle cx='220' cy='210' r='5' fill='#ffffff'/><line x1='220' y1='230' x2='240' y2='240' stroke='#ffffff' stroke-width='2'/><line x1='180' y1='230' x2='160' y2='240' stroke='#ffffff' stroke-width='2'/><text x='200' y='350' font-family='Arial' font-size='20' fill='#000000' text-anchor='middle'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='125' y='100' width='150' height='250' fill='#8ab8fe' /><circle cx='200' cy='100' r='75' fill='#8ab8fe' /><ellipse cx='150' cy='100' rx='30' ry='60' fill='#6aa9d6' /><ellipse cx='250' cy='100' rx='30' ry='60' fill='#6aa9d6' /><path d='M180 140 Q200 120 220 140 Q200 160 180 140' fill='#91c5ff' /><rect x='165' y='240' width='70' height='20' fill='#91c5ff' /><circle cx='180' cy='270' r='5' fill='#ffffff' /><circle cx='220' cy='270' r='5' fill='#ffffff' /><polygon points='180,90 170,110 190,110' fill='#77aaff' /><polygon points='220,90 210,110 230,110' fill='#77aaff' /><text x='160' y='350' font-family='Arial' font-size='20' fill='#000000'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは、青と水色の肌色を持ち、頭部には三角形の角があります。クールで知的な雰囲気があり、力強い男性の特徴を持っています。青と水色のグラデーションが施され、落ち着いた魅力を放っています。",
-      "reason": "アダムは知性と力強さを身につけ、進化の過程でより青く清らかな特徴を獲得しました。",
-      "thought": "『知識と力の調和』"
+      "appearance": "アダムは四角い頭と筋肉質の体を持つ男性。青色の肌と薄い青色の頭部が特徴で、頭部には魚の鱗のような模様がある。角状の突起物が両肩に生え、力強い印象を与える。",
+      "reason": "進化の過程で、海洋環境からの影響を受けて、水の生命体の特徴を取り入れた。",
+      "thought": "『力強さと安定感』"
     },
     "name": "アダム",
     "gender": "男性"
