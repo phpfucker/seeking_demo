@@ -25903,5 +25903,28 @@
       "gender": "男性"
     },
     "timestamp": 1771354403449
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='180' rx='100' ry='135' fill='#ffb6c1' /><path d='M150,230 Q200,300 250,230' fill='none' stroke='#ffd700' stroke-width='6' /><path d='M170,160 Q200,120 230,160' fill='none' stroke='#ffd700' stroke-width='6' /><rect x='180' y='240' width='40' height='50' fill='#ffd700' /><polygon points='200,80 220,130 180,130' fill='#ffd700' /><circle cx='180' cy='200' r='8' fill='#000' /><circle cx='220' cy='200' r='8' fill='#000' /><circle cx='180' cy='250' r='8' fill='#000' /><circle cx='220' cy='250' r='8' fill='#000' /><text x='50' y='380' font-family='Arial' font-size='20' fill='#000'>イヴ：進化後</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、細長い腕と足が特徴です。頭部には金色の細やかな模様があり、顔にはやさしい表情が浮かんでいます。",
+        "reason": "イヴは新たな食物源を求め、柔らかい皮膚と長い腕で高い木の果実を取る能力が進化しました。",
+        "thought": "『未知なる世界へ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='140' fill='#87ceeb' /><path d='M165,180 Q200,135 235,180' fill='none' stroke='#ffa07a' stroke-width='6' /><rect x='185' y='220' width='30' height='45' fill='#00ffff' /><polygon points='200,80 220,130 180,130' fill='#00ffff' /><circle cx='180' cy='200' r='8' fill='#000' /><circle cx='220' cy='200' r='8' fill='#000' /><circle cx='180' cy='250' r='8' fill='#000' /><circle cx='220' cy='250' r='8' fill='#000' /><text x='30' y='380' font-family='Arial' font-size='20' fill='#000'>アダム：進化後</text></svg>",
+      "report": {
+        "appearance": "アダムは、青い透き通った皮膚を持ち、優美な鰓が首周りに広がっています。背中には淡い青色の模様があり、四肢はしなやかで水中を素早く泳ぐことができます。",
+        "reason": "アダムは深海に生息するため、透明な皮膚や優れた泳ぎの能力が進化しました。",
+        "thought": "『静寂の深海へ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1771379693862
   }
 ]
