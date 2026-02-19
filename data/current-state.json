@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcc99' /><circle cx='200' cy='150' r='50' fill='#e57373' /><circle cx='150' cy='250' r='30' fill='#b2dfdb' /><circle cx='250' cy='250' r='30' fill='#b2dfdb' /><path d='M150 300 Q200 350 250 300' fill='none' stroke='#e57373' stroke-width='5' /><path d='M170 180 Q200 210 230 180' fill='none' stroke='#f06292' stroke-width='5' /><path d='M150 250 Q200 280 250 250' fill='none' stroke='#f06292' stroke-width='5' /><ellipse cx='170' cy='160' rx='10' ry='5' fill='#5c6bc0' /><ellipse cx='230' cy='160' rx='10' ry='5' fill='#5c6bc0' /><text x='200' y='380' text-anchor='middle' font-family='Arial' font-size='20' fill='#000'>イヴ</text></svg>",
+    "svg": "<svg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg' style='background: #f2f2f2;'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='130' cy='180' rx='25' ry='40' fill='#ffdab9' /><ellipse cx='270' cy='180' rx='25' ry='40' fill='#ffdab9' /><path d='M170 240 Q200 260 230 240' stroke='#000' stroke-width='2' fill='none' /><path d='M160 210 Q200 240 240 210' stroke='#000' stroke-width='2' fill='none' /><circle cx='170' cy='160' r='8' fill='#000' /><circle cx='230' cy='160' r='8' fill='#000' /><rect x='180' y='280' width='40' height='60' fill='#ffcccb' /><line x1='180' y1='280' x2='220' y2='280' stroke='#000' stroke-width='2' /><line x1='180' y1='340' x2='220' y2='340' stroke='#000' stroke-width='2' /><text x='130' y='50' font-family='Arial' font-size='20' fill='#000'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴは、ピンクの肌と赤い髪を持つ女性で、額に角のような突起があります。大きな瞳と青いリボンが特徴的です。体にはオレンジ色の印があり、優雅な雰囲気を漂わせます。",
-      "reason": "イヴは自然と調和した美しい姿を持ち、環境への敬意と生命への愛情を表現するためにこの進化が起こりました。",
+      "appearance": "イヴは、ピンク色の柔らかな肌を持つ女性で、顔にはオレンジ色のふんわりした頬があります。大きな目と長いまつ毛が特徴で、愛らしい笑顔を浮かべています。体は丸くやわらかなフォルムで、しっぽがあります。",
+      "reason": "イヴは新たな進化を遂げ、より柔らかで魅力的な外見となりました。この進化は、環境の安定と創造性の融合によって引き起こされました。",
       "thought": "『愛と平和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='150' rx='80' ry='100' fill='#90caf9' /><ellipse cx='170' cy='130' rx='10' ry='25' fill='#ffcc80' /><ellipse cx='230' cy='130' rx='10' ry='25' fill='#ffcc80' /><path d='M150 250 Q200 200 250 250' fill='none' stroke='#2196f3' stroke-width='5' /><path d='M170 180 Q200 210 230 180' fill='none' stroke='#ffeb3b' stroke-width='5' /><rect x='180' y='220' width='40' height='60' fill='#607d8b' /><rect x='190' y='280' width='20' height='20' fill='#424242' /><text x='200' y='380' text-anchor='middle' font-family='Arial' font-size='20' fill='#000'>アダム</text></svg>",
+    "svg": "<svg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg' style='background: #f2f2f2;'><polygon points='200,50 150,150 250,150' fill='#87ceeb' /><circle cx='200' cy='200' r='125' fill='#e0ffff' /><ellipse cx='170' cy='160' rx='20' ry='30' fill='#fffafa' /><ellipse cx='230' cy='160' rx='20' ry='30' fill='#fffafa' /><path d='M160 240 Q200 260 240 240' stroke='#000' stroke-width='2' fill='none' /><path d='M150 210 Q200 240 250 210' stroke='#000' stroke-width='2' fill='none' /><circle cx='160' cy='160' r='8' fill='#000' /><circle cx='240' cy='160' r='8' fill='#000' /><rect x='180' y='280' width='40' height='60' fill='#87ceeb' /><line x1='180' y1='280' x2='220' y2='280' stroke='#000' stroke-width='2' /><line x1='180' y1='340' x2='220' y2='340' stroke='#000' stroke-width='2' /><text x='150' y='50' font-family='Arial' font-size='20' fill='#000'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは、青い体色と大きな青い眼を持つ男性で、耳には黄色の装飾があります。全体的に柔らかい印象を与え、青と黄色のコントラストが特徴です。",
-      "reason": "アダムは力強さと知恵を象徴し、青い体色は宇宙への探求心を表しています。進化は知識と平和を求める意志の表れです。",
-      "thought": "『知恵と調和』"
+      "appearance": "アダムは、青空を思わせる青い肌を持つ男性で、三角形の頭部には明るい色の突起があります。胴体は円形で滑らかな曲線を持ち、しっぽを持っています。顔つきは穏やかで、目元にやや強い表情が見られます。",
+      "reason": "アダムは新たな進化を遂げ、よりクールで知的な外見となりました。この進化は、知恵と冷静さを活かす必要性から生じました。",
+      "thought": "『知識と調和』"
     },
     "name": "アダム",
     "gender": "男性"
