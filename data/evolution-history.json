@@ -26064,5 +26064,28 @@
       "gender": "男性"
     },
     "timestamp": 1771505868144
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg' style='background: #f2f2f2;'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='130' cy='180' rx='25' ry='40' fill='#ffdab9' /><ellipse cx='270' cy='180' rx='25' ry='40' fill='#ffdab9' /><path d='M170 240 Q200 260 230 240' stroke='#000' stroke-width='2' fill='none' /><path d='M160 210 Q200 240 240 210' stroke='#000' stroke-width='2' fill='none' /><circle cx='170' cy='160' r='8' fill='#000' /><circle cx='230' cy='160' r='8' fill='#000' /><rect x='180' y='280' width='40' height='60' fill='#ffcccb' /><line x1='180' y1='280' x2='220' y2='280' stroke='#000' stroke-width='2' /><line x1='180' y1='340' x2='220' y2='340' stroke='#000' stroke-width='2' /><text x='130' y='50' font-family='Arial' font-size='20' fill='#000'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持つ女性で、顔にはオレンジ色のふんわりした頬があります。大きな目と長いまつ毛が特徴で、愛らしい笑顔を浮かべています。体は丸くやわらかなフォルムで、しっぽがあります。",
+        "reason": "イヴは新たな進化を遂げ、より柔らかで魅力的な外見となりました。この進化は、環境の安定と創造性の融合によって引き起こされました。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg' style='background: #f2f2f2;'><polygon points='200,50 150,150 250,150' fill='#87ceeb' /><circle cx='200' cy='200' r='125' fill='#e0ffff' /><ellipse cx='170' cy='160' rx='20' ry='30' fill='#fffafa' /><ellipse cx='230' cy='160' rx='20' ry='30' fill='#fffafa' /><path d='M160 240 Q200 260 240 240' stroke='#000' stroke-width='2' fill='none' /><path d='M150 210 Q200 240 250 210' stroke='#000' stroke-width='2' fill='none' /><circle cx='160' cy='160' r='8' fill='#000' /><circle cx='240' cy='160' r='8' fill='#000' /><rect x='180' y='280' width='40' height='60' fill='#87ceeb' /><line x1='180' y1='280' x2='220' y2='280' stroke='#000' stroke-width='2' /><line x1='180' y1='340' x2='220' y2='340' stroke='#000' stroke-width='2' /><text x='150' y='50' font-family='Arial' font-size='20' fill='#000'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青空を思わせる青い肌を持つ男性で、三角形の頭部には明るい色の突起があります。胴体は円形で滑らかな曲線を持ち、しっぽを持っています。顔つきは穏やかで、目元にやや強い表情が見られます。",
+        "reason": "アダムは新たな進化を遂げ、よりクールで知的な外見となりました。この進化は、知恵と冷静さを活かす必要性から生じました。",
+        "thought": "『知識と調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1771526730072
   }
 ]
