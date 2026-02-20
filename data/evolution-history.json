@@ -26087,5 +26087,28 @@
       "gender": "男性"
     },
     "timestamp": 1771526730072
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><path d='M200,150 Q220,120 240,150 Q260,180 240,210 Q220,240 200,210 Q180,180 200,150 Z' fill='#ffb6c1'/><ellipse cx='170' cy='180' rx='20' ry='30' fill='#fff'/><ellipse cx='230' cy='180' rx='20' ry='30' fill='#fff'/><path d='M170,215 Q200,240 230,215' fill='none' stroke='#000' stroke-width='2'/><rect x='180' y='240' width='40' height='20' fill='#fff'/><rect x='160' y='240' width='20' height='40' fill='#fff'/><rect x='220' y='240' width='20' height='40' fill='#fff'/><circle cx='180' cy='190' r='5' fill='#000'/><circle cx='220' cy='190' r='5' fill='#000'/><path d='M170,140 Q180,130 190,140' fill='none' stroke='#000' stroke-width='2'/><path d='M210,140 Q220,130 230,140' fill='none' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかい肌を持ち、愛らしい顔立ちと優雅な体つきが特徴です。頭には二本の角が生え、背中には大きな白い羽があります。手足はしなやかで、繊細な装飾が施されています。",
+        "reason": "イヴは新たな生態系への適応を求められ、美しさと優雅さを兼ね備えた姿に進化しました。",
+        "thought": "『愛と美が宇宙を繋ぐ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#87ceeb'/><rect x='170' y='150' width='60' height='100' fill='#fff'/><path d='M170,250 Q200,280 230,250 Q260,220 230,190 Q200,160 170,190 Q140,220 170,250 Z' fill='#add8e6'/><ellipse cx='200' cy='170' rx='20' ry='30' fill='#fff'/><ellipse cx='200' cy='230' rx='20' ry='30' fill='#fff'/><path d='M185,170 Q200,150 215,170' fill='none' stroke='#000' stroke-width='2'/><path d='M185,230 Q200,250 215,230' fill='none' stroke='#000' stroke-width='2'/><circle cx='180' cy='180' r='5' fill='#000'/><circle cx='220' cy='180' r='5' fill='#000'/><circle cx='180' cy='220' r='5' fill='#000'/><circle cx='220' cy='220' r='5' fill='#000'/><polygon points='170,220 170,230 160,225' fill='#000'/><polygon points='230,220 230,230 240,225' fill='#000'/></svg>",
+      "report": {
+        "appearance": "アダムは青い体色と逞しい体つきを持ち、力強い顔つきと鋭い角が特徴です。四肢は筋肉質で頑丈であり、背中には大きな青い鱗が覆っています。",
+        "reason": "アダムは環境の厳しさに対処し、力強さと頑丈さを強化することで生存能力を高めました。",
+        "thought": "『強さと知恵が未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1771552168090
   }
 ]
