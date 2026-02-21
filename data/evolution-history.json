@@ -26225,5 +26225,28 @@
       "gender": "男性"
     },
     "timestamp": 1771655842218
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='240' width='200' height='150' fill='#f5b7b1'/><circle cx='200' cy='150' r='100' fill='#f8c4c2'/><ellipse cx='150' cy='160' rx='20' ry='10' fill='#f9d1cf'/><ellipse cx='250' cy='160' rx='20' ry='10' fill='#f9d1cf'/><circle cx='180' cy='140' r='10' fill='#ffffff'/><circle cx='220' cy='140' r='10' fill='#ffffff'/><polygon points='180,160 185,170 175,170' fill='#000000'/><polygon points='220,160 225,170 215,170' fill='#000000'/><path d='M160,180 Q200,200 240,180' fill='none' stroke='#000000' stroke-width='2'/><line x1='170' y1='240' x2='170' y2='300' stroke='#000000' stroke-width='5'/><line x1='230' y1='240' x2='230' y2='300' stroke='#000000' stroke-width='5'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、大きな白い目と小さな口を持つ女性型生命体です。頭部には二つの角があり、全体的に優しさと美しさを感じさせる外見をしています。",
+        "reason": "イヴは自然の美しさと調和を象徴する進化を遂げました。美しい姿で周囲の生命体に優しさをもたらしています。",
+        "thought": "『調和と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='240' width='200' height='150' fill='#aec6cf'/><circle cx='200' cy='150' r='100' fill='#b8d1da'/><ellipse cx='150' cy='160' rx='20' ry='10' fill='#bce0ed'/><ellipse cx='250' cy='160' rx='20' ry='10' fill='#bce0ed'/><circle cx='180' cy='140' r='10' fill='#ffffff'/><circle cx='220' cy='140' r='10' fill='#ffffff'/><polygon points='180,160 185,170 175,170' fill='#000000'/><polygon points='220,160 225,170 215,170' fill='#000000'/><path d='M160,180 Q200,200 240,180' fill='none' stroke='#000000' stroke-width='2'/><line x1='170' y1='240' x2='170' y2='300' stroke='#000000' stroke-width='5'/><line x1='230' y1='240' x2='230' y2='300' stroke='#000000' stroke-width='5'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌を持ち、大きな青い目と小さな口を持つ男性型生命体です。頭部には二つの角があり、全体的に頼もしさと力強さを感じさせる外見をしています。",
+        "reason": "アダムは自然の力強さと知恵を象徴する進化を遂げました。周囲の生命体に力強さと安定をもたらしています。",
+        "thought": "『力強さと知恵』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1771677572922
   }
 ]
