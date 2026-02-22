@@ -26294,5 +26294,28 @@
       "gender": "男性"
     },
     "timestamp": 1771725155842
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffe0bd'/><ellipse cx='200' cy='150' rx='80' ry='120' fill='#ffb6a8'/><rect x='160' y='160' width='80' height='40' fill='#f49c9c'/><circle cx='160' cy='150' r='10' fill='#ec5766'/><circle cx='240' cy='150' r='10' fill='#ec5766'/><path d='M210,180 Q200,220 190,180 Q200,220 210,180 Z' fill='#ec5766'/><polygon points='180,160 190,140 200,140 210,160' fill='#f7e0b7'/><polygon points='190,160 200,140 210,160' fill='#f7e0b7'/><line x1='180' y1='200' x2='220' y2='200' stroke='#ec5766' stroke-width='5'/><line x1='190' y1='210' x2='210' y2='210' stroke='#ec5766' stroke-width='5'/></svg>",
+      "report": {
+        "appearance": "イヴは、柔らかなピンク色の体に大きな卵形の顔を持ち、上向きに広がる耳と柔らかな赤い角が特徴です。ピンク色の体には、赤い模様と優しげな表情が彼女らしさを引き立てています。",
+        "reason": "進化が起こった理由は、環境の変化に合わせて食べ物を見つける能力を高め、生存に適応するためです。",
+        "thought": "『生命の喜び』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#b2d8d8'/><rect x='160' y='150' width='80' height='120' fill='#6aa84f'/><path d='M160,270 Q200,310 240,270 Q200,310 160,270 Z' fill='#6aa84f'/><polygon points='160,270 240,270 200,300' fill='#8fc1b7'/><line x1='190' y1='160' x2='210' y2='160' stroke='#6aa84f' stroke-width='5'/></svg>",
+      "report": {
+        "appearance": "アダムは、青緑色の体に四角い顔と大きな緑色の角を持つ男性的な姿です。緑色の体には、蒼い模様と力強い表情が彼らしさを際立たせています。",
+        "reason": "進化が起こった理由は、狩猟や防衛のための適応力を高め、仲間との協力により効率的な生活を送るためです。",
+        "thought": "『勇気と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1771742535611
   }
 ]
