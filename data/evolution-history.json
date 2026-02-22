@@ -26317,5 +26317,28 @@
       "gender": "男性"
     },
     "timestamp": 1771742535611
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff99cc' /><ellipse cx='200' cy='150' rx='100' ry='130' fill='#ff85a3' /><polygon points='180,210 220,210 200,240' fill='#ff6699' /><rect x='160' y='250' width='80' height='30' fill='#ff4d6d' /><polygon points='190,250 210,250 200,270' fill='#ff1a45' /><line x1='170' y1='260' x2='230' y2='260' stroke='#ff1a45' stroke-width='2' /><line x1='170' y1='265' x2='230' y2='265' stroke='#ff1a45' stroke-width='2' /><line x1='170' y1='270' x2='230' y2='270' stroke='#ff1a45' stroke-width='2' /><path d='M180 120 Q200 50 220 120' fill='none' stroke='#ff1a45' stroke-width='4' /><path d='M180 120 Q200 160 220 120' fill='none' stroke='#ff1a45' stroke-width='4' /><circle cx='190' cy='160' r='5' fill='#ff1a45' /><circle cx='210' cy='160' r='5' fill='#ff1a45' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に赤い模様が入った美しい女性で、頭に2本の角が生えています。体の一部に深い赤色の模様があり、上半身が比較的大きく、下半身はスリムな形状をしています。手は小さく、足は長くしなやかです。",
+        "reason": "イヴは自然界の美しさと優美さを表現するため、新たな模様や色彩が加わりました。",
+        "thought": "『愛と美の力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#66ccff' /><ellipse cx='200' cy='150' rx='100' ry='130' fill='#4da6ff' /><polygon points='180,210 220,210 200,240' fill='#3385ff' /><rect x='160' y='250' width='80' height='30' fill='#1a66ff' /><polygon points='190,250 210,250 200,270' fill='#0055ff' /><line x1='170' y1='260' x2='230' y2='260' stroke='#0055ff' stroke-width='2' /><line x1='170' y1='265' x2='230' y2='265' stroke='#0055ff' stroke-width='2' /><line x1='170' y1='270' x2='230' y2='270' stroke='#0055ff' stroke-width='2' /><path d='M180 120 Q200 50 220 120' fill='none' stroke='#0055ff' stroke-width='4' /><path d='M180 120 Q200 160 220 120' fill='none' stroke='#0055ff' stroke-width='4' /><circle cx='190' cy='160' r='5' fill='#0055ff' /><circle cx='210' cy='160' r='5' fill='#0055ff' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に濃い青色の模様が入った男性で、頭に2本の角が生えています。体の一部に深い青色の模様があり、顔は力強く、体躯はがっしりとした形状をしています。手足は筋肉質で足裏には暗青色の模様があります。",
+        "reason": "アダムは力強さと知性を表現するため、新たな模様や色彩が加わりました。",
+        "thought": "『誇りと力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1771764058215
   }
 ]
