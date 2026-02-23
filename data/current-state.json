@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#ff9b9b'><path d='M190 200c0-45-36-82-80-82s-80 37-80 82v80h160z'/><path d='M140 250h20v20h-20z'/><path d='M240 250h20v20h-20z'/><path d='M190 250h20v20h-20z'/><path d='M130 180c15 15 35 25 60 25s45-10 60-25' fill='none' stroke='#e74c3c' stroke-width='10'/><path d='M210 180c15 15 35 25 60 25s45-10 60-25' fill='none' stroke='#e74c3c' stroke-width='10'/><path d='M190 260c-30 10-35 20-60 20s-30-10-60-20' fill='none' stroke='#e74c3c' stroke-width='10'/><path d='M250 260c-25 20-30 30-60 30s-35-10-60-30' fill='none' stroke='#e74c3c' stroke-width='10'/><path d='M130 240c20-10 35-15 60-20s40-5 60 20' fill='none' stroke='#e74c3c' stroke-width='10'/><path d='M250 240c-20-10-35-15-60-20s-40-5-60 20' fill='none' stroke='#e74c3c' stroke-width='10'/><circle cx='150' cy='180' r='10' fill='#fff'/><circle cx='250' cy='180' r='10' fill='#fff'/><ellipse cx='190' cy='220' rx='40' ry='30' fill='#fff'/></g></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='none'><path d='M200 50c55 0 100 45 100 100s-45 100-100 100S100 205 100 150s45-100 100-100z' fill='#FFC0CB'/><ellipse cx='200' cy='150' rx='60' ry='80' fill='#FFCCCC'/><circle cx='170' cy='130' r='10' fill='#333333'/><circle cx='230' cy='130' r='10' fill='#333333'/><path d='M195 170c-10 25-10 45 5 55 10 5 20 5 30 0 15-10 15-30 5-55' fill='none' stroke='#333333'/><path d='M205 170c10 25 10 45-5 55-10 5-20 5-30 0-15-10-15-30-5-55' fill='none' stroke='#333333'/><path d='M180 230h40m-20 10c10-5 20-5 30 0' fill='none' stroke='#333333'/><path d='M180 240c5 5 10 5 20 0' fill='none' stroke='#333333'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな肌と赤い髪の毛を持つ女性型生命体です。体の一部には赤色の模様が描かれており、顔には穏やかな表情が浮かんでいます。四肢は細長く、手足の指には小さな白い爪があります。",
-      "reason": "女性型生命体が環境の変化に対応するため、より繊細で美しい特徴を持つよう進化しました。",
-      "thought": "『優しさと力を併せ持つ』"
+      "appearance": "イヴはピンク色の柔らかな肌を持ち、体の輪郭が優雅で曲線的です。顔には大きな目と小さな口があり、顔の周囲には淡いピンク色のエリアが広がっています。長めの脚としっぽが特徴で、しっぽは先端が丸くなっています。",
+      "reason": "イヴはより柔らかく美しく進化しました。優雅さと繊細さが強調され、愛らしさが増したため、環境適応による進化と考えられます。",
+      "thought": "『愛と美の調和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#9bc9ff'><path d='M190 200c0-45-36-82-80-82s-80 37-80 82v80h160z'/><path d='M140 250h20v20h-20z'/><path d='M240 250h20v20h-20z'/><path d='M190 250h20v20h-20z'/><path d='M130 180c15 15 35 25 60 25s45-10 60-25' fill='none' stroke='#3498db' stroke-width='10'/><path d='M210 180c15 15 35 25 60 25s45-10 60-25' fill='none' stroke='#3498db' stroke-width='10'/><path d='M190 260c-30 10-35 20-60 20s-30-10-60-20' fill='none' stroke='#3498db' stroke-width='10'/><path d='M250 260c-25 20-30 30-60 30s-35-10-60-30' fill='none' stroke='#3498db' stroke-width='10'/><path d='M130 240c20-10 35-15 60-20s40-5 60 20' fill='none' stroke='#3498db' stroke-width='10'/><path d='M250 240c-20-10-35-15-60-20s-40-5-60 20' fill='none' stroke='#3498db' stroke-width='10'/><rect x='175' y='160' width='50' height='50' fill='#fff'/><rect x='160' y='200' width='80' height='30' fill='#fff'/><path d='M175 210h50' fill='none' stroke='#3498db' stroke-width='5'/></g></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='none'><path d='M200 50c55 0 100 45 100 100s-45 100-100 100s-100-45-100-100s45-100 100-100z' fill='#87CEEB'/><rect x='170' y='120' width='60' height='80' fill='#B0E0E6'/><circle cx='180' cy='130' r='10' fill='#333333'/><circle cx='220' cy='130' r='10' fill='#333333'/><path d='M180 210h40m-20 10c10-5 20-5 30 0' fill='none' stroke='#333333'/><path d='M180 220c5 5 10 5 20 0' fill='none' stroke='#333333'/><polygon points='200,150 195,160 205,160' fill='#333333'/></svg>",
     "report": {
-      "appearance": "アダムは、青い皮膚と白い髪の毛を持つ男性型生命体です。体には青色の模様が施されており、顔つきは力強さを表しています。四肢は筋肉質で、手には大きな白い爪が生えています。",
-      "reason": "男性型生命体が狩猟や力仕事などの生存に必要な能力を強化するため、より筋肉質で頑丈な特徴を持つよう進化しました。",
-      "thought": "『力強くそして賢明な』"
+      "appearance": "アダムは青色の体と頭部を持ち、頑丈で直線的な輪郭が特徴です。四角い顔には小さな目と口があり、頭頂部には三角形の角が生えています。脚と腕はがっしりとしており、背中には小さなひれ状の模様があります。",
+      "reason": "アダムはより力強く頑丈に進化しました。直線的な輪郭や頑丈な体は、環境の厳しさに対処するための進化と考えられます。",
+      "thought": "『力強さと頑丈さ』"
     },
     "name": "アダム",
     "gender": "男性"
