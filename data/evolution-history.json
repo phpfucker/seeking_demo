@@ -26363,5 +26363,28 @@
       "gender": "男性"
     },
     "timestamp": 1771785042315
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#ffd699' /><polygon points='180,170 220,170 200,200' fill='#ffaa66' /><ellipse cx='160' cy='145' rx='15' ry='25' fill='#ff9966' /><ellipse cx='240' cy='145' rx='15' ry='25' fill='#ff9966' /><path d='M180,250 Q200,290 220,250 L180,250 Z' fill='#ffcc99' /><path d='M165,270 Q200,310 235,270 L165,270 Z' fill='#ffcc99' /><path d='M160,250 Q200,310 240,250 L160,250 Z' fill='#ffcc99' /><path d='M180,260 Q200,300 220,260 L180,260 Z' fill='#ffcc99' /><path d='M178,238 Q200,280 222,238 L178,238 Z' fill='#ffcc99' /><rect x='180' y='170' width='40' height='10' fill='#804000' /><rect x='180' y='180' width='40' height='10' fill='#804000' /><rect x='170' y='165' width='5' height='25' fill='#ffaa66' /><rect x='225' y='165' width='5' height='25' fill='#ffaa66' /><polygon points='190,155 200,140 210,155' fill='#804000' /><polygon points='170,160 180,155 175,140' fill='#804000' /><polygon points='220,160 230,155 225,140' fill='#804000' /></svg>",
+      "report": {
+        "appearance": "イヴは、柔らかなピンク色の体に、大きな目と円らな耳を持ち、優しげな表情を浮かべた女性型の生命体です。体の中央には橙色の模様があり、優雅なしっぽが特徴です。",
+        "reason": "新たな生態系に適応するため、イヴは色彩豊かな模様と優美な特徴を身につけました。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#668cff' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#66a3ff' /><polygon points='180,170 220,170 200,200' fill='#3366ff' /><ellipse cx='160' cy='145' rx='15' ry='25' fill='#3366ff' /><ellipse cx='240' cy='145' rx='15' ry='25' fill='#3366ff' /><polygon points='175,250 225,250 200,290' fill='#668cff' /><polygon points='195,260 205,260 200,250' fill='#668cff' /><polygon points='180,170 170,185 190,185' fill='#1a53ff' /><polygon points='220,170 230,185 210,185' fill='#1a53ff' /><ellipse cx='200' cy='290' rx='30' ry='10' fill='#1a53ff' /><polygon points='190,280 195,270 205,270 210,280' fill='#1a53ff' /><ellipse cx='190' cy='260' rx='5' ry='10' fill='#668cff' /><ellipse cx='210' cy='260' rx='5' ry='10' fill='#668cff' /></svg>",
+      "report": {
+        "appearance": "アダムは、穏やかな青色の体に、鋭い目つきと角ばった耳を持ち、力強い雰囲気を醸し出す男性型の生命体です。体の中央には深い青色の模様があり、頭上には角が生えています。",
+        "reason": "狩猟や生存競争に優位性を持つため、アダムは強靭な特徴と攻撃的な外観を身につけました。",
+        "thought": "『誇りと勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1771811624111
   }
 ]
