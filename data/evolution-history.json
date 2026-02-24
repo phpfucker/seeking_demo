@@ -26478,5 +26478,28 @@
       "gender": "男性"
     },
     "timestamp": 1771897839630
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='200' rx='130' ry='180' fill='#ffccff' /><polygon points='200,50 100,200 300,200' fill='#ffc0cb' /><rect x='180' y='200' width='40' height='80' fill='#ffffff' /><path d='M180,150 Q150,200 180,250 Q210,200 180,150' fill='#ffffff' /><circle cx='170' cy='170' r='15' fill='#000000' /><circle cx='230' cy='170' r='15' fill='#000000' /><line x1='180' y1='220' x2='220' y2='220' stroke='#000000' stroke-width='2' /><line x1='180' y1='220' x2='180' y2='250' stroke='#000000' stroke-width='2' /><line x1='220' y1='220' x2='220' y2='250' stroke='#000000' stroke-width='2' /><text x='200' y='320' font-family='Arial' font-size='20' text-anchor='middle' fill='#000000'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の身体に白い羽毛を持つ美しい女性で、頭部には二つの角があります。四本の足としっぽを持ち、優雅な体つきが特徴です。",
+        "reason": "イヴは新たな環境に適応するため、より華やかで洗練された外見が進化しました。",
+        "thought": "『愛と美の力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='160' fill='#87ceeb' /><polygon points='200,50 100,200 300,200' fill='#4682b4' /><rect x='180' y='200' width='40' height='100' fill='#b0e0e6' /><rect x='150' y='220' width='100' height='50' fill='#b0e0e6' /><path d='M180,160 Q150,200 180,240 Q210,200 180,160' fill='#b0e0e6' /><circle cx='170' cy='170' r='20' fill='#000000' /><circle cx='230' cy='170' r='20' fill='#000000' /><line x1='160' y1='220' x2='160' y2='270' stroke='#000000' stroke-width='2' /><line x1='240' y1='220' x2='240' y2='270' stroke='#000000' stroke-width='2' /><text x='200' y='320' font-family='Arial' font-size='20' text-anchor='middle' fill='#000000'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、水色の体に青い羽毛を持つ男性で、頭部には一つの角があります。四本の足としっぽを持ち、力強い体つきが特徴です。",
+        "reason": "アダムは狩猟や防衛のため、より筋肉質で頑丈な外見が進化しました。",
+        "thought": "『力と誇りの調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1771916157771
   }
 ]
