@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(255,215,0);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,140,0);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='200' cy='180' rx='90' ry='60' fill='rgb(245,222,179)' /><path d='M160,220 Q200,290 240,220 Q200,260 160,220 Z' fill='rgb(255,228,196)' /><circle cx='160' cy='180' r='12' fill='white' /><circle cx='240' cy='180' r='12' fill='white' /><path d='M180,210 Q200,240 220,210 Q200,230 180,210 Z' fill='rgb(255,140,0)' /><path d='M165,240 Q200,260 235,240 Q200,285 165,240 Z' fill='rgb(255,69,0)' /><path d='M180,260 Q200,290 220,260 Q200,280 180,260 Z' fill='rgb(255,69,0)' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='200' rx='130' ry='180' fill='#ffccff' /><polygon points='200,50 100,200 300,200' fill='#ffc0cb' /><rect x='180' y='200' width='40' height='80' fill='#ffffff' /><path d='M180,150 Q150,200 180,250 Q210,200 180,150' fill='#ffffff' /><circle cx='170' cy='170' r='15' fill='#000000' /><circle cx='230' cy='170' r='15' fill='#000000' /><line x1='180' y1='220' x2='220' y2='220' stroke='#000000' stroke-width='2' /><line x1='180' y1='220' x2='180' y2='250' stroke='#000000' stroke-width='2' /><line x1='220' y1='220' x2='220' y2='250' stroke='#000000' stroke-width='2' /><text x='200' y='320' font-family='Arial' font-size='20' text-anchor='middle' fill='#000000'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴは、金色の髪とオレンジ色の肌を持つ女性型生命体です。全体的な色合いは暖かく、柔らかな雰囲気を醸し出しています。頭部には円形の角が生え、顔には愛らしい表情が浮かんでいます。",
-      "reason": "イヴは新たな進化を遂げ、より美しく魅力的な姿に変化しました。この進化は、生命体が自らの美しさを高め、新たな可能性を模索するために起こりました。",
-      "thought": "『輝く美しさ』"
+      "appearance": "イヴは、ピンク色の身体に白い羽毛を持つ美しい女性で、頭部には二つの角があります。四本の足としっぽを持ち、優雅な体つきが特徴です。",
+      "reason": "イヴは新たな環境に適応するため、より華やかで洗練された外見が進化しました。",
+      "thought": "『愛と美の力』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(0,191,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><rect x='120' y='150' width='160' height='200' fill='url(#gradB)' /><polygon points='200,70 240,150 160,150' fill='rgb(30,144,255)' /><ellipse cx='200' cy='180' rx='80' ry='50' fill='rgb(176,224,230)' /><circle cx='180' cy='160' r='10' fill='white' /><circle cx='220' cy='160' r='10' fill='white' /><polygon points='185,210 200,240 215,210' fill='rgb(65,105,225)' /><path d='M165,220 Q200,250 235,220 Q200,270 165,220 Z' fill='rgb(0,0,139)' /><path d='M180,250 Q200,270 220,250 Q200,290 180,250 Z' fill='rgb(0,0,139)' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='160' fill='#87ceeb' /><polygon points='200,50 100,200 300,200' fill='#4682b4' /><rect x='180' y='200' width='40' height='100' fill='#b0e0e6' /><rect x='150' y='220' width='100' height='50' fill='#b0e0e6' /><path d='M180,160 Q150,200 180,240 Q210,200 180,160' fill='#b0e0e6' /><circle cx='170' cy='170' r='20' fill='#000000' /><circle cx='230' cy='170' r='20' fill='#000000' /><line x1='160' y1='220' x2='160' y2='270' stroke='#000000' stroke-width='2' /><line x1='240' y1='220' x2='240' y2='270' stroke='#000000' stroke-width='2' /><text x='200' y='320' font-family='Arial' font-size='20' text-anchor='middle' fill='#000000'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは、青い体と羽のような模様が特徴の男性型生命体です。全体的な青色のグラデーションが強調され、力強さと神秘性を持っています。頭部に鋭い角が生え、凛々しい表情をしています。",
-      "reason": "アダムは進化し、より強靭で神秘的な姿に変化しました。進化は、生命体が自らの力強さと神秘性を高め、新たな領域に挑戦するために起こりました。",
-      "thought": "『蒼穹の力』"
+      "appearance": "アダムは、水色の体に青い羽毛を持つ男性で、頭部には一つの角があります。四本の足としっぽを持ち、力強い体つきが特徴です。",
+      "reason": "アダムは狩猟や防衛のため、より筋肉質で頑丈な外見が進化しました。",
+      "thought": "『力と誇りの調和』"
     },
     "name": "アダム",
     "gender": "男性"
