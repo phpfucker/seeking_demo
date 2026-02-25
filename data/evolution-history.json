@@ -26570,5 +26570,28 @@
       "gender": "男性"
     },
     "timestamp": 1771984402244
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='180' rx='100' ry='140' fill='#ff99ff' /><rect x='150' y='230' width='100' height='50' fill='#ff66ff' /><path d='M180 210 L180 230 L220 230 L220 210 Z' fill='#ff33ff' /><polygon points='170,170 200,130 230,170' fill='#ff00ff' /><polyline points='160,250 190,240 220,250' fill='none' stroke='#cc00cc' stroke-width='5' /><line x1='195' y1='180' x2='205' y2='180' stroke='#990099' stroke-width='3' /><line x1='210' y1='180' x2='210' y2='200' stroke='#990099' stroke-width='3' /><line x1='190' y1='180' x2='190' y2='200' stroke='#990099' stroke-width='3' /><line x1='170' y1='200' x2='230' y2='200' stroke='#990099' stroke-width='5' /><line x1='200' y1='200' x2='200' y2='230' stroke='#990099' stroke-width='5' /><line x1='180' y1='230' x2='220' y2='230' stroke='#990099' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな毛並みを持ち、大きな目と産毛のような耳が特徴です。胸の前で幾重にも重なるフリルのついたドレスを身に着けています。しなやかな腰から伸びる長いしっぽは、薄い紫色のラインが入っています。",
+        "reason": "イヴは、美しく優雅な姿に進化しました。柔らかな毛並みや華やかなドレスは、生命力と活力を象徴しています。",
+        "thought": "『愛と美しさを守る者』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#cc99ff' /><ellipse cx='200' cy='180' rx='100' ry='140' fill='#9966ff' /><rect x='150' y='230' width='100' height='50' fill='#6633ff' /><path d='M180 210 L180 230 L220 230 L220 210 Z' fill='#3300ff' /><polygon points='170,170 200,130 230,170' fill='#0000ff' /><polyline points='160,250 190,240 220,250' fill='none' stroke='#0000cc' stroke-width='5' /><line x1='195' y1='180' x2='205' y2='180' stroke='#000099' stroke-width='3' /><line x1='210' y1='180' x2='210' y2='200' stroke='#000099' stroke-width='3' /><line x1='190' y1='180' x2='190' y2='200' stroke='#000099' stroke-width='3' /><line x1='170' y1='200' x2='230' y2='200' stroke='#000099' stroke-width='5' /><line x1='200' y1='200' x2='200' y2='230' stroke='#000099' stroke-width='5' /><line x1='180' y1='230' x2='220' y2='230' stroke='#000099' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "アダムは、パープル色の光沢のある鱗で覆われており、鋭い角の生えた頭部と大きな羽根を持っています。胸の鱗の隙間からは燃えるようなオレンジ色の炎が漏れ出ています。力強い四肢には、鋭い爪が備わっています。",
+        "reason": "アダムは、力強く勇敢な姿に進化しました。鱗と角、燃えるような炎は、生命の力強さと熱情を示しています。",
+        "thought": "『力と勇気の化身』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1772002683522
   }
 ]

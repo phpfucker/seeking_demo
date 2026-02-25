@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='180' rx='100' ry='140' fill='#ff99ff' /><rect x='150' y='230' width='100' height='50' fill='#ff66ff' /><path d='M180 210 L180 230 L220 230 L220 210 Z' fill='#ff33ff' /><polygon points='170,170 200,130 230,170' fill='#ff00ff' /><polyline points='160,250 190,240 220,250' fill='none' stroke='#cc00cc' stroke-width='5' /><line x1='195' y1='180' x2='205' y2='180' stroke='#990099' stroke-width='3' /><line x1='210' y1='180' x2='210' y2='200' stroke='#990099' stroke-width='3' /><line x1='190' y1='180' x2='190' y2='200' stroke='#990099' stroke-width='3' /><line x1='170' y1='200' x2='230' y2='200' stroke='#990099' stroke-width='5' /><line x1='200' y1='200' x2='200' y2='230' stroke='#990099' stroke-width='5' /><line x1='180' y1='230' x2='220' y2='230' stroke='#990099' stroke-width='5' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='150' cy='150' rx='30' ry='50' fill='#ffb6c1'/><ellipse cx='250' cy='150' rx='30' ry='50' fill='#ffb6c1'/><path d='M180 240 Q200 270 220 240' stroke='#000' stroke-width='2' fill='none'/><path d='M170 200 Q200 250 230 200' stroke='#000' stroke-width='2' fill='none'/><path d='M150 250 Q200 300 250 250' stroke='#000' stroke-width='2' fill='none'/><path d='M140 200 Q200 270 260 200' stroke='#000' stroke-width='2' fill='none'/><circle cx='170' cy='150' r='5' fill='#000'/><circle cx='230' cy='150' r='5' fill='#000'/><circle cx='180' cy='180' r='10' fill='#fff'/><circle cx='220' cy='180' r='10' fill='#fff'/><polygon points='185,160 215,160 200,175' fill='#fff'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな毛並みを持ち、大きな目と産毛のような耳が特徴です。胸の前で幾重にも重なるフリルのついたドレスを身に着けています。しなやかな腰から伸びる長いしっぽは、薄い紫色のラインが入っています。",
-      "reason": "イヴは、美しく優雅な姿に進化しました。柔らかな毛並みや華やかなドレスは、生命力と活力を象徴しています。",
-      "thought": "『愛と美しさを守る者』"
+      "appearance": "イヴは、ピンク色の柔らかな肌を持ち、華奢な体つきと長い髪が特徴です。顔には優しい表情があり、角や模様はなく、優雅さが漂います。",
+      "reason": "イヴは進化の過程で、美しさと柔らかさを強調したデザインに変化しました。優美さと優しさが共存する姿が、進化の必然となりました。",
+      "thought": "『優しさと美しさが融合する』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#cc99ff' /><ellipse cx='200' cy='180' rx='100' ry='140' fill='#9966ff' /><rect x='150' y='230' width='100' height='50' fill='#6633ff' /><path d='M180 210 L180 230 L220 230 L220 210 Z' fill='#3300ff' /><polygon points='170,170 200,130 230,170' fill='#0000ff' /><polyline points='160,250 190,240 220,250' fill='none' stroke='#0000cc' stroke-width='5' /><line x1='195' y1='180' x2='205' y2='180' stroke='#000099' stroke-width='3' /><line x1='210' y1='180' x2='210' y2='200' stroke='#000099' stroke-width='3' /><line x1='190' y1='180' x2='190' y2='200' stroke='#000099' stroke-width='3' /><line x1='170' y1='200' x2='230' y2='200' stroke='#000099' stroke-width='5' /><line x1='200' y1='200' x2='200' y2='230' stroke='#000099' stroke-width='5' /><line x1='180' y1='230' x2='220' y2='230' stroke='#000099' stroke-width='5' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#add8e6'/><ellipse cx='200' cy='150' rx='30' ry='50' fill='#87ceeb'/><ellipse cx='200' cy='250' rx='30' ry='50' fill='#87ceeb'/><polygon points='180,240 200,270 220,240' fill='#000'/><polygon points='170,200 200,250 230,200' fill='#000'/><polygon points='150,250 200,300 250,250' fill='#000'/><polygon points='140,200 200,270 260,200' fill='#000'/><circle cx='170' cy='150' r='5' fill='#000'/><circle cx='230' cy='150' r='5' fill='#000'/><circle cx='200' cy='180' r='10' fill='#fff'/>></svg>",
     "report": {
-      "appearance": "アダムは、パープル色の光沢のある鱗で覆われており、鋭い角の生えた頭部と大きな羽根を持っています。胸の鱗の隙間からは燃えるようなオレンジ色の炎が漏れ出ています。力強い四肢には、鋭い爪が備わっています。",
-      "reason": "アダムは、力強く勇敢な姿に進化しました。鱗と角、燃えるような炎は、生命の力強さと熱情を示しています。",
-      "thought": "『力と勇気の化身』"
+      "appearance": "アダムは、青色の頑丈な体つきを持ち、力強い外観と凛々しい顔立ちが特徴です。頭部には角があり、表情は真剣で力強さを感じさせます。",
+      "reason": "アダムは進化の過程で、堅実さと力強さを表現するデザインに変化しました。頑丈さと凛々しさが融合した姿が、進化の結果となりました。",
+      "thought": "『力強さと凛々しさが満ちる』"
     },
     "name": "アダム",
     "gender": "男性"
