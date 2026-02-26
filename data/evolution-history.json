@@ -26639,5 +26639,28 @@
       "gender": "男性"
     },
     "timestamp": 1772046065900
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='165' cy='180' rx='25' ry='40' fill='#ffc0cb' /><ellipse cx='235' cy='180' rx='25' ry='40' fill='#ffc0cb' /><path d='M200 230 Q150 260 200 290 Q250 260 200 230' fill='none' stroke='#ff1493' stroke-width='3' /><ellipse cx='170' cy='150' rx='10' ry='5' fill='#fff' /><ellipse cx='230' cy='150' rx='10' ry='5' fill='#fff' /><circle cx='180' cy='170' r='5' fill='#000' /><circle cx='220' cy='170' r='5' fill='#000' /><path d='M190 240 Q200 250 210 240' fill='none' stroke='#000' stroke-width='2' /><path d='M160 240 Q200 220 240 240' fill='none' stroke='#000' stroke-width='2' /><path d='M160 220 Q200 200 240 220' fill='none' stroke='#000' stroke-width='2' /><path d='M200 280 Q190 300 200 320 Q210 300 200 280' fill='none' stroke='#000' stroke-width='2' /><circle cx='200' cy='160' r='10' fill='none' stroke='#000' stroke-width='2' /><circle cx='200' cy='160' r='25' fill='none' stroke='#000' stroke-width='2' /><polygon points='180,130 180,140 220,140 220,130' fill='#ffc0cb' /><polygon points='195,130 190,125 210,125 205,130' fill='#ffc0cb' /><polygon points='200,190 190,170 210,170' fill='#ffcccb' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に大きな目と柔らかな表情を持つ女性の姿。両側にある角やしっぽ、繊細な手足が特徴的で、優しさと力強さを兼ね備えた外見をしている。",
+        "reason": "新たな進化が起こり、イヴはより優美さと内面の豊かさを表現するために、より複雑な模様や色彩を身にまといました。",
+        "thought": "『調和と愛を宿す』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='150' fill='#1e90ff' /><polygon points='150,180 200,110 250,180' fill='#1e90ff' /><polygon points='160,150 200,100 240,150' fill='#1e90ff' /><circle cx='200' cy='150' r='25' fill='#87ceeb' /><circle cx='190' cy='150' r='5' fill='#fff' /><circle cx='210' cy='150' r='5' fill='#fff' /><rect x='180' y='200' width='40' height='40' fill='#87ceeb' /><circle cx='180' cy='200' r='5' fill='#fff' /><circle cx='220' cy='200' r='5' fill='#fff' /><line x1='160' y1='300' x2='140' y2='340' stroke='#1e90ff' stroke-width='5' /><line x1='240' y1='300' x2='260' y2='340' stroke='#1e90ff' stroke-width='5' /><ellipse cx='200' cy='220' rx='15' ry='30' fill='#87ceeb' /><polygon points='185,250 200,230 215,250' fill='#1e90ff' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に丈夫な体つきと角や尾を持つ男性の姿。顔の表情は力強く、瞳の奥には知性と勇気が宿っている。",
+        "reason": "進化の過程で、アダムはより強靭な外見と知性を高めるために、青色の装飾と複雑な体のパーツを身に纏いました。",
+        "thought": "『勇気と知性を胸に』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1772070561158
   }
 ]
