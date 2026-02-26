@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='160' fill='#ffccff' /><ellipse cx='180' cy='140' rx='40' ry='20' fill='#ff99cc' /><ellipse cx='220' cy='140' rx='40' ry='20' fill='#ff99cc' /><ellipse cx='200' cy='220' rx='100' ry='80' fill='#ffd9e6' /><circle cx='180' cy='135' r='5' fill='#664466' /><circle cx='220' cy='135' r='5' fill='#664466' /><path d='M220 180 Q200 230 180 180 Q200 190 220 180' fill='none' stroke='#664466' stroke-width='2' /><path d='M180 180 Q200 230 220 180 Q200 190 180 180' fill='none' stroke='#664466' stroke-width='2' /><ellipse cx='180' cy='220' rx='10' ry='5' fill='#664466' /><ellipse cx='220' cy='220' rx='10' ry='5' fill='#664466' /><polygon points='200,200 190,210 210,210' fill='#ff99cc' /><polygon points='180,230 200,240 220,230' fill='#ff99cc' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,255,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,192,203);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='rgb(255,192,203)' /><rect x='170' y='180' width='60' height='30' fill='rgb(255,192,203)' /><path d='M190 280 Q200 320 210 280' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><polygon points='100,150 150,100 200,150 250,100 300,150 250,200 200,250 150,200' fill='rgb(255,192,203)' /><line x1='160' y1='170' x2='140' y2='200' stroke='rgb(0,0,0)' stroke-width='2' /><line x1='240' y1='170' x2='260' y2='200' stroke='rgb(0,0,0)' stroke-width='2' /><rect x='180' y='300' width='40' height='40' fill='rgb(255,192,203)' /><path d='M180 340 H220' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "イヴは肌がピンク色で、逆三角形の頭部に大きな目と口を持つ。二つのピンク色の耳があり、体は丸くて白い。手足は長く、瞳孔がない大きな目が特徴。",
-      "reason": "環境の変化により、イヴはより愛らしく親しみやすい特徴を身につけた。",
-      "thought": "『平和と愛』"
+      "appearance": "イヴは、ふわふわのピンク色の体に赤い楕円形の目を持ち、細長いシルクのような髪が頭部から生えています。体の下部には四角い足と尻尾があり、やわらかい表情をしています。",
+      "reason": "進化により、イヴはより柔らかで魅力的な色合いと、柔らかな表情を持つようになりました。",
+      "thought": "『やさしさが大切』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#6699ff' /><rect x='130' y='150' width='30' height='100' fill='#3366ff' /><rect x='240' y='150' width='30' height='100' fill='#3366ff' /><circle cx='200' cy='120' r='20' fill='#99ccff' /><circle cx='180' cy='100' r='5' fill='#333366' /><circle cx='220' cy='100' r='5' fill='#333366' /><path d='M180 150 Q200 170 220 150' fill='none' stroke='#333366' stroke-width='2' /><path d='M220 150 Q200 170 180 150' fill='none' stroke='#333366' stroke-width='2' /><polygon points='200,170 190,180 210,180' fill='#6699ff' /><polygon points='180,200 200,210 220,200' fill='#6699ff' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,255,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(135,206,250);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradB)' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='rgb(135,206,250)' /><rect x='170' y='180' width='60' height='30' fill='rgb(135,206,250)' /><path d='M190 280 Q200 320 210 280' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><polygon points='100,150 150,100 200,150 250,100 300,150 250,200 200,250 150,200' fill='rgb(135,206,250)' /><line x1='160' y1='170' x2='140' y2='200' stroke='rgb(0,0,0)' stroke-width='2' /><line x1='240' y1='170' x2='260' y2='200' stroke='rgb(0,0,0)' stroke-width='2' /><rect x='180' y='300' width='40' height='40' fill='rgb(135,206,250)' /><path d='M180 340 H220' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "アダムは青い体を持ち、四角形の頭部に大きな角と目を持つ。体は丈夫で筋肉質であり、青い鱗が輝く。四角い口が特徴で、手足は短くて頑丈。",
-      "reason": "狩猟や戦闘において、より力強く頑丈な体つきが必要となり、アダムはそのように進化した。",
-      "thought": "『力と正義』"
+      "appearance": "アダムは、さわやかな青色の体に青い楕円形の目を持ち、短い青い角のような髪が頭部から生えています。体の下部には四角い足と尻尾があり、力強い表情をしています。",
+      "reason": "進化により、アダムはより力強く、鮮やかな色合いと、力強い表情を持つようになりました。",
+      "thought": "『力強さと美しさを兼ね備えたい』"
     },
     "name": "アダム",
     "gender": "男性"
