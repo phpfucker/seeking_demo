@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"50\" width=\"200\" height=\"300\" fill=\"#ffcccb\"/><ellipse cx=\"200\" cy=\"100\" rx=\"70\" ry=\"50\" fill=\"#ffdab9\"/><ellipse cx=\"150\" cy=\"270\" rx=\"30\" ry=\"20\" fill=\"#ffdab9\"/><ellipse cx=\"250\" cy=\"270\" rx=\"30\" ry=\"20\" fill=\"#ffdab9\"/><ellipse cx=\"170\" cy=\"100\" rx=\"10\" ry=\"20\" fill=\"#000\"/><ellipse cx=\"230\" cy=\"100\" rx=\"10\" ry=\"20\" fill=\"#000\"/><path d=\"M170 130 Q200 150 230 130\" fill=\"none\" stroke=\"#000\"/><ellipse cx=\"170\" cy=\"280\" rx=\"30\" ry=\"20\" fill=\"#fff\"/><ellipse cx=\"230\" cy=\"280\" rx=\"30\" ry=\"20\" fill=\"#fff\"/><polygon points=\"180,220 200,240 220,220\" fill=\"#ffdab9\"/><polygon points=\"190,240 200,260 210,240\" fill=\"#ffdab9\"/><polygon points=\"150,350 200,370 250,350\" fill=\"#ffdab9\"/><polygon points=\"200,370 180,380 220,380\" fill=\"#ffdab9\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='160' fill='#ffccff' /><ellipse cx='180' cy='140' rx='40' ry='20' fill='#ff99cc' /><ellipse cx='220' cy='140' rx='40' ry='20' fill='#ff99cc' /><ellipse cx='200' cy='220' rx='100' ry='80' fill='#ffd9e6' /><circle cx='180' cy='135' r='5' fill='#664466' /><circle cx='220' cy='135' r='5' fill='#664466' /><path d='M220 180 Q200 230 180 180 Q200 190 220 180' fill='none' stroke='#664466' stroke-width='2' /><path d='M180 180 Q200 230 220 180 Q200 190 180 180' fill='none' stroke='#664466' stroke-width='2' /><ellipse cx='180' cy='220' rx='10' ry='5' fill='#664466' /><ellipse cx='220' cy='220' rx='10' ry='5' fill='#664466' /><polygon points='200,200 190,210 210,210' fill='#ff99cc' /><polygon points='180,230 200,240 220,230' fill='#ff99cc' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな肌を持ち、優雅で繊細な女性らしい特徴を備えています。頭部には長く流れる髪、優美な顔立ちを持ち、全体的に優しい雰囲気が漂います。体はしなやかで、手足には繊細な指先があります。",
-      "reason": "イヴは環境の変化に適応するため、より優れた美的特徴を発展させることで、生存競争に勝ち抜くために進化しました。",
-      "thought": "『優しさが強さへとつながる』"
+      "appearance": "イヴは肌がピンク色で、逆三角形の頭部に大きな目と口を持つ。二つのピンク色の耳があり、体は丸くて白い。手足は長く、瞳孔がない大きな目が特徴。",
+      "reason": "環境の変化により、イヴはより愛らしく親しみやすい特徴を身につけた。",
+      "thought": "『平和と愛』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"50\" width=\"200\" height=\"300\" fill=\"#add8e6\"/><ellipse cx=\"200\" cy=\"100\" rx=\"70\" ry=\"50\" fill=\"#b0e0e6\"/><ellipse cx=\"150\" cy=\"270\" rx=\"30\" ry=\"20\" fill=\"#b0e0e6\"/><ellipse cx=\"250\" cy=\"270\" rx=\"30\" ry=\"20\" fill=\"#b0e0e6\"/><ellipse cx=\"170\" cy=\"100\" rx=\"10\" ry=\"20\" fill=\"#000\"/><ellipse cx=\"230\" cy=\"100\" rx=\"10\" ry=\"20\" fill=\"#000\"/><path d=\"M170 130 Q200 150 230 130\" fill=\"none\" stroke=\"#000\"/><ellipse cx=\"170\" cy=\"280\" rx=\"30\" ry=\"20\" fill=\"#fff\"/><ellipse cx=\"230\" cy=\"280\" rx=\"30\" ry=\"20\" fill=\"#fff\"/><polygon points=\"180,220 200,240 220,220\" fill=\"#b0e0e6\"/><polygon points=\"190,240 200,260 210,240\" fill=\"#b0e0e6\"/><polygon points=\"150,350 200,370 250,350\" fill=\"#b0e0e6\"/><polygon points=\"200,370 180,380 220,380\" fill=\"#b0e0e6\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#6699ff' /><rect x='130' y='150' width='30' height='100' fill='#3366ff' /><rect x='240' y='150' width='30' height='100' fill='#3366ff' /><circle cx='200' cy='120' r='20' fill='#99ccff' /><circle cx='180' cy='100' r='5' fill='#333366' /><circle cx='220' cy='100' r='5' fill='#333366' /><path d='M180 150 Q200 170 220 150' fill='none' stroke='#333366' stroke-width='2' /><path d='M220 150 Q200 170 180 150' fill='none' stroke='#333366' stroke-width='2' /><polygon points='200,170 190,180 210,180' fill='#6699ff' /><polygon points='180,200 200,210 220,200' fill='#6699ff' /></svg>",
     "report": {
-      "appearance": "アダムは、青色の肌を持ち、力強くたくましい男性らしい特徴を備えています。顔にはワイルドな特徴があり、全体的に力強さと安定感を感じさせます。体つきはがっしりとしており、手足には筋肉が発達しています。",
-      "reason": "アダムは環境の厳しさに対処するため、より頑丈で力強い特徴を発展させることで、生存競争に勝ち抜くために進化しました。",
-      "thought": "『力強さと安定感が未来を切り拓く』"
+      "appearance": "アダムは青い体を持ち、四角形の頭部に大きな角と目を持つ。体は丈夫で筋肉質であり、青い鱗が輝く。四角い口が特徴で、手足は短くて頑丈。",
+      "reason": "狩猟や戦闘において、より力強く頑丈な体つきが必要となり、アダムはそのように進化した。",
+      "thought": "『力と正義』"
     },
     "name": "アダム",
     "gender": "男性"

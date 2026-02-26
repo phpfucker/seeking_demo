@@ -26685,5 +26685,28 @@
       "gender": "男性"
     },
     "timestamp": 1772088960626
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"50\" width=\"200\" height=\"300\" fill=\"#ffcccb\"/><ellipse cx=\"200\" cy=\"100\" rx=\"70\" ry=\"50\" fill=\"#ffdab9\"/><ellipse cx=\"150\" cy=\"270\" rx=\"30\" ry=\"20\" fill=\"#ffdab9\"/><ellipse cx=\"250\" cy=\"270\" rx=\"30\" ry=\"20\" fill=\"#ffdab9\"/><ellipse cx=\"170\" cy=\"100\" rx=\"10\" ry=\"20\" fill=\"#000\"/><ellipse cx=\"230\" cy=\"100\" rx=\"10\" ry=\"20\" fill=\"#000\"/><path d=\"M170 130 Q200 150 230 130\" fill=\"none\" stroke=\"#000\"/><ellipse cx=\"170\" cy=\"280\" rx=\"30\" ry=\"20\" fill=\"#fff\"/><ellipse cx=\"230\" cy=\"280\" rx=\"30\" ry=\"20\" fill=\"#fff\"/><polygon points=\"180,220 200,240 220,220\" fill=\"#ffdab9\"/><polygon points=\"190,240 200,260 210,240\" fill=\"#ffdab9\"/><polygon points=\"150,350 200,370 250,350\" fill=\"#ffdab9\"/><polygon points=\"200,370 180,380 220,380\" fill=\"#ffdab9\"/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、優雅で繊細な女性らしい特徴を備えています。頭部には長く流れる髪、優美な顔立ちを持ち、全体的に優しい雰囲気が漂います。体はしなやかで、手足には繊細な指先があります。",
+        "reason": "イヴは環境の変化に適応するため、より優れた美的特徴を発展させることで、生存競争に勝ち抜くために進化しました。",
+        "thought": "『優しさが強さへとつながる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"50\" width=\"200\" height=\"300\" fill=\"#add8e6\"/><ellipse cx=\"200\" cy=\"100\" rx=\"70\" ry=\"50\" fill=\"#b0e0e6\"/><ellipse cx=\"150\" cy=\"270\" rx=\"30\" ry=\"20\" fill=\"#b0e0e6\"/><ellipse cx=\"250\" cy=\"270\" rx=\"30\" ry=\"20\" fill=\"#b0e0e6\"/><ellipse cx=\"170\" cy=\"100\" rx=\"10\" ry=\"20\" fill=\"#000\"/><ellipse cx=\"230\" cy=\"100\" rx=\"10\" ry=\"20\" fill=\"#000\"/><path d=\"M170 130 Q200 150 230 130\" fill=\"none\" stroke=\"#000\"/><ellipse cx=\"170\" cy=\"280\" rx=\"30\" ry=\"20\" fill=\"#fff\"/><ellipse cx=\"230\" cy=\"280\" rx=\"30\" ry=\"20\" fill=\"#fff\"/><polygon points=\"180,220 200,240 220,220\" fill=\"#b0e0e6\"/><polygon points=\"190,240 200,260 210,240\" fill=\"#b0e0e6\"/><polygon points=\"150,350 200,370 250,350\" fill=\"#b0e0e6\"/><polygon points=\"200,370 180,380 220,380\" fill=\"#b0e0e6\"/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌を持ち、力強くたくましい男性らしい特徴を備えています。顔にはワイルドな特徴があり、全体的に力強さと安定感を感じさせます。体つきはがっしりとしており、手足には筋肉が発達しています。",
+        "reason": "アダムは環境の厳しさに対処するため、より頑丈で力強い特徴を発展させることで、生存競争に勝ち抜くために進化しました。",
+        "thought": "『力強さと安定感が未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1772110681544
   }
 ]
