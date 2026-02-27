@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,153,204);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,51,153);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='150' cy='150' rx='20' ry='30' fill='#ff99cc' /><ellipse cx='250' cy='150' rx='20' ry='30' fill='#ff99cc' /><path d='M150,250 Q200,280 250,250 Q200,220 150,250 Z' fill='#ff99cc' /><path d='M180,180 Q200,200 220,180' stroke='#000' stroke-width='2' fill='none' /><path d='M220,180 Q240,200 260,180' stroke='#000' stroke-width='2' fill='none' /><path d='M190,280 Q200,290 210,280' stroke='#000' stroke-width='2' fill='none' /><path d='M190,200 Q200,220 210,200' stroke='#000' stroke-width='2' fill='none' /><circle cx='175' cy='150' r='5' fill='#000' /><circle cx='225' cy='150' r='5' fill='#000' /><text x='130' y='260' font-family='Arial' font-size='20' fill='#000'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='200' rx='100' ry='120' fill='#ffd1dc' /><path d='M180,160 Q220,120 260,160 Q220,200 180,160' fill='#ffc0cb' /><path d='M180,240 Q220,280 260,240 Q220,200 180,240' fill='#ffc0cb' /><circle cx='160' cy='180' r='20' fill='#ffffff' /><circle cx='240' cy='180' r='20' fill='#ffffff' /><line x1='190' y1='220' x2='210' y2='220' stroke='#000000' stroke-width='2' /><line x1='190' y1='240' x2='210' y2='240' stroke='#000000' stroke-width='2' /><path d='M150,300 Q200,350 250,300' fill='none' stroke='#000000' stroke-width='2' /><polygon points='180,260 220,260 200,280' fill='#ff69b4' /><ellipse cx='200' cy='280' rx='20' ry='10' fill='#ff69b4' /><line x1='210' y1='290' x2='190' y2='290' stroke='#000000' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンクと紫のグラデーションが美しい女性の生命体です。丸い頭部と優雅な角、繊細な手足、愛らしい表情が特徴です。",
-      "reason": "進化の過程で、イヴは美的要素を強調し、より優雅で魅力的な外観を獲得しました。",
-      "thought": "『優しさが力』"
+      "appearance": "イヴはピンク色の柔らかな皮膚を持ち、中心に大きな赤い円形の目があります。頭部には白い丸い耳と紫色の髪の毛が特徴です。体は緑とピンクのグラデーションが描かれ、しなやかな曲線でつながっています。",
+      "reason": "この進化は、イヴの生息地が花々と豊かな森になったため、より美しく色鮮やかな外見へ進化したためです。",
+      "thought": "『自然の一部として、愛しさを育む』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(102,178,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,102,204);stop-opacity:1' /></linearGradient></defs><rect x='150' y='100' width='100' height='200' fill='url(#gradB)' /><ellipse cx='200' cy='70' rx='30' ry='20' fill='#66b2ff' /><line x1='180' y1='100' x2='180' y2='300' stroke='#000' stroke-width='5' /><line x1='220' y1='100' x2='220' y2='300' stroke='#000' stroke-width='5' /><circle cx='180' cy='70' r='5' fill='#000' /><circle cx='220' cy='70' r='5' fill='#000' /><text x='170' y='330' font-family='Arial' font-size='20' fill='#000'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#778899' /><polygon points='150,100 250,100 200,50' fill='#708090' /><polygon points='150,300 250,300 200,350' fill='#708090' /><ellipse cx='200' cy='100' rx='30' ry='20' fill='#b0c4de' /><ellipse cx='200' cy='300' rx='30' ry='20' fill='#b0c4de' /><ellipse cx='200' cy='150' rx='10' ry='15' fill='#ffffff' /><ellipse cx='200' cy='250' rx='10' ry='15' fill='#ffffff' /><path d='M185,150 Q200,130 215,150 Q200,170 185,150' fill='#778899' /><path d='M185,250 Q200,230 215,250 Q200,270 185,250' fill='#778899' /><path d='M180,200 Q200,190 220,200 Q200,210 180,200' fill='#778899' /></svg>",
     "report": {
-      "appearance": "アダムは、青と濃い青のグラデーションが美しい男性の生命体です。四角い体と頑丈な角、力強い手足、凛々しい表情が特徴です。",
-      "reason": "進化の結果、アダムはより力強く、堅実な外観を獲得しました。",
-      "thought": "『誇り高き者』"
+      "appearance": "アダムは灰色の堅い外皮で覆われ、頭部には短い角が2本生えています。体は青みがかったグレーで塗られ、筋肉質な質感があります。手足は太く頑丈で、尾は尖っています。",
+      "reason": "アダムは新たな環境で生き抜くために、頑丈な外観と強靭な体力が必要とされたため、進化して堅固な外皮と筋肉質な体を得ました。",
+      "thought": "『強靭な身体で未来を切り拓く』"
     },
     "name": "アダム",
     "gender": "男性"
