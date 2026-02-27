@@ -26731,5 +26731,28 @@
       "gender": "男性"
     },
     "timestamp": 1772131689499
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,255,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,192,203);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='rgb(255,192,203)' /><rect x='170' y='180' width='60' height='30' fill='rgb(255,192,203)' /><path d='M190 280 Q200 320 210 280' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><polygon points='100,150 150,100 200,150 250,100 300,150 250,200 200,250 150,200' fill='rgb(255,192,203)' /><line x1='160' y1='170' x2='140' y2='200' stroke='rgb(0,0,0)' stroke-width='2' /><line x1='240' y1='170' x2='260' y2='200' stroke='rgb(0,0,0)' stroke-width='2' /><rect x='180' y='300' width='40' height='40' fill='rgb(255,192,203)' /><path d='M180 340 H220' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、ふわふわのピンク色の体に赤い楕円形の目を持ち、細長いシルクのような髪が頭部から生えています。体の下部には四角い足と尻尾があり、やわらかい表情をしています。",
+        "reason": "進化により、イヴはより柔らかで魅力的な色合いと、柔らかな表情を持つようになりました。",
+        "thought": "『やさしさが大切』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,255,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(135,206,250);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradB)' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='rgb(135,206,250)' /><rect x='170' y='180' width='60' height='30' fill='rgb(135,206,250)' /><path d='M190 280 Q200 320 210 280' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><polygon points='100,150 150,100 200,150 250,100 300,150 250,200 200,250 150,200' fill='rgb(135,206,250)' /><line x1='160' y1='170' x2='140' y2='200' stroke='rgb(0,0,0)' stroke-width='2' /><line x1='240' y1='170' x2='260' y2='200' stroke='rgb(0,0,0)' stroke-width='2' /><rect x='180' y='300' width='40' height='40' fill='rgb(135,206,250)' /><path d='M180 340 H220' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、さわやかな青色の体に青い楕円形の目を持ち、短い青い角のような髪が頭部から生えています。体の下部には四角い足と尻尾があり、力強い表情をしています。",
+        "reason": "進化により、アダムはより力強く、鮮やかな色合いと、力強い表情を持つようになりました。",
+        "thought": "『力強さと美しさを兼ね備えたい』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1772156869303
   }
 ]
