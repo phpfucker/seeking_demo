@@ -26846,5 +26846,28 @@
       "gender": "男性"
     },
     "timestamp": 1772242766796
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcc99' /><ellipse cx='200' cy='240' rx='80' ry='110' fill='#ffb3ba' /><ellipse cx='150' cy='180' rx='30' ry='20' fill='#ffd966' /><ellipse cx='250' cy='180' rx='30' ry='20' fill='#ffd966' /><polygon points='170,260 180,270 190,260' fill='#ff6666' /><polygon points='210,260 220,270 230,260' fill='#ff6666' /><path d='M190 280 Q200 290 210 280' fill='none' stroke='#ff6666' stroke-width='2' /><path d='M130 190 Q180 110 250 190' fill='none' stroke='#ff6666' stroke-width='2' /><path d='M110 150 Q150 130 190 150 Q230 130 270 150' fill='none' stroke='#ff6666' stroke-width='2' /><rect x='155' y='300' width='90' height='20' fill='#ff6666' /><rect x='185' y='320' width='30' height='40' fill='#ff6666' /></svg>",
+      "report": {
+        "appearance": "イヴは、オレンジ色の肌を持ち、背中に大きなピンク色の耳がついた女性の姿をしています。全身に赤い模様が入り、手には赤い爪が生えています。",
+        "reason": "環境の変化により、イヴはより華やかで装飾的な外見が必要になりました。",
+        "thought": "『輝く美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#006666' /><ellipse cx='200' cy='240' rx='80' ry='110' fill='#85a2b6' /><ellipse cx='150' cy='180' rx='30' ry='20' fill='#6666ff' /><ellipse cx='250' cy='180' rx='30' ry='20' fill='#6666ff' /><polygon points='170,260 180,270 190,260' fill='#ff6666' /><polygon points='210,260 220,270 230,260' fill='#ff6666' /><path d='M190 280 Q200 290 210 280' fill='none' stroke='#ff6666' stroke-width='2' /><path d='M130 190 Q180 110 250 190' fill='none' stroke='#ff6666' stroke-width='2' /><path d='M110 150 Q150 130 190 150 Q230 130 270 150' fill='none' stroke='#ff6666' stroke-width='2' /><rect x='155' y='300' width='90' height='20' fill='#808080' /><rect x='185' y='320' width='30' height='40' fill='#808080' /></svg>",
+      "report": {
+        "appearance": "アダムは、濃い緑色の肌を持ち、背中に大きな青色の耳がついた男性の姿をしています。全身に青色の模様が入り、手には灰色の爪が生えています。",
+        "reason": "繁殖競争のため、アダムは力強く魅力的な外見が進化しました。",
+        "thought": "『不屈の力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1772260384570
   }
 ]
