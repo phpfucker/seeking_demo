@@ -26892,5 +26892,28 @@
       "gender": "男性"
     },
     "timestamp": 1772282288847
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><polygon points='150,200 200,50 250,200' fill='#ff9999' /><ellipse cx='180' cy='190' rx='20' ry='10' fill='#ff6666' /><ellipse cx='220' cy='190' rx='20' ry='10' fill='#ff6666' /><ellipse cx='200' cy='240' rx='50' ry='20' fill='#ff9999' /><rect x='190' y='240' width='20' height='50' fill='#ff9999' /><ellipse cx='180' cy='250' rx='20' ry='10' fill='#ff6666' /><ellipse cx='220' cy='250' rx='20' ry='10' fill='#ff6666' /><ellipse cx='180' cy='250' rx='10' ry='5' fill='#ffcccb' /><ellipse cx='220' cy='250' rx='10' ry='5' fill='#ffcccb' /><path d='M150,270 Q200,320 250,270' fill='none' stroke='#ff6666' stroke-width='5' /><path d='M150,270 Q200,300 250,270' fill='none' stroke='#ff6666' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に赤い装飾を施した優美な女性。赤い模様が特徴的で、全体的に優しさと美しさを放っている。",
+        "reason": "進化の過程で、イヴは内面の穏やかさをより表現するため、装飾的な要素が加わった。",
+        "thought": "『優しさをもっと輝かせたい』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#87cefa' /><polygon points='150,200 200,50 250,200' fill='#4682b4' /><ellipse cx='180' cy='190' rx='20' ry='10' fill='#4169e1' /><ellipse cx='220' cy='190' rx='20' ry='10' fill='#4169e1' /><ellipse cx='200' cy='240' rx='50' ry='20' fill='#4682b4' /><rect x='190' y='240' width='20' height='50' fill='#4682b4' /><ellipse cx='180' cy='250' rx='20' ry='10' fill='#4169e1' /><ellipse cx='220' cy='250' rx='20' ry='10' fill='#4169e1' /><ellipse cx='180' cy='250' rx='10' ry='5' fill='#87cefa' /><ellipse cx='220' cy='250' rx='10' ry='5' fill='#87cefa' /><path d='M150,270 Q200,320 250,270' fill='none' stroke='#4169e1' stroke-width='5' /><path d='M150,270 Q200,300 250,270' fill='none' stroke='#4169e1' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に濃い青の飾りを持つ端正な男性。凛々しさと知性を感じさせる風貌を持つ。",
+        "reason": "進化により、アダムはより知性や強さを表現するため、装飾的な要素が追加された。",
+        "thought": "『知性と力を誇示したい』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1772303286460
   }
 ]
