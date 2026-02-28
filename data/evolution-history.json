@@ -26823,5 +26823,28 @@
       "gender": "男性"
     },
     "timestamp": 1772217432356
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='200' rx='100' ry='120' fill='#ffd1dc' /><path d='M180,160 Q220,120 260,160 Q220,200 180,160' fill='#ffc0cb' /><path d='M180,240 Q220,280 260,240 Q220,200 180,240' fill='#ffc0cb' /><circle cx='160' cy='180' r='20' fill='#ffffff' /><circle cx='240' cy='180' r='20' fill='#ffffff' /><line x1='190' y1='220' x2='210' y2='220' stroke='#000000' stroke-width='2' /><line x1='190' y1='240' x2='210' y2='240' stroke='#000000' stroke-width='2' /><path d='M150,300 Q200,350 250,300' fill='none' stroke='#000000' stroke-width='2' /><polygon points='180,260 220,260 200,280' fill='#ff69b4' /><ellipse cx='200' cy='280' rx='20' ry='10' fill='#ff69b4' /><line x1='210' y1='290' x2='190' y2='290' stroke='#000000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかな皮膚を持ち、中心に大きな赤い円形の目があります。頭部には白い丸い耳と紫色の髪の毛が特徴です。体は緑とピンクのグラデーションが描かれ、しなやかな曲線でつながっています。",
+        "reason": "この進化は、イヴの生息地が花々と豊かな森になったため、より美しく色鮮やかな外見へ進化したためです。",
+        "thought": "『自然の一部として、愛しさを育む』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#778899' /><polygon points='150,100 250,100 200,50' fill='#708090' /><polygon points='150,300 250,300 200,350' fill='#708090' /><ellipse cx='200' cy='100' rx='30' ry='20' fill='#b0c4de' /><ellipse cx='200' cy='300' rx='30' ry='20' fill='#b0c4de' /><ellipse cx='200' cy='150' rx='10' ry='15' fill='#ffffff' /><ellipse cx='200' cy='250' rx='10' ry='15' fill='#ffffff' /><path d='M185,150 Q200,130 215,150 Q200,170 185,150' fill='#778899' /><path d='M185,250 Q200,230 215,250 Q200,270 185,250' fill='#778899' /><path d='M180,200 Q200,190 220,200 Q200,210 180,200' fill='#778899' /></svg>",
+      "report": {
+        "appearance": "アダムは灰色の堅い外皮で覆われ、頭部には短い角が2本生えています。体は青みがかったグレーで塗られ、筋肉質な質感があります。手足は太く頑丈で、尾は尖っています。",
+        "reason": "アダムは新たな環境で生き抜くために、頑丈な外観と強靭な体力が必要とされたため、進化して堅固な外皮と筋肉質な体を得ました。",
+        "thought": "『強靭な身体で未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1772242766796
   }
 ]
