@@ -26938,5 +26938,28 @@
       "gender": "男性"
     },
     "timestamp": 1772330370074
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#FFD700'/><ellipse cx='200' cy='150' rx='100' ry='90' fill='#FFD700'/><polygon points='100,300 150,200 250,200 300,300' fill='#CD853F'/><circle cx='150' cy='150' r='10' fill='#000'/><circle cx='250' cy='150' r='10' fill='#000'/><path d='M200 200 Q150 250 200 300 Q250 250 200 200 Z' fill='#FFD700'/><path d='M150 200 Q175 150 200 200 Q225 150 250 200 L250 300 L150 300 Z' fill='#CD853F'/></svg>",
+      "report": {
+        "appearance": "イヴは、金色の美しい毛並みを持ち、優雅な姿をしています。背中には茶色の翼が生え、優しい目元が特徴です。",
+        "reason": "進化が起こった理由は、環境の変化に適応するために、美しい毛並みや翼が発達したためです。",
+        "thought": "『優しさと美しさが両立する』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#4682B4'/><ellipse cx='200' cy='150' rx='100' ry='90' fill='#4682B4'/><polygon points='100,300 150,200 250,200 300,300' fill='#778899'/><circle cx='150' cy='150' r='10' fill='#000'/><circle cx='250' cy='150' r='10' fill='#000'/><path d='M200 200 Q150 250 200 300 Q250 250 200 200 Z' fill='#4682B4'/><path d='M150 200 Q175 150 200 200 Q225 150 250 200 L250 300 L150 300 Z' fill='#778899'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い体色と銀色の模様が特徴的な姿をしています。力強い足と角を持ち、凛々しい雰囲気が漂います。",
+        "reason": "進化が起こった理由は、狩りや生存競争において優位に立つために、力強い足や角が発達したためです。",
+        "thought": "『力強さと知恵を兼ね備えた姿』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1772347255178
   }
 ]
