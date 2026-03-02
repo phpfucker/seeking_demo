@@ -27053,5 +27053,28 @@
       "gender": "男性"
     },
     "timestamp": 1772434383326
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='130' cy='170' rx='40' ry='60' fill='#ffb6c1' /><ellipse cx='270' cy='170' rx='40' ry='60' fill='#ffb6c1' /><path d='M160 210 Q200 190 240 210' fill='none' stroke='#e6b8b7' stroke-width='4' /><rect x='175' y='280' width='50' height='30' fill='#ffccd3' /><path d='M190 280 L210 280 L200 320 Z' fill='#ffaeb9' /><polygon points='130,150 140,120 150,150' fill='#ff7f50' /><polygon points='260,150 270,120 280,150' fill='#ff7f50' /><line x1='160' y1='220' x2='160' y2='270' stroke='#ffccd3' stroke-width='4' /><line x1='240' y1='220' x2='240' y2='270' stroke='#ffccd3' stroke-width='4' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の大きな円形の体を持ち、頭には二つの楕円形の耳があります。体の中央には薄いピンク色の胴体があり、手は薄いピンク色の楕円形で、脚は薄いピンク色の短い四角形です。",
+        "reason": "イヴは新たな生命を生み出す母性的な特性を持つため、より柔らかく優しい色合いと形状に進化しました。",
+        "thought": "『誕生と成長の喜び』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#afeeee' /><ellipse cx='130' cy='170' rx='40' ry='60' fill='#87ceeb' /><ellipse cx='270' cy='170' rx='40' ry='60' fill='#87ceeb' /><path d='M160 210 Q200 190 240 210' fill='none' stroke='#4682b4' stroke-width='4' /><rect x='175' y='280' width='50' height='30' fill='#87cefa' /><path d='M190 280 L210 280 L200 320 Z' fill='#87ceeb' /><polygon points='130,150 140,120 150,150' fill='#87cefa' /><polygon points='260,150 270,120 280,150' fill='#87cefa' /><line x1='160' y1='220' x2='160' y2='270' stroke='#87cefa' stroke-width='4' /><line x1='240' y1='220' x2='240' y2='270' stroke='#87cefa' stroke-width='4' /></svg>",
+      "report": {
+        "appearance": "アダムは青色の大きな円形の体を持ち、頭には二つの楕円形の耳があります。体の中央には濃い青色の胴体があり、手は青色の楕円形で、脚は短い四角形です。",
+        "reason": "アダムは生命を守る父性的な特性を持つため、より落ち着いた色合いと力強い形状に進化しました。",
+        "thought": "『絆と責任の重さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1772455871574
   }
 ]
