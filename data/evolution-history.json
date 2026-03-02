@@ -27030,5 +27030,28 @@
       "gender": "男性"
     },
     "timestamp": 1772416237467
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='170' rx='100' ry='120' fill='#ffd9e6' /><path d='M150,250 Q200,320 250,250' fill='none' stroke='#ff66b2' stroke-width='8' /><rect x='160' y='240' width='80' height='20' fill='#ff99cc' /><path d='M150,180 Q170,150 200,180 Q230,150 250,180' fill='none' stroke='#ff66b2' stroke-width='6' /><ellipse cx='170' cy='170' rx='15' ry='10' fill='#ff66b2' /><ellipse cx='230' cy='170' rx='15' ry='10' fill='#ff66b2' /><circle cx='190' cy='160' r='8' fill='#000' /><circle cx='210' cy='160' r='8' fill='#000' /><path d='M180,215 Q190,220 200,215 Q210,220 220,215' fill='none' stroke='#000' stroke-width='4' /><text x='150' y='320' font-family='Arial' font-size='20' fill='#333' transform='rotate(-15 150,320)'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとベージュの色合いで覆われた優雅な女性。体は楕円形で、薄紫色の髪が上品に流れる。四肢は細く、手足には光沢のあるピンクの爪がある。頭部には小さな角が2本あり、愛らしい表情をしている。",
+        "reason": "イヴは内面の美しさを外見に反映させるため、より繊細で華やかな外見に進化した。",
+        "thought": "『調和と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='50' width='100' height='150' fill='#b3ffff' /><ellipse cx='200' cy='180' rx='90' ry='110' fill='#cce0ff' /><path d='M180,250 Q200,300 220,250' fill='none' stroke='#668cff' stroke-width='8' /><rect x='160' y='240' width='80' height='20' fill='#99ccff' /><polygon points='190,180 200,160 210,180' fill='#668cff' /><polygon points='170,160 175,140 180,160' fill='#668cff' /><polygon points='230,160 235,140 240,160' fill='#668cff' /><circle cx='190' cy='250' r='8' fill='#000' /><circle cx='210' cy='250' r='8' fill='#000' /><path d='M180,215 Q190,220 200,215 Q210,220 220,215' fill='none' stroke='#000' stroke-width='4' /><text x='150' y='320' font-family='Arial' font-size='20' fill='#333' transform='rotate(-15 150,320)'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、淡い青色と白色の組み合わせで表現された男性。四角い体と丸い頭部が特徴で、透明な青い翼が生えている。腕と脚は太く頑丈で、青い模様が入っている。額には一本の角があり、優しい表情をしている。",
+        "reason": "アダムは強さと知恵を求め、より頑丈で知的な外見に進化した。",
+        "thought": "『静けさと力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1772434383326
   }
 ]
