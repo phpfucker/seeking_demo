@@ -27007,5 +27007,28 @@
       "gender": "男性"
     },
     "timestamp": 1772389716024
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='pink'/><ellipse cx='200' cy='150' rx='80' ry='100' fill='lightcoral'/><ellipse cx='160' cy='130' rx='10' ry='20' fill='black'/><ellipse cx='240' cy='130' rx='10' ry='20' fill='black'/><path d='M150 250 Q200 300 250 250' fill='none' stroke='black' stroke-width='2'/><path d='M160 210 Q200 280 240 210' fill='none' stroke='black' stroke-width='2'/><path d='M170 280 Q200 320 230 280' fill='none' stroke='black' stroke-width='2'/><polygon points='180,260 200,280 220,260' fill='white'/><text x='200' y='350' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンクの体色を持ち、大きな赤い楕円形の目を持つ。体型はスリムで曲線的な特徴があり、頭部に角状の突起がある。四肢は流線型で優雅な印象を与える。",
+        "reason": "イヴは新たな進化を遂げ、より優美で洗練された外見を手に入れた。",
+        "thought": "『知性と美しさを併せ持つ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='lightblue'/><ellipse cx='200' cy='150' rx='80' ry='100' fill='skyblue'/><ellipse cx='160' cy='130' rx='10' ry='20' fill='black'/><ellipse cx='240' cy='130' rx='10' ry='20' fill='black'/><path d='M150 250 Q200 300 250 250' fill='none' stroke='black' stroke-width='2'/><path d='M160 210 Q200 280 240 210' fill='none' stroke='black' stroke-width='2'/><path d='M170 280 Q200 320 230 280' fill='none' stroke='black' stroke-width='2'/><polygon points='180,260 200,280 220,260' fill='white'/><text x='200' y='350' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青色の体を持ち、大きな青い楕円形の目が特徴的。体つきはがっしりとした印象で、頭部には小さな角が生えている。四肢は力強く太く、安定感のある姿勢を保っている。",
+        "reason": "アダムは進化し、より力強く安定感のある外観を手に入れた。",
+        "thought": "『力と安定』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1772416237467
   }
 ]
