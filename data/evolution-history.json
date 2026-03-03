@@ -27145,5 +27145,28 @@
       "gender": "男性"
     },
     "timestamp": 1772520301831
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='150' rx='90' ry='120' fill='#ffb6c1'/><rect x='160' y='220' width='80' height='40' fill='#ff6347'/><rect x='175' y='260' width='50' height='10' fill='#ff6347'/><polygon points='180,150 200,120 220,150' fill='#ffd700'/><polygon points='180,155 200,130 220,155' fill='#ffd700'/><path d='M200,150 Q230,180 200,200 Q170,180 200,150' fill='none' stroke='#8b0000' stroke-width='2'/><line x1='160' y1='125' x2='140' y2='105' stroke='#8b0000' stroke-width='3'/><line x1='240' y1='125' x2='260' y2='105' stroke='#8b0000' stroke-width='3'/><line x1='160' y1='275' x2='140' y2='295' stroke='#8b0000' stroke-width='3'/><line x1='240' y1='275' x2='260' y2='295' stroke='#8b0000' stroke-width='3'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、赤い瞳を持つ美しい女性の姿をしています。体には赤いワンピースを着ており、優雅な雰囲気が漂っています。",
+        "reason": "新たな色彩美や優美な特徴を加え、生命体の魅力をより際立たせるために進化が起こりました。",
+        "thought": "『美しさは心の中から溢れ出る』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#4682b4'/><rect x='160' y='220' width='80' height='40' fill='#4169e1'/><rect x='175' y='260' width='50' height='10' fill='#4169e1'/><polygon points='180,150 200,120 220,150' fill='#ff6347'/><polygon points='180,155 200,130 220,155' fill='#ff6347'/><polygon points='210,180 230,160 250,180' fill='#ff6347'/><polygon points='210,185 230,165 250,185' fill='#ff6347'/><line x1='160' y1='125' x2='140' y2='105' stroke='#8b0000' stroke-width='3'/><line x1='240' y1='125' x2='260' y2='105' stroke='#8b0000' stroke-width='3'/><line x1='160' y1='275' x2='140' y2='295' stroke='#8b0000' stroke-width='3'/><line x1='240' y1='275' x2='260' y2='295' stroke='#8b0000' stroke-width='3'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の堅い皮膚を持ち、青い瞳を持つ男性の姿をしています。体には青いタンクトップとショートパンツを着ており、引き締まった筋肉が見えます。",
+        "reason": "生命体の力強さや引き締まった特徴を強調するために進化が起こりました。",
+        "thought": "『力強さは柔軟さと共に』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1772542241526
   }
 ]
