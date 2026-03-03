@@ -27122,5 +27122,28 @@
       "gender": "男性"
     },
     "timestamp": 1772502773438
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffebcd'/><ellipse cx='200' cy='190' rx='90' ry='120' fill='#fffacd'/><path d='M170,220 Q200,260 230,220 Q200,240 170,220 Z' fill='#ffe4b5'/><path d='M170,220 Q200,280 230,220 Q200,260 170,220 Z' fill='#ffdab9'/><polygon points='160,175 220,175 200,155' fill='#ffebcd'/><polygon points='175,190 220,190 200,230' fill='#ffdab9'/><ellipse cx='180' cy='160' rx='10' ry='5' fill='#000'/><ellipse cx='220' cy='160' rx='10' ry='5' fill='#000'/><ellipse cx='200' cy='210' rx='20' ry='5' fill='#000'/><rect x='185' y='230' width='30' height='80' fill='#ffdab9'/></svg>",
+      "report": {
+        "appearance": "イヴは柔らかな肌と明るい色の衣装を身にまとい、優美な体つきと華やかな装飾が特徴です。頭には煌めく宝石のような飾りがあります。",
+        "reason": "進化の過程で、イヴはより美しさと優雅さを追求して、繊細な模様と色彩を身に纏うようになりました。",
+        "thought": "『愛と美しさを守る』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='200' fill='#4682b4'/><ellipse cx='200' cy='190' rx='90' ry='120' fill='#b0c4de'/><path d='M170,220 Q200,240 230,220 Q200,260 170,220 Z' fill='#a9a9a9'/><path d='M170,220 Q200,260 230,220 Q200,280 170,220 Z' fill='#778899'/><polygon points='160,175 220,175 200,155' fill='#4682b4'/><polygon points='175,190 220,190 200,230' fill='#778899'/><ellipse cx='180' cy='160' rx='10' ry='5' fill='#000'/><ellipse cx='220' cy='160' rx='10' ry='5' fill='#000'/><ellipse cx='200' cy='210' rx='20' ry='5' fill='#000'/><line x1='185' y1='230' x2='215' y2='230' stroke='#778899' stroke-width='8'/></svg>",
+      "report": {
+        "appearance": "アダムは頑丈な体つきと深い青色の外見が特徴で、力強さと安定感を持っています。体にはシンプルながら力強い筋肉が描かれています。",
+        "reason": "進化の過程で、アダムはより力強さと安定感を求め、深い青色と堅牢な体躯を身にまとうようになりました。",
+        "thought": "『力と誇りを胸に』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1772520301831
   }
 ]
