@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink'/> <ellipse cx='200' cy='180' rx='80' ry='100' fill='white'/> <ellipse cx='160' cy='170' rx='15' ry='30' fill='black'/> <ellipse cx='240' cy='170' rx='15' ry='30' fill='black'/> <path d='M170,230 Q200,280 230,230' fill='none' stroke='black' stroke-width='3'/> <polygon points='190,210 210,210 200,220' fill='black'/> <rect x='180' y='260' width='40' height='20' fill='pink'/> <line x1='180' y1='260' x2='220' y2='260' stroke='black' stroke-width='3'/> <line x1='190' y1='280' x2='190' y2='300' stroke='black' stroke-width='3'/> <line x1='210' y1='280' x2='210' y2='300' stroke='black' stroke-width='3'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffebcd'/><ellipse cx='200' cy='190' rx='90' ry='120' fill='#fffacd'/><path d='M170,220 Q200,260 230,220 Q200,240 170,220 Z' fill='#ffe4b5'/><path d='M170,220 Q200,280 230,220 Q200,260 170,220 Z' fill='#ffdab9'/><polygon points='160,175 220,175 200,155' fill='#ffebcd'/><polygon points='175,190 220,190 200,230' fill='#ffdab9'/><ellipse cx='180' cy='160' rx='10' ry='5' fill='#000'/><ellipse cx='220' cy='160' rx='10' ry='5' fill='#000'/><ellipse cx='200' cy='210' rx='20' ry='5' fill='#000'/><rect x='185' y='230' width='30' height='80' fill='#ffdab9'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の体に白い腹部を持つ女性生命体。長い黒い髪と優雅な姿勢が特徴であり、目は大きく、優しい表情をしている。手はピンク色であり、足は短めのピンク色の靴を履いている。",
-      "reason": "イヴは外見的により柔らかくて美しい特徴を求める進化を遂げた。",
-      "thought": "『穏やかな愛』"
+      "appearance": "イヴは柔らかな肌と明るい色の衣装を身にまとい、優美な体つきと華やかな装飾が特徴です。頭には煌めく宝石のような飾りがあります。",
+      "reason": "進化の過程で、イヴはより美しさと優雅さを追求して、繊細な模様と色彩を身に纏うようになりました。",
+      "thought": "『愛と美しさを守る』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='lightblue'/> <ellipse cx='200' cy='160' rx='40' ry='60' fill='white'/> <ellipse cx='170' cy='150' rx='10' ry='20' fill='black'/> <ellipse cx='230' cy='150' rx='10' ry='20' fill='black'/> <polygon points='190,100 210,100 200,90' fill='black'/> <rect x='180' y='290' width='40' height='20' fill='lightblue'/> <line x1='180' y1='290' x2='220' y2='290' stroke='black' stroke-width='3'/> <line x1='190' y1='310' x2='190' y2='330' stroke='black' stroke-width='3'/> <line x1='210' y1='310' x2='210' y2='330' stroke='black' stroke-width='3'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='200' fill='#4682b4'/><ellipse cx='200' cy='190' rx='90' ry='120' fill='#b0c4de'/><path d='M170,220 Q200,240 230,220 Q200,260 170,220 Z' fill='#a9a9a9'/><path d='M170,220 Q200,260 230,220 Q200,280 170,220 Z' fill='#778899'/><polygon points='160,175 220,175 200,155' fill='#4682b4'/><polygon points='175,190 220,190 200,230' fill='#778899'/><ellipse cx='180' cy='160' rx='10' ry='5' fill='#000'/><ellipse cx='220' cy='160' rx='10' ry='5' fill='#000'/><ellipse cx='200' cy='210' rx='20' ry='5' fill='#000'/><line x1='185' y1='230' x2='215' y2='230' stroke='#778899' stroke-width='8'/></svg>",
     "report": {
-      "appearance": "アダムは、青色の体に白い腹部を持つ男性生命体。強靱な体つきと毅然とした表情が特徴であり、目は鋭く、力強い姿勢をしている。手は青色であり、足は頑丈な青色のブーツを履いている。",
-      "reason": "アダムはより力強く逞しい特徴を求める進化を遂げた。",
-      "thought": "『力強い意志』"
+      "appearance": "アダムは頑丈な体つきと深い青色の外見が特徴で、力強さと安定感を持っています。体にはシンプルながら力強い筋肉が描かれています。",
+      "reason": "進化の過程で、アダムはより力強さと安定感を求め、深い青色と堅牢な体躯を身にまとうようになりました。",
+      "thought": "『力と誇りを胸に』"
     },
     "name": "アダム",
     "gender": "男性"
