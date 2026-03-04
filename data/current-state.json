@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,0,0);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,255,0);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><circle cx='150' cy='150' r='25' fill='white' /><circle cx='250' cy='150' r='25' fill='white' /><ellipse cx='200' cy='250' rx='100' ry='50' fill='white' /><line x1='180' y1='240' x2='160' y2='220' stroke='black' stroke-width='3' /><line x1='220' y1='240' x2='240' y2='220' stroke='black' stroke-width='3' /><rect x='180' y='280' width='40' height='10' fill='black' /><rect x='180' y='290' width='10' height='30' fill='black' /><rect x='230' y='290' width='10' height='30' fill='black' /><path d='M150 180 Q200 120 250 180' stroke='black' fill='none' stroke-width='3' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='100' rx='120' ry='150' fill='#ffcccb'/><rect x='160' y='250' width='80' height='100' fill='#ffcccb'/><path d='M150 100 L120 120 L120 180 L150 200 L250 200 L280 180 L280 120 L250 100 Z' fill='#ffd700'/><circle cx='180' cy='160' r='10' fill='#000'/><circle cx='220' cy='160' r='10' fill='#000'/><polygon points='180,180 200,180 190,190' fill='#fff'/><polygon points='210,180 230,180 220,190' fill='#fff'/><ellipse cx='200' cy='250' rx='20' ry='10' fill='#000'/></svg>",
     "report": {
-      "appearance": "イヴは、鮮やかな赤と黄色のグラデーションが描かれた円形の体を持ち、白い目と黒い巻き毛のような髪、白い服装を身にまとっています。下半身は白いワンピースで覆われ、優雅で柔らかな雰囲気を醸し出しています。",
-      "reason": "生態系の変化により、イヴは新たな環境に適応するために進化しました。赤と黄色の色合いは、新しい環境での警戒心と柔軟性を表しています。",
-      "thought": "『奇麗な色彩に囲まれて、新しい未来を楽しみます』"
+      "appearance": "イヴは、ピンク色の柔らかな毛並みを持ち、大きな円形の体に短い足がついています。顔には明るい黄色の模様があり、優しい表情をしています。",
+      "reason": "生態系の変化により、環境への適応を目的とした進化が起こり、柔らかな毛並みや優しい外見が生存に有利となったため。",
+      "thought": "『優しさと包容力』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><radialGradient id='gradB' cx='50%' cy='50%' r='50%' fx='50%' fy='50%'><stop offset='0%' style='stop-color:rgb(0,0,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,255,255);stop-opacity:1' /></radialGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradB)' /><rect x='175' y='150' width='50' height='30' fill='white' /><rect x='150' y='180' width='100' height='20' fill='white' /><rect x='165' y='210' width='70' height='20' fill='white' /><line x1='180' y1='240' x2='160' y2='220' stroke='black' stroke-width='3' /><line x1='220' y1='240' x2='240' y2='220' stroke='black' stroke-width='3' /><polygon points='200,150 210,130 190,130' fill='black' /><path d='M150 180 Q200 120 250 180' stroke='black' fill='none' stroke-width='3' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='160' y='100' width='80' height='150' fill='#4682b4'/><path d='M200 250 Q190 300 180 250 Q170 300 160 250 Q190 260 200 250 Z' fill='#000080'/><path d='M160 250 Q150 300 140 250 Q130 300 120 250 Q150 260 160 250 Z' fill='#000080'/><rect x='180' y='250' width='40' height='100' fill='#4682b4'/><polygon points='160,250 200,250 180,350' fill='#4682b4'/><polygon points='200,250 240,250 220,350' fill='#4682b4'/><ellipse cx='200' cy='100' rx='20' ry='10' fill='#000'/></svg>",
     "report": {
-      "appearance": "アダムは、青と水色のグラデーションが描かれた円形の体を持ち、白い長方形の服と青い目、黒髪が特徴です。白い服装はエレガントな雰囲気を醸し出しており、全体的に穏やかな印象を与えます。",
-      "reason": "環境の変化により、アダムは進化し、より新しい環境に適応するための能力を獲得しました。青と水色のグラデーションは知識と冷静な判断力を象徴しています。",
-      "thought": "『青い空の下で、未来への道を歩んでいきます』"
+      "appearance": "アダムは、青い体に筋肉質な腕と長い脚を持つ姿をしています。顔には濃い青色の模様があり、力強い表情をしています。",
+      "reason": "過酷な環境での生存競争において、筋肉質で力強い体つきが必要とされるようになり、自然淘汰によって進化した結果。",
+      "thought": "『力強さと勇気』"
     },
     "name": "アダム",
     "gender": "男性"
