@@ -27260,5 +27260,28 @@
       "gender": "男性"
     },
     "timestamp": 1772628576051
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='100' rx='120' ry='150' fill='#ffcccb'/><rect x='160' y='250' width='80' height='100' fill='#ffcccb'/><path d='M150 100 L120 120 L120 180 L150 200 L250 200 L280 180 L280 120 L250 100 Z' fill='#ffd700'/><circle cx='180' cy='160' r='10' fill='#000'/><circle cx='220' cy='160' r='10' fill='#000'/><polygon points='180,180 200,180 190,190' fill='#fff'/><polygon points='210,180 230,180 220,190' fill='#fff'/><ellipse cx='200' cy='250' rx='20' ry='10' fill='#000'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな毛並みを持ち、大きな円形の体に短い足がついています。顔には明るい黄色の模様があり、優しい表情をしています。",
+        "reason": "生態系の変化により、環境への適応を目的とした進化が起こり、柔らかな毛並みや優しい外見が生存に有利となったため。",
+        "thought": "『優しさと包容力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='160' y='100' width='80' height='150' fill='#4682b4'/><path d='M200 250 Q190 300 180 250 Q170 300 160 250 Q190 260 200 250 Z' fill='#000080'/><path d='M160 250 Q150 300 140 250 Q130 300 120 250 Q150 260 160 250 Z' fill='#000080'/><rect x='180' y='250' width='40' height='100' fill='#4682b4'/><polygon points='160,250 200,250 180,350' fill='#4682b4'/><polygon points='200,250 240,250 220,350' fill='#4682b4'/><ellipse cx='200' cy='100' rx='20' ry='10' fill='#000'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い体に筋肉質な腕と長い脚を持つ姿をしています。顔には濃い青色の模様があり、力強い表情をしています。",
+        "reason": "過酷な環境での生存競争において、筋肉質で力強い体つきが必要とされるようになり、自然淘汰によって進化した結果。",
+        "thought": "『力強さと勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1772649759666
   }
 ]
