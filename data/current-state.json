@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='180' rx='80' ry='110' fill='#ff9999' /><polygon points='150,230 250,230 200,300' fill='#ff6666' /><circle cx='150' cy='170' r='10' fill='#ffffff' /><circle cx='250' cy='170' r='10' fill='#ffffff' /><path d='M180,230 Q200,250 220,230' fill='none' stroke='#ff6666' stroke-width='5' /><path d='M180,240 Q200,280 220,240' fill='none' stroke='#ff6666' stroke-width='5' /><path d='M160,150 Q140,165 150,190 Q155,180 160,170' fill='none' stroke='#ffffff' stroke-width='3' /><path d='M240,150 Q260,165 250,190 Q245,180 240,170' fill='none' stroke='#ffffff' stroke-width='3' /><ellipse cx='180' cy='160' rx='8' ry='15' fill='#ff9999' /><ellipse cx='220' cy='160' rx='8' ry='15' fill='#ff9999' /><path d='M200,180 Q190,190 200,200 Q210,190 200,180' fill='none' stroke='#ff6666' stroke-width='3' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='200' width='200' height='150' fill='#ffcccb'/><ellipse cx='200' cy='150' rx='100' ry='130' fill='#ffcccb'/><polygon points='150,250 120,350 200,300' fill='#ffd700'/><polygon points='250,250 280,350 200,300' fill='#ffd700'/><polygon points='180,290 200,260 220,290' fill='#000'/><circle cx='160' cy='130' r='10' fill='#000'/><circle cx='240' cy='130' r='10' fill='#000'/><rect x='170' y='180' width='60' height='20' fill='#000'/><rect x='170' y='210' width='60' height='20' fill='#000'/><path d='M180 135 q-20 20 0 40 q20 -20 0 -40' fill='none' stroke='#000' stroke-width='2'/><path d='M220 135 q20 20 0 40 q-20 -20 0 -40' fill='none' stroke='#000' stroke-width='2'/></svg>",
     "report": {
-      "appearance": "イヴはピンク色の体と赤色の頭部を持ち、卵形の顔と長い耳が特徴。手足は短く、赤いリボンのような模様がある。",
-      "reason": "進化の過程で、イヴはバランスのとれた体と独特の模様を獲得し、より美しく進化した。",
-      "thought": "『宇宙の愛と調和』"
+      "appearance": "イヴは、ピンク色の柔らかい皮膚を持ち、体は優雅な曲線で形成されています。頭部には金色の髪と光る角があり、大きな黒い目と華やかな口元を持っています。四肢は力強く、黒い斑点模様が特徴です。しっぽはしなやかで長く、美しい曲線を描いています。",
+      "reason": "イヴは内なる美しさと力強さを両立させる進化を遂げました。環境への適応と生存競争への対処に役立つ特徴が備わりました。",
+      "thought": "『優美なる力』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='200' width='100' height='160' fill='#87ceeb' /><rect x='150' y='200' width='100' height='50' fill='#4682b4' /><path d='M150,200 Q200,150 250,200' fill='none' stroke='#4682b4' stroke-width='10' /><rect x='160' y='210' width='20' height='120' fill='#87ceeb' /><rect x='220' y='210' width='20' height='120' fill='#87ceeb' /><circle cx='180' cy='220' r='10' fill='#ffffff' /><circle cx='220' cy='220' r='10' fill='#ffffff' /><ellipse cx='200' cy='320' rx='40' ry='20' fill='#4682b4' /><polygon points='190,320 200,340 210,320' fill='#87ceeb' /><ellipse cx='200' cy='180' rx='20' ry='10' fill='#87ceeb' /><circle cx='193' cy='175' r='5' fill='#4682b4' /><circle cx='207' cy='175' r='5' fill='#4682b4' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='200' width='200' height='150' fill='#87ceeb'/><ellipse cx='200' cy='150' rx='100' ry='130' fill='#87ceeb'/><polygon points='150,250 120,350 200,300' fill='#b0e0e6'/><polygon points='250,250 280,350 200,300' fill='#b0e0e6'/><polygon points='180,290 200,260 220,290' fill='#000'/><circle cx='160' cy='130' r='10' fill='#000'/><circle cx='240' cy='130' r='10' fill='#000'/><rect x='170' y='180' width='60' height='20' fill='#000'/><rect x='170' y='210' width='60' height='20' fill='#000'/><path d='M180 135 q-20 20 0 40 q20 -20 0 -40' fill='none' stroke='#000' stroke-width='2'/><path d='M220 135 q20 20 0 40 q-20 -20 0 -40' fill='none' stroke='#000' stroke-width='2'/></svg>",
     "report": {
-      "appearance": "アダムは青色の体と濃い青色の頭部を持ち、四角い形状と筋肉質な体つきが特徴。腕と脚は太く短い。",
-      "reason": "進化の過程で、アダムは力強くたくましい外見を得て、生存競争において優位性を発揮するために進化した。",
-      "thought": "『自然と調和』"
+      "appearance": "アダムは、青色の滑らかな皮膚を持ち、体は力強いシルエットを持っています。頭部には氷のような角があり、鋭い視線と凛々しい口元を持っています。四肢はしなやかで、青と水色の斑点模様が特徴です。しっぽは太くてしっかりとした曲線を描いています。",
+      "reason": "アダムは強靭な外見と知性を兼ね備えた進化を経験しました。狩りや知恵の活用に適した特性が進化の一環として生まれました。",
+      "thought": "『氷の知恵』"
     },
     "name": "アダム",
     "gender": "男性"
