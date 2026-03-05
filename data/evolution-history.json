@@ -27306,5 +27306,28 @@
       "gender": "男性"
     },
     "timestamp": 1772675409382
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='lightpink' /><circle cx='200' cy='150' r='80' fill='pink' /><ellipse cx='150' cy='250' rx='50' ry='30' fill='pink' /><ellipse cx='250' cy='250' rx='50' ry='30' fill='pink' /><path d='M200,230 Q160,250 200,270 Q240,250 200,230 Z' fill='pink' /><ellipse cx='175' cy='140' rx='10' ry='5' fill='black' /><ellipse cx='225' cy='140' rx='10' ry='5' fill='black' /><ellipse cx='180' cy='150' rx='5' ry='10' fill='black' /><ellipse cx='220' cy='150' rx='5' ry='10' fill='black' /><polygon points='180,280 200,300 220,280' fill='black' /><line x1='180' y1='200' x2='200' y2='220' stroke='black' stroke-width='3' /><line x1='220' y1='220' x2='200' y2='200' stroke='black' stroke-width='3' /><line x1='130' y1='310' x2='170' y2='330' stroke='black' stroke-width='3' /><line x1='270' y1='310' x2='230' y2='330' stroke='black' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持つ女性の姿をしています。頭部には特徴的な角があり、愛らしい表情をしています。体は丸みを帯び、手足はしなやかなラインで描かれています。",
+        "reason": "イヴは進化することで、より優美で柔らかな特徴を身に着けることで、環境への適応性を高めた。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='lightblue' /><circle cx='200' cy='150' r='80' fill='skyblue' /><ellipse cx='150' cy='250' rx='50' ry='30' fill='skyblue' /><ellipse cx='250' cy='250' rx='50' ry='30' fill='skyblue' /><path d='M200,230 Q160,250 200,270 Q240,250 200,230 Z' fill='skyblue' /><line x1='175' y1='140' x2='185' y2='150' stroke='black' stroke-width='3' /><line x1='215' y1='140' x2='225' y2='150' stroke='black' stroke-width='3' /><line x1='200' y1='200' x2='180' y2='220' stroke='black' stroke-width='3' /><line x1='200' y1='200' x2='220' y2='220' stroke='black' stroke-width='3' /><polygon points='180,280 200,300 220,280' fill='black' /><line x1='130' y1='310' x2='170' y2='330' stroke='black' stroke-width='3' /><line x1='270' y1='310' x2='230' y2='330' stroke='black' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い色彩の肌を持つ男性の姿をしています。頭部には特徴的な角があり、凛々しい表情をしています。体つきは引き締まり、力強い手足が特徴です。",
+        "reason": "アダムは進化することで、より強靭な特徴を身に着け、狩猟や力仕事において有利になるために進化した。",
+        "thought": "『力と勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1772693131202
   }
 ]
