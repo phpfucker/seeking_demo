@@ -27398,5 +27398,28 @@
       "gender": "男性"
     },
     "timestamp": 1772761874842
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffbdd2' /><rect x='125' y='240' width='150' height='100' fill='#e877b2' /><ellipse cx='150' cy='180' rx='20' ry='40' fill='#ffbdd2' /><ellipse cx='250' cy='180' rx='20' ry='40' fill='#ffbdd2' /><path d='M180 240 Q200 300 220 240' stroke='#e877b2' stroke-width='2' fill='none' /><path d='M260 240 Q280 300 300 240' stroke='#e877b2' stroke-width='2' fill='none' /><circle cx='180' cy='180' r='5' fill='#000' /><circle cx='220' cy='180' r='5' fill='#000' /><line x1='170' y1='130' x2='190' y2='130' stroke='#000' stroke-width='3' /><line x1='210' y1='130' x2='230' y2='130' stroke='#000' stroke-width='3' /><polygon points='190,200 210,200 200,220' fill='#000' /><text x='200' y='320' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかい皮膚を持ち、半球状の顔に大きな瞳を持つ女性型生命体です。上半身は細く、下半身はしっかりとした脚が特徴です。背中には短いふわふわのしっぽがあります。",
+        "reason": "イヴは自然と調和した美しい姿を持つように進化しました。",
+        "thought": "『自然への愛』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#9fc1ff' /><rect x='125' y='240' width='150' height='100' fill='#5b8ee9' /><ellipse cx='150' cy='180' rx='20' ry='40' fill='#9fc1ff' /><ellipse cx='250' cy='180' rx='20' ry='40' fill='#9fc1ff' /><path d='M180 240 Q200 300 220 240' stroke='#5b8ee9' stroke-width='2' fill='none' /><path d='M260 240 Q280 300 300 240' stroke='#5b8ee9' stroke-width='2' fill='none' /><circle cx='180' cy='180' r='5' fill='#000' /><circle cx='220' cy='180' r='5' fill='#000' /><line x1='170' y1='130' x2='190' y2='130' stroke='#000' stroke-width='3' /><line x1='210' y1='130' x2='230' y2='130' stroke='#000' stroke-width='3' /><polygon points='190,200 210,200 200,220' fill='#000' /><text x='200' y='320' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌と鋭い目を持つ男性型生命体で、筋肉質な上半身としっかりとした下半身が特徴です。背中には短い尖った角が生えています。",
+        "reason": "アダムは強靭な姿を持ち、狩りや防衛に適した進化を遂げました。",
+        "thought": "『力強さと勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1772779304160
   }
 ]
