@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffcc99' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='#ffc0cb' /><circle cx='160' cy='160' r='10' fill='#000' /><circle cx='240' cy='160' r='10' fill='#000' /><path d='M180 240 Q200 260 220 240' stroke='#000' stroke-width='3' fill='none' /><path d='M160 300 Q200 320 240 300' stroke='#000' stroke-width='3' fill='none' /><path d='M160 220 Q180 200 200 220 Q220 240 240 220' stroke='#000' stroke-width='3' fill='none' /><polygon points='180,180 190,170 170,170' fill='#fff' /><line x1='170' y1='170' x2='190' y2='170' stroke='#000' stroke-width='2' /><line x1='180' y1='180' x2='180' y2='190' stroke='#000' stroke-width='2' /><text x='130' y='350' font-family='Verdana' font-size='20' fill='#000'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#ff9baf' /><ellipse cx='200' cy='220' rx='120' ry='160' fill='#ff7f9c' /><path d='M150 220 Q200 320 250 220 Q200 260 150 220 Z' fill='#ff5f7a' /><path d='M170 220 Q200 270 230 220 Q200 250 170 220 Z' fill='#ff3f5e' /><circle cx='160' cy='190' r='10' fill='#fff' /><circle cx='240' cy='190' r='10' fill='#fff' /><rect x='180' y='240' width='40' height='60' fill='#ff7f9c' /><rect x='160' y='300' width='80' height='30' fill='#ff7f9c' /><path d='M140 230 Q180 180 220 230 Q180 270 140 230 Z' fill='#ff5f7a' /><path d='M180 250 Q200 280 220 250 Q200 220 180 250 Z' fill='#ff3f5e' /><rect x='180' y='300' width='40' height='30' fill='#ff5f7a' /><ellipse cx='200' cy='320' rx='20' ry='10' fill='#ff9baf' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の楕円形の体に、顔の中央に二つの黒い目を持ち、薄いピンク色の唇を持つ女性の姿をしています。頭部には暗いピンク色の髪があり、手と足は細長い形状です。背中には白い三角形の模様があります。",
-      "reason": "イヴは自然界の変化により、より柔らかく繊細な特徴を持つように進化しました。",
-      "thought": "『調和』"
+      "appearance": "イヴは、ピンクと赤色の柔らかい体と、グレーの長い尾を持つ女性の姿をしています。体には白い装飾があり、優雅な雰囲気を醸し出しています。",
+      "reason": "イヴは、自然界の植物や花からインスパイアされた色彩と模様を持つように進化しました。女性らしい美しさを際立たせるためです。",
+      "thought": "『命の美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#87CEFA' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='#f0e68c' /><circle cx='160' cy='160' r='10' fill='#000' /><circle cx='240' cy='160' r='10' fill='#000' /><path d='M180 240 Q200 260 220 240' stroke='#000' stroke-width='3' fill='none' /><path d='M160 300 Q200 320 240 300' stroke='#000' stroke-width='3' fill='none' /><path d='M160 220 Q180 200 200 220 Q220 240 240 220' stroke='#000' stroke-width='3' fill='none' /><polygon points='220,180 230,170 210,170' fill='#fff' /><line x1='210' y1='170' x2='230' y2='170' stroke='#000' stroke-width='2' /><line x1='220' y1='180' x2='220' y2='190' stroke='#000' stroke-width='2' /><text x='130' y='350' font-family='Verdana' font-size='20' fill='#000'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#9bc1ff' /><ellipse cx='200' cy='220' rx='120' ry='160' fill='#7fa7ff' /><path d='M150 220 Q200 320 250 220 Q200 260 150 220 Z' fill='#5f8cff' /><path d='M170 220 Q200 270 230 220 Q200 250 170 220 Z' fill='#3f76ff' /><circle cx='160' cy='190' r='10' fill='#fff' /><circle cx='240' cy='190' r='10' fill='#fff' /><rect x='180' y='240' width='40' height='60' fill='#7fa7ff' /><rect x='160' y='300' width='80' height='30' fill='#7fa7ff' /><path d='M140 230 Q180 180 220 230 Q180 270 140 230 Z' fill='#5f8cff' /><path d='M180 250 Q200 280 220 250 Q200 220 180 250 Z' fill='#3f76ff' /><rect x='180' y='300' width='40' height='30' fill='#5f8cff' /><polygon points='190,320 210,320 220,330 200,340 180,330' fill='#9bc1ff' /></svg>",
     "report": {
-      "appearance": "アダムは、青色の楕円形の体に、顔の中央に二つの黒い目と輝く黄色の角を持ち、黄色い唇を持つ男性の姿をしています。頭部には明るい黄色の髪があり、手と足はがっしりとした形状です。背中には白い三角形の模様があります。",
-      "reason": "アダムは適応の必要性により、より強靭で逞しい特徴を持つように進化しました。",
-      "thought": "『勇気』"
+      "appearance": "アダムは、青と水色の色合いを持つ男性の姿をしています。体には白い斑点があり、涼やかな印象を与えます。",
+      "reason": "アダムは、空と海からインスパイアされた色調と模様を身にまといました。男性らしい爽やかさを表現するためです。",
+      "thought": "『自由な風』"
     },
     "name": "アダム",
     "gender": "男性"

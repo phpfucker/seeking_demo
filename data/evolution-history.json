@@ -27421,5 +27421,28 @@
       "gender": "男性"
     },
     "timestamp": 1772779304160
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffcc99' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='#ffc0cb' /><circle cx='160' cy='160' r='10' fill='#000' /><circle cx='240' cy='160' r='10' fill='#000' /><path d='M180 240 Q200 260 220 240' stroke='#000' stroke-width='3' fill='none' /><path d='M160 300 Q200 320 240 300' stroke='#000' stroke-width='3' fill='none' /><path d='M160 220 Q180 200 200 220 Q220 240 240 220' stroke='#000' stroke-width='3' fill='none' /><polygon points='180,180 190,170 170,170' fill='#fff' /><line x1='170' y1='170' x2='190' y2='170' stroke='#000' stroke-width='2' /><line x1='180' y1='180' x2='180' y2='190' stroke='#000' stroke-width='2' /><text x='130' y='350' font-family='Verdana' font-size='20' fill='#000'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の楕円形の体に、顔の中央に二つの黒い目を持ち、薄いピンク色の唇を持つ女性の姿をしています。頭部には暗いピンク色の髪があり、手と足は細長い形状です。背中には白い三角形の模様があります。",
+        "reason": "イヴは自然界の変化により、より柔らかく繊細な特徴を持つように進化しました。",
+        "thought": "『調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#87CEFA' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='#f0e68c' /><circle cx='160' cy='160' r='10' fill='#000' /><circle cx='240' cy='160' r='10' fill='#000' /><path d='M180 240 Q200 260 220 240' stroke='#000' stroke-width='3' fill='none' /><path d='M160 300 Q200 320 240 300' stroke='#000' stroke-width='3' fill='none' /><path d='M160 220 Q180 200 200 220 Q220 240 240 220' stroke='#000' stroke-width='3' fill='none' /><polygon points='220,180 230,170 210,170' fill='#fff' /><line x1='210' y1='170' x2='230' y2='170' stroke='#000' stroke-width='2' /><line x1='220' y1='180' x2='220' y2='190' stroke='#000' stroke-width='2' /><text x='130' y='350' font-family='Verdana' font-size='20' fill='#000'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青色の楕円形の体に、顔の中央に二つの黒い目と輝く黄色の角を持ち、黄色い唇を持つ男性の姿をしています。頭部には明るい黄色の髪があり、手と足はがっしりとした形状です。背中には白い三角形の模様があります。",
+        "reason": "アダムは適応の必要性により、より強靭で逞しい特徴を持つように進化しました。",
+        "thought": "『勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1772801251226
   }
 ]
