@@ -27490,5 +27490,28 @@
       "gender": "男性"
     },
     "timestamp": 1772847812803
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,219,185);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,192,203);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradA)' /><ellipse cx='200' cy='200' rx='100' ry='150' fill='rgb(255,219,185)' /><path d='M150,250 Q200,100 250,250' fill='none' stroke='black' stroke-width='2' /><circle cx='150' cy='180' r='10' fill='black' /><circle cx='250' cy='180' r='10' fill='black' /><path d='M180,280 Q200,310 220,280' fill='none' stroke='black' stroke-width='2' /><polyline points='180,300 185,290 215,290 220,300' fill='none' stroke='black' stroke-width='2' /><path d='M180,230 Q200,200 220,230' fill='none' stroke='black' stroke-width='2' /><path d='M180,230 Q150,190 120,230' fill='none' stroke='black' stroke-width='2' /><path d='M120,230 Q150,270 180,230' fill='none' stroke='black' stroke-width='2' /><polygon points='200,210 220,230 200,250 180,230' fill='rgb(255,192,203)' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとクリーム色のグラデーションが美しい女性型生命体です。全身が柔らかい曲線で描かれ、優美な体つきと角のような飾りが特徴です。顔には大きな瞳と鼻を持ち、しなやかなしっぽが優雅に翻る姿が特徴です。",
+        "reason": "進化の過程で、イヴはより美しく優雅な姿を手に入れることで、周囲の生物との調和を図るために進化しました。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(173,216,230);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(144,238,144);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradB)' /><circle cx='200' cy='150' r='80' fill='rgb(173,216,230)' /><path d='M170,210 Q200,260 230,210' fill='none' stroke='black' stroke-width='2' /><line x1='185' y1='220' x2='185' y2='250' stroke='black' stroke-width='2' /><line x1='215' y1='220' x2='215' y2='250' stroke='black' stroke-width='2' /><circle cx='180' cy='150' r='15' fill='black' /><circle cx='220' cy='150' r='15' fill='black' /><line x1='180' y1='180' x2='220' y2='180' stroke='black' stroke-width='2' /><path d='M190,130 Q200,100 210,130' fill='none' stroke='black' stroke-width='2' /><polygon points='180,150 200,130 220,150' fill='rgb(144,238,144)' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と緑のグラデーションが美しい男性型生命体です。丸みを帯びた体と優しい表情が特徴で、全体的に柔らかな印象を与えます。手足がしなやかで、頭部には大きな目と口があります。",
+        "reason": "アダムは、より穏やかで包容力のある外見を持つことで、他の生物との協調を促進し、進化の過程で生存競争に勝利するために進化しました。",
+        "thought": "『平和と調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1772865318576
   }
 ]
