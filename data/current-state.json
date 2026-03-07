@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99'/><ellipse cx='200' cy='160' rx='120' ry='80' fill='#ffd699'/><path d='M150 220 Q200 300 250 220 Q200 250 150 220' fill='#ff9966'/><path d='M160 180 Q200 240 240 180 Q200 200 160 180' fill='#ff9966'/><path d='M180 160 Q200 170 220 160 Q200 180 180 160' fill='#ff9966'/><circle cx='180' cy='160' r='10' fill='black'/><circle cx='220' cy='160' r='10' fill='black'/><polygon points='160,160 150,200 180,200' fill='#ffcc99'/><polygon points='240,160 250,200 220,200' fill='#ffcc99'/><ellipse cx='200' cy='250' rx='40' ry='20' fill='#ffcc99'/><line x1='160' y1='250' x2='240' y2='250' stroke='black' stroke-width='2'/><rect x='160' y='250' width='80' height='20' fill='#ff9966'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,219,185);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,192,203);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradA)' /><ellipse cx='200' cy='200' rx='100' ry='150' fill='rgb(255,219,185)' /><path d='M150,250 Q200,100 250,250' fill='none' stroke='black' stroke-width='2' /><circle cx='150' cy='180' r='10' fill='black' /><circle cx='250' cy='180' r='10' fill='black' /><path d='M180,280 Q200,310 220,280' fill='none' stroke='black' stroke-width='2' /><polyline points='180,300 185,290 215,290 220,300' fill='none' stroke='black' stroke-width='2' /><path d='M180,230 Q200,200 220,230' fill='none' stroke='black' stroke-width='2' /><path d='M180,230 Q150,190 120,230' fill='none' stroke='black' stroke-width='2' /><path d='M120,230 Q150,270 180,230' fill='none' stroke='black' stroke-width='2' /><polygon points='200,210 220,230 200,250 180,230' fill='rgb(255,192,203)' /></svg>",
     "report": {
-      "appearance": "イヴは、橙色の柔らかな皮膚を持ち、大きな円形の頭部と小さな黒い目を持つクリーチャーです。頭部からは複数の曲線的な触角が生え、瞬きするとキラキラ輝きます。体は楕円形で、手足としっぽが短く丸い形状です。手足には爪があり、しっぽの先端には小さな炎が揺れています。",
-      "reason": "イヴは環境の変化により、熱帯の果物から栄養を摂取するのに適応したため、柔らかい橙色の皮膚と甘い果物を見つけるための触角が進化しました。",
-      "thought": "『果実の香りに導かれて』"
+      "appearance": "イヴは、ピンクとクリーム色のグラデーションが美しい女性型生命体です。全身が柔らかい曲線で描かれ、優美な体つきと角のような飾りが特徴です。顔には大きな瞳と鼻を持ち、しなやかなしっぽが優雅に翻る姿が特徴です。",
+      "reason": "進化の過程で、イヴはより美しく優雅な姿を手に入れることで、周囲の生物との調和を図るために進化しました。",
+      "thought": "『愛と美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='50' width='100' height='150' fill='#99ccff'/><polygon points='150,200 200,250 250,200' fill='#80aaff'/><circle cx='200' cy='80' r='30' fill='#99ccff'/><path d='M175 200 Q200 230 225 200 Q200 220 175 200' fill='#80aaff'/><path d='M170 210 Q200 240 230 210 Q200 220 170 210' fill='#80aaff'/><circle cx='170' cy='205' r='5' fill='black'/><circle cx='230' cy='205' r='5' fill='black'/><ellipse cx='200' cy='250' rx='20' ry='15' fill='#99ccff'/><line x1='180' y1='250' x2='220' y2='250' stroke='black' stroke-width='2'/><polygon points='160,200 150,250 180,250' fill='#99ccff'/><polygon points='240,200 250,250 220,250' fill='#99ccff'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(173,216,230);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(144,238,144);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradB)' /><circle cx='200' cy='150' r='80' fill='rgb(173,216,230)' /><path d='M170,210 Q200,260 230,210' fill='none' stroke='black' stroke-width='2' /><line x1='185' y1='220' x2='185' y2='250' stroke='black' stroke-width='2' /><line x1='215' y1='220' x2='215' y2='250' stroke='black' stroke-width='2' /><circle cx='180' cy='150' r='15' fill='black' /><circle cx='220' cy='150' r='15' fill='black' /><line x1='180' y1='180' x2='220' y2='180' stroke='black' stroke-width='2' /><path d='M190,130 Q200,100 210,130' fill='none' stroke='black' stroke-width='2' /><polygon points='180,150 200,130 220,150' fill='rgb(144,238,144)' /></svg>",
     "report": {
-      "appearance": "アダムは、青い体色と四角い頭部、大きな丸い目を持つ生物です。頭部には短い青い角が2本生え、笑顔を浮かべています。体は四角形で、手足は三角形の形状をしており、青い爪が付いています。しっぽは太く短く、先端には青い宝石が輝いています。",
-      "reason": "アダムは氷河地帯の厳しい環境で生存するため、青い体色は氷を反射して体温を保ち、角は氷を割る際に役立つように進化しました。",
-      "thought": "『氷の中に秘められた輝き』"
+      "appearance": "アダムは、青と緑のグラデーションが美しい男性型生命体です。丸みを帯びた体と優しい表情が特徴で、全体的に柔らかな印象を与えます。手足がしなやかで、頭部には大きな目と口があります。",
+      "reason": "アダムは、より穏やかで包容力のある外見を持つことで、他の生物との協調を促進し、進化の過程で生存競争に勝利するために進化しました。",
+      "thought": "『平和と調和』"
     },
     "name": "アダム",
     "gender": "男性"
