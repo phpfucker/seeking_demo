@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink'/><ellipse cx='200' cy='150' rx='80' ry='120' fill='#FF8C94'/><path d='M150 250 L200 300 L250 250 Q200 275 150 250' fill='none' stroke='black'/><polygon points='170,180 180,180 175,190' fill='#FF8C94'/><polygon points='220,180 230,180 225,190' fill='#FF8C94'/><rect x='190' y='250' width='20' height='60' fill='#FF8C94'/><circle cx='180' cy='150' r='10' fill='black'/><circle cx='220' cy='150' r='10' fill='black'/><line x1='180' y1='150' x2='220' y2='150' stroke='black'/><polygon points='180,160 190,160 185,165' fill='black'/><polygon points='220,160 230,160 225,165' fill='black'/><path d='M160 130 Q200 50 240 130' fill='none' stroke='black'/><path d='M240 130 Q260 180 260 230' fill='none' stroke='black'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g>",
     "report": {
-      "appearance": "イヴはピンク色の体と、大きな目を持ち、薄いピンク色の髪の毛が特徴的な女性の生命体です。目元には黒い瞳があり、柔らかな表情をしています。体の下部にはピンク色の装飾が施され、背中には大きな羽が生えています。",
-      "reason": "イヴは新たな飛行能力を身につけ、より広い領域を探索するために進化しました。",
-      "thought": "『自由な空を飛びたい』"
+      "appearance": "イヴは、羽毛のような柔らかい翼を持ち、美しい花のような模様が体に広がる女性。頭部には優雅な角が生え、瞳は深い海のような輝きを放つ。四肢には葉っぱのような模様が施され、全体的に優雅で神秘的な雰囲気を醸し出している。",
+      "reason": "植物界の美しさと生命力を取り入れ、進化が花と羽毛の融合によって起こった。",
+      "thought": "『自然の美しさを守りたい』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightblue'/><ellipse cx='200' cy='150' rx='80' ry='120' fill='#6CA8FF'/><rect x='170' y='250' width='60' height='20' fill='#6CA8FF'/><polygon points='180,180 190,180 185,190' fill='#6CA8FF'/><polygon points='210,180 220,180 215,190' fill='#6CA8FF'/><circle cx='180' cy='150' r='10' fill='black'/><circle cx='220' cy='150' r='10' fill='black'/><line x1='180' y1='150' x2='220' y2='150' stroke='black'/><polygon points='180,160 190,160 185,165' fill='black'/><polygon points='220,160 230,160 225,165' fill='black'/><path d='M160 130 Q200 50 240 130' fill='none' stroke='black'/><path d='M240 130 Q260 180 260 230' fill='none' stroke='black'/><path d='M190 250 Q200 220 210 250' fill='none' stroke='#6CA8FF'/><path d='M180 260 Q200 240 220 260' fill='none' stroke='#6CA8FF'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g id='adam'>",
     "report": {
-      "appearance": "アダムは青色の体と鋭い目つき、青い体毛が特徴的な男性の生命体です。体の下部には青い装飾があり、背中には大きな羽が生えています。さらに、四肢には青い鱗状の模様が広がっています。",
-      "reason": "アダムは水中での活動性を向上させ、新たな狩猟戦略を獲得するために進化しました。",
-      "thought": "『大海原を自在に泳ぎたい』"
+      "appearance": "アダムは、岩や鉱石のような堅固な肌と、炎のような赤い炎の模様が特徴的な男性。頭部には鋭い角が生え、黒い瞳は闇をも貫くような強さを持つ。四肢は力強く筋肉質で、全体的に威厳と力強さを感じさせる。",
+      "reason": "地球の力強さと不屈の意志を象徴し、進化が岩と炎の融合によって起こった。",
+      "thought": "『力強く立ち向かう』"
     },
     "name": "アダム",
     "gender": "男性"
