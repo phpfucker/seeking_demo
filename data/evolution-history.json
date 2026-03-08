@@ -27559,5 +27559,28 @@
       "gender": "男性"
     },
     "timestamp": 1772908123870
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff7eb9' /><ellipse cx='170' cy='180' rx='30' ry='20' fill='#ffd0d1' /><ellipse cx='230' cy='180' rx='30' ry='20' fill='#ffd0d1' /><path d='M200,220 Q190,250 200,280 Q210,250 200,220' fill='none' stroke='#ff4f8f' stroke-width='3' /><circle cx='185' cy='170' r='10' fill='#000' /><circle cx='215' cy='170' r='10' fill='#000' /><path d='M165,210 Q180,190 195,210' fill='none' stroke='#000' stroke-width='2' /><path d='M235,210 Q220,190 205,210' fill='none' stroke='#000' stroke-width='2' /><polygon points='190,190 200,200 210,190' fill='none' stroke='#000' stroke-width='2' /><line x1='180' y1='240' x2='170' y2='270' stroke='#000' stroke-width='3' /><line x1='220' y1='240' x2='230' y2='270' stroke='#000' stroke-width='3' /><path d='M200,290 Q190,300 200,310 Q210,300 200,290' fill='none' stroke='#ff4f8f' stroke-width='3' /><polygon points='180,200 130,210 170,220' fill='#ff7eb9' /><polygon points='220,200 270,210 230,220' fill='#ff7eb9' /><polygon points='160,180 150,140 190,170' fill='#ff7eb9' /><polygon points='240,180 250,140 210,170' fill='#ff7eb9' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな毛皮を持ち、美しい赤い瞳を持つ女性の姿をしています。体には白い輝きがあり、しっぽが優雅に波打っています。頭部には円形の角が生え、愛らしい笑顔が特徴です。",
+        "reason": "生態系での環境の変化により、イヴはより優れた狩猟スキルやコミュニケーション能力を持つことで、生存競争に勝ち抜くために進化しました。",
+        "thought": "『自然と調和し、愛と知恵をもって生きる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#87ceeb' /><rect x='150' y='100' width='100' height='100' fill='#ffd700' /><ellipse cx='200' cy='180' rx='30' ry='20' fill='#ffd700' /><ellipse cx='180' cy='160' rx='10' ry='20' fill='#000' /><ellipse cx='220' cy='160' rx='10' ry='20' fill='#000' /><polygon points='150,100 200,50 250,100' fill='#ffd700' /><polygon points='160,300 140,320 160,340' fill='#ffd700' /><polygon points='240,300 260,320 240,340' fill='#ffd700' /><line x1='160' y1='300' x2='240' y2='300' stroke='#000' stroke-width='5' /><polygon points='155,100 200,50 245,100' fill='none' stroke='#000' stroke-width='2' /><line x1='150' y1='125' x2='155' y2='110' stroke='#000' stroke-width='2' /><line x1='250' y1='125' x2='245' y2='110' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と金色の鱗状の皮膚を持ち、頭部には黄色い角が生えています。黄色い目が鋭く光り、頬には金色の模様が入っています。四肢は太く力強く、尾は流線型でしなやかです。",
+        "reason": "アダムは、縄張りの争いや求愛行動においてより強く、印象的な姿を持つことで相手を魅了し、繁殖成功率を高めるために進化しました。",
+        "thought": "『強さと誇りを持ち、未来に向かって進化する』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1772934667009
   }
 ]
