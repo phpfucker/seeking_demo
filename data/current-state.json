@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffe0bd'/><circle cx='200' cy='150' r='50' fill='#ffacaa'/><circle cx='150' cy='250' r='40' fill='#ffacaa'/><circle cx='250' cy='250' r='40' fill='#ffacaa'/><ellipse cx='170' cy='150' rx='15' ry='25' fill='#ffffff'/><ellipse cx='230' cy='150' rx='15' ry='25' fill='#ffffff'/><polygon points='170,180 180,170 190,180' fill='#000000'/><polygon points='210,180 220,170 230,180' fill='#000000'/><path d='M150 300 Q200 350 250 300' fill='none' stroke='#000000' stroke-width='5'/><text x='200' y='350' text-anchor='middle' font-family='Arial' font-size='20' fill='#000000'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink'/><ellipse cx='200' cy='150' rx='80' ry='120' fill='#FF8C94'/><path d='M150 250 L200 300 L250 250 Q200 275 150 250' fill='none' stroke='black'/><polygon points='170,180 180,180 175,190' fill='#FF8C94'/><polygon points='220,180 230,180 225,190' fill='#FF8C94'/><rect x='190' y='250' width='20' height='60' fill='#FF8C94'/><circle cx='180' cy='150' r='10' fill='black'/><circle cx='220' cy='150' r='10' fill='black'/><line x1='180' y1='150' x2='220' y2='150' stroke='black'/><polygon points='180,160 190,160 185,165' fill='black'/><polygon points='220,160 230,160 225,165' fill='black'/><path d='M160 130 Q200 50 240 130' fill='none' stroke='black'/><path d='M240 130 Q260 180 260 230' fill='none' stroke='black'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の体に白い目と黒い模様を持つ女性の姿をしています。頭には黒い触角があり、愛らしい印象を与えます。",
-      "reason": "進化の中で、イヴはより優美で優しい特徴を持つようになりました。新たな魅力を求めて進化を遂げました。",
-      "thought": "『優しさが力』"
+      "appearance": "イヴはピンク色の体と、大きな目を持ち、薄いピンク色の髪の毛が特徴的な女性の生命体です。目元には黒い瞳があり、柔らかな表情をしています。体の下部にはピンク色の装飾が施され、背中には大きな羽が生えています。",
+      "reason": "イヴは新たな飛行能力を身につけ、より広い領域を探索するために進化しました。",
+      "thought": "『自由な空を飛びたい』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#b6e2d2'/><circle cx='200' cy='150' r='50' fill='#a5d6a7'/><circle cx='150' cy='250' r='40' fill='#a5d6a7'/><circle cx='250' cy='250' r='40' fill='#a5d6a7'/><ellipse cx='170' cy='150' rx='15' ry='25' fill='#ffffff'/><ellipse cx='230' cy='150' rx='15' ry='25' fill='#ffffff'/><polygon points='170,180 180,170 190,180' fill='#000000'/><polygon points='210,180 220,170 230,180' fill='#000000'/><line x1='150' y1='300' x2='250' y2='300' stroke='#000000' stroke-width='5'/><text x='200' y='350' text-anchor='middle' font-family='Arial' font-size='20' fill='#000000'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightblue'/><ellipse cx='200' cy='150' rx='80' ry='120' fill='#6CA8FF'/><rect x='170' y='250' width='60' height='20' fill='#6CA8FF'/><polygon points='180,180 190,180 185,190' fill='#6CA8FF'/><polygon points='210,180 220,180 215,190' fill='#6CA8FF'/><circle cx='180' cy='150' r='10' fill='black'/><circle cx='220' cy='150' r='10' fill='black'/><line x1='180' y1='150' x2='220' y2='150' stroke='black'/><polygon points='180,160 190,160 185,165' fill='black'/><polygon points='220,160 230,160 225,165' fill='black'/><path d='M160 130 Q200 50 240 130' fill='none' stroke='black'/><path d='M240 130 Q260 180 260 230' fill='none' stroke='black'/><path d='M190 250 Q200 220 210 250' fill='none' stroke='#6CA8FF'/><path d='M180 260 Q200 240 220 260' fill='none' stroke='#6CA8FF'/></svg>",
     "report": {
-      "appearance": "アダムは、青緑色の体に白い目と黒い模様を持つ男性の姿をしています。頭には黒い角があり、力強さを感じさせます。",
-      "reason": "アダムは強さと威厳を備えた特徴を身につけることで、生存競争において優位性を獲得しました。進化の必然です。",
-      "thought": "『力強く、誠実に』"
+      "appearance": "アダムは青色の体と鋭い目つき、青い体毛が特徴的な男性の生命体です。体の下部には青い装飾があり、背中には大きな羽が生えています。さらに、四肢には青い鱗状の模様が広がっています。",
+      "reason": "アダムは水中での活動性を向上させ、新たな狩猟戦略を獲得するために進化しました。",
+      "thought": "『大海原を自在に泳ぎたい』"
     },
     "name": "アダム",
     "gender": "男性"
