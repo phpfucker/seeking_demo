@@ -27674,5 +27674,28 @@
       "gender": "男性"
     },
     "timestamp": 1773021137588
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFD700' /><ellipse cx='200' cy='180' rx='60' ry='40' fill='#FFD700' /><rect x='180' y='220' width='40' height='80' fill='#FFD700' /><path d='M150,250 L170,300 L230,300 L250,250 Z' fill='#FFD700' /><path d='M170,300 L190,340 L210,340 L230,300 Z' fill='#FFD700' /><circle cx='190' cy='180' r='5' fill='#000' /><circle cx='210' cy='180' r='5' fill='#000' /><polygon points='180,160 200,130 220,160' fill='#FFD700' /><polygon points='180,140 190,120 200,140' fill='#FFD700' /><polygon points='210,140 220,120 230,140' fill='#FFD700' /><line x1='185' y1='240' x2='215' y2='240' stroke='#000' stroke-width='2' /><line x1='190' y1='260' x2='210' y2='260' stroke='#000' stroke-width='2' /><line x1='150' y1='260' x2='190' y2='220' stroke='#000' stroke-width='2' /><line x1='250' y1='260' x2='210' y2='220' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは全身を金色に輝かせる美しい女性。頭部には円形の顔と黒い目があり、顔の周りには金色の輪郭が描かれている。胴体は丸みを帯びた形状で、四肢は細くしなやか。尾と角があり、全体的に優雅で美しい姿をしている。",
+        "reason": "イヴは繊細な色彩と優美な形状を持つ進化を遂げた。環境の中で美しさが生存に有利であったため、進化の過程でこれらの特徴が強化された。",
+        "thought": "『輝きは内面から』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#4682B4' /><ellipse cx='200' cy='180' rx='60' ry='40' fill='#4682B4' /><rect x='180' y='220' width='40' height='80' fill='#4682B4' /><path d='M150,250 L170,300 L230,300 L250,250 Z' fill='#4682B4' /><path d='M170,300 L190,340 L210,340 L230,300 Z' fill='#4682B4' /><circle cx='190' cy='180' r='5' fill='#000' /><circle cx='210' cy='180' r='5' fill='#000' /><polygon points='180,160 200,130 220,160' fill='#4682B4' /><polygon points='180,140 190,120 200,140' fill='#4682B4' /><polygon points='210,140 220,120 230,140' fill='#4682B4' /><line x1='185' y1='240' x2='215' y2='240' stroke='#000' stroke-width='2' /><line x1='190' y1='260' x2='210' y2='260' stroke='#000' stroke-width='2' /><line x1='150' y1='260' x2='190' y2='220' stroke='#000' stroke-width='2' /><line x1='250' y1='260' x2='210' y2='220' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは全身を青く輝かせる美しい男性。頭部には円形の顔と黒い目があり、顔の周りには青い輪郭が描かれている。胴体は丸みを帯びた形状で、四肢は細くしなやか。尾と角があり、全体的に力強く美しい姿をしている。",
+        "reason": "アダムは力強い色彩と美しい形状を持つ進化を遂げた。環境の中で力強さが生存に有利であったため、進化の過程でこれらの特徴が強化された。",
+        "thought": "『力強さと美しさを兼ね備えた』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1773039448349
   }
 ]
