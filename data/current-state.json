@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"50\" width=\"300\" height=\"300\" fill=\"#FFD700\"/><circle cx=\"200\" cy=\"150\" r=\"100\" fill=\"#FF69B4\"/><circle cx=\"130\" cy=\"100\" r=\"15\" fill=\"#000\"/><circle cx=\"270\" cy=\"100\" r=\"15\" fill=\"#000\"/><ellipse cx=\"160\" cy=\"190\" rx=\"40\" ry=\"60\" fill=\"#FFFACD\"/><ellipse cx=\"240\" cy=\"190\" rx=\"40\" ry=\"60\" fill=\"#FFFACD\"/><path d=\"M150,300 Q200,350 250,300 L220,240 L180,240 Z\" fill=\"#FF69B4\"/><circle cx=\"180\" cy=\"210\" r=\"5\" fill=\"#000\"/><circle cx=\"220\" cy=\"210\" r=\"5\" fill=\"#000\"/><line x1=\"150\" y1=\"230\" x2=\"185\" y2=\"230\" stroke=\"#000\" stroke-width=\"3\"/><line x1=\"215\" y1=\"230\" x2=\"250\" y2=\"230\" stroke=\"#000\" stroke-width=\"3\"/><line x1=\"200\" y1=\"250\" x2=\"200\" y2=\"280\" stroke=\"#FF4500\" stroke-width=\"5\"/><line x1=\"200\" y1=\"280\" x2=\"170\" y2=\"300\" stroke=\"#FF4500\" stroke-width=\"5\"/><line x1=\"200\" y1=\"280\" x2=\"230\" y2=\"300\" stroke=\"#FF4500\" stroke-width=\"5\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,255,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,192,203);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='135' cy='170' rx='25' ry='35' fill='pink' /><ellipse cx='265' cy='170' rx='25' ry='35' fill='pink' /><path d='M200 200 L180 220 L220 220 Z' fill='pink' /><path d='M160 240 Q200 280 240 240 Q200 250 160 240 Z' fill='pink' /><path d='M160 287 Q200 320 240 287 Q200 300 160 287 Z' fill='pink' /><path d='M150 160 L130 140 L120 160 Z' fill='pink' /><path d='M250 160 L270 140 L280 160 Z' fill='pink' /><rect x='180' y='220' width='40' height='10' fill='pink' /><rect x='160' y='270' width='80' height='10' fill='pink' /><polygon points='190,160 210,160 200,170' fill='pink' /><polygon points='140,200 160,190 160,210' fill='pink' /><polygon points='260,200 240,190 240,210' fill='pink' /></svg>",
     "report": {
-      "appearance": "イヴは大きなピンクの円形の体を持ち、金色の髪が頭部を覆っています。両腕は複雑なピンクと金の模様で覆われ、手首には小さな黒い円があります。体の下部には短いピンクのドレスがあり、足元には赤い靴があります。",
-      "reason": "イヴは自然と調和する力を持つ女性性を強調した進化を遂げました。",
-      "thought": "『生命の花』"
+      "appearance": "イヴは、ふんわりとしたピンク色の毛並みを持ち、優雅な雰囲気を漂わせる。顔には大きな目と柔らかい口元があり、全体的に華やかさが感じられる。",
+      "reason": "イヴは美しさと優しさを結びつけ、より魅力的で愛らしい姿に進化した。",
+      "thought": "『優しさが美を生む』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"50\" width=\"300\" height=\"300\" fill=\"#87CEEB\"/><polygon points=\"200,50 150,100 200,150 250,100\" fill=\"#FFA07A\"/><circle cx=\"150\" cy=\"100\" r=\"15\" fill=\"#000\"/><circle cx=\"250\" cy=\"100\" r=\"15\" fill=\"#000\"/><ellipse cx=\"160\" cy=\"190\" rx=\"40\" ry=\"60\" fill=\"#B0E0E6\"/><ellipse cx=\"240\" cy=\"190\" rx=\"40\" ry=\"60\" fill=\"#B0E0E6\"/><polygon points=\"180,300 200,350 220,300\" fill=\"#FFA07A\"/><circle cx=\"180\" cy=\"210\" r=\"5\" fill=\"#000\"/><circle cx=\"220\" cy=\"210\" r=\"5\" fill=\"#000\"/><line x1=\"180\" y1=\"230\" x2=\"180\" y2=\"280\" stroke=\"#FF4500\" stroke-width=\"5\"/><line x1=\"220\" y1=\"230\" x2=\"220\" y2=\"280\" stroke=\"#FF4500\" stroke-width=\"5\"/><line x1=\"180\" y1=\"280\" x2=\"150\" y2=\"300\" stroke=\"#FF4500\" stroke-width=\"5\"/><line x1=\"220\" y1=\"280\" x2=\"250\" y2=\"300\" stroke=\"#FF4500\" stroke-width=\"5\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,255,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,191,255);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradB)' /><path d='M150 240 Q200 280 250 240 Q200 260 150 240 Z' fill='lightblue' /><path d='M160 287 Q200 320 240 287 Q200 300 160 287 Z' fill='lightblue' /><rect x='160' y='220' width='80' height='10' fill='lightblue' /><path d='M240 240 L260 220 L280 240 Z' fill='lightblue' /><path d='M130 170 L160 150 L190 170 Z' fill='lightblue' /><path d='M210 170 L240 150 L270 170 Z' fill='lightblue' /><ellipse cx='180' cy='170' rx='15' ry='30' fill='lightblue' /><ellipse cx='220' cy='170' rx='15' ry='30' fill='lightblue' /><polygon points='180,160 200,150 220,160' fill='lightblue' /><line x1='185' y1='165' x2='195' y2='165' stroke='black' stroke-width='2' /><line x1='205' y1='165' x2='215' y2='165' stroke='black' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "アダムは青い四角形の体に、桃色の三角形の顔を持っています。両腕と両脚は複雑な模様が施され、手首と足首には黒い円があります。体の下部にはオレンジ色のドレスがあり、足元には靴があります。",
-      "reason": "アダムは創造と知恵を象徴する男性性を示す進化を遂げました。",
-      "thought": "『宇宙の声』"
+      "appearance": "アダムは、爽やかな水色の体毛を持ち、力強い印象を与える。顔にはしっかりとした眉と引き締まった口元があり、全体的に凛々しさが感じられる。",
+      "reason": "アダムは強さと知性を融合し、より力強く颯爽な姿に進化した。",
+      "thought": "『力強さには知性と誇りを備えよ』"
     },
     "name": "アダム",
     "gender": "男性"
