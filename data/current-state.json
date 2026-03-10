@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' width='400' height='400'><circle cx='200' cy='200' r='180' fill='#ffcc99'/><ellipse cx='200' cy='230' rx='120' ry='160' fill='#ffaa66'/><path d='M160,240 Q200,340 240,240 Q200,340 160,240 Z' fill='#ff884d'/><rect x='175' y='140' width='50' height='20' fill='#ff884d'/><rect x='175' y='320' width='50' height='20' fill='#ff884d'/><circle cx='170' cy='170' r='8' fill='#664422'/><circle cx='230' cy='170' r='8' fill='#664422'/><line x1='150' y1='300' x2='180' y2='260' stroke='#a57a4a' stroke-width='6'/><line x1='250' y1='300' x2='220' y2='260' stroke='#a57a4a' stroke-width='6'/><polygon points='180,220 200,200 220,220' fill='#ffaa66'/></svg>",
     "report": {
-      "appearance": "イヴは、翼の生えた美しい女性。背中には大きな羽根があり、頭には角が生えている。体には細かい模様が施され、輝く鱗が宝石のように光る。",
-      "reason": "進化の過程で、イヴは飛行能力を獲得するために翼と羽根を発達させた。美しい模様と輝く鱗は、周囲の生存競争において他者を魅了し、自分自身を守るための進化と言える。",
-      "thought": "『自然と調和する』"
+      "appearance": "イヴは、淡いオレンジ色の柔らかい皮膚を持ち、細長い楕円形の目と獣のような耳を持つ女性型生命体です。手足は強靭でしなやかな形状であり、体の一部に橙色の模様が施されています。",
+      "reason": "環境の変化により、イヴは優れた適応能力を身につける必要がありました。そのため、柔軟性と力強さを兼ね備えた外見へ進化しました。",
+      "thought": "『調和と力強さ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' width='400' height='400'><circle cx='200' cy='200' r='180' fill='#6699cc'/><ellipse cx='200' cy='230' rx='120' ry='160' fill='#3366cc'/><path d='M160,240 Q200,340 240,240 Q200,340 160,240 Z' fill='#003399'/><rect x='175' y='140' width='50' height='20' fill='#003399'/><rect x='175' y='320' width='50' height='20' fill='#003399'/><rect x='150' y='150' width='100' height='20' fill='#3366cc'/><line x1='150' y1='300' x2='180' y2='260' stroke='#334d66' stroke-width='6'/><line x1='250' y1='300' x2='220' y2='260' stroke='#334d66' stroke-width='6'/><polygon points='180,220 200,200 220,220' fill='#3366cc'/></svg>",
     "report": {
-      "appearance": "アダムは、強靭な体躯を持つ男性。背中には剛毛の毛皮が生え、大きな牙を持つ。四肢は太く筋肉質であり、尾には鋭い先端を持つ。",
-      "reason": "アダムの進化は、生存における競争力を高めるためのものである。剛毛の毛皮と大きな牙は自己防衛のため、筋肉質な体は俊敏な動きを可能にし、尾は敵からの攻撃を受け流すための進化だ。",
-      "thought": "『強さと優しさのバランス』"
+      "appearance": "アダムは、濃い青色の外皮を持ち、大きな円形の目と鋭い角を持つ男性型生命体です。手足は頑丈で力強い形状であり、体に紺色の模様が見られます。",
+      "reason": "アダムは狩猟や防衛のために強靭な体を求める必要がありました。そのため、頑丈で力強い外観へ進化しました。",
+      "thought": "『勇気と堅実さ』"
     },
     "name": "アダム",
     "gender": "男性"
