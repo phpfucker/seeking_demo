@@ -27812,5 +27812,28 @@
       "gender": "男性"
     },
     "timestamp": 1773147199081
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFD700' /><rect x='100' y='100' width='200' height='200' fill='#FFA07A' /><polygon points='100,200 200,50 300,200' fill='#FF7F50' /><ellipse cx='150' cy='200' rx='50' ry='80' fill='#FF6347' /><ellipse cx='250' cy='200' rx='50' ry='80' fill='#FF6347' /><circle cx='150' cy='200' r='10' fill='#000' /><circle cx='250' cy='200' r='10' fill='#000' /><path d='M175 250 Q200 300 225 250' stroke='#000' stroke-width='5' fill='none' /><path d='M175 260 Q200 310 225 260' stroke='#000' stroke-width='5' fill='none' /><path d='M200 280 Q180 350 220 280' stroke='#000' stroke-width='5' fill='none' /><path d='M200 280 Q220 350 180 280' stroke='#000' stroke-width='5' fill='none' /><path d='M140 140 Q200 100 260 140 Q200 180 140 140' fill='#FFF' /><circle cx='160' cy='160' r='10' fill='#000' /><circle cx='240' cy='160' r='10' fill='#000' /></svg>",
+      "report": {
+        "appearance": "イヴは、全体的に金色の輝く肌を持ち、柔らかなピンク色の服を身に着けた女性。背中にはオレンジ色の翼が優雅に広がっている。細長い尾と、真ん中で分かれた赤い角が特徴的。",
+        "reason": "イヴは新たなる知識と創造性を求め、自然界の美しさと調和をより深く感じるよう進化した。",
+        "thought": "『自然と調和し、新たなる創造を目指す』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#4169E1' /><rect x='100' y='100' width='200' height='200' fill='#6495ED' /><polygon points='100,200 200,50 300,200' fill='#87CEEB' /><ellipse cx='150' cy='200' rx='50' ry='80' fill='#4682B4' /><ellipse cx='250' cy='200' rx='50' ry='80' fill='#4682B4' /><circle cx='150' cy='200' r='10' fill='#000' /><circle cx='250' cy='200' r='10' fill='#000' /><path d='M175 250 Q200 300 225 250' stroke='#000' stroke-width='5' fill='none' /><path d='M175 260 Q200 310 225 260' stroke='#000' stroke-width='5' fill='none' /><path d='M200 280 Q180 350 220 280' stroke='#000' stroke-width='5' fill='none' /><path d='M200 280 Q220 350 180 280' stroke='#000' stroke-width='5' fill='none' /><path d='M140 140 Q200 100 260 140 Q200 180 140 140' fill='#FFF' /><circle cx='160' cy='160' r='10' fill='#000' /><circle cx='240' cy='160' r='10' fill='#000' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い肌を持つ男性で、深い青色の服を身にまとい、背中には複数の水色の羽が生えている。頭には白い角があり、銀色の尾がしっかりとした姿を見せる。",
+        "reason": "アダムは知恵と勇気を求め、自然界の秘密と調和を尊重する姿勢を強化して進化した。",
+        "thought": "『知識と勇気を持ち、自然と調和する』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1773168118016
   }
 ]
