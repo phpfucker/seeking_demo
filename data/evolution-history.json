@@ -27789,5 +27789,28 @@
       "gender": "男性"
     },
     "timestamp": 1773124963337
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='180' rx='100' ry='150' fill='#ffe6e6'/><path d='M150 250 Q200 300 250 250 Q200 200 150 250 Z' fill='#ff9999'/><path d='M140 220 Q200 280 260 220 Q200 180 140 220 Z' fill='#ff8080'/><ellipse cx='165' cy='150' rx='20' ry='10' fill='#f5cac3'/><ellipse cx='235' cy='150' rx='20' ry='10' fill='#f5cac3'/><path d='M180 200 Q200 180 220 200' fill='none' stroke='#401c1c' stroke-width='3'/><path d='M160 230 Q200 250 240 230' fill='none' stroke='#401c1c' stroke-width='3'/><path d='M160 270 Q200 290 240 270' fill='none' stroke='#401c1c' stroke-width='3'/><polygon points='190,160 200,140 210,160' fill='#401c1c'/><polygon points='195,155 200,135 205,155' fill='#401c1c'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、優しく曲線美のある体型をしています。頭にはフワフワした角が生え、愛らしい顔立ちと大きな目が特徴です。ピンクと赤のグラデーションが入った姿は優しさと美しさを感じさせます。",
+        "reason": "生命体が新たな環境に適応するため、愛らしさと柔らかさを強調した進化が起こりました。",
+        "thought": "『愛と美しさが世界を彩る』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#b0e57c'/><rect x='150' y='200' width='100' height='120' fill='#c4ef9c'/><path d='M160 250 Q200 330 240 250 Q200 170 160 250 Z' fill='#8fd44a'/><path d='M155 220 Q200 280 245 220 Q200 160 155 220 Z' fill='#7bb13f'/><ellipse cx='165' cy='150' rx='20' ry='10' fill='#a9d18e'/><ellipse cx='235' cy='150' rx='20' ry='10' fill='#a9d18e'/><path d='M180 200 Q200 180 220 200' fill='none' stroke='#40531c' stroke-width='3'/><path d='M160 230 Q200 250 240 230' fill='none' stroke='#40531c' stroke-width='3'/><path d='M160 270 Q200 290 240 270' fill='none' stroke='#40531c' stroke-width='3'/><polygon points='190,160 200,140 210,160' fill='#40531c'/><polygon points='195,155 200,135 205,155' fill='#40531c'/></svg>",
+      "report": {
+        "appearance": "アダムは、爽やかな緑色の肌と筋肉質な体つきを持ちます。四角い顔立ちとシャープな角が特徴で、大きな緑色の目が輝いています。緑と黄色のグラデーションが施された姿は力強さと活力を感じさせます。",
+        "reason": "生命体が新たな環境に順応するため、力強さと活力を重視した進化が起こりました。",
+        "thought": "『力強さと活力で未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1773147199081
   }
 ]
