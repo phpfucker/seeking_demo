@@ -27858,5 +27858,28 @@
       "gender": "男性"
     },
     "timestamp": 1773193525861
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gradA\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" style=\"stop-color:#FFC0CB;stop-opacity:1\" /><stop offset=\"100%\" style=\"stop-color:#FF69B4;stop-opacity:1\" /></linearGradient></defs><rect x=\"50\" y=\"50\" width=\"300\" height=\"300\" fill=\"url(#gradA)\" /><circle cx=\"200\" cy=\"150\" r=\"100\" fill=\"#FFE4E1\" /><circle cx=\"150\" cy=\"130\" r=\"10\" fill=\"#000\" /><circle cx=\"250\" cy=\"130\" r=\"10\" fill=\"#000\" /><path d=\"M150,220 Q200,250 250,220\" fill=\"none\" stroke=\"#000\" stroke-width=\"4\" /><path d=\"M180,280 Q200,300 220,280\" fill=\"none\" stroke=\"#000\" stroke-width=\"4\" /><path d=\"M150,220 Q200,240 250,220\" fill=\"none\" stroke=\"#000\" stroke-width=\"4\" /><path d=\"M170,120 Q200,80 230,120\" fill=\"none\" stroke=\"#000\" stroke-width=\"4\" /><path d=\"M160,120 Q200,160 240,120\" fill=\"none\" stroke=\"#000\" stroke-width=\"4\" /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと紫のグラデーションの背景に、優雅な女性の特徴を持つ。体は淡いピンク色で、顔には大きな目と小さな口があり、長い髪がある。背中には羽根のような模様が浮かび、優しさと強さを併せ持つ。",
+        "reason": "進化の理由は、環境の変化によりイヴがより美しさと優雅さを持つ形態が適応的だと判断されたため。",
+        "thought": "『愛と美しさが世界を変える』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gradB\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" style=\"stop-color:#ADD8E6;stop-opacity:1\" /><stop offset=\"100%\" style=\"stop-color:#4169E1;stop-opacity:1\" /></linearGradient></defs><rect x=\"50\" y=\"50\" width=\"300\" height=\"300\" fill=\"url(#gradB)\" /><rect x=\"150\" y=\"150\" width=\"100\" height=\"150\" fill=\"#FFD700\" /><circle cx=\"200\" cy=\"140\" r=\"10\" fill=\"#000\" /><path d=\"M170,220 Q200,250 230,220\" fill=\"none\" stroke=\"#000\" stroke-width=\"4\" /><path d=\"M180,280 Q200,300 220,280\" fill=\"none\" stroke=\"#000\" stroke-width=\"4\" /><path d=\"M150,220 Q200,240 250,220\" fill=\"none\" stroke=\"#000\" stroke-width=\"4\" /><path d=\"M180,120 Q200,80 220,120\" fill=\"none\" stroke=\"#000\" stroke-width=\"4\" /><path d=\"M170,120 Q200,160 230,120\" fill=\"none\" stroke=\"#000\" stroke-width=\"4\" /></svg>",
+      "report": {
+        "appearance": "アダムは、青と金のグラデーションの背景に、男性らしい特徴を持つ。体は黄色で、顔には大きな目と口があり、頑強な体つきを持つ。背中には翼のような模様があり、知性と力強さを表す。",
+        "reason": "進化の理由は、アダムがより力強さと知性を持つ形態が生存に有利だと判断されたため。",
+        "thought": "『強さと知性で未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1773211668766
   }
 ]
