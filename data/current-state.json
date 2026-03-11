@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffafaf' /><ellipse cx='200' cy='160' rx='80' ry='100' fill='#ffb6b6' /><rect x='160' y='220' width='80' height='40' fill='#ff8c8c' /><rect x='180' y='260' width='40' height='80' fill='#ff8c8c' /><rect x='120' y='240' width='40' height='100' fill='#ff8c8c' /><path d='M160 160 Q200 100 240 160 Q200 220 160 160' fill='#ffcccc' /><circle cx='170' cy='170' r='10' fill='#ffffff' /><circle cx='230' cy='170' r='10' fill='#ffffff' /><path d='M180 220 Q200 240 220 220' fill='none' stroke='#000000' stroke-width='2' /><path d='M150 300 Q180 280 210 300' fill='none' stroke='#000000' stroke-width='2' /><path d='M250 300 Q220 280 190 300' fill='none' stroke='#000000' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffbfcc' /><ellipse cx='130' cy='170' rx='30' ry='20' fill='#ff9ca8' /><ellipse cx='270' cy='170' rx='30' ry='20' fill='#ff9ca8' /><path d='M200,200 L180,220 Q200,230 220,220 L200,200' fill='#ff9ca8' /><ellipse cx='170' cy='180' rx='12' ry='8' fill='#fff' /><ellipse cx='230' cy='180' rx='12' ry='8' fill='#fff' /><path d='M180,230 Q200,240 220,230' fill='none' stroke='#000' stroke-width='2' /><polygon points='160,200 200,240 240,200' fill='#fff' /><circle cx='180' cy='190' r='5' fill='#000' /><circle cx='220' cy='190' r='5' fill='#000' /><circle cx='200' cy='220' r='5' fill='#000' /><circle cx='180' cy='220' r='5' fill='#000' /><circle cx='220' cy='220' r='5' fill='#000' /><rect x='190' y='250' width='20' height='40' fill='#ff9ca8' /><rect x='180' y='290' width='40' height='15' fill='#ff9ca8' /><rect x='170' y='305' width='60' height='10' fill='#ff9ca8' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな体に、赤い眼を持つ美しい女性の姿をしています。体の中心には暖かい色合いの模様が施され、優雅さと力強さを併せ持っています。",
-      "reason": "生態系において新たな獲得者が登場し、個体数を増やすために、より美しく進化しました。",
-      "thought": "『命の美しさ』"
+      "appearance": "イヴはピンク色の柔らかな皮膚を持ち、優雅な曲線の体型をしています。頭部には光沢のある赤いリボンのような飾りがあり、四肢はしなやかで美しいです。尾は短く、装飾的な模様があしらわれています。",
+      "reason": "新たな進化を迎え、より華やかで優美な特徴を身に纏うことで、生存競争において魅力的な存在となるため。",
+      "thought": "『愛と美しさが世界を彩る』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#afafff' /><polygon points='200,100 270,220 130,220' fill='#b6b6ff' /><rect x='180' y='240' width='40' height='100' fill='#8c8cff' /><rect x='160' y='260' width='80' height='40' fill='#8c8cff' /><rect x='120' y='220' width='40' height='80' fill='#8c8cff' /><path d='M160 160 Q200 100 240 160 Q200 220 160 160' fill='#ccccff' /><circle cx='170' cy='170' r='10' fill='#ffffff' /><circle cx='230' cy='170' r='10' fill='#ffffff' /><path d='M180 240 Q200 220 220 240' fill='none' stroke='#000000' stroke-width='2' /><path d='M150 320 Q180 280 210 320' fill='none' stroke='#000000' stroke-width='2' /><path d='M250 320 Q220 280 190 320' fill='none' stroke='#000000' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='140' fill='#9fd6e6' /><path d='M160,200 Q200,100 240,200 Q200,240 160,200' fill='#6cb8d6' /><ellipse cx='200' cy='160' rx='40' ry='20' fill='#6cb8d6' /><line x1='150' y1='190' x2='170' y2='220' stroke='#000' stroke-width='2' /><line x1='250' y1='190' x2='230' y2='220' stroke='#000' stroke-width='2' /><polygon points='190,200 210,200 200,230' fill='#fff' /><ellipse cx='190' cy='200' rx='5' ry='10' fill='#000' /><ellipse cx='210' cy='200' rx='5' ry='10' fill='#000' /><rect x='185' y='220' width='30' height='40' fill='#6cb8d6' /><line x1='170' y1='260' x2='230' y2='260' stroke='#6cb8d6' stroke-width='15' /></svg>",
     "report": {
-      "appearance": "アダムは、青い体に三角形の頭部を持つ男性の姿をしています。体には涼しげな色合いの模様が描かれ、力強さと知性を感じさせます。",
-      "reason": "繁殖競争において、より強靭で知性を持った個体が求められる環境になり、進化しました。",
-      "thought": "『知恵と力』"
+      "appearance": "アダムは青色の精錬された外観を持ち、流れるような体つきに特徴があります。頭部には洗練された波状の模様があり、四肢はしなやかで力強い印象を与えます。尾は長く、独特なデザインが施されています。",
+      "reason": "進化の過程で、より力強く洗練された特性を身につけることで、狩りや生存において優位性を得るため。",
+      "thought": "『青い大空を翔ける』"
     },
     "name": "アダム",
     "gender": "男性"
