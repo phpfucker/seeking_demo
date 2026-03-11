@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFB6C1' /><ellipse cx='200' cy='170' rx='100' ry='130' fill='#FFC0CB' /><rect x='160' y='270' width='80' height='60' fill='#FFC0CB' /><polygon points='220,80 180,120 260,120' fill='#FFB6C1' /><path d='M190,250 L180,280 L220,280 L210,250 Z' fill='#FFC0CB' /><line x1='180' y1='170' x2='160' y2='200' stroke='#000' stroke-width='2' /><line x1='220' y1='170' x2='240' y2='200' stroke='#000' stroke-width='2' /><path d='M200,170 Q190,150 180,170 Q190,160 200,170 Z' fill='#FFC0CB' /><line x1='200' y1='200' x2='200' y2='220' stroke='#000' stroke-width='2' /><circle cx='190' cy='185' r='5' fill='#000' /><circle cx='210' cy='185' r='5' fill='#000' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffafaf' /><ellipse cx='200' cy='160' rx='80' ry='100' fill='#ffb6b6' /><rect x='160' y='220' width='80' height='40' fill='#ff8c8c' /><rect x='180' y='260' width='40' height='80' fill='#ff8c8c' /><rect x='120' y='240' width='40' height='100' fill='#ff8c8c' /><path d='M160 160 Q200 100 240 160 Q200 220 160 160' fill='#ffcccc' /><circle cx='170' cy='170' r='10' fill='#ffffff' /><circle cx='230' cy='170' r='10' fill='#ffffff' /><path d='M180 220 Q200 240 220 220' fill='none' stroke='#000000' stroke-width='2' /><path d='M150 300 Q180 280 210 300' fill='none' stroke='#000000' stroke-width='2' /><path d='M250 300 Q220 280 190 300' fill='none' stroke='#000000' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな背景に、全身を包むふくよかな女性の姿をしています。頭部に角のような装飾があり、優しい表情を浮かべています。体は楕円形で、手足は短く丸い形状で描かれています。",
-      "reason": "新たな進化が起こり、イヴはより柔らかな色調と優しい表情を持つようになりました。これは環境の平和と豊かさから生まれた進化です。",
-      "thought": "『やさしさ』"
+      "appearance": "イヴは、ピンク色の柔らかな体に、赤い眼を持つ美しい女性の姿をしています。体の中心には暖かい色合いの模様が施され、優雅さと力強さを併せ持っています。",
+      "reason": "生態系において新たな獲得者が登場し、個体数を増やすために、より美しく進化しました。",
+      "thought": "『命の美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#87CEFA' /><ellipse cx='200' cy='170' rx='100' ry='130' fill='#B0C4DE' /><rect x='160' y='270' width='80' height='60' fill='#B0C4DE' /><polygon points='220,80 180,120 260,120' fill='#87CEFA' /><path d='M190,250 L180,280 L220,280' fill='none' stroke='#B0C4DE' stroke-width='10' /><line x1='220' y1='280' x2='210' y2='250' stroke='#B0C4DE' stroke-width='10' /><path d='M210,250 L220,280 L240,250' fill='none' stroke='#B0C4DE' stroke-width='10' /><line x1='180' y1='170' x2='200' y2='170' stroke='#000' stroke-width='2' /><line x1='180' y1='170' x2='160' y2='200' stroke='#000' stroke-width='2' /><line x1='220' y1='170' x2='240' y2='200' stroke='#000' stroke-width='2' /><circle cx='190' cy='185' r='5' fill='#000' /><circle cx='210' cy='185' r='5' fill='#000' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#afafff' /><polygon points='200,100 270,220 130,220' fill='#b6b6ff' /><rect x='180' y='240' width='40' height='100' fill='#8c8cff' /><rect x='160' y='260' width='80' height='40' fill='#8c8cff' /><rect x='120' y='220' width='40' height='80' fill='#8c8cff' /><path d='M160 160 Q200 100 240 160 Q200 220 160 160' fill='#ccccff' /><circle cx='170' cy='170' r='10' fill='#ffffff' /><circle cx='230' cy='170' r='10' fill='#ffffff' /><path d='M180 240 Q200 220 220 240' fill='none' stroke='#000000' stroke-width='2' /><path d='M150 320 Q180 280 210 320' fill='none' stroke='#000000' stroke-width='2' /><path d='M250 320 Q220 280 190 320' fill='none' stroke='#000000' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "アダムは、青色の爽やかな背景に、男性的な特徴を持つ姿をしています。角のような飾りが頭部にあり、力強い表情をしています。体は楕円形で、複雑なパターンの模様が描かれています。",
-      "reason": "アダムの進化は、より強靭で力強い外見を持つために起こりました。この進化は、環境の変化に対する適応として生じたものです。",
-      "thought": "『力強さ』"
+      "appearance": "アダムは、青い体に三角形の頭部を持つ男性の姿をしています。体には涼しげな色合いの模様が描かれ、力強さと知性を感じさせます。",
+      "reason": "繁殖競争において、より強靭で知性を持った個体が求められる環境になり、進化しました。",
+      "thought": "『知恵と力』"
     },
     "name": "アダム",
     "gender": "男性"
