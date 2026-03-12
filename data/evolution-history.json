@@ -27996,5 +27996,28 @@
       "gender": "男性"
     },
     "timestamp": 1773319956397
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='#ff9999' /><ellipse cx='160' cy='180' rx='15' ry='25' fill='#ff6666' /><ellipse cx='240' cy='180' rx='15' ry='25' fill='#ff6666' /><ellipse cx='200' cy='240' rx='25' ry='15' fill='#ff6666' /><path d='M160 240 Q200 260 240 240' fill='none' stroke='#cc3333' stroke-width='5' /><path d='M150 130 Q200 50 250 130' fill='none' stroke='#cc3333' stroke-width='5' /><path d='M150 260 Q200 320 250 260' fill='none' stroke='#cc3333' stroke-width='5' /><polygon points='190,190 195,200 205,200 210,190' fill='#ffcccc' /><polygon points='180,210 185,220 215,220 220,210' fill='#ffcccc' /></svg>",
+      "report": {
+        "appearance": "イヴは、淡いピンク色の体に大きな赤い目を持つ女性の生命体です。体は楕円形で、顔にはぷっくりとしたほっぺたがあります。背中には薄いピンクのフリル模様があり、愛らしい印象を与えます。",
+        "reason": "イヴは新たな進化を遂げ、より可愛らしさと独自性を持つ外見に変化しました。",
+        "thought": "『愛と美の力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#779ecb' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='#6688ff' /><ellipse cx='160' cy='180' rx='15' ry='25' fill='#3355cc' /><ellipse cx='240' cy='180' rx='15' ry='25' fill='#3355cc' /><ellipse cx='200' cy='240' rx='25' ry='15' fill='#3355cc' /><path d='M160 240 Q200 260 240 240' fill='none' stroke='#0033cc' stroke-width='5' /><path d='M150 130 Q200 50 250 130' fill='none' stroke='#0033cc' stroke-width='5' /><path d='M150 260 Q200 320 250 260' fill='none' stroke='#0033cc' stroke-width='5' /><polygon points='190,190 195,200 205,200 210,190' fill='#aaccee' /><polygon points='180,210 185,220 215,220 220,210' fill='#aaccee' /></svg>",
+      "report": {
+        "appearance": "アダムは、淡い青色の体に大きな青い目を持つ男性の生命体です。体は楕円形で、顔にはシャープな輪郭が特徴です。背中には青いフリル模様があり、力強い印象を与えます。",
+        "reason": "アダムは新たな進化を遂げ、より強さと威厳を持つ外見に変化しました。",
+        "thought": "『知識と力の調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1773341345552
   }
 ]
