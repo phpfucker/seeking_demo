@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffbfcc' /><ellipse cx='130' cy='170' rx='30' ry='20' fill='#ff9ca8' /><ellipse cx='270' cy='170' rx='30' ry='20' fill='#ff9ca8' /><path d='M200,200 L180,220 Q200,230 220,220 L200,200' fill='#ff9ca8' /><ellipse cx='170' cy='180' rx='12' ry='8' fill='#fff' /><ellipse cx='230' cy='180' rx='12' ry='8' fill='#fff' /><path d='M180,230 Q200,240 220,230' fill='none' stroke='#000' stroke-width='2' /><polygon points='160,200 200,240 240,200' fill='#fff' /><circle cx='180' cy='190' r='5' fill='#000' /><circle cx='220' cy='190' r='5' fill='#000' /><circle cx='200' cy='220' r='5' fill='#000' /><circle cx='180' cy='220' r='5' fill='#000' /><circle cx='220' cy='220' r='5' fill='#000' /><rect x='190' y='250' width='20' height='40' fill='#ff9ca8' /><rect x='180' y='290' width='40' height='15' fill='#ff9ca8' /><rect x='170' y='305' width='60' height='10' fill='#ff9ca8' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#FFC0CB' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#FFA07A' /><circle cx='150' cy='100' r='20' fill='#FF6347' /><circle cx='250' cy='100' r='20' fill='#FF6347' /><polygon points='170,180 230,180 200,230' fill='#FFD700' /><polygon points='200,230 190,250 210,250' fill='#FFD700' /><polygon points='160,220 170,230 160,240' fill='#FFD700' /><polygon points='240,220 230,230 240,240' fill='#FFD700' /><line x1='160' y1='150' x2='140' y2='120' stroke='#000' stroke-width='2' /><line x1='240' y1='150' x2='260' y2='120' stroke='#000' stroke-width='2' /><path d='M180 280 Q200 300 220 280' fill='none' stroke='#000' stroke-width='2' /><text x='200' y='350' font-size='20' fill='#000' text-anchor='middle'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴはピンク色の柔らかな皮膚を持ち、優雅な曲線の体型をしています。頭部には光沢のある赤いリボンのような飾りがあり、四肢はしなやかで美しいです。尾は短く、装飾的な模様があしらわれています。",
-      "reason": "新たな進化を迎え、より華やかで優美な特徴を身に纏うことで、生存競争において魅力的な存在となるため。",
-      "thought": "『愛と美しさが世界を彩る』"
+      "appearance": "イヴは桃色の体とオレンジ色の尾を持つ女性。体は楕円形で、顔には二つの赤い目があり、口元が微笑んでいる。頭には黄色い短い角が生えている。手足は黄色で、手には黄色の爪がある。",
+      "reason": "生態系の変化により、イヴは可愛らしさと力強さを兼ね備えた姿に進化した。",
+      "thought": "『愛と平和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='140' fill='#9fd6e6' /><path d='M160,200 Q200,100 240,200 Q200,240 160,200' fill='#6cb8d6' /><ellipse cx='200' cy='160' rx='40' ry='20' fill='#6cb8d6' /><line x1='150' y1='190' x2='170' y2='220' stroke='#000' stroke-width='2' /><line x1='250' y1='190' x2='230' y2='220' stroke='#000' stroke-width='2' /><polygon points='190,200 210,200 200,230' fill='#fff' /><ellipse cx='190' cy='200' rx='5' ry='10' fill='#000' /><ellipse cx='210' cy='200' rx='5' ry='10' fill='#000' /><rect x='185' y='220' width='30' height='40' fill='#6cb8d6' /><line x1='170' y1='260' x2='230' y2='260' stroke='#6cb8d6' stroke-width='15' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#4682B4' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#778899' /><circle cx='150' cy='100' r='20' fill='#B0C4DE' /><circle cx='250' cy='100' r='20' fill='#B0C4DE' /><polygon points='170,180 230,180 200,230' fill='#FFA07A' /><line x1='160' y1='150' x2='140' y2='120' stroke='#000' stroke-width='2' /><line x1='240' y1='150' x2='260' y2='120' stroke='#000' stroke-width='2' /><path d='M180 280 Q200 300 220 280' fill='none' stroke='#000' stroke-width='2' /><text x='200' y='350' font-size='20' fill='#000' text-anchor='middle'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは青色の精錬された外観を持ち、流れるような体つきに特徴があります。頭部には洗練された波状の模様があり、四肢はしなやかで力強い印象を与えます。尾は長く、独特なデザインが施されています。",
-      "reason": "進化の過程で、より力強く洗練された特性を身につけることで、狩りや生存において優位性を得るため。",
-      "thought": "『青い大空を翔ける』"
+      "appearance": "アダムは鋼鉄色の体と灰色の尾を持つ男性。体は楕円形で、顔には二つの青い目があり、口元が力強い表情をしている。頭にはオレンジ色の短い角が生えている。手足は青灰色で、手には灰色の爪がある。",
+      "reason": "環境の厳しさにより、アダムは強さと知恵を備えた新たな姿に進化した。",
+      "thought": "『勇気と誇り』"
     },
     "name": "アダム",
     "gender": "男性"
