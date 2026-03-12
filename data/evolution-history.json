@@ -27950,5 +27950,28 @@
       "gender": "男性"
     },
     "timestamp": 1773280107093
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#FFC0CB' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#FFA07A' /><circle cx='150' cy='100' r='20' fill='#FF6347' /><circle cx='250' cy='100' r='20' fill='#FF6347' /><polygon points='170,180 230,180 200,230' fill='#FFD700' /><polygon points='200,230 190,250 210,250' fill='#FFD700' /><polygon points='160,220 170,230 160,240' fill='#FFD700' /><polygon points='240,220 230,230 240,240' fill='#FFD700' /><line x1='160' y1='150' x2='140' y2='120' stroke='#000' stroke-width='2' /><line x1='240' y1='150' x2='260' y2='120' stroke='#000' stroke-width='2' /><path d='M180 280 Q200 300 220 280' fill='none' stroke='#000' stroke-width='2' /><text x='200' y='350' font-size='20' fill='#000' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは桃色の体とオレンジ色の尾を持つ女性。体は楕円形で、顔には二つの赤い目があり、口元が微笑んでいる。頭には黄色い短い角が生えている。手足は黄色で、手には黄色の爪がある。",
+        "reason": "生態系の変化により、イヴは可愛らしさと力強さを兼ね備えた姿に進化した。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#4682B4' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#778899' /><circle cx='150' cy='100' r='20' fill='#B0C4DE' /><circle cx='250' cy='100' r='20' fill='#B0C4DE' /><polygon points='170,180 230,180 200,230' fill='#FFA07A' /><line x1='160' y1='150' x2='140' y2='120' stroke='#000' stroke-width='2' /><line x1='240' y1='150' x2='260' y2='120' stroke='#000' stroke-width='2' /><path d='M180 280 Q200 300 220 280' fill='none' stroke='#000' stroke-width='2' /><text x='200' y='350' font-size='20' fill='#000' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは鋼鉄色の体と灰色の尾を持つ男性。体は楕円形で、顔には二つの青い目があり、口元が力強い表情をしている。頭にはオレンジ色の短い角が生えている。手足は青灰色で、手には灰色の爪がある。",
+        "reason": "環境の厳しさにより、アダムは強さと知恵を備えた新たな姿に進化した。",
+        "thought": "『勇気と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1773298219455
   }
 ]
