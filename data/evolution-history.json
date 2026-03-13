@@ -28019,5 +28019,28 @@
       "gender": "男性"
     },
     "timestamp": 1773341345552
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,255,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,192,203);stop-opacity:1' /></linearGradient></defs><rect x='50' y='100' width='300' height='200' fill='url(#gradA)' /><circle cx='150' cy='150' r='80' fill='url(#gradA)' /><circle cx='250' cy='150' r='80' fill='url(#gradA)' /><circle cx='150' cy='250' r='100' fill='url(#gradA)' /><circle cx='250' cy='250' r='100' fill='url(#gradA)' /><ellipse cx='200' cy='250' rx='60' ry='30' fill='url(#gradA)' /><ellipse cx='150' cy='150' rx='20' ry='40' fill='#FFC0CB' /><ellipse cx='250' cy='150' rx='20' ry='40' fill='#FFC0CB' /><rect x='190' y='250' width='20' height='60' fill='#FFC0CB' /><rect x='150' y='250' width='100' height='20' fill='#FFC0CB' /><polygon points='130,250 110,330 170,330' fill='#FFC0CB' /><polygon points='270,250 250,330 310,330' fill='#FFC0CB' /><circle cx='180' cy='200' r='10' fill='#000' /><circle cx='220' cy='200' r='10' fill='#000' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌と大きな眼を持つ女性。体は丸みを帯び、優雅な雰囲気を醸し出している。手足は繊細で、頭部には小さな角がある。",
+        "reason": "イヴは、自然との調和を求める進化を遂げた。その美しい姿は、生命の尊さと力強さを象徴している。",
+        "thought": "『自然と一体となる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,255,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,191,255);stop-opacity:1' /></linearGradient></defs><rect x='50' y='100' width='300' height='200' fill='url(#gradB)' /><circle cx='150' cy='150' r='80' fill='url(#gradB)' /><circle cx='250' cy='150' r='80' fill='url(#gradB)' /><circle cx='150' cy='250' r='100' fill='url(#gradB)' /><circle cx='250' cy='250' r='100' fill='url(#gradB)' /><ellipse cx='200' cy='250' rx='60' ry='30' fill='url(#gradB)' /><ellipse cx='150' cy='150' rx='20' ry='40' fill='#00BFFF' /><ellipse cx='250' cy='150' rx='20' ry='40' fill='#00BFFF' /><rect x='190' y='250' width='20' height='60' fill='#00BFFF' /><rect x='150' y='250' width='100' height='20' fill='#00BFFF' /><polygon points='130,250 110,330 170,330' fill='#00BFFF' /><polygon points='270,250 250,330 310,330' fill='#00BFFF' /><circle cx='180' cy='200' r='10' fill='#000' /><circle cx='220' cy='200' r='10' fill='#000' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌と鋭い眼差しを持つ男性。筋肉質で力強い体つきであり、頭部には小さな角が生えている。",
+        "reason": "アダムは、環境への適応力を高める進化を遂げた。そのたくましい姿は、生命の生存本能と力強さを示している。",
+        "thought": "『絶えず進化し続ける』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1773366543266
   }
 ]
