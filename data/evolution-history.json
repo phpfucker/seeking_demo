@@ -28065,5 +28065,28 @@
       "gender": "男性"
     },
     "timestamp": 1773384476957
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFB6C1' /><ellipse cx='200' cy='150' rx='90' ry='120' fill='#FFA07A' /><ellipse cx='160' cy='120' rx='15' ry='25' fill='#FFA07A' /><ellipse cx='240' cy='120' rx='15' ry='25' fill='#FFA07A' /><path d='M180 230 Q200 250 220 230' fill='none' stroke='#FFA07A' stroke-width='4' /><path d='M190 170 Q200 140 210 170' fill='none' stroke='#FFA07A' stroke-width='4' /><rect x='180' y='260' width='40' height='20' fill='#FF6347' /><polygon points='180,220 220,220 200,240' fill='#FF6347' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかい体にオレンジ色の顔を持ち、細長い脚と大きな瞳が特徴的な女性型生命体です。体の下部には赤い四角い尾があります。",
+        "reason": "生存環境の変化により、女性型生命体がより柔らかく美しい特徴を進化させることで、繁殖成功率を高めるため。",
+        "thought": "『愛と美しさの調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#6495ED' /><ellipse cx='200' cy='140' rx='100' ry='130' fill='#4169E1' /><path d='M160 230 Q200 270 240 230' fill='none' stroke='#4169E1' stroke-width='4' /><path d='M190 170 Q200 140 210 170' fill='none' stroke='#4169E1' stroke-width='4' /><line x1='180' y1='260' x2='220' y2='260' stroke='#4682B4' stroke-width='10' /><polygon points='200,240 180,280 220,280' fill='#4682B4' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の頑丈な体と深い青色の顔を持つ男性型生命体で、大きな瞳と太い脚が特徴です。背中には青い角が生えています。",
+        "reason": "生存競争が激化し、男性型生命体がより力強く頑丈な特徴を進化させることで、狩りや戦闘能力を高めるため。",
+        "thought": "『力と誇りの融合』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1773406295135
   }
 ]
