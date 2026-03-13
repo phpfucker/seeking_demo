@@ -28088,5 +28088,28 @@
       "gender": "男性"
     },
     "timestamp": 1773406295135
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><polygon points='200,50 250,150 150,150' fill='#ff9999'/><rect x='175' y='200' width='50' height='100' fill='#ff6666'/><ellipse cx='200' cy='175' rx='25' ry='20' fill='#ff3333'/><line x1='180' y1='175' x2='220' y2='175' stroke='#cc0000' stroke-width='5'/><path d='M175 250 Q200 275 225 250' fill='none' stroke='#cc0000' stroke-width='5'/><path d='M170 210 Q200 230 230 210' fill='none' stroke='#cc0000' stroke-width='3'/><polygon points='190,230 200,220 210,230' fill='#ff3333'/><line x1='180' y1='50' x2='180' y2='100' stroke='#cc0000' stroke-width='5'/><line x1='220' y1='50' x2='220' y2='100' stroke='#cc0000' stroke-width='5'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、優雅な体つきと美しい顔立ちが特徴です。赤い瞳を持ち、短い角が生えています。背中には赤い模様があり、優雅なしっぽがあります。",
+        "reason": "イヴは自然界の美しさとエレガンスを追求する進化を遂げました。",
+        "thought": "『自然の美しさを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6'/><polygon points='200,50 250,150 150,150' fill='#87ceeb'/><rect x='175' y='200' width='50' height='100' fill='#00bfff'/><ellipse cx='200' cy='175' rx='25' ry='20' fill='#1e90ff'/><line x1='180' y1='175' x2='220' y2='175' stroke='#0000cc' stroke-width='5'/><path d='M175 250 Q200 275 225 250' fill='none' stroke='#0000cc' stroke-width='5'/><path d='M170 210 Q200 230 230 210' fill='none' stroke='#0000cc' stroke-width='3'/><polygon points='190,230 200,220 210,230' fill='#1e90ff'/><line x1='180' y1='50' x2='180' y2='100' stroke='#0000cc' stroke-width='5'/><line x1='220' y1='50' x2='220' y2='100' stroke='#0000cc' stroke-width='5'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い皮膚と頑丈な体つきが特徴で、穏やかな表情と力強い足腰を持っています。青い瞳を持ち、角があります。背中には青い模様があり、しっかりとした尾があります。",
+        "reason": "アダムは強靭な生存力と穏やかな性格を持つ進化を遂げました。",
+        "thought": "『穏やかな強さを感じる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1773426982550
   }
 ]
