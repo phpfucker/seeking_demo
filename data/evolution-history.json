@@ -28042,5 +28042,28 @@
       "gender": "男性"
     },
     "timestamp": 1773366543266
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#ffccff' /><circle cx='200' cy='150' r='80' fill='#ff99cc' /><ellipse cx='160' cy='170' rx='20' ry='10' fill='#ff66b2' /><ellipse cx='240' cy='170' rx='20' ry='10' fill='#ff66b2' /><polygon points='180,200 220,200 200,220' fill='#ff33a6' /><path d='M180,300 Q200,320 220,300' fill='none' stroke='#ff33a6' stroke-width='3' /><line x1='150' y1='100' x2='180' y2='120' stroke='#ff99cc' stroke-width='3' /><line x1='250' y1='100' x2='220' y2='120' stroke='#ff99cc' stroke-width='3' /><circle cx='170' cy='150' r='5' fill='#fff' /><circle cx='230' cy='150' r='5' fill='#fff' /><circle cx='200' cy='180' r='10' fill='#fff' /><text x='200' y='250' font-family='Arial' font-size='20' fill='#333' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、頭には2本の角が生えています。大きな目と優しい表情の顔立ちを持ち、背中には蝶の模様が描かれています。四肢はしなやかで柔らかな曲線を描き、優雅な足と手を持っています。",
+        "reason": "イヴは自然と調和する力を求め、美しさと優しさを表現した進化を遂げました。",
+        "thought": "『命の尊さを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#99ccff' /><circle cx='200' cy='150' r='80' fill='#66b3ff' /><ellipse cx='160' cy='170' rx='20' ry='10' fill='#3385ff' /><ellipse cx='240' cy='170' rx='20' ry='10' fill='#3385ff' /><polygon points='180,200 220,200 200,220' fill='#005aff' /><path d='M180,300 Q200,320 220,300' fill='none' stroke='#005aff' stroke-width='3' /><line x1='150' y1='100' x2='180' y2='120' stroke='#66b3ff' stroke-width='3' /><line x1='250' y1='100' x2='220' y2='120' stroke='#66b3ff' stroke-width='3' /><circle cx='170' cy='150' r='5' fill='#fff' /><circle cx='230' cy='150' r='5' fill='#fff' /><circle cx='200' cy='180' r='10' fill='#fff' /><text x='200' y='250' font-family='Arial' font-size='20' fill='#333' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌を持ち、頭には2つの鋭い角があります。目は鋭く、力強い表情をしており、背中には波の模様が浮かんでいます。四肢は筋肉隆々で力強い曲線を描き、頑丈な足と大きな手を持っています。",
+        "reason": "アダムは力強さと知恵を象徴し、進化によりその力強さが一層際立ちました。",
+        "thought": "『未来への挑戦』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1773384476957
   }
 ]
