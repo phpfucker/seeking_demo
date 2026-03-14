@@ -28111,5 +28111,28 @@
       "gender": "男性"
     },
     "timestamp": 1773426982550
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='150' r='100' fill='url(#gradA)' /><ellipse cx='180' cy='120' rx='25' ry='15' fill='rgb(255,192,203)' /><ellipse cx='220' cy='120' rx='25' ry='15' fill='rgb(255,192,203)' /><ellipse cx='200' cy='160' rx='45' ry='30' fill='rgb(255,192,203)' /><circle cx='185' cy='115' r='5' fill='white' /><circle cx='215' cy='115' r='5' fill='white' /><circle cx='190' cy='160' r='10' fill='black' /><circle cx='210' cy='160' r='10' fill='black' /><path d='M190 200 Q200 240 210 200' stroke='black' stroke-width='2' fill='none' /><path d='M180 210 Q200 230 220 210' stroke='black' stroke-width='2' fill='none' /><path d='M180 210 Q200 230 220 210' stroke='black' stroke-width='2' fill='none' /><path d='M170 190 Q200 250 230 190' stroke='black' stroke-width='2' fill='none' /><polygon points='170,200 190,190 210,190 230,200' fill='rgb(255,192,203)' /><polygon points='185,220 190,245 210,245 215,220' fill='rgb(255,192,203)' /><polygon points='185,220 190,245 210,245 215,220' fill='rgb(255,192,203)' /><rect x='185' y='245' width='30' height='15' fill='rgb(255,192,203)' /><polygon points='170,200 190,210 210,210 230,200' fill='none' stroke='black' stroke-width='2' /><polygon points='185,220 190,225 210,225 215,220' fill='none' stroke='black' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクからオレンジへとグラデーションした柔らかな肌の持ち主で、大きな明るいピンクの目を持ち、頭に2つのピンク色の耳があります。体は丸みを帯びた輪郭で、手足は柔らかな曲線で描かれています。背中にはピンクの蝶のような模様が描かれ、大きなピンク色の翼を持っています。",
+        "reason": "イヴは新たな環境に適応するため、柔らかな色合いと優しい特徴を身につけました。",
+        "thought": "『自然と調和する』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(173,216,230);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><rect x='150' y='100' width='100' height='150' fill='url(#gradB)' /><circle cx='180' cy='120' r='25' fill='rgb(173,216,230)' /><circle cx='220' cy='120' r='25' fill='rgb(173,216,230)' /><rect x='170' y='200' width='60' height='10' fill='black' /><rect x='170' y='220' width='10' height='30' fill='black' /><rect x='240' y='220' width='10' height='30' fill='black' /><polygon points='190,250 210,250 200,280' fill='rgb(173,216,230)' /><polygon points='190,250 210,250 200,280' fill='rgb(173,216,230)' /><polygon points='180,120 190,100 210,100 220,120' fill='none' stroke='black' stroke-width='2' /><polygon points='180,120 190,100 210,100 220,120' fill='none' stroke='black' stroke-width='2' /><line x1='170' y1='150' x2='150' y2='200' stroke='black' stroke-width='2' /><line x1='230' y1='150' x2='250' y2='200' stroke='black' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青から水色へとグラデーションした外見を持ち、大きな水色の目と鋭い水色の角を持っています。体は頑丈な四角形で、手足としっぽは直線的で力強いラインが特徴です。背中には水色の模様があり、背びれも水色で装飾されています。",
+        "reason": "アダムは強力な捕食者としての役割を果たすため、力強さと独特な外見を進化させました。",
+        "thought": "『力強い者』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1773452804353
   }
 ]
