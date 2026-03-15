@@ -28226,5 +28226,28 @@
       "gender": "男性"
     },
     "timestamp": 1773540184974
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='150' width='300' height='200' fill='#ffcccb'/><ellipse cx='200' cy='100' rx='80' ry='120' fill='#ffc0cb'/><ellipse cx='160' cy='100' rx='10' ry='20' fill='#db7093'/><ellipse cx='240' cy='100' rx='10' ry='20' fill='#db7093'/><path d='M200 220 L180 260 L220 260 Z' fill='#db7093'/><path d='M150 300 Q200 330 250 300' fill='none' stroke='#db7093'/><path d='M170 300 Q200 320 230 300' fill='none' stroke='#db7093'/><polygon points='190,150 210,150 200,160' fill='#db7093'/><text x='200' y='380' text-anchor='middle' fill='#000' font-size='20'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の全身に大きな赤い楕円形の体と、愛らしい顔立ちを持つ女性型生命体です。顔には小さなピンクの耳と、上下対称の目と口があります。体の上部には小さな角のような飾りがあり、手足は細長く描かれています。",
+        "reason": "イヴは環境の変化に適応するため、より柔らかく愛らしい特徴を持つよう進化しました。",
+        "thought": "『やさしさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='150' width='300' height='200' fill='#add8e6'/><ellipse cx='200' cy='100' rx='70' ry='130' fill='#87ceeb'/><ellipse cx='160' cy='100' rx='12' ry='25' fill='#4682b4'/><ellipse cx='240' cy='100' rx='12' ry='25' fill='#4682b4'/><path d='M200 220 L180 260 L220 260 Z' fill='#4682b4'/><path d='M170 300 Q200 330 230 300' fill='none' stroke='#4682b4'/><path d='M180 300 Q200 320 220 300' fill='none' stroke='#4682b4'/><polygon points='195,150 205,150 200,160' fill='#4682b4'/><text x='200' y='380' text-anchor='middle' fill='#000' font-size='20'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、水色の全身に青色の楕円形の体を持つ男性型生命体です。顔には大きな青い目と上下対称の口があります。体の上部には小さな角のような飾りがあり、手足はしっかりとした筋肉が描かれています。",
+        "reason": "アダムは狩猟や生存競争において力強さを持つため、より引き締まった特徴を持つよう進化しました。",
+        "thought": "『力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1773557510741
   }
 ]
