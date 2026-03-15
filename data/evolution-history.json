@@ -28249,5 +28249,28 @@
       "gender": "男性"
     },
     "timestamp": 1773557510741
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink' /><ellipse cx='145' cy='180' rx='25' ry='15' fill='white' /><ellipse cx='255' cy='180' rx='25' ry='15' fill='white' /><path d='M150,220 Q200,270 250,220 Q230,280 200,270 Q170,280 150,220 Z' fill='pink' /><rect x='180' y='220' width='40' height='10' fill='pink' /><polygon points='175,190 200,170 225,190' fill='white' /><polygon points='195,195 200,205 205,195' fill='black' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に白い眼と黒い髪を持つ女性の姿をしています。頭部には白い模様があり、優雅で優しい雰囲気を放っています。",
+        "reason": "進化が起こった理由は、環境の変化によりイヴがより優れた生存能力を持たせるためです。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='160' y='200' width='80' height='120' fill='lightblue' /><ellipse cx='200' cy='150' rx='30' ry='20' fill='white' /><path d='M190,220 Q200,240 210,220 Q220,240 230,220 Q225,240 210,240 Q195,240 190,220 Z' fill='lightblue' /><rect x='185' y='240' width='30' height='10' fill='lightblue' /><polygon points='190,190 200,170 210,190' fill='white' /><polygon points='195,195 200,205 205,195' fill='black' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い体に白い眼と黒い髪を持つ男性の姿をしています。頭部には青い模様があり、力強く頼もしい雰囲気を醸し出しています。",
+        "reason": "進化が起こった理由は、アダムがより強靭な生存能力を獲得するためです。",
+        "thought": "『誇りと勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1773578648700
   }
 ]
