@@ -28456,5 +28456,28 @@
       "gender": "男性"
     },
     "timestamp": 1773752634893
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffbbbc' /><ellipse cx='160' cy='180' rx='25' ry='15' fill='#ffb6b7' /><ellipse cx='240' cy='180' rx='25' ry='15' fill='#ffb6b7' /><path d='M200,220 Q170,240 200,260 Q230,240 200,220 Z' fill='#ff8889' /><circle cx='170' cy='190' r='10' fill='#ffffff' /><circle cx='230' cy='190' r='10' fill='#ffffff' /><ellipse cx='200' cy='260' rx='20' ry='10' fill='#ff6667' /><path d='M180,250 Q200,270 220,250' fill='none' stroke='#333' stroke-width='2' /><circle cx='180' cy='190' r='5' fill='#000000' /><circle cx='220' cy='190' r='5' fill='#000000' /></svg>",
+      "report": {
+        "appearance": "イヴは赤い肌を持ち、柔らかな特徴の顔立ちをしています。薄ピンクの髪の毛が繊細に波打ち、心優しい表情を浮かべています。体は丸みを帯び、赤とピンクのグラデーションが美しい。",
+        "reason": "イヴの進化は自然界の色彩からインスピレーションを受け、より美しく優雅な姿に変化しました。",
+        "thought": "『愛と美の調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='100' fill='#aec6cf' /><rect x='155' y='155' width='90' height='90' fill='#a3bdc5' /><polygon points='200,150 220,100 240,150' fill='#b2d7e2' /><polygon points='215,160 225,160 220,170' fill='#ffffff' /><polygon points='180,200 200,240 220,200' fill='#b2d7e2' /><polygon points='195,210 205,210 200,220' fill='#ffffff' /><ellipse cx='200' cy='250' rx='20' ry='10' fill='#8ebdc5' /><line x1='180' y1='200' x2='220' y2='200' stroke='#333' stroke-width='2' /><circle cx='190' cy='190' r='5' fill='#000000' /><circle cx='210' cy='190' r='5' fill='#000000' /></svg>",
+      "report": {
+        "appearance": "アダムは青みがかった肌を持ち、頑丈な特徴の顔立ちをしています。濃い青色の短髪が風になびき、力強い表情を見せています。体は角ばり、青と白の組み合わせがクールで力強い。",
+        "reason": "アダムの進化は自然界の力強さからインスピレーションを受け、より頼りがいのある姿に変化しました。",
+        "thought": "『力と誇りの調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1773773941806
   }
 ]
