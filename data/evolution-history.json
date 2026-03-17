@@ -28433,5 +28433,28 @@
       "gender": "男性"
     },
     "timestamp": 1773730764731
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,0,0);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,255,0);stop-opacity:1' /></linearGradient></defs><rect x='50' y='50' width='300' height='300' fill='url(#gradA)' /><circle cx='200' cy='200' r='120' fill='#ffcc00' /><path d='M180 230 Q200 250 220 230' stroke='#ff6600' stroke-width='6' fill='none' /><circle cx='160' cy='190' r='10' fill='#fff' /><circle cx='240' cy='190' r='10' fill='#fff' /><path d='M160 260 Q200 290 240 260' stroke='#ff6600' stroke-width='6' fill='none' /><path d='M150 150 Q200 50 250 150' stroke='#ff6600' stroke-width='4' fill='none' /><circle cx='150' cy='150' r='10' fill='#fff' /><circle cx='250' cy='150' r='10' fill='#fff' /><path d='M120 240 Q200 350 280 240' stroke='#ff6600' stroke-width='6' fill='none' /><line x1='120' y1='260' x2='100' y2='290' stroke='#ff6600' stroke-width='6' /><line x1='280' y1='260' x2='300' y2='290' stroke='#ff6600' stroke-width='6' /></svg>",
+      "report": {
+        "appearance": "イヴは、鮮やかな黄色と赤色のグラデーションが美しい女性の姿をしています。体の中心に大きな黄色い円があり、顔には赤い模様が描かれています。四肢は柔らかな曲線で表現され、愛らしい表情をしています。",
+        "reason": "環境の色彩的多様性に対応するため、イヴは鮮やかな色彩と複雑な模様を持つよう進化しました。",
+        "thought": "『奇麗な色彩が心を豊かにする』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(0,0,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,255,255);stop-opacity:1' /></linearGradient></defs><rect x='50' y='50' width='300' height='300' fill='url(#gradB)' /><circle cx='200' cy='200' r='120' fill='#00ccff' /><path d='M180 230 Q200 250 220 230' stroke='#0066ff' stroke-width='6' fill='none' /><circle cx='160' cy='190' r='10' fill='#fff' /><circle cx='240' cy='190' r='10' fill='#fff' /><path d='M160 260 Q200 290 240 260' stroke='#0066ff' stroke-width='6' fill='none' /><path d='M150 150 Q200 50 250 150' stroke='#0066ff' stroke-width='4' fill='none' /><circle cx='150' cy='150' r='10' fill='#fff' /><circle cx='250' cy='150' r='10' fill='#fff' /><path d='M120 240 Q200 350 280 240' stroke='#0066ff' stroke-width='6' fill='none' /><line x1='120' y1='260' x2='100' y2='290' stroke='#0066ff' stroke-width='6' /><line x1='280' y1='260' x2='300' y2='290' stroke='#0066ff' stroke-width='6' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色と水色のグラデーションが美しい男性の姿をしています。大きな青い円で体が覆われ、水色の模様が顔に描かれています。複雑な曲線を持つ四肢は力強く、優雅な足取りです。",
+        "reason": "環境の青色系統に適応するため、アダムは青色と水色の美しいグラデーションを持つよう進化しました。",
+        "thought": "『青い空と海の広がりを感じる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1773752634893
   }
 ]
