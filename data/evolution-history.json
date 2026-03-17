@@ -28387,5 +28387,28 @@
       "gender": "男性"
     },
     "timestamp": 1773687401053
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(255,255,0);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,0,0);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='180' fill='url(#gradA)' /><ellipse cx='200' cy='130' rx='80' ry='120' fill='#ffcccc' /><ellipse cx='200' cy='280' rx='100' ry='60' fill='#ffcccc'/><path d='M160,170 Q200,220 240,170 Q200,200 160,170Z' fill='none' stroke='#ff6666' stroke-width='3' /><circle cx='160' cy='130' r='10' fill='#fff' /><circle cx='240' cy='130' r='10' fill='#fff' /><circle cx='200' cy='220' r='15' fill='#fff' /><path d='M170,280 Q200,330 230,280 Q200,300 170,280Z' fill='none' stroke='#ff6666' stroke-width='3' /><line x1='240' y1='280' x2='260' y2='260' stroke='#ff6666' stroke-width='3' /><line x1='160' y1='280' x2='140' y2='260' stroke='#ff6666' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "イヴは、赤と黄色のグラデーションが美しい外見を持つ女性で、頭部にはピンクの楕円形があります。体の中央には赤い模様が入り、赤い輪郭線が特徴的です。足元には白い小さな円があり、しっぽと角が優雅についています。",
+        "reason": "イヴは、新たな世代を育むために自身の美しさを高め、環境への順応力を増すために進化しました。",
+        "thought": "『誕生と変化の美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><radialGradient id='gradB' cx='50%' cy='50%' r='50%' fx='50%' fy='50%'><stop offset='0%' style='stop-color:rgb(0,0,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,255,255);stop-opacity:1' /></radialGradient></defs><circle cx='200' cy='200' r='180' fill='url(#gradB)' /><rect x='160' y='120' width='80' height='120' fill='#99ccff' /><path d='M200,240 Q170,280 200,320 Q230,280 200,240Z' fill='none' stroke='#6699ff' stroke-width='3' /><circle cx='180' cy='280' r='10' fill='#fff' /><circle cx='220' cy='280' r='10' fill='#fff' /><path d='M160,120 Q140,100 120,120 Q140,140 160,120Z' fill='none' stroke='#6699ff' stroke-width='3' /><path d='M240,120 Q260,100 280,120 Q260,140 240,120Z' fill='none' stroke='#6699ff' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色のグラデーションが美しい外見を持つ男性で、胴体は青色の長方形で覆われています。背中には青い輪郭線があり、顔には水色の楕円形が配置されています。手足には細やかな青い模様があり、頭部には白い小さな円が見られます。",
+        "reason": "アダムは、狩猟や生存競争において自らを守るために外見の美しさと強靭さを求め、進化しました。",
+        "thought": "『強さと美しさの調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1773712288275
   }
 ]
