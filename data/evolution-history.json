@@ -28548,5 +28548,28 @@
       "gender": "男性"
     },
     "timestamp": 1773839004810
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff99cc' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#ffb3d9' /><path d='M150 250 L180 300 L220 300 L250 250 Z' fill='#ff66a3' /><path d='M150 250 Q200 320 250 250' fill='none' stroke='#ff66a3' stroke-width='3' /><path d='M150 250 Q200 280 250 250' fill='none' stroke='#ff66a3' stroke-width='3' /><rect x='180' y='320' width='40' height='60' fill='#ff66a3' /><circle cx='180' cy='320' r='10' fill='#ff66a3' /><circle cx='220' cy='320' r='10' fill='#ff66a3' /><line x1='180' y1='320' x2='150' y2='380' stroke='#ff66a3' stroke-width='3' /><line x1='220' y1='320' x2='250' y2='380' stroke='#ff66a3' stroke-width='3' /><polygon points='175,150 200,120 225,150' fill='#ff66a3' /><polygon points='160,140 190,130 200,100 210,130 240,140 210,160 200,190 190,160' fill='#ff99cc' /><polygon points='165,135 195,125 200,100 205,125 235,135 205,155 200,180 195,155' fill='#ffb3d9' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に大きな目と巨大な耳を持つ女性の姿をしています。体の下部にはピンクのハイヒールを履いた足があり、優雅な雰囲気を醸し出しています。",
+        "reason": "進化の瞬間に大気中の微粒子が特定の遺伝子に影響を与え、イヴの体はより洗練された特徴を獲得しました。",
+        "thought": "『優雅な心』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#66b3ff' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#99ccff' /><path d='M150 250 L180 300 L220 300 L250 250 Z' fill='#3385ff' /><path d='M150 250 Q200 320 250 250' fill='none' stroke='#3385ff' stroke-width='3' /><path d='M150 250 Q200 280 250 250' fill='none' stroke='#3385ff' stroke-width='3' /><rect x='180' y='320' width='40' height='60' fill='#3385ff' /><circle cx='180' cy='320' r='10' fill='#3385ff' /><circle cx='220' cy='320' r='10' fill='#3385ff' /><line x1='180' y1='320' x2='150' y2='380' stroke='#3385ff' stroke-width='3' /><line x1='220' y1='320' x2='250' y2='380' stroke='#3385ff' stroke-width='3' /><polygon points='175,150 200,120 225,150' fill='#3385ff' /><polygon points='160,140 190,130 200,100 210,130 240,140 210,160 200,190 190,160' fill='#66b3ff' /><polygon points='165,135 195,125 200,100 205,125 235,135 205,155 200,180 195,155' fill='#99ccff' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に大きな目と巨大な耳を持つ男性の姿をしています。体の下部には青いブーツを履いた足があり、力強い印象を与えています。",
+        "reason": "環境の変化により、アダムの体はより力強い特徴を発展させ、強靭な外観を持つようになりました。",
+        "thought": "『勇敢な心』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1773860093060
   }
 ]
