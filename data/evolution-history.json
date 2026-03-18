@@ -28502,5 +28502,28 @@
       "gender": "男性"
     },
     "timestamp": 1773798955795
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='200' rx='120' ry='180' fill='#ffc0cb'/><rect x='140' y='220' width='120' height='100' fill='#ffb6c1'/><path d='M200,200 L180,240 L220,240 Z' fill='#ff99aa'/><polygon points='160,180 200,120 240,180' fill='#ff6699'/><polyline points='150,210 180,220 200,230 220,220 250,210' fill='none' stroke='#ff3333' stroke-width='3'/><line x1='170' y1='170' x2='190' y2='160' stroke='#ff1a66' stroke-width='4'/><circle cx='160' cy='180' r='8' fill='#ff0066'/><circle cx='240' cy='180' r='8' fill='#ff0066'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌と赤色の髪を持つ女性型生命体です。体の中心に大きな楕円形の目があり、頭部には小さな角が生えています。四肢は丸くて柔らかい形状をしており、胴体には赤いリボンのような模様が施されています。",
+        "reason": "新たな進化が起こり、生態系の変化に適応するため、イヴはより可愛らしい外見と柔らかな特徴を身につけました。",
+        "thought": "『幸せな未来』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6'/><ellipse cx='200' cy='200' rx='120' ry='180' fill='#87ceeb'/><rect x='140' y='220' width='120' height='100' fill='#6ca6cd'/><path d='M200,200 L180,240 L220,240 Z' fill='#4682b4'/><polygon points='160,180 200,120 240,180' fill='#4169e1'/><polyline points='150,210 180,220 200,230 220,220 250,210' fill='none' stroke='#0000cd' stroke-width='3'/><line x1='170' y1='170' x2='190' y2='160' stroke='#1e90ff' stroke-width='4'/><circle cx='160' cy='180' r='8' fill='#00bfff'/><circle cx='240' cy='180' r='8' fill='#00bfff'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌と青緑色の髪を持つ男性型生命体です。大きな目と鋭い角を持ち、胴体には青色の模様が入っています。四肢は頑丈で筋肉質な形状をしており、しっぽが背中に生えています。",
+        "reason": "進化のプロセスにより、アダムはより力強くたくましい外観と鋭い特徴を獲得し、環境により適応するようになりました。",
+        "thought": "『未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1773817069081
   }
 ]
