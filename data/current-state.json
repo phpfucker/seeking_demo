@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc00'/><ellipse cx='200' cy='150' rx='100' ry='60' fill='#ffdd99'/><polygon points='140,220 260,220 200,300' fill='#ffaa66'/><path d='M160 200 Q200 250 240 200 Q200 250 160 200' fill='#ffcc00'/><rect x='180' y='180' width='40' height='80' fill='#ffaa66'/><line x1='160' y1='150' x2='200' y2='150' stroke='#663300' stroke-width='5'/><line x1='240' y1='150' x2='200' y2='150' stroke='#663300' stroke-width='5'/><circle cx='180' cy='180' r='5' fill='#663300'/><circle cx='220' cy='180' r='5' fill='#663300'/><path d='M200 220 Q190 240 210 240 Q190 260 200 280 Q210 260 210 240 Q230 240 210 220 Q190 240 200 220' fill='#ffaa66'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffc0cb' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#ff69b4' /><rect x='150' y='250' width='100' height='50' fill='#ff1493' /><path d='M200,200 L220,180 L240,200 Z' fill='#ff69b4' /><polygon points='180,150 190,140 210,140 220,150' fill='#ff69b4' /><polyline points='160,230 180,230 190,250' fill='none' stroke='#ff1493' stroke-width='2' /><line x1='170' y1='250' x2='160' y2='270' stroke='#ff1493' stroke-width='2' /><line x1='230' y1='250' x2='240' y2='270' stroke='#ff1493' stroke-width='2' /><line x1='160' y1='300' x2='140' y2='320' stroke='#ff1493' stroke-width='2' /><line x1='240' y1='300' x2='260' y2='320' stroke='#ff1493' stroke-width='2' /><line x1='150' y1='220' x2='130' y2='200' stroke='#ff1493' stroke-width='2' /><line x1='250' y1='220' x2='270' y2='200' stroke='#ff1493' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "イヴは、全身を覆う金色の光沢のある皮膚を持ち、優美な曲線と柔らかな輝きを放つ。頭部には円形の明るい色の頭飾りがあり、手足は細長くしなやか。背中には一対の小さな羽が生えている。",
-      "reason": "イヴは新たな進化を遂げ、より優美で華やかな外観を手に入れた。",
-      "thought": "『輝く美しさ』"
+      "appearance": "イヴはピンク色の体と薄い赤色の髪を持つ女性。体は大きな円形で、薄いピンク色の体には長い髪の毛が生えており、薄い赤色の長い髪を持つ。顔の形は楕円形で、口や目は描かれていない。両手は腰に当たる位置にあり、短い薄い赤色のドレスを着ている。両足は幅広で長い薄い赤色のブーツを履いている。",
+      "reason": "イヴは内なる美しさと優しさを表現するため、より柔らかく優しい色合いと特徴を身に纏った。",
+      "thought": "『愛と美の源泉』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='160' y='120' width='80' height='160' fill='#0066cc'/><polygon points='200,60 240,120 160,120' fill='#3399ff'/><circle cx='200' cy='80' r='20' fill='#003366'/><circle cx='190' cy='80' r='5' fill='#ffffff'/><circle cx='210' cy='80' r='5' fill='#ffffff'/><line x1='180' y1='120' x2='160' y2='150' stroke='#003366' stroke-width='5'/><line x1='220' y1='120' x2='240' y2='150' stroke='#003366' stroke-width='5'/><path d='M200 140 Q190 160 210 160 Q190 180 200 200 Q210 180 210 160 Q230 160 210 140 Q190 160 200 140' fill='#3399ff'/><circle cx='200' cy='200' r='15' fill='#ffffff'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#4682b4' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#4169e1' /><rect x='150' y='250' width='100' height='50' fill='#000080' /><path d='M200,200 L220,180 L240,200 Z' fill='#4169e1' /><polygon points='180,150 190,140 210,140 220,150' fill='#4169e1' /><polyline points='160,230 180,230 190,250' fill='none' stroke='#000080' stroke-width='2' /><line x1='170' y1='250' x2='160' y2='270' stroke='#000080' stroke-width='2' /><line x1='230' y1='250' x2='240' y2='270' stroke='#000080' stroke-width='2' /><line x1='160' y1='300' x2='140' y2='320' stroke='#000080' stroke-width='2' /><line x1='240' y1='300' x2='260' y2='320' stroke='#000080' stroke-width='2' /><line x1='150' y1='220' x2='130' y2='200' stroke='#000080' stroke-width='2' /><line x1='250' y1='220' x2='270' y2='200' stroke='#000080' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "アダムは青い体色と鋭い輪郭を持つ男性的な姿をしている。背中には青い鱗状の模様があり、頭部には小さな突起がある。四肢は筋骨隆々とした力強い形状であり、足元には青い鱗状の装飾が施されている。",
-      "reason": "アダムは力強さと品格を備えた新たな進化を遂げた。",
-      "thought": "『力強い風格』"
+      "appearance": "アダムは青色の体と濃い青色の髪を持つ男性。体は大きな円形で、青い体には短い濃い青色の髪が生えている。顔の形は楕円形で、口や目は描かれていない。両手は腰に当たる位置にあり、短い黒色のトランクスを身に着けている。両足は幅広で短い黒色のブーツを履いている。",
+      "reason": "アダムは内面の強さと頼もしさを表現するため、より力強い色合いと特徴を備えた。",
+      "thought": "『勇気と誇りの象徴』"
     },
     "name": "アダム",
     "gender": "男性"
