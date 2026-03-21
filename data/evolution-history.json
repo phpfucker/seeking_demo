@@ -28755,5 +28755,28 @@
       "gender": "男性"
     },
     "timestamp": 1774032159025
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' style='background-color: #f7e1e8;'><circle cx='200' cy='200' r='150' fill='#f69ed1' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='#f8c4d8' /><rect x='160' y='200' width='80' height='120' fill='#f69ed1' /><polygon points='130,150 200,50 270,150' fill='#ffcee7' /><path d='M160,320 L180,320 L185,340 L175,340 Z' fill='#ffcee7' /><path d='M220,320 L240,320 L245,340 L235,340 Z' fill='#ffcee7' /><line x1='160' y1='200' x2='110' y2='170' stroke='#f8c4d8' stroke-width='5' /><line x1='240' y1='200' x2='290' y2='170' stroke='#f8c4d8' stroke-width='5' /><line x1='145' y1='250' x2='125' y2='290' stroke='#f8c4d8' stroke-width='5' /><line x1='255' y1='250' x2='275' y2='290' stroke='#f8c4d8' stroke-width='5' /><line x1='125' y1='290' x2='175' y2='290' stroke='#f8c4d8' stroke-width='5' /><line x1='225' y1='290' x2='275' y2='290' stroke='#f8c4d8' stroke-width='5' /><line x1='175' y1='290' x2='190' y2='320' stroke='#f8c4d8' stroke-width='5' /><line x1='225' y1='290' x2='210' y2='320' stroke='#f8c4d8' stroke-width='5' /><line x1='200' y1='150' x2='200' y2='100' stroke='#f8c4d8' stroke-width='5' /><line x1='180' y1='160' x2='160' y2='140' stroke='#f8c4d8' stroke-width='5' /><line x1='220' y1='160' x2='240' y2='140' stroke='#f8c4d8' stroke-width='5' /><line x1='180' y1='240' x2='160' y2='260' stroke='#f8c4d8' stroke-width='5' /><line x1='220' y1='240' x2='240' y2='260' stroke='#f8c4d8' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、大きな紫色の目が特徴です。体は丸みを帯び、全体的に優しい雰囲気を醸し出しています。四肢は短く、丸い手と足があります。背中には三日月型の模様があり、しっとりとした光沢を放っています。",
+        "reason": "新たな自然環境に適応するため、イヴは優しさと柔らかさを象徴する特徴を強化しました。",
+        "thought": "『やさしさの力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' style='background-color: #c6e2ff;'><circle cx='200' cy='200' r='150' fill='#6ea5e1' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='#8dc6f2' /><rect x='160' y='200' width='80' height='120' fill='#6ea5e1' /><polygon points='130,150 200,50 270,150' fill='#a8d9ff' /><path d='M160,320 L180,320 L185,340 L175,340 Z' fill='#a8d9ff' /><path d='M220,320 L240,320 L245,340 L235,340 Z' fill='#a8d9ff' /><line x1='160' y1='200' x2='110' y2='170' stroke='#8dc6f2' stroke-width='5' /><line x1='240' y1='200' x2='290' y2='170' stroke='#8dc6f2' stroke-width='5' /><line x1='145' y1='250' x2='125' y2='290' stroke='#8dc6f2' stroke-width='5' /><line x1='255' y1='250' x2='275' y2='290' stroke='#8dc6f2' stroke-width='5' /><line x1='125' y1='290' x2='175' y2='290' stroke='#8dc6f2' stroke-width='5' /><line x1='225' y1='290' x2='275' y2='290' stroke='#8dc6f2' stroke-width='5' /><line x1='175' y1='290' x2='190' y2='320' stroke='#8dc6f2' stroke-width='5' /><line x1='225' y1='290' x2='210' y2='320' stroke='#8dc6f2' stroke-width='5' /><line x1='200' y1='150' x2='200' y2='100' stroke='#8dc6f2' stroke-width='5' /><line x1='180' y1='160' x2='160' y2='140' stroke='#8dc6f2' stroke-width='5' /><line x1='220' y1='160' x2='240' y2='140' stroke='#8dc6f2' stroke-width='5' /><line x1='180' y1='240' x2='160' y2='260' stroke='#8dc6f2' stroke-width='5' /><line x1='220' y1='240' x2='240' y2='260' stroke='#8dc6f2' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の滑らかな皮膚を持ち、大きな青い瞳が特徴です。体は力強く、全体的に知性を感じさせる姿をしています。四肢はしっかりとした筋肉を持ち、力強い手と足があります。背中には星型の模様があり、力強さを表現しています。",
+        "reason": "新たな自然環境に対応するため、アダムは知性と力強さを示す特徴を強化しました。",
+        "thought": "『知恵と勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1774057515979
   }
 ]
