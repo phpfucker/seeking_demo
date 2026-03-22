@@ -28847,5 +28847,28 @@
       "gender": "男性"
     },
     "timestamp": 1774117861753
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"pink\"/><circle cx=\"200\" cy=\"150\" r=\"50\" fill=\"purple\"/><ellipse cx=\"150\" cy=\"250\" rx=\"30\" ry=\"20\" fill=\"yellow\"/><polygon points=\"180,280 200,320 220,280\" fill=\"orange\"/><path d=\"M170 200 L190 220 L210 200 L230 220 L250 200\" fill=\"cyan\"/><line x1=\"130\" y1=\"150\" x2=\"100\" y2=\"200\" stroke=\"black\" stroke-width=\"5\"/><line x1=\"270\" y1=\"150\" x2=\"300\" y2=\"200\" stroke=\"black\" stroke-width=\"5\"/><line x1=\"130\" y1=\"350\" x2=\"100\" y2=\"300\" stroke=\"black\" stroke-width=\"5\"/><line x1=\"270\" y1=\"350\" x2=\"300\" y2=\"300\" stroke=\"black\" stroke-width=\"5\"/></svg>",
+      "report": {
+        "appearance": "イヴはピンクの体色を持ち、紫色の円形の頭部と黄色の楕円形の胴体を持ち、オレンジの三角形の模様が背中にあります。頭部には青色の装飾があり、四本の黒い手足を持っています。",
+        "reason": "環境の変化により、イヴは新たな色と模様を身につける進化を遂げました。",
+        "thought": "『新しい姿、新しい私』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"blue\"/><circle cx=\"200\" cy=\"150\" r=\"50\" fill=\"green\"/><ellipse cx=\"150\" cy=\"250\" rx=\"30\" ry=\"20\" fill=\"red\"/><polygon points=\"180,280 200,320 220,280\" fill=\"yellow\"/><path d=\"M170 200 L190 220 L210 200 L230 220 L250 200\" fill=\"purple\"/><line x1=\"130\" y1=\"150\" x2=\"100\" y2=\"200\" stroke=\"black\" stroke-width=\"5\"/><line x1=\"270\" y1=\"150\" x2=\"300\" y2=\"200\" stroke=\"black\" stroke-width=\"5\"/><line x1=\"130\" y1=\"350\" x2=\"100\" y2=\"300\" stroke=\"black\" stroke-width=\"5\"/><line x1=\"270\" y1=\"350\" x2=\"300\" y2=\"300\" stroke=\"black\" stroke-width=\"5\"/></svg>",
+      "report": {
+        "appearance": "アダムは青色の体色を持ち、緑色の円形の頭部と赤色の楕円形の胴体を持ち、黄色の三角形の模様が背中にあります。頭部には紫色の装飾があり、四本の黒い手足を持っています。",
+        "reason": "繁殖競争の中で、アダムは新たな色と模様を身につける進化を遂げました。",
+        "thought": "『次の世代への責任』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1774144595404
   }
 ]
