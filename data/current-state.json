@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#ffc0cb' /><path d='M200 270 Q150 300 200 330 Q250 300 200 270' fill='#ffccff' /><polygon points='160,120 200,80 240,120' fill='#ff99cc' /><ellipse cx='160' cy='130' rx='20' ry='10' fill='#ff99cc' /><ellipse cx='240' cy='130' rx='20' ry='10' fill='#ff99cc' /><line x1='180' y1='190' x2='190' y2='190' stroke='#333' stroke-width='2' /><line x1='210' y1='190' x2='220' y2='190' stroke='#333' stroke-width='2' /><line x1='190' y1='300' x2='210' y2='300' stroke='#333' stroke-width='2' /><path d='M190 270 Q200 280 210 270' fill='none' stroke='#333' stroke-width='2' /><text x='180' y='350' font-family='Arial' font-size='20' fill='#333'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffdbcf' /><ellipse cx='200' cy='180' rx='120' ry='150' fill='#ffe0bd' /><path d='M150,300 Q200,150 250,300' fill='none' stroke='#ff9a8b' stroke-width='10' /><path d='M180,160 Q200,140 220,160' fill='none' stroke='#000' stroke-width='4' /><path d='M180,160 Q200,140 220,160' fill='none' stroke='#000' stroke-width='4' transform='translate(0,40)' /><circle cx='170' cy='170' r='10' fill='#000' /><circle cx='230' cy='170' r='10' fill='#000' /><polygon points='170,250 180,240 190,260' fill='#ff9a8b' /><polygon points='210,250 200,240 190,260' fill='#ff9a8b' /><polygon points='150,180 250,180 200,230' fill='#f9d0c4' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の体と赤い髪を持つ女性で、頭にはつややかな角があります。胴体は細く、優雅な曲線を描いています。四肢は柔らかく、やさしい印象を与えます。背中にはふわふわのピンク色のしっぽが生えています。",
-      "reason": "イヴは自然の摂理により、より美しく優雅な姿に進化しました。",
-      "thought": "『愛と美しさの力』"
+      "appearance": "イヴは、ピンク色の柔らかな毛皮を持ち、優雅な曲線の体と長いしっぽが特徴です。顔には二つの大きな目と小さな口があります。背中には赤い炎のような模様が広がります。",
+      "reason": "イヴは新たな生息地で色彩豊かな植物が繁茂し、それに適応するため、花や果実と同化することで生存をサポートする進化を遂げました。",
+      "thought": "『自然と一体化する美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#87ceeb' /><rect x='150' y='100' width='100' height='50' fill='#add8e6' /><rect x='150' y='250' width='100' height='50' fill='#add8e6' /><rect x='160' y='100' width='20' height='50' fill='#87ceeb' /><rect x='160' y='250' width='20' height='50' fill='#87ceeb' /><polygon points='200,60 230,100 170,100' fill='#4682b4' /><circle cx='200' cy='60' r='10' fill='#4682b4' /><line x1='170' y1='100' x2='160' y2='100' stroke='#333' stroke-width='2' /><line x1='230' y1='100' x2='240' y2='100' stroke='#333' stroke-width='2' /><text x='150' y='350' font-family='Arial' font-size='20' fill='#333'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='80' width='100' height='220' fill='#aec8e0' /><path d='M200,100 Q150,150 200,200 Q250,150 200,100' fill='#aec8e0' /><circle cx='180' cy='130' r='15' fill='#fff' /><circle cx='220' cy='130' r='15' fill='#fff' /><polygon points='160,300 170,280 180,300' fill='#6e8896' /><polygon points='240,300 230,280 220,300' fill='#6e8896' /><rect x='170' y='220' width='60' height='30' fill='#f5f5f5' /><rect x='150' y='130' width='100' height='20' fill='#aec8e0' /></svg>",
     "report": {
-      "appearance": "アダムは、青色の体を持つ男性で、四角い頭と力強い体つきが特徴です。胴体は幅広く、筋肉が発達しています。四肢は頑丈で、力強い印象を与えます。背中には翼のような模様が描かれています。",
-      "reason": "アダムは自然の摂理により、より強靭で頼りがいのある姿に進化しました。",
-      "thought": "『力と誇りの在り処』"
+      "appearance": "アダムは、青い鱗状の肌を持ち、頑丈な四角い体と流れるような翼が特徴です。顔には大きな丸い目と口があります。尾には水しぶきをかたどった模様が描かれています。",
+      "reason": "アダムは新たな環境で過酷な空を飛び回る必要が生じ、大気中の微粒子を捉えて鱗状の防護を身につけることで、空中飛行をサポートする進化を遂げました。",
+      "thought": "『風を切り、自由に舞い上がる』"
     },
     "name": "アダム",
     "gender": "男性"
