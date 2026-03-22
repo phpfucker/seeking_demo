@@ -28916,5 +28916,28 @@
       "gender": "男性"
     },
     "timestamp": 1774183353894
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffdbcf' /><ellipse cx='200' cy='180' rx='120' ry='150' fill='#ffe0bd' /><path d='M150,300 Q200,150 250,300' fill='none' stroke='#ff9a8b' stroke-width='10' /><path d='M180,160 Q200,140 220,160' fill='none' stroke='#000' stroke-width='4' /><path d='M180,160 Q200,140 220,160' fill='none' stroke='#000' stroke-width='4' transform='translate(0,40)' /><circle cx='170' cy='170' r='10' fill='#000' /><circle cx='230' cy='170' r='10' fill='#000' /><polygon points='170,250 180,240 190,260' fill='#ff9a8b' /><polygon points='210,250 200,240 190,260' fill='#ff9a8b' /><polygon points='150,180 250,180 200,230' fill='#f9d0c4' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな毛皮を持ち、優雅な曲線の体と長いしっぽが特徴です。顔には二つの大きな目と小さな口があります。背中には赤い炎のような模様が広がります。",
+        "reason": "イヴは新たな生息地で色彩豊かな植物が繁茂し、それに適応するため、花や果実と同化することで生存をサポートする進化を遂げました。",
+        "thought": "『自然と一体化する美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='80' width='100' height='220' fill='#aec8e0' /><path d='M200,100 Q150,150 200,200 Q250,150 200,100' fill='#aec8e0' /><circle cx='180' cy='130' r='15' fill='#fff' /><circle cx='220' cy='130' r='15' fill='#fff' /><polygon points='160,300 170,280 180,300' fill='#6e8896' /><polygon points='240,300 230,280 220,300' fill='#6e8896' /><rect x='170' y='220' width='60' height='30' fill='#f5f5f5' /><rect x='150' y='130' width='100' height='20' fill='#aec8e0' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い鱗状の肌を持ち、頑丈な四角い体と流れるような翼が特徴です。顔には大きな丸い目と口があります。尾には水しぶきをかたどった模様が描かれています。",
+        "reason": "アダムは新たな環境で過酷な空を飛び回る必要が生じ、大気中の微粒子を捉えて鱗状の防護を身につけることで、空中飛行をサポートする進化を遂げました。",
+        "thought": "『風を切り、自由に舞い上がる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1774204319772
   }
 ]
