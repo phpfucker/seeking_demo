@@ -28962,5 +28962,28 @@
       "gender": "男性"
     },
     "timestamp": 1774231059358
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 400\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"#ffccd2\"/><ellipse cx=\"200\" cy=\"180\" rx=\"100\" ry=\"120\" fill=\"#ffc2d3\"/><rect x=\"150\" y=\"250\" width=\"100\" height=\"100\" fill=\"#ffc2d3\"/><rect x=\"150\" y=\"250\" width=\"100\" height=\"20\" fill=\"#ffccd2\"/><rect x=\"250\" y=\"250\" width=\"100\" height=\"20\" fill=\"#ffccd2\"/><path d=\"M230 150 Q200 130 170 150\" fill=\"none\" stroke=\"black\"/><path d=\"M170 150 Q200 170 230 150\" fill=\"none\" stroke=\"black\"/><path d=\"M180 220 Q200 240 220 220\" fill=\"none\" stroke=\"black\"/><path d=\"M220 220 Q200 200 180 220\" fill=\"none\" stroke=\"black\"/><polygon points=\"190,180 200,160 210,180\" fill=\"#fff\"/><path d=\"M190 320 Q200 290 210 320\" fill=\"none\" stroke=\"black\"/><polygon points=\"200,280 220,250 240,280\" fill=\"#ffccd2\"/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな体と白い模様のある大きな楕円形の目を持つ女性型生命体です。細長い手と足、頭部には薄いピンク色の角が2本生えています。体の下部には尾があり、愛らしい表情をしています。",
+        "reason": "イヴは周囲の植物や自然と調和した姿に進化しました。柔らかな色合いと愛らしい特徴は、やさしさと平和を象徴しています。",
+        "thought": "『自然と共に在りたい』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 400\"><ellipse cx=\"200\" cy=\"200\" rx=\"160\" ry=\"120\" fill=\"#b3d9ff\"/><rect x=\"180\" y=\"220\" width=\"40\" height=\"100\" fill=\"#b3d9ff\"/><rect x=\"280\" y=\"220\" width=\"40\" height=\"100\" fill=\"#b3d9ff\"/><rect x=\"170\" y=\"250\" width=\"30\" height=\"30\" fill=\"#a0c6e8\"/><rect x=\"270\" y=\"250\" width=\"30\" height=\"30\" fill=\"#a0c6e8\"/><circle cx=\"200\" cy=\"180\" r=\"20\" fill=\"#fff\"/><circle cx=\"200\" cy=\"180\" r=\"10\" fill=\"#000\"/><path d=\"M180 150 Q200 130 220 150\" fill=\"none\" stroke=\"black\"/><path d=\"M220 150 Q200 170 180 150\" fill=\"none\" stroke=\"black\"/><path d=\"M180 220 Q200 240 220 220\" fill=\"none\" stroke=\"black\"/><path d=\"M220 220 Q200 200 180 220\" fill=\"none\" stroke=\"black\"/><polygon points=\"190,230 200,210 210,230\" fill=\"#fff\"/><path d=\"M190 320 Q200 290 210 320\" fill=\"none\" stroke=\"black\"/><polygon points=\"200,280 220,250 240,280\" fill=\"#b3d9ff\"/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体と頭部に大きな白い目を持つ男性型生命体です。四角い手足と丸い尾、澄んだ表情をしています。体には薄い青色の模様が施されています。",
+        "reason": "アダムは空と海を象徴する姿に進化しました。青色は広大な空や深い海をイメージし、清らかな特徴は自由と冒険心を表しています。",
+        "thought": "『自由な旅路を歩みたい』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1774249511133
   }
 ]
