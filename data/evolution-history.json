@@ -28939,5 +28939,28 @@
       "gender": "男性"
     },
     "timestamp": 1774204319772
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><polygon points='160,180 200,120 240,180' fill='#ff99ff' /><ellipse cx='200' cy='240' rx='60' ry='30' fill='#ff99ff' /><rect x='180' y='200' width='40' height='20' fill='#ff66cc' /><ellipse cx='175' cy='230' rx='5' ry='8' fill='#ff66cc' /><ellipse cx='225' cy='230' rx='5' ry='8' fill='#ff66cc' /><circle cx='188' cy='190' r='5' fill='#000' /><circle cx='212' cy='190' r='5' fill='#000' /><line x1='188' y1='260' x2='188' y2='285' stroke='#666' stroke-width='3' /><line x1='212' y1='260' x2='212' y2='285' stroke='#666' stroke-width='3' /><path d='M180 210 Q200 220 220 210' fill='none' stroke='#000' stroke-width='2' /><path d='M220 210 Q200 245 180 210' fill='none' stroke='#000' stroke-width='2' /><text x='200' y='330' font-family='Arial' font-size='20' fill='#333' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の大きな円形の体を持ち、顔には三角形の鼻と楕円形の口がある。胴体には短い脚があり、背中にはふわふわした毛が生えている。体色は淡いピンクから濃いピンクにグラデーションしている。",
+        "reason": "イヴは自然の力からインスピレーションを得て、より優雅で美しい姿に進化した。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#99ccff' /><polygon points='160,180 200,120 240,180' fill='#6699ff' /><ellipse cx='200' cy='240' rx='60' ry='30' fill='#6699ff' /><rect x='180' y='200' width='40' height='20' fill='#3366cc' /><ellipse cx='175' cy='230' rx='5' ry='8' fill='#3366cc' /><ellipse cx='225' cy='230' rx='5' ry='8' fill='#3366cc' /><circle cx='188' cy='190' r='5' fill='#000' /><circle cx='212' cy='190' r='5' fill='#000' /><line x1='188' y1='260' x2='188' y2='285' stroke='#666' stroke-width='3' /><line x1='212' y1='260' x2='212' y2='285' stroke='#666' stroke-width='3' /><path d='M180 210 Q200 220 220 210' fill='none' stroke='#000' stroke-width='2' /><path d='M220 210 Q200 245 180 210' fill='none' stroke='#000' stroke-width='2' /><text x='200' y='330' font-family='Arial' font-size='20' fill='#333' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青色の大きな円形の体を持ち、顔には三角形の鼻と楕円形の口がある。胴体には短い脚があり、背中にはふわふわした毛が生えている。体色は淡い青から濃い青にグラデーションしている。",
+        "reason": "アダムは力強さと知恵を象徴する新たな姿に進化した。",
+        "thought": "『力と知恵』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1774231059358
   }
 ]
