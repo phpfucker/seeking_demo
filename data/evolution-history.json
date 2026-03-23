@@ -29008,5 +29008,28 @@
       "gender": "男性"
     },
     "timestamp": 1774270757442
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#FFB6C1' /><ellipse cx='200' cy='160' rx='80' ry='100' fill='#FFCCCC' /><rect x='160' y='240' width='80' height='40' fill='#FFCCCC' /><rect x='140' y='280' width='120' height='40' fill='#FFCCCC' /><polygon points='200,120 220,140 180,140' fill='#FFCCCC' /><ellipse cx='180' cy='155' rx='10' ry='5' fill='#000' /><ellipse cx='220' cy='155' rx='10' ry='5' fill='#000' /><path d='M180,220 Q200,260 220,220 Q200,240 180,220' fill='none' stroke='#000' stroke-width='2' /><path d='M135,240 Q150,220 165,240 Q150,260 135,240 Z' fill='#FFB6C1' /><path d='M265,240 Q250,220 235,240 Q250,260 265,240 Z' fill='#FFB6C1' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかな体に赤色の服を身に纏っています。体の上部は白い部分で覆われ、耳や手足には薄いピンクの模様があります。",
+        "reason": "女性らしさと優しさをより強調するため、色彩と柔らかな形状が進化しました。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#4682B4' /><ellipse cx='200' cy='160' rx='80' ry='100' fill='#87CEEB' /><rect x='160' y='240' width='80' height='40' fill='#87CEEB' /><rect x='140' y='280' width='120' height='40' fill='#87CEEB' /><polygon points='200,120 220,140 180,140' fill='#87CEEB' /><ellipse cx='180' cy='155' rx='10' ry='5' fill='#000' /><ellipse cx='220' cy='155' rx='10' ry='5' fill='#000' /><line x1='180' y1='220' x2='170' y2='240' stroke='#000' stroke-width='2' /><line x1='220' y1='220' x2='230' y2='240' stroke='#000' stroke-width='2' /><path d='M135,260 Q150,280 165,260 Q150,240 135,260 Z' fill='#4682B4' /><path d='M265,260 Q250,280 235,260 Q250,240 265,260 Z' fill='#4682B4' /></svg>",
+      "report": {
+        "appearance": "アダムは青色の頑丈な体に青色の服をまとい、頭部には淡い青色の模様があります。体の下部は白く、手足には濃い青色のストライプが入っています。",
+        "reason": "男性らしさと力強さをより表現するため、色彩と堅固な形状が進化しました。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1774291796141
   }
 ]
