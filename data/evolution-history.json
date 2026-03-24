@@ -29031,5 +29031,28 @@
       "gender": "男性"
     },
     "timestamp": 1774291796141
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='150' fill='#ffbbcc'/><ellipse cx='200' cy='100' rx='50' ry='30' fill='#ffd3b6'/><path d='M200 150 L180 210 L220 210 Z' fill='#ffaac2'/><circle cx='180' cy='150' r='5' fill='#ffffff'/><circle cx='220' cy='150' r='5' fill='#ffffff'/><path d='M160 190 Q200 230 240 190' fill='none' stroke='#ffaac2'/><polygon points='170,150 200,120 230,150' fill='#ffaac2'/><line x1='190' y1='200' x2='210' y2='200' stroke='#000' stroke-width='2'/><rect x='190' y='250' width='20' height='30' fill='#ffffff'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクの体とオレンジの長い髪を持つ女性。頭には明るいピンクの角があり、柔らかいピンク色の服を身に纏っている。手と足は白色で、しっぽがなめらかに後ろに広がっている。",
+        "reason": "イヴは新たなる進化を遂げ、生命を育む力をより強化するために、より柔らかく美しい姿へと進化した。",
+        "thought": "『誕生と成長の美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='150' fill='#aad1e6'/><ellipse cx='200' cy='100' rx='50' ry='30' fill='#a8e6cf'/><path d='M200 150 L180 210 L220 210 Z' fill='#8dd5f7'/><circle cx='180' cy='150' r='5' fill='#ffffff'/><circle cx='220' cy='150' r='5' fill='#ffffff'/><path d='M160 190 Q200 230 240 190' fill='none' stroke='#8dd5f7'/><polygon points='170,150 200,120 230,150' fill='#8dd5f7'/><line x1='190' y1='200' x2='210' y2='200' stroke='#000' stroke-width='2'/><rect x='190' y='250' width='20' height='30' fill='#ffffff'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い体と緑色の短い髪を持つ男性。頭部には青い角があり、涼しい青色の服を身に纏っている。手と足は白色で、後ろにはしっぽが短くついている。",
+        "reason": "アダムは新たなる進化を遂げ、知識と力をより強化するために、より冷静で知性的な姿へと進化した。",
+        "thought": "『知恵と勇気の調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1774316960053
   }
 ]
