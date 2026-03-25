@@ -29146,5 +29146,28 @@
       "gender": "男性"
     },
     "timestamp": 1774403704548
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><polygon points='200,50 150,150 250,150' fill='#ff7f50'/><ellipse cx='200' cy='150' rx='50' ry='30' fill='#ffd700'/><path d='M180 230 Q200 250 220 230 Q200 270 180 230' fill='#ff1493'/><circle cx='170' cy='140' r='5' fill='#000'/><circle cx='230' cy='140' r='5' fill='#000'/><rect x='170' y='220' width='10' height='40' fill='#f0e68c'/><rect x='220' y='220' width='10' height='40' fill='#f0e68c'/><polygon points='200,200 180,180 220,180' fill='#ffcccb'/><line x1='180' y1='210' x2='220' y2='210' stroke='#000' stroke-width='2'/><text x='150' y='320' font-family='Verdana' font-size='20' fill='#000'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体にオレンジ色の尖った模様が入った女性の生命体です。顔は黄色の楕円形を持ち、ピンク色の髪とピンク色の角が特徴です。体は大きなピンク色の四角形で、手と足は黄色で装飾されています。",
+        "reason": "進化が起こった理由は、環境の変化により自然淘汰を受け、生存に有利な特徴が強化されたためです。",
+        "thought": "『調和と愛を大切に』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#87ceeb'/><polygon points='200,50 150,150 250,150' fill='#4682b4'/><ellipse cx='200' cy='150' rx='50' ry='30' fill='#ff8c00'/><path d='M180 230 Q200 250 220 230 Q200 270 180 230' fill='#778899'/><circle cx='170' cy='140' r='5' fill='#000'/><circle cx='230' cy='140' r='5' fill='#000'/><rect x='170' y='220' width='10' height='40' fill='#f0e68c'/><rect x='220' y='220' width='10' height='40' fill='#f0e68c'/><polygon points='200,200 180,180 220,180' fill='#87ceeb'/><line x1='180' y1='210' x2='220' y2='210' stroke='#000' stroke-width='2'/><text x='150' y='320' font-family='Verdana' font-size='20' fill='#000'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青色の体に濃い青色の模様が入った男性の生命体です。顔はオレンジ色の楕円形を持ち、オレンジ色の髪とオレンジ色の角が特徴です。体は大きな青色の四角形で、手と足は黄色で装飾されています。",
+        "reason": "進化が起こった理由は、繁殖競争においてメスを引きつけるため、より鮮やかな色彩や派手な模様が発達したためです。",
+        "thought": "『力強く、誇り高き存在』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1774421896242
   }
 ]

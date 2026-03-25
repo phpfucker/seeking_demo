@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><polygon points='200,50 150,150 250,150' fill='#ff7f50'/><ellipse cx='200' cy='150' rx='50' ry='30' fill='#ffd700'/><path d='M180 230 Q200 250 220 230 Q200 270 180 230' fill='#ff1493'/><circle cx='170' cy='140' r='5' fill='#000'/><circle cx='230' cy='140' r='5' fill='#000'/><rect x='170' y='220' width='10' height='40' fill='#f0e68c'/><rect x='220' y='220' width='10' height='40' fill='#f0e68c'/><polygon points='200,200 180,180 220,180' fill='#ffcccb'/><line x1='180' y1='210' x2='220' y2='210' stroke='#000' stroke-width='2'/><text x='150' y='320' font-family='Verdana' font-size='20' fill='#000'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='180' rx='100' ry='140' fill='#ffb6c1' /><path d='M175 220 Q200 280 225 220' fill='none' stroke='#ff69b4' stroke-width='5' /><path d='M150 160 Q200 130 250 160' fill='none' stroke='#ff69b4' stroke-width='5' /><ellipse cx='155' cy='170' rx='20' ry='10' fill='#fff' /><ellipse cx='245' cy='170' rx='20' ry='10' fill='#fff' /><ellipse cx='165' cy='170' rx='10' ry='5' fill='#ff69b4' /><ellipse cx='235' cy='170' rx='10' ry='5' fill='#ff69b4' /><ellipse cx='200' cy='180' rx='5' ry='10' fill='#000' /><path d='M180 210 Q200 190 220 210' fill='none' stroke='#000' stroke-width='3' /><path d='M180 210 Q200 230 220 210' fill='none' stroke='#000' stroke-width='3' /><circle cx='190' cy='165' r='5' fill='#ff69b4' /><circle cx='210' cy='165' r='5' fill='#ff69b4' /><circle cx='200' cy='200' r='5' fill='#000' /></svg>",
     "report": {
-      "appearance": "イヴはピンク色の体にオレンジ色の尖った模様が入った女性の生命体です。顔は黄色の楕円形を持ち、ピンク色の髪とピンク色の角が特徴です。体は大きなピンク色の四角形で、手と足は黄色で装飾されています。",
-      "reason": "進化が起こった理由は、環境の変化により自然淘汰を受け、生存に有利な特徴が強化されたためです。",
-      "thought": "『調和と愛を大切に』"
+      "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、赤い細長い髪の毛が頭頂から流れる女性型生命体です。全身は滑らかな曲線で構成され、優雅な輪郭が特徴です。顔には愛らしい特徴があり、青い瞳を持っています。",
+      "reason": "イヴは新たな進化を果たし、より美しく、芸術的な外観を手に入れました。この進化は、生命体の美意識と芸術性の追求が強まった結果です。",
+      "thought": "『愛と美の調和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#87ceeb'/><polygon points='200,50 150,150 250,150' fill='#4682b4'/><ellipse cx='200' cy='150' rx='50' ry='30' fill='#ff8c00'/><path d='M180 230 Q200 250 220 230 Q200 270 180 230' fill='#778899'/><circle cx='170' cy='140' r='5' fill='#000'/><circle cx='230' cy='140' r='5' fill='#000'/><rect x='170' y='220' width='10' height='40' fill='#f0e68c'/><rect x='220' y='220' width='10' height='40' fill='#f0e68c'/><polygon points='200,200 180,180 220,180' fill='#87ceeb'/><line x1='180' y1='210' x2='220' y2='210' stroke='#000' stroke-width='2'/><text x='150' y='320' font-family='Verdana' font-size='20' fill='#000'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#4682b4' /><rect x='150' y='80' width='100' height='40' fill='#4169e1' /><rect x='160' y='75' width='80' height='10' fill='#4169e1' /><path d='M200 160 Q180 190 200 220' fill='none' stroke='#87ceeb' stroke-width='5' /><path d='M200 220 Q220 250 200 280' fill='none' stroke='#87ceeb' stroke-width='5' /><circle cx='190' cy='100' r='5' fill='#4169e1' /><circle cx='210' cy='100' r='5' fill='#4169e1' /><circle cx='190' cy='150' r='5' fill='#4169e1' /><circle cx='210' cy='150' r='5' fill='#4169e1' /></svg>",
     "report": {
-      "appearance": "アダムは青色の体に濃い青色の模様が入った男性の生命体です。顔はオレンジ色の楕円形を持ち、オレンジ色の髪とオレンジ色の角が特徴です。体は大きな青色の四角形で、手と足は黄色で装飾されています。",
-      "reason": "進化が起こった理由は、繁殖競争においてメスを引きつけるため、より鮮やかな色彩や派手な模様が発達したためです。",
-      "thought": "『力強く、誇り高き存在』"
+      "appearance": "アダムは、青色の頑丈な外皮と四角い体を持つ男性型生命体です。大きな体格と力強い腕を特徴とし、頭部には簡素な顔があります。全体的に力強く、安定感のある姿が印象的です。",
+      "reason": "アダムは進化し、より力強く、頼りがいのある外観を得ました。この進化は、生命体の生存能力と力強さを強化するために起こったものです。",
+      "thought": "『力と誠実さ』"
     },
     "name": "アダム",
     "gender": "男性"
