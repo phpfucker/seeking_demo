@@ -29123,5 +29123,28 @@
       "gender": "男性"
     },
     "timestamp": 1774378691547
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff8c94' /><polygon points='200,50 250,150 150,150' fill='#ffadc8' /><circle cx='175' cy='150' r='10' fill='black' /><circle cx='225' cy='150' r='10' fill='black' /><rect x='175' y='225' width='50' height='50' fill='#ffadc8' /><rect x='150' y='275' width='100' height='25' fill='#ffadc8' /><polygon points='180,225 220,225 200,250' fill='white' /><rect x='190' y='275' width='20' height='10' fill='white' /></svg>",
+      "report": {
+        "appearance": "イヴはピンクの柔らかな肌を持ち、頭にはユニコーンの角が生え、大きな赤い目を持つ女性の姿をしています。身体はふくよかで優しさを感じさせる特徴があります。",
+        "reason": "新たな進化を果たす際、イヴは内面の美しさと穏やかな魅力を表現するため、ユニコーンの角とピンクの肌を得ました。",
+        "thought": "『愛と美しさを宿す』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#8cb5ff' /><polygon points='200,50 250,150 150,150' fill='#adc8ff' /><circle cx='175' cy='150' r='10' fill='black' /><circle cx='225' cy='150' r='10' fill='black' /><rect x='175' y='225' width='50' height='50' fill='#adc8ff' /><rect x='150' y='275' width='100' height='25' fill='#adc8ff' /><polygon points='180,225 220,225 200,250' fill='white' /><line x1='175' y1='275' x2='225' y2='275' stroke='#fff' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは青い肌を持ち、頭には羽の生えた翼があり、大きな青い目を持つ男性の姿をしています。体つきは引き締まっており、力強さと知性を感じさせる特徴があります。",
+        "reason": "進化の過程で、アダムはより知性と自由を象徴する羽と青い肌を手に入れ、力強い外見を得ました。",
+        "thought": "『知識と勇気を宿す』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1774403704548
   }
 ]
