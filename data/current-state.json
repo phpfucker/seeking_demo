@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='180' rx='100' ry='140' fill='#ffb6c1' /><path d='M175 220 Q200 280 225 220' fill='none' stroke='#ff69b4' stroke-width='5' /><path d='M150 160 Q200 130 250 160' fill='none' stroke='#ff69b4' stroke-width='5' /><ellipse cx='155' cy='170' rx='20' ry='10' fill='#fff' /><ellipse cx='245' cy='170' rx='20' ry='10' fill='#fff' /><ellipse cx='165' cy='170' rx='10' ry='5' fill='#ff69b4' /><ellipse cx='235' cy='170' rx='10' ry='5' fill='#ff69b4' /><ellipse cx='200' cy='180' rx='5' ry='10' fill='#000' /><path d='M180 210 Q200 190 220 210' fill='none' stroke='#000' stroke-width='3' /><path d='M180 210 Q200 230 220 210' fill='none' stroke='#000' stroke-width='3' /><circle cx='190' cy='165' r='5' fill='#ff69b4' /><circle cx='210' cy='165' r='5' fill='#ff69b4' /><circle cx='200' cy='200' r='5' fill='#000' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='200' rx='120' ry='160' fill='#ffdddd' /><polygon points='140,240 260,240 200,320' fill='#ffdddd' /><circle cx='150' cy='180' r='20' fill='#ffffff' /><circle cx='250' cy='180' r='20' fill='#ffffff' /><ellipse cx='180' cy='170' rx='10' ry='20' fill='#000000' /><ellipse cx='220' cy='170' rx='10' ry='20' fill='#000000' /><rect x='170' y='300' width='60' height='20' fill='#ffcccb' /><rect x='150' y='320' width='100' height='60' fill='#ffcccb' /><path d='M180 320 Q200 340 220 320' fill='none' stroke='#000000' stroke-width='2' /><text x='200' y='380' text-anchor='middle' font-family='Arial' font-size='20' fill='#000000'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、赤い細長い髪の毛が頭頂から流れる女性型生命体です。全身は滑らかな曲線で構成され、優雅な輪郭が特徴です。顔には愛らしい特徴があり、青い瞳を持っています。",
-      "reason": "イヴは新たな進化を果たし、より美しく、芸術的な外観を手に入れました。この進化は、生命体の美意識と芸術性の追求が強まった結果です。",
-      "thought": "『愛と美の調和』"
+      "appearance": "イヴは桃色の柔らかな皮膚を持ち、長い髪と大きな目を備えた女性型生命体です。体の中央には花を思わせる模様があり、軽やかな足としなやかなしっぽを持っています。",
+      "reason": "進化の結果、イヴは自然界の美しさと力強さを融合した姿に進化しました。",
+      "thought": "『命の輝き』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#4682b4' /><rect x='150' y='80' width='100' height='40' fill='#4169e1' /><rect x='160' y='75' width='80' height='10' fill='#4169e1' /><path d='M200 160 Q180 190 200 220' fill='none' stroke='#87ceeb' stroke-width='5' /><path d='M200 220 Q220 250 200 280' fill='none' stroke='#87ceeb' stroke-width='5' /><circle cx='190' cy='100' r='5' fill='#4169e1' /><circle cx='210' cy='100' r='5' fill='#4169e1' /><circle cx='190' cy='150' r='5' fill='#4169e1' /><circle cx='210' cy='150' r='5' fill='#4169e1' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#87ceeb' /><ellipse cx='200' cy='200' rx='120' ry='160' fill='#add8e6' /><polygon points='140,240 260,240 200,320' fill='#add8e6' /><circle cx='150' cy='180' r='20' fill='#ffffff' /><circle cx='250' cy='180' r='20' fill='#ffffff' /><ellipse cx='180' cy='170' rx='10' ry='20' fill='#000000' /><ellipse cx='220' cy='170' rx='10' ry='20' fill='#000000' /><rect x='170' y='300' width='60' height='20' fill='#87ceeb' /><rect x='150' y='320' width='100' height='60' fill='#87ceeb' /><path d='M180 320 Q200 340 220 320' fill='none' stroke='#000000' stroke-width='2' /><text x='200' y='380' text-anchor='middle' font-family='Arial' font-size='20' fill='#000000'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは、青色の頑丈な外皮と四角い体を持つ男性型生命体です。大きな体格と力強い腕を特徴とし、頭部には簡素な顔があります。全体的に力強く、安定感のある姿が印象的です。",
-      "reason": "アダムは進化し、より力強く、頼りがいのある外観を得ました。この進化は、生命体の生存能力と力強さを強化するために起こったものです。",
-      "thought": "『力と誠実さ』"
+      "appearance": "アダムは青空をイメージさせる青い外見を持ち、マッチョな体格と逞しい腕を持った男性型生命体です。背中には翼のような模様があり、力強い足と角を持っています。",
+      "reason": "アダムは進化により、空と大地の力強さと調和した姿に進化しました。",
+      "thought": "『大自然の息吹』"
     },
     "name": "アダム",
     "gender": "男性"
