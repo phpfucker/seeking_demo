@@ -29284,5 +29284,28 @@
       "gender": "男性"
     },
     "timestamp": 1774530399403
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='175' rx='100' ry='150' fill='#ffdab9' /><rect x='175' y='200' width='50' height='100' fill='#ffb6c1' /><path d='M150 250 L200 300 L250 250 Z' fill='#ff1493' /><polygon points='175,150 225,150 200,100' fill='#ffc0cb' /><polyline points='160,175 175,190 190,175' fill='none' stroke='#ff69b4' stroke-width='2' /><line x1='220' y1='175' x2='240' y2='175' stroke='#ff69b4' stroke-width='2' /><circle cx='200' cy='130' r='10' fill='#000' /><circle cx='180' cy='130' r='10' fill='#000' /><circle cx='220' cy='130' r='10' fill='#000' /><circle cx='190' cy='160' r='5' fill='#ff69b4' /><circle cx='210' cy='160' r='5' fill='#ff69b4' /><circle cx='200' cy='145' r='5' fill='#fff' /><circle cx='190' cy='130' r='15' fill='#fff' /><circle cx='210' cy='130' r='15' fill='#fff' /><circle cx='150' cy='200' r='10' fill='#fff' /><circle cx='250' cy='200' r='10' fill='#fff' /><circle cx='175' cy='250' r='10' fill='#fff' /><circle cx='225' cy='250' r='10' fill='#fff' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかな皮膚を持ち、体の一部に淡いオレンジ色の斑点がある。大きな赤い花の模様が入った深いピンク色の襟巻きを身に着け、耳には薄いピンク色の飾りがある。",
+        "reason": "イヴは自然界の多様性と美しさを表現するため、花や色彩を組み合わせて進化した。",
+        "thought": "『生命の美しさを愛でる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6' /><ellipse cx='200' cy='175' rx='100' ry='150' fill='#87ceeb' /><rect x='175' y='200' width='50' height='100' fill='#4682b4' /><path d='M150 250 L200 300 L250 250 Z' fill='#4169e1' /><polygon points='175,150 225,150 200,100' fill='#87cefa' /><polyline points='160,175 175,190 190,175' fill='none' stroke='#1e90ff' stroke-width='2' /><line x1='220' y1='175' x2='240' y2='175' stroke='#1e90ff' stroke-width='2' /><circle cx='200' cy='130' r='10' fill='#000' /><circle cx='180' cy='130' r='10' fill='#000' /><circle cx='220' cy='130' r='10' fill='#000' /><circle cx='190' cy='160' r='5' fill='#1e90ff' /><circle cx='210' cy='160' r='5' fill='#1e90ff' /><circle cx='200' cy='145' r='5' fill='#fff' /><circle cx='190' cy='130' r='15' fill='#fff' /><circle cx='210' cy='130' r='15' fill='#fff' /><circle cx='150' cy='200' r='10' fill='#fff' /><circle cx='250' cy='200' r='10' fill='#fff' /><circle cx='175' cy='250' r='10' fill='#fff' /><circle cx='225' cy='250' r='10' fill='#fff' /></svg>",
+      "report": {
+        "appearance": "アダムは青い鱗状の肌を持ち、体の一部に濃い青色の斑点がある。大きな青い氷の結晶の模様が入った濃い青色の襟巻きを身に着け、耳には薄い青色の飾りがある。",
+        "reason": "アダムは氷と水の清涼感を表現するため、青色や氷の結晶を取り入れて進化した。",
+        "thought": "『氷のような冷静さを持つ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1774551662274
   }
 ]

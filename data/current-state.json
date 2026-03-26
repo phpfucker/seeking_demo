@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='175' rx='100' ry='150' fill='#ffdab9' /><rect x='175' y='200' width='50' height='100' fill='#ffb6c1' /><path d='M150 250 L200 300 L250 250 Z' fill='#ff1493' /><polygon points='175,150 225,150 200,100' fill='#ffc0cb' /><polyline points='160,175 175,190 190,175' fill='none' stroke='#ff69b4' stroke-width='2' /><line x1='220' y1='175' x2='240' y2='175' stroke='#ff69b4' stroke-width='2' /><circle cx='200' cy='130' r='10' fill='#000' /><circle cx='180' cy='130' r='10' fill='#000' /><circle cx='220' cy='130' r='10' fill='#000' /><circle cx='190' cy='160' r='5' fill='#ff69b4' /><circle cx='210' cy='160' r='5' fill='#ff69b4' /><circle cx='200' cy='145' r='5' fill='#fff' /><circle cx='190' cy='130' r='15' fill='#fff' /><circle cx='210' cy='130' r='15' fill='#fff' /><circle cx='150' cy='200' r='10' fill='#fff' /><circle cx='250' cy='200' r='10' fill='#fff' /><circle cx='175' cy='250' r='10' fill='#fff' /><circle cx='225' cy='250' r='10' fill='#fff' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#f6b6c2' /><ellipse cx='200' cy='120' rx='100' ry='80' fill='#ee879a' /><rect x='150' y='220' width='100' height='40' fill='#f2c7d2' /><path d='M200 200 L230 240 L170 240 Z' fill='#ee879a' /><polygon points='130,140 160,150 160,130' fill='#ee879a' /><polygon points='270,140 300,150 300,130' fill='#ee879a' /><circle cx='170' cy='90' r='10' fill='#fff' /><circle cx='230' cy='90' r='10' fill='#fff' /><circle cx='180' cy='110' r='5' fill='#000' /><circle cx='220' cy='110' r='5' fill='#000' /><line x1='145' y1='220' x2='155' y2='260' stroke='#000' stroke-width='2' /><line x1='245' y1='220' x2='255' y2='260' stroke='#000' stroke-width='2' /><line x1='180' y1='260' x2='170' y2='300' stroke='#000' stroke-width='2' /><line x1='220' y1='260' x2='230' y2='300' stroke='#000' stroke-width='2' /><rect x='180' y='300' width='40' height='20' fill='#ee879a' /></svg>",
     "report": {
-      "appearance": "イヴはピンク色の柔らかな皮膚を持ち、体の一部に淡いオレンジ色の斑点がある。大きな赤い花の模様が入った深いピンク色の襟巻きを身に着け、耳には薄いピンク色の飾りがある。",
-      "reason": "イヴは自然界の多様性と美しさを表現するため、花や色彩を組み合わせて進化した。",
-      "thought": "『生命の美しさを愛でる』"
+      "appearance": "イヴはピンク色の肌を持ち、明るい赤色の髪をしています。体は丸みを帯びた柔らかな形状で、頭部には丸い耳と大きな目があります。胴体には薄いピンク色の服を身にまとい、手足は短く丸い指先を持っています。しっぽは短く丸みを帯びた形状で、顔には小さな口と鼻があります。",
+      "reason": "自然環境の変化により、イヴはより柔らかで愛らしい特徴を持つように進化しました。",
+      "thought": "『やさしさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6' /><ellipse cx='200' cy='175' rx='100' ry='150' fill='#87ceeb' /><rect x='175' y='200' width='50' height='100' fill='#4682b4' /><path d='M150 250 L200 300 L250 250 Z' fill='#4169e1' /><polygon points='175,150 225,150 200,100' fill='#87cefa' /><polyline points='160,175 175,190 190,175' fill='none' stroke='#1e90ff' stroke-width='2' /><line x1='220' y1='175' x2='240' y2='175' stroke='#1e90ff' stroke-width='2' /><circle cx='200' cy='130' r='10' fill='#000' /><circle cx='180' cy='130' r='10' fill='#000' /><circle cx='220' cy='130' r='10' fill='#000' /><circle cx='190' cy='160' r='5' fill='#1e90ff' /><circle cx='210' cy='160' r='5' fill='#1e90ff' /><circle cx='200' cy='145' r='5' fill='#fff' /><circle cx='190' cy='130' r='15' fill='#fff' /><circle cx='210' cy='130' r='15' fill='#fff' /><circle cx='150' cy='200' r='10' fill='#fff' /><circle cx='250' cy='200' r='10' fill='#fff' /><circle cx='175' cy='250' r='10' fill='#fff' /><circle cx='225' cy='250' r='10' fill='#fff' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='50' width='100' height='180' fill='#94d6e0' /><circle cx='200' cy='110' r='70' fill='#7fcad4' /><ellipse cx='200' cy='240' rx='90' ry='40' fill='#a9e1e8' /><polygon points='150,230 250,230 200,280' fill='#7fcad4' /><polygon points='160,60 240,60 200,20' fill='#94d6e0' /><circle cx='180' cy='100' r='10' fill='#fff' /><circle cx='220' cy='100' r='10' fill='#fff' /><circle cx='180' cy='240' r='5' fill='#000' /><circle cx='220' cy='240' r='5' fill='#000' /><line x1='160' y1='230' x2='160' y2='250' stroke='#000' stroke-width='2' /><line x1='240' y1='230' x2='240' y2='250' stroke='#000' stroke-width='2' /><line x1='180' y1='280' x2='170' y2='320' stroke='#000' stroke-width='2' /><line x1='220' y1='280' x2='230' y2='320' stroke='#000' stroke-width='2' /><polygon points='180,320 220,320 200,340' fill='#a9e1e8' /></svg>",
     "report": {
-      "appearance": "アダムは青い鱗状の肌を持ち、体の一部に濃い青色の斑点がある。大きな青い氷の結晶の模様が入った濃い青色の襟巻きを身に着け、耳には薄い青色の飾りがある。",
-      "reason": "アダムは氷と水の清涼感を表現するため、青色や氷の結晶を取り入れて進化した。",
-      "thought": "『氷のような冷静さを持つ』"
+      "appearance": "アダムは青色の体を持ち、大きな青い円形の頭部をしています。体は長方形の形状で、胴体には薄い水色の装飾が施されています。手足は四角い指先を持ち、しっぽは尖った形状をしています。顔には大きな目と口があり、鼻は丸く突き出ています。",
+      "reason": "生息環境の変化に伴い、アダムはより洗練された青色の特徴を持つように進化しました。",
+      "thought": "『誇り』"
     },
     "name": "アダム",
     "gender": "男性"
