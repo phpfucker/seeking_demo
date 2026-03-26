@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='pink'/><ellipse cx='200' cy='150' rx='80' ry='100' fill='orchid'/><polygon points='150,250 200,300 250,250' fill='purple'/><circle cx='160' cy='180' r='10' fill='white'/><circle cx='240' cy='180' r='10' fill='white'/><path d='M200 220 Q180 240 200 260 Q220 240 200 220' fill='white'/><line x1='150' y1='210' x2='170' y2='210' stroke='black' stroke-width='2'/><line x1='230' y1='210' x2='250' y2='210' stroke='black' stroke-width='2'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='260' width='120' height='100' fill='#FFD700'/><rect x='120' y='300' width='160' height='60' fill='#FFD700'/><rect x='100' y='320' width='200' height='40' fill='#FFD700'/><circle cx='200' cy='100' r='80' fill='#FFD700'/><circle cx='170' cy='80' r='10' fill='#000'/><circle cx='230' cy='80' r='10' fill='#000'/><path d='M180 120 Q200 150 220 120' fill='none' stroke='#000' stroke-width='2'/><path d='M150 150 Q200 180 250 150' fill='none' stroke='#000' stroke-width='2'/><polygon points='190,190 195,210 205,210 210,190' fill='#FFD700'/><polygon points='180,170 185,180 215,180 220,170' fill='#FFD700'/><polygon points='160,150 165,160 235,160 240,150' fill='#FFD700'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンクの体に紫色の模様が施され、オーキッド色の顔が特徴です。白い目と優しげな表情を持ち、しっかりとした足で立っています。",
-      "reason": "イヴは生態系のバランスを保つため、より多様性を持つ姿に進化しました。",
-      "thought": "『命の輝き』"
+      "appearance": "イヴは金色の全身を持ち、四角い体に大きな丸い頭が特徴です。顔には目がなく、小さな円形の耳があります。首には金色の模様が入り、四つの脚と尾があります。",
+      "reason": "新たな進化が起こり、イヴは自然界で目立つ金色の体毛を持つようになりました。これは環境への適応と、新たな種としての個体識別を強化するためです。",
+      "thought": "『輝く未来へ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='lightblue'/><ellipse cx='200' cy='150' rx='80' ry='100' fill='lightsteelblue'/><polygon points='150,250 200,300 250,250' fill='darkblue'/><circle cx='160' cy='180' r='10' fill='white'/><circle cx='240' cy='180' r='10' fill='white'/><path d='M200 220 Q180 240 200 260 Q220 240 200 220' fill='white'/><line x1='150' y1='210' x2='170' y2='210' stroke='black' stroke-width='2'/><line x1='230' y1='210' x2='250' y2='210' stroke='black' stroke-width='2'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='100' r='80' fill='#4682B4'/><circle cx='170' cy='80' r='10' fill='#000'/><circle cx='230' cy='80' r='10' fill='#000'/><path d='M180 120 Q200 150 220 120' fill='none' stroke='#000' stroke-width='2'/><path d='M150 150 Q200 180 250 150' fill='none' stroke='#000' stroke-width='2'/><polygon points='190,190 195,210 205,210 210,190' fill='#4682B4'/><polygon points='180,170 185,180 215,180 220,170' fill='#4682B4'/><polygon points='160,150 165,160 235,160 240,150' fill='#4682B4'/><rect x='140' y='260' width='120' height='100' fill='#4682B4'/><rect x='120' y='300' width='160' height='60' fill='#4682B4'/><rect x='100' y='320' width='200' height='40' fill='#4682B4'/></svg>",
     "report": {
-      "appearance": "アダムは、淡い青色の体に濃い青色の模様を持ち、ライトスチールブルー色の顔が特徴です。白い目と力強い表情を見せ、しっかりとした足で立っています。",
-      "reason": "アダムは環境の変化に適応するため、より強靭な姿に進化しました。",
-      "thought": "『未来への挑戦』"
+      "appearance": "アダムは青い全身を持ち、大きな丸い頭に目と耳があります。青い体毛と金色の模様が特徴で、足が四つあります。尾も青く、イヴと同様の形状を持っています。",
+      "reason": "アダムの進化は、環境の色彩に適応するために青い体色となりました。金色の模様は種族の継承と進化の結びつきを示しています。",
+      "thought": "『新たな未来への挑戦』"
     },
     "name": "アダム",
     "gender": "男性"
