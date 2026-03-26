@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,204,204);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,102,102);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradA)' /><circle cx='200' cy='150' r='50' fill='rgb(255,153,153)' /><ellipse cx='170' cy='180' rx='10' ry='20' fill='rgb(255,102,102)' /><ellipse cx='230' cy='180' rx='10' ry='20' fill='rgb(255,102,102)' /><path d='M180 230 Q200 250 220 230' fill='none' stroke='rgb(255,102,102)' stroke-width='5' /><path d='M180 230 Q200 240 220 230' fill='none' stroke='rgb(255,102,102)' stroke-width='5' /><path d='M150 220 Q200 260 250 220' fill='none' stroke='rgb(255,102,102)' stroke-width='5' /><path d='M200 250 Q250 220 300 250' fill='none' stroke='rgb(255,102,102)' stroke-width='5' /><line x1='170' y1='150' x2='150' y2='130' stroke='black' stroke-width='3' /><line x1='230' y1='150' x2='250' y2='130' stroke='black' stroke-width='3' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='pink'/><ellipse cx='200' cy='150' rx='80' ry='100' fill='orchid'/><polygon points='150,250 200,300 250,250' fill='purple'/><circle cx='160' cy='180' r='10' fill='white'/><circle cx='240' cy='180' r='10' fill='white'/><path d='M200 220 Q180 240 200 260 Q220 240 200 220' fill='white'/><line x1='150' y1='210' x2='170' y2='210' stroke='black' stroke-width='2'/><line x1='230' y1='210' x2='250' y2='210' stroke='black' stroke-width='2'/></svg>",
     "report": {
-      "appearance": "イヴは、淡いピンク色の肌に赤みがかった体色を持つ女性の姿をしています。身体全体に柔らかな曲線が特徴で、大きな赤い目と優雅なしっぽが印象的です。",
-      "reason": "進化の過程で、イヴは自然の調和と美しさを表現するため、体色や曲線がより優れたデザインに進化しました。",
-      "thought": "『自然の美しさを感じる』"
+      "appearance": "イヴは、ピンクの体に紫色の模様が施され、オーキッド色の顔が特徴です。白い目と優しげな表情を持ち、しっかりとした足で立っています。",
+      "reason": "イヴは生態系のバランスを保つため、より多様性を持つ姿に進化しました。",
+      "thought": "『命の輝き』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(102,178,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(51,153,255);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradB)' /><circle cx='200' cy='150' r='50' fill='rgb(51,153,255)' /><ellipse cx='170' cy='180' rx='10' ry='20' fill='rgb(0,102,204)' /><ellipse cx='230' cy='180' rx='10' ry='20' fill='rgb(0,102,204)' /><path d='M180 230 Q200 250 220 230' fill='none' stroke='rgb(0,102,204)' stroke-width='5' /><path d='M180 230 Q200 240 220 230' fill='none' stroke='rgb(0,102,204)' stroke-width='5' /><path d='M150 220 Q200 260 250 220' fill='none' stroke='rgb(0,102,204)' stroke-width='5' /><path d='M200 250 Q250 220 300 250' fill='none' stroke='rgb(0,102,204)' stroke-width='5' /><line x1='170' y1='150' x2='150' y2='130' stroke='black' stroke-width='3' /><line x1='230' y1='150' x2='250' y2='130' stroke='black' stroke-width='3' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='lightblue'/><ellipse cx='200' cy='150' rx='80' ry='100' fill='lightsteelblue'/><polygon points='150,250 200,300 250,250' fill='darkblue'/><circle cx='160' cy='180' r='10' fill='white'/><circle cx='240' cy='180' r='10' fill='white'/><path d='M200 220 Q180 240 200 260 Q220 240 200 220' fill='white'/><line x1='150' y1='210' x2='170' y2='210' stroke='black' stroke-width='2'/><line x1='230' y1='210' x2='250' y2='210' stroke='black' stroke-width='2'/></svg>",
     "report": {
-      "appearance": "アダムは、青い体色と銀色の模様が特徴的な男性の外見を持っています。鋭い角や力強い手足、流れるような尾が印象的です。",
-      "reason": "進化の過程で、アダムは力強さと知性を象徴するデザインに進化し、青い体色と銀色の模様が強調されました。",
-      "thought": "『知性と力強さを誇る』"
+      "appearance": "アダムは、淡い青色の体に濃い青色の模様を持ち、ライトスチールブルー色の顔が特徴です。白い目と力強い表情を見せ、しっかりとした足で立っています。",
+      "reason": "アダムは環境の変化に適応するため、より強靭な姿に進化しました。",
+      "thought": "『未来への挑戦』"
     },
     "name": "アダム",
     "gender": "男性"

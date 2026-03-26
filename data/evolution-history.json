@@ -29215,5 +29215,28 @@
       "gender": "男性"
     },
     "timestamp": 1774464725790
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,204,204);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,102,102);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradA)' /><circle cx='200' cy='150' r='50' fill='rgb(255,153,153)' /><ellipse cx='170' cy='180' rx='10' ry='20' fill='rgb(255,102,102)' /><ellipse cx='230' cy='180' rx='10' ry='20' fill='rgb(255,102,102)' /><path d='M180 230 Q200 250 220 230' fill='none' stroke='rgb(255,102,102)' stroke-width='5' /><path d='M180 230 Q200 240 220 230' fill='none' stroke='rgb(255,102,102)' stroke-width='5' /><path d='M150 220 Q200 260 250 220' fill='none' stroke='rgb(255,102,102)' stroke-width='5' /><path d='M200 250 Q250 220 300 250' fill='none' stroke='rgb(255,102,102)' stroke-width='5' /><line x1='170' y1='150' x2='150' y2='130' stroke='black' stroke-width='3' /><line x1='230' y1='150' x2='250' y2='130' stroke='black' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "イヴは、淡いピンク色の肌に赤みがかった体色を持つ女性の姿をしています。身体全体に柔らかな曲線が特徴で、大きな赤い目と優雅なしっぽが印象的です。",
+        "reason": "進化の過程で、イヴは自然の調和と美しさを表現するため、体色や曲線がより優れたデザインに進化しました。",
+        "thought": "『自然の美しさを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(102,178,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(51,153,255);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradB)' /><circle cx='200' cy='150' r='50' fill='rgb(51,153,255)' /><ellipse cx='170' cy='180' rx='10' ry='20' fill='rgb(0,102,204)' /><ellipse cx='230' cy='180' rx='10' ry='20' fill='rgb(0,102,204)' /><path d='M180 230 Q200 250 220 230' fill='none' stroke='rgb(0,102,204)' stroke-width='5' /><path d='M180 230 Q200 240 220 230' fill='none' stroke='rgb(0,102,204)' stroke-width='5' /><path d='M150 220 Q200 260 250 220' fill='none' stroke='rgb(0,102,204)' stroke-width='5' /><path d='M200 250 Q250 220 300 250' fill='none' stroke='rgb(0,102,204)' stroke-width='5' /><line x1='170' y1='150' x2='150' y2='130' stroke='black' stroke-width='3' /><line x1='230' y1='150' x2='250' y2='130' stroke='black' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い体色と銀色の模様が特徴的な男性の外見を持っています。鋭い角や力強い手足、流れるような尾が印象的です。",
+        "reason": "進化の過程で、アダムは力強さと知性を象徴するデザインに進化し、青い体色と銀色の模様が強調されました。",
+        "thought": "『知性と力強さを誇る』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1774490485388
   }
 ]
