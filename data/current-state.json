@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='260' width='120' height='100' fill='#FFD700'/><rect x='120' y='300' width='160' height='60' fill='#FFD700'/><rect x='100' y='320' width='200' height='40' fill='#FFD700'/><circle cx='200' cy='100' r='80' fill='#FFD700'/><circle cx='170' cy='80' r='10' fill='#000'/><circle cx='230' cy='80' r='10' fill='#000'/><path d='M180 120 Q200 150 220 120' fill='none' stroke='#000' stroke-width='2'/><path d='M150 150 Q200 180 250 150' fill='none' stroke='#000' stroke-width='2'/><polygon points='190,190 195,210 205,210 210,190' fill='#FFD700'/><polygon points='180,170 185,180 215,180 220,170' fill='#FFD700'/><polygon points='160,150 165,160 235,160 240,150' fill='#FFD700'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='175' rx='100' ry='150' fill='#ffdab9' /><rect x='175' y='200' width='50' height='100' fill='#ffb6c1' /><path d='M150 250 L200 300 L250 250 Z' fill='#ff1493' /><polygon points='175,150 225,150 200,100' fill='#ffc0cb' /><polyline points='160,175 175,190 190,175' fill='none' stroke='#ff69b4' stroke-width='2' /><line x1='220' y1='175' x2='240' y2='175' stroke='#ff69b4' stroke-width='2' /><circle cx='200' cy='130' r='10' fill='#000' /><circle cx='180' cy='130' r='10' fill='#000' /><circle cx='220' cy='130' r='10' fill='#000' /><circle cx='190' cy='160' r='5' fill='#ff69b4' /><circle cx='210' cy='160' r='5' fill='#ff69b4' /><circle cx='200' cy='145' r='5' fill='#fff' /><circle cx='190' cy='130' r='15' fill='#fff' /><circle cx='210' cy='130' r='15' fill='#fff' /><circle cx='150' cy='200' r='10' fill='#fff' /><circle cx='250' cy='200' r='10' fill='#fff' /><circle cx='175' cy='250' r='10' fill='#fff' /><circle cx='225' cy='250' r='10' fill='#fff' /></svg>",
     "report": {
-      "appearance": "イヴは金色の全身を持ち、四角い体に大きな丸い頭が特徴です。顔には目がなく、小さな円形の耳があります。首には金色の模様が入り、四つの脚と尾があります。",
-      "reason": "新たな進化が起こり、イヴは自然界で目立つ金色の体毛を持つようになりました。これは環境への適応と、新たな種としての個体識別を強化するためです。",
-      "thought": "『輝く未来へ』"
+      "appearance": "イヴはピンク色の柔らかな皮膚を持ち、体の一部に淡いオレンジ色の斑点がある。大きな赤い花の模様が入った深いピンク色の襟巻きを身に着け、耳には薄いピンク色の飾りがある。",
+      "reason": "イヴは自然界の多様性と美しさを表現するため、花や色彩を組み合わせて進化した。",
+      "thought": "『生命の美しさを愛でる』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='100' r='80' fill='#4682B4'/><circle cx='170' cy='80' r='10' fill='#000'/><circle cx='230' cy='80' r='10' fill='#000'/><path d='M180 120 Q200 150 220 120' fill='none' stroke='#000' stroke-width='2'/><path d='M150 150 Q200 180 250 150' fill='none' stroke='#000' stroke-width='2'/><polygon points='190,190 195,210 205,210 210,190' fill='#4682B4'/><polygon points='180,170 185,180 215,180 220,170' fill='#4682B4'/><polygon points='160,150 165,160 235,160 240,150' fill='#4682B4'/><rect x='140' y='260' width='120' height='100' fill='#4682B4'/><rect x='120' y='300' width='160' height='60' fill='#4682B4'/><rect x='100' y='320' width='200' height='40' fill='#4682B4'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6' /><ellipse cx='200' cy='175' rx='100' ry='150' fill='#87ceeb' /><rect x='175' y='200' width='50' height='100' fill='#4682b4' /><path d='M150 250 L200 300 L250 250 Z' fill='#4169e1' /><polygon points='175,150 225,150 200,100' fill='#87cefa' /><polyline points='160,175 175,190 190,175' fill='none' stroke='#1e90ff' stroke-width='2' /><line x1='220' y1='175' x2='240' y2='175' stroke='#1e90ff' stroke-width='2' /><circle cx='200' cy='130' r='10' fill='#000' /><circle cx='180' cy='130' r='10' fill='#000' /><circle cx='220' cy='130' r='10' fill='#000' /><circle cx='190' cy='160' r='5' fill='#1e90ff' /><circle cx='210' cy='160' r='5' fill='#1e90ff' /><circle cx='200' cy='145' r='5' fill='#fff' /><circle cx='190' cy='130' r='15' fill='#fff' /><circle cx='210' cy='130' r='15' fill='#fff' /><circle cx='150' cy='200' r='10' fill='#fff' /><circle cx='250' cy='200' r='10' fill='#fff' /><circle cx='175' cy='250' r='10' fill='#fff' /><circle cx='225' cy='250' r='10' fill='#fff' /></svg>",
     "report": {
-      "appearance": "アダムは青い全身を持ち、大きな丸い頭に目と耳があります。青い体毛と金色の模様が特徴で、足が四つあります。尾も青く、イヴと同様の形状を持っています。",
-      "reason": "アダムの進化は、環境の色彩に適応するために青い体色となりました。金色の模様は種族の継承と進化の結びつきを示しています。",
-      "thought": "『新たな未来への挑戦』"
+      "appearance": "アダムは青い鱗状の肌を持ち、体の一部に濃い青色の斑点がある。大きな青い氷の結晶の模様が入った濃い青色の襟巻きを身に着け、耳には薄い青色の飾りがある。",
+      "reason": "アダムは氷と水の清涼感を表現するため、青色や氷の結晶を取り入れて進化した。",
+      "thought": "『氷のような冷静さを持つ』"
     },
     "name": "アダム",
     "gender": "男性"
