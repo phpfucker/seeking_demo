@@ -29330,5 +29330,28 @@
       "gender": "男性"
     },
     "timestamp": 1774576943593
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='none'><circle cx='200' cy='200' r='180' fill='#FFC0CB' /><ellipse cx='200' cy='130' rx='100' ry='130' fill='#FFA07A' /><path d='M150 180H250V190H150V180Z' fill='#FFA07A' /><rect x='160' y='210' width='80' height='160' fill='#FFA07A' /><path d='M160 210L200 160L240 210Z' fill='#FF6347' /><path d='M160 370L200 300L240 370Z' fill='#FF6347' /><path d='M200 230L220 240L200 250L180 240Z' fill='#FFD700' /><path d='M200 250L220 260L200 270L180 260Z' fill='#FFD700' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体とオレンジ色の髪を持つ女性の進化した姿で、顔にはピンク色の楕円形とオレンジ色の長方形が特徴的に描かれています。体の下部にはオレンジ色の短いドレスがあり、腕と脚はオレンジ色で描かれています。",
+        "reason": "イヴは環境の変化により、より派手な色彩と装飾を持つことで仲間を引き付け、進化のための新たな環境への適応を果たしました。",
+        "thought": "『輝きを求めて』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='none'><rect x='100' y='100' width='200' height='200' fill='#4682B4' /><circle cx='200' cy='80' r='50' fill='#87CEFA' /><polygon points='150,200 200,140 250,200' fill='#87CEFA' /><line x1='180' y1='300' x2='170' y2='350' stroke='#000' stroke-width='3' /><line x1='220' y1='300' x2='230' y2='350' stroke='#000' stroke-width='3' /><rect x='160' y='250' width='80' height='100' fill='#FFD700' /></svg>",
+      "report": {
+        "appearance": "アダムは青色の体と水色の頭部を持つ男性の進化した姿で、顔には水色の円と三角形が描かれています。体は青色で覆われ、短い脚と腕を持ち、腰には金色の装飾が施されています。",
+        "reason": "アダムは狩猟や協力行動の向上に伴い、体の強靭さと飾り付けが進化し、仲間に対する存在感を示すためにこのような外見となりました。",
+        "thought": "『力強く進化する』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1774594928772
   }
 ]
