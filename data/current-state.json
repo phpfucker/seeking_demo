@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffafcc' /><rect x='100' y='180' width='200' height='160' fill='#ffb6c1' /><polygon points='150,240 250,240 200,300' fill='#ff8c94' /><ellipse cx='160' cy='170' rx='30' ry='20' fill='#ff99aa' /><ellipse cx='240' cy='170' rx='30' ry='20' fill='#ff99aa' /><path d='M170,350 Q200,380 230,350' stroke='#ff8c94' fill='none' stroke-width='4' /><path d='M150,240 Q190,220 230,240' stroke='#ff8c94' fill='none' stroke-width='4' /><path d='M150,220 Q190,200 230,220' stroke='#ff8c94' fill='none' stroke-width='4' /><circle cx='170' cy='180' r='10' fill='#fff' /><circle cx='230' cy='180' r='10' fill='#fff' /><line x1='180' y1='320' x2='170' y2='340' stroke='#000' stroke-width='2' /><line x1='220' y1='320' x2='230' y2='340' stroke='#000' stroke-width='2' /><text x='200' y='380' text-anchor='middle' font-family='Arial' font-size='20' fill='#000'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='150' rx='80' ry='110' fill='#ffc0cb' /><rect x='160' y='190' width='80' height='30' fill='#ff99cc' /><polygon points='200,140 185,160 215,160' fill='#ff66b2' /><circle cx='180' cy='140' r='10' fill='#ff3385' /><circle cx='220' cy='140' r='10' fill='#ff3385' /><path d='M200,170 Q180,190 200,210 Q220,190 200,170' fill='none' stroke='#ff66b2' stroke-width='2' /><polygon points='180,220 170,240 200,230 230,240 220,220' fill='#ff66b2' /><ellipse cx='185' cy='240' rx='5' ry='10' fill='#ff99cc' /><ellipse cx='215' cy='240' rx='5' ry='10' fill='#ff99cc' /><line x1='160' y1='220' x2='140' y2='260' stroke='#ff66b2' stroke-width='2' /><line x1='240' y1='220' x2='260' y2='260' stroke='#ff66b2' stroke-width='2' /><text x='200' y='380' text-anchor='middle' font-family='Arial' font-size='20' fill='black'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の円形の体に赤い長方形の衣装を身にまとい、顔にはピンク色の楕円形の耳があります。頭部には2つの角があり、口元には赤いリボンをつけています。手足は細長い楕円形で描かれ、しっぽはピンク色の細い線で表現されています。",
-      "reason": "イヴは自然界の美しさと柔らかさを表現するため、より優美で華やかな特徴を持つように進化しました。",
-      "thought": "『優しさと愛を守りたい』"
+      "appearance": "イヴは、ピンク色の体と白い顔を持つ女性型生命体です。体の下部には赤いリボンのような模様があり、しっぽは2つの小さな円で構成されています。顔には薄いピンク色のほほがあり、ふたえの周りには濃いピンク色の模様があります。",
+      "reason": "進化の過程で、イヴのしっぽに新しい模様が加わり、顔の模様がより複雑になりました。これにより、生命体の美しさと個性がより際立つようになりました。",
+      "thought": "『愛と美しさの融合』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#6495ed' /><rect x='120' y='180' width='160' height='160' fill='#4169e1' /><polygon points='150,240 250,240 200,300' fill='#4169e1' /><ellipse cx='160' cy='170' rx='30' ry='20' fill='#4169e1' /><ellipse cx='240' cy='170' rx='30' ry='20' fill='#4169e1' /><path d='M170,350 Q200,380 230,350' stroke='#6495ed' fill='none' stroke-width='4' /><path d='M150,240 Q190,220 230,240' stroke='#6495ed' fill='none' stroke-width='4' /><path d='M150,220 Q190,200 230,220' stroke='#6495ed' fill='none' stroke-width='4' /><circle cx='170' cy='180' r='10' fill='#fff' /><circle cx='230' cy='180' r='10' fill='#fff' /><line x1='180' y1='320' x2='170' y2='340' stroke='#000' stroke-width='2' /><line x1='220' y1='320' x2='230' y2='340' stroke='#000' stroke-width='2' /><text x='200' y='380' text-anchor='middle' font-family='Arial' font-size='20' fill='#000'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#87ceeb' /><polygon points='175,150 200,120 225,150' fill='#4682b4' /><ellipse cx='200' cy='150' rx='80' ry='110' fill='#b0e0e6' /><rect x='160' y='190' width='80' height='30' fill='#87cefa' /><circle cx='180' cy='190' r='10' fill='#4682b4' /><circle cx='220' cy='190' r='10' fill='#4682b4' /><path d='M200,220 Q180,240 200,260 Q220,240 200,220' fill='none' stroke='#4682b4' stroke-width='2' /><polygon points='180,230 170,260 200,250 230,260 220,230' fill='#4682b4' /><ellipse cx='185' cy='260' rx='5' ry='10' fill='#87cefa' /><ellipse cx='215' cy='260' rx='5' ry='10' fill='#87cefa' /><line x1='160' y1='240' x2='140' y2='280' stroke='#4682b4' stroke-width='2' /><line x1='240' y1='240' x2='260' y2='280' stroke='#4682b4' stroke-width='2' /><text x='200' y='380' text-anchor='middle' font-family='Arial' font-size='20' fill='black'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは、青色の円形の体に濃紺色の長方形の衣装を身にまとい、顔には青色の楕円形の耳があります。頭部には2つの角があり、口元には青いリボンをつけています。手足は細長い楕円形で描かれ、しっぽは青色の細い線で表現されています。",
-      "reason": "アダムは強さと知恵を象徴するため、より力強く洗練された特徴を持つように進化しました。",
-      "thought": "『誇り高き未来へ』"
+      "appearance": "アダムは、青色の体と紺色の顔を持つ男性型生命体です。体の下部には水色の三角形の模様があり、しっぽは2つの小さな楕円で構成されています。顔には青いほほがあり、ふたえの周りには濃い青紫色の模様があります。",
+      "reason": "アダムの進化により、体色がより鮮やかになり、顔の模様が複雑化しました。新たな模様が足されることで、生命体の個性が一層際立ちました。",
+      "thought": "『知恵と力の融合』"
     },
     "name": "アダム",
     "gender": "男性"

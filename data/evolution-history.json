@@ -29376,5 +29376,28 @@
       "gender": "男性"
     },
     "timestamp": 1774616295529
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffafcc' /><rect x='100' y='180' width='200' height='160' fill='#ffb6c1' /><polygon points='150,240 250,240 200,300' fill='#ff8c94' /><ellipse cx='160' cy='170' rx='30' ry='20' fill='#ff99aa' /><ellipse cx='240' cy='170' rx='30' ry='20' fill='#ff99aa' /><path d='M170,350 Q200,380 230,350' stroke='#ff8c94' fill='none' stroke-width='4' /><path d='M150,240 Q190,220 230,240' stroke='#ff8c94' fill='none' stroke-width='4' /><path d='M150,220 Q190,200 230,220' stroke='#ff8c94' fill='none' stroke-width='4' /><circle cx='170' cy='180' r='10' fill='#fff' /><circle cx='230' cy='180' r='10' fill='#fff' /><line x1='180' y1='320' x2='170' y2='340' stroke='#000' stroke-width='2' /><line x1='220' y1='320' x2='230' y2='340' stroke='#000' stroke-width='2' /><text x='200' y='380' text-anchor='middle' font-family='Arial' font-size='20' fill='#000'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の円形の体に赤い長方形の衣装を身にまとい、顔にはピンク色の楕円形の耳があります。頭部には2つの角があり、口元には赤いリボンをつけています。手足は細長い楕円形で描かれ、しっぽはピンク色の細い線で表現されています。",
+        "reason": "イヴは自然界の美しさと柔らかさを表現するため、より優美で華やかな特徴を持つように進化しました。",
+        "thought": "『優しさと愛を守りたい』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#6495ed' /><rect x='120' y='180' width='160' height='160' fill='#4169e1' /><polygon points='150,240 250,240 200,300' fill='#4169e1' /><ellipse cx='160' cy='170' rx='30' ry='20' fill='#4169e1' /><ellipse cx='240' cy='170' rx='30' ry='20' fill='#4169e1' /><path d='M170,350 Q200,380 230,350' stroke='#6495ed' fill='none' stroke-width='4' /><path d='M150,240 Q190,220 230,240' stroke='#6495ed' fill='none' stroke-width='4' /><path d='M150,220 Q190,200 230,220' stroke='#6495ed' fill='none' stroke-width='4' /><circle cx='170' cy='180' r='10' fill='#fff' /><circle cx='230' cy='180' r='10' fill='#fff' /><line x1='180' y1='320' x2='170' y2='340' stroke='#000' stroke-width='2' /><line x1='220' y1='320' x2='230' y2='340' stroke='#000' stroke-width='2' /><text x='200' y='380' text-anchor='middle' font-family='Arial' font-size='20' fill='#000'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青色の円形の体に濃紺色の長方形の衣装を身にまとい、顔には青色の楕円形の耳があります。頭部には2つの角があり、口元には青いリボンをつけています。手足は細長い楕円形で描かれ、しっぽは青色の細い線で表現されています。",
+        "reason": "アダムは強さと知恵を象徴するため、より力強く洗練された特徴を持つように進化しました。",
+        "thought": "『誇り高き未来へ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1774637492463
   }
 ]
