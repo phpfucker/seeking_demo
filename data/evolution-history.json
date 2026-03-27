@@ -29353,5 +29353,28 @@
       "gender": "男性"
     },
     "timestamp": 1774594928772
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='180' rx='100' ry='150' fill='#ffd1dc' /><polygon points='180,150 220,150 200,180' fill='#ff69b4' /><rect x='170' y='200' width='60' height='30' fill='#ff69b4' /><path d='M190 250 Q200 280 210 250' fill='none' stroke='#ff69b4' stroke-width='2' /><line x1='160' y1='170' x2='140' y2='150' stroke='#ff69b4' stroke-width='2' /><line x1='240' y1='170' x2='260' y2='150' stroke='#ff69b4' stroke-width='2' /><circle cx='190' cy='170' r='5' fill='#000' /><circle cx='210' cy='170' r='5' fill='#000' /><circle cx='200' cy='200' r='5' fill='#000' /><text x='180' y='300' font-family='Arial' font-size='20' fill='#000'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな体に、赤い美しい尾と角を持つ女性の姿をしています。顔には愛らしい表情があり、体の一部に花のような模様が描かれています。",
+        "reason": "イヴは自然と調和する性質を強化するため、より美しく優雅な外見へと進化しました。",
+        "thought": "『自然の一部として、美しさを育む』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#87ceeb' /><ellipse cx='200' cy='180' rx='100' ry='150' fill='#add8e6' /><polygon points='180,150 220,150 200,180' fill='#4682b4' /><rect x='170' y='200' width='60' height='30' fill='#4682b4' /><path d='M190 250 Q200 280 210 250' fill='none' stroke='#4682b4' stroke-width='2' /><line x1='160' y1='170' x2='140' y2='150' stroke='#4682b4' stroke-width='2' /><line x1='240' y1='170' x2='260' y2='150' stroke='#4682b4' stroke-width='2' /><circle cx='190' cy='170' r='5' fill='#000' /><circle cx='210' cy='170' r='5' fill='#000' /><circle cx='200' cy='200' r='5' fill='#000' /><text x='170' y='300' font-family='Arial' font-size='20' fill='#000'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青色の流れるような体に、青い尾と角を持つ男性の姿をしています。顔には凛々しい表情があり、体には波の模様が美しく描かれています。",
+        "reason": "アダムは自然との調和を示す特性を高め、より力強く美しい外観へと進化しました。",
+        "thought": "『自然の中で誇り高く生きる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1774616295529
   }
 ]
