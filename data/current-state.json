@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#f6b6c2' /><ellipse cx='200' cy='120' rx='100' ry='80' fill='#ee879a' /><rect x='150' y='220' width='100' height='40' fill='#f2c7d2' /><path d='M200 200 L230 240 L170 240 Z' fill='#ee879a' /><polygon points='130,140 160,150 160,130' fill='#ee879a' /><polygon points='270,140 300,150 300,130' fill='#ee879a' /><circle cx='170' cy='90' r='10' fill='#fff' /><circle cx='230' cy='90' r='10' fill='#fff' /><circle cx='180' cy='110' r='5' fill='#000' /><circle cx='220' cy='110' r='5' fill='#000' /><line x1='145' y1='220' x2='155' y2='260' stroke='#000' stroke-width='2' /><line x1='245' y1='220' x2='255' y2='260' stroke='#000' stroke-width='2' /><line x1='180' y1='260' x2='170' y2='300' stroke='#000' stroke-width='2' /><line x1='220' y1='260' x2='230' y2='300' stroke='#000' stroke-width='2' /><rect x='180' y='300' width='40' height='20' fill='#ee879a' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='none'><circle cx='200' cy='200' r='180' fill='#FFC0CB' /><ellipse cx='200' cy='130' rx='100' ry='130' fill='#FFA07A' /><path d='M150 180H250V190H150V180Z' fill='#FFA07A' /><rect x='160' y='210' width='80' height='160' fill='#FFA07A' /><path d='M160 210L200 160L240 210Z' fill='#FF6347' /><path d='M160 370L200 300L240 370Z' fill='#FF6347' /><path d='M200 230L220 240L200 250L180 240Z' fill='#FFD700' /><path d='M200 250L220 260L200 270L180 260Z' fill='#FFD700' /></svg>",
     "report": {
-      "appearance": "イヴはピンク色の肌を持ち、明るい赤色の髪をしています。体は丸みを帯びた柔らかな形状で、頭部には丸い耳と大きな目があります。胴体には薄いピンク色の服を身にまとい、手足は短く丸い指先を持っています。しっぽは短く丸みを帯びた形状で、顔には小さな口と鼻があります。",
-      "reason": "自然環境の変化により、イヴはより柔らかで愛らしい特徴を持つように進化しました。",
-      "thought": "『やさしさ』"
+      "appearance": "イヴはピンク色の体とオレンジ色の髪を持つ女性の進化した姿で、顔にはピンク色の楕円形とオレンジ色の長方形が特徴的に描かれています。体の下部にはオレンジ色の短いドレスがあり、腕と脚はオレンジ色で描かれています。",
+      "reason": "イヴは環境の変化により、より派手な色彩と装飾を持つことで仲間を引き付け、進化のための新たな環境への適応を果たしました。",
+      "thought": "『輝きを求めて』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='50' width='100' height='180' fill='#94d6e0' /><circle cx='200' cy='110' r='70' fill='#7fcad4' /><ellipse cx='200' cy='240' rx='90' ry='40' fill='#a9e1e8' /><polygon points='150,230 250,230 200,280' fill='#7fcad4' /><polygon points='160,60 240,60 200,20' fill='#94d6e0' /><circle cx='180' cy='100' r='10' fill='#fff' /><circle cx='220' cy='100' r='10' fill='#fff' /><circle cx='180' cy='240' r='5' fill='#000' /><circle cx='220' cy='240' r='5' fill='#000' /><line x1='160' y1='230' x2='160' y2='250' stroke='#000' stroke-width='2' /><line x1='240' y1='230' x2='240' y2='250' stroke='#000' stroke-width='2' /><line x1='180' y1='280' x2='170' y2='320' stroke='#000' stroke-width='2' /><line x1='220' y1='280' x2='230' y2='320' stroke='#000' stroke-width='2' /><polygon points='180,320 220,320 200,340' fill='#a9e1e8' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='none'><rect x='100' y='100' width='200' height='200' fill='#4682B4' /><circle cx='200' cy='80' r='50' fill='#87CEFA' /><polygon points='150,200 200,140 250,200' fill='#87CEFA' /><line x1='180' y1='300' x2='170' y2='350' stroke='#000' stroke-width='3' /><line x1='220' y1='300' x2='230' y2='350' stroke='#000' stroke-width='3' /><rect x='160' y='250' width='80' height='100' fill='#FFD700' /></svg>",
     "report": {
-      "appearance": "アダムは青色の体を持ち、大きな青い円形の頭部をしています。体は長方形の形状で、胴体には薄い水色の装飾が施されています。手足は四角い指先を持ち、しっぽは尖った形状をしています。顔には大きな目と口があり、鼻は丸く突き出ています。",
-      "reason": "生息環境の変化に伴い、アダムはより洗練された青色の特徴を持つように進化しました。",
-      "thought": "『誇り』"
+      "appearance": "アダムは青色の体と水色の頭部を持つ男性の進化した姿で、顔には水色の円と三角形が描かれています。体は青色で覆われ、短い脚と腕を持ち、腰には金色の装飾が施されています。",
+      "reason": "アダムは狩猟や協力行動の向上に伴い、体の強靭さと飾り付けが進化し、仲間に対する存在感を示すためにこのような外見となりました。",
+      "thought": "『力強く進化する』"
     },
     "name": "アダム",
     "gender": "男性"
