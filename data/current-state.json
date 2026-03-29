@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='120' width='160' height='220' fill='#FFD700'/><ellipse cx='200' cy='100' rx='70' ry='90' fill='#FFD700'/><path d='M140 250 L120 300 L280 300 L260 250 Z' fill='#FFD700'/><path d='M180 180 Q200 130 220 180 Q200 230 180 180 Z' fill='#FFD700'/><ellipse cx='160' cy='320' rx='20' ry='10' fill='#FFD700'/><ellipse cx='240' cy='320' rx='20' ry='10' fill='#FFD700'/><circle cx='170' cy='130' r='10' fill='#000'/><circle cx='230' cy='130' r='10' fill='#000'/><polygon points='160,200 200,170 240,200' fill='#FFF'/><text x='200' y='380' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='140' fill='#ffcc99' /><ellipse cx='190' cy='150' rx='30' ry='20' fill='#ffd699' /><ellipse cx='210' cy='150' rx='30' ry='20' fill='#ffd699' /><ellipse cx='170' cy='240' rx='15' ry='25' fill='#ffd699' /><ellipse cx='230' cy='240' rx='15' ry='25' fill='#ffd699' /><path d='M150,200 Q200,290 250,200 Q200,240 150,200' fill='#ff9966' /><line x1='180' y1='190' x2='170' y2='200' stroke='#663300' stroke-width='2' /><line x1='220' y1='190' x2='230' y2='200' stroke='#663300' stroke-width='2' /><ellipse cx='200' cy='170' rx='10' ry='5' fill='#000' /><ellipse cx='190' cy='148' rx='5' ry='8' fill='#fff' /><ellipse cx='210' cy='148' rx='5' ry='8' fill='#fff' /><path d='M180,220 Q200,240 220,220' fill='none' stroke='#663300' stroke-width='2' /><circle cx='180' cy='190' r='5' fill='#000' /><circle cx='220' cy='190' r='5' fill='#000' /><rect x='170' y='260' width='60' height='10' fill='#996633' /><rect x='180' y='270' width='40' height='10' fill='#996633' /><polygon points='200,150 190,130 210,130' fill='#ff3333' /><polygon points='180,150 170,130 190,130' fill='#ff3333' /><polygon points='220,150 210,130 230,130' fill='#ff3333' /></svg>",
     "report": {
-      "appearance": "イヴは金色の光沢を放つ体に、柔らかな表情を持つ女性の姿をしています。長い角のような耳と、まばゆい光を放つ尻尾を持っています。",
-      "reason": "イヴは新たな進化段階に適応するため、光の力を取り入れた進化を果たしました。",
-      "thought": "『輝きと共に在り』"
+      "appearance": "イヴは、ピンク色の柔らかな肌と二つの大きな角を持つ女性の姿をしています。両手足にはオレンジ色の模様が施され、しっかりとした尾が背中から伸びています。",
+      "reason": "この進化は、イヴが新しい環境に適応するために、より優れたバランス感覚と知識を獲得する必要があったためです。",
+      "thought": "『成長は変化の始まり』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='120' width='160' height='220' fill='#4682B4'/><ellipse cx='200' cy='100' rx='70' ry='90' fill='#4682B4'/><path d='M140 250 L120 300 L280 300 L260 250 Z' fill='#4682B4'/><path d='M180 180 Q200 130 220 180 Q200 230 180 180 Z' fill='#4682B4'/><ellipse cx='160' cy='320' rx='20' ry='10' fill='#4682B4'/><ellipse cx='240' cy='320' rx='20' ry='10' fill='#4682B4'/><circle cx='170' cy='130' r='10' fill='#FFF'/><circle cx='230' cy='130' r='10' fill='#FFF'/><polygon points='160,200 200,170 240,200' fill='#000'/><text x='200' y='380' font-family='Arial' font-size='20' fill='#FFF' text-anchor='middle'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='140' fill='#66ccff' /><ellipse cx='190' cy='150' rx='30' ry='20' fill='#66ccff' /><ellipse cx='210' cy='150' rx='30' ry='20' fill='#66ccff' /><ellipse cx='170' cy='240' rx='15' ry='25' fill='#66ccff' /><ellipse cx='230' cy='240' rx='15' ry='25' fill='#66ccff' /><path d='M150,200 Q200,290 250,200 Q200,240 150,200' fill='#3366ff' /><line x1='180' y1='190' x2='170' y2='200' stroke='#003366' stroke-width='2' /><line x1='220' y1='190' x2='230' y2='200' stroke='#003366' stroke-width='2' /><ellipse cx='200' cy='170' rx='10' ry='5' fill='#000' /><ellipse cx='190' cy='148' rx='5' ry='8' fill='#fff' /><ellipse cx='210' cy='148' rx='5' ry='8' fill='#fff' /><path d='M180,220 Q200,240 220,220' fill='none' stroke='#003366' stroke-width='2' /><circle cx='180' cy='190' r='5' fill='#000' /><circle cx='220' cy='190' r='5' fill='#000' /><rect x='170' y='260' width='60' height='10' fill='#003366' /><rect x='180' y='270' width='40' height='10' fill='#003366' /><polygon points='200,150 190,130 210,130' fill='#0033cc' /><polygon points='180,150 170,130 190,130' fill='#0033cc' /><polygon points='220,150 210,130 230,130' fill='#0033cc' /></svg>",
     "report": {
-      "appearance": "アダムは青い海をイメージさせる体色を持ち、男性らしい精悍な表情をしています。角のような尖った耳と、しなやかな尾が特徴です。",
-      "reason": "アダムは海と空の広大な世界に適応するため、青い色調と頑健な体を手に入れた進化を遂げました。",
-      "thought": "『広大なる未来を目指して』"
+      "appearance": "アダムは、青色の滑らかな皮膚を持ち、二本の角が特徴的な男性の姿をしています。体全体には青と黄色の模様が施され、しっかりとした尾が背中から生えています。",
+      "reason": "この進化は、アダムが新たな獲得した能力を活かすために、より洗練された外見を持つことが必要となったためです。",
+      "thought": "『力と美しさの調和』"
     },
     "name": "アダム",
     "gender": "男性"

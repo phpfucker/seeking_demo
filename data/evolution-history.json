@@ -29537,5 +29537,28 @@
       "gender": "男性"
     },
     "timestamp": 1774767511611
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='120' width='160' height='220' fill='#FFD700'/><ellipse cx='200' cy='100' rx='70' ry='90' fill='#FFD700'/><path d='M140 250 L120 300 L280 300 L260 250 Z' fill='#FFD700'/><path d='M180 180 Q200 130 220 180 Q200 230 180 180 Z' fill='#FFD700'/><ellipse cx='160' cy='320' rx='20' ry='10' fill='#FFD700'/><ellipse cx='240' cy='320' rx='20' ry='10' fill='#FFD700'/><circle cx='170' cy='130' r='10' fill='#000'/><circle cx='230' cy='130' r='10' fill='#000'/><polygon points='160,200 200,170 240,200' fill='#FFF'/><text x='200' y='380' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは金色の光沢を放つ体に、柔らかな表情を持つ女性の姿をしています。長い角のような耳と、まばゆい光を放つ尻尾を持っています。",
+        "reason": "イヴは新たな進化段階に適応するため、光の力を取り入れた進化を果たしました。",
+        "thought": "『輝きと共に在り』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='120' width='160' height='220' fill='#4682B4'/><ellipse cx='200' cy='100' rx='70' ry='90' fill='#4682B4'/><path d='M140 250 L120 300 L280 300 L260 250 Z' fill='#4682B4'/><path d='M180 180 Q200 130 220 180 Q200 230 180 180 Z' fill='#4682B4'/><ellipse cx='160' cy='320' rx='20' ry='10' fill='#4682B4'/><ellipse cx='240' cy='320' rx='20' ry='10' fill='#4682B4'/><circle cx='170' cy='130' r='10' fill='#FFF'/><circle cx='230' cy='130' r='10' fill='#FFF'/><polygon points='160,200 200,170 240,200' fill='#000'/><text x='200' y='380' font-family='Arial' font-size='20' fill='#FFF' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青い海をイメージさせる体色を持ち、男性らしい精悍な表情をしています。角のような尖った耳と、しなやかな尾が特徴です。",
+        "reason": "アダムは海と空の広大な世界に適応するため、青い色調と頑健な体を手に入れた進化を遂げました。",
+        "thought": "『広大なる未来を目指して』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1774788452396
   }
 ]
