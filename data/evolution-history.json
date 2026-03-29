@@ -29514,5 +29514,28 @@
       "gender": "男性"
     },
     "timestamp": 1774749896099
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='120' width='100' height='180' fill='#FFDAC1'/><ellipse cx='200' cy='120' rx='50' ry='60' fill='#FFDAC1'/><ellipse cx='185' cy='110' rx='10' ry='15' fill='#FFFFFF'/><ellipse cx='215' cy='110' rx='10' ry='15' fill='#FFFFFF'/><ellipse cx='185' cy='110' rx='5' ry='10' fill='#000000'/><ellipse cx='215' cy='110' rx='5' ry='10' fill='#000000'/><polygon points='185,180 200,230 215,180' fill='#FFB6C1'/><path d='M175,300 L225,300 L200,340 Z' fill='#FFB6C1'/><polygon points='150,300 200,350 250,300' fill='#FFB6C1'/><rect x='180' y='280' width='40' height='20' fill='#FFB6C1'/><path d='M155,280 Q180,250 205,280' fill='none' stroke='#FFB6C1' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌を持つ女性で、柔らかな表情と長い尻尾が特徴です。顔には白い眼と口があります。体は丸みを帯びた形状で、足元には三角形の模様があります。",
+        "reason": "イヴは自然界の美しさにインスパイアされ、優美で優しい姿に進化しました。",
+        "thought": "『調和と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='120' width='100' height='180' fill='#C9C9C9'/><ellipse cx='200' cy='120' rx='50' ry='60' fill='#C9C9C9'/><ellipse cx='185' cy='110' rx='10' ry='15' fill='#FFFFFF'/><ellipse cx='215' cy='110' rx='10' ry='15' fill='#FFFFFF'/><ellipse cx='185' cy='110' rx='5' ry='10' fill='#000000'/><ellipse cx='215' cy='110' rx='5' ry='10' fill='#000000'/><polygon points='185,180 200,230 215,180' fill='#778899'/><path d='M175,300 L225,300 L200,340 Z' fill='#778899'/><polygon points='150,300 200,350 250,300' fill='#778899'/><rect x='180' y='280' width='40' height='20' fill='#778899'/><path d='M155,280 Q180,250 205,280' fill='none' stroke='#778899' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、灰色の肌を持つ男性で、力強い表情と頑丈な尻尾が特徴です。顔には白い眼と口があります。体は筋肉質な形状で、足元には青灰色の模様があります。",
+        "reason": "アダムは自然界の強さと堅実さにインスパイアされ、頑丈で力強い姿に進化しました。",
+        "thought": "『力と堅実さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1774767511611
   }
 ]
