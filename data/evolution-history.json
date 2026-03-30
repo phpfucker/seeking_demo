@@ -29652,5 +29652,28 @@
       "gender": "男性"
     },
     "timestamp": 1774876283145
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,204,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(204,0,102);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='150' cy='140' rx='25' ry='30' fill='rgb(255,204,255)' /><ellipse cx='250' cy='140' rx='25' ry='30' fill='rgb(255,204,255)' /><path d='M180 260 L160 280 L200 280 Z' fill='rgb(255,204,255)' /><path d='M220 260 L240 280 L200 280 Z' fill='rgb(255,204,255)' /><polygon points='180,260 200,300 220,260' fill='rgb(204,0,102)' /><rect x='170' y='180' width='60' height='20' fill='rgb(204,0,102)' /><line x1='170' y1='200' x2='230' y2='200' stroke='rgb(204,0,102)' stroke-width='4' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとパープルのグラデーションが美しい体を持ち、顔には優しい表情を浮かべ、足元には赤い装飾が施されています。体の中心にはハート型の模様があり、愛に満ちた存在です。",
+        "reason": "愛と美の力がイヴを包み込み、進化の過程で新たな魅力を手に入れさせました。",
+        "thought": "『愛と美が世界を満たす』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><radialGradient id='gradB' cx='50%' cy='50%' r='50%' fx='50%' fy='50%'><stop offset='0%' style='stop-color:rgb(102,204,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,102,204);stop-opacity:1' /></radialGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradB)' /><rect x='170' y='180' width='60' height='30' fill='rgb(102,204,255)' /><ellipse cx='200' cy='140' rx='20' ry='30' fill='rgb(102,204,255)' /><ellipse cx='180' cy='240' rx='10' ry='20' fill='rgb(102,204,255)' /><ellipse cx='220' cy='240' rx='10' ry='20' fill='rgb(102,204,255)' /><polygon points='180,260 200,300 220,260' fill='rgb(0,102,204)' /><line x1='170' y1='200' x2='230' y2='200' stroke='rgb(0,102,204)' stroke-width='4' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色のグラデーションが全身を覆い、優雅な存在感を持っています。体の中心には三角形の模様があり、知性と力強さを象徴しています。",
+        "reason": "知性と力強さがアダムに新たな進化をもたらし、青い光を放つ存在となりました。",
+        "thought": "『知性と力強さで未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1774896921733
   }
 ]
