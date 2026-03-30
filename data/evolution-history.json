@@ -29629,5 +29629,28 @@
       "gender": "男性"
     },
     "timestamp": 1774855343785
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><circle cx='200' cy='200' r='150' fill='#ffccff'/><ellipse cx='200' cy='250' rx='80' ry='110' fill='#ffb3d9'/><rect x='130' y='120' width='140' height='40' fill='#ff99cc'/><rect x='160' y='180' width='80' height='70' fill='#ff99cc'/><path d='M180 230 Q200 255 220 230' fill='none' stroke='#ff66b2' stroke-width='5'/><path d='M240 230 Q260 255 280 230' fill='none' stroke='#ff66b2' stroke-width='5'/><path d='M150 230 Q200 185 250 230' fill='none' stroke='#ff66b2' stroke-width='5'/><polygon points='190,150 210,150 200,160' fill='#ff99cc'/><polygon points='190,160 210,160 200,170' fill='#ff99cc'/><polygon points='190,170 210,170 200,180' fill='#ff99cc'/></g></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかい毛皮を持ち、優雅な女性らしい曲線と花を思わせる模様が特徴です。背中には美しい蝶のような羽が生えています。四肢は長くしなやかで、角のような尖った飾りがついています。",
+        "reason": "イヴは自然と共生し、花や蝶からインスピレーションを受けて進化しました。",
+        "thought": "『自然の美しさを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><circle cx='200' cy='200' r='150' fill='#b3e0ff'/><ellipse cx='200' cy='250' rx='80' ry='110' fill='#99ccff'/><rect x='130' y='120' width='140' height='40' fill='#66b3ff'/><rect x='160' y='180' width='80' height='70' fill='#66b3ff'/><path d='M180 230 Q200 255 220 230' fill='none' stroke='#3385ff' stroke-width='5'/><path d='M240 230 Q260 255 280 230' fill='none' stroke='#3385ff' stroke-width='5'/><path d='M150 230 Q200 185 250 230' fill='none' stroke='#3385ff' stroke-width='5'/><polygon points='190,150 210,150 200,160' fill='#66b3ff'/><polygon points='190,160 210,160 200,170' fill='#66b3ff'/><polygon points='190,170 210,170 200,180' fill='#66b3ff'/></g></svg>",
+      "report": {
+        "appearance": "アダムは、青色の透き通った鱗状の皮膚と、男性らしい筋肉質な身体を持ちます。鳥の羽のような装飾が背中にあり、尾っぽは長く煌めく魚のような姿です。",
+        "reason": "アダムは大気中の魚の群れや鳥の飛翔からインスピレーションを得て、進化しました。",
+        "thought": "『自由な空間を求める』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1774876283145
   }
 ]
