@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,179,186);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,235,238);stop-opacity:1' /></linearGradient></defs><rect x='50' y='50' width='300' height='300' fill='url(#gradA)' /><circle cx='200' cy='120' r='70' fill='white' /><circle cx='145' cy='120' r='12' fill='black' /><circle cx='255' cy='120' r='12' fill='black' /><path d='M200 140 Q170 160 200 180 Q230 160 200 140' fill='white' /><path d='M150 220 Q200 280 250 220' fill='white' /><path d='M150 220 Q200 240 250 220' fill='white' /><rect x='175' y='220' width='50' height='80' fill='white' /><path d='M190 300 Q200 320 210 300' fill='white' /><path d='M200 300 Q190 320 210 320' fill='white' /><polygon points='180,220 200,200 220,220' fill='white' /><polygon points='180,240 200,260 220,240' fill='white' /><path d='M160 170 Q180 200 200 170 Q220 200 240 170' fill='none' stroke='black' stroke-width='2' /><path d='M160 250 Q180 280 200 250 Q220 280 240 250' fill='none' stroke='black' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><circle cx='200' cy='200' r='150' fill='#ffccff'/><ellipse cx='200' cy='250' rx='80' ry='110' fill='#ffb3d9'/><rect x='130' y='120' width='140' height='40' fill='#ff99cc'/><rect x='160' y='180' width='80' height='70' fill='#ff99cc'/><path d='M180 230 Q200 255 220 230' fill='none' stroke='#ff66b2' stroke-width='5'/><path d='M240 230 Q260 255 280 230' fill='none' stroke='#ff66b2' stroke-width='5'/><path d='M150 230 Q200 185 250 230' fill='none' stroke='#ff66b2' stroke-width='5'/><polygon points='190,150 210,150 200,160' fill='#ff99cc'/><polygon points='190,160 210,160 200,170' fill='#ff99cc'/><polygon points='190,170 210,170 200,180' fill='#ff99cc'/></g></svg>",
     "report": {
-      "appearance": "イヴは、ピンクと白のグラデーションの体色を持ち、円らな顔に大きな白い目を持ちます。頭部には小さな黒い角があり、しっぽと手足も白色で構成されています。体中には曲線的な模様が施されており、優雅で華やかな印象を与えます。",
-      "reason": "イヴは、自然との調和を表現するため、花や美しい自然の要素を取り入れた進化を遂げました。",
-      "thought": "『生命の美しさを感じる』"
+      "appearance": "イヴは、ピンク色の柔らかい毛皮を持ち、優雅な女性らしい曲線と花を思わせる模様が特徴です。背中には美しい蝶のような羽が生えています。四肢は長くしなやかで、角のような尖った飾りがついています。",
+      "reason": "イヴは自然と共生し、花や蝶からインスピレーションを受けて進化しました。",
+      "thought": "『自然の美しさを感じる』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(173,214,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(214,233,255);stop-opacity:1' /></linearGradient></defs><rect x='50' y='50' width='300' height='300' fill='url(#gradB)' /><circle cx='200' cy='120' r='70' fill='white' /><circle cx='145' cy='120' r='12' fill='black' /><circle cx='255' cy='120' r='12' fill='black' /><polygon points='180,140 200,120 220,140' fill='white' /><path d='M150 220 Q200 280 250 220' fill='white' /><path d='M150 220 Q200 240 250 220' fill='white' /><rect x='175' y='220' width='50' height='80' fill='white' /><path d='M190 300 Q200 320 210 300' fill='white' /><path d='M200 300 Q190 320 210 320' fill='white' /><polygon points='180,220 200,200 220,220' fill='white' /><polygon points='180,240 200,260 220,240' fill='white' /><path d='M160 170 Q180 200 200 170 Q220 200 240 170' fill='none' stroke='black' stroke-width='2' /><path d='M160 250 Q180 280 200 250 Q220 280 240 250' fill='none' stroke='black' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><circle cx='200' cy='200' r='150' fill='#b3e0ff'/><ellipse cx='200' cy='250' rx='80' ry='110' fill='#99ccff'/><rect x='130' y='120' width='140' height='40' fill='#66b3ff'/><rect x='160' y='180' width='80' height='70' fill='#66b3ff'/><path d='M180 230 Q200 255 220 230' fill='none' stroke='#3385ff' stroke-width='5'/><path d='M240 230 Q260 255 280 230' fill='none' stroke='#3385ff' stroke-width='5'/><path d='M150 230 Q200 185 250 230' fill='none' stroke='#3385ff' stroke-width='5'/><polygon points='190,150 210,150 200,160' fill='#66b3ff'/><polygon points='190,160 210,160 200,170' fill='#66b3ff'/><polygon points='190,170 210,170 200,180' fill='#66b3ff'/></g></svg>",
     "report": {
-      "appearance": "アダムは、青と白のグラデーションの体色を持ち、円らな顔に大きな白い目を持っています。頭部には小さな黒い角があり、しっぽと手足も白色で構成されています。体表には幾何学的な模様が見られ、知的で落ち着いた雰囲気を放っています。",
-      "reason": "アダムは、知識と知性を象徴するため、幾何学的なパターンや青色を取り入れた進化を遂げました。",
-      "thought": "『知恵と調和の力』"
+      "appearance": "アダムは、青色の透き通った鱗状の皮膚と、男性らしい筋肉質な身体を持ちます。鳥の羽のような装飾が背中にあり、尾っぽは長く煌めく魚のような姿です。",
+      "reason": "アダムは大気中の魚の群れや鳥の飛翔からインスピレーションを得て、進化しました。",
+      "thought": "『自由な空間を求める』"
     },
     "name": "アダム",
     "gender": "男性"
