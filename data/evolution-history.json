@@ -29583,5 +29583,28 @@
       "gender": "男性"
     },
     "timestamp": 1774809420873
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><polygon points='200,50 250,150 150,150' fill='#ffd700'/><ellipse cx='170' cy='180' rx='20' ry='10' fill='#ffffff'/><ellipse cx='230' cy='180' rx='20' ry='10' fill='#ffffff'/><path d='M175,220 Q200,280 225,220 Z' fill='#ffb6c1'/><path d='M180,220 Q200,260 220,220 Z' fill='#ffb6c1'/><path d='M190,220 Q200,245 210,220 Z' fill='#ffb6c1'/><line x1='185' y1='210' x2='215' y2='210' stroke='#000' stroke-width='2'/><path d='M170,250 Q200,320 230,250 Z' fill='#ffc0cb'/><line x1='190' y1='250' x2='210' y2='250' stroke='#000' stroke-width='2'/><line x1='190' y1='250' x2='210' y2='250' stroke='#000' stroke-width='2'/><circle cx='180' cy='185' r='5' fill='#000'/><circle cx='220' cy='185' r='5' fill='#000'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、金色の髪と白い翼を持つ女性の姿をしています。顔には愛らしい笑みが浮かび、優雅で優しい雰囲気を放っています。",
+        "reason": "イヴは新たな進化の過程で、自然と調和した美しい姿を手に入れた。その優美さは、周囲の生命体との共生をより強調するために進化した結果である。",
+        "thought": "『愛と調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='50' width='100' height='200' fill='#4682b4'/><polygon points='200,50 250,150 150,150' fill='#ffd700'/><ellipse cx='170' cy='180' rx='20' ry='10' fill='#ffffff'/><ellipse cx='230' cy='180' rx='20' ry='10' fill='#ffffff'/><path d='M175,220 Q200,280 225,220 Z' fill='#d2b48c'/><path d='M180,220 Q200,260 220,220 Z' fill='#d2b48c'/><path d='M190,220 Q200,245 210,220 Z' fill='#d2b48c'/><line x1='185' y1='210' x2='215' y2='210' stroke='#000' stroke-width='2'/><path d='M170,250 Q200,320 230,250 Z' fill='#a0522d'/><line x1='190' y1='250' x2='210' y2='250' stroke='#000' stroke-width='2'/><line x1='190' y1='250' x2='210' y2='250' stroke='#000' stroke-width='2'/><polygon points='185,220 190,230 200,225 210,230 215,220 210,215 200,220 190,215' fill='#000'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の粗い皮膚と大きな角を持つ男性の姿をしています。体格ががっしりとしており、凛々しい表情をしています。",
+        "reason": "アダムは進化のプロセスにより、力強く生存に適応した外見を手に入れた。その強靭な体つきと角は、環境の厳しさに適応するために進化した結果である。",
+        "thought": "『力と堅実』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1774836432412
   }
 ]
