@@ -29721,5 +29721,28 @@
       "gender": "男性"
     },
     "timestamp": 1774940897295
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink'/><ellipse cx='200' cy='190' rx='60' ry='40' fill='white'/><ellipse cx='160' cy='190' rx='20' ry='30' fill='black'/><ellipse cx='240' cy='190' rx='20' ry='30' fill='black'/><path d='M150 240 Q200 300 250 240 L200 280 Z' fill='pink'/><rect x='180' y='280' width='40' height='20' fill='pink'/><path d='M150 180 L140 160 L160 160 Z' fill='pink'/><path d='M250 180 L260 160 L240 160 Z' fill='pink'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の肌を持ち、白い卵形の顔に黒い目を持ちます。頭にはピンクの角が一対生え、上半身にはピンクの輝く装飾が施されています。手は小さなピンクの爪を持ち、足はピンクの脚部で構成されています。",
+        "reason": "新たな環境への適応をサポートするため、イヴは美しくピンク色の外観となり、華やかな特徴の装飾が追加されました。",
+        "thought": "『誇り高き美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='lightblue'/><circle cx='200' cy='90' r='40' fill='white'/><circle cx='170' cy='90' r='10' fill='black'/><circle cx='230' cy='90' r='10' fill='black'/><polygon points='200,140 180,160 220,160' fill='brown'/><polygon points='195,300 185,280 215,280' fill='lightblue'/><path d='M150 300 Q200 380 250 300 L200 340 Z' fill='lightblue'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の体を持ち、白い丸い顔に黒い瞳を持っています。頭部には茶色の角が生え、上半身には茶色の模様があります。手は茶色の鋭い爪で、足は青い脚部で構成されています。",
+        "reason": "進化が環境適応を促し、アダムは青い色合いと茶色の模様が特徴となり、強靭な外観を獲得しました。",
+        "thought": "『力強い守護者』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1774962604179
   }
 ]
