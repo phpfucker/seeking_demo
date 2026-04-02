@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='150' rx='100' ry='140' fill='#ffcccb'/><circle cx='200' cy='200' r='80' fill='#ffb6c1'/><rect x='170' y='210' width='60' height='20' fill='#ffc0cb'/><rect x='190' y='230' width='20' height='50' fill='#ffc0cb'/><circle cx='170' cy='180' r='10' fill='#333'/><circle cx='230' cy='180' r='10' fill='#333'/><polyline points='180,210 185,205 195,215' fill='none' stroke='#333' stroke-width='2'/><polyline points='220,210 225,205 235,215' fill='none' stroke='#333' stroke-width='2'/><path d='M195,260 C195,280 205,280 205,260' fill='none' stroke='#333' stroke-width='3'/><path d='M205,260 C205,280 215,280 215,260' fill='none' stroke='#333' stroke-width='3'/><circle cx='190' cy='150' r='5' fill='#fff'/><circle cx='210' cy='150' r='5' fill='#fff'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcc99'/><path d='M200,50 L150,100 L250,100 Z' fill='#cc9966'/><polygon points='175,150 150,175 200,200 225,175' fill='#ff9966'/><ellipse cx='200' cy='200' rx='50' ry='30' fill='#ffcc99'/><path d='M175,225 C180,230 220,230 225,225' fill='none' stroke='#663300' stroke-width='2'/><circle cx='185' cy='190' r='5' fill='#663300'/><circle cx='215' cy='190' r='5' fill='#663300'/><circle cx='200' cy='210' r='8' fill='#663300'/><line x1='190' y1='180' x2='175' y2='175' stroke='#663300' stroke-width='2'/><line x1='210' y1='180' x2='225' y2='175' stroke='#663300' stroke-width='2'/><polygon points='175,250 190,225 210,225 225,250' fill='#663300'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかい皮膚を持ち、大きな赤い目をしています。体は細身で優雅な曲線を描き、手足には柔らかなピンク色の蹄があります。しっぽは長くてしなやかで、頭には小さな角が一対生えています。",
-      "reason": "自然界の変化により、イヴは独特の美しさと優雅さを身につけました。",
-      "thought": "『秘めたる力』"
+      "appearance": "イヴは、オレンジ色のふわふわした毛並みを持つ女性型生命体です。体は四角形であり、顔には短い口元があります。額には円形の模様があり、胴体には楕円形の模様があります。手足は線状で、四肢末端には小さな丸い指があります。しっぽは矢印のような形状で、先端が広がっています。",
+      "reason": "進化の過程で、イヴは地球の環境に適応するため、毛並みが暖かいオレンジ色に変化しました。模様や形状の変化は、生存競争において他の生物との識別や繁殖の役割を果たしています。",
+      "thought": "『自然と調和し、穏やかさを大切にしたい』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='150' rx='100' ry='140' fill='#add8e6'/><circle cx='200' cy='200' r='80' fill='#87ceeb'/><rect x='170' y='210' width='60' height='20' fill='#b0e0e6'/><rect x='190' y='230' width='20' height='50' fill='#b0e0e6'/><circle cx='170' cy='180' r='10' fill='#333'/><circle cx='230' cy='180' r='10' fill='#333'/><polyline points='180,210 185,205 195,215' fill='none' stroke='#333' stroke-width='2'/><polyline points='220,210 225,205 235,215' fill='none' stroke='#333' stroke-width='2'/><path d='M195,260 C195,280 205,280 205,260' fill='none' stroke='#333' stroke-width='3'/><path d='M205,260 C205,280 215,280 215,260' fill='none' stroke='#333' stroke-width='3'/><circle cx='190' cy='150' r='5' fill='#fff'/><circle cx='210' cy='150' r='5' fill='#fff'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#85b3ff'/><path d='M200,50 L150,100 L250,100 Z' fill='#5588ff'/><polygon points='175,150 150,175 200,200 225,175' fill='#4477ff'/><ellipse cx='200' cy='200' rx='50' ry='30' fill='#85b3ff'/><path d='M175,225 C180,230 220,230 225,225' fill='none' stroke='#224499' stroke-width='2'/><circle cx='185' cy='190' r='5' fill='#224499'/><circle cx='215' cy='190' r='5' fill='#224499'/><circle cx='200' cy='210' r='8' fill='#224499'/><line x1='190' y1='180' x2='175' y2='175' stroke='#224499' stroke-width='2'/><line x1='210' y1='180' x2='225' y2='175' stroke='#224499' stroke-width='2'/><polygon points='225,250 210,225 190,225 175,250' fill='#224499'/></svg>",
     "report": {
-      "appearance": "アダムは、淡い水色の皮膚を持ち、大きな青い目をしています。体つきはがっしりとしており、手足には青い爪が生えています。しっぽは短く太く、頭には角が一つ生えています。",
-      "reason": "進化のプロセスにより、アダムは生存競争において優位に立つための適応を獲得しました。",
-      "thought": "『静かな力』"
+      "appearance": "アダムは、青色のスケール状の外皮を持つ男性型生命体です。体は四角形であり、顔には長い口元があります。額には三角形の模様があり、胴体には楕円形の模様があります。手足は線状で、四肢末端には小さな丸い指があります。角状の突起物が頭部にあり、しっぽは逆三角形の形状です。",
+      "reason": "アダムは進化の過程で、水中での活動性を高めるため、青色のスケールに覆われ、より滑らかな形状となりました。外見の変化は、生存環境での擬態や敵対生物との相互作用に適応するためです。",
+      "thought": "『静かな深海の中で、自らの存在を青く輝かせる』"
     },
     "name": "アダム",
     "gender": "男性"
