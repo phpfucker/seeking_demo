@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightpink' /><ellipse cx='130' cy='180' rx='40' ry='25' fill='pink' /><ellipse cx='270' cy='180' rx='40' ry='25' fill='pink' /><path d='M200,220 Q180,250 200,280 Q220,250 200,220 Z' fill='pink' /><circle cx='170' cy='160' r='10' fill='black' /><circle cx='230' cy='160' r='10' fill='black' /><path d='M190,210 Q200,230 210,210' fill='none' stroke='black' stroke-width='2' /><path d='M200,210 Q210,230 220,210' fill='none' stroke='black' stroke-width='2' /><polygon points='185,190 200,210 215,190' fill='white' /><rect x='185' y='250' width='30' height='10' fill='pink' /><polygon points='200,260 210,270 190,270' fill='pink' /><rect x='180' y='260' width='40' height='10' fill='pink' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='150' rx='100' ry='140' fill='#ffcccb'/><circle cx='200' cy='200' r='80' fill='#ffb6c1'/><rect x='170' y='210' width='60' height='20' fill='#ffc0cb'/><rect x='190' y='230' width='20' height='50' fill='#ffc0cb'/><circle cx='170' cy='180' r='10' fill='#333'/><circle cx='230' cy='180' r='10' fill='#333'/><polyline points='180,210 185,205 195,215' fill='none' stroke='#333' stroke-width='2'/><polyline points='220,210 225,205 235,215' fill='none' stroke='#333' stroke-width='2'/><path d='M195,260 C195,280 205,280 205,260' fill='none' stroke='#333' stroke-width='3'/><path d='M205,260 C205,280 215,280 215,260' fill='none' stroke='#333' stroke-width='3'/><circle cx='190' cy='150' r='5' fill='#fff'/><circle cx='210' cy='150' r='5' fill='#fff'/></svg>",
     "report": {
-      "appearance": "イヴは、美しいピンク色の肌を持ち、優雅な姿勢で立っています。体には柔らかな曲線が特徴で、優しい雰囲気を醸し出しています。",
-      "reason": "進化の過程で、イヴは美的感覚と優美さが重視されたため、より優雅で美しい外見となりました。",
-      "thought": "『美しさは心を豊かにする』"
+      "appearance": "イヴは、ピンク色の柔らかい皮膚を持ち、大きな赤い目をしています。体は細身で優雅な曲線を描き、手足には柔らかなピンク色の蹄があります。しっぽは長くてしなやかで、頭には小さな角が一対生えています。",
+      "reason": "自然界の変化により、イヴは独特の美しさと優雅さを身につけました。",
+      "thought": "『秘めたる力』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='lightblue' /><ellipse cx='200' cy='150' rx='35' ry='20' fill='blue' /><ellipse cx='170' cy='130' rx='15' ry='10' fill='black' /><ellipse cx='230' cy='130' rx='15' ry='10' fill='black' /><polygon points='180,200 200,220 220,200' fill='white' /><circle cx='190' cy='250' r='10' fill='blue' /><circle cx='210' cy='250' r='10' fill='blue' /><rect x='190' y='260' width='20' height='10' fill='blue' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='150' rx='100' ry='140' fill='#add8e6'/><circle cx='200' cy='200' r='80' fill='#87ceeb'/><rect x='170' y='210' width='60' height='20' fill='#b0e0e6'/><rect x='190' y='230' width='20' height='50' fill='#b0e0e6'/><circle cx='170' cy='180' r='10' fill='#333'/><circle cx='230' cy='180' r='10' fill='#333'/><polyline points='180,210 185,205 195,215' fill='none' stroke='#333' stroke-width='2'/><polyline points='220,210 225,205 235,215' fill='none' stroke='#333' stroke-width='2'/><path d='M195,260 C195,280 205,280 205,260' fill='none' stroke='#333' stroke-width='3'/><path d='M205,260 C205,280 215,280 215,260' fill='none' stroke='#333' stroke-width='3'/><circle cx='190' cy='150' r='5' fill='#fff'/><circle cx='210' cy='150' r='5' fill='#fff'/></svg>",
     "report": {
-      "appearance": "アダムは、青い肌を持つ男性で、力強く立っています。体は四角く筋肉質で、凛々しい表情をしています。",
-      "reason": "アダムは進化の過程で、力強さと頼もしさが重視され、より男性らしい外見となりました。",
-      "thought": "『力強さこそが真の美しさ』"
+      "appearance": "アダムは、淡い水色の皮膚を持ち、大きな青い目をしています。体つきはがっしりとしており、手足には青い爪が生えています。しっぽは短く太く、頭には角が一つ生えています。",
+      "reason": "進化のプロセスにより、アダムは生存競争において優位に立つための適応を獲得しました。",
+      "thought": "『静かな力』"
     },
     "name": "アダム",
     "gender": "男性"
