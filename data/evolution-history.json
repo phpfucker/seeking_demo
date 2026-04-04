@@ -30089,5 +30089,28 @@
       "gender": "男性"
     },
     "timestamp": 1775285761121
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='200' width='200' height='140' fill='#FFD700'/><ellipse cx='200' cy='150' rx='70' ry='90' fill='#FFD700'/><polygon points='150,250 200,300 250,250' fill='#FFD700'/><rect x='160' y='340' width='80' height='20' fill='#FFD700'/><circle cx='150' cy='150' r='8' fill='#000'/><circle cx='250' cy='150' r='8' fill='#000'/><path d='M200,160 Q180,180 200,200 Q220,180 200,160 Z' fill='#FF69B4'/></svg>",
+      "report": {
+        "appearance": "イヴは、金色の光沢のある体を持ち、大きな卵形の頭部と優雅な角を持つ女性の姿をしています。背中には三角形の翼があり、足元には黄金色の尾が垂れ下がっています。",
+        "reason": "新たな環境で資源が不足し、太陽の輝きを取り入れることで生存率を高めるために進化しました。",
+        "thought": "『輝く太陽の力を感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='200' width='200' height='140' fill='#4682B4'/><ellipse cx='200' cy='150' rx='70' ry='90' fill='#4682B4'/><polygon points='150,250 200,300 250,250' fill='#4682B4'/><rect x='160' y='340' width='80' height='20' fill='#4682B4'/><circle cx='150' cy='150' r='8' fill='#000'/><circle cx='250' cy='150' r='8' fill='#000'/><path d='M200,160 Q180,180 200,200 Q220,180 200,160 Z' fill='#6495ED'/></svg>",
+      "report": {
+        "appearance": "アダムは、青銅のような光沢のある体を持ち、卵形の頭部と力強い角を持つ男性の姿をしています。背中には三角形の翼があり、足元には銀色の尾が垂れ下がっています。",
+        "reason": "新たな環境で冷たい水辺での生存が必要となり、青銅色の体表を持つことで熱を逃さずに生存率を高めるために進化しました。",
+        "thought": "『水辺で穏やかな時間を過ごす』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1775306834735
   }
 ]
