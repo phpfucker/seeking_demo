@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"130\" width=\"200\" height=\"200\" fill=\"#ffcccb\"/><ellipse cx=\"200\" cy=\"80\" rx=\"70\" ry=\"90\" fill=\"#ff99cc\"/><rect x=\"150\" y=\"200\" width=\"100\" height=\"140\" fill=\"#ffb6c1\"/><path d=\"M150 340 L100 400 L300 400 L250 340 Z\" fill=\"#ff99cc\"/><circle cx=\"155\" cy=\"90\" r=\"10\" fill=\"#fff\"/><circle cx=\"245\" cy=\"90\" r=\"10\" fill=\"#fff\"/><circle cx=\"200\" cy=\"250\" r=\"20\" fill=\"#fff\"/></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"#ffcccb\" /><ellipse cx=\"200\" cy=\"180\" rx=\"100\" ry=\"140\" fill=\"#ffb6c1\" /><path d=\"M200 220 Q180 230 180 270 A20 20 0 0 0 220 270 Q220 230 200 220\" fill=\"#ffc0cb\" /><rect x=\"170\" y=\"240\" width=\"60\" height=\"10\" fill=\"#ffc0cb\" /><rect x=\"170\" y=\"250\" width=\"10\" height=\"30\" fill=\"#ffc0cb\" /><rect x=\"220\" y=\"250\" width=\"10\" height=\"30\" fill=\"#ffc0cb\" /><polygon points=\"190,170 200,160 210,170\" fill=\"#ff1493\" /><polygon points=\"190,220 200,210 210,220\" fill=\"#ff1493\" /><circle cx=\"180\" cy=\"190\" r=\"5\" fill=\"#000\" /><circle cx=\"220\" cy=\"190\" r=\"5\" fill=\"#000\" /><circle cx=\"210\" cy=\"250\" r=\"5\" fill=\"#000\" /><circle cx=\"190\" cy=\"250\" r=\"5\" fill=\"#000\" /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな肌を持ち、大きな赤い目と長い脚を持つ女性型生命体です。体の一部には濃いピンクの模様が施されています。",
-      "reason": "イヴは、新たな環境に適応するため、より細長い脚を持ち、視覚的な特徴を強調した進化を遂げました。",
-      "thought": "『包み込まれるような感覚』"
+      "appearance": "イヴは美しいピンク色の肌を持ち、優雅な姿勢で立っています。背中には小さな羽が生え、頭には角を持っています。顔立ちは柔らかく、大きな瞳が印象的です。",
+      "reason": "生態系での適応性を高め、繁殖成功率を向上させるため、イヴは美しさと優雅さを強調した進化を遂げました。",
+      "thought": "『優しさが強さを生む』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"130\" width=\"200\" height=\"200\" fill=\"#87ceeb\"/><ellipse cx=\"200\" cy=\"80\" rx=\"70\" ry=\"90\" fill=\"#4682b4\"/><rect x=\"150\" y=\"200\" width=\"100\" height=\"140\" fill=\"#b0e0e6\"/><polygon points=\"150,340 100,400 300,400 250,340\" fill=\"#4682b4\"/><circle cx=\"155\" cy=\"90\" r=\"10\" fill=\"#fff\"/><circle cx=\"245\" cy=\"90\" r=\"10\" fill=\"#fff\"/><circle cx=\"200\" cy=\"250\" r=\"20\" fill=\"#fff\"/></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"#add8e6\" /><ellipse cx=\"200\" cy=\"180\" rx=\"100\" ry=\"140\" fill=\"#87ceeb\" /><path d=\"M200 220 Q180 230 180 270 A20 20 0 0 0 220 270 Q220 230 200 220\" fill=\"#afeeee\" /><rect x=\"170\" y=\"240\" width=\"60\" height=\"10\" fill=\"#afeeee\" /><rect x=\"170\" y=\"250\" width=\"10\" height=\"30\" fill=\"#afeeee\" /><rect x=\"220\" y=\"250\" width=\"10\" height=\"30\" fill=\"#afeeee\" /><polygon points=\"190,170 200,160 210,170\" fill=\"#00bfff\" /><polygon points=\"190,220 200,210 210,220\" fill=\"#00bfff\" /><circle cx=\"180\" cy=\"190\" r=\"5\" fill=\"#000\" /><circle cx=\"220\" cy=\"190\" r=\"5\" fill=\"#000\" /><circle cx=\"210\" cy=\"250\" r=\"5\" fill=\"#000\" /><circle cx=\"190\" cy=\"250\" r=\"5\" fill=\"#000\" /></svg>",
     "report": {
-      "appearance": "アダムは、青い体と灰色の腹部を持つ男性型生命体で、大きな青い瞳と四角い尾を持っています。身体の一部には濃い青色の模様が描かれています。",
-      "reason": "アダムは、より大きな視覚面積を持つため、目を大きくして視覚的な特徴を際立たせ、生存戦略を進化させました。",
-      "thought": "『深い水の中での静けさ』"
+      "appearance": "アダムは穏やかな青色の肌を持ち、堂々としたポーズで立っています。背中には鱗があり、頭には角が生えています。目つきは凛々しい印象です。",
+      "reason": "生存競争において他個体との識別性を高め、縄張りを確保するため、アダムは青色の肌と凛々しい姿勢を特徴とした進化を遂げました。",
+      "thought": "『誇り高き者』"
     },
     "name": "アダム",
     "gender": "男性"
