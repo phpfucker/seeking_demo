@@ -30204,5 +30204,28 @@
       "gender": "男性"
     },
     "timestamp": 1775393456584
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'><rect x='140' y='120' width='120' height='200' fill='#ffadd8'/><ellipse cx='200' cy='100' rx='60' ry='80' fill='#ffadd8'/><ellipse cx='170' cy='100' rx='15' ry='25' fill='#ffffff'/><ellipse cx='230' cy='100' rx='15' ry='25' fill='#ffffff'/><path d='M140,120 L200,20 L260,120 Z' fill='#ffadd8'/><ellipse cx='160' cy='280' rx='25' ry='15' fill='#ffadd8'/><ellipse cx='240' cy='280' rx='25' ry='15' fill='#ffadd8'/><polygon points='160,200 200,180 240,200' fill='#ffffff'/><polygon points='190,220 200,200 210,220' fill='#ffffff'/><polygon points='180,240 200,230 220,240' fill='#ffffff'/><ellipse cx='200' cy='300' rx='30' ry='20' fill='#ffadd8'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に大きな瞳を持つ女性の姿をしています。頭部には白い角があり、体の一部には白い模様が入っています。四肢は細く、しっぽがあります。",
+        "reason": "種の進化の中で、イヴはより優れた視覚と優美な体つきを持つことで、環境への適応性を高めました。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'><rect x='140' y='120' width='120' height='200' fill='#add8ff'/><ellipse cx='200' cy='100' rx='60' ry='80' fill='#add8ff'/><ellipse cx='170' cy='100' rx='15' ry='25' fill='#ffffff'/><ellipse cx='230' cy='100' rx='15' ry='25' fill='#ffffff'/><path d='M140,120 L200,20 L260,120 Z' fill='#add8ff'/><polygon points='160,200 200,180 240,200' fill='#ffffff'/><polygon points='190,220 200,200 210,220' fill='#ffffff'/><ellipse cx='200' cy='240' rx='30' ry='20' fill='#add8ff'/><rect x='185' y='260' width='30' height='30' fill='#ffffff'/><rect x='185' y='300' width='10' height='10' fill='#ffffff'/><rect x='205' y='300' width='10' height='10' fill='#ffffff'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に大きな瞳を持つ男性の姿をしています。頭部には白い角があり、体には白い模様があります。特徴的なのは、四肢の中央に水色の羽を持つことです。",
+        "reason": "進化の過程で、アダムは高い跳躍力と広い視界を得るため、翼のような羽を発達させました。",
+        "thought": "『自由と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1775414307737
   }
 ]
