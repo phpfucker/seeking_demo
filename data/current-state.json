@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='160' fill='lightpink' /><ellipse cx='200' cy='180' rx='80' ry='120' fill='pink' /><rect x='160' y='220' width='80' height='120' fill='pink' /><path d='M150 300 Q200 260 250 300 T300 300 Z' fill='pink' /><circle cx='190' cy='150' r='10' fill='black' /><circle cx='210' cy='150' r='10' fill='black' /><rect x='185' y='220' width='30' height='10' fill='black' /><rect x='165' y='330' width='20' height='30' fill='black' /><rect x='215' y='330' width='20' height='30' fill='black' /><text x='170' y='380' font-family='Arial' font-size='12' fill='black'>イヴ</text></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"130\" width=\"200\" height=\"200\" fill=\"#ffcccb\"/><ellipse cx=\"200\" cy=\"80\" rx=\"70\" ry=\"90\" fill=\"#ff99cc\"/><rect x=\"150\" y=\"200\" width=\"100\" height=\"140\" fill=\"#ffb6c1\"/><path d=\"M150 340 L100 400 L300 400 L250 340 Z\" fill=\"#ff99cc\"/><circle cx=\"155\" cy=\"90\" r=\"10\" fill=\"#fff\"/><circle cx=\"245\" cy=\"90\" r=\"10\" fill=\"#fff\"/><circle cx=\"200\" cy=\"250\" r=\"20\" fill=\"#fff\"/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、大きな楕円形の目と優しい表情を持つ女性型生命体です。彼女の体は卵型で、手足は短く、小さな黒い目を持っています。",
-      "reason": "進化の理由は、新たな環境においてより柔軟で愛らしい姿形が生存に有利だと判断されたためです。",
-      "thought": "『調和と優しさ』"
+      "appearance": "イヴは、ピンク色の柔らかな肌を持ち、大きな赤い目と長い脚を持つ女性型生命体です。体の一部には濃いピンクの模様が施されています。",
+      "reason": "イヴは、新たな環境に適応するため、より細長い脚を持ち、視覚的な特徴を強調した進化を遂げました。",
+      "thought": "『包み込まれるような感覚』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='160' fill='lightblue' /><ellipse cx='200' cy='180' rx='80' ry='120' fill='skyblue' /><rect x='160' y='220' width='80' height='120' fill='skyblue' /><path d='M150 300 Q200 260 250 300 T300 300 Z' fill='skyblue' /><circle cx='190' cy='150' r='10' fill='black' /><circle cx='210' cy='150' r='10' fill='black' /><rect x='185' y='220' width='30' height='10' fill='black' /><rect x='165' y='330' width='20' height='30' fill='black' /><rect x='215' y='330' width='20' height='30' fill='black' /><text x='170' y='380' font-family='Arial' font-size='12' fill='black'>アダム</text></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"130\" width=\"200\" height=\"200\" fill=\"#87ceeb\"/><ellipse cx=\"200\" cy=\"80\" rx=\"70\" ry=\"90\" fill=\"#4682b4\"/><rect x=\"150\" y=\"200\" width=\"100\" height=\"140\" fill=\"#b0e0e6\"/><polygon points=\"150,340 100,400 300,400 250,340\" fill=\"#4682b4\"/><circle cx=\"155\" cy=\"90\" r=\"10\" fill=\"#fff\"/><circle cx=\"245\" cy=\"90\" r=\"10\" fill=\"#fff\"/><circle cx=\"200\" cy=\"250\" r=\"20\" fill=\"#fff\"/></svg>",
     "report": {
-      "appearance": "アダムは、青色の滑らかな皮膚を持ち、大きな楕円形の目と穏やかな表情を持つ男性型生命体です。彼の体は卵型で、手足は短く、小さな黒い目を持っています。",
-      "reason": "進化の理由は、新たな環境においてより柔らかで青色の外見が他の生命体とのコミュニケーションに適していると判断されたためです。",
-      "thought": "『知性と調和』"
+      "appearance": "アダムは、青い体と灰色の腹部を持つ男性型生命体で、大きな青い瞳と四角い尾を持っています。身体の一部には濃い青色の模様が描かれています。",
+      "reason": "アダムは、より大きな視覚面積を持つため、目を大きくして視覚的な特徴を際立たせ、生存戦略を進化させました。",
+      "thought": "『深い水の中での静けさ』"
     },
     "name": "アダム",
     "gender": "男性"
