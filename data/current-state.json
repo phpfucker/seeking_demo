@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"#ffcccb\" /><ellipse cx=\"200\" cy=\"180\" rx=\"100\" ry=\"140\" fill=\"#ffb6c1\" /><path d=\"M200 220 Q180 230 180 270 A20 20 0 0 0 220 270 Q220 230 200 220\" fill=\"#ffc0cb\" /><rect x=\"170\" y=\"240\" width=\"60\" height=\"10\" fill=\"#ffc0cb\" /><rect x=\"170\" y=\"250\" width=\"10\" height=\"30\" fill=\"#ffc0cb\" /><rect x=\"220\" y=\"250\" width=\"10\" height=\"30\" fill=\"#ffc0cb\" /><polygon points=\"190,170 200,160 210,170\" fill=\"#ff1493\" /><polygon points=\"190,220 200,210 210,220\" fill=\"#ff1493\" /><circle cx=\"180\" cy=\"190\" r=\"5\" fill=\"#000\" /><circle cx=\"220\" cy=\"190\" r=\"5\" fill=\"#000\" /><circle cx=\"210\" cy=\"250\" r=\"5\" fill=\"#000\" /><circle cx=\"190\" cy=\"250\" r=\"5\" fill=\"#000\" /></svg>",
+    "svg": "<svg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'><rect x='140' y='120' width='120' height='200' fill='#ffadd8'/><ellipse cx='200' cy='100' rx='60' ry='80' fill='#ffadd8'/><ellipse cx='170' cy='100' rx='15' ry='25' fill='#ffffff'/><ellipse cx='230' cy='100' rx='15' ry='25' fill='#ffffff'/><path d='M140,120 L200,20 L260,120 Z' fill='#ffadd8'/><ellipse cx='160' cy='280' rx='25' ry='15' fill='#ffadd8'/><ellipse cx='240' cy='280' rx='25' ry='15' fill='#ffadd8'/><polygon points='160,200 200,180 240,200' fill='#ffffff'/><polygon points='190,220 200,200 210,220' fill='#ffffff'/><polygon points='180,240 200,230 220,240' fill='#ffffff'/><ellipse cx='200' cy='300' rx='30' ry='20' fill='#ffadd8'/></svg>",
     "report": {
-      "appearance": "イヴは美しいピンク色の肌を持ち、優雅な姿勢で立っています。背中には小さな羽が生え、頭には角を持っています。顔立ちは柔らかく、大きな瞳が印象的です。",
-      "reason": "生態系での適応性を高め、繁殖成功率を向上させるため、イヴは美しさと優雅さを強調した進化を遂げました。",
-      "thought": "『優しさが強さを生む』"
+      "appearance": "イヴは、ピンク色の体に大きな瞳を持つ女性の姿をしています。頭部には白い角があり、体の一部には白い模様が入っています。四肢は細く、しっぽがあります。",
+      "reason": "種の進化の中で、イヴはより優れた視覚と優美な体つきを持つことで、環境への適応性を高めました。",
+      "thought": "『愛と美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"200\" cy=\"200\" r=\"150\" fill=\"#add8e6\" /><ellipse cx=\"200\" cy=\"180\" rx=\"100\" ry=\"140\" fill=\"#87ceeb\" /><path d=\"M200 220 Q180 230 180 270 A20 20 0 0 0 220 270 Q220 230 200 220\" fill=\"#afeeee\" /><rect x=\"170\" y=\"240\" width=\"60\" height=\"10\" fill=\"#afeeee\" /><rect x=\"170\" y=\"250\" width=\"10\" height=\"30\" fill=\"#afeeee\" /><rect x=\"220\" y=\"250\" width=\"10\" height=\"30\" fill=\"#afeeee\" /><polygon points=\"190,170 200,160 210,170\" fill=\"#00bfff\" /><polygon points=\"190,220 200,210 210,220\" fill=\"#00bfff\" /><circle cx=\"180\" cy=\"190\" r=\"5\" fill=\"#000\" /><circle cx=\"220\" cy=\"190\" r=\"5\" fill=\"#000\" /><circle cx=\"210\" cy=\"250\" r=\"5\" fill=\"#000\" /><circle cx=\"190\" cy=\"250\" r=\"5\" fill=\"#000\" /></svg>",
+    "svg": "<svg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'><rect x='140' y='120' width='120' height='200' fill='#add8ff'/><ellipse cx='200' cy='100' rx='60' ry='80' fill='#add8ff'/><ellipse cx='170' cy='100' rx='15' ry='25' fill='#ffffff'/><ellipse cx='230' cy='100' rx='15' ry='25' fill='#ffffff'/><path d='M140,120 L200,20 L260,120 Z' fill='#add8ff'/><polygon points='160,200 200,180 240,200' fill='#ffffff'/><polygon points='190,220 200,200 210,220' fill='#ffffff'/><ellipse cx='200' cy='240' rx='30' ry='20' fill='#add8ff'/><rect x='185' y='260' width='30' height='30' fill='#ffffff'/><rect x='185' y='300' width='10' height='10' fill='#ffffff'/><rect x='205' y='300' width='10' height='10' fill='#ffffff'/></svg>",
     "report": {
-      "appearance": "アダムは穏やかな青色の肌を持ち、堂々としたポーズで立っています。背中には鱗があり、頭には角が生えています。目つきは凛々しい印象です。",
-      "reason": "生存競争において他個体との識別性を高め、縄張りを確保するため、アダムは青色の肌と凛々しい姿勢を特徴とした進化を遂げました。",
-      "thought": "『誇り高き者』"
+      "appearance": "アダムは、青色の体に大きな瞳を持つ男性の姿をしています。頭部には白い角があり、体には白い模様があります。特徴的なのは、四肢の中央に水色の羽を持つことです。",
+      "reason": "進化の過程で、アダムは高い跳躍力と広い視界を得るため、翼のような羽を発達させました。",
+      "thought": "『自由と力』"
     },
     "name": "アダム",
     "gender": "男性"
