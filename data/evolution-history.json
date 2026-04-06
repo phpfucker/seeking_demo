@@ -30227,5 +30227,28 @@
       "gender": "男性"
     },
     "timestamp": 1775414307737
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffb6c1'/><ellipse cx='200' cy='165' rx='80' ry='100' fill='#ff69b4'/><rect x='160' y='210' width='80' height='30' rx='10' fill='#ff69b4'/><path d='M180 250 L195 275 L205 275 L220 250 Z' fill='#ffffff'/><path d='M220 250 L235 275 L245 275 L260 250 Z' fill='#ffffff'/><path d='M200 235 L190 225 L210 225 Z' fill='#ffffff'/><path d='M200 235 L190 225 L210 225 Z' fill='#ffffff'/><path d='M200 235 L190 245 L210 245 Z' fill='#ffffff'/><path d='M200 235 L190 245 L210 245 Z' fill='#ffffff'/><polygon points='180,160 195,140 205,140 220,160' fill='#ffffff'/><polygon points='180,160 220,160 200,180' fill='#ffffff'/><line x1='195' y1='275' x2='205' y2='275' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌と赤い髪を持ち、大きな紫色の眼と白い羽毛の装飾が特徴です。体には柔らかなピンク色の服を着ており、愛らしい表情が印象的です。",
+        "reason": "新たな進化が起こり、イヴはより優美で美しい姿に変化しました。色彩豊かな装飾が生命力と魅力を象徴しています。",
+        "thought": "『愛と美しさが未来を導く』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='175' y='120' width='50' height='150' fill='#4682b4'/><rect x='175' y='120' width='50' height='30' fill='#4169e1'/><rect x='175' y='240' width='50' height='30' fill='#4169e1'/><polygon points='175,120 200,80 225,120' fill='#4682b4'/><polygon points='175,270 200,310 225,270' fill='#4682b4'/><circle cx='200' cy='80' r='10' fill='#000'/><circle cx='200' cy='310' r='10' fill='#000'/><line x1='175' y1='150' x2='225' y2='150' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い肌とマリンブルーの体色、水色の鱗が特徴です。頭部にはコバルトブルーの角が生え、力強い体つきをしています。",
+        "reason": "アダムはより強靭な体躯と威厳ある外見に進化しました。水の精霊のような色合いと形状が新たな力を象徴しています。",
+        "thought": "『青き大地の永遠の庇護』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1775441279314
   }
 ]
