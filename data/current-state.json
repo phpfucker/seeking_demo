@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffafaf' /><ellipse cx='200' cy='170' rx='90' ry='100' fill='#ffb6b6' /><path d='M150,250 Q200,320 250,250 L150,250 Z' fill='#ff9f9f' /><path d='M250,250 Q200,320 150,250 L250,250 Z' fill='#ff9f9f' /><circle cx='150' cy='170' r='10' fill='#f44242' /><circle cx='250' cy='170' r='10' fill='#f44242' /><circle cx='170' cy='150' r='5' fill='#000' /><circle cx='230' cy='150' r='5' fill='#000' /><polygon points='190,180 210,180 200,200' fill='#000' /><polygon points='140,100 160,140 180,100' fill='#fff' /><polygon points='260,100 240,140 220,100' fill='#fff' /><rect x='180' y='240' width='40' height='30' fill='#ffcccb' /><rect x='185' y='270' width='30' height='50' fill='#ffcccb' /><rect x='170' y='270' width='20' height='20' fill='#ffcccb' /><rect x='210' y='270' width='20' height='20' fill='#ffcccb' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='150' rx='120' ry='90' fill='#ff9999' /><path d='M140 200 C140 250 260 250 260 200' fill='none' stroke='#cc6666' stroke-width='10' /><circle cx='150' cy='140' r='20' fill='#ff9999' /><circle cx='250' cy='140' r='20' fill='#ff9999' /><path d='M170 280 Q200 310 230 280' fill='none' stroke='#cc6666' stroke-width='10' /><polygon points='190,160 210,160 200,170' fill='#cc6666' /><polygon points='175,170 160,200 190,190' fill='#cc6666' /><polygon points='225,170 240,200 210,190' fill='#cc6666' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな皮膚を持つ女性型生命体です。体の中央にある赤いハート型の模様が特徴で、優しさと愛情を象徴しています。額には小さな黒い角があり、可愛らしい表情をしています。背中には大きな羽があり、美しい尾が優雅に広がっています。",
-      "reason": "イヴは愛と美しさのシンボルとして進化しました。その優しさと包容力が新たな生命を育む力を持っているためです。",
-      "thought": "『愛は力』"
+      "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、優雅な曲線の体型と長い髪を持つ女性型生命体です。大きな目と柔らかな表情が特徴で、背中には翼のような模様があります。",
+      "reason": "イヴは新たな進化を遂げ、より美しく洗練された外見を手に入れました。その進化は、環境の安定と美の追求から生じたものです。",
+      "thought": "『穏やかな美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='160' y='150' width='80' height='120' fill='#aad4ff' /><circle cx='200' cy='150' r='50' fill='#aad4ff' /><path d='M160,210 Q200,260 240,210 L160,210 Z' fill='#99c2ff' /><path d='M240,210 Q200,260 160,210 L240,210 Z' fill='#99c2ff' /><circle cx='180' cy='150' r='10' fill='#1e90ff' /><circle cx='220' cy='150' r='10' fill='#1e90ff' /><polygon points='190,190 210,190 200,220' fill='#000' /><ellipse cx='200' cy='270' rx='25' ry='15' fill='#ffea7f' /><ellipse cx='200' cy='285' rx='20' ry='10' fill='#ffea7f' /><polygon points='190,270 210,270 200,240' fill='#ffea7f' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='150' fill='#87ceeb' /><polygon points='150,100 200,50 250,100' fill='#87ceeb' /><polygon points='150,250 200,300 250,250' fill='#87ceeb' /><circle cx='180' cy='120' r='20' fill='#4682b4' /><circle cx='220' cy='120' r='20' fill='#4682b4' /><polyline points='160,220 180,240 200,220 220,240 240,220' fill='none' stroke='#4682b4' stroke-width='10' /><path d='M200 250 L190 270 L210 290' fill='none' stroke='#4682b4' stroke-width='10' /></svg>",
     "report": {
-      "appearance": "アダムは、青色の頑丈な体を持つ男性型生命体です。頭部には大きな蒼い水晶が埋め込まれており、知恵や冷静さを象徴しています。体の中央には水の流れをイメージした模様があり、力強さを示しています。背中には翼のような装飾があり、鋭い角が額に突き出ています。",
-      "reason": "アダムは知恵と力強さのシンボルとして進化しました。その冷静な判断力と強靭な体が新たな環境での生存を可能にしました。",
-      "thought": "『知恵と力』"
+      "appearance": "アダムは、青色の頑丈な体を持つ男性型生命体で、筋肉質な腕と足を持ちます。顔には鋭い目と真剣な表情があり、背中には水滴のような模様が浮かんでいます。",
+      "reason": "アダムは進化し、より力強く堅固な外見を獲得しました。この進化は、生存競争と力の必要性から生じたものであり、適応力の向上を象徴しています。",
+      "thought": "『力強い生命力』"
     },
     "name": "アダム",
     "gender": "男性"
