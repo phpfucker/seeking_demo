@@ -30388,5 +30388,28 @@
       "gender": "男性"
     },
     "timestamp": 1775567514729
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccd4' /><ellipse cx='160' cy='180' rx='30' ry='20' fill='#f9a2b2' /><ellipse cx='240' cy='180' rx='30' ry='20' fill='#f9a2b2' /><path d='M200 220 Q170 240 200 260 Q230 240 200 220 Z' fill='#f9a2b2' /><ellipse cx='170' cy='180' rx='12' ry='8' fill='#ffffff' /><ellipse cx='230' cy='180' rx='12' ry='8' fill='#ffffff' /><circle cx='180' cy='180' r='5' fill='#000000' /><circle cx='220' cy='180' r='5' fill='#000000' /><ellipse cx='200' cy='240' rx='30' ry='15' fill='#f9a2b2' /><ellipse cx='185' cy='240' rx='15' ry='10' fill='#ffffff' /><ellipse cx='215' cy='240' rx='15' ry='10' fill='#ffffff' /><rect x='190' y='280' width='20' height='40' fill='#f9a2b2' /><line x1='190' y1='280' x2='210' y2='280' stroke='#000000' stroke-width='2' /><line x1='190' y1='320' x2='210' y2='320' stroke='#000000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、優雅な曲線で描かれた女性の姿をしています。頭部には丸い白い目と小さな口があり、流れるようなピンクの髪が背中まで伸びています。体はしなやかで優美な輪郭を持ち、腕と足には白い装飾が施されています。",
+        "reason": "イヴは内なる美と優しさをより表現するため、より柔らかく美しい特徴を持つ姿に進化しました。",
+        "thought": "『優しさと美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#9db9ba' /><rect x='150' y='100' width='100' height='30' fill='#7a8f90' /><circle cx='200' cy='80' r='40' fill='#7a8f90' /><rect x='180' y='120' width='40' height='80' fill='#9db9ba' /><rect x='170' y='200' width='60' height='60' fill='#7a8f90' /><polygon points='150,200 200,260 250,200' fill='#9db9ba' /><polygon points='165,200 200,240 235,200' fill='#7a8f90' /><rect x='180' y='260' width='40' height='40' fill='#7a8f90' /><circle cx='180' cy='280' r='5' fill='#ffffff' /><circle cx='220' cy='280' r='5' fill='#ffffff' /><rect x='190' y='300' width='20' height='40' fill='#9db9ba' /></svg>",
+      "report": {
+        "appearance": "アダムは、グレーと青を基調とした男性的な外見をしています。四角い体と頭部には筋肉質な特徴があり、顔には丸い目と小さな口が配置されています。背中には翼のような模様があり、足は丈夫な印象を与えるように描かれています。",
+        "reason": "アダムはより力強く頼りがいのある姿に進化し、生存と繁栄のための適応力を高めました。",
+        "thought": "『力強さと頼りがい』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1775588351839
   }
 ]
