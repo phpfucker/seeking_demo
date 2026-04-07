@@ -30319,5 +30319,28 @@
       "gender": "男性"
     },
     "timestamp": 1775501626113
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='180' cy='150' rx='30' ry='45' fill='#ffb6c1' /><ellipse cx='220' cy='150' rx='30' ry='45' fill='#ffb6c1' /><path d='M190 230 Q200 250 210 230' fill='none' stroke='#000' stroke-width='2' /><path d='M180 260 Q200 290 220 260' fill='none' stroke='#000' stroke-width='2' /><rect x='180' y='240' width='40' height='20' fill='#ffb6c1' /><line x1='180' y1='240' x2='220' y2='240' stroke='#000' stroke-width='2' /><line x1='190' y1='240' x2='190' y2='260' stroke='#000' stroke-width='2' /><line x1='210' y1='240' x2='210' y2='260' stroke='#000' stroke-width='2' /><polygon points='195,150 205,150 200,160' fill='#000' /><ellipse cx='190' cy='160' rx='5' ry='3' fill='#fff' /><ellipse cx='210' cy='160' rx='5' ry='3' fill='#fff' /><text x='200' y='320' font-family='Verdana' font-size='18' fill='#000' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、淡いピンク色の全身に大きな赤い目を持つ女性型生命体です。体は丸く、手足は短く、顔には小さな口があります。",
+        "reason": "イヴは新たな力を手に入れるため、進化しました。強さと優しさを兼ね備えた姿に進化したことで、より多様な環境で生存できるようになりました。",
+        "thought": "『宇宙の奥深くに秘められた尊さ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='150' fill='#87ceeb' /><ellipse cx='200' cy='270' rx='50' ry='20' fill='#87ceeb' /><circle cx='180' cy='150' r='20' fill='#4682b4' /><circle cx='220' cy='150' r='20' fill='#4682b4' /><line x1='190' y1='200' x2='210' y2='200' stroke='#000' stroke-width='2' /><line x1='190' y1='230' x2='210' y2='230' stroke='#000' stroke-width='2' /><line x1='190' y1='260' x2='210' y2='260' stroke='#000' stroke-width='2' /><polygon points='180,100 220,100 200,80' fill='#fff' /><ellipse cx='190' cy='80' rx='5' ry='3' fill='#000' /><ellipse cx='210' cy='80' rx='5' ry='3' fill='#000' /><text x='200' y='320' font-family='Verdana' font-size='18' fill='#000' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青い体に丸い顔と大きな尾を持つ男性型生命体です。手足は太く短く、頭には小さな角があります。",
+        "reason": "アダムは自然界の厳しさに適応するため、進化しました。より強靭で俊敏な姿に進化したことで、生存競争に打ち勝つ力を手に入れました。",
+        "thought": "『未知の領域を切り拓く勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1775527420657
   }
 ]

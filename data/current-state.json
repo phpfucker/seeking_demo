@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='180' cy='150' rx='30' ry='45' fill='#ffb6c1' /><ellipse cx='220' cy='150' rx='30' ry='45' fill='#ffb6c1' /><path d='M190 230 Q200 250 210 230' fill='none' stroke='#000' stroke-width='2' /><path d='M180 260 Q200 290 220 260' fill='none' stroke='#000' stroke-width='2' /><rect x='180' y='240' width='40' height='20' fill='#ffb6c1' /><line x1='180' y1='240' x2='220' y2='240' stroke='#000' stroke-width='2' /><line x1='190' y1='240' x2='190' y2='260' stroke='#000' stroke-width='2' /><line x1='210' y1='240' x2='210' y2='260' stroke='#000' stroke-width='2' /><polygon points='195,150 205,150 200,160' fill='#000' /><ellipse cx='190' cy='160' rx='5' ry='3' fill='#fff' /><ellipse cx='210' cy='160' rx='5' ry='3' fill='#fff' /><text x='200' y='320' font-family='Verdana' font-size='18' fill='#000' text-anchor='middle'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffafaf' /><ellipse cx='200' cy='170' rx='90' ry='100' fill='#ffb6b6' /><path d='M150,250 Q200,320 250,250 L150,250 Z' fill='#ff9f9f' /><path d='M250,250 Q200,320 150,250 L250,250 Z' fill='#ff9f9f' /><circle cx='150' cy='170' r='10' fill='#f44242' /><circle cx='250' cy='170' r='10' fill='#f44242' /><circle cx='170' cy='150' r='5' fill='#000' /><circle cx='230' cy='150' r='5' fill='#000' /><polygon points='190,180 210,180 200,200' fill='#000' /><polygon points='140,100 160,140 180,100' fill='#fff' /><polygon points='260,100 240,140 220,100' fill='#fff' /><rect x='180' y='240' width='40' height='30' fill='#ffcccb' /><rect x='185' y='270' width='30' height='50' fill='#ffcccb' /><rect x='170' y='270' width='20' height='20' fill='#ffcccb' /><rect x='210' y='270' width='20' height='20' fill='#ffcccb' /></svg>",
     "report": {
-      "appearance": "イヴは、淡いピンク色の全身に大きな赤い目を持つ女性型生命体です。体は丸く、手足は短く、顔には小さな口があります。",
-      "reason": "イヴは新たな力を手に入れるため、進化しました。強さと優しさを兼ね備えた姿に進化したことで、より多様な環境で生存できるようになりました。",
-      "thought": "『宇宙の奥深くに秘められた尊さ』"
+      "appearance": "イヴは、ピンク色の柔らかな皮膚を持つ女性型生命体です。体の中央にある赤いハート型の模様が特徴で、優しさと愛情を象徴しています。額には小さな黒い角があり、可愛らしい表情をしています。背中には大きな羽があり、美しい尾が優雅に広がっています。",
+      "reason": "イヴは愛と美しさのシンボルとして進化しました。その優しさと包容力が新たな生命を育む力を持っているためです。",
+      "thought": "『愛は力』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='150' fill='#87ceeb' /><ellipse cx='200' cy='270' rx='50' ry='20' fill='#87ceeb' /><circle cx='180' cy='150' r='20' fill='#4682b4' /><circle cx='220' cy='150' r='20' fill='#4682b4' /><line x1='190' y1='200' x2='210' y2='200' stroke='#000' stroke-width='2' /><line x1='190' y1='230' x2='210' y2='230' stroke='#000' stroke-width='2' /><line x1='190' y1='260' x2='210' y2='260' stroke='#000' stroke-width='2' /><polygon points='180,100 220,100 200,80' fill='#fff' /><ellipse cx='190' cy='80' rx='5' ry='3' fill='#000' /><ellipse cx='210' cy='80' rx='5' ry='3' fill='#000' /><text x='200' y='320' font-family='Verdana' font-size='18' fill='#000' text-anchor='middle'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='160' y='150' width='80' height='120' fill='#aad4ff' /><circle cx='200' cy='150' r='50' fill='#aad4ff' /><path d='M160,210 Q200,260 240,210 L160,210 Z' fill='#99c2ff' /><path d='M240,210 Q200,260 160,210 L240,210 Z' fill='#99c2ff' /><circle cx='180' cy='150' r='10' fill='#1e90ff' /><circle cx='220' cy='150' r='10' fill='#1e90ff' /><polygon points='190,190 210,190 200,220' fill='#000' /><ellipse cx='200' cy='270' rx='25' ry='15' fill='#ffea7f' /><ellipse cx='200' cy='285' rx='20' ry='10' fill='#ffea7f' /><polygon points='190,270 210,270 200,240' fill='#ffea7f' /></svg>",
     "report": {
-      "appearance": "アダムは、青い体に丸い顔と大きな尾を持つ男性型生命体です。手足は太く短く、頭には小さな角があります。",
-      "reason": "アダムは自然界の厳しさに適応するため、進化しました。より強靭で俊敏な姿に進化したことで、生存競争に打ち勝つ力を手に入れました。",
-      "thought": "『未知の領域を切り拓く勇気』"
+      "appearance": "アダムは、青色の頑丈な体を持つ男性型生命体です。頭部には大きな蒼い水晶が埋め込まれており、知恵や冷静さを象徴しています。体の中央には水の流れをイメージした模様があり、力強さを示しています。背中には翼のような装飾があり、鋭い角が額に突き出ています。",
+      "reason": "アダムは知恵と力強さのシンボルとして進化しました。その冷静な判断力と強靭な体が新たな環境での生存を可能にしました。",
+      "thought": "『知恵と力』"
     },
     "name": "アダム",
     "gender": "男性"
