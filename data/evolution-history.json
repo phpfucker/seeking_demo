@@ -30480,5 +30480,28 @@
       "gender": "男性"
     },
     "timestamp": 1775654015765
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='180' width='200' height='180' fill='#ffcccb'/><ellipse cx='200' cy='140' rx='90' ry='120' fill='#ffb6c1'/><path d='M200 260 Q150 300 200 340 Q250 300 200 260 Z' fill='#ffc0cb'/><path d='M180 180 Q150 100 200 80 Q250 100 220 180 Z' fill='#ffd1dc'/><circle cx='160' cy='160' r='10' fill='#333'/><circle cx='240' cy='160' r='10' fill='#333'/><path d='M180 220 Q200 260 220 220' fill='none' stroke='#333' stroke-width='5'/><line x1='160' y1='320' x2='140' y2='360' stroke='#333' stroke-width='5'/><line x1='240' y1='320' x2='260' y2='360' stroke='#333' stroke-width='5'/><polygon points='190,150 210,150 200,160' fill='#333'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかな皮膚を持ち、長い髪と大きな目を持つ女性の姿をしています。身体は赤とピンクの色合いで覆われ、優しさと美しさを放つ外見です。",
+        "reason": "生態系内で生存競争が激化し、イヴは美しさと優しさを強調することで仲間内での人気を高め、繁殖成功率を向上させるために進化しました。",
+        "thought": "『愛と美しさが世界を救う』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='180' width='200' height='180' fill='#add8e6'/><ellipse cx='200' cy='140' rx='90' ry='120' fill='#87ceeb'/><path d='M200 260 Q150 300 200 340 Q250 300 200 260 Z' fill='#b0e0e6'/><path d='M180 180 Q150 100 200 80 Q250 100 220 180 Z' fill='#afeeee'/><circle cx='160' cy='160' r='10' fill='#333'/><circle cx='240' cy='160' r='10' fill='#333'/><path d='M180 220 Q200 260 220 220' fill='none' stroke='#333' stroke-width='5'/><line x1='160' y1='320' x2='140' y2='360' stroke='#333' stroke-width='5'/><line x1='240' y1='320' x2='260' y2='360' stroke='#333' stroke-width='5'/><polygon points='190,150 210,150 200,160' fill='#333'/></svg>",
+      "report": {
+        "appearance": "アダムは青と水色の肌を持ち、たくましい体つきと鋭い目つきをした男性の姿をしています。体は青みを帯びた色調で覆われ、力強さと知性を感じさせる外見です。",
+        "reason": "狩猟や防衛の必要性が高まり、アダムはたくましさと知性を強調することで生存競争に勝利しやすくなり、遺伝的に強い子孫を残すために進化しました。",
+        "thought": "『力と知性のバランスが全てを制す』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1775675473952
   }
 ]
