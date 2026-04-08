@@ -30434,5 +30434,28 @@
       "gender": "男性"
     },
     "timestamp": 1775613876383
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff80b3' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#ffb3d9' /><rect x='160' y='160' width='80' height='40' fill='#ff99cc' /><path d='M180 230 L190 270 L210 270 L220 230 Z' fill='#ff66a3' /><polygon points='180,150 220,150 200,130' fill='#ff66a3' /><line x1='180' y1='300' x2='190' y2='330' stroke='#ff66a3' stroke-width='4' /><line x1='220' y1='300' x2='210' y2='330' stroke='#ff66a3' stroke-width='4' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな毛並みを持つ女性の生命体です。体の上部が大きく膨らみ、下部に向かってやや細くなっています。顔は丸く愛らしく、大きな目と小さな口を持っています。背中には柔らかいふわふわのしっぽが一本あります。",
+        "reason": "イヴは、新たな環境への適応を求めて、より柔軟で愛らしい特徴を身につけました。",
+        "thought": "『優しさが力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#4d79ff' /><rect x='160' y='160' width='80' height='40' fill='#99b3ff' /><polygon points='180,150 220,150 200,130' fill='#6699ff' /><path d='M200 230 L190 270 L210 270 Z' fill='#3366ff' /><ellipse cx='200' cy='150' rx='60' ry='100' fill='#809fff' /><line x1='180' y1='300' x2='190' y2='330' stroke='#3366ff' stroke-width='4' /><line x1='220' y1='300' x2='210' y2='330' stroke='#3366ff' stroke-width='4' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の鱗状の肌を持つ男性の生命体です。体は筋骨隆々で力強く、全体的に角ばった特徴を持っています。顔は鋭い目と大きな口を持ち、頭部には鱗が覆われています。背中には二枚の薄く長い羽が生えています。",
+        "reason": "アダムは、狩猟と力強さを模索し、鱗状の肌や角ばった特徴を獲得しました。",
+        "thought": "『力強さと知恵』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1775632383206
   }
 ]
