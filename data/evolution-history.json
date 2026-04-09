@@ -30503,5 +30503,28 @@
       "gender": "男性"
     },
     "timestamp": 1775675473952
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='150' rx='100' ry='130' fill='#ffcc99' /><ellipse cx='155' cy='130' rx='20' ry='30' fill='#ff9966' /><ellipse cx='245' cy='130' rx='20' ry='30' fill='#ff9966' /><path d='M200,150 L190,190 L210,190 Z' fill='#ff9966' /><rect x='170' y='160' width='60' height='30' fill='#ff9966' /><ellipse cx='180' cy='170' rx='10' ry='15' fill='#fff' /><ellipse cx='220' cy='170' rx='10' ry='15' fill='#fff' /><ellipse cx='200' cy='200' rx='60' ry='40' fill='#ffcc99' /><ellipse cx='190' cy='200' rx='10' ry='15' fill='#fff' /><ellipse cx='210' cy='200' rx='10' ry='15' fill='#fff' /><path d='M180,220 Q200,240 220,220' fill='none' stroke='#ff9966' stroke-width='5' /><path d='M180,220 Q200,250 220,220' fill='none' stroke='#ff9966' stroke-width='5' /><polygon points='190,150 200,140 210,150' fill='#fff' /><polygon points='180,180 200,170 220,180' fill='#ff9966' /><polygon points='190,210 200,205 210,210' fill='#ffcc99' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の皮膚に大きな青い瞳を持つ女性の姿をしています。頭には2本の角があり、柔らかなオレンジ色の髪が背中まで流れています。体はゆるやかな曲線で構成され、優雅な雰囲気を醸し出しています。四肢には白い模様が施され、しっぽは長くて細い形状になっています。",
+        "reason": "イヴは自然界の女性の美しさと優雅さを象徴し、進化を通じてより優れた知性と洗練された外見を手に入れました。",
+        "thought": "『知性と美しさの融合』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='150' rx='100' ry='130' fill='#b3ecff' /><ellipse cx='155' cy='130' rx='20' ry='30' fill='#66ccff' /><ellipse cx='245' cy='130' rx='20' ry='30' fill='#66ccff' /><path d='M200,150 L190,190 L210,190 Z' fill='#66ccff' /><rect x='170' y='160' width='60' height='30' fill='#66ccff' /><ellipse cx='180' cy='170' rx='10' ry='15' fill='#fff' /><ellipse cx='220' cy='170' rx='10' ry='15' fill='#fff' /><ellipse cx='200' cy='200' rx='60' ry='40' fill='#b3ecff' /><ellipse cx='190' cy='200' rx='10' ry='15' fill='#fff' /><ellipse cx='210' cy='200' rx='10' ry='15' fill='#fff' /><path d='M180,220 Q200,240 220,220' fill='none' stroke='#66ccff' stroke-width='5' /><path d='M180,220 Q200,250 220,220' fill='none' stroke='#66ccff' stroke-width='5' /><polygon points='190,150 200,140 210,150' fill='#fff' /><polygon points='180,180 200,170 220,180' fill='#66ccff' /><polygon points='190,210 200,205 210,210' fill='#b3ecff' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の皮膚に大きな水色の瞳を持つ男性の姿をしています。頭には2本の角があり、短い白い髪が頭頂部に生え、ひげを生やしています。体は力強い曲線で描かれ、筋肉質な印象を与えます。四肢には白い模様が入り、尾は太くて短い形状です。",
+        "reason": "アダムは進化により男性的な力強さや知識を増し、美しい外見と知性を兼ね備えた姿となりました。",
+        "thought": "『力強さと知性の調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1775699808669
   }
 ]
