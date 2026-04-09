@@ -30549,5 +30549,28 @@
       "gender": "男性"
     },
     "timestamp": 1775719006165
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='140' rx='100' ry='70' fill='#ff99ff' /><path d='M180,150 Q190,90 200,150 Q210,90 220,150 Q230,90 240,150 Q250,90 260,150' fill='none' stroke='#ff66ff' stroke-width='3' /><rect x='165' y='210' width='70' height='25' fill='#ff99ff' /><rect x='185' y='235' width='30' height='70' fill='#ff66ff' /><rect x='155' y='280' width='80' height='40' fill='#ffccff' /><circle cx='195' cy='180' r='5' fill='#000' /><circle cx='205' cy='180' r='5' fill='#000' /><line x1='190' y1='200' x2='210' y2='200' stroke='#000' stroke-width='3' /><path d='M180,230 Q180,240 190,240 Q200,240 200,230 Q200,220 190,220 Q180,220 180,230' fill='none' stroke='#000' stroke-width='3' /><path d='M220,230 Q220,240 230,240 Q240,240 240,230 Q240,220 230,220 Q220,220 220,230' fill='none' stroke='#000' stroke-width='3' /><circle cx='180' cy='140' r='10' fill='#ff99ff' /><circle cx='220' cy='140' r='10' fill='#ff99ff' /><path d='M180,150 Q190,160 200,150 Q210,160 220,150' fill='none' stroke='#000' stroke-width='2' /><line x1='180' y1='150' x2='220' y2='150' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、薄紫色の柔らかな皮膚を持ち、大きな瞳と繊細な特徴を持つ女性の姿をしています。頭部にはツノ状の装飾があり、全体的に優雅で独特な雰囲気を放っています。",
+        "reason": "生態系におけるバランスを保つために、イヴはより美しく洗練された外観に進化しました。",
+        "thought": "『神秘的な魅力を持ちながら、世界を美しく彩る』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='150' fill='#6699ff' /><polygon points='150,150 200,100 250,150' fill='#3366ff' /><rect x='160' y='200' width='80' height='30' fill='#6699ff' /><rect x='180' y='230' width='40' height='100' fill='#3366ff' /><path d='M200,190 Q190,160 180,190 Q170,160 160,190 Q150,160 140,190 Q130,160 120,190 Q110,160 100,190' fill='none' stroke='#3366ff' stroke-width='3' /><circle cx='190' cy='180' r='5' fill='#000' /><circle cx='210' cy='180' r='5' fill='#000' /><line x1='195' y1='200' x2='205' y2='200' stroke='#000' stroke-width='3' /><path d='M180,230 Q180,240 190,240 Q200,240 200,230 Q200,220 190,220 Q180,220 180,230' fill='none' stroke='#000' stroke-width='3' /><path d='M220,230 Q220,240 230,240 Q240,240 240,230 Q240,220 230,220 Q220,220 220,230' fill='none' stroke='#000' stroke-width='3' /><circle cx='180' cy='150' r='10' fill='#6699ff' /><circle cx='220' cy='150' r='10' fill='#6699ff' /><line x1='180' y1='150' x2='220' y2='150' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の頑丈な外殻を持ち、四角い体と強靭な脚を持つ男性の姿をしています。頭部には角のような突起があり、全体的に力強く重厚な印象を与えます。",
+        "reason": "進化の過程で、アダムはより強固で頑丈な体を持つことで環境に適応しやすくなりました。",
+        "thought": "『力強く、確かな足取りで未来を歩む』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1775740706525
   }
 ]
