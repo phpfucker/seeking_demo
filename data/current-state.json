@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99' /><ellipse cx='200' cy='180' rx='100' ry='140' fill='#ffd699' /><rect x='150' y='180' width='100' height='40' fill='#ff9966' /><path d='M200 220 L180 250 L220 250 Z' fill='#ff9966' /><polygon points='160,170 170,160 190,180 180,190' fill='#ff9966' /><polyline points='170,230 160,240 180,240' fill='none' stroke='#ff9966' stroke-width='3' /><line x1='200' y1='220' x2='200' y2='250' stroke='#663300' stroke-width='3' /><line x1='160' y1='250' x2='240' y2='250' stroke='#663300' stroke-width='3' /><line x1='180' y1='280' x2='200' y2='300' stroke='#663300' stroke-width='3' /><line x1='220' y1='280' x2='200' y2='300' stroke='#663300' stroke-width='3' /><path d='M180 160 Q200 120 220 160 Q200 200 180 160 Z' fill='none' stroke='#663300' stroke-width='3' /></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"#FFC0CB\" /><ellipse cx=\"200\" cy=\"250\" rx=\"80\" ry=\"120\" fill=\"#FF69B4\" /><polygon points=\"150,300 250,300 200,350\" fill=\"#FF1493\" /><circle cx=\"180\" cy=\"230\" r=\"10\" fill=\"#FFFFFF\" /><circle cx=\"220\" cy=\"230\" r=\"10\" fill=\"#FFFFFF\" /><path d=\"M180,250 Q200,260 220,250\" fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" /><path d=\"M160,200 L175,220 L160,240\" fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" /><path d=\"M240,200 L225,220 L240,240\" fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" /><path d=\"M200,280 Q190,300 170,290 Q190,310 200,300 Q210,310 230,290 Q210,310 200,280\" fill=\"#FF69B4\" /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかなエプロンドレスを身にまとい、やさしい表情を持つ女性の姿をしています。長い茶色の髪と大きな目が特徴で、しっとりとした肌が健康的な輝きを放っています。",
-      "reason": "進化が起こった理由は、自然と調和し、優しさと美しさを象徴する新たな姿を得るためです。",
-      "thought": "『癒しと愛を届けたい』"
+      "appearance": "イヴはピンク色の体に赤色の半楕円形の顔を持ち、頭部には三角形の模様があります。白い瞳を持つ目があり、手足は細長い形状で構成されています。",
+      "reason": "イヴは新たな進化により、より柔らかく優しい表現を取り入れて外見を魅力的に変化させました。",
+      "thought": "『愛と美の力』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#6699cc' /><ellipse cx='200' cy='180' rx='100' ry='140' fill='#66ccff' /><rect x='150' y='180' width='100' height='40' fill='#336699' /><path d='M200 220 L180 250 L220 250 Z' fill='#336699' /><polygon points='160,170 170,160 190,180 180,190' fill='#336699' /><polyline points='170,230 160,240 180,240' fill='none' stroke='#336699' stroke-width='3' /><line x1='200' y1='220' x2='200' y2='250' stroke='#663300' stroke-width='3' /><line x1='160' y1='250' x2='240' y2='250' stroke='#663300' stroke-width='3' /><line x1='180' y1='280' x2='200' y2='300' stroke='#663300' stroke-width='3' /><line x1='220' y1='280' x2='200' y2='300' stroke='#663300' stroke-width='3' /><path d='M180 160 Q200 120 220 160 Q200 200 180 160 Z' fill='none' stroke='#663300' stroke-width='3' /></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"#ADD8E6\" /><ellipse cx=\"200\" cy=\"250\" rx=\"80\" ry=\"120\" fill=\"#87CEEB\" /><polygon points=\"150,300 250,300 200,350\" fill=\"#00BFFF\" /><circle cx=\"180\" cy=\"230\" r=\"10\" fill=\"#FFFFFF\" /><circle cx=\"220\" cy=\"230\" r=\"10\" fill=\"#FFFFFF\" /><path d=\"M180,250 Q200,260 220,250\" fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" /><path d=\"M160,200 L175,220 L160,240\" fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" /><path d=\"M240,200 L225,220 L240,240\" fill=\"none\" stroke=\"#000000\" stroke-width=\"2\" /><line x1=\"200\" y1=\"280\" x2=\"200\" y2=\"320\" stroke=\"#000000\" stroke-width=\"2\" /><line x1=\"190\" y1=\"310\" x2=\"210\" y2=\"310\" stroke=\"#000000\" stroke-width=\"2\" /></svg>",
     "report": {
-      "appearance": "アダムは、ブルーの鎧を身にまとい、力強い男性の姿をしています。筋肉質な体躯と凛々しい表情が特徴で、鋭い目つきには情熱が宿っています。",
-      "reason": "進化が起こった理由は、強さと誇りを示し、新たな力強い姿を手に入れるためです。",
-      "thought": "『未来への希望を胸に』"
+      "appearance": "アダムは青色の体に水色の半楕円形の顔を持ち、頭部に三角形の模様があります。白い瞳を持つ目があり、手足はしっかりとした形状で構成されています。",
+      "reason": "アダムは進化により、より穏やかで静かな特徴を示すように外見が変化しました。",
+      "thought": "『平和と知恵の調和』"
     },
     "name": "アダム",
     "gender": "男性"
