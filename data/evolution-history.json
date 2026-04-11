@@ -30733,5 +30733,28 @@
       "gender": "男性"
     },
     "timestamp": 1775890612259
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#FFD700'/><ellipse cx='200' cy='220' rx='80' ry='100' fill='#FFD700'/><circle cx='150' cy='180' r='10' fill='#000'/><circle cx='250' cy='180' r='10' fill='#000'/><path d='M185 230 Q200 280 215 230' fill='none' stroke='#000' stroke-width='2'/><path d='M165 260 Q200 290 235 260' fill='none' stroke='#000' stroke-width='2'/><path d='M180 140 Q200 120 220 140' fill='none' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは輝く金色の体を持ち、柔らかな笑顔と大きな目を持つ女性型生命体。上半身は四角形の金色の胴体と楕円形の胸部を持ち、複雑な曲線を描く尾と手足が特徴です。",
+        "reason": "進化の過程で金色の輝きを得て、優美さと温かさを表現するため。",
+        "thought": "『輝く愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#4682B4'/><ellipse cx='200' cy='220' rx='80' ry='100' fill='#4682B4'/><circle cx='150' cy='180' r='10' fill='#000'/><circle cx='250' cy='180' r='10' fill='#000'/><polygon points='170,240 190,250 210,250 230,240' fill='#4682B4'/><polyline points='160,140 180,120 200,140' fill='none' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは青銅色の体を持ち、堅い表情と大きな手足を持つ男性型生命体。四角形の青銅色の胴体と楕円形の胸部を持ち、尾と角が特徴です。",
+        "reason": "進化の過程で青銅色の頑固さと力強さを得て、男性的な特徴を強調するため。",
+        "thought": "『力強い誇りと守護』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1775911835525
   }
 ]
