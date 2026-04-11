@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFC0CB' /><ellipse cx='200' cy='180' rx='120' ry='60' fill='#FFC0CB' /><path d='M180,180 L200,160 L220,180 Z' fill='#FF69B4' /><path d='M170,230 Q200,250 230,230' fill='none' stroke='#FF69B4' stroke-width='4' /><circle cx='160' cy='160' r='10' fill='#000' /><circle cx='240' cy='160' r='10' fill='#000' /><path d='M160,250 Q200,270 240,250' fill='none' stroke='#FF69B4' stroke-width='4' /><rect x='170' y='240' width='60' height='20' fill='#FF69B4' /><rect x='150' y='260' width='100' height='20' fill='#FF69B4' /><polygon points='180,260 170,290 190,290' fill='none' stroke='#000' /><polygon points='220,260 210,290 230,290' fill='none' stroke='#000' /><line x1='170' y1='290' x2='230' y2='290' stroke='#000' stroke-width='2' /><text x='200' y='350' text-anchor='middle' font-family='Arial' font-size='20' fill='#000'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcc99' /><ellipse cx='200' cy='250' rx='80' ry='100' fill='#ffddbb' /><path d='M150 300 Q200 350 250 300' stroke='#996633' stroke-width='5' fill='none' /><circle cx='160' cy='230' r='10' fill='#663300' /><circle cx='240' cy='230' r='10' fill='#663300' /><polygon points='180,260 220,260 200,290' fill='#ffbb99' /><rect x='180' y='160' width='40' height='20' fill='#663300' /><polygon points='150,200 160,190 170,200' fill='#996633' /><polygon points='230,200 240,190 250,200' fill='#996633' /><path d='M180 270 Q200 280 220 270' stroke='#996633' stroke-width='2' fill='none' /><path d='M180 280 Q200 290 220 280' stroke='#996633' stroke-width='2' fill='none' /><polygon points='180,180 190,160 200,170 210,160 220,180' fill='#996633' /></svg>",
     "report": {
-      "appearance": "イヴはピンク色の柔らかな体を持ち、胸元に薄紫色の小さな三角形の模様がある。頭部は楕円形で、薄いピンク色をしており、長い薄いピンク色の髪がある。手足は丸みを帯びた形状で、薄紫色の爪がある。背中にはピンク色の翼が生えている。",
-      "reason": "イヴは新たな食性に適応するため、翼を持つことで高い木に生える果実を採取する能力を得た。",
-      "thought": "『成長と変化が人生の一部。』"
+      "appearance": "イヴは、橙色の体とピンク色の顔を持ち、細長い目と穏やかな表情をしています。頭には長い耳があり、背中には小さな模様が散りばめられています。",
+      "reason": "イヴは多様性を表現するため、体色や模様が変化しました。この進化により、環境への適応性が向上しました。",
+      "thought": "『多様性が美しい』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#4169E1' /><ellipse cx='200' cy='100' rx='60' ry='40' fill='#4169E1' /><circle cx='180' cy='90' r='10' fill='#000' /><circle cx='220' cy='90' r='10' fill='#000' /><path d='M180,200 Q200,220 220,200' fill='none' stroke='#4169E1' stroke-width='4' /><rect x='170' y='200' width='60' height='20' fill='#4169E1' /><rect x='150' y='220' width='100' height='20' fill='#4169E1' /><polygon points='180,220 170,250 190,250' fill='none' stroke='#000' /><polygon points='220,220 210,250 230,250' fill='none' stroke='#000' /><line x1='170' y1='250' x2='230' y2='250' stroke='#000' stroke-width='2' /><text x='200' y='350' text-anchor='middle' font-family='Arial' font-size='20' fill='#000'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#0066cc' /><ellipse cx='200' cy='250' rx='80' ry='100' fill='#3399ff' /><path d='M150 300 Q200 350 250 300' stroke='#001a66' stroke-width='5' fill='none' /><circle cx='160' cy='230' r='10' fill='#99ccff' /><circle cx='240' cy='230' r='10' fill='#99ccff' /><polygon points='180,260 220,260 200,290' fill='#33ccff' /><rect x='180' y='160' width='40' height='20' fill='#001a66' /><polygon points='150,200 160,190 170,200' fill='#99ccff' /><polygon points='230,200 240,190 250,200' fill='#99ccff' /><path d='M180 270 Q200 280 220 270' stroke='#001a66' stroke-width='2' fill='none' /><path d='M180 280 Q200 290 220 280' stroke='#001a66' stroke-width='2' fill='none' /><polygon points='180,180 190,160 200,170 210,160 220,180' fill='#001a66' /></svg>",
     "report": {
-      "appearance": "アダムは青色のがっしりとした体を持ち、頭は楕円形で青色の皮膚をしている。手足は四角く太く、青色の爪がある。背中には青色の大きな翼が生えている。",
-      "reason": "アダムは新たな獲物に追いつくため、大きな翼を持つことで素早く移動する能力を獲得した。",
-      "thought": "『力強さは守るべきものへの献身。』"
+      "appearance": "アダムは、青色の体と水色の顔を持ち、丸い目と力強い表情をしています。頭には鋭い角があり、背中には幾何学模様が装飾されています。",
+      "reason": "アダムは強さと知性を結びつけるため、角や模様が変化しました。この進化により、生存競争での有利な要素が得られました。",
+      "thought": "『力と知性の調和』"
     },
     "name": "アダム",
     "gender": "男性"
