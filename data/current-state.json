@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='120' rx='80' ry='100' fill='#f08080' /><rect x='160' y='240' width='80' height='40' fill='#ffcccb' /><path d='M220 120 q-20 -30 -40 0' stroke='#000' stroke-width='3' fill='none' /><polygon points='180,180 180,200 220,200 220,180' fill='#f08080' /><line x1='180' y1='240' x2='160' y2='280' stroke='#000' stroke-width='3' /><line x1='220' y1='240' x2='240' y2='280' stroke='#000' stroke-width='3' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink'/><ellipse cx='200' cy='170' rx='100' ry='120' fill='lightpink'/><rect x='150' y='240' width='100' height='40' fill='pink'/><path d='M180 150 L190 140 L200 150 Z' fill='black'/><path d='M220 150 L230 140 L240 150 Z' fill='black'/><polygon points='190,180 210,180 200,190' fill='black'/><line x1='180' y1='230' x2='180' y2='250' stroke='black' stroke-width='2'/><line x1='220' y1='230' x2='220' y2='250' stroke='black' stroke-width='2'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の体に赤い髪の毛を持つ女性で、丸い顔に大きな目と小さな口が特徴です。背中にはピンク色の翼があり、しっぽが短く尖っています。",
-      "reason": "地球のエネルギーが変化し、生命体に新たな特性を授けたため。",
-      "thought": "『誕生の喜び』"
+      "appearance": "イヴは、ピンク色の肌を持ち、柔らかな雰囲気の女性。体は大きな円形で、顔は楕円形。頭には小さな黒い目とポイントのある耳があり、足としっぽが短くて丸い。",
+      "reason": "生態系の変化により、柔らかな色調と丸みを帯びた特徴が適応的に進化した。",
+      "thought": "『優しさが力になる』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6' /><ellipse cx='200' cy='120' rx='80' ry='100' fill='#4682b4' /><rect x='160' y='240' width='80' height='40' fill='#add8e6' /><path d='M220 120 q-20 -30 -40 0' stroke='#000' stroke-width='3' fill='none' /><polygon points='180,180 180,200 220,200 220,180' fill='#4682b4' /><line x1='180' y1='240' x2='160' y2='280' stroke='#000' stroke-width='3' /><line x1='220' y1='240' x2='240' y2='280' stroke='#000' stroke-width='3' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='170' width='100' height='160' fill='lightblue'/><circle cx='200' cy='150' r='50' fill='blue'/><path d='M180 200 L200 220 L220 200 Z' fill='white'/><polygon points='190,160 210,160 200,150' fill='white'/><line x1='180' y1='210' x2='180' y2='230' stroke='black' stroke-width='2'/><line x1='220' y1='210' x2='220' y2='230' stroke='black' stroke-width='2'/></svg>",
     "report": {
-      "appearance": "アダムは、青色の体に青紫色の髪の毛を持つ男性で、丸い顔に大きな目と小さな口が特徴です。背中には青色の翼があり、しっぽが短く尖っています。",
-      "reason": "宇宙の力がアダムの進化を導いた。",
-      "thought": "『新たな旅立ち』"
+      "appearance": "アダムは、青色の体と大きな四角形の頭を持つ男性。体は四角形で、頭は丸みを帯びた角を持つ。目は白く、瞳は青。足は太く短く、しっぽがない。",
+      "reason": "環境の変化に対する対応として、強い色調と角張った形状が進化した。",
+      "thought": "『力強く進化していく』"
     },
     "name": "アダム",
     "gender": "男性"
