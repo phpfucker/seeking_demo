@@ -30963,5 +30963,28 @@
       "gender": "男性"
     },
     "timestamp": 1776107378348
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='220' width='160' height='140' fill='#f3c3e6' /><ellipse cx='200' cy='120' rx='80' ry='100' fill='#f7a8bd' /><path d='M160 220 L140 340 L200 300 Z' fill='#ffd0bb' /><polygon points='180,70 230,70 200,120' fill='#ffecd9' /><ellipse cx='160' cy='120' rx='20' ry='30' fill='#ffffff' /><ellipse cx='240' cy='120' rx='20' ry='30' fill='#ffffff' /><path d='M180 220 Q200 260 220 220' stroke='#000' fill='none' /><circle cx='180' cy='230' r='5' fill='#000' /><circle cx='220' cy='230' r='5' fill='#000' /><circle cx='180' cy='220' r='10' fill='#f7a8bd' /><circle cx='220' cy='220' r='10' fill='#f7a8bd' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと白の優しい色合いの体を持ち、大きな赤い目が特徴です。頭部には白い角が一対あり、美しいピンクのドレスを身に着けています。",
+        "reason": "イヴは新たな進化を遂げ、優れた知性と美しさを持つようになりました。環境への適応と生存競争において、この姿が進化の最適解となったのです。",
+        "thought": "『自然と調和し、新たな知識を求める』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='220' width='160' height='140' fill='#b3e0ff' /><ellipse cx='200' cy='120' rx='80' ry='100' fill='#7ec8f7' /><path d='M160 220 L140 340 L200 300 Z' fill='#a2d5f2' /><polygon points='180,70 230,70 200,120' fill='#b3e0ff' /><ellipse cx='160' cy='120' rx='20' ry='30' fill='#ffffff' /><ellipse cx='240' cy='120' rx='20' ry='30' fill='#ffffff' /><path d='M180 220 Q200 260 220 220' stroke='#000' fill='none' /><circle cx='180' cy='230' r='5' fill='#000' /><circle cx='220' cy='230' r='5' fill='#000' /><circle cx='180' cy='220' r='10' fill='#7ec8f7' /><circle cx='220' cy='220' r='10' fill='#7ec8f7' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と白の清涼な色調を持ち、大きな青い目が特徴です。頭部には白い角が一対あり、洗練された青のスーツを身に着けています。",
+        "reason": "アダムは新たな進化を遂げ、強靭な肉体と知性を兼ね備えた姿となりました。進化のプロセスにおいて、この姿が環境への最適な適応であると判断されたのです。",
+        "thought": "『誇り高く、未来への希望を抱く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1776132622695
   }
 ]

@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='220' width='160' height='140' fill='#f3c3e6' /><ellipse cx='200' cy='120' rx='80' ry='100' fill='#f7a8bd' /><path d='M160 220 L140 340 L200 300 Z' fill='#ffd0bb' /><polygon points='180,70 230,70 200,120' fill='#ffecd9' /><ellipse cx='160' cy='120' rx='20' ry='30' fill='#ffffff' /><ellipse cx='240' cy='120' rx='20' ry='30' fill='#ffffff' /><path d='M180 220 Q200 260 220 220' stroke='#000' fill='none' /><circle cx='180' cy='230' r='5' fill='#000' /><circle cx='220' cy='230' r='5' fill='#000' /><circle cx='180' cy='220' r='10' fill='#f7a8bd' /><circle cx='220' cy='220' r='10' fill='#f7a8bd' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#ffcccb' /><ellipse cx='200' cy='200' rx='100' ry='120' fill='#ffb6c1' /><path d='M150 300 Q200 350 250 300 Q200 250 150 300 Z' fill='#ff1493' /><path d='M170 240 A30 30 0 0 0 230 240' fill='none' stroke='#ff69b4' stroke-width='3' /><path d='M160 220 A20 20 0 0 0 240 220' fill='none' stroke='#ff69b4' stroke-width='3' /><polygon points='195,190 205,190 200,195' fill='#ff69b4' /><ellipse cx='170' cy='170' rx='8' ry='12' fill='#000' /><ellipse cx='230' cy='170' rx='8' ry='12' fill='#000' /><line x1='195' y1='190' x2='205' y2='190' stroke='#000' stroke-width='2' /><line x1='180' y1='230' x2='200' y2='250' stroke='#000' stroke-width='2' /><line x1='220' y1='230' x2='200' y2='250' stroke='#000' stroke-width='2' /><path d='M170 300 Q200 330 230 300 Q200 270 170 300 Z' fill='#fff' /><rect x='180' y='260' width='40' height='20' fill='#000' /><rect x='180' y='280' width='5' height='10' fill='#000' /><rect x='215' y='280' width='5' height='10' fill='#000' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴは、ピンクと白の優しい色合いの体を持ち、大きな赤い目が特徴です。頭部には白い角が一対あり、美しいピンクのドレスを身に着けています。",
-      "reason": "イヴは新たな進化を遂げ、優れた知性と美しさを持つようになりました。環境への適応と生存競争において、この姿が進化の最適解となったのです。",
-      "thought": "『自然と調和し、新たな知識を求める』"
+      "appearance": "イヴは全身がピンク色の体に大きな赤い瞳を持つ女性型生命体です。頭部には紫色の長い髪があり、角のような飾りがついています。背中にはピンクの大きな翼があります。",
+      "reason": "翼を持つことで自由に空を飛ぶ能力を獲得し、より広い範囲を探索するために進化しました。",
+      "thought": "『自由な空の彼方へ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='220' width='160' height='140' fill='#b3e0ff' /><ellipse cx='200' cy='120' rx='80' ry='100' fill='#7ec8f7' /><path d='M160 220 L140 340 L200 300 Z' fill='#a2d5f2' /><polygon points='180,70 230,70 200,120' fill='#b3e0ff' /><ellipse cx='160' cy='120' rx='20' ry='30' fill='#ffffff' /><ellipse cx='240' cy='120' rx='20' ry='30' fill='#ffffff' /><path d='M180 220 Q200 260 220 220' stroke='#000' fill='none' /><circle cx='180' cy='230' r='5' fill='#000' /><circle cx='220' cy='230' r='5' fill='#000' /><circle cx='180' cy='220' r='10' fill='#7ec8f7' /><circle cx='220' cy='220' r='10' fill='#7ec8f7' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#afeeee' /><ellipse cx='200' cy='200' rx='100' ry='120' fill='#add8e6' /><path d='M150 300 Q200 350 250 300 Q200 250 150 300 Z' fill='#4682b4' /><path d='M170 240 A30 30 0 0 0 230 240' fill='none' stroke='#4169e1' stroke-width='3' /><path d='M160 220 A20 20 0 0 0 240 220' fill='none' stroke='#4169e1' stroke-width='3' /><polygon points='195,190 205,190 200,195' fill='#4169e1' /><ellipse cx='170' cy='170' rx='8' ry='12' fill='#000' /><ellipse cx='230' cy='170' rx='8' ry='12' fill='#000' /><line x1='195' y1='190' x2='205' y2='190' stroke='#000' stroke-width='2' /><line x1='180' y1='230' x2='200' y2='250' stroke='#000' stroke-width='2' /><line x1='220' y1='230' x2='200' y2='250' stroke='#000' stroke-width='2' /><rect x='180' y='260' width='40' height='20' fill='#000' /><rect x='180' y='280' width='5' height='10' fill='#000' /><rect x='215' y='280' width='5' height='10' fill='#000' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは、青と白の清涼な色調を持ち、大きな青い目が特徴です。頭部には白い角が一対あり、洗練された青のスーツを身に着けています。",
-      "reason": "アダムは新たな進化を遂げ、強靭な肉体と知性を兼ね備えた姿となりました。進化のプロセスにおいて、この姿が環境への最適な適応であると判断されたのです。",
-      "thought": "『誇り高く、未来への希望を抱く』"
+      "appearance": "アダムは全身が水色の体に大きな青い瞳を持つ男性型生命体です。頭部には黒色の長い髪があり、角のような飾りがついています。背中には水色の大きな翼があります。",
+      "reason": "翼を持つことで新たな環境への適応力を高め、より広い地域で生存するために進化しました。",
+      "thought": "『未知の地への探求』"
     },
     "name": "アダム",
     "gender": "男性"
