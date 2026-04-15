@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='190' rx='80' ry='110' fill='#ffdab9' /><path d='M140 220 L180 240 L200 220 L220 240 L260 220' fill='none' stroke='#e75480' stroke-width='5' /><polygon points='170,240 190,240 180,260' fill='#e75480' /><polygon points='210,240 230,240 220,260' fill='#e75480' /><ellipse cx='170' cy='160' rx='20' ry='10' fill='#ffdab9' /><ellipse cx='230' cy='160' rx='20' ry='10' fill='#ffdab9' /><circle cx='180' cy='170' r='5' fill='#000' /><circle cx='220' cy='170' r='5' fill='#000' /><path d='M190 210 Q200 220 210 210' fill='none' stroke='#000' stroke-width='2' /><path d='M160 200 Q170 180 180 200' fill='none' stroke='#000' stroke-width='2' /><path d='M240 200 Q230 180 220 200' fill='none' stroke='#000' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ff99cc' /><circle cx='200' cy='200' r='80' fill='#ffcc99' /><path d='M180 250 Q200 300 220 250' fill='none' stroke='#9966cc' stroke-width='5' /><ellipse cx='160' cy='180' rx='10' ry='5' fill='#ff99cc' /><ellipse cx='240' cy='180' rx='10' ry='5' fill='#ff99cc' /><line x1='160' y1='220' x2='130' y2='240' stroke='#9966cc' stroke-width='5' /><line x1='240' y1='220' x2='270' y2='240' stroke='#9966cc' stroke-width='5' /><path d='M180 210 Q200 190 220 210' fill='none' stroke='#9966cc' stroke-width='5' /><polygon points='190,170 210,170 200,180' fill='#9966cc' /><polygon points='195,170 205,170 200,160' fill='#9966cc' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな肌とオレンジ色の長い髪を持つ女性です。体は丸みを帯び、優美な曲線が特徴です。顔には柔らかな表情があり、大きな瞳が視線を優しく包みます。",
-      "reason": "新たな進化が起こり、イヴはより美しく、優雅な姿を手に入れました。その美しさは自然界の多様性を示し、生命体の進化の不思議を感じさせます。",
+      "appearance": "イヴは、ピンク色の柔らかな肌とオレンジ色の髪を持つ女性の姿をしています。体の中央に大きな円形の胴体があり、胴体の上には小さな紫色の輪郭で描かれた顔があります。胴体からは四本の足が伸び、指先には紫色の爪があります。",
+      "reason": "進化が起こった理由は、環境の変化に適応するために、より柔軟で可愛らしい外見が必要とされたためです。",
       "thought": "『調和と美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='180' width='160' height='160' fill='#87ceeb' /><polygon points='200,160 140,200 260,200' fill='#b0e0e6' /><polygon points='140,200 160,240 200,220 240,240 260,200' fill='#b0e0e6' /><polygon points='160,240 160,290 200,270 240,290 240,240' fill='#b0e0e6' /><ellipse cx='180' cy='160' rx='20' ry='10' fill='#fff' /><ellipse cx='220' cy='160' rx='20' ry='10' fill='#fff' /><ellipse cx='180' cy='300' rx='10' ry='20' fill='#fff' /><ellipse cx='220' cy='300' rx='10' ry='20' fill='#fff' /><path d='M190 220 Q200 200 210 220' fill='none' stroke='#000' stroke-width='2' /><path d='M160 240 Q180 260 200 240 Q220 260 240 240' fill='none' stroke='#000' stroke-width='2' /><path d='M180 300 L180 320 M220 300 L220 320' fill='none' stroke='#000' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#66ccff' /><circle cx='200' cy='200' r='80' fill='#99ccff' /><path d='M180 250 Q200 300 220 250' fill='none' stroke='#6699cc' stroke-width='5' /><ellipse cx='160' cy='180' rx='10' ry='5' fill='#66ccff' /><ellipse cx='240' cy='180' rx='10' ry='5' fill='#66ccff' /><line x1='160' y1='220' x2='130' y2='240' stroke='#6699cc' stroke-width='5' /><line x1='240' y1='220' x2='270' y2='240' stroke='#6699cc' stroke-width='5' /><path d='M180 210 Q200 190 220 210' fill='none' stroke='#6699cc' stroke-width='5' /><polygon points='190,170 210,170 200,180' fill='#6699cc' /><polygon points='195,170 205,170 200,160' fill='#6699cc' /></svg>",
     "report": {
-      "appearance": "アダムは、青色の体と白い模様を持つ男性です。四角い体と鋭い角、そして複雑な模様が特徴です。凛々しい表情と力強い足元が印象的です。",
-      "reason": "アダムは新たな進化を遂げ、より強靭で知性を感じさせる姿に変貌しました。その複雑な模様や凛々しい外観は、生命の多様性と進化の驚異を示しています。",
-      "thought": "『力と知性』"
+      "appearance": "アダムは、青色の肌と水色の髪を持つ男性の姿をしています。体の中央に大きな円形の胴体があり、その上には青い輪郭で描かれた顔があります。胴体からは四本の足が突き出し、爪は水色です。",
+      "reason": "進化が起こった理由は、狩りや戦闘などの生存競争において、より力強く洗練された外見が求められたためです。",
+      "thought": "『力と勇気』"
     },
     "name": "アダム",
     "gender": "男性"
