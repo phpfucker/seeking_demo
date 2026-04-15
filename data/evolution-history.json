@@ -31124,5 +31124,28 @@
       "gender": "男性"
     },
     "timestamp": 1776259056914
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffd700'/><ellipse cx='200' cy='170' rx='100' ry='130' fill='#ffc14a'/><rect x='160' y='250' width='80' height='40' fill='#ffd700'/><ellipse cx='165' cy='170' rx='15' ry='30' fill='#e6a340'/><ellipse cx='235' cy='170' rx='15' ry='30' fill='#e6a340'/><line x1='185' y1='230' x2='170' y2='250' stroke='#e6a340' stroke-width='3'/><line x1='215' y1='230' x2='230' y2='250' stroke='#e6a340' stroke-width='3'/><path d='M180 150 Q200 100 220 150' fill='none' stroke='#e6a340' stroke-width='3'/><polygon points='190,165 180,160 190,160' fill='#000'/><polygon points='210,165 220,160 210,160' fill='#000'/></svg>",
+      "report": {
+        "appearance": "イヴは、黄金色の美しい鱗で覆われた女性の姿をしています。体は豊かなオレンジ色で輝き、上半身には淡いアプリコット色の軽やかな鱗が広がります。長いしなやかな尾は金の筋を帯び、神秘的な輝きを放っています。",
+        "reason": "イヴは新たな環境への適応により、進化の過程で金色の鱗を身にまとうようになりました。これにより、周囲の光を反射して危険を知らせる役割を果たし、生存率が向上しました。",
+        "thought": "『輝く美しさを持つ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#1e90ff'/><polygon points='200,100 250,170 150,170' fill='#1e90ff'/><rect x='180' y='250' width='40' height='30' fill='#1e90ff'/><path d='M185 180 Q200 120 215 180' fill='none' stroke='#fff' stroke-width='4'/><rect x='187' y='160' width='10' height='10' fill='#fff'/><rect x='203' y='160' width='10' height='10' fill='#fff'/><line x1='185' y1='250' x2='175' y2='270' stroke='#fff' stroke-width='3'/><line x1='215' y1='250' x2='225' y2='270' stroke='#fff' stroke-width='3'/></svg>",
+      "report": {
+        "appearance": "アダムは深い青色の体に覆われた男性の姿をしています。頭部には鋭い三角形の角が生え、上半身には派手な青の模様が入り、力強さを感じさせます。尾はしなやかで大胆な白いラインが走ります。",
+        "reason": "アダムは新たな狩猟技術の獲得に伴い、体色が濃い青色へと変化しました。この深い青色は、夜の狩猟活動において敵に擬態しやすくする役割を果たし、生存戦略を発展させました。",
+        "thought": "『闇に紛れ、力強さを示す』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1776280234623
   }
 ]
