@@ -31193,5 +31193,28 @@
       "gender": "男性"
     },
     "timestamp": 1776324376557
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='150' rx='90' ry='120' fill='#ffd9e0' /><ellipse cx='150' cy='140' rx='15' ry='25' fill='#ffffff' /><ellipse cx='250' cy='140' rx='15' ry='25' fill='#ffffff' /><path d='M150 250 Q200 280 250 250' fill='none' stroke='#000000' stroke-width='2' /><path d='M170 180 Q200 200 230 180' fill='none' stroke='#000000' stroke-width='2' /><path d='M170 225 Q200 240 230 225' fill='none' stroke='#000000' stroke-width='2' /><path d='M170 250 Q200 260 230 250' fill='none' stroke='#000000' stroke-width='2' /><polygon points='190,120 200,110 210,120' fill='#ffccff' /><polygon points='150,130 160,120 140,120' fill='#ffccff' /><line x1='180' y1='165' x2='200' y2='165' stroke='#000000' stroke-width='2' /><line x1='220' y1='165' x2='240' y2='165' stroke='#000000' stroke-width='2' /><text x='200' y='300' font-family='Arial' font-size='20' fill='#000000' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌を持ち、細長い体と大きな目を持つ女性型の生命体です。頭部には白い眼を持ち、柔らかな優しい表情をしています。手足は細く、しっぽはなめらかに伸びています。",
+        "reason": "新たな進化が起こり、生命体がより優しさと美しさを表現するため。",
+        "thought": "『優しさの花』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='50' width='100' height='150' fill='#6c757d' /><circle cx='200' cy='200' r='100' fill='#8f8f8f' /><polygon points='180,225 200,275 220,225' fill='#8f8f8f' /><ellipse cx='180' cy='140' rx='10' ry='20' fill='#ffcc99' /><ellipse cx='220' cy='140' rx='10' ry='20' fill='#ffcc99' /><line x1='170' y1='180' x2='150' y2='180' stroke='#000000' stroke-width='2' /><line x1='230' y1='180' x2='250' y2='180' stroke='#000000' stroke-width='2' /><path d='M150 250 Q200 280 250 250' fill='none' stroke='#000000' stroke-width='2' /><path d='M170 140 Q200 120 230 140' fill='none' stroke='#000000' stroke-width='2' /><text x='200' y='300' font-family='Arial' font-size='20' fill='#000000' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、灰色の肌を持つ男性型生命体で、褐色の角や大きな目が特徴です。四角い頭部には黄色い眼があり、威厳を感じさせる表情をしています。手足は頑丈で、しっかりとした体つきをしています。",
+        "reason": "進化の過程で、生命体がより力強さと知性を表現するため。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1776345761503
   }
 ]
