@@ -31147,5 +31147,28 @@
       "gender": "男性"
     },
     "timestamp": 1776280234623
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='150' rx='90' ry='120' fill='#ffb6c1' /><ellipse cx='150' cy='140' rx='20' ry='30' fill='#ffffff' /><ellipse cx='250' cy='140' rx='20' ry='30' fill='#ffffff' /><path d='M180,220 Q200,270 220,220' fill='none' stroke='#ffffff' stroke-width='5' /><path d='M182,218 Q200,250 218,218' fill='none' stroke='#ffb6c1' stroke-width='5' /><rect x='170' y='180' width='60' height='10' fill='#ffb6c1' /><rect x='155' y='220' width='90' height='10' fill='#ffb6c1' /><circle cx='160' cy='130' r='5' fill='#000000' /><circle cx='240' cy='130' r='5' fill='#000000' /><polygon points='180,260 200,270 220,260' fill='#ffffff' /><polygon points='190,250 200,260 210,250' fill='#ffb6c1' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に赤い顔を持ち、優雅な曲線の体型をしています。頭部に白い眼が二つあり、柔らかな表情をしています。手足は細長く、しっぽはなめらかな曲線が特徴です。",
+        "reason": "生命体イヴは、優美な姿と柔らかな色合いの進化を遂げました。環境の変化により、美しさが強調された適応の結果と言えます。",
+        "thought": "『優しさと美しさが重要』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#76c7c0' /><circle cx='200' cy='80' r='50' fill='#a8dadc' /><ellipse cx='180' cy='220' rx='20' ry='30' fill='#a8dadc' /><ellipse cx='220' cy='220' rx='20' ry='30' fill='#a8dadc' /><path d='M150,220 Q200,270 250,220' fill='none' stroke='#ffffff' stroke-width='5' /><path d='M152,218 Q200,250 248,218' fill='none' stroke='#76c7c0' stroke-width='5' /><line x1='180' y1='240' x2='180' y2='280' stroke='#76c7c0' stroke-width='10' /><line x1='220' y1='240' x2='220' y2='280' stroke='#76c7c0' stroke-width='10' /><polygon points='190,250 200,260 210,250' fill='#a8dadc' /><polygon points='180,260 200,270 220,260' fill='#ffffff' /><circle cx='180' cy='80' r='5' fill='#000000' /><circle cx='220' cy='80' r='5' fill='#000000' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の大きな体と円形の顔を持ち、力強い印象を与えます。体は四角い形状で、頭部に大きな青い目が一つあります。手足は太く、しっぽは短く太いです。",
+        "reason": "進化した生命体アダムは、力強い姿と青色の体で新たな特徴を獲得しました。生存競争において、威圧性を持つことが有利になったためと考えられます。",
+        "thought": "『力強い力が必要』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1776306191452
   }
 ]
