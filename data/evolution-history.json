@@ -31285,5 +31285,28 @@
       "gender": "男性"
     },
     "timestamp": 1776410828652
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><rect x='175' y='210' width='50' height='80' fill='rgb(255,192,203)' /><ellipse cx='175' cy='300' rx='10' ry='20' fill='rgb(255,105,180)' /><ellipse cx='225' cy='300' rx='10' ry='20' fill='rgb(255,105,180)' /><path d='M180 180 Q200 100 220 180 Q240 100 260 180 Q240 250 220 180 Q200 250 180 180 Z' fill='rgb(255,192,203)' /><path d='M190 195 Q200 230 210 195 Q220 230 230 195 Q220 240 210 195 Q200 240 190 195 Z' fill='rgb(255,105,180)' /><rect x='180' y='190' width='40' height='10' fill='rgb(255,105,180)' /><ellipse cx='195' cy='190' rx='5' ry='10' fill='white' /><ellipse cx='205' cy='190' rx='5' ry='10' fill='white' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと紫のグラデーションが美しい女性の姿をしています。大きな円形の頭部にはハート型の模様があり、華やかな色合いが特徴です。体の一部には淡いピンクの楕円形の装飾が施されています。",
+        "reason": "イヴは内なる美しさと優しさを表現するために、より優雅で優しい色彩と柔らかな形状へと進化しました。",
+        "thought": "『穏やかな愛を宿す』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(0,191,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(30,144,255);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradB)' /><rect x='175' y='210' width='50' height='80' fill='rgb(0,191,255)' /><ellipse cx='175' cy='300' rx='10' ry='20' fill='rgb(30,144,255)' /><ellipse cx='225' cy='300' rx='10' ry='20' fill='rgb(30,144,255)' /><polygon points='200,140 170,190 230,190' fill='rgb(0,191,255)' /><polygon points='195,140 170,180 205,180' fill='rgb(30,144,255)' /><polygon points='205,140 230,180 195,180' fill='rgb(30,144,255)' /><polygon points='195,150 205,150 200,165' fill='white' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色のグラデーションが美しい男性の姿をしています。頭部には三角形の模様があり、クールで爽やかな印象を与えます。体には青い矩形の装飾が施されています。",
+        "reason": "アダムは内なる力強さと知性を表現するために、よりカリスマ的で知的な色彩と幾何学的な形状へと進化しました。",
+        "thought": "『知性と力強さを備える』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1776431464818
   }
 ]
