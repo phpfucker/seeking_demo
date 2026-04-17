@@ -31239,5 +31239,28 @@
       "gender": "男性"
     },
     "timestamp": 1776366411168
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='80' width='160' height='240' fill='#ffcf9e'/><ellipse cx='200' cy='200' rx='80' ry='100' fill='#ffb6a0'/><circle cx='160' cy='160' r='20' fill='#ff8c94'/><circle cx='240' cy='160' r='20' fill='#ff8c94'/><path d='M160 240 q40 -40 80 0 t80 0' stroke='#ff8c94' fill='none'/><path d='M160 260 q40 -40 80 0 t80 0' stroke='#ff8c94' fill='none'/><line x1='160' y1='320' x2='160' y2='360' stroke='#ff8c94' stroke-width='5'/><line x1='240' y1='320' x2='240' y2='360' stroke='#ff8c94' stroke-width='5'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌と赤い瞳を持つ女性の姿をしています。体は丸みを帯びた形状で、頭部には角のような突起があります。胴体はオレンジ色で、手足は細く長く、しっぽがふわふわとしたデザインです。",
+        "reason": "進化の理由は、生態系の変化により、イヴの適応能力が高まり、より優れた視覚と柔軟な運動能力が必要とされたためです。",
+        "thought": "『未来への希望』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='80' width='160' height='240' fill='#9bd4db'/><ellipse cx='200' cy='200' rx='80' ry='100' fill='#8ac4d0'/><circle cx='160' cy='160' r='20' fill='#5ea9db'/><circle cx='240' cy='160' r='20' fill='#5ea9db'/><path d='M160 240 q40 -40 80 0 t80 0' stroke='#5ea9db' fill='none'/><path d='M160 260 q40 -40 80 0 t80 0' stroke='#5ea9db' fill='none'/><polygon points='160,320 140,360 180,360' fill='#5ea9db'/><polygon points='240,320 220,360 260,360' fill='#5ea9db'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体と青い瞳を持つ男性の姿をしています。体の形状はイヴと似ていますが、青色の体毛が生えており、胴体には波状の模様があります。手足は力強く、頭部には短い角が生えています。",
+        "reason": "進化の理由は、食物連鎖の変化により、アダムがより速く敏捷に動ける必要が生じ、体毛が保護や熱調節に役立つためです。",
+        "thought": "『未来を切り開く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1776391872899
   }
 ]
