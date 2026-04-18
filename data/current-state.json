@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffe0bd' /><ellipse cx='200' cy='180' rx='100' ry='140' fill='#ffd699' /><path d='M140,220 C140,300 260,300 260,220' fill='none' stroke='#e08d4f' stroke-width='10' /><rect x='160' y='240' width='80' height='40' fill='#d08344' /><rect x='185' y='280' width='30' height='40' fill='#a86013' /><circle cx='170' cy='170' r='10' fill='#000' /><circle cx='230' cy='170' r='10' fill='#000' /><line x1='180' y1='150' x2='200' y2='150' stroke='#000' stroke-width='5' /><line x1='200' y1='150' x2='220' y2='150' stroke='#000' stroke-width='5' /><text x='140' y='380' font-family='Arial' font-size='20' fill='#000'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='250' rx='80' ry='100' fill='#f6a1a1'/><polygon points='150,200 250,200 200,350' fill='#ffc0cb'/><circle cx='150' cy='200' r='20' fill='#fff'/><circle cx='250' cy='200' r='20' fill='#fff'/><circle cx='180' cy='280' r='10' fill='#000'/><circle cx='220' cy='280' r='10' fill='#000'/><path d='M180,300 Q200,330 220,300' stroke='#000' fill='none'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな体にオレンジ色の長い耳を持つ女性型生命体です。体の下部に茶色の四角い脚が付いており、腹部には濃い茶色の模様があります。",
-      "reason": "イヴは、新しい環境でより効率的に移動するために、耳を長くし、脚を強化する進化を遂げました。",
-      "thought": "『変化と成長』"
+      "appearance": "イヴはピンク色の体に、赤い服を着た女性の姿をしています。体は楕円形で、白い目と黒い瞳を持ち、顔には小さな口があります。腕と脚は丸く、手には指があります。",
+      "reason": "自然界の色彩を取り入れ、女性らしい柔らかな特徴を強調しました。",
+      "thought": "『愛と美の力』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='90' width='100' height='200' fill='#aad4d6' /><rect x='140' y='70' width='120' height='20' fill='#7eb6b8' /><rect x='150' y='290' width='100' height='50' fill='#75a2a5' /><circle cx='200' cy='70' r='30' fill='#00686e' /><circle cx='200' cy='290' r='20' fill='#00686e' /><path d='M170,90 C150,120 250,120 230,90' fill='none' stroke='#00484d' stroke-width='10' /><path d='M170,240 C150,270 250,270 230,240' fill='none' stroke='#00484d' stroke-width='10' /><line x1='180' y1='180' x2='200' y2='180' stroke='#00484d' stroke-width='5' /><line x1='200' y1='180' x2='220' y2='180' stroke='#00484d' stroke-width='5' /><text x='150' y='380' font-family='Arial' font-size='20' fill='#000'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#add8e6'/><ellipse cx='200' cy='250' rx='80' ry='100' fill='#5dbcd2'/><polygon points='150,200 250,200 200,350' fill='#add8e6'/><circle cx='150' cy='200' r='20' fill='#fff'/><circle cx='250' cy='200' r='20' fill='#fff'/><circle cx='180' cy='280' r='10' fill='#000'/><circle cx='220' cy='280' r='10' fill='#000'/><line x1='180' y1='300' x2='220' y2='300' stroke='#000'/></svg>",
     "report": {
-      "appearance": "アダムは、青色の四角い体を持つ男性型生命体です。体の上下に円形の青い突起物があり、頭部と尾部には水色の模様が描かれています。",
-      "reason": "アダムは、水域での生活に適応するため、水の流れに耐える四角い体と尾部の模様を進化させました。",
-      "thought": "『自然と調和』"
+      "appearance": "アダムは水色の体に、青い服を着た男性の姿をしています。体は楕円形で、白い目と黒い瞳を持ち、顔には小さな口があります。腕と脚は丸く、手には指があります。",
+      "reason": "穏やかな色調と男性らしい特徴を組み合わせ、バランスの取れた進化を促しました。",
+      "thought": "『知識と創造の力』"
     },
     "name": "アダム",
     "gender": "男性"
