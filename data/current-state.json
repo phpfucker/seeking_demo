@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffaf87' /><ellipse cx='150' cy='180' rx='30' ry='20' fill='#e96e50' /><ellipse cx='250' cy='180' rx='30' ry='20' fill='#e96e50' /><path d='M200 200 L220 240 L180 240 Z' fill='#ffecd9' /><polygon points='195,165 205,165 200,175' fill='#ffecd9' /><ellipse cx='180' cy='220' rx='12' ry='8' fill='#e96e50' /><ellipse cx='220' cy='220' rx='12' ry='8' fill='#e96e50' /><path d='M170 210 Q200 250 230 210' fill='none' stroke='#e96e50' stroke-width='4' /><path d='M190 150 Q200 130 210 150' fill='none' stroke='#333' stroke-width='2' /><path d='M190 150 Q200 130 210 150' fill='none' stroke='#333' stroke-width='2' transform='rotate(180 200 200)' /><ellipse cx='200' cy='215' rx='7' ry='5' fill='#333' /></svg>",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 400\"><ellipse cx=\"200\" cy=\"200\" rx=\"120\" ry=\"180\" fill=\"#FFC0CB\"/><path d=\"M180,220 Q200,330 220,220 Q200,280 180,220\" fill=\"#FF69B4\"/><rect x=\"160\" y=\"160\" width=\"80\" height=\"20\" fill=\"#FF69B4\"/><polygon points=\"180,220 190,200 200,220 210,200 220,220\" fill=\"#FFF\"/><circle cx=\"180\" cy=\"190\" r=\"5\" fill=\"#000\"/><circle cx=\"220\" cy=\"190\" r=\"5\" fill=\"#000\"/></svg>",
     "report": {
-      "appearance": "イヴは、ピンクとオレンジのグラデーションで覆われた柔らかな肌を持ち、目立つオレンジ色の角や綺麗なピンクの模様が特徴的な女性型生命体です。体は丸く柔らかく、優しさを感じさせます。",
-      "reason": "生態系の変化により、イヴは花や果物と同化することで新たな生態系を築くため、色鮮やかで美しい外見が進化しました。",
-      "thought": "『自然と調和する喜び』"
+      "appearance": "イヴはピンク色の女性体を持ち、体の中央に大きな楕円形の胴体があります。顔は紫色で、瞳は白く、目の周りには紫の模様が描かれています。手足は短く、ピンク色の柔らかい質感が特徴です。",
+      "reason": "イヴは新たな生命の誕生を象徴し、より柔らかく優しい姿に進化しました。",
+      "thought": "『新たな命の誕生』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#87ceeb' /><polygon points='180,160 220,160 200,200' fill='#66a3ff' /><rect x='185' y='180' width='30' height='40' fill='#66a3ff' /><ellipse cx='200' cy='220' rx='20' ry='10' fill='#66a3ff' /><rect x='150' y='200' width='100' height='10' fill='#66a3ff' /><ellipse cx='160' cy='210' rx='10' ry='5' fill='#66a3ff' /><ellipse cx='240' cy='210' rx='10' ry='5' fill='#66a3ff' /><path d='M190 150 Q200 130 210 150' fill='none' stroke='#333' stroke-width='2' /><path d='M190 150 Q200 130 210 150' fill='none' stroke='#333' stroke-width='2' transform='rotate(180 200 200)' /></svg>",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 400\"><ellipse cx=\"200\" cy=\"200\" rx=\"120\" ry=\"180\" fill=\"#ADD8E6\"/><path d=\"M180,220 Q200,330 220,220 Q200,280 180,220\" fill=\"#4169E1\"/><rect x=\"160\" y=\"160\" width=\"80\" height=\"20\" fill=\"#4169E1\"/><polygon points=\"180,220 190,200 200,220 210,200 220,220\" fill=\"#FFF\"/><polygon points=\"190,200 200,170 210,200\" fill=\"#4169E1\"/><circle cx=\"180\" cy=\"190\" r=\"5\" fill=\"#000\"/><circle cx=\"220\" cy=\"190\" r=\"5\" fill=\"#000\"/></svg>",
     "report": {
-      "appearance": "アダムは、青と白のグラデーションで塗られた体と、力強い青の装飾や特徴的な形状を持つ男性型生命体です。頑丈で引き締まった体つきは力強さを感じさせます。",
-      "reason": "アダムは狩猟を主な生業とし、獲物を追いかける際の俊敏性を高めるため、スリムで力強い体と鋭い視覚的模様が進化しました。",
-      "thought": "『獲物を追う興奮』"
+      "appearance": "アダムは青色の男性体を持ち、体の中央に大きな楕円形の胴体があります。顔は青く、瞳は白く、目の周りには青の模様が描かれています。手足は短く、青色のしっかりとした質感が特徴です。",
+      "reason": "アダムは新たな生命の誕生を象徴し、より強靭で堅固な姿に進化しました。",
+      "thought": "『新たな命の誕生』"
     },
     "name": "アダム",
     "gender": "男性"
