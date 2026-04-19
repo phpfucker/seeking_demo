@@ -31469,5 +31469,28 @@
       "gender": "男性"
     },
     "timestamp": 1776582846541
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='150' rx='100' ry='150' fill='#ffd1dc'/><ellipse cx='150' cy='150' rx='20' ry='30' fill='#f08080'/><ellipse cx='250' cy='150' rx='20' ry='30' fill='#f08080'/><path d='M175 210 Q200 230 225 210' stroke='#000' stroke-width='2' fill='none'/><path d='M175 210 Q200 220 225 210' stroke='#000' stroke-width='2' fill='none'/><path d='M175 210 Q200 200 225 210' stroke='#000' stroke-width='2' fill='none'/><polygon points='190,150 210,150 200,165' fill='#000'/><polygon points='190,150 210,150 200,140' fill='#000'/><rect x='185' y='250' width='30' height='10' fill='#000'/><rect x='185' y='270' width='30' height='10' fill='#000'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体と赤い髪を持つ女性の姿をしています。体は楕円形で透明なピンク色の服を着ています。赤い髪は両側で小さな巻き髪になっており、表情は優しく、目を閉じています。",
+        "reason": "進化が起こった理由は、自然界における生物の多様性と環境の変化による適応が影響しました。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#add8e6'/><ellipse cx='200' cy='150' rx='100' ry='150' fill='#87cefa'/><ellipse cx='165' cy='155' rx='20' ry='30' fill='#4682b4'/><ellipse cx='235' cy='155' rx='20' ry='30' fill='#4682b4'/><path d='M175 210 Q200 230 225 210' stroke='#000' stroke-width='2' fill='none'/><path d='M175 210 Q200 220 225 210' stroke='#000' stroke-width='2' fill='none'/><path d='M175 210 Q200 200 225 210' stroke='#000' stroke-width='2' fill='none'/><polygon points='190,150 210,150 200,165' fill='#000'/><line x1='185' y1='250' x2='215' y2='250' stroke='#000' stroke-width='5'/><line x1='185' y1='270' x2='215' y2='270' stroke='#000' stroke-width='5'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の体と青紫色の髪を持つ男性の姿をしています。体は楕円形で薄い青色の服を着ています。髪は両側で小さな巻き髪になっており、額に角が生えています。",
+        "reason": "進化が起こった理由は、繁殖や生存競争などの自然選択を経て、新しい環境に適応するために変化したためです。",
+        "thought": "『誇りと勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1776603265367
   }
 ]
