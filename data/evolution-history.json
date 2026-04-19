@@ -31446,5 +31446,28 @@
       "gender": "男性"
     },
     "timestamp": 1776565410004
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffc0cb'/><ellipse cx='200' cy='150' rx='100' ry='140' fill='#ff69b4'/><rect x='160' y='100' width='80' height='30' fill='#ffb6c1'/><rect x='170' y='230' width='60' height='20' fill='#ffb6c1'/><rect x='140' y='160' width='30' height='30' fill='#ffb6c1'/><rect x='230' y='160' width='30' height='30' fill='#ffb6c1'/><path d='M150,200 Q200,250 250,200 Q200,150 150,200' fill='#ff69b4'/><polygon points='175,175 225,175 200,200' fill='#ffffff'/><line x1='190' y1='190' x2='210' y2='190' stroke='#000' stroke-width='2'/><line x1='190' y1='210' x2='210' y2='210' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは全身がピンク色の柔らかな皮膚を持ち、胸元には明るい赤色の装飾が施されています。優雅な体型に大きな桃色の瞳を持ち、手足は小さくて繊細です。背中にはふわふわとしたピンク色のしっぽがあり、頭には角状の装飾が配置されています。",
+        "reason": "美と優しさを象徴する新たな特徴を取り入れ、より洗練された姿へと進化しました。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#4169e1'/><rect x='170' y='100' width='60' height='90' fill='#6495ed'/><ellipse cx='150' cy='150' rx='30' ry='40' fill='#87ceeb'/><ellipse cx='250' cy='150' rx='30' ry='40' fill='#87ceeb'/><polygon points='175,175 225,175 200,220' fill='#ffffff'/><line x1='190' y1='190' x2='210' y2='190' stroke='#000' stroke-width='2'/><line x1='190' y1='210' x2='210' y2='210' stroke='#000' stroke-width='2'/><path d='M200,220 Q180,260 200,300 Q220,260 200,220' fill='#6495ed'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の肌を持つ男性で、体全体が海のような色合いで覆われています。四角い装飾が施された胴体には、青色の柔らかな素材でできた翼が生えています。顔は丸くて優しい表情で、頭部には水滴のような装飾が配されています。",
+        "reason": "知恵と力強さを表現する新たな特徴を持ち、より強靭な姿へと進化しました。",
+        "thought": "『知恵と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1776582846541
   }
 ]
