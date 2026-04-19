@@ -31492,5 +31492,28 @@
       "gender": "男性"
     },
     "timestamp": 1776603265367
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,0,0);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,255,0);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradA)' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='none' stroke='black' strokeWidth='2' /><circle cx='180' cy='170' r='10' fill='black' /><circle cx='220' cy='170' r='10' fill='black' /><path d='M180 240 Q200 260 220 240' fill='none' stroke='black' strokeWidth='2' /><path d='M240 260 Q200 280 160 260' fill='none' stroke='black' strokeWidth='2' /><path d='M160 220 Q180 180 200 220' fill='none' stroke='black' strokeWidth='2' /><path d='M240 220 Q220 180 200 220' fill='none' stroke='black' strokeWidth='2' /><polygon points='150,180 170,160 210,160 230,180' fill='none' stroke='black' strokeWidth='2' /><polygon points='170,250 190,280 210,250' fill='none' stroke='black' strokeWidth='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、美しい赤と黄色のグラデーションを持つ女性で、長い髪と優雅な体型が特徴です。顔には大きな黒い瞳があり、背中には小さな羽が生えています。四肢はしなやかで、全体的に優美な印象を与えます。",
+        "reason": "新たな環境への適応のため、イヴの美しさと優雅さが強調された進化が起こりました。",
+        "thought": "『調和と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(0,0,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,255,255);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradB)' /><ellipse cx='200' cy='200' rx='80' ry='120' fill='none' stroke='black' strokeWidth='2' /><circle cx='180' cy='170' r='10' fill='black' /><circle cx='220' cy='170' r='10' fill='black' /><path d='M180 240 Q200 260 220 240' fill='none' stroke='black' strokeWidth='2' /><path d='M240 260 Q200 280 160 260' fill='none' stroke='black' strokeWidth='2' /><path d='M160 220 Q180 180 200 220' fill='none' stroke='black' strokeWidth='2' /><path d='M240 220 Q220 180 200 220' fill='none' stroke='black' strokeWidth='2' /><polygon points='150,180 170,160 210,160 230,180' fill='none' stroke='black' strokeWidth='2' /><line x1='170' y1='250' x2='190' y2='250' stroke='black' strokeWidth='2' /><line x1='190' y1='250' x2='210' y2='280' stroke='black' strokeWidth='2' /><line x1='210' y1='280' x2='230' y2='250' stroke='black' strokeWidth='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色のグラデーションを持つ男性で、がっしりとした体つきと力強い印象が特徴です。顔には真剣な表情と大きな目があり、背中には鱗が並んでいます。四肢は筋肉質で、全体的に頼もしい雰囲気を醸し出します。",
+        "reason": "新たな捕食者からの脅威への対抗のため、アダムの力強さと頼もしさが強調された進化が起こりました。",
+        "thought": "『強さと守り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1776624157441
   }
 ]
