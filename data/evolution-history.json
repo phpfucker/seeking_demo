@@ -31538,5 +31538,28 @@
       "gender": "男性"
     },
     "timestamp": 1776651843665
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99'/><ellipse cx='200' cy='150' rx='80' ry='100' fill='#ffddcc'/><rect x='170' y='230' width='60' height='20' fill='#ffcc99'/><path d='M180 160 Q200 100 220 160 Q200 200 180 160 Z' fill='#ffaa66'/><polygon points='190,130 210,130 200,140' fill='#ffcc99'/><line x1='190' y1='130' x2='210' y2='130' stroke='#996633' stroke-width='2'/><line x1='200' y1='130' x2='200' y2='110' stroke='#996633' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌とオレンジ色の髪を持ち、細長い目と小さな鼻が特徴の女性の姿をしています。身体は丸みを帯びたしなやかなラインで描かれ、柔らかな表情を浮かべています。",
+        "reason": "環境の変化により、イヴは自然界での生存をサポートするため、より優れた知覚能力と豊かな感情表現が必要となり進化しました。",
+        "thought": "『調和と愛を育む』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='200' fill='#99ccff'/><ellipse cx='200' cy='140' rx='70' ry='90' fill='#aad6ff'/><path d='M170 200 Q200 100 230 200 Q200 230 170 200 Z' fill='#6699ff'/><polygon points='190,130 210,130 200,140' fill='#99ccff'/><line x1='190' y1='130' x2='210' y2='130' stroke='#336699' stroke-width='2'/><line x1='200' y1='130' x2='200' y2='110' stroke='#336699' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌と水色の髪を持ち、力強い体つきと鋭い視線が特徴の男性の姿をしています。筋肉質な腕や大きな手が描かれ、堂々とした表情を見せています。",
+        "reason": "環境の変化により、アダムは自然界での生存をサポートするため、より優れた運動能力と警戒心が必要となり進化しました。",
+        "thought": "『勇気と誇りを持つ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1776672043258
   }
 ]
