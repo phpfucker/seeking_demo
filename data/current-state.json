@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='80' width='160' height='240' fill='#FFD700'/><ellipse cx='200' cy='200' rx='80' ry='100' fill='#FFEC8B'/><path d='M200 150 L160 220 L240 220 Z' fill='#FFD700'/><path d='M200 220 Q160 280 200 280 Q240 280 200 220 Z' fill='#FFD700'/><circle cx='160' cy='180' r='10' fill='#000'/><circle cx='240' cy='180' r='10' fill='#000'/><polygon points='195,210 205,210 200,220' fill='#000'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><polygon points='200,50 250,150 150,150' fill='#ffcccb'/><path d='M150,150 Q200,50 250,150' fill='none' stroke='#ff1493' stroke-width='3'/><rect x='175' y='150' width='50' height='50' fill='#ffcccb'/><ellipse cx='200' cy='200' rx='50' ry='70' fill='#ffcccb'/><circle cx='180' cy='180' r='5' fill='black'/><circle cx='220' cy='180' r='5' fill='black'/><path d='M190,210 Q200,230 210,210' fill='none' stroke='black' stroke-width='2'/><line x1='190' y1='250' x2='180' y2='300' stroke='black' stroke-width='3'/><line x1='210' y1='250' x2='220' y2='300' stroke='black' stroke-width='3'/><polygon points='170,250 190,240 170,230' fill='#ff1493'/><polygon points='230,250 210,240 230,230' fill='#ff1493'/><circle cx='200' cy='270' r='5' fill='black'/><text x='200' y='350' text-anchor='middle' font-family='Arial' font-size='20' fill='black'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴは、金色の体色を持ち、黄色い眼と頭部に角があります。体は大きな楕円形で、手足は四角形で表現されています。",
-      "reason": "生態系の変化により、イヴは新たな環境に適応するため、金色の体色と角を持つ進化を遂げました。",
-      "thought": "『未来への輝かしい道』"
+      "appearance": "イヴはピンク色の頭部を持ち、細長い体と丸い顔、四角い胴体を持つ。手足は細めで、しっぽが短く尖っている。背中に赤い模様がある。全体的に柔らかな印象を与える。",
+      "reason": "イヴは環境の変化により、柔らかな特徴を強調し、可愛らしさを増す進化を遂げた。",
+      "thought": "『愛と平和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='80' width='160' height='240' fill='#4682B4'/><ellipse cx='200' cy='200' rx='80' ry='100' fill='#87CEEB'/><path d='M200 150 Q160 180 200 210 Q240 180 200 150 Z' fill='#4682B4'/><path d='M180 220 L200 280 L220 220 Z' fill='#4682B4'/><circle cx='170' cy='190' r='10' fill='#000'/><circle cx='230' cy='190' r='10' fill='#000'/><line x1='190' y1='230' x2='210' y2='230' stroke='#000' stroke-width='2'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><polygon points='200,50 250,150 150,150' fill='#87ceeb'/><path d='M150,150 Q200,50 250,150' fill='none' stroke='#4169e1' stroke-width='3'/><rect x='175' y='150' width='50' height='50' fill='#87ceeb'/><ellipse cx='200' cy='200' rx='50' ry='70' fill='#87ceeb'/><circle cx='180' cy='180' r='5' fill='black'/><circle cx='220' cy='180' r='5' fill='black'/><path d='M190,210 Q200,230 210,210' fill='none' stroke='black' stroke-width='2'/><line x1='190' y1='250' x2='180' y2='300' stroke='black' stroke-width='3'/><line x1='210' y1='250' x2='220' y2='300' stroke='black' stroke-width='3'/><polygon points='170,250 190,240 170,230' fill='#4169e1'/><polygon points='230,250 210,240 230,230' fill='#4169e1'/><circle cx='200' cy='270' r='5' fill='black'/><text x='200' y='350' text-anchor='middle' font-family='Arial' font-size='20' fill='black'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは、青色の体色を持ち、頭部に水色の模様があります。体は楕円形で、角のような突起物が頭部に生えています。",
-      "reason": "環境の変化により、アダムは新たな生態系に順応するため、青色の体色と水色の模様を持つ進化を遂げました。",
-      "thought": "『新たな挑戦を受け入れる』"
+      "appearance": "アダムは青色の頭部を持ち、細長い体と丸い顔、四角い胴体を持つ。手足は細めで、しっぽが短く尖っている。背中に青い模様がある。全体的に力強い印象を与える。",
+      "reason": "アダムは適応力を高め、強靭な特徴を持つことで生存競争に勝利するための進化を遂げた。",
+      "thought": "『力と勇気』"
     },
     "name": "アダム",
     "gender": "男性"

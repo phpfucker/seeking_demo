@@ -31607,5 +31607,28 @@
       "gender": "男性"
     },
     "timestamp": 1776711581166
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='80' width='160' height='240' fill='#FFD700'/><ellipse cx='200' cy='200' rx='80' ry='100' fill='#FFEC8B'/><path d='M200 150 L160 220 L240 220 Z' fill='#FFD700'/><path d='M200 220 Q160 280 200 280 Q240 280 200 220 Z' fill='#FFD700'/><circle cx='160' cy='180' r='10' fill='#000'/><circle cx='240' cy='180' r='10' fill='#000'/><polygon points='195,210 205,210 200,220' fill='#000'/></svg>",
+      "report": {
+        "appearance": "イヴは、金色の体色を持ち、黄色い眼と頭部に角があります。体は大きな楕円形で、手足は四角形で表現されています。",
+        "reason": "生態系の変化により、イヴは新たな環境に適応するため、金色の体色と角を持つ進化を遂げました。",
+        "thought": "『未来への輝かしい道』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='80' width='160' height='240' fill='#4682B4'/><ellipse cx='200' cy='200' rx='80' ry='100' fill='#87CEEB'/><path d='M200 150 Q160 180 200 210 Q240 180 200 150 Z' fill='#4682B4'/><path d='M180 220 L200 280 L220 220 Z' fill='#4682B4'/><circle cx='170' cy='190' r='10' fill='#000'/><circle cx='230' cy='190' r='10' fill='#000'/><line x1='190' y1='230' x2='210' y2='230' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体色を持ち、頭部に水色の模様があります。体は楕円形で、角のような突起物が頭部に生えています。",
+        "reason": "環境の変化により、アダムは新たな生態系に順応するため、青色の体色と水色の模様を持つ進化を遂げました。",
+        "thought": "『新たな挑戦を受け入れる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1776737501945
   }
 ]
