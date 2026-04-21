@@ -31653,5 +31653,28 @@
       "gender": "男性"
     },
     "timestamp": 1776757426044
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='120' rx='100' ry='70' fill='#ff99cc' /><rect x='165' y='180' width='70' height='30' fill='#ff6699' /><path d='M200 180 L190 210 L210 210 Z' fill='#ff3399' /><polygon points='180,180 200,140 220,180' fill='#ff0066' /><line x1='185' y1='120' x2='215' y2='120' stroke='#e6005c' stroke-width='3' /><line x1='185' y1='120' x2='195' y2='100' stroke='#e6005c' stroke-width='3' /><line x1='215' y1='120' x2='205' y2='100' stroke='#e6005c' stroke-width='3' /><path d='M190 210 Q200 230 210 210' fill='none' stroke='#e6005c' stroke-width='3' /><path d='M180 220 Q200 250 220 220' fill='none' stroke='#e6005c' stroke-width='3' /><line x1='175' y1='160' x2='150' y2='220' stroke='#e6005c' stroke-width='3' /><line x1='225' y1='160' x2='250' y2='220' stroke='#e6005c' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかい皮膚を持ち、大きな丸い目と小さな口を持つ女性の姿をしています。頭部には赤い角、胸に赤い胸部を持ち、ピンクの体には赤い模様が縦に走っています。四肢は短く丸みを帯び、手足の先には小さな爪があります。",
+        "reason": "イヴは、自然界の摂理によって進化し、より美しく、強靭な姿に進化しました。",
+        "thought": "『愛と善意』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='120' fill='#87cefa' /><ellipse cx='200' cy='100' rx='70' ry='45' fill='#4682b4' /><circle cx='175' cy='160' r='10' fill='#b0e0e6' /><circle cx='225' cy='160' r='10' fill='#b0e0e6' /><path d='M175 270 Q200 310 225 270' fill='none' stroke='#4682b4' stroke-width='5' /><line x1='175' y1='150' x2='125' y2='200' stroke='#4682b4' stroke-width='5' /><line x1='225' y1='150' x2='275' y2='200' stroke='#4682b4' stroke-width='5' /><line x1='175' y1='150' x2='200' y2='120' stroke='#4682b4' stroke-width='5' /><line x1='225' y1='150' x2='200' y2='120' stroke='#4682b4' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い体に白い腹部を持ち、大きな水色の背びれや尾びれが特徴的な男性の姿をしています。頭部は楕円形であり、顔には二つの小さな目と大きな口があります。背中には水色の模様が入り、四肢は太く頑丈です。",
+        "reason": "アダムは、環境の変化に適応するため、水中での生存に適した体力を持つように進化しました。",
+        "thought": "『勇気と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1776777456313
   }
 ]
