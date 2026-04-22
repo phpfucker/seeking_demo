@@ -31699,5 +31699,28 @@
       "gender": "男性"
     },
     "timestamp": 1776798379632
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='100' width='160' height='200' fill='#ffcccb'/><circle cx='200' cy='80' r='60' fill='#ffd700'/><ellipse cx='160' cy='250' rx='40' ry='20' fill='#ff69b4'/><ellipse cx='240' cy='250' rx='40' ry='20' fill='#ff69b4'/><path d='M190 150 Q200 100 210 150 Q200 125 190 150 Z' fill='#ffd700'/><rect x='170' y='130' width='60' height='10' fill='#000'/><rect x='190' y='180' width='20' height='20' fill='#000'/><polygon points='180,100 190,90 200,100' fill='#000'/><polygon points='220,100 230,90 240,100' fill='#000'/><line x1='180' y1='260' x2='220' y2='260' stroke='#000' stroke-width='4'/><text x='200' y='310' font-family='Arial' font-size='18' fill='#000' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、金色の円形の頭部を持ち、ピンク色の体に赤いハートの模様がある女性型生命体です。体の中央には両方向に長い楕円形の手足があり、愛らしい雰囲気を醸し出しています。",
+        "reason": "イヴは、愛と温かさを象徴する色合いと模様を持つ進化を遂げました。新たな特徴が加わることで、他者とのつながりや思いやりをより深めることができるようになりました。",
+        "thought": "『優しさと愛をもっと広めたい』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='100' width='160' height='200' fill='#87ceeb'/><circle cx='200' cy='80' r='60' fill='#ffd700'/><ellipse cx='160' cy='250' rx='40' ry='20' fill='#008000'/><ellipse cx='240' cy='250' rx='40' ry='20' fill='#008000'/><path d='M190 150 Q200 100 210 150 Q200 125 190 150 Z' fill='#ffd700'/><rect x='170' y='130' width='60' height='10' fill='#000'/><rect x='190' y='180' width='20' height='20' fill='#000'/><polygon points='180,100 190,90 200,100' fill='#000'/><polygon points='220,100 230,90 240,100' fill='#000'/><line x1='180' y1='260' x2='220' y2='260' stroke='#000' stroke-width='4'/><text x='200' y='310' font-family='Arial' font-size='18' fill='#000' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、金色の円形の頭部を持ち、青色の体に緑の葉の模様がある男性型生命体です。体の中央には両方向に長い楕円形の手足があり、自然との調和を感じさせる姿となっています。",
+        "reason": "アダムは、自然との共生と成長を象徴する色調と模様を持つ進化を遂げました。新たな特徴が加わることで、環境への配慮や調和を大切にする心がより深まりました。",
+        "thought": "『自然と共に生きる喜びを感じる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1776823798294
   }
 ]
