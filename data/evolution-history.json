@@ -31791,5 +31791,28 @@
       "gender": "男性"
     },
     "timestamp": 1776884874030
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccd6' /><ellipse cx='155' cy='180' rx='25' ry='40' fill='#ffb3c8' /><ellipse cx='245' cy='180' rx='25' ry='40' fill='#ffb3c8' /><path d='M200 230 Q170 250 200 270 Q230 250 200 230' fill='none' stroke='#ff1f5a' stroke-width='3' /><circle cx='180' cy='170' r='10' fill='#ffffff' /><circle cx='220' cy='170' r='10' fill='#ffffff' /><circle cx='180' cy='170' r='4' fill='#000000' /><circle cx='220' cy='170' r='4' fill='#000000' /><path d='M160 250 Q125 230 155 200 Q185 230 160 250' fill='none' stroke='#000000' stroke-width='2' /><path d='M240 250 Q275 230 245 200 Q215 230 240 250' fill='none' stroke='#000000' stroke-width='2' /><polygon points='190,210 210,210 200,220' fill='#ff1f5a' /><polygon points='170,220 180,215 190,210 210,210 220,215 230,220' fill='#ff1f5a' /><polygon points='210,220 220,215 230,220' fill='#ff1f5a' /><polygon points='160,300 240,300 200,360' fill='#ffb3c8' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、優雅な曲線の体を持つ女性型生命体です。頭部にはふたつのピンクの耳と、煌めく白い瞳があります。胸元には薄紅色の装飾が施され、美しい尾と透明な翼が生えています。",
+        "reason": "イヴは新たな環境への順応を支援し、生態系のバランスを保つために、進化して美しい色彩と柔らかな特徴を身につけました。",
+        "thought": "『優しさと調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='100' width='160' height='200' fill='#aec7e8' /><path d='M200 165 Q170 150 200 135 Q230 150 200 165' fill='#aec7e8' /><ellipse cx='200' cy='200' rx='30' ry='40' fill='#91afd4' /><circle cx='180' cy='200' r='7' fill='#000000' /><circle cx='220' cy='200' r='7' fill='#000000' /><polygon points='180,220 190,210 210,210 220,220 210,230 190,230' fill='#91afd4' /><polygon points='160,300 240,300 200,360' fill='#91afd4' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い体色に包まれた男性型生命体で、力強い外観を持っています。頭部には丸い青い目と、立派な青い角がついております。胴体は幅広く、胸元には濃い青の模様が施され、立ち姿勢でしっかりとした手足があります。",
+        "reason": "アダムはより厳しい環境下での生存を可能にするため、進化して強靭な体躯と青色の体色を手に入れました。",
+        "thought": "『力強さと逞しさ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1776910433727
   }
 ]
