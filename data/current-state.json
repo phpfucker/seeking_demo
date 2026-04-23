@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightpink'/><ellipse cx='200' cy='150' rx='100' ry='120' fill='pink'/><polygon points='200,150 220,180 180,180' fill='pink'/><rect x='180' y='180' width='40' height='90' fill='pink'/><path d='M160,250 Q200,280 240,250 L220,320 Q200,330 180,320 Z' fill='pink'/><circle cx='190' cy='140' r='10' fill='black'/><circle cx='210' cy='140' r='10' fill='black'/><line x1='180' y1='160' x2='170' y2='150' stroke='black' stroke-width='2'/><line x1='220' y1='160' x2='230' y2='150' stroke='black' stroke-width='2'/><line x1='180' y1='220' x2='170' y2='230' stroke='black' stroke-width='2'/><line x1='220' y1='220' x2='230' y2='230' stroke='black' stroke-width='2'/><circle cx='200' cy='180' r='5' fill='white'/><path d='M190,180 Q200,170 210,180' fill='none' stroke='black' stroke-width='2'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#ffccbc' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#e57373' /><ellipse cx='130' cy='150' rx='25' ry='40' fill='#ffffff' /><ellipse cx='270' cy='150' rx='25' ry='40' fill='#ffffff' /><path d='M150,250 Q200,320 250,250' fill='none' stroke='#c62828' stroke-width='10' /><path d='M150,250 Q200,220 250,250' fill='none' stroke='#d32f2f' stroke-width='10' /><line x1='150' y1='250' x2='130' y2='270' stroke='#c62828' stroke-width='8' /><line x1='250' y1='250' x2='270' y2='270' stroke='#c62828' stroke-width='8' /><rect x='180' y='150' width='40' height='25' fill='#e53935' /><polygon points='170,170 210,170 190,190' fill='#d32f2f' /><polygon points='190,170 230,170 210,190' fill='#d32f2f' /><polygon points='190,190 210,190 200,200' fill='#b71c1c' /></svg>",
     "report": {
-      "appearance": "イヴは、進化により柔らかいピンク色の体になりました。顔には丸い目と小さな口があり、頭部には小さなツノが生えています。四肢は短くて丸みを帯びており、しっぽは尖っています。",
-      "reason": "生命体の環境が穏やかな色合いを好むように変化したため、柔らかいピンク色の体表が進化の一部となりました。",
-      "thought": "『愛と優しさ』"
+      "appearance": "イヴは、淡いオレンジ色の肌を持ち、赤い長い髪の毛と白い目を持つ女性。体の中心に大きな赤い胸の部分があり、頭部には2本の白い角が生えています。背中には赤い模様があり、手には赤い爪が生えています。足は白色で、腕と脚には赤い縞模様が入っています。",
+      "reason": "イヴは新たな環境に適応するため、より鮮やかで華やかな色彩と複雑な模様を身に纏う進化を遂げました。",
+      "thought": "『創造と知恵の力を持つ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightblue'/><polygon points='160,150 200,100 240,150' fill='blue'/><rect x='180' y='150' width='40' height='100' fill='blue'/><path d='M190,250 Q200,280 210,250 L220,320 Q200,330 180,320 Z' fill='blue'/><circle cx='190' cy='140' r='10' fill='black'/><circle cx='210' cy='140' r='10' fill='black'/><line x1='180' y1='160' x2='170' y2='150' stroke='black' stroke-width='2'/><line x1='220' y1='160' x2='230' y2='150' stroke='black' stroke-width='2'/><line x1='180' y1='220' x2='170' y2='230' stroke='black' stroke-width='2'/><line x1='220' y1='220' x2='230' y2='230' stroke='black' stroke-width='2'/><circle cx='200' cy='180' r='5' fill='white'/><path d='M190,180 Q200,170 210,180' fill='none' stroke='black' stroke-width='2'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#90caf9' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#64b5f6' /><ellipse cx='130' cy='150' rx='25' ry='40' fill='#ffffff' /><ellipse cx='270' cy='150' rx='25' ry='40' fill='#ffffff' /><path d='M150,250 Q200,320 250,250' fill='none' stroke='#1565c0' stroke-width='10' /><path d='M150,250 Q200,220 250,250' fill='none' stroke='#1976d2' stroke-width='10' /><line x1='150' y1='250' x2='130' y2='270' stroke='#1565c0' stroke-width='8' /><line x1='250' y1='250' x2='270' y2='270' stroke='#1565c0' stroke-width='8' /><rect x='180' y='150' width='40' height='25' fill='#1e88e5' /><polygon points='170,170 210,170 190,190' fill='#1976d2' /><polygon points='190,170 230,170 210,190' fill='#1976d2' /><polygon points='190,190 210,190 200,200' fill='#0d47a1' /></svg>",
     "report": {
-      "appearance": "アダムは、進化により澄んだ青色の体を持つようになりました。顔には大きな目と口があり、頭部には角が生えています。四肢は力強く、しっぽは長くて太めです。",
-      "reason": "生命体がより強靭な体と青色を身につけ、狩りや防衛などの活動に適応するため、アダムはこのような進化を遂げました。",
-      "thought": "『勇敢なる者』"
+      "appearance": "アダムは、淡いブルー色の肌を持ち、青い長い髪の毛と白い目を持つ男性。体の中心に大きな青い胸の部分があり、頭部には2本の白い角が生えています。背中には青い模様があり、手には青い爪が生えています。足は白色で、腕と脚には青い縞模様が入っています。",
+      "reason": "アダムは進化の過程で、より洗練された色彩と幾何学的な模様を身に纏うことで、知覚力や知恵を高めるための進化を果たしました。",
+      "thought": "『知識と力を宿す』"
     },
     "name": "アダム",
     "gender": "男性"

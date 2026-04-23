@@ -31814,5 +31814,28 @@
       "gender": "男性"
     },
     "timestamp": 1776910433727
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightpink'/><ellipse cx='200' cy='150' rx='100' ry='120' fill='pink'/><polygon points='200,150 220,180 180,180' fill='pink'/><rect x='180' y='180' width='40' height='90' fill='pink'/><path d='M160,250 Q200,280 240,250 L220,320 Q200,330 180,320 Z' fill='pink'/><circle cx='190' cy='140' r='10' fill='black'/><circle cx='210' cy='140' r='10' fill='black'/><line x1='180' y1='160' x2='170' y2='150' stroke='black' stroke-width='2'/><line x1='220' y1='160' x2='230' y2='150' stroke='black' stroke-width='2'/><line x1='180' y1='220' x2='170' y2='230' stroke='black' stroke-width='2'/><line x1='220' y1='220' x2='230' y2='230' stroke='black' stroke-width='2'/><circle cx='200' cy='180' r='5' fill='white'/><path d='M190,180 Q200,170 210,180' fill='none' stroke='black' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、進化により柔らかいピンク色の体になりました。顔には丸い目と小さな口があり、頭部には小さなツノが生えています。四肢は短くて丸みを帯びており、しっぽは尖っています。",
+        "reason": "生命体の環境が穏やかな色合いを好むように変化したため、柔らかいピンク色の体表が進化の一部となりました。",
+        "thought": "『愛と優しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightblue'/><polygon points='160,150 200,100 240,150' fill='blue'/><rect x='180' y='150' width='40' height='100' fill='blue'/><path d='M190,250 Q200,280 210,250 L220,320 Q200,330 180,320 Z' fill='blue'/><circle cx='190' cy='140' r='10' fill='black'/><circle cx='210' cy='140' r='10' fill='black'/><line x1='180' y1='160' x2='170' y2='150' stroke='black' stroke-width='2'/><line x1='220' y1='160' x2='230' y2='150' stroke='black' stroke-width='2'/><line x1='180' y1='220' x2='170' y2='230' stroke='black' stroke-width='2'/><line x1='220' y1='220' x2='230' y2='230' stroke='black' stroke-width='2'/><circle cx='200' cy='180' r='5' fill='white'/><path d='M190,180 Q200,170 210,180' fill='none' stroke='black' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、進化により澄んだ青色の体を持つようになりました。顔には大きな目と口があり、頭部には角が生えています。四肢は力強く、しっぽは長くて太めです。",
+        "reason": "生命体がより強靭な体と青色を身につけ、狩りや防衛などの活動に適応するため、アダムはこのような進化を遂げました。",
+        "thought": "『勇敢なる者』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1776930342881
   }
 ]
