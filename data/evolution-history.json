@@ -31860,5 +31860,28 @@
       "gender": "男性"
     },
     "timestamp": 1776950391433
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='150' rx='100' ry='130' fill='#ffd700'/><rect x='160' y='170' width='80' height='70' fill='#ff69b4'/><path d='M200 220 L190 230 L210 230 Z' fill='#ffcccb'/><path d='M175 180 Q200 160 225 180' fill='none' stroke='#000' stroke-width='2'/><polygon points='195,140 180,150 195,160' fill='#000'/><polygon points='205,140 220,150 205,160' fill='#000'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体と金色の髪を持つ女性で、体には赤色の装飾が施されています。上半身が楕円形で、下半身には紫の短パンが描かれています。",
+        "reason": "進化の過程で、イヴはより美しい外観と知性を備えた生命体へと変化しました。",
+        "thought": "『輝く未来へ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='200' fill='#4682b4'/><ellipse cx='200' cy='150' rx='70' ry='100' fill='#2e8b57'/><path d='M190 250 L200 230 L210 250 Z' fill='#4682b4'/><path d='M175 190 Q200 170 225 190' fill='none' stroke='#000' stroke-width='2'/><polygon points='195,140 180,150 195,160' fill='#000'/><polygon points='205,140 220,150 205,160' fill='#000'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体を持つ男性で、体の中央には緑色の細長い装飾があります。頭部が楕円形で、胴体は四角形の形状をしています。",
+        "reason": "アダムはより力強く、逞しい外見を持つように進化しました。",
+        "thought": "『未来への挑戦』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1776970962593
   }
 ]
