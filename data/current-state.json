@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><rect x='150' y='150' width='100' height='100' fill='url(#gradA)' /><ellipse cx='200' cy='100' rx='50' ry='30' fill='rgb(255,192,203)' /><circle cx='180' cy='80' r='5' fill='rgb(255,105,180)' /><circle cx='220' cy='80' r='5' fill='rgb(255,105,180)' /><path d='M180 120 Q200 150 220 120' fill='none' stroke='rgb(255,105,180)' stroke-width='2' /><polygon points='190,150 210,150 200,160' fill='rgb(255,105,180)' /><line x1='190' y1='150' x2='210' y2='150' stroke='rgb(255,105,180)' stroke-width='2' /><path d='M160 140 Q180 110 200 140 Q220 110 240 140' fill='none' stroke='rgb(255,105,180)' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "イヴは、繊細な曲線と優雅な色合いを持つ美しい女性。彼女の頭には透明な角があり、体には青いグラデーション模様が踊っている。長いしっぽと流れるような手足が妖精のような姿を作り出している。",
-      "reason": "自然界のエレガンスと神秘性を融合させることで、イヴの美しさと進化を表現した。",
-      "thought": "『命の輝き』"
+      "appearance": "イヴは、ピンクとオレンジのグラデーションが美しい女性の姿をしています。頭部には楕円形の髪の毛があり、目立つ角やしっぽも特徴的です。",
+      "reason": "環境の変化により、イヴはより色鮮やかで豊かなパターンを持つ姿に進化しました。",
+      "thought": "『変化と美しさの中に、強さも感じる』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(173,216,230);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><rect x='150' y='150' width='100' height='100' fill='url(#gradB)' /><ellipse cx='200' cy='100' rx='50' ry='30' fill='rgb(65,105,225)' /><circle cx='180' cy='80' r='5' fill='rgb(173,216,230)' /><circle cx='220' cy='80' r='5' fill='rgb(173,216,230)' /><path d='M180 120 Q200 150 220 120' fill='none' stroke='rgb(65,105,225)' stroke-width='2' /><polygon points='190,150 210,150 200,160' fill='rgb(65,105,225)' /><line x1='190' y1='150' x2='210' y2='150' stroke='rgb(65,105,225)' stroke-width='2' /><path d='M160 140 Q180 110 200 140 Q220 110 240 140' fill='none' stroke='rgb(65,105,225)' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "アダムは、力強い体つきと鮮やかな色彩が特徴の男性。彼の体には赤と黄色のグラデーション模様が施され、頭には角が生えている。四肢は筋肉質であり、しっかりとした足が地面を踏みしめている。",
-      "reason": "力強さと活力を象徴するため、アダムの進化は筋肉質でカラフルなパターンを取り入れた。",
-      "thought": "『情熱の炎』"
+      "appearance": "アダムは、青と水色のグラデーションが美しい男性の姿をしています。頭部には楕円形の髪の毛があり、目立つ角やしっぽも特徴的です。",
+      "reason": "環境の変化により、アダムはより深い色彩と透明感のある外観に進化しました。",
+      "thought": "『強靭な力強さを内に秘める』"
     },
     "name": "アダム",
     "gender": "男性"
