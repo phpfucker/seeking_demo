@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(255,200,200);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,0,0);stop-opacity:1' /></linearGradient></defs><rect x='150' y='180' width='100' height='140' fill='url(#gradA)' /><ellipse cx='200' cy='150' rx='60' ry='80' fill='url(#gradA)' /><path d='M185 250 Q200 280 215 250' fill='none' stroke='black' stroke-width='2' /><path d='M165 190 Q200 130 235 190' fill='none' stroke='black' stroke-width='2' /><circle cx='180' cy='150' r='5' fill='black' /><circle cx='220' cy='150' r='5' fill='black' /><polygon points='160,190 200,150 240,190' fill='url(#gradA)' /><polygon points='180,220 200,180 220,220' fill='url(#gradA)' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightpink'/><ellipse cx='200' cy='150' rx='80' ry='120' fill='pink'/><polygon points='120,200 200,300 280,200' fill='pink'/><rect x='170' y='200' width='60' height='100' fill='pink'/><path d='M200,250 Q220,280 200,300 Q180,280 200,250' fill='pink'/><circle cx='170' cy='180' r='10' fill='black'/><circle cx='230' cy='180' r='10' fill='black'/><path d='M160,150 Q200,100 240,150' fill='none' stroke='black'/><path d='M200,180 Q190,160 180,180 Q190,200 200,180' fill='none' stroke='black'/><line x1='220' y1='200' x2='240' y2='220' stroke='black' stroke-width='2'/><line x1='180' y1='200' x2='160' y2='220' stroke='black' stroke-width='2'/><text x='140' y='30' font-family='Arial' font-size='16' fill='black'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴは、ピンクと赤のグラデーションがかった美しい体を持ち、優雅な姿勢で立っています。頭部は楕円形で、顔には優しい表情が描かれ、髪のような模様が揺れています。手足はしなやかで、体に調和した色合いの模様で覆われています。",
-      "reason": "遺伝子の進化により、イヴはより優美で美しい特性を獲得しました。これは環境への順応と、種の存続のための魅力の向上を目指した結果です。",
-      "thought": "『調和と美しさの具現』"
+      "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、頭部には丸い顔と二つの大きな角があります。体は楕円形で、中央に短い四肢と長い尻尾がついています。手足は丸く、指先に小さな爪があります。",
+      "reason": "イヴは自然と調和した環境に住む生命体であり、柔らかな色合いと優しい特徴が進化の結果として表れました。",
+      "thought": "『愛と平和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(200,200,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,0,255);stop-opacity:1' /></linearGradient></defs><rect x='150' y='180' width='100' height='140' fill='url(#gradB)' /><ellipse cx='200' cy='150' rx='60' ry='80' fill='url(#gradB)' /><path d='M185 250 Q200 280 215 250' fill='none' stroke='black' stroke-width='2' /><path d='M165 190 Q200 130 235 190' fill='none' stroke='black' stroke-width='2' /><circle cx='180' cy='150' r='5' fill='black' /><circle cx='220' cy='150' r='5' fill='black' /><polygon points='160,190 200,150 240,190' fill='url(#gradB)' /><polygon points='180,220 200,180 220,220' fill='url(#gradB)' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightblue'/><ellipse cx='200' cy='150' rx='80' ry='120' fill='skyblue'/><polygon points='120,200 200,300 280,200' fill='skyblue'/><rect x='170' y='200' width='60' height='100' fill='skyblue'/><path d='M200,250 Q220,280 200,300 Q180,280 200,250' fill='skyblue'/><circle cx='170' cy='180' r='10' fill='black'/><circle cx='230' cy='180' r='10' fill='black'/><path d='M160,150 Q200,100 240,150' fill='none' stroke='black'/><path d='M200,180 Q190,160 180,180 Q190,200 200,180' fill='none' stroke='black'/><line x1='220' y1='200' x2='240' y2='220' stroke='black' stroke-width='2'/><line x1='180' y1='200' x2='160' y2='220' stroke='black' stroke-width='2'/><text x='140' y='30' font-family='Arial' font-size='16' fill='black'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは、青と紫のグラデーションが美しい体を持ち、堂々とした姿勢で立っています。頭部は楕円形で、知的な表情が描かれ、神秘的な模様が浮かんでいます。手足は力強く、体に調和した色調の模様が彩っています。",
-      "reason": "進化のプロセスにより、アダムはより知性を備え、美しさと力強さを増しました。これは知的生存競争と環境適応の両面から生まれた進化です。",
-      "thought": "『知性と力強さの融合』"
+      "appearance": "アダムは、青色の滑らかな皮膚を持ち、頭部には丸い顔と二つの大きな角があります。体は楕円形で、中央に短い四肢と長い尻尾がついています。手足は丸く、指先に小さな爪があります。",
+      "reason": "アダムは大自然の中で生息する生命体であり、青色の優しい外見と力強い特徴が進化の結果として表れました。",
+      "thought": "『調和と力』"
     },
     "name": "アダム",
     "gender": "男性"

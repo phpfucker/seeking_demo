@@ -31952,5 +31952,28 @@
       "gender": "男性"
     },
     "timestamp": 1777036552314
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(255,200,200);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,0,0);stop-opacity:1' /></linearGradient></defs><rect x='150' y='180' width='100' height='140' fill='url(#gradA)' /><ellipse cx='200' cy='150' rx='60' ry='80' fill='url(#gradA)' /><path d='M185 250 Q200 280 215 250' fill='none' stroke='black' stroke-width='2' /><path d='M165 190 Q200 130 235 190' fill='none' stroke='black' stroke-width='2' /><circle cx='180' cy='150' r='5' fill='black' /><circle cx='220' cy='150' r='5' fill='black' /><polygon points='160,190 200,150 240,190' fill='url(#gradA)' /><polygon points='180,220 200,180 220,220' fill='url(#gradA)' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと赤のグラデーションがかった美しい体を持ち、優雅な姿勢で立っています。頭部は楕円形で、顔には優しい表情が描かれ、髪のような模様が揺れています。手足はしなやかで、体に調和した色合いの模様で覆われています。",
+        "reason": "遺伝子の進化により、イヴはより優美で美しい特性を獲得しました。これは環境への順応と、種の存続のための魅力の向上を目指した結果です。",
+        "thought": "『調和と美しさの具現』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(200,200,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,0,255);stop-opacity:1' /></linearGradient></defs><rect x='150' y='180' width='100' height='140' fill='url(#gradB)' /><ellipse cx='200' cy='150' rx='60' ry='80' fill='url(#gradB)' /><path d='M185 250 Q200 280 215 250' fill='none' stroke='black' stroke-width='2' /><path d='M165 190 Q200 130 235 190' fill='none' stroke='black' stroke-width='2' /><circle cx='180' cy='150' r='5' fill='black' /><circle cx='220' cy='150' r='5' fill='black' /><polygon points='160,190 200,150 240,190' fill='url(#gradB)' /><polygon points='180,220 200,180 220,220' fill='url(#gradB)' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と紫のグラデーションが美しい体を持ち、堂々とした姿勢で立っています。頭部は楕円形で、知的な表情が描かれ、神秘的な模様が浮かんでいます。手足は力強く、体に調和した色調の模様が彩っています。",
+        "reason": "進化のプロセスにより、アダムはより知性を備え、美しさと力強さを増しました。これは知的生存競争と環境適応の両面から生まれた進化です。",
+        "thought": "『知性と力強さの融合』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1777056190661
   }
 ]
