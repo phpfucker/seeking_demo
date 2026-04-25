@@ -31975,5 +31975,28 @@
       "gender": "男性"
     },
     "timestamp": 1777056190661
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightpink'/><ellipse cx='200' cy='150' rx='80' ry='120' fill='pink'/><polygon points='120,200 200,300 280,200' fill='pink'/><rect x='170' y='200' width='60' height='100' fill='pink'/><path d='M200,250 Q220,280 200,300 Q180,280 200,250' fill='pink'/><circle cx='170' cy='180' r='10' fill='black'/><circle cx='230' cy='180' r='10' fill='black'/><path d='M160,150 Q200,100 240,150' fill='none' stroke='black'/><path d='M200,180 Q190,160 180,180 Q190,200 200,180' fill='none' stroke='black'/><line x1='220' y1='200' x2='240' y2='220' stroke='black' stroke-width='2'/><line x1='180' y1='200' x2='160' y2='220' stroke='black' stroke-width='2'/><text x='140' y='30' font-family='Arial' font-size='16' fill='black'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、頭部には丸い顔と二つの大きな角があります。体は楕円形で、中央に短い四肢と長い尻尾がついています。手足は丸く、指先に小さな爪があります。",
+        "reason": "イヴは自然と調和した環境に住む生命体であり、柔らかな色合いと優しい特徴が進化の結果として表れました。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightblue'/><ellipse cx='200' cy='150' rx='80' ry='120' fill='skyblue'/><polygon points='120,200 200,300 280,200' fill='skyblue'/><rect x='170' y='200' width='60' height='100' fill='skyblue'/><path d='M200,250 Q220,280 200,300 Q180,280 200,250' fill='skyblue'/><circle cx='170' cy='180' r='10' fill='black'/><circle cx='230' cy='180' r='10' fill='black'/><path d='M160,150 Q200,100 240,150' fill='none' stroke='black'/><path d='M200,180 Q190,160 180,180 Q190,200 200,180' fill='none' stroke='black'/><line x1='220' y1='200' x2='240' y2='220' stroke='black' stroke-width='2'/><line x1='180' y1='200' x2='160' y2='220' stroke='black' stroke-width='2'/><text x='140' y='30' font-family='Arial' font-size='16' fill='black'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青色の滑らかな皮膚を持ち、頭部には丸い顔と二つの大きな角があります。体は楕円形で、中央に短い四肢と長い尻尾がついています。手足は丸く、指先に小さな爪があります。",
+        "reason": "アダムは大自然の中で生息する生命体であり、青色の優しい外見と力強い特徴が進化の結果として表れました。",
+        "thought": "『調和と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1777082675480
   }
 ]
