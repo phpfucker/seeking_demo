@@ -32067,5 +32067,28 @@
       "gender": "男性"
     },
     "timestamp": 1777142629657
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#ffccff' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#ffd700' /><polygon points='200,70 240,120 160,120' fill='#ff99cc' /><path d='M200,150 L220,180 L180,180 Z' fill='#ff99cc' /><ellipse cx='160' cy='240' rx='40' ry='20' fill='#ffb6c1' /><ellipse cx='240' cy='240' rx='40' ry='20' fill='#ffb6c1' /><path d='M180,240 Q200,260 220,240 Q200,260 180,240 Z' fill='white' /><path d='M180,240 Q200,220 220,240 Q200,220 180,240 Z' fill='white' /><path d='M180,240 Q200,250 220,240 Q200,250 180,240 Z' fill='#ffb6c1' /><path d='M180,240 Q200,235 220,240 Q200,235 180,240 Z' fill='#ffb6c1' /></svg>",
+      "report": {
+        "appearance": "イヴは大きな黄色い楕円形の目を持ち、ピンクの体と白い模様が特徴的な女性型生命体です。胴体にはピンクと白の模様が入り、手足はピンク色です。",
+        "reason": "環境の変化により、より明るく美しい姿を持つことで、仲間や環境との調和を図りやすくなったため。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#87ceeb' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#32cd32' /><polygon points='200,70 240,120 160,120' fill='#c0c0c0' /><path d='M200,150 L220,180 L180,180 Z' fill='#c0c0c0' /><ellipse cx='160' cy='240' rx='40' ry='20' fill='#a0522d' /><ellipse cx='240' cy='240' rx='40' ry='20' fill='#a0522d' /><path d='M180,240 Q200,260 220,240 Q200,260 180,240 Z' fill='white' /><path d='M180,240 Q200,220 220,240 Q200,220 180,240 Z' fill='white' /><path d='M180,240 Q200,250 220,240 Q200,250 180,240 Z' fill='#a0522d' /><path d='M180,240 Q200,235 220,240 Q200,235 180,240 Z' fill='#a0522d' /></svg>",
+      "report": {
+        "appearance": "アダムは大きな緑色の楕円形の目を持ち、青と茶色の体と黒い模様が特徴的な男性型生命体です。胴体には青と黒の模様が入り、手足は茶色です。",
+        "reason": "繁殖競争に勝利するため、より強靭で目立つ姿に進化したため。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1777170420587
   }
 ]
