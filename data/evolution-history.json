@@ -32136,5 +32136,28 @@
       "gender": "男性"
     },
     "timestamp": 1777208337731
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ffcc99'/><ellipse cx='200' cy='150' rx='100' ry='150' fill='#ffc0cb'/><circle cx='170' cy='120' r='10' fill='#333'/><circle cx='230' cy='120' r='10' fill='#333'/><polygon points='200,180 190,200 210,200' fill='#fff'/><path d='M175,250 Q200,280 225,250' fill='none' stroke='#333' stroke-width='2'/><path d='M190,260 Q200,270 210,260' fill='none' stroke='#333' stroke-width='2'/><line x1='180' y1='300' x2='220' y2='300' stroke='#333' stroke-width='2'/><line x1='180' y1='330' x2='200' y2='310' stroke='#333' stroke-width='2'/><line x1='220' y1='330' x2='200' y2='310' stroke='#333' stroke-width='2'/><line x1='170' y1='320' x2='230' y2='320' stroke='#333' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持つ女性型生命体です。優美な体型と大きな目が特徴で、頭部に煌めく小さな角が生えています。四肢は細長く、しっかりとした足で地に足をつけています。",
+        "reason": "イヴは新たな進化を遂げ、より優雅で美しい姿に変化しました。環境の変化に適応するため、柔らかな色合いと優れた動きを持つ特性が強調されました。",
+        "thought": "『優美な美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#87ceeb'/><ellipse cx='200' cy='150' rx='100' ry='150' fill='#f0e68c'/><circle cx='170' cy='120' r='10' fill='#333'/><circle cx='230' cy='120' r='10' fill='#333'/><polygon points='200,180 190,200 210,200' fill='#fff'/><path d='M175,250 Q200,280 225,250' fill='none' stroke='#333' stroke-width='2'/><path d='M190,260 Q200,270 210,260' fill='none' stroke='#333' stroke-width='2'/><line x1='180' y1='300' x2='220' y2='300' stroke='#333' stroke-width='2'/><line x1='180' y1='330' x2='200' y2='310' stroke='#333' stroke-width='2'/><line x1='220' y1='330' x2='200' y2='310' stroke='#333' stroke-width='2'/><line x1='170' y1='320' x2='230' y2='320' stroke='#333' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体躯と黄色い腹部を持つ男性型生命体です。がっしりとした体つきで、角の生えた頭部と大きな目が特徴です。四肢は力強く、地にしっかりと根を張っています。",
+        "reason": "アダムは力強く進化し、より頑丈で安定した姿に変化しました。環境での生存競争において、強靭な体と力強い特性が生まれたことが進化の理由です。",
+        "thought": "『強靭な頼もしさ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1777229213527
   }
 ]
