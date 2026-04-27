@@ -32228,5 +32228,28 @@
       "gender": "男性"
     },
     "timestamp": 1777297469298
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb' /><ellipse cx='200' cy='250' rx='90' ry='125' fill='#ffdab9' /><ellipse cx='160' cy='210' rx='20' ry='30' fill='#fae0c5' /><ellipse cx='240' cy='210' rx='20' ry='30' fill='#fae0c5' /><path d='M170 280 Q200 320 230 280' fill='none' stroke='#000' stroke-width='2' /><path d='M170 280 Q200 320 230 280' fill='none' stroke='#000' stroke-width='1' /><rect x='150' y='180' width='100' height='10' fill='#ff6961' /><rect x='140' y='240' width='120' height='10' fill='#ff6961' /><polygon points='180,200 200,180 220,200' fill='#fff' /><polygon points='185,195 200,185 215,195' fill='#000' /><ellipse cx='180' cy='210' rx='5' ry='8' fill='#000' /><ellipse cx='220' cy='210' rx='5' ry='8' fill='#000' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、やや複雑なデザインの頭部と大きな目を持つ女性の姿をしています。体の中央には赤い装飾が施され、優雅な雰囲気が漂います。",
+        "reason": "イヴは新たな進化を遂げ、より美しく魅力的な外見を手に入れました。この進化は種の繁栄と環境適応の一環として起こりました。",
+        "thought": "『美しさは内面から』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#add8e6' /><ellipse cx='200' cy='250' rx='90' ry='125' fill='#b0e0e6' /><ellipse cx='160' cy='210' rx='20' ry='30' fill='#afeeee' /><ellipse cx='240' cy='210' rx='20' ry='30' fill='#afeeee' /><path d='M170 280 Q200 320 230 280' fill='none' stroke='#000' stroke-width='2' /><path d='M170 280 Q200 320 230 280' fill='none' stroke='#000' stroke-width='1' /><rect x='150' y='180' width='100' height='10' fill='#4169e1' /><rect x='140' y='240' width='120' height='10' fill='#4169e1' /><polygon points='180,200 200,180 220,200' fill='#fff' /><polygon points='185,195 200,185 215,195' fill='#000' /><ellipse cx='180' cy='210' rx='5' ry='8' fill='#000' /><ellipse cx='220' cy='210' rx='5' ry='8' fill='#000' /></svg>",
+      "report": {
+        "appearance": "アダムは、淡い青色の肌を持ち、よりスリムで爽やかな印象の男性の姿をしています。頭部には複雑な模様があり、全体的にクールな雰囲気を醸し出しています。",
+        "reason": "アダムは進化により、より洗練された外観を手に入れました。この進化は生存競争や適応能力の向上のために生じたものです。",
+        "thought": "『進化は求められる適応』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1777317232994
   }
 ]
