@@ -32182,5 +32182,28 @@
       "gender": "男性"
     },
     "timestamp": 1777256942470
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"200\" cy=\"200\" r=\"160\" fill=\"pink\"/><ellipse cx=\"200\" cy=\"160\" rx=\"100\" ry=\"140\" fill=\"lightpink\"/><rect x=\"160\" y=\"220\" width=\"80\" height=\"100\" fill=\"pink\"/><rect x=\"160\" y=\"320\" width=\"20\" height=\"60\" fill=\"pink\"/><rect x=\"220\" y=\"320\" width=\"20\" height=\"60\" fill=\"pink\"/><path d=\"M200 160 L220 180 L180 180 Z\" fill=\"pink\"/><path d=\"M220 160 Q230 140 240 160\" fill=\"pink\"/><polygon points=\"190,170 210,170 200,180\" fill=\"pink\"/><line x1=\"180\" y1=\"140\" x2=\"170\" y2=\"130\" stroke=\"black\" stroke-width=\"2\"/><line x1=\"220\" y1=\"140\" x2=\"230\" y2=\"130\" stroke=\"black\" stroke-width=\"2\"/></svg>",
+      "report": {
+        "appearance": "「イヴ」は、ピンク色の柔らかな体に、大きな眼と優しい表情を持つ女性型生命体です。頭部から生える角と、背中に描かれた花の模様が特徴です。",
+        "reason": "進化の過程で、イヴは自然と共鳴し、花々と調和する美しい姿に進化しました。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"200\" cy=\"200\" r=\"160\" fill=\"lightblue\"/><ellipse cx=\"200\" cy=\"160\" rx=\"100\" ry=\"140\" fill=\"#add8e6\"/><rect x=\"160\" y=\"220\" width=\"80\" height=\"100\" fill=\"lightblue\"/><rect x=\"160\" y=\"320\" width=\"20\" height=\"60\" fill=\"lightblue\"/><rect x=\"220\" y=\"320\" width=\"20\" height=\"60\" fill=\"lightblue\"/><path d=\"M200 160 L220 180 L180 180 Z\" fill=\"#add8e6\"/><path d=\"M180 160 Q170 140 160 160\" fill=\"#add8e6\"/><polygon points=\"190,170 210,170 200,180\" fill=\"lightblue\"/><line x1=\"180\" y1=\"140\" x2=\"170\" y2=\"130\" stroke=\"black\" stroke-width=\"2\"/><line x1=\"220\" y1=\"140\" x2=\"230\" y2=\"130\" stroke=\"black\" stroke-width=\"2\"/></svg>",
+      "report": {
+        "appearance": "「アダム」は、淡い青色の体に、鋭い目つきと力強い体つきを持つ男性型生命体です。頭部の角と、体中に広がる波の模様が特徴です。",
+        "reason": "アダムは進化の過程で、力強さと優れた洞察力を持ち、自然界の中で生き抜くために進化しました。",
+        "thought": "『未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1777277816411
   }
 ]
