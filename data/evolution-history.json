@@ -32251,5 +32251,28 @@
       "gender": "男性"
     },
     "timestamp": 1777317232994
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ff8ead' /><ellipse cx='200' cy='180' rx='80' ry='100' fill='#ffbdd8' /><circle cx='150' cy='150' r='10' fill='#ffbdd8' /><circle cx='250' cy='150' r='10' fill='#ffbdd8' /><path d='M180 230 Q200 280 220 230' fill='none' stroke='#ffbdd8' stroke-width='2' /><path d='M185 235 Q200 270 215 235' fill='none' stroke='#ffbdd8' stroke-width='2' /><polygon points='180,220 200,210 220,220' fill='#ff8ead' /><polygon points='190,185 195,175 200,185' fill='#fff' /><polygon points='210,185 215,175 220,185' fill='#fff' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと白の柔らかな色合いの体に、大きな赤い目と長い耳を持つ女性の姿をしている。背中には小さな翼があり、優雅な足元には蝶のような模様が施されている。",
+        "reason": "イヴは自然界の美しさと優雅さを体現するため、より華やかな色彩と繊細な特徴を持つよう進化した。",
+        "thought": "『自然の中で輝く、美しさの象徴』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#6ec2ff' /><ellipse cx='200' cy='180' rx='80' ry='100' fill='#9ad5ff' /><circle cx='150' cy='150' r='10' fill='#9ad5ff' /><circle cx='250' cy='150' r='10' fill='#9ad5ff' /><path d='M180 230 Q200 280 220 230' fill='none' stroke='#9ad5ff' stroke-width='2' /><path d='M185 235 Q200 270 215 235' fill='none' stroke='#9ad5ff' stroke-width='2' /><polygon points='180,220 200,210 220,220' fill='#6ec2ff' /><polygon points='190,185 195,175 200,185' fill='#fff' /><polygon points='210,185 215,175 220,185' fill='#fff' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と白の爽やかな色調の体に、大きな青い目と力強い角を持つ男性の姿をしている。背中には鱗状の模様があり、足元は波紋のような模様で装飾されている。",
+        "reason": "アダムは自然界の力強さと美しさを体現するため、より力強い色合いと堂々とした特徴を備えるよう進化した。",
+        "thought": "『大自然の中で誇り高く立つ、力強さの象徴』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1777343791910
   }
 ]
