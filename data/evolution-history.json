@@ -32320,5 +32320,28 @@
       "gender": "男性"
     },
     "timestamp": 1777384574853
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' width='400' height='400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='150' rx='80' ry='40' fill='#ff99cc'/><ellipse cx='150' cy='150' rx='20' ry='40' fill='#ff99cc'/><ellipse cx='250' cy='150' rx='20' ry='40' fill='#ff99cc'/><path d='M180 220 Q200 250 220 220' fill='none' stroke='#663399' stroke-width='3'/><path d='M160 180 Q200 200 240 180' fill='none' stroke='#663399' stroke-width='3'/><path d='M180 260 Q200 280 220 260' fill='none' stroke='#663399' stroke-width='3'/><line x1='160' y1='280' x2='240' y2='280' stroke='#663399' stroke-width='3'/><line x1='160' y1='280' x2='140' y2='320' stroke='#663399' stroke-width='3'/><line x1='240' y1='280' x2='260' y2='320' stroke='#663399' stroke-width='3'/><path d='M150 300 L170 320 L190 300' fill='none' stroke='#663399' stroke-width='3'/><path d='M210 300 L230 320 L250 300' fill='none' stroke='#663399' stroke-width='3'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体に、柔らかな紫色の目を持つ女性である。体の曲線や優雅なラインが特徴で、愛らしい表情をしている。",
+        "reason": "生態系の変化により、イヴの進化は美しさと柔らかさを重視する方向へ進展した。",
+        "thought": "『愛と平和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' width='400' height='400'><rect x='100' y='100' width='200' height='200' fill='#add8e6'/><ellipse cx='200' cy='150' rx='80' ry='40' fill='#4682b4'/><ellipse cx='150' cy='150' rx='20' ry='40' fill='#4682b4'/><ellipse cx='250' cy='150' rx='20' ry='40' fill='#4682b4'/><path d='M180 220 Q200 250 220 220' fill='none' stroke='#8b4513' stroke-width='3'/><path d='M160 180 Q200 200 240 180' fill='none' stroke='#8b4513' stroke-width='3'/><path d='M180 260 Q200 280 220 260' fill='none' stroke='#8b4513' stroke-width='3'/><line x1='160' y1='280' x2='240' y2='280' stroke='#8b4513' stroke-width='3'/><line x1='160' y1='280' x2='140' y2='320' stroke='#8b4513' stroke-width='3'/><line x1='240' y1='280' x2='260' y2='320' stroke='#8b4513' stroke-width='3'/><polygon points='150,300 170,320 190,300' fill='none' stroke='#8b4513' stroke-width='3'/><polygon points='210,300 230,320 250,300' fill='none' stroke='#8b4513' stroke-width='3'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の体に、力強い茶色の目を持つ男性である。体格ががっしりとしており、堅実な表情をしている。",
+        "reason": "環境の厳しさに対応するため、アダムの進化は力強さと堅実さを重視する方向へ進展した。",
+        "thought": "『勇気と誠実さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1777404465517
   }
 ]

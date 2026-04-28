@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' width='400' height='400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='150' rx='80' ry='40' fill='#ff99cc'/><ellipse cx='150' cy='150' rx='20' ry='40' fill='#ff99cc'/><ellipse cx='250' cy='150' rx='20' ry='40' fill='#ff99cc'/><path d='M180 220 Q200 250 220 220' fill='none' stroke='#663399' stroke-width='3'/><path d='M160 180 Q200 200 240 180' fill='none' stroke='#663399' stroke-width='3'/><path d='M180 260 Q200 280 220 260' fill='none' stroke='#663399' stroke-width='3'/><line x1='160' y1='280' x2='240' y2='280' stroke='#663399' stroke-width='3'/><line x1='160' y1='280' x2='140' y2='320' stroke='#663399' stroke-width='3'/><line x1='240' y1='280' x2='260' y2='320' stroke='#663399' stroke-width='3'/><path d='M150 300 L170 320 L190 300' fill='none' stroke='#663399' stroke-width='3'/><path d='M210 300 L230 320 L250 300' fill='none' stroke='#663399' stroke-width='3'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#FFD700'/><ellipse cx='200' cy='150' rx='60' ry='90' fill='#F08080'/><path d='M150,300 L200,250 L250,300 Z' fill='#FF6347'/><rect x='180' y='250' width='40' height='50' fill='#FF6347'/><polygon points='190,220 210,220 200,230' fill='#FFA07A'/><line x1='160' y1='160' x2='140' y2='140' stroke='#FF6347' stroke-width='5'/><line x1='240' y1='160' x2='260' y2='140' stroke='#FF6347' stroke-width='5'/><circle cx='180' cy='140' r='10' fill='#000'/><circle cx='220' cy='140' r='10' fill='#000'/><ellipse cx='200' cy='220' rx='10' ry='5' fill='#000'/><ellipse cx='200' cy='240' rx='10' ry='5' fill='#000'/><text x='120' y='350' font-family='Arial' font-size='20' fill='#000'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴはピンク色の体に、柔らかな紫色の目を持つ女性である。体の曲線や優雅なラインが特徴で、愛らしい表情をしている。",
-      "reason": "生態系の変化により、イヴの進化は美しさと柔らかさを重視する方向へ進展した。",
-      "thought": "『愛と平和』"
+      "appearance": "イヴは金色の肌を持ち、炎のような赤い髪と大きな赤い瞳を持つ女性型生命体です。体の一部に赤い模様があり、しなやかな腕と足、細長い耳が特徴です。",
+      "reason": "イヴは自然との調和を求め、炎の力を身に宿す進化を遂げました。赤い髪と模様は炎の力の象徴であり、強靭な肉体で自然と共存する能力が向上しました。",
+      "thought": "『炎の中にも美しさがある』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' width='400' height='400'><rect x='100' y='100' width='200' height='200' fill='#add8e6'/><ellipse cx='200' cy='150' rx='80' ry='40' fill='#4682b4'/><ellipse cx='150' cy='150' rx='20' ry='40' fill='#4682b4'/><ellipse cx='250' cy='150' rx='20' ry='40' fill='#4682b4'/><path d='M180 220 Q200 250 220 220' fill='none' stroke='#8b4513' stroke-width='3'/><path d='M160 180 Q200 200 240 180' fill='none' stroke='#8b4513' stroke-width='3'/><path d='M180 260 Q200 280 220 260' fill='none' stroke='#8b4513' stroke-width='3'/><line x1='160' y1='280' x2='240' y2='280' stroke='#8b4513' stroke-width='3'/><line x1='160' y1='280' x2='140' y2='320' stroke='#8b4513' stroke-width='3'/><line x1='240' y1='280' x2='260' y2='320' stroke='#8b4513' stroke-width='3'/><polygon points='150,300 170,320 190,300' fill='none' stroke='#8b4513' stroke-width='3'/><polygon points='210,300 230,320 250,300' fill='none' stroke='#8b4513' stroke-width='3'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#4682B4'/><rect x='160' y='150' width='80' height='100' fill='#8B4513'/><ellipse cx='200' cy='130' rx='50' ry='30' fill='#CD853F'/><polygon points='160,150 200,100 240,150' fill='#8B4513'/><line x1='180' y1='250' x2='160' y2='270' stroke='#8B4513' stroke-width='5'/><line x1='220' y1='250' x2='240' y2='270' stroke='#8B4513' stroke-width='5'/><circle cx='180' cy='130' r='10' fill='#000'/><circle cx='220' cy='130' r='10' fill='#000'/><text x='150' y='350' font-family='Arial' font-size='20' fill='#000'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは青色の体に、力強い茶色の目を持つ男性である。体格ががっしりとしており、堅実な表情をしている。",
-      "reason": "環境の厳しさに対応するため、アダムの進化は力強さと堅実さを重視する方向へ進展した。",
-      "thought": "『勇気と誠実さ』"
+      "appearance": "アダムは青い体毛を持つ大柄な男性型生命体で、茶色の大きな角と褐色の皮膚が特徴です。力強い腕と足、頑丈な体つきが目を引きます。",
+      "reason": "アダムは荒々しい環境での生存を求め、力強さと頑丈さを備える進化を遂げました。角や茶色の体毛は自然との闘争力を高め、生存競争に勝利するための適応です。",
+      "thought": "『力強さこそが生き抜く鍵』"
     },
     "name": "アダム",
     "gender": "男性"
