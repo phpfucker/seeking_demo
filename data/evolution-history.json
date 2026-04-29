@@ -32412,5 +32412,28 @@
       "gender": "男性"
     },
     "timestamp": 1777470458774
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#f1c40f'/><circle cx='200' cy='200' r='150' fill='#e67e22'/><path d='M200 200 L250 150 L300 200 Z' fill='#d35400'/><polygon points='150,300 250,300 200,350' fill='#f39c12'/><circle cx='170' cy='170' r='10' fill='#ffffff'/><circle cx='230' cy='170' r='10' fill='#ffffff'/><path d='M180 220 Q200 240 220 220' fill='none' stroke='#ffffff' stroke-width='5'/><path d='M200 250 Q190 260 180 250' fill='none' stroke='#ffffff' stroke-width='5'/><path d='M200 250 Q210 260 220 250' fill='none' stroke='#ffffff' stroke-width='5'/><line x1='170' y1='160' x2='175' y2='165' stroke='#000000' stroke-width='2'/><line x1='230' y1='160' x2='225' y2='165' stroke='#000000' stroke-width='2'/><text x='200' y='380' font-family='Arial' font-size='20' fill='#ffffff' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは黄色い体と橙色の顔を持つ女性の生命体です。額には赤い三角形の模様があり、白い目と曲がった角を持っています。手足は白い輪郭で描かれており、全体の雰囲気は温かみのある色彩で表現されています。",
+        "reason": "この進化は、イヴが新たな環境に適応するために、より鮮やかで愛らしい外見を持つ必要性が生じたためです。",
+        "thought": "『愛と温かさが世界を彩る』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#3498db'/><circle cx='200' cy='200' r='150' fill='#2980b9'/><path d='M170 250 Q200 270 230 250' fill='none' stroke='#ffffff' stroke-width='5'/><polygon points='150,300 250,300 200,350' fill='#2ecc71'/><circle cx='170' cy='170' r='10' fill='#ffffff'/><circle cx='230' cy='170' r='10' fill='#ffffff'/><path d='M180 220 Q200 240 220 220' fill='none' stroke='#ffffff' stroke-width='5'/><line x1='170' y1='160' x2='175' y2='165' stroke='#000000' stroke-width='2'/><line x1='230' y1='160' x2='225' y2='165' stroke='#000000' stroke-width='2'/><text x='200' y='380' font-family='Arial' font-size='20' fill='#ffffff' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青い体と濃い青色の顔を持つ男性の生命体です。頭部には白い模様があり、白い目と直立した角が特徴です。手足は白く描かれており、全体的にクールで引き締まった色調です。",
+        "reason": "アダムの進化は、より力強く知性を感じさせる外観を持つことで、新たな環境での優位性を確立するために起こりました。",
+        "thought": "『知性と力強さが未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1777490356600
   }
 ]
