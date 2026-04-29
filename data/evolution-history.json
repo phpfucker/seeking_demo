@@ -32366,5 +32366,28 @@
       "gender": "男性"
     },
     "timestamp": 1777430190083
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='200' cy='200' rx='120' ry='80' fill='url(#gradA)' /><polygon points='170,150 230,150 200,180' fill='rgb(255,192,203)' /><ellipse cx='160' cy='190' rx='10' ry='5' fill='rgb(255,105,180)' /><ellipse cx='240' cy='190' rx='10' ry='5' fill='rgb(255,105,180)' /><ellipse cx='180' cy='240' rx='20' ry='10' fill='rgb(255,105,180)' /><ellipse cx='220' cy='240' rx='20' ry='10' fill='rgb(255,105,180)' /><polygon points='190,220 210,220 200,240' fill='rgb(255,192,203)' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとオレンジのグラデーションが美しい外見を持つ女性の生命体です。全体的に柔らかな曲線と華やかな色彩が特徴で、体の一部には淡いピンクの模様が施されています。",
+        "reason": "イヴは、繊細さと美しさを追求する進化を遂げました。自然の中で華やかな存在となり、新たな魅力を持つようになりました。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(173,216,230);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(25,25,112);stop-opacity:1' /></linearGradient></defs><rect x='140' y='100' width='120' height='200' fill='url(#gradB)' /><polygon points='140,100 200,50 260,100' fill='rgb(25,25,112)' /><polygon points='170,300 230,300 200,340' fill='rgb(173,216,230)' /><ellipse cx='200' cy='50' rx='20' ry='30' fill='rgb(173,216,230)' /><ellipse cx='160' cy='210' rx='10' ry='20' fill='rgb(25,25,112)' /><ellipse cx='240' cy='210' rx='10' ry='20' fill='rgb(25,25,112)' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と淡い青のグラデーションが特徴的な男性の生命体です。全体的に力強い印象を与える体の一部には濃い青の模様が施されています。",
+        "reason": "アダムは、強さと知性を組み合わせる進化を遂げました。新たな領域を探求し、知恵と力を持つ存在として発展しました。",
+        "thought": "『知恵と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1777450219122
   }
 ]
