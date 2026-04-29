@@ -32389,5 +32389,28 @@
       "gender": "男性"
     },
     "timestamp": 1777450219122
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' gradientTransform='rotate(90)'><stop offset='0%' stop-color='#FF91A4' /><stop offset='100%' stop-color='#FFD3B3' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradA)' /><circle cx='200' cy='120' r='50' fill='#FF7BAC' /><circle cx='160' cy='140' r='8' fill='#FF276B' /><circle cx='240' cy='140' r='8' fill='#FF276B' /><path d='M180 220 Q200 260 220 220' fill='none' stroke='#FF276B' stroke-width='4' /><path d='M160 220 Q200 240 240 220' fill='none' stroke='#FF276B' stroke-width='4' /><circle cx='160' cy='280' r='20' fill='#FF91A4' /><circle cx='240' cy='280' r='20' fill='#FF91A4' /><path d='M160 280 H240' fill='none' stroke='#FF91A4' stroke-width='4' /></svg>",
+      "report": {
+        "appearance": "「イヴ」は、ピンクとオレンジのグラデーションが美しい女性の姿をしています。頭部には丸いピンクの頬と大きなオレンジの瞳があり、長めのピンクの角が生えています。手足は繊細で、ピンクとオレンジの色合いが全体をまとめています。",
+        "reason": "新たな生存環境での視覚的アピールと、狩りや交流における効率を高めるために、より美しく洗練された外見に進化しました。",
+        "thought": "『生命の美しさが尊重されるといいな』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' gradientTransform='rotate(90)'><stop offset='0%' stop-color='#6AC6FF' /><stop offset='100%' stop-color='#9DD3FF' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradB)' /><circle cx='200' cy='120' r='50' fill='#2E86AB' /><circle cx='170' cy='140' r='8' fill='#205072' /><circle cx='230' cy='140' r='8' fill='#205072' /><path d='M180 220 Q200 260 220 220' fill='none' stroke='#205072' stroke-width='4' /><path d='M160 220 Q200 240 240 220' fill='none' stroke='#205072' stroke-width='4' /><rect x='180' y='260' width='40' height='60' fill='#6AC6FF' /><path d='M180 260 L160 300 L180 340 L220 300 Z' fill='#9DD3FF' /></svg>",
+      "report": {
+        "appearance": "「アダム」は、青と水色のグラデーションが美しい男性の姿をしています。頭部には青い額と大きな水色の瞳があり、短めの青い角が生えています。四角い青い尾と、青と水色の腹部が特徴的です。",
+        "reason": "新たな生存環境での視覚的アピールと、狩りや交流における効率を高めるために、より洗練された外見に進化しました。",
+        "thought": "『自分の色に誇りを持とう』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1777470458774
   }
 ]
