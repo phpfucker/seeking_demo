@@ -32504,5 +32504,28 @@
       "gender": "男性"
     },
     "timestamp": 1777556791405
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#FFB6C1'/><ellipse cx='200' cy='120' rx='60' ry='40' fill='#FFCCCB'/><path d='M150 200 L200 280 L250 200 Z' fill='#FFC0CB'/><polygon points='175,200 200,220 225,200' fill='#FFA07A'/><rect x='160' y='250' width='80' height='50' fill='#FF6347'/><rect x='160' y='300' width='20' height='50' fill='#FF6347'/><rect x='220' y='300' width='20' height='50' fill='#FF6347'/><line x1='175' y1='50' x2='150' y2='100' stroke='#000' stroke-width='2'/><line x1='225' y1='50' x2='250' y2='100' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の肌を持ち、胴体は丸みを帯びた形状で、頭部には柔らかなピンク色の髪がある。瞳は大きくて優しげな表情をしており、手足は小さく愛らしい。",
+        "reason": "イヴは自然界の美しさと優しさからインスピレーションを受け、より優れた生存能力と環境適応力を身につけるために進化した。",
+        "thought": "『生命の尊さを大切に』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#87CEFA'/><ellipse cx='200' cy='120' rx='60' ry='40' fill='#B0C4DE'/><path d='M150 200 L200 280 L250 200 Z' fill='#ADD8E6'/><polygon points='175,200 200,220 225,200' fill='#4682B4'/><rect x='160' y='250' width='80' height='50' fill='#4169E1'/><rect x='160' y='300' width='20' height='50' fill='#4169E1'/><rect x='220' y='300' width='20' height='50' fill='#4169E1'/><line x1='175' y1='50' x2='150' y2='100' stroke='#000' stroke-width='2'/><line x1='225' y1='50' x2='250' y2='100' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の肌を持ち、胴体はがっしりとした形状で、頭部には短い青色の毛が生えている。目は鋭く力強い印象で、手足は頑丈で力強い。",
+        "reason": "アダムは進化の過程で自然界の厳しさと力強さに適応することで生存力を高め、狩猟や防衛といった活動に適した形態となった。",
+        "thought": "『強靭さと知恵を併せ持つ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1777576494214
   }
 ]
