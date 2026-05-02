@@ -32619,5 +32619,28 @@
       "gender": "男性"
     },
     "timestamp": 1777662398436
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,215,0);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,140,0);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='120' cy='180' rx='40' ry='20' fill='rgb(245,222,179)' /><ellipse cx='280' cy='180' rx='40' ry='20' fill='rgb(245,222,179)' /><ellipse cx='150' cy='280' rx='30' ry='15' fill='rgb(255,192,203)' /><ellipse cx='250' cy='280' rx='30' ry='15' fill='rgb(255,192,203)' /><path d='M150 260 Q200 300 250 260' fill='none' stroke='rgb(0,0,0)' stroke-width='3' /><polygon points='180,230 190,210 170,210' fill='rgb(255,69,0)' /><polygon points='220,230 230,210 210,210' fill='rgb(255,69,0)' /><circle cx='160' cy='170' r='5' fill='rgb(0,0,0)' /><circle cx='240' cy='170' r='5' fill='rgb(0,0,0)' /></svg>",
+      "report": {
+        "appearance": "イヴは、金色の毛並みを持つ美しい女性型生命体です。体は円滑な曲線で構成され、ピンク色の装飾が施されています。手と足には蝶のような模様があり、優雅な角を持っています。",
+        "reason": "イヴは自然と調和した美しさを求める進化を遂げました。金色の毛皮は生命力と繁栄を象徴し、華やかなピンク色は優しさと愛情を表現しています。",
+        "thought": "『愛と美が宇宙を満たす』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='rgb(0,128,128)' /><polygon points='200,150 180,280 220,280' fill='rgb(139,69,19)' /><circle cx='160' cy='140' r='20' fill='rgb(240,230,140)' /><circle cx='240' cy='140' r='20' fill='rgb(240,230,140)' /><ellipse cx='150' cy='220' rx='25' ry='15' fill='rgb(255,228,196)' /><ellipse cx='250' cy='220' rx='25' ry='15' fill='rgb(255,228,196)' /><line x1='180' y1='280' x2='170' y2='330' stroke='rgb(0,0,0)' stroke-width='3' /><line x1='220' y1='280' x2='230' y2='330' stroke='rgb(0,0,0)' /><polygon points='180,280 200,300 220,280' fill='rgb(222,184,135)' /></svg>",
+      "report": {
+        "appearance": "アダムは、青緑色の全身に覆われた男性型生命体です。頑丈な体つきに鎧のような質感があり、顔には威厳ある角が装飾されています。",
+        "reason": "アダムは強靭な生物としての進化を遂げました。青緑色は安定と平和を象徴し、鎧のような外観は守護と防衛の意志を表しています。",
+        "thought": "『力強く、誇り高く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1777688796496
   }
 ]
