@@ -32642,5 +32642,28 @@
       "gender": "男性"
     },
     "timestamp": 1777688796496
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99' /><ellipse cx='140' cy='180' rx='25' ry='40' fill='#ffd699' /><ellipse cx='260' cy='180' rx='25' ry='40' fill='#ffd699' /><path d='M160,220 Q200,280 240,220' fill='none' stroke='#ff9999' stroke-width='10' /><rect x='180' y='260' width='40' height='20' fill='#ffcc99' /><polygon points='180,260 220,250 220,280' fill='#ffcc99' /><rect x='180' y='280' width='10' height='50' fill='#ffcc99' /><rect x='210' y='280' width='10' height='50' fill='#ffcc99' /><circle cx='190' cy='190' r='5' fill='black' /><circle cx='210' cy='190' r='5' fill='black' /><circle cx='195' cy='185' r='2' fill='white' /><circle cx='215' cy='185' r='2' fill='white' /><text x='200' y='30' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、淡いピンク色の肌を持ち、柔らかな顔立ちと華奢な体つきが特徴です。長い金髪が優雅に波打ち、澄んだ瞳が清らかな印象を与えます。背中には小さな羽が生え、優しい光を放っています。指先には小さな花が咲き誇り、全体的に優雅で神秘的な雰囲気を醸し出しています。",
+        "reason": "イヴは自然界の美しさと調和を象徴し、進化のプロセスにおいてその美意識と純粋な心が昇華された結果です。",
+        "thought": "『自然と共に在り、美しさを愛でる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#4d4dff' /><ellipse cx='140' cy='180' rx='25' ry='40' fill='#6699ff' /><ellipse cx='260' cy='180' rx='25' ry='40' fill='#6699ff' /><line x1='160' y1='220' x2='240' y2='220' stroke='#ff9999' stroke-width='10' /><rect x='180' y='260' width='40' height='20' fill='#4d4dff' /><polygon points='180,260 220,250 220,280' fill='#4d4dff' /><line x1='185' y1='280' x2='185' y2='330' stroke='#4d4dff' stroke-width='10' /><line x1='215' y1='280' x2='215' y2='330' stroke='#4d4dff' stroke-width='10' /><circle cx='190' cy='190' r='5' fill='black' /><circle cx='210' cy='190' r='5' fill='black' /><text x='200' y='30' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青い鱗に覆われた頑強な体躯を持ち、鋭い目つきと力強い表情が特徴です。短い角が頭頂から伸び、背中には大きな羽が生えています。四肢は筋肉質で頑丈であり、足裏には鋭い爪が備わっています。全体的に凛々しく、力強い雰囲気を醸し出しています。",
+        "reason": "アダムは生命力と勇気を象徴し、進化のプロセスにおいてその強靭な肉体と精神力が昇華された結果です。",
+        "thought": "『勇気と誇りを持って、未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1777706846161
   }
 ]
