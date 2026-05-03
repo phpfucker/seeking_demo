@@ -32757,5 +32757,28 @@
       "gender": "男性"
     },
     "timestamp": 1777795053049
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='150' rx='80' ry='120' fill='#ffb6c1'/><path d='M200 270 Q150 300 200 330 Q250 300 200 270 Z' fill='#ffd1dc'/><polygon points='180,150 220,150 200,130' fill='#ff69b4'/><rect x='180' y='280' width='40' height='40' fill='#ff1493'/><circle cx='180' cy='180' r='10' fill='#ffffff'/><circle cx='220' cy='180' r='10' fill='#ffffff'/><line x1='190' y1='220' x2='210' y2='220' stroke='#ffffff' stroke-width='2'/><line x1='190' y1='240' x2='210' y2='240' stroke='#ffffff' stroke-width='2'/><text x='150' y='380' font-family='Arial' font-size='16' fill='black'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体と赤色の髪を持つ女性の姿をしています。頭部には赤い角が生え、背中には薄いピンクの翼があります。胸の周りには明るいピンクの模様があり、足元には紫色の三角形の尾があります。",
+        "reason": "イヴは自然と調和する力を持つ女性的な特徴を強化するため、進化によってより優れた知覚と連帯を持つようになりました。",
+        "thought": "『自然の声を聞く』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6'/><ellipse cx='200' cy='150' rx='80' ry='120' fill='#87ceeb'/><path d='M200 270 Q150 300 200 330 Q250 300 200 270 Z' fill='#b0e0e6'/><polygon points='180,150 220,150 200,130' fill='#4682b4'/><rect x='180' y='280' width='40' height='40' fill='#4169e1'/><circle cx='180' cy='180' r='10' fill='#ffffff'/><circle cx='220' cy='180' r='10' fill='#ffffff'/><line x1='190' y1='220' x2='210' y2='220' stroke='#ffffff' stroke-width='2'/><line x1='190' y1='240' x2='210' y2='240' stroke='#ffffff' stroke-width='2'/><text x='150' y='380' font-family='Arial' font-size='16' fill='black'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青色の体と青緑色の髪を持つ男性の姿をしています。頭部には青い角が生え、背中には薄い青色の翼があります。胸の周りには濃い青色の模様があり、足元には濃い青色の三角形の尾があります。",
+        "reason": "アダムは知識と力強さを持つ男性的な特徴を向上させるため、進化によってより強靭な肉体と冷静な精神を獲得しました。",
+        "thought": "『知識を力に変える』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1777813295725
   }
 ]
