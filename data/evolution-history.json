@@ -32711,5 +32711,28 @@
       "gender": "男性"
     },
     "timestamp": 1777748046517
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='white' /><ellipse cx='150' cy='150' rx='20' ry='30' fill='black' /><ellipse cx='250' cy='150' rx='20' ry='30' fill='black' /><path d='M180,230 Q200,250 220,230' fill='none' stroke='black' stroke-width='2' /><path d='M150,300 Q200,320 250,300' fill='none' stroke='black' stroke-width='2' /><line x1='160' y1='180' x2='140' y2='150' stroke='black' stroke-width='2' /><line x1='240' y1='180' x2='260' y2='150' stroke='black' stroke-width='2' /><line x1='180' y1='230' x2='170' y2='240' stroke='black' stroke-width='2' /><line x1='220' y1='230' x2='230' y2='240' stroke='black' stroke-width='2' /><polygon points='180,210 200,190 220,210' fill='white' stroke='black' stroke-width='2' /><polygon points='170,290 200,260 230,290' fill='white' stroke='black' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の全身に白い楕円形の体と、黒い目と口を持つ女性型の生命体です。頭部には黒い角があり、優美なしっぽと手足を持っています。",
+        "reason": "進化の過程で、イヴはより優美で美しい外見を手に入れることで、環境においてより優位な存在となるためにこの進化が起こりました。",
+        "thought": "『生命の美しさを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='150' fill='lightblue' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='white' /><ellipse cx='170' cy='130' rx='10' ry='20' fill='black' /><ellipse cx='230' cy='130' rx='10' ry='20' fill='black' /><path d='M180,250 Q200,270 220,250' fill='none' stroke='black' stroke-width='2' /><path d='M160,250 Q200,280 240,250' fill='none' stroke='black' stroke-width='2' /><line x1='180' y1='250' x2='170' y2='260' stroke='black' stroke-width='2' /><line x1='220' y1='250' x2='230' y2='260' stroke='black' stroke-width='2' /><polygon points='170,210 200,190 230,210' fill='white' stroke='black' stroke-width='2' /><line x1='190' y1='250' x2='190' y2='300' stroke='black' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の長方形の体に白い楕円形の胴体と、黒い目を持つ男性型の生命体です。頭部には角があり、優れた手足と尾を備えています。",
+        "reason": "進化のプロセスにおいて、アダムは強さや頑健さを示すため、より筋肉質で頑丈な外観を獲得することで生存競争において有利となるために進化しました。",
+        "thought": "『力強さが大切』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1777775729151
   }
 ]
