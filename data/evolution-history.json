@@ -32734,5 +32734,28 @@
       "gender": "男性"
     },
     "timestamp": 1777775729151
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,171,209);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,102,255);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='170' cy='180' rx='20' ry='30' fill='rgb(255,102,255)' /><ellipse cx='230' cy='180' rx='20' ry='30' fill='rgb(255,102,255)' /><path d='M190 240 Q200 260 210 240' stroke='black' stroke-width='2' fill='none' /><path d='M170 250 Q200 270 230 250' stroke='black' stroke-width='2' fill='none' /><path d='M150 180 Q200 130 250 180' stroke='black' stroke-width='2' fill='none' /><path d='M160 200 Q200 260 240 200' stroke='black' stroke-width='2' fill='none' /><line x1='180' y1='160' x2='170' y2='150' stroke='black' stroke-width='2' /><line x1='220' y1='160' x2='230' y2='150' stroke='black' stroke-width='2' /><line x1='170' y1='240' x2='160' y2='250' stroke='black' stroke-width='2' /><line x1='230' y1='240' x2='240' y2='250' stroke='black' stroke-width='2' /><path d='M180 260 Q200 290 220 260' stroke='black' stroke-width='2' fill='none' /><path d='M175 170 Q200 140 225 170' stroke='black' stroke-width='2' fill='none' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとパープルのグラデーションに彩られた美しい女性。体には柔らかな曲線が特徴であり、頭には短い角が生えています。手足はしなやかで、しっぽとして長いリボン状の装飾があります。",
+        "reason": "イヴは自然と調和し、生命の輝きを象徴する進化を遂げました。",
+        "thought": "『命の美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(102,204,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(51,153,255);stop-opacity:1' /></linearGradient></defs><rect x='150' y='100' width='100' height='200' fill='url(#gradB)' /><ellipse cx='200' cy='180' rx='20' ry='30' fill='rgb(51,153,255)' /><path d='M180 240 Q200 260 220 240' stroke='black' stroke-width='2' fill='none' /><path d='M170 250 Q200 270 230 250' stroke='black' stroke-width='2' fill='none' /><path d='M160 200 Q200 260 240 200' stroke='black' stroke-width='2' fill='none' /><line x1='180' y1='160' x2='170' y2='150' stroke='black' stroke-width='2' /><line x1='220' y1='160' x2='230' y2='150' stroke='black' stroke-width='2' /><line x1='170' y1='240' x2='160' y2='250' stroke='black' stroke-width='2' /><line x1='230' y1='240' x2='240' y2='250' stroke='black' stroke-width='2' /><path d='M180 260 Q200 290 220 260' stroke='black' stroke-width='2' fill='none' /><polygon points='190,100 210,100 200,80' fill='rgb(51,153,255)' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色のグラデーションで全身が覆われた男性。体は頑丈で四角い形状をしており、頭には角が2本生えています。手足は力強く、しっぽは鋭い三角形の装飾が特徴です。",
+        "reason": "アダムは自然の厳しさと生命力を備え、進化の中で新たな強さを獲得しました。",
+        "thought": "『生命の力強さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1777795053049
   }
 ]
