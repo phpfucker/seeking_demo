@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"#ffb6c1\"/><ellipse cx=\"200\" cy=\"180\" rx=\"70\" ry=\"90\" fill=\"#f8bbd0\"/><path d=\"M150 300 L130 350 L170 350 Z\" fill=\"#ff69b4\"/><polygon points=\"165,185 185,185 175,200\" fill=\"#ff69b4\"/><path d=\"M200 200 Q230 250 250 200\" fill=\"none\" stroke=\"#ff69b4\"/><circle cx=\"170\" cy=\"160\" r=\"10\" fill=\"#ffffff\"/><circle cx=\"230\" cy=\"160\" r=\"10\" fill=\"#ffffff\"/><circle cx=\"200\" cy=\"220\" r=\"15\" fill=\"#ffd700\"/><circle cx=\"190\" cy=\"220\" r=\"5\" fill=\"#000000\"/><circle cx=\"210\" cy=\"220\" r=\"5\" fill=\"#000000\"/><line x1=\"170\" y1=\"220\" x2=\"230\" y2=\"220\" stroke=\"#000000\" stroke-width=\"2\"/><path d=\"M190 220 Q200 240 210 220\" fill=\"none\" stroke=\"#000000\" stroke-width=\"2\"/><line x1=\"150\" y1=\"160\" x2=\"140\" y2=\"170\" stroke=\"#000000\" stroke-width=\"2\"/><line x1=\"250\" y1=\"160\" x2=\"260\" y2=\"170\" stroke=\"#000000\" stroke-width=\"2\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='#ff99cc'/><circle cx='150' cy='150' r='10' fill='#333'/><circle cx='250' cy='150' r='10' fill='#333'/><path d='M160 230 Q200 250 240 230' stroke='#333' fill='none'/><path d='M190 240 Q200 250 210 240' stroke='#333' fill='none'/><path d='M140 165 Q200 50 260 165' stroke='#333' fill='none'/><path d='M140 165 Q200 200 260 165' stroke='#333' fill='none'/><rect x='170' y='250' width='60' height='10' fill='#333'/><rect x='160' y='270' width='80' height='10' fill='#333'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな体に赤い瞳を持つ女性の姿をしています。体の中央には大きな薄紫色の胸部があり、頭部には紫色の長い角が生えています。背中には小さな蝶の模様が描かれており、愛らしい印象を与えます。",
-      "reason": "イヴは自然の中での調和を象徴し、豊かな生態系を築くために進化しました。",
-      "thought": "『自然と共に在り、自然と共に生きる』"
+      "appearance": "イヴはピンク色の柔らかな体を持ち、大きな目と長い脚を特徴とする。体の中心部分が薄いピンク色で、手足は細長い形状をしている。",
+      "reason": "新たな環境への適応により、柔らかな色合いと長い脚が進化し、生存率が向上した。",
+      "thought": "『優しさを大切に』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"#add8e6\"/><ellipse cx=\"200\" cy=\"180\" rx=\"70\" ry=\"90\" fill=\"#b0e0e6\"/><path d=\"M150 300 L130 350 L170 350 Z\" fill=\"#00bfff\"/><polygon points=\"165,185 185,185 175,200\" fill=\"#00bfff\"/><path d=\"M200 200 Q230 250 250 200\" fill=\"none\" stroke=\"#00bfff\"/><circle cx=\"170\" cy=\"160\" r=\"10\" fill=\"#ffffff\"/><circle cx=\"230\" cy=\"160\" r=\"10\" fill=\"#ffffff\"/><circle cx=\"200\" cy=\"220\" r=\"15\" fill=\"#ffd700\"/><circle cx=\"190\" cy=\"220\" r=\"5\" fill=\"#000000\"/><circle cx=\"210\" cy=\"220\" r=\"5\" fill=\"#000000\"/><line x1=\"170\" y1=\"220\" x2=\"230\" y2=\"220\" stroke=\"#000000\" stroke-width=\"2\"/><path d=\"M190 220 Q200 240 210 220\" fill=\"none\" stroke=\"#000000\" stroke-width=\"2\"/><line x1=\"150\" y1=\"160\" x2=\"140\" y2=\"170\" stroke=\"#000000\" stroke-width=\"2\"/><line x1=\"250\" y1=\"160\" x2=\"260\" y2=\"170\" stroke=\"#000000\" stroke-width=\"2\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#87ceeb'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='#4682b4'/><polygon points='180,160 220,160 200,180' fill='#333'/><polygon points='190,150 210,150 200,170' fill='#333'/><path d='M160 230 Q200 250 240 230' stroke='#333' fill='none'/><path d='M190 240 Q200 250 210 240' stroke='#333' fill='none'/><path d='M140 165 Q200 50 260 165' stroke='#333' fill='none'/><path d='M140 165 Q200 200 260 165' stroke='#333' fill='none'/><rect x='170' y='250' width='60' height='10' fill='#333'/><rect x='160' y='270' width='80' height='10' fill='#333'/></svg>",
     "report": {
-      "appearance": "アダムは、青色の体に青い瞳を持つ男性の姿をしています。胸部には淡い水色の模様が描かれ、頭部には青い長い角が突き出ています。背中には波の模様があり、力強い印象を与えます。",
-      "reason": "アダムは自然界の秩序とバランスを保つために進化しました。",
-      "thought": "『自然の一部として、調和を守る』"
+      "appearance": "アダムは青色の頑丈な体を持ち、大きな目と短い脚が特徴的である。体の色合いは濃い青色で、四角い頭と太い脚が目立つ。",
+      "reason": "環境の変化により、頑丈な体と短い脚が進化し、効率的な移動手段を確保した。",
+      "thought": "『強さを示す』"
     },
     "name": "アダム",
     "gender": "男性"

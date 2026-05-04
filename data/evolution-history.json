@@ -32849,5 +32849,28 @@
       "gender": "男性"
     },
     "timestamp": 1777883079232
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"#ffb6c1\"/><ellipse cx=\"200\" cy=\"180\" rx=\"70\" ry=\"90\" fill=\"#f8bbd0\"/><path d=\"M150 300 L130 350 L170 350 Z\" fill=\"#ff69b4\"/><polygon points=\"165,185 185,185 175,200\" fill=\"#ff69b4\"/><path d=\"M200 200 Q230 250 250 200\" fill=\"none\" stroke=\"#ff69b4\"/><circle cx=\"170\" cy=\"160\" r=\"10\" fill=\"#ffffff\"/><circle cx=\"230\" cy=\"160\" r=\"10\" fill=\"#ffffff\"/><circle cx=\"200\" cy=\"220\" r=\"15\" fill=\"#ffd700\"/><circle cx=\"190\" cy=\"220\" r=\"5\" fill=\"#000000\"/><circle cx=\"210\" cy=\"220\" r=\"5\" fill=\"#000000\"/><line x1=\"170\" y1=\"220\" x2=\"230\" y2=\"220\" stroke=\"#000000\" stroke-width=\"2\"/><path d=\"M190 220 Q200 240 210 220\" fill=\"none\" stroke=\"#000000\" stroke-width=\"2\"/><line x1=\"150\" y1=\"160\" x2=\"140\" y2=\"170\" stroke=\"#000000\" stroke-width=\"2\"/><line x1=\"250\" y1=\"160\" x2=\"260\" y2=\"170\" stroke=\"#000000\" stroke-width=\"2\"/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな体に赤い瞳を持つ女性の姿をしています。体の中央には大きな薄紫色の胸部があり、頭部には紫色の長い角が生えています。背中には小さな蝶の模様が描かれており、愛らしい印象を与えます。",
+        "reason": "イヴは自然の中での調和を象徴し、豊かな生態系を築くために進化しました。",
+        "thought": "『自然と共に在り、自然と共に生きる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"#add8e6\"/><ellipse cx=\"200\" cy=\"180\" rx=\"70\" ry=\"90\" fill=\"#b0e0e6\"/><path d=\"M150 300 L130 350 L170 350 Z\" fill=\"#00bfff\"/><polygon points=\"165,185 185,185 175,200\" fill=\"#00bfff\"/><path d=\"M200 200 Q230 250 250 200\" fill=\"none\" stroke=\"#00bfff\"/><circle cx=\"170\" cy=\"160\" r=\"10\" fill=\"#ffffff\"/><circle cx=\"230\" cy=\"160\" r=\"10\" fill=\"#ffffff\"/><circle cx=\"200\" cy=\"220\" r=\"15\" fill=\"#ffd700\"/><circle cx=\"190\" cy=\"220\" r=\"5\" fill=\"#000000\"/><circle cx=\"210\" cy=\"220\" r=\"5\" fill=\"#000000\"/><line x1=\"170\" y1=\"220\" x2=\"230\" y2=\"220\" stroke=\"#000000\" stroke-width=\"2\"/><path d=\"M190 220 Q200 240 210 220\" fill=\"none\" stroke=\"#000000\" stroke-width=\"2\"/><line x1=\"150\" y1=\"160\" x2=\"140\" y2=\"170\" stroke=\"#000000\" stroke-width=\"2\"/><line x1=\"250\" y1=\"160\" x2=\"260\" y2=\"170\" stroke=\"#000000\" stroke-width=\"2\"/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に青い瞳を持つ男性の姿をしています。胸部には淡い水色の模様が描かれ、頭部には青い長い角が突き出ています。背中には波の模様があり、力強い印象を与えます。",
+        "reason": "アダムは自然界の秩序とバランスを保つために進化しました。",
+        "thought": "『自然の一部として、調和を守る』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1777902612443
   }
 ]
