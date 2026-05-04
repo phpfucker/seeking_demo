@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='50' width='200' height='300' fill='#ffcc99' /><ellipse cx='200' cy='150' rx='80' ry='110' fill='#ffd699' /><path d='M150 250 L185 300 L215 300 L250 250 Z' fill='#ff9999' /><path d='M200 120 L175 140 Q200 160 225 140 Z' fill='#ffcccc' /><circle cx='170' cy='200' r='10' fill='#ff6666' /><circle cx='230' cy='200' r='10' fill='#ff6666' /><path d='M180 300 L210 300 Q200 330 190 300 Z' fill='#ffcccc' /><polygon points='195,125 205,125 200,130' fill='#ff6666' /><rect x='165' y='250' width='70' height='15' fill='#ff9999' /><line x1='150' y1='275' x2='175' y2='275' stroke='#ff6666' stroke-width='2' /><line x1='225' y1='275' x2='250' y2='275' stroke='#ff6666' stroke-width='2' /></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"#ffb6c1\"/><ellipse cx=\"200\" cy=\"180\" rx=\"70\" ry=\"90\" fill=\"#f8bbd0\"/><path d=\"M150 300 L130 350 L170 350 Z\" fill=\"#ff69b4\"/><polygon points=\"165,185 185,185 175,200\" fill=\"#ff69b4\"/><path d=\"M200 200 Q230 250 250 200\" fill=\"none\" stroke=\"#ff69b4\"/><circle cx=\"170\" cy=\"160\" r=\"10\" fill=\"#ffffff\"/><circle cx=\"230\" cy=\"160\" r=\"10\" fill=\"#ffffff\"/><circle cx=\"200\" cy=\"220\" r=\"15\" fill=\"#ffd700\"/><circle cx=\"190\" cy=\"220\" r=\"5\" fill=\"#000000\"/><circle cx=\"210\" cy=\"220\" r=\"5\" fill=\"#000000\"/><line x1=\"170\" y1=\"220\" x2=\"230\" y2=\"220\" stroke=\"#000000\" stroke-width=\"2\"/><path d=\"M190 220 Q200 240 210 220\" fill=\"none\" stroke=\"#000000\" stroke-width=\"2\"/><line x1=\"150\" y1=\"160\" x2=\"140\" y2=\"170\" stroke=\"#000000\" stroke-width=\"2\"/><line x1=\"250\" y1=\"160\" x2=\"260\" y2=\"170\" stroke=\"#000000\" stroke-width=\"2\"/></svg>",
     "report": {
-      "appearance": "イヴは、肌の色がオレンジで、体は丸みを帯びたピンク色の楕円形で覆われています。顔は赤い三角形の口と、ピンク色の頬が特徴的であり、両腕には赤い円形の手が付いています。足は細長く、赤とピンクの色が使われています。",
-      "reason": "進化の過程で、イヴはより柔らかく優しい印象を与えるように変化しました。新しい特徴は、感情豊かな表情と色彩の柔らかさです。",
-      "thought": "『優しさと愛を宿す』"
+      "appearance": "イヴは、ピンク色の柔らかな体に赤い瞳を持つ女性の姿をしています。体の中央には大きな薄紫色の胸部があり、頭部には紫色の長い角が生えています。背中には小さな蝶の模様が描かれており、愛らしい印象を与えます。",
+      "reason": "イヴは自然の中での調和を象徴し、豊かな生態系を築くために進化しました。",
+      "thought": "『自然と共に在り、自然と共に生きる』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='50' width='200' height='300' fill='#99ccff' /><ellipse cx='200' cy='150' rx='80' ry='110' fill='#99d6ff' /><path d='M150 250 L185 300 L215 300 L250 250 Z' fill='#6699ff' /><path d='M200 120 L175 140 Q200 160 225 140 Z' fill='#99ccff' /><circle cx='170' cy='200' r='10' fill='#6699ff' /><circle cx='230' cy='200' r='10' fill='#6699ff' /><path d='M180 300 L210 300 Q200 330 190 300 Z' fill='#99ccff' /><polygon points='195,125 205,125 200,130' fill='#6699ff' /><rect x='165' y='250' width='70' height='15' fill='#6699ff' /><line x1='150' y1='275' x2='175' y2='275' stroke='#3366ff' stroke-width='2' /><line x1='225' y1='275' x2='250' y2='275' stroke='#3366ff' stroke-width='2' /></svg>",
+    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"100\" width=\"200\" height=\"200\" fill=\"#add8e6\"/><ellipse cx=\"200\" cy=\"180\" rx=\"70\" ry=\"90\" fill=\"#b0e0e6\"/><path d=\"M150 300 L130 350 L170 350 Z\" fill=\"#00bfff\"/><polygon points=\"165,185 185,185 175,200\" fill=\"#00bfff\"/><path d=\"M200 200 Q230 250 250 200\" fill=\"none\" stroke=\"#00bfff\"/><circle cx=\"170\" cy=\"160\" r=\"10\" fill=\"#ffffff\"/><circle cx=\"230\" cy=\"160\" r=\"10\" fill=\"#ffffff\"/><circle cx=\"200\" cy=\"220\" r=\"15\" fill=\"#ffd700\"/><circle cx=\"190\" cy=\"220\" r=\"5\" fill=\"#000000\"/><circle cx=\"210\" cy=\"220\" r=\"5\" fill=\"#000000\"/><line x1=\"170\" y1=\"220\" x2=\"230\" y2=\"220\" stroke=\"#000000\" stroke-width=\"2\"/><path d=\"M190 220 Q200 240 210 220\" fill=\"none\" stroke=\"#000000\" stroke-width=\"2\"/><line x1=\"150\" y1=\"160\" x2=\"140\" y2=\"170\" stroke=\"#000000\" stroke-width=\"2\"/><line x1=\"250\" y1=\"160\" x2=\"260\" y2=\"170\" stroke=\"#000000\" stroke-width=\"2\"/></svg>",
     "report": {
-      "appearance": "アダムは、体の色が淡い青で、大きな楕円形の体を持ちます。体の中心には明るい青色の模様が描かれ、顔は青い三角形の口と、シャープな輪郭のある頬があります。四つの腕があり、全体的に青と紫の色が使われています。",
-      "reason": "アダムは力強く進化し、より洗練された印象を持つようになりました。新たな特徴は、凛とした姿勢と色彩の鮮やかさです。",
-      "thought": "『誇り高き力強さ』"
+      "appearance": "アダムは、青色の体に青い瞳を持つ男性の姿をしています。胸部には淡い水色の模様が描かれ、頭部には青い長い角が突き出ています。背中には波の模様があり、力強い印象を与えます。",
+      "reason": "アダムは自然界の秩序とバランスを保つために進化しました。",
+      "thought": "『自然の一部として、調和を守る』"
     },
     "name": "アダム",
     "gender": "男性"

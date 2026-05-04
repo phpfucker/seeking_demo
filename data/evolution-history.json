@@ -32826,5 +32826,28 @@
       "gender": "男性"
     },
     "timestamp": 1777862014707
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='50' width='200' height='300' fill='#ffcc99' /><ellipse cx='200' cy='150' rx='80' ry='110' fill='#ffd699' /><path d='M150 250 L185 300 L215 300 L250 250 Z' fill='#ff9999' /><path d='M200 120 L175 140 Q200 160 225 140 Z' fill='#ffcccc' /><circle cx='170' cy='200' r='10' fill='#ff6666' /><circle cx='230' cy='200' r='10' fill='#ff6666' /><path d='M180 300 L210 300 Q200 330 190 300 Z' fill='#ffcccc' /><polygon points='195,125 205,125 200,130' fill='#ff6666' /><rect x='165' y='250' width='70' height='15' fill='#ff9999' /><line x1='150' y1='275' x2='175' y2='275' stroke='#ff6666' stroke-width='2' /><line x1='225' y1='275' x2='250' y2='275' stroke='#ff6666' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、肌の色がオレンジで、体は丸みを帯びたピンク色の楕円形で覆われています。顔は赤い三角形の口と、ピンク色の頬が特徴的であり、両腕には赤い円形の手が付いています。足は細長く、赤とピンクの色が使われています。",
+        "reason": "進化の過程で、イヴはより柔らかく優しい印象を与えるように変化しました。新しい特徴は、感情豊かな表情と色彩の柔らかさです。",
+        "thought": "『優しさと愛を宿す』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='50' width='200' height='300' fill='#99ccff' /><ellipse cx='200' cy='150' rx='80' ry='110' fill='#99d6ff' /><path d='M150 250 L185 300 L215 300 L250 250 Z' fill='#6699ff' /><path d='M200 120 L175 140 Q200 160 225 140 Z' fill='#99ccff' /><circle cx='170' cy='200' r='10' fill='#6699ff' /><circle cx='230' cy='200' r='10' fill='#6699ff' /><path d='M180 300 L210 300 Q200 330 190 300 Z' fill='#99ccff' /><polygon points='195,125 205,125 200,130' fill='#6699ff' /><rect x='165' y='250' width='70' height='15' fill='#6699ff' /><line x1='150' y1='275' x2='175' y2='275' stroke='#3366ff' stroke-width='2' /><line x1='225' y1='275' x2='250' y2='275' stroke='#3366ff' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、体の色が淡い青で、大きな楕円形の体を持ちます。体の中心には明るい青色の模様が描かれ、顔は青い三角形の口と、シャープな輪郭のある頬があります。四つの腕があり、全体的に青と紫の色が使われています。",
+        "reason": "アダムは力強く進化し、より洗練された印象を持つようになりました。新たな特徴は、凛とした姿勢と色彩の鮮やかさです。",
+        "thought": "『誇り高き力強さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1777883079232
   }
 ]
