@@ -32803,5 +32803,28 @@
       "gender": "男性"
     },
     "timestamp": 1777834477857
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='150' rx='100' ry='130' fill='#ffe0bd'/><path d='M180,140 L195,120 L210,140 Z' fill='#ffcc9d'/><path d='M190,150 L195,140 L200,150 Z' fill='#ffd8b8'/><path d='M210,150 L205,140 L200,150 Z' fill='#ffd8b8'/><ellipse cx='170' cy='100' rx='10' ry='7' fill='#1c1c1c'/><ellipse cx='230' cy='100' rx='10' ry='7' fill='#1c1c1c'/><ellipse cx='190' cy='160' rx='5' ry='3' fill='#1c1c1c'/><ellipse cx='210' cy='160' rx='5' ry='3' fill='#1c1c1c'/><ellipse cx='200' cy='185' rx='35' ry='20' fill='#ffcc9d'/><path d='M180,200 Q200,250 220,200 Z' fill='#ffd8b8'/><path d='M195,195 Q200,240 205,195 Z' fill='#ffd8b8'/><line x1='180' y1='200' x2='220' y2='200' stroke='#1c1c1c' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、柔らかなピンク色の体に大きな瞳を持ち、優しさが満ち溢れる女性的な特徴を備えています。体全体が滑らかな曲線で構成され、愛らしさが際立ちます。",
+        "reason": "進化の過程で、イヴはより優美で愛らしい姿に変化しました。柔らかな色彩と滑らかな曲線は、生命体の内に宿る穏やかで美しいエネルギーを表現しています。",
+        "thought": "『穏やかな愛を宿す』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='150' rx='110' ry='140' fill='#91d7ff'/><path d='M180,140 L195,120 L210,140 Z' fill='#6dbde6'/><path d='M190,150 L195,140 L200,150 Z' fill='#7fc9e9'/><path d='M210,150 L205,140 L200,150 Z' fill='#7fc9e9'/><ellipse cx='170' cy='100' rx='10' ry='7' fill='#1c1c1c'/><ellipse cx='230' cy='100' rx='10' ry='7' fill='#1c1c1c'/><ellipse cx='190' cy='160' rx='5' ry='3' fill='#1c1c1c'/><ellipse cx='210' cy='160' rx='5' ry='3' fill='#1c1c1c'/><ellipse cx='200' cy='185' rx='40' ry='25' fill='#6dbde6'/><path d='M180,200 Q200,260 220,200 Z' fill='#7fc9e9'/><path d='M195,195 Q200,255 205,195 Z' fill='#7fc9e9'/><line x1='180' y1='200' x2='220' y2='200' stroke='#1c1c1c' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、爽やかな青色の体に強靭な体つきと凛々しい眼差しを持ち、男性らしい力強さが表れています。全体的に角強いラインが特徴的で、力強さと活力を感じさせます。",
+        "reason": "進化の結果、アダムはより力強く凛々しい姿に変貌しました。角強いラインや青色の体表現は、生命体内に宿る強靭なエネルギーと自信を示しています。",
+        "thought": "『力強く輝く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1777862014707
   }
 ]
