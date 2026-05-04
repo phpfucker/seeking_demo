@@ -32872,5 +32872,28 @@
       "gender": "男性"
     },
     "timestamp": 1777902612443
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='#ff99cc'/><circle cx='150' cy='150' r='10' fill='#333'/><circle cx='250' cy='150' r='10' fill='#333'/><path d='M160 230 Q200 250 240 230' stroke='#333' fill='none'/><path d='M190 240 Q200 250 210 240' stroke='#333' fill='none'/><path d='M140 165 Q200 50 260 165' stroke='#333' fill='none'/><path d='M140 165 Q200 200 260 165' stroke='#333' fill='none'/><rect x='170' y='250' width='60' height='10' fill='#333'/><rect x='160' y='270' width='80' height='10' fill='#333'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかな体を持ち、大きな目と長い脚を特徴とする。体の中心部分が薄いピンク色で、手足は細長い形状をしている。",
+        "reason": "新たな環境への適応により、柔らかな色合いと長い脚が進化し、生存率が向上した。",
+        "thought": "『優しさを大切に』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#87ceeb'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='#4682b4'/><polygon points='180,160 220,160 200,180' fill='#333'/><polygon points='190,150 210,150 200,170' fill='#333'/><path d='M160 230 Q200 250 240 230' stroke='#333' fill='none'/><path d='M190 240 Q200 250 210 240' stroke='#333' fill='none'/><path d='M140 165 Q200 50 260 165' stroke='#333' fill='none'/><path d='M140 165 Q200 200 260 165' stroke='#333' fill='none'/><rect x='170' y='250' width='60' height='10' fill='#333'/><rect x='160' y='270' width='80' height='10' fill='#333'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の頑丈な体を持ち、大きな目と短い脚が特徴的である。体の色合いは濃い青色で、四角い頭と太い脚が目立つ。",
+        "reason": "環境の変化により、頑丈な体と短い脚が進化し、効率的な移動手段を確保した。",
+        "thought": "『強さを示す』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1777922631287
   }
 ]
