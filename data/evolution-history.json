@@ -32918,5 +32918,28 @@
       "gender": "男性"
     },
     "timestamp": 1777948064792
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='100' rx='80' ry='50' fill='#ffb6c1'/><path d='M150,200 L120,280 L200,320 L280,280 L250,200 Z' fill='#ff69b4'/><circle cx='160' cy='110' r='8' fill='#000'/><circle cx='240' cy='110' r='8' fill='#000'/><polygon points='150,260 165,250 180,260' fill='#000'/><polygon points='220,260 235,250 250,260' fill='#000'/><rect x='175' y='260' width='50' height='20' fill='#fff'/><ellipse cx='200' cy='180' rx='20' ry='10' fill='#000'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌に濃いピンク色の髪を持つ女性。体は柔らかなピンク色で覆われ、首元に薄いピンクの模様がある。頭部には明るいピンクの卵形の耳があり、大きな赤い目が特徴的。手足は細く、指・つま先には小さな白い爪がある。",
+        "reason": "イヴは環境の変化に適応するため、より柔らかく美しい色合いの肌と髪を進化させた。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#add8e6'/><ellipse cx='200' cy='100' rx='80' ry='50' fill='#87ceeb'/><path d='M150,200 L120,280 L200,320 L280,280 L250,200 Z' fill='#4682b4'/><circle cx='160' cy='110' r='8' fill='#000'/><circle cx='240' cy='110' r='8' fill='#000'/><polyline points='160,260 180,250 200,260 220,250 240,260' fill='none' stroke='#000' stroke-width='2'/><rect x='175' y='260' width='50' height='20' fill='#fff'/><polygon points='190,180 195,190 205,190 210,180' fill='#000'/></svg>",
+      "report": {
+        "appearance": "アダムは、淡い青色の肌と眼が特徴的な男性。体は青色で覆われ、首元に濃い青色の模様がある。頭部には青色の卵形の角が生え、大きな青い瞳が光っている。手足はがっしりとしており、指・つま先には小さな白い爪がある。",
+        "reason": "アダムは狩猟や防衛に適した青い肌と眼を進化させた。",
+        "thought": "『強さと知恵』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1777968228288
   }
 ]
