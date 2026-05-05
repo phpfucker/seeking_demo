@@ -32895,5 +32895,28 @@
       "gender": "男性"
     },
     "timestamp": 1777922631287
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><rect x='100' y='250' width='200' height='100' fill='#ff99cc' /><ellipse cx='150' cy='150' rx='30' ry='20' fill='#ff66cc' /><ellipse cx='250' cy='150' rx='30' ry='20' fill='#ff66cc' /><circle cx='170' cy='160' r='5' fill='#000' /><circle cx='230' cy='160' r='5' fill='#000' /><path d='M175 220 Q200 240 225 220' fill='none' stroke='#000' /><path d='M150 250 Q200 280 250 250' fill='none' stroke='#000' /><path d='M200 280 Q250 270 300 280' fill='none' stroke='#000' /><line x1='180' y1='250' x2='160' y2='280' stroke='#000' /><line x1='220' y1='250' x2='240' y2='280' stroke='#000' /><line x1='300' y1='220' x2='320' y2='250' stroke='#000' /><line x1='100' y1='280' x2='120' y2='250' stroke='#000' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと紫の色合いの肌を持ち、細長い目を持つ女性の姿をしています。頭には2つの小さな角があり、上半身には光沢のあるピンクの皮膚が広がり、下半身には紫色のスカート状の部分があります。手足は細長く、しっぽが存在します。",
+        "reason": "環境の変化により、新たな色彩と模様が生まれ、生物の美しさと個性を高めるため進化しました。",
+        "thought": "『神秘的な色彩が魅力を引き立てる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#99ccff' /><rect x='150' y='250' width='100' height='100' fill='#66ccff' /><polygon points='170,150 230,150 200,220' fill='#3399ff' /><circle cx='170' cy='160' r='5' fill='#000' /><circle cx='230' cy='160' r='5' fill='#000' /><path d='M150 250 Q200 280 250 250' fill='none' stroke='#000' /><path d='M160 250 Q200 240 240 250' fill='none' stroke='#000' /><path d='M200 280 Q250 270 300 280' fill='none' stroke='#000' /><line x1='180' y1='250' x2='160' y2='280' stroke='#000' /><line x1='220' y1='250' x2='240' y2='280' stroke='#000' /><line x1='100' y1='220' x2='120' y2='250' stroke='#000' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色の肌を持ち、三角形の顔に鋭い目を持つ男性の姿をしています。頭部には翼のような模様があり、上半身は青色の肌で覆われ、下半身には水色の短パンがあります。四肢はがっしりとしています。",
+        "reason": "生存競争において、鮮やかな色合いと独特な模様が、仲間や敵からの識別やアピールに役立ち、進化しました。",
+        "thought": "『強靭な体と目を見張る模様』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1777948064792
   }
 ]
