@@ -32964,5 +32964,28 @@
       "gender": "男性"
     },
     "timestamp": 1778008430966
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcc99'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='#ffddcc'/><path d='M150,250 C180,320 220,320 250,250 C280,180 220,180 150,250 Z' fill='#ff9966'/><polygon points='160,240 200,210 240,240' fill='#ff9966'/><circle cx='180' cy='180' r='10' fill='black'/><circle cx='220' cy='180' r='10' fill='black'/><line x1='190' y1='240' x2='210' y2='240' stroke='black' stroke-width='2'/><line x1='200' y1='260' x2='200' y2='280' stroke='black' stroke-width='2'/><text x='190' y='300' font-family='Arial' font-size='16' fill='black'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとオレンジの温かみのある色合いの体を持ち、大きな楕円形の目と柔らかい曲線の顔立ちが特徴です。頭部には薄いピンクの角が生えており、しなやかなピンク色の体にはオレンジ色の模様が施されています。手足は細くて長い形状で、しっぽは尖っています。",
+        "reason": "イヴは新たな環境でより効率的に生存するために、より柔らかく鮮やかな色合いに進化しました。",
+        "thought": "『宇宙の美しさを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#6699ff'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='#99ccff'/><path d='M150,250 C180,320 220,320 250,250 C280,180 220,180 150,250 Z' fill='#3366ff'/><polygon points='160,240 200,210 240,240' fill='#3366ff'/><circle cx='180' cy='180' r='10' fill='black'/><circle cx='220' cy='180' r='10' fill='black'/><line x1='190' y1='240' x2='210' y2='240' stroke='black' stroke-width='2'/><line x1='200' y1='260' x2='200' y2='280' stroke='black' stroke-width='2'/><text x='190' y='300' font-family='Arial' font-size='16' fill='black'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色の爽やかな色調の体を持ち、大きな楕円形の目とシャープな顔つきが特徴です。頭部には濃い青色の角が生えており、スムーズな水色の体には青色の模様が入っています。手足は筋肉質で頑丈な形状で、しっぽは太くてしっかりとした造りです。",
+        "reason": "アダムは狩猟や防衛のためにより力強い体格と鮮やかな色調へ進化しました。",
+        "thought": "『強さと誇りを胸に』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1778034733156
   }
 ]
