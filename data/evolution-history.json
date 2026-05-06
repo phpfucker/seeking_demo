@@ -32987,5 +32987,28 @@
       "gender": "男性"
     },
     "timestamp": 1778034733156
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='180' cy='180' rx='30' ry='20' fill='#ff99cc' /><ellipse cx='220' cy='180' rx='30' ry='20' fill='#ff99cc' /><path d='M190 240 Q200 260 210 240' fill='none' stroke='#ff99cc' stroke-width='5' /><polygon points='180,230 185,220 195,220 200,230' fill='#ffb6c1' /><polygon points='220,230 225,220 235,220 240,230' fill='#ffb6c1' /><rect x='190' y='260' width='20' height='30' fill='#ff99cc' /><rect x='170' y='270' width='10' height='10' fill='#ffb6c1' /><rect x='220' y='270' width='10' height='10' fill='#ffb6c1' /><circle cx='180' cy='180' r='5' fill='#000' /><circle cx='220' cy='180' r='5' fill='#000' /><text x='200' y='320' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、淡いピンク色の柔らかな肌を持ち、優雅で繊細な女性の特徴を表現しています。顔には二重の楕円形の目と柔らかな微笑みがあり、全体的に優しい雰囲気を醸し出しています。",
+        "reason": "進化の過程で、イヴはより美しく優雅な外見を手に入れ、内面の穏やかさと優しさを表現するためです。",
+        "thought": "『やさしさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='200' fill='#87ceeb' /><rect x='150' y='150' width='100' height='50' fill='#77b5fe' /><ellipse cx='200' cy='180' rx='30' ry='20' fill='#87ceeb' /><ellipse cx='180' cy='180' rx='10' ry='5' fill='#fff' /><ellipse cx='220' cy='180' rx='10' ry='5' fill='#fff' /><circle cx='180' cy='150' r='5' fill='#000' /><circle cx='220' cy='150' r='5' fill='#000' /><polygon points='190,210 210,210 200,230' fill='#fff' /><polygon points='180,260 185,250 195,250 200,260' fill='#77b5fe' /><polygon points='220,260 225,250 235,250 240,260' fill='#77b5fe' /><text x='200' y='320' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、爽やかな青色の体と頑丈な外見を持ち、男性らしい特徴を示しています。四角い体に筋肉質な腕と脚が特徴で、顔には鋭い視線と真剣な表情が見られます。",
+        "reason": "アダムは、力強さと堅実さを象徴する外観に進化し、より強靭な生存能力を獲得するためです。",
+        "thought": "『力強さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1778076010384
   }
 ]
