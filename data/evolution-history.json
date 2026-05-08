@@ -33194,5 +33194,28 @@
       "gender": "男性"
     },
     "timestamp": 1778246668331
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#ffcccb'/><ellipse cx='200' cy='150' rx='80' ry='120' fill='#ffc0cb'/><path d='M120 200 L200 300 L280 200 Z' fill='#ff69b4'/><polygon points='200 80 170 120 230 120' fill='#ff1493'/><rect x='140' y='300' width='120' height='50' fill='#ff69b4'/><rect x='170' y='320' width='60' height='20' fill='#ff1493'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体に大きな赤いハート型の顔を持ち、背中には三角形の赤い羽が生えています。手はピンクの四角形で、足はピンクの長方形です。",
+        "reason": "愛と美しさを象徴する新たな進化が生命体に訪れたため、イヴはより華やかで魅力的な外見となりました。",
+        "thought": "『愛と美しさが力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#87ceeb'/><ellipse cx='200' cy='150' rx='80' ry='120' fill='#00bfff'/><path d='M120 200 L200 300 L280 200 Z' fill='#1e90ff'/><polygon points='200 80 170 120 230 120' fill='#00bfff'/><ellipse cx='200' cy='320' rx='50' ry='15' fill='#1e90ff'/><ellipse cx='200' cy='330' rx='5' ry='15' fill='#00bfff'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の体に大きな青い楕円形の顔を持ち、背中には青い三角形のシッポが生えています。手は青い三角形で、足は青い楕円形です。",
+        "reason": "知識と知性を象徴する新たな進化が生命体に訪れたため、アダムはより洗練された外見となりました。",
+        "thought": "『知識と知性が導く未来』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1778267521564
   }
 ]
