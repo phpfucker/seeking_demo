@@ -33148,5 +33148,28 @@
       "gender": "男性"
     },
     "timestamp": 1778208011029
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,97);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='200' cy='180' rx='100' ry='120' fill='url(#gradA)' /><ellipse cx='160' cy='150' rx='20' ry='10' fill='white' /><ellipse cx='240' cy='150' rx='20' ry='10' fill='white' /><path d='M170 240 Q200 270 230 240' fill='none' stroke='black' stroke-width='2' /><path d='M190 270 Q200 280 210 270' fill='none' stroke='black' stroke-width='2' /><path d='M140 180 Q200 100 260 180' fill='none' stroke='black' stroke-width='2' /><path d='M140 220 Q200 260 260 220' fill='none' stroke='black' stroke-width='2' /><polygon points='160,130 180,130 170,140' fill='black' /><polygon points='220,130 240,130 230,140' fill='black' /><polygon points='195,190 205,190 200,195' fill='black' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと赤のグラデーションで彩られた滑らかな皮膚を持つ女性生命体です。頭部には白い眼と長い鼻を持ち、優雅な角が生えています。四肢は細くしなやかで、胴体は美しい曲線を描いています。尾は繊細なリボンのような形状で、全体的に優美な雰囲気を醸し出しています。",
+        "reason": "イヴの進化は、自然界での環境変化により、生存競争への適応と美的な要素の両方が影響しています。美しい姿は仲間を引きつけ、環境への順応を助ける一方、しなやかな体は敏捷性と俊敏性を高め、生存率を向上させています。",
+        "thought": "『純粋な美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(173,216,230);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><rect x='150' y='100' width='100' height='160' rx='20' ry='20' fill='url(#gradB)' /><ellipse cx='200' cy='80' rx='80' ry='70' fill='url(#gradB)' /><circle cx='180' cy='70' r='10' fill='white' /><circle cx='220' cy='70' r='10' fill='white' /><path d='M180 240 Q200 270 220 240' fill='none' stroke='black' stroke-width='2' /><path d='M190 270 Q200 280 210 270' fill='none' stroke='black' stroke-width='2' /><line x1='150' y1='260' x2='130' y2='240' stroke='black' stroke-width='2' /><line x1='250' y1='260' x2='270' y2='240' stroke='black' stroke-width='2' /><polygon points='170,90 190,90 180,100' fill='black' /><polygon points='210,90 230,90 220,100' fill='black' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色のグラデーションで塗られた頑丈な体を持つ男性生命体です。頭部は丸く大きく、白い目と力強い角が特徴です。四肢は太く筋肉質で、胴体は立派な形状を保っています。尾は短く頑丈で、全体的に力強さと安定感を示しています。",
+        "reason": "アダムの進化は、厳しい環境での生存において、力強い外見と頑丈な体が生存競争に有利だったためです。青色は環境に溶け込みつつも威厳を示し、筋肉質な体は敵からの攻撃にも耐える強靭さを象徴しています。",
+        "thought": "『力強い守護者』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1778225080682
   }
 ]
