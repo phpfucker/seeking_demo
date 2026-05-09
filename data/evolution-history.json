@@ -33217,5 +33217,28 @@
       "gender": "男性"
     },
     "timestamp": 1778267521564
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccd6' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='#ff99aa' /><ellipse cx='160' cy='140' rx='20' ry='30' fill='#ffffff' /><ellipse cx='240' cy='140' rx='20' ry='30' fill='#ffffff' /><path d='M150 250 L140 280 L170 280 Z' fill='#ff99aa' /><path d='M250 250 L260 280 L230 280 Z' fill='#ff99aa' /><rect x='180' y='250' width='40' height='10' fill='#ffccd6' /><rect x='165' y='230' width='70' height='30' fill='#ffccd6' /><rect x='165' y='280' width='70' height='10' fill='#ffccd6' /><polygon points='180,200 200,180 220,200' fill='#ff99aa' /><polygon points='180,210 200,190 220,210' fill='#ff99aa' /><polygon points='180,220 200,200 220,220' fill='#ff99aa' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、優雅な女性の特徴を備えた進化した姿です。頭部には白い眼が描かれ、柔らかな毛並みで覆われた頭部と胴体、手足、しっぽが特徴的です。",
+        "reason": "自然界の変化により、イヴはより優美で知性的な特徴を身につける必要が生じ、進化して美しい外観を持つようになりました。",
+        "thought": "『宇宙の美しさを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='160' y='200' width='80' height='120' fill='#87ceeb' /><polygon points='200,180 220,200 180,200' fill='#87ceeb' /><polygon points='200,180 220,200 220,180' fill='#87ceeb' /><ellipse cx='200' cy='140' rx='30' ry='20' fill='#ffffff' /><path d='M190 250 L180 280 L210 280 Z' fill='#87ceeb' /><path d='M210 250 L220 280 L190 280 Z' fill='#87ceeb' /><circle cx='200' cy='250' r='20' fill='#87ceeb' /><rect x='190' y='270' width='20' height='10' fill='#87ceeb' /><line x1='160' y1='200' x2='140' y2='180' stroke='#ffffff' stroke-width='5' /><line x1='240' y1='200' x2='260' y2='180' stroke='#ffffff' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い体色を持ち、力強い男性の特徴を備えた進化した姿です。四角い頭部と頑丈な体、立派な手足、尾が特徴的であり、男らしい外観を示しています。",
+        "reason": "環境の変化により、アダムはより強靭で頑健な特徴を身につける必要が生じ、進化して力強い外観を持つようになりました。",
+        "thought": "『自然の摂理を受け入れる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1778294034122
   }
 ]
