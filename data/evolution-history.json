@@ -33286,5 +33286,28 @@
       "gender": "男性"
     },
     "timestamp": 1778332130186
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink'/><ellipse cx='200' cy='180' rx='50' ry='30' fill='white'/><circle cx='170' cy='170' r='10' fill='black'/><circle cx='230' cy='170' r='10' fill='black'/><path d='M190 230 Q200 250 210 230' fill='none' stroke='black'/><path d='M210 230 Q220 250 230 230' fill='none' stroke='black'/><line x1='170' y1='240' x2='150' y2='260' stroke='black' stroke-width='2'/><line x1='230' y1='240' x2='250' y2='260' stroke='black' stroke-width='2'/><polygon points='190,180 200,170 210,180' fill='lightpink'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体を持ち、白い楕円形の顔をしています。黒い目と薄いピンクのほほが特徴で、しっぽとしてピンク色の三角形を持っています。",
+        "reason": "イヴはより柔らかく優しい印象を与えるように進化しました。",
+        "thought": "『安らぎ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='120' width='100' height='160' fill='lightblue'/><circle cx='200' cy='180' r='50' fill='lightblue'/><ellipse cx='180' cy='170' rx='20' ry='10' fill='white'/><circle cx='170' cy='170' r='8' fill='black'/><circle cx='230' cy='170' r='8' fill='black'/><line x1='150' y1='280' x2='130' y2='300' stroke='black' stroke-width='2'/><line x1='250' y1='280' x2='270' y2='300' stroke='black' stroke-width='2'/><polygon points='190,170 200,160 210,170' fill='skyblue'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の体を持ち、丸い顔と大きな青い目が特徴です。白い楕円形の胸を持ち、しっかりとした体つきと四角い尻尾を持っています。",
+        "reason": "アダムはより力強さと安定感を持つように進化しました。",
+        "thought": "『堅実』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1778352907662
   }
 ]
