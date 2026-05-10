@@ -33309,5 +33309,28 @@
       "gender": "男性"
     },
     "timestamp": 1778352907662
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcc99'/><circle cx='200' cy='150' r='70' fill='#ff66cc'/><ellipse cx='160' cy='220' rx='30' ry='20' fill='#cc99ff'/><polygon points='140,140 160,120 180,140' fill='#ffcc99'/><path d='M190 180 L180 210 L220 210 L210 180 Z' fill='#ffcc99'/><line x1='150' y1='270' x2='180' y2='290' stroke='#000' stroke-width='3'/><line x1='250' y1='270' x2='220' y2='290' stroke='#000' stroke-width='3'/><line x1='190' y1='250' x2='210' y2='250' stroke='#000' stroke-width='3'/><line x1='190' y1='250' x2='190' y2='280' stroke='#000' stroke-width='3'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体にオレンジ色の角を持つ女性。紫色の眼と灰色の手足が特徴的で、顔には三角形の模様があります。",
+        "reason": "進化の結果、イヴは自然の調和を象徴する美しい色と模様を身に纏いました。",
+        "thought": "『宇宙と繋がる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#99ccff'/><circle cx='200' cy='150' r='70' fill='#66ffcc'/><ellipse cx='240' cy='220' rx='30' ry='20' fill='#ffcc99'/><polygon points='260,140 240,120 220,140' fill='#99ccff'/><path d='M210 180 L220 210 L180 210 L190 180 Z' fill='#99ccff'/><line x1='150' y1='270' x2='180' y2='290' stroke='#000' stroke-width='3'/><line x1='250' y1='270' x2='220' y2='290' stroke='#000' stroke-width='3'/><line x1='210' y1='250' x2='190' y2='250' stroke='#000' stroke-width='3'/><line x1='210' y1='250' x2='210' y2='280' stroke='#000' stroke-width='3'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に緑色の角を持つ男性。オレンジ色の眼と灰色の手足が特徴的で、顔には三角形の模様があります。",
+        "reason": "進化の結果、アダムは宇宙の神秘を象徴する色と模様を身に纏いました。",
+        "thought": "『宇宙の一部』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1778380669066
   }
 ]
