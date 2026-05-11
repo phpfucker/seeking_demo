@@ -33447,5 +33447,28 @@
       "gender": "男性"
     },
     "timestamp": 1778491975227
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99' /><polygon points='200,50 250,150 150,150' fill='#ff9966' /><rect x='170' y='200' width='60' height='100' fill='#ff9966' /><ellipse cx='180' cy='150' rx='40' ry='30' fill='#ffcc99' /><path d='M160 250 Q200 300 240 250' fill='none' stroke='#ff9966' stroke-width='5' /><line x1='160' y1='160' x2='140' y2='170' stroke='#ff9966' stroke-width='5' /><line x1='240' y1='160' x2='260' y2='170' stroke='#ff9966' stroke-width='5' /><circle cx='170' cy='120' r='10' fill='#ffffff' /><circle cx='230' cy='120' r='10' fill='#ffffff' /><path d='M200 220 Q190 240 200 260 Q210 240 200 220' fill='#ffffff' /><path d='M170 330 Q180 340 190 330 Q200 340 210 330' fill='none' stroke='#ff9966' stroke-width='3' /><path d='M210 330 Q220 340 230 330 Q240 340 250 330' fill='none' stroke='#ff9966' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "イヴは大きな円形の体にピンク色の皮膚を持ち、頭部は楕円形でクリーム色、顔には橙色の模様があります。手は短く、足は丸みを帯びた四角形状で、しっぽは二つに分かれています。",
+        "reason": "新たな環境に適応するため、イヴは柔軟性を持った手足や分かれたしっぽを進化させました。",
+        "thought": "『調和の中に進化がある』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#85c1e9' /><polygon points='200,50 250,150 150,150' fill='#3498db' /><rect x='170' y='200' width='60' height='100' fill='#3498db' /><ellipse cx='180' cy='150' rx='40' ry='30' fill='#85c1e9' /><path d='M160 250 Q200 300 240 250' fill='none' stroke='#3498db' stroke-width='5' /><line x1='160' y1='160' x2='140' y2='170' stroke='#3498db' stroke-width='5' /><line x1='240' y1='160' x2='260' y2='170' stroke='#3498db' stroke-width='5' /><circle cx='170' cy='120' r='10' fill='#ffffff' /><circle cx='230' cy='120' r='10' fill='#ffffff' /><path d='M200 220 Q190 240 200 260 Q210 240 200 220' fill='#ffffff' /><path d='M170 330 Q180 340 190 330 Q200 340 210 330' fill='none' stroke='#3498db' stroke-width='3' /><path d='M210 330 Q220 340 230 330 Q240 340 250 330' fill='none' stroke='#3498db' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "アダムは青い円形の体を持ち、頭部は楕円形で浅い青色、顔には濃い青色の模様があります。手は短く、足は丸みを帯びた四角形状で、しっぽは二つに分かれています。",
+        "reason": "アダムは狩猟や運動能力の向上のため、しなやかな手足や分かれたしっぽを進化させました。",
+        "thought": "『未来への飛翔』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1778510497216
   }
 ]
