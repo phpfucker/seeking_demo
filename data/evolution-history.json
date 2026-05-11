@@ -33401,5 +33401,28 @@
       "gender": "男性"
     },
     "timestamp": 1778439444844
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='180' rx='120' ry='150' fill='#ffdab9' /><polygon points='180,250 220,250 200,280' fill='#ff9999' /><rect x='170' y='280' width='60' height='20' fill='#ff6666' /><path d='M180 200 Q200 150 220 200' fill='none' stroke='#ff3333' stroke-width='5' /><line x1='180' y1='210' x2='175' y2='205' stroke='#ff3333' stroke-width='5' /><line x1='220' y1='210' x2='225' y2='205' stroke='#ff3333' stroke-width='5' /><circle cx='190' cy='180' r='10' fill='#660000' /><circle cx='210' cy='180' r='10' fill='#660000' /><circle cx='190' cy='180' r='5' fill='#fff' /><circle cx='210' cy='180' r='5' fill='#fff' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、優雅な曲線の体と橙色の髪が特徴です。顔には赤い頬と大きな目があり、鼻と口は小さく描かれています。背中には小さな赤い羽根が生えています。手は長く華奢で、指先には小さな爪があります。腰の辺りには赤い花が飾られています。",
+        "reason": "イヴは美しさと優しさを象徴する進化を遂げました。自然と調和し、生命を育む存在としての特性が表れています。",
+        "thought": "『愛と美しさの融合』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='120' ry='150' fill='#add8e6' /><circle cx='200' cy='180' r='150' fill='#b0e0e6' /><polygon points='180,250 220,250 200,280' fill='#87cefa' /><rect x='170' y='280' width='60' height='20' fill='#4682b4' /><path d='M180 200 Q200 150 220 200' fill='none' stroke='#4169e1' stroke-width='5' /><line x1='180' y1='210' x2='175' y2='205' stroke='#4169e1' stroke-width='5' /><line x1='220' y1='210' x2='225' y2='205' stroke='#4169e1' stroke-width='5' /><circle cx='190' cy='180' r='10' fill='#000080' /><circle cx='210' cy='180' r='10' fill='#000080' /><circle cx='190' cy='180' r='5' fill='#fff' /><circle cx='210' cy='180' r='5' fill='#fff' /></svg>",
+      "report": {
+        "appearance": "アダムは、淡い青色の肌と透明感のある体を持ち、優雅なラインが特徴です。彼の顔には穏やかな表情と大きな目が描かれており、口元には微笑みが浮かんでいます。背中には青い羽根が生えており、腰には青い宝石が飾られています。",
+        "reason": "アダムは穏やかさと知恵を象徴する進化を遂げました。知性と平和を持つ存在としての特性が現れています。",
+        "thought": "『穏やかな智慧』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1778467664912
   }
 ]
