@@ -33470,5 +33470,28 @@
       "gender": "男性"
     },
     "timestamp": 1778510497216
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,0,0);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,255,0);stop-opacity:1' /></linearGradient></defs><rect x='50' y='50' width='300' height='300' fill='url(#gradA)' /><circle cx='200' cy='150' r='100' fill='none' stroke='black' stroke-width='2' /><circle cx='140' cy='125' r='15' fill='white' /><circle cx='260' cy='125' r='15' fill='white' /><path d='M150 250 Q200 300 250 250' fill='none' stroke='black' stroke-width='2' /><path d='M150 270 Q200 300 250 270' fill='none' stroke='black' stroke-width='2' /><line x1='160' y1='120' x2='180' y2='120' stroke='black' stroke-width='2' /><line x1='220' y1='120' x2='240' y2='120' stroke='black' stroke-width='2' /><line x1='180' y1='200' x2='220' y2='200' stroke='black' stroke-width='2' /><line x1='180' y1='220' x2='220' y2='220' stroke='black' stroke-width='2' /><polygon points='175,100 225,100 200,115' fill='black' /><text x='200' y='350' fill='black' font-size='20' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、赤と黄色のグラデーションがかった美しい体色を持つ女性の生命体です。体は円滑で滑らかな曲線を特徴とし、顔には瞳が大きく描かれています。白い目と口元がやわらかな表情を演出しています。手足はしなやかで細長く、頭部には短い角が生えています。",
+        "reason": "イヴは、自然の摂理によって進化しました。環境への適応と美しさの両方を備えることで、生存と繁栄を目指して進化を遂げました。",
+        "thought": "『調和と美しさを大切に』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><radialGradient id='gradB' cx='50%' cy='50%' r='50%' fx='50%' fy='50%'><stop offset='0%' style='stop-color:rgb(0,0,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,255,255);stop-opacity:1' /></radialGradient></defs><rect x='50' y='50' width='300' height='300' fill='url(#gradB)' /><ellipse cx='200' cy='150' rx='120' ry='80' fill='none' stroke='black' stroke-width='2' /><circle cx='160' cy='130' r='15' fill='white' /><circle cx='240' cy='130' r='15' fill='white' /><path d='M150 250 Q200 200 250 250' fill='none' stroke='black' stroke-width='2' /><path d='M150 270 Q200 220 250 270' fill='none' stroke='black' stroke-width='2' /><line x1='160' y1='120' x2='180' y2='120' stroke='black' stroke-width='2' /><line x1='220' y1='120' x2='240' y2='120' stroke='black' stroke-width='2' /><line x1='180' y1='200' x2='220' y2='200' stroke='black' stroke-width='2' /><line x1='180' y1='220' x2='220' y2='220' stroke='black' stroke-width='2' /><polygon points='175,100 225,100 200,115' fill='black' /><text x='200' y='350' fill='black' font-size='20' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色が混ざったグラデーションが美しい体色を持つ男性の生命体です。体は楕円形で力強い印象を与え、顔には凛々しい表情が見られます。大きな目とシャープな口元が特徴的で、手足はがっしりとしています。",
+        "reason": "アダムは、狩猟や防衛のための生存戦略の一環として進化しました。強靭な体と鋭い感覚を持つことで、生存競争に勝利するために進化を遂げました。",
+        "thought": "『力強く、勇敢に』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1778528530646
   }
 ]
