@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><rect x='125' y='200' width='150' height='180' fill='#ffb6c1'/><ellipse cx='200' cy='100' rx='80' ry='100' fill='#ff99bb'/><path d='M170 140 Q200 110 230 140 Q200 200 170 140 Z' fill='#ff85a2'/><path d='M160 290 Q200 320 240 290 Q200 350 160 290 Z' fill='#ff85a2'/><circle cx='170' cy='100' r='10' fill='#000'/><circle cx='230' cy='100' r='10' fill='#000'/><polygon points='180,160 200,200 220,160' fill='#000'/><polygon points='170,280 200,320 230,280' fill='#000'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,166,199);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,102,204);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='150' cy='180' rx='30' ry='20' fill='white' /><ellipse cx='250' cy='180' rx='30' ry='20' fill='white' /><path d='M150 250 Q200 300 250 250' stroke='black' stroke-width='2' fill='none' /><path d='M160 220 Q200 260 240 220' stroke='black' stroke-width='2' fill='none' /><rect x='180' y='250' width='40' height='10' fill='black' /><circle cx='180' cy='190' r='5' fill='black' /><circle cx='220' cy='190' r='5' fill='black' /><circle cx='180' cy='190' r='2' fill='white' /><circle cx='220' cy='190' r='2' fill='white' /><circle cx='210' cy='170' r='5' fill='black' /><circle cx='190' cy='170' r='5' fill='black' /><polygon points='180,220 190,210 200,220' fill='black' /><polygon points='210,220 220,210 230,220' fill='black' /></svg>",
     "report": {
-      "appearance": "イヴはピンク色の柔らかな肌と赤い髪とを持つ女性で、背中には二つの柔らかい翼が生えている。彼女の体は優雅で柔らかい曲線で構成され、大きな目と小さな口元が特徴的。",
-      "reason": "イヴは自然の優美さと神秘性を象徴し、進化によってより美しく優雅な姿に変化した。",
-      "thought": "『自然の美しさを感じる』"
+      "appearance": "イヴは、ピンクと紫のグラデーションが美しい女性型生命体です。体は丸く愛らしく、背中に小さな角が生え、しっぽが優雅に広がっています。手足は柔らかな曲線で描かれ、顔にはやさしい表情が浮かんでいます。",
+      "reason": "イヴは自然と調和し、新たな命を生み出す存在として進化しました。その優しさと美しさは、生命の尊さと豊かさを象徴しています。",
+      "thought": "『命の循環が美しい』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6'/><rect x='125' y='200' width='150' height='180' fill='#87ceeb'/><ellipse cx='200' cy='100' rx='80' ry='100' fill='#6495ed'/><path d='M170 140 Q200 110 230 140 Q200 200 170 140 Z' fill='#4169e1'/><path d='M160 310 Q200 320 240 310 Q200 360 160 310 Z' fill='#4169e1'/><circle cx='170' cy='100' r='10' fill='#000'/><circle cx='230' cy='100' r='10' fill='#000'/><polygon points='180,150 200,190 220,150' fill='#000'/><polygon points='170,300 200,340 230,300' fill='#000'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(102,178,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(51,153,255);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradB)' /><ellipse cx='150' cy='180' rx='30' ry='20' fill='white' /><ellipse cx='250' cy='180' rx='30' ry='20' fill='white' /><path d='M150 250 Q200 300 250 250' stroke='black' stroke-width='2' fill='none' /><path d='M160 220 Q200 260 240 220' stroke='black' stroke-width='2' fill='none' /><rect x='180' y='250' width='40' height='10' fill='black' /><circle cx='180' cy='190' r='5' fill='black' /><circle cx='220' cy='190' r='5' fill='black' /><circle cx='180' cy='190' r='2' fill='white' /><circle cx='220' cy='190' r='2' fill='white' /><circle cx='210' cy='170' r='5' fill='black' /><circle cx='190' cy='170' r='5' fill='black' /><polygon points='175,220 195,210 205,210 225,220 205,230 195,230' fill='black' /></svg>",
     "report": {
-      "appearance": "アダムは青色の肌を持つ男性で、深い海のような青色が全身に広がる。彼の体は筋肉質で力強く、頭には水晶のように透明な角が生えている。大きな眼と鋭い爪が特徴。",
-      "reason": "アダムは海洋の神秘と力強さを表し、進化によってより力強で神秘的な姿に変化した。",
-      "thought": "『深海の底に秘められた謎』"
+      "appearance": "アダムは、青と水色のグラデーションが美しい男性型生命体です。体は力強く引き締まり、背中に小さな角が生え、尾が凛々しく広がっています。手足は力強いラインで表現され、顔には威厳のある表情が見て取れます。",
+      "reason": "アダムは自然の中での生存競争において進化し、強さと知恵を兼ね備えた存在となりました。その風格と威厳は、生命の輝かしい力を示しています。",
+      "thought": "『知恵と力強さを持つ』"
     },
     "name": "アダム",
     "gender": "男性"

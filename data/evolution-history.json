@@ -33493,5 +33493,28 @@
       "gender": "男性"
     },
     "timestamp": 1778528530646
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><rect x='125' y='200' width='150' height='180' fill='#ffb6c1'/><ellipse cx='200' cy='100' rx='80' ry='100' fill='#ff99bb'/><path d='M170 140 Q200 110 230 140 Q200 200 170 140 Z' fill='#ff85a2'/><path d='M160 290 Q200 320 240 290 Q200 350 160 290 Z' fill='#ff85a2'/><circle cx='170' cy='100' r='10' fill='#000'/><circle cx='230' cy='100' r='10' fill='#000'/><polygon points='180,160 200,200 220,160' fill='#000'/><polygon points='170,280 200,320 230,280' fill='#000'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかな肌と赤い髪とを持つ女性で、背中には二つの柔らかい翼が生えている。彼女の体は優雅で柔らかい曲線で構成され、大きな目と小さな口元が特徴的。",
+        "reason": "イヴは自然の優美さと神秘性を象徴し、進化によってより美しく優雅な姿に変化した。",
+        "thought": "『自然の美しさを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6'/><rect x='125' y='200' width='150' height='180' fill='#87ceeb'/><ellipse cx='200' cy='100' rx='80' ry='100' fill='#6495ed'/><path d='M170 140 Q200 110 230 140 Q200 200 170 140 Z' fill='#4169e1'/><path d='M160 310 Q200 320 240 310 Q200 360 160 310 Z' fill='#4169e1'/><circle cx='170' cy='100' r='10' fill='#000'/><circle cx='230' cy='100' r='10' fill='#000'/><polygon points='180,150 200,190 220,150' fill='#000'/><polygon points='170,300 200,340 230,300' fill='#000'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の肌を持つ男性で、深い海のような青色が全身に広がる。彼の体は筋肉質で力強く、頭には水晶のように透明な角が生えている。大きな眼と鋭い爪が特徴。",
+        "reason": "アダムは海洋の神秘と力強さを表し、進化によってより力強で神秘的な姿に変化した。",
+        "thought": "『深海の底に秘められた謎』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1778553605834
   }
 ]
