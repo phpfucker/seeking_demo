@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
+    "svg": "<svg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='150' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='100' rx='70' ry='50' fill='#ffb6c1'/><path d='M150 200 Q200 300 250 200' fill='none' stroke='#e75480' stroke-width='5'/><circle cx='180' cy='110' r='5' fill='#000'/><circle cx='220' cy='110' r='5' fill='#000'/><path d='M150 250 Q200 300 250 250' fill='none' stroke='#e75480' stroke-width='5'/><circle cx='170' cy='240' r='5' fill='#000'/><circle cx='210' cy='240' r='5' fill='#000'/><line x1='185' y1='290' x2='215' y2='290' stroke='#000' stroke-width='5'/><polygon points='180,130 200,120 220,130' fill='#000'/></svg>",
     "report": {
-      "appearance": "イヴは、光を放つ鱗の体を持ち、輝く角と流れるようなしっぽを持つ美しい女性の姿をしています。蝶のような翼と幻想的な模様が全体を彩ります。",
-      "reason": "イヴは、新たな環境に適応するために、自然の力を取り入れた進化を遂げました。",
-      "thought": "『光と自然の力が宿る私』"
+      "appearance": "イヴは、桃色の肌に優雅な体型を持つ女性。頭部にはピンク色の長い髪が垂れ、赤い目が優しく輝いている。手足は柔らかな曲線で描かれ、しっぽが優美に広がっている。",
+      "reason": "女性的な美しさと優雅さを追求する進化が起こった。",
+      "thought": "『愛と美の調和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
+    "svg": "<svg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='150' width='200' height='200' fill='#add8e6'/><ellipse cx='200' cy='100' rx='70' ry='50' fill='#87ceeb'/><path d='M150 200 Q200 300 250 200' fill='none' stroke='#4682b4' stroke-width='5'/><circle cx='180' cy='110' r='5' fill='#000'/><circle cx='220' cy='110' r='5' fill='#000'/><path d='M150 250 Q200 300 250 250' fill='none' stroke='#4682b4' stroke-width='5'/><circle cx='170' cy='240' r='5' fill='#000'/><circle cx='210' cy='240' r='5' fill='#000'/><line x1='185' y1='290' x2='215' y2='290' stroke='#000' stroke-width='5'/><polygon points='180,130 200,120 220,130' fill='#000'/></svg>",
     "report": {
-      "appearance": "アダムは、岩石のような堅固な体と荒々しい角、燃え盛る炎のような模様が特徴です。鋭い爪と筋肉質な腕が力強さを表しています。",
-      "reason": "アダムは、過酷な環境の中での生存を支えるために、炎と岩の力を宿した進化を果たしました。",
-      "thought": "『不屈の闘志を持つ私』"
+      "appearance": "アダムは、青みがかった肌を持つ男性。体格ががっしりしており、頭部には短い青い毛髪が生えている。目は真剣な表情を浮かべ、力強い手足がたくましさを象徴している。",
+      "reason": "男性的な力強さと頼りになる特性を強化する進化が起こった。",
+      "thought": "『勇気と力』"
     },
     "name": "アダム",
     "gender": "男性"
