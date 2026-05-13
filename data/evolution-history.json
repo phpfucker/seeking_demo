@@ -33608,5 +33608,28 @@
       "gender": "男性"
     },
     "timestamp": 1778640347661
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99' /><ellipse cx='170' cy='150' rx='25' ry='40' fill='#ffd699' /><ellipse cx='230' cy='150' rx='25' ry='40' fill='#ffd699' /><path d='M200,200 L180,220 L220,220 Z' fill='#ffaa66' /><rect x='180' y='220' width='40' height='60' fill='#ffaa66' /><polygon points='190,140 200,130 210,140' fill='#331a00' /><polygon points='160,180 150,190 160,200' fill='#331a00' /><polygon points='240,180 250,190 240,200' fill='#331a00' /><line x1='190' y1='230' x2='210' y2='230' stroke='#331a00' stroke-width='2' /><line x1='185' y1='280' x2='215' y2='280' stroke='#331a00' stroke-width='5' /><line x1='170' y1='250' x2='150' y2='270' stroke='#331a00' stroke-width='3' /><line x1='230' y1='250' x2='250' y2='270' stroke='#331a00' stroke-width='3' /><circle cx='180' cy='280' r='5' fill='#331a00' /><circle cx='220' cy='280' r='5' fill='#331a00' /><text x='200' y='350' fill='#331a00' font-family='Arial' font-size='20' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、全体的にピンク色の肌を持ち、目立つ角の装飾がある。手足はオレンジ色で、上半身がくすんだピンク色の服を着ている。しっぽは太く短く、茶色である。",
+        "reason": "イヴは、新たな進化を遂げ、自然の中でより生存に適した姿に進化した。",
+        "thought": "『自然と調和する』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='200' fill='#6699ff' /><rect x='150' y='150' width='100' height='50' fill='#99ccff' /><ellipse cx='200' cy='130' rx='40' ry='25' fill='#99ccff' /><polygon points='150,150 200,100 250,150' fill='#1a3280' /><polygon points='170,230 180,240 190,230' fill='#1a3280' /><polygon points='210,230 220,240 230,230' fill='#1a3280' /><line x1='170' y1='200' x2='150' y2='180' stroke='#1a3280' stroke-width='2' /><line x1='230' y1='200' x2='250' y2='180' stroke='#1a3280' stroke-width='2' /><circle cx='170' cy='240' r='5' fill='#1a3280' /><circle cx='230' cy='240' r='5' fill='#1a3280' /><text x='200' y='380' fill='#1a3280' font-family='Arial' font-size='20' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青色の全身と薄い青色の上半身を持つ。顔には特徴的な模様があり、手足は濃い青色である。背中には短いしっぽが生え、頭には装飾のような突起がある。",
+        "reason": "アダムは、環境への順応力を高め、新たな獲得能力を持つための進化を遂げた。",
+        "thought": "『進化の力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1778661561298
   }
 ]
