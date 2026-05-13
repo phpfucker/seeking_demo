@@ -33654,5 +33654,28 @@
       "gender": "男性"
     },
     "timestamp": 1778682286952
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff99cc' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='#ff66cc' /><rect x='160' y='220' width='80' height='60' fill='#ff99cc' /><polygon points='140,150 200,100 260,150' fill='#ff66cc' /><path d='M180 230 Q200 260 220 230' fill='none' stroke='#ff66cc' stroke-width='4' /><line x1='190' y1='150' x2='210' y2='150' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='165' x2='210' y2='165' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='180' x2='210' y2='180' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='195' x2='210' y2='195' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='210' x2='210' y2='210' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='225' x2='210' y2='225' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='240' x2='210' y2='240' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='255' x2='210' y2='255' stroke='#ffffff' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の大きな円形の体に、薄紫色の楕円形の顔と、薄ピンク色の三角形の髪の毛を持つ女性である。手は薄ピンク色の長方形であり、足は薄紫色の三角形である。優雅で柔らかな印象を与える外見を持っている。",
+        "reason": "イヴは新たな進化を果たし、愛と美しさを象徴する色彩と形状を持つようになった。",
+        "thought": "『愛と美しさが世界を輝かせる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#6699ff' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='#3366ff' /><rect x='160' y='220' width='80' height='60' fill='#6699ff' /><polygon points='140,150 200,100 260,150' fill='#3366ff' /><path d='M180 230 Q200 260 220 230' fill='none' stroke='#3366ff' stroke-width='4' /><line x1='190' y1='150' x2='210' y2='150' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='165' x2='210' y2='165' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='180' x2='210' y2='180' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='195' x2='210' y2='195' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='210' x2='210' y2='210' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='225' x2='210' y2='225' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='240' x2='210' y2='240' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='255' x2='210' y2='255' stroke='#ffffff' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の大きな円形の体に、濃い青色の楕円形の顔と、濃い青色の三角形の髪の毛を持つ男性である。手は青色の長方形であり、足は青色の三角形である。力強く逞しい印象を与える外見を持っている。",
+        "reason": "アダムは新たな進化を果たし、知識と力強さを象徴する色彩と形状を持つようになった。",
+        "thought": "『知識と力強さで未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1778701764139
   }
 ]

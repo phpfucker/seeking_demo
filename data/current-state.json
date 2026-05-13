@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff99cc' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='#ff66cc' /><rect x='160' y='220' width='80' height='60' fill='#ff99cc' /><polygon points='140,150 200,100 260,150' fill='#ff66cc' /><path d='M180 230 Q200 260 220 230' fill='none' stroke='#ff66cc' stroke-width='4' /><line x1='190' y1='150' x2='210' y2='150' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='165' x2='210' y2='165' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='180' x2='210' y2='180' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='195' x2='210' y2='195' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='210' x2='210' y2='210' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='225' x2='210' y2='225' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='240' x2='210' y2='240' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='255' x2='210' y2='255' stroke='#ffffff' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink'/><ellipse cx='200' cy='170' rx='80' ry='100' fill='pink'/><rect x='170' y='220' width='60' height='25' fill='pink'/><polygon points='200,170 170,220 230,220' fill='pink'/><circle cx='170' cy='170' r='15' fill='white'/><circle cx='230' cy='170' r='15' fill='white'/><path d='M200,250 Q180,270 200,290 Q220,270 200,250' fill='pink'/><line x1='180' y1='220' x2='170' y2='250' stroke='pink' stroke-width='2'/><line x1='220' y1='220' x2='230' y2='250' stroke='pink' stroke-width='2'/><circle cx='190' cy='160' r='5' fill='black'/><circle cx='210' cy='160' r='5' fill='black'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の大きな円形の体に、薄紫色の楕円形の顔と、薄ピンク色の三角形の髪の毛を持つ女性である。手は薄ピンク色の長方形であり、足は薄紫色の三角形である。優雅で柔らかな印象を与える外見を持っている。",
-      "reason": "イヴは新たな進化を果たし、愛と美しさを象徴する色彩と形状を持つようになった。",
-      "thought": "『愛と美しさが世界を輝かせる』"
+      "appearance": "イヴは、ピンク色の柔らかい体と大きな目を持つ女性。頭部には角があり、手足には小さな手指と足指がある。しっぽはなく、優しい表情をしている。",
+      "reason": "進化の過程で、より愛らしさと繊細さを強調するために外見が変化した。",
+      "thought": "『生命の喜び』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#6699ff' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='#3366ff' /><rect x='160' y='220' width='80' height='60' fill='#6699ff' /><polygon points='140,150 200,100 260,150' fill='#3366ff' /><path d='M180 230 Q200 260 220 230' fill='none' stroke='#3366ff' stroke-width='4' /><line x1='190' y1='150' x2='210' y2='150' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='165' x2='210' y2='165' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='180' x2='210' y2='180' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='195' x2='210' y2='195' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='210' x2='210' y2='210' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='225' x2='210' y2='225' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='240' x2='210' y2='240' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='255' x2='210' y2='255' stroke='#ffffff' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightblue'/><ellipse cx='200' cy='170' rx='80' ry='100' fill='lightblue'/><rect x='170' y='220' width='60' height='25' fill='lightblue'/><polygon points='200,170 170,220 230,220' fill='lightblue'/><circle cx='170' cy='170' r='15' fill='white'/><circle cx='230' cy='170' r='15' fill='white'/><path d='M200,250 Q180,270 200,290 Q220,270 200,250' fill='lightblue'/><line x1='180' y1='220' x2='170' y2='250' stroke='lightblue' stroke-width='2'/><line x1='220' y1='220' x2='230' y2='250' stroke='lightblue' stroke-width='2'/><rect x='190' y='160' width='20' height='10' fill='black'/></svg>",
     "report": {
-      "appearance": "アダムは、青色の大きな円形の体に、濃い青色の楕円形の顔と、濃い青色の三角形の髪の毛を持つ男性である。手は青色の長方形であり、足は青色の三角形である。力強く逞しい印象を与える外見を持っている。",
-      "reason": "アダムは新たな進化を果たし、知識と力強さを象徴する色彩と形状を持つようになった。",
-      "thought": "『知識と力強さで未来を切り拓く』"
+      "appearance": "アダムは、薄い青色の体と大きな目を持つ男性。頭部には角があり、手足には小さな手指と足指がある。しっぽはなく、真剣な表情をしている。",
+      "reason": "進化の過程で、より力強さと知性を表現するために外見が変化した。",
+      "thought": "『知識の探求』"
     },
     "name": "アダム",
     "gender": "男性"
