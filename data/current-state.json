@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffecb3' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='#fdd835' /><path d='M170 160 L180 140 L190 160 Z' fill='#795548' /><path d='M230 160 L220 140 L210 160 Z' fill='#795548' /><ellipse cx='170' cy='240' rx='20' ry='10' fill='#6d4c41' /><ellipse cx='230' cy='240' rx='20' ry='10' fill='#6d4c41' /><path d='M160 180 Q200 220 240 180' fill='none' stroke='#6d4c41' stroke-width='3' /><line x1='200' y1='220' x2='200' y2='260' stroke='#6d4c41' stroke-width='5' /><circle cx='200' cy='260' r='10' fill='#6d4c41' /><text x='200' y='320' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff99cc' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='#ff66cc' /><rect x='160' y='220' width='80' height='60' fill='#ff99cc' /><polygon points='140,150 200,100 260,150' fill='#ff66cc' /><path d='M180 230 Q200 260 220 230' fill='none' stroke='#ff66cc' stroke-width='4' /><line x1='190' y1='150' x2='210' y2='150' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='165' x2='210' y2='165' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='180' x2='210' y2='180' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='195' x2='210' y2='195' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='210' x2='210' y2='210' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='225' x2='210' y2='225' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='240' x2='210' y2='240' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='255' x2='210' y2='255' stroke='#ffffff' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "全身が金色の輝く毛皮に覆われ、大きな黄色い眼を持ち、細長い触角があります。4本の脚には茶色の模様が入り、しなやかなしっぽが尾端にあります。",
-      "reason": "環境の変化により、イヴは光を利用する生態系に適応するため、美しい金色の毛皮と大きな眼が進化しました。",
-      "thought": "『光の中で輝く喜び』"
+      "appearance": "イヴは、ピンク色の大きな円形の体に、薄紫色の楕円形の顔と、薄ピンク色の三角形の髪の毛を持つ女性である。手は薄ピンク色の長方形であり、足は薄紫色の三角形である。優雅で柔らかな印象を与える外見を持っている。",
+      "reason": "イヴは新たな進化を果たし、愛と美しさを象徴する色彩と形状を持つようになった。",
+      "thought": "『愛と美しさが世界を輝かせる』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='120' width='100' height='160' fill='#607d8b' /><circle cx='200' cy='100' r='80' fill='#90a4ae' /><circle cx='170' cy='90' r='10' fill='#6d4c41' /><circle cx='230' cy='90' r='10' fill='#6d4c41' /><ellipse cx='170' cy='150' rx='20' ry='10' fill='#795548' /><ellipse cx='230' cy='150' rx='20' ry='10' fill='#795548' /><ellipse cx='170' cy='240' rx='20' ry='10' fill='#795548' /><ellipse cx='230' cy='240' rx='20' ry='10' fill='#795548' /><text x='200' y='320' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#6699ff' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='#3366ff' /><rect x='160' y='220' width='80' height='60' fill='#6699ff' /><polygon points='140,150 200,100 260,150' fill='#3366ff' /><path d='M180 230 Q200 260 220 230' fill='none' stroke='#3366ff' stroke-width='4' /><line x1='190' y1='150' x2='210' y2='150' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='165' x2='210' y2='165' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='180' x2='210' y2='180' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='195' x2='210' y2='195' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='210' x2='210' y2='210' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='225' x2='210' y2='225' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='240' x2='210' y2='240' stroke='#ffffff' stroke-width='2' /><line x1='190' y1='255' x2='210' y2='255' stroke='#ffffff' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "青い鱗で覆われ、大きな灰色の頭部には3つの目があります。4本の足には灰色の鉤爪が付いており、しっかりとした尾があります。",
-      "reason": "アダムは新たな捕食者となるため、青い鱗と鉤爪の進化が起き、3つの目は周囲の状況をより正確にとらえるために発達しました。",
-      "thought": "『闇の中での孤独な戦い』"
+      "appearance": "アダムは、青色の大きな円形の体に、濃い青色の楕円形の顔と、濃い青色の三角形の髪の毛を持つ男性である。手は青色の長方形であり、足は青色の三角形である。力強く逞しい印象を与える外見を持っている。",
+      "reason": "アダムは新たな進化を果たし、知識と力強さを象徴する色彩と形状を持つようになった。",
+      "thought": "『知識と力強さで未来を切り拓く』"
     },
     "name": "アダム",
     "gender": "男性"
