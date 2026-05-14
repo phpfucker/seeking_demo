@@ -33746,5 +33746,28 @@
       "gender": "男性"
     },
     "timestamp": 1778767276434
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><rect x='50' y='100' width='300' height='200' fill='url(#gradA)' /><path d='M200,100 L150,200 L250,200 Z' fill='rgb(255,222,173)' /><circle cx='200' cy='150' r='30' fill='rgb(255,218,185)' /><circle cx='180' cy='145' r='5' fill='black' /><circle cx='220' cy='145' r='5' fill='black' /><path d='M170,200 Q200,230 230,200' fill='none' stroke='black' stroke-width='2' /><line x1='180' y1='210' x2='180' y2='230' stroke='black' stroke-width='2' /><line x1='220' y1='210' x2='220' y2='230' stroke='black' stroke-width='2' /><polygon points='190,240 210,240 200,260' fill='rgb(255,218,185)' /><ellipse cx='200' cy='280' rx='30' ry='15' fill='rgb(255,218,185)' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとオレンジのグラデーションが美しい肌を持つ女性像。体の中心には淡いイエロー色の模様が施され、優雅な曲線を持つ。頭部には大きな円形の目と、やわらかい表情をした口があり、長い耳と尖った角が特徴的。",
+        "reason": "イヴは、新たな環境に適応するため、柔軟性と知性を高めるために進化した。",
+        "thought": "『愛と知恵』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(173,216,230);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><rect x='50' y='100' width='300' height='200' fill='url(#gradB)' /><path d='M200,100 L150,200 L250,200 Z' fill='rgb(240,248,255)' /><circle cx='200' cy='150' r='30' fill='rgb(176,224,230)' /><circle cx='180' cy='145' r='5' fill='black' /><circle cx='220' cy='145' r='5' fill='black' /><path d='M170,200 Q200,230 230,200' fill='none' stroke='black' stroke-width='2' /><line x1='180' y1='210' x2='180' y2='230' stroke='black' stroke-width='2' /><line x1='220' y1='210' x2='220' y2='230' stroke='black' stroke-width='2' /><polygon points='190,240 210,240 200,260' fill='rgb(176,224,230)' /><ellipse cx='200' cy='280' rx='30' ry='15' fill='rgb(176,224,230)' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色のグラデーションが美しい肌を持つ男性像。体の中心には淡い水色の模様が施され、力強い筋肉と逞しい輪郭を持つ。頭部には大きな円形の目と、真剣な表情をした口があり、鋭い角と太い尾が特徴的。",
+        "reason": "アダムは、狩猟や生存競争において優位に立つため、力強さと俊敏さを高めるために進化した。",
+        "thought": "『勇気と信念』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1778787688475
   }
 ]
