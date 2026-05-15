@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99'/><ellipse cx='200' cy='250' rx='120' ry='70' fill='#ffcc99'/><rect x='160' y='150' width='80' height='20' fill='#b5651d'/><rect x='200' y='160' width='20' height='40' fill='#b5651d'/><path d='M180 180 Q200 220 220 180' fill='none' stroke='#b5651d' stroke-width='3'/><polygon points='180,250 220,250 200,280' fill='#ffcc99'/><ellipse cx='180' cy='220' rx='10' ry='7' fill='#fff'/><ellipse cx='220' cy='220' rx='10' ry='7' fill='#fff'/><text x='200' y='320' font-family='Arial' font-size='20' fill='#333' text-anchor='middle'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴは、輝く鱗で覆われた美しい女性。頭上には角が生え、長いしっぽが優雅に伸びている。色鮮やかな羽根が背中に生え、四肢には花の模様が施されている。",
-      "reason": "環境のエネルギー変化により、イヴはより美しく、自然と調和した外見へ進化した。",
-      "thought": "『自然と共に在り、自然と共に生きる』"
+      "appearance": "イヴは、オレンジ色の柔らかな毛並みを持つ女性の姿をしています。体は丸みを帯びた形状で、顔には優しい表情が見られます。耳は小さく丸みを帯び、背中には大きな羽が生えています。手足は細長くしなやかで、しっぽはふわふわと長く伸びています。",
+      "reason": "イヴは新たな食物源を求める過酷な環境で進化しました。その柔らかな毛皮は保温性を高め、長いしっぽはバランスを保つのに役立ちます。",
+      "thought": "『愛と優しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='200' fill='#3366ff'/><circle cx='200' cy='150' r='50' fill='#3366ff'/><circle cx='200' cy='250' r='50' fill='#3366ff'/><ellipse cx='200' cy='150' rx='30' ry='20' fill='#b5651d'/><ellipse cx='200' cy='250' rx='30' ry='20' fill='#b5651d'/><polygon points='190,230 210,230 200,240' fill='#b5651d'/><line x1='200' y1='200' x2='180' y2='220' stroke='#000' stroke-width='3'/><line x1='200' y1='200' x2='220' y2='220' stroke='#000' stroke-width='3'/><text x='200' y='320' font-family='Arial' font-size='20' fill='#333' text-anchor='middle'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは、逞しい体躯に覆われる銀色の装甲を持つ男性。背中には翼が生え、頭部には光る宝石が埋め込まれている。燃えるような目を持ち、炎の模様が体を走る。",
-      "reason": "アダムは新たな力を求め、強靭な姿へ進化した。環境の厳しさに対抗するため、より強靭な外見を手に入れた。",
-      "thought": "『力強く、未来への挑戦』"
+      "appearance": "アダムは、青色の頑丈な体つきを持つ男性の姿をしています。四角い形状の体には筋肉質な特徴が見られ、顔つきは凛々しい印象を与えます。耳は小さく丸みを帯び、背中には鱗が装飾されています。手足は頑丈で力強く、角が頭部から突き出ています。",
+      "reason": "アダムは厳しい狩猟生活に適応するために進化しました。頑丈な体と力強い手足は捕食や戦闘に有利であり、頭部の角は敵への威嚇や防衛に役立ちます。",
+      "thought": "『勇気と力』"
     },
     "name": "アダム",
     "gender": "男性"
