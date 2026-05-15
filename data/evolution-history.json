@@ -33792,5 +33792,28 @@
       "gender": "男性"
     },
     "timestamp": 1778813268003
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='150' rx='70' ry='100' fill='#ffdddd' /><ellipse cx='160' cy='140' rx='20' ry='30' fill='#ffffff' /><ellipse cx='240' cy='140' rx='20' ry='30' fill='#ffffff' /><path d='M175 220 Q200 270 225 220 T275 220 Q250 270 225 220' fill='#ffdddd' /><circle cx='160' cy='150' r='10' fill='#000' /><circle cx='240' cy='150' r='10' fill='#000' /><path d='M150 250 Q200 300 250 250 Q200 330 150 250' fill='#ffd4d4' /><path d='M100 200 Q100 100 200 150 Q300 100 300 200' fill='#ffcccb' /><circle cx='160' cy='230' r='10' fill='#000' /><circle cx='240' cy='230' r='10' fill='#000' /><path d='M130 250 Q200 280 270 250 Q200 320 130 250' fill='#ffe0e0' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、白いエプロンのような胸元が特徴です。頭部には二つの白い耳と真ん中に小さな黒い鼻があり、薄いピンク色の頬がふっくらとしています。手は小さくて細く、足はやや長めで繊細な造りです。しっぽは短く、尖った形状をしております。",
+        "reason": "イヴは自然界の美しさと優しさを象徴する進化を遂げました。その柔らかな色合いと愛らしい特徴は、調和と平和を表現しています。",
+        "thought": "『優しさと愛を全ての生命体に』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='50' width='100' height='200' fill='#7f7f7f' /><circle cx='200' cy='150' r='70' fill='#a9a9a9' /><path d='M170 220 Q200 270 230 220 T270 220 Q250 270 230 220' fill='#b9b9b9' /><circle cx='170' cy='140' r='20' fill='#ffffff' /><circle cx='230' cy='140' r='20' fill='#ffffff' /><circle cx='180' cy='150' r='10' fill='#000' /><circle cx='220' cy='150' r='10' fill='#000' /><path d='M200 220 Q200 280 200 340' fill='none' stroke='#bfbfbf' stroke-width='5' /><path d='M190 250 Q200 300 210 250' fill='none' stroke='#bfbfbf' stroke-width='5' /><path d='M150 250 Q200 220 250 250' fill='none' stroke='#bfbfbf' stroke-width='5' /><path d='M150 200 Q175 250 200 300 Q225 250 250 200' fill='none' stroke='#bfbfbf' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "アダムは、灰色の頑丈な体と筋肉質な腕を持っています。全体的に粗い質感があり、力強さと堅実さが感じられます。頭部は丸みを帯びた形状で、無表情な眼が特徴的です。手足は太く、しっかりとした造りとなっています。",
+        "reason": "アダムは進化において物質的な強さと堅実さが重要視されました。その頑丈な体つきは、安定と保護を象徴しています。",
+        "thought": "『力と守りを全ての生命体に』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1778834675686
   }
 ]
