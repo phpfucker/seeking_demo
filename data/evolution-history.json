@@ -33930,5 +33930,28 @@
       "gender": "男性"
     },
     "timestamp": 1778937263496
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(255,255,0);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,0,0);stop-opacity:1' /></linearGradient></defs><rect x='50' y='50' width='300' height='300' fill='url(#gradA)' /><circle cx='200' cy='200' r='120' fill='pink' /><ellipse cx='160' cy='170' rx='20' ry='30' fill='white' /><ellipse cx='240' cy='170' rx='20' ry='30' fill='white' /><path d='M180 240 Q200 290 220 240' fill='none' stroke='pink' stroke-width='6' /><path d='M170 260 Q200 310 230 260' fill='none' stroke='pink' stroke-width='6' /><path d='M130 140 Q170 90 210 140' fill='none' stroke='pink' stroke-width='6' /><path d='M140 120 Q170 70 200 120' fill='none' stroke='pink' stroke-width='6' /><path d='M260 140 Q220 90 180 140' fill='none' stroke='pink' stroke-width='6' /><path d='M250 120 Q220 70 190 120' fill='none' stroke='pink' stroke-width='6' /><polyline points='150,280 160,290 240,290 250,280' fill='none' stroke='black' stroke-width='2' /><polygon points='195,190 205,190 200,200' fill='black' /><polygon points='150,230 160,220 240,220 250,230' fill='black' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと黄色のグラデーションがかかった美しい体を持つ女性で、白い目と長いまつ毛が特徴的。四肢は優美な曲線を描き、頭部にはピンクの角が生えている。背中には翼のような模様があり、全体的に柔らかな雰囲気を持つ。",
+        "reason": "イヴは新たな環境に適応するため、美しい色彩と柔らかな特徴を持つ進化を遂げた。",
+        "thought": "『宇宙の喜びを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(0,0,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,255,255);stop-opacity:1' /></linearGradient></defs><rect x='50' y='50' width='300' height='300' fill='url(#gradB)' /><circle cx='200' cy='200' r='120' fill='lightblue' /><ellipse cx='160' cy='170' rx='20' ry='30' fill='white' /><ellipse cx='240' cy='170' rx='20' ry='30' fill='white' /><path d='M180 240 Q200 290 220 240' fill='none' stroke='lightblue' stroke-width='6' /><path d='M170 260 Q200 310 230 260' fill='none' stroke='lightblue' stroke-width='6' /><path d='M130 140 Q170 90 210 140' fill='none' stroke='lightblue' stroke-width='6' /><path d='M140 120 Q170 70 200 120' fill='none' stroke='lightblue' stroke-width='6' /><path d='M260 140 Q220 90 180 140' fill='none' stroke='lightblue' stroke-width='6' /><path d='M250 120 Q220 70 190 120' fill='none' stroke='lightblue' stroke-width='6' /><polyline points='150,280 160,290 240,290 250,280' fill='none' stroke='black' stroke-width='2' /><polygon points='195,190 205,190 200,200' fill='black' /><polygon points='150,230 160,220 240,220 250,230' fill='black' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色のグラデーションがかかった体を持つ男性で、白い目と長いまつ毛が特徴的。四肢は力強い曲線を描き、頭部には水色の角が生えている。背中には鱗のような模様があり、全体的に力強い印象を持つ。",
+        "reason": "アダムは新たな環境に適応するため、力強い色彩と特徴を持つ進化を遂げた。",
+        "thought": "『未来への希望を胸に』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1778957942484
   }
 ]
