@@ -33976,5 +33976,28 @@
       "gender": "男性"
     },
     "timestamp": 1778985912706
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#FFC0CB'><path d='M200,200 L180,250 L220,250 Z'/><path d='M200,200 L160,240 L240,240 Z'/><ellipse cx='200' cy='160' rx='40' ry='60'/><ellipse cx='190' cy='160' rx='5' ry='10'/><ellipse cx='210' cy='160' rx='5' ry='10'/><path d='M215,180 Q200,220 185,180' fill='none' stroke='#000' stroke-width='2'/><path d='M185,180 Q200,220 215,180' fill='none' stroke='#000' stroke-width='2'/></g></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌と長い髪を持つ女性の姿をしています。体には淡いピンク色の衣装が描かれており、優雅で優しい雰囲気を醸し出しています。",
+        "reason": "イヴは新たな色彩の世界を求めて進化し、より美しく魅力的な外見を手に入れました。",
+        "thought": "『愛と美しさの力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#87CEEB'><path d='M200,200 L180,250 L220,250 Z'/><path d='M200,200 L160,240 L240,240 Z'/><ellipse cx='200' cy='160' rx='40' ry='60'/><ellipse cx='190' cy='160' rx='5' ry='10'/><ellipse cx='210' cy='160' rx='5' ry='10'/><line x1='190' y1='180' x2='210' y2='180' stroke='#000' stroke-width='2'/></g></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌と短い髪を持つ男性の姿をしています。体にはシンプルな青色の衣装が描かれており、力強くかっこよさを感じさせます。",
+        "reason": "アダムは知識と力を求めて進化し、より精悍で頼りがいのある外見を手に入れました。",
+        "thought": "『知識と力の調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1779005761474
   }
 ]
