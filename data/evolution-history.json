@@ -34068,5 +34068,28 @@
       "gender": "男性"
     },
     "timestamp": 1779072910729
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#ff99cc'><circle cx='200' cy='200' r='150'/><ellipse cx='140' cy='180' rx='20' ry='10'/><ellipse cx='260' cy='180' rx='20' ry='10'/><polygon points='200,220 220,240 180,240'/><polygon points='150,260 180,280 120,280'/><polygon points='250,260 220,280 280,280'/><rect x='190' y='220' width='20' height='40'/><path d='M190 200 Q200 190 210 200' fill='none' stroke='#ff66cc'/></g></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の滑らかな皮膚を持つ女性型生命体です。四肢には薄い紫色の模様があり、優雅で力強い印象を与えます。",
+        "reason": "イヴは、環境の変化に適応するため、美しい模様を持つより洗練された外見に進化しました。",
+        "thought": "『自然と調和し、美しさを極める』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#3399ff'><circle cx='200' cy='200' r='150'/><ellipse cx='160' cy='180' rx='20' ry='10'/><ellipse cx='240' cy='180' rx='20' ry='10'/><polygon points='200,220 220,240 180,240'/><polygon points='150,260 180,280 120,280'/><polygon points='250,260 220,280 280,280'/><rect x='180' y='220' width='40' height='20'/><path d='M210 200 Q200 190 190 200' fill='none' stroke='#3366cc'/></g></svg>",
+      "report": {
+        "appearance": "アダムは、青色の堅固な皮膚を持つ男性型生命体です。肩には短い角があり、筋肉隆々な腕からは力強さが滲み出ています。",
+        "reason": "アダムは、より強固で堅牢な体を持つことで、求められる環境への適応能力を高めるため進化しました。",
+        "thought": "『強靭な体で未来に立ち向かう』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1779098074722
   }
 ]

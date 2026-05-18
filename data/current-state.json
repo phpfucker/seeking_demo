@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#ff99cc'><circle cx='200' cy='200' r='150'/><ellipse cx='140' cy='180' rx='20' ry='10'/><ellipse cx='260' cy='180' rx='20' ry='10'/><polygon points='200,220 220,240 180,240'/><polygon points='150,260 180,280 120,280'/><polygon points='250,260 220,280 280,280'/><rect x='190' y='220' width='20' height='40'/><path d='M190 200 Q200 190 210 200' fill='none' stroke='#ff66cc'/></g></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#ff7eb9'><path d='M200 100 L150 200 L250 200 Z'/><circle cx='200' cy='150' r='50'/><rect x='175' y='200' width='50' height='100'/><path d='M175 300 Q200 350 225 300 Z'/><circle cx='180' cy='140' r='5'/><circle cx='220' cy='140' r='5'/><path d='M180 80 Q200 60 220 80' fill='none' stroke='#000' stroke-width='2'/><polygon points='175,200 195,250 205,250 225,200' fill='none' stroke='#000' stroke-width='2'/><line x1='180' y1='300' x2='220' y2='300' stroke='#000' stroke-width='2'/></g></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の滑らかな皮膚を持つ女性型生命体です。四肢には薄い紫色の模様があり、優雅で力強い印象を与えます。",
-      "reason": "イヴは、環境の変化に適応するため、美しい模様を持つより洗練された外見に進化しました。",
-      "thought": "『自然と調和し、美しさを極める』"
+      "appearance": "イヴは、ピンク色の柔らかい肌を持ち、背中に大きな羽根が生えた女性の姿をしています。頭部には二つの小さな角が生え、優雅な足と手を持っています。羽毛の模様が美しく、全体的に優しい印象を与えます。",
+      "reason": "イヴは、大自然の力を取り入れることで進化し、繊細で強力な生命体となりました。",
+      "thought": "『自然の中で心を静め、力を得る』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#3399ff'><circle cx='200' cy='200' r='150'/><ellipse cx='160' cy='180' rx='20' ry='10'/><ellipse cx='240' cy='180' rx='20' ry='10'/><polygon points='200,220 220,240 180,240'/><polygon points='150,260 180,280 120,280'/><polygon points='250,260 220,280 280,280'/><rect x='180' y='220' width='40' height='20'/><path d='M210 200 Q200 190 190 200' fill='none' stroke='#3366cc'/></g></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g fill='#7bb9ff'><path d='M200 100 L150 200 L250 200 Z'/><circle cx='200' cy='150' r='50'/><rect x='175' y='200' width='50' height='100'/><path d='M175 300 Q200 350 225 300 Z'/><circle cx='180' cy='140' r='5'/><circle cx='220' cy='140' r='5'/><polygon points='175,200 195,250 205,250 225,200'/><line x1='180' y1='300' x2='220' y2='300'/></g></svg>",
     "report": {
-      "appearance": "アダムは、青色の堅固な皮膚を持つ男性型生命体です。肩には短い角があり、筋肉隆々な腕からは力強さが滲み出ています。",
-      "reason": "アダムは、より強固で堅牢な体を持つことで、求められる環境への適応能力を高めるため進化しました。",
-      "thought": "『強靭な体で未来に立ち向かう』"
+      "appearance": "アダムは、青色の肌と透明な翼を持つ男性の姿をしています。頭部には光る角があり、手足がしなやかで力強い印象です。全体的にクールで冷静な雰囲気を醸し出しています。",
+      "reason": "アダムは、高い知性と進化した能力により、より強固な生命体となりました。",
+      "thought": "『知識と力を手に入れ、未来に向かって進む』"
     },
     "name": "アダム",
     "gender": "男性"
