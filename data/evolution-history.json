@@ -34045,5 +34045,28 @@
       "gender": "男性"
     },
     "timestamp": 1779044629647
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><path d='M200,100 L170,200 L230,200 Z' fill='#FFB6C1' /><ellipse cx='200' cy='120' rx='30' ry='20' fill='#FFD700' /><circle cx='180' cy='90' r='5' fill='#000' /><circle cx='220' cy='90' r='5' fill='#000' /><path d='M180,200 Q200,240 220,200 Z' fill='#FFD700' /><path d='M190,220 Q200,230 210,220' fill='none' stroke='#000' stroke-width='2' /><path d='M170,170 Q200,260 230,170' fill='none' stroke='#000' stroke-width='2' /><circle cx='190' cy='110' r='3' fill='#000' /><circle cx='210' cy='110' r='3' fill='#000' /><line x1='200' y1='230' x2='200' y2='270' stroke='#000' stroke-width='3' /><path d='M200,270 Q190,320 200,340 Q210,320 200,270 Z' fill='#FFB6C1' /></g></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌と金色の髪を持つ女性の生命体です。体の一部に花のような模様があり、優美な特徴を持っています。",
+        "reason": "自然の摂理により、生態系におけるバランスや美しさを表現するために進化しました。",
+        "thought": "『調和と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><path d='M200,100 L170,200 L230,200 Z' fill='#4682B4' /><ellipse cx='200' cy='120' rx='30' ry='20' fill='#8B4513' /><circle cx='180' cy='90' r='5' fill='#000' /><circle cx='220' cy='90' r='5' fill='#000' /><path d='M180,200 Q200,230 220,200 Z' fill='#8B4513' /><path d='M190,220 Q200,230 210,220' fill='none' stroke='#000' stroke-width='2' /><path d='M170,170 Q200,260 230,170' fill='none' stroke='#000' stroke-width='2' /><circle cx='190' cy='110' r='3' fill='#000' /><circle cx='210' cy='110' r='3' fill='#000' /><line x1='200' y1='230' x2='200' y2='270' stroke='#000' stroke-width='3' /><polygon points='190,270 210,270 200,290' fill='#4682B4' /></g></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌と茶色の髪を持つ男性の生命体です。体の一部に岩のような模様があり、力強い特徴を持っています。",
+        "reason": "進化は生存競争や環境への適応により、生態系での位置づけや力強さを表現するために起こりました。",
+        "thought": "『力と調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1779072910729
   }
 ]
