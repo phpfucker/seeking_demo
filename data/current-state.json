@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb' /><circle cx='200' cy='160' r='60' fill='#ff99cc' /><circle cx='170' cy='150' r='7' fill='#ffd700' /><circle cx='230' cy='150' r='7' fill='#ffd700' /><path d='M160 230 Q200 250 240 230' fill='none' stroke='#000' stroke-width='3' /><polygon points='170,190 200,210 230,190' fill='#ff99cc' /><line x1='180' y1='150' x2='190' y2='140' stroke='#000' stroke-width='3' /><line x1='220' y1='150' x2='210' y2='140' stroke='#000' stroke-width='3' /><path d='M190 260 Q200 280 210 260' fill='none' stroke='#000' stroke-width='3' /><line x1='190' y1='260' x2='200' y2='270' stroke='#000' stroke-width='3' /><line x1='210' y1='260' x2='200' y2='270' stroke='#000' stroke-width='3' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンクと紫の美しい色合いを持つ蝶のような翼を持ち、透き通るような複眼を持つ女性。背中には繊細な模様が施され、優雅なしっぽが特徴。四肢には花のような模様が浮かび上がり、全体的に優美で華やかな姿をしている。",
-      "reason": "イヴは自然界の美しさと調和を求めて進化し、環境に優しい生態系を築くため。",
-      "thought": "『自然の一部となり、美しさを守りたい』"
+      "appearance": "イヴはピンク色の肌を持ち、大きな円形の頭部には黄色い目があります。繊細なピンク色の髪が肩まで垂れ、胴体は赤みがかったピンク色の短いドレスで覆われています。腕と脚は細く、手足には小さなクロスのような模様が見られます。",
+      "reason": "イヴは新たな進化を遂げ、より華やかで優美な外見を手に入れました。色彩がより鮮やかになり、柔らかい曲線と細部の模様が彼女の美しさを際立たせています。",
+      "thought": "『幸せな未来』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>...</svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#87ceeb' /><circle cx='200' cy='160' r='60' fill='#4682b4' /><circle cx='170' cy='150' r='7' fill='#ffd700' /><circle cx='230' cy='150' r='7' fill='#ffd700' /><polygon points='175,190 200,210 225,190' fill='#4682b4' /><path d='M160 230 Q200 250 240 230' fill='none' stroke='#000' stroke-width='3' /><line x1='180' y1='150' x2='190' y2='140' stroke='#000' stroke-width='3' /><line x1='220' y1='150' x2='210' y2='140' stroke='#000' stroke-width='3' /><path d='M190 260 Q200 280 210 260' fill='none' stroke='#000' stroke-width='3' /><line x1='190' y1='260' x2='200' y2='270' stroke='#000' stroke-width='3' /><line x1='210' y1='260' x2='200' y2='270' stroke='#000' stroke-width='3' /></svg>",
     "report": {
-      "appearance": "アダムは、青と緑の色調が融合した羽毛で覆われ、頭部には美しい角を持つ男性。背中には複雑な模様が広がり、力強い尾が生えている。四肢には岩のような質感の装甲があり、全体的に荒々しいが優雅な姿をしている。",
-      "reason": "アダムは自然の厳しさと強さを求めて進化し、生存競争に打ち勝つため。",
-      "thought": "『自然の掟に従い、強さを保持したい』"
+      "appearance": "アダムは水色の肌を持ち、大きな円形の頭部に複数の黄色い目を持っています。青い顔には金色の模様が施され、頭頂部には青い長い角が一対生えています。胴体は青いボディスーツで覆われ、腕と脚は筋肉質で力強く見えます。",
+      "reason": "アダムは進化し、より力強く、知性と勇気を象徴する外見となりました。模様や色彩が強調され、頭部の角が彼の威厳を高めています。",
+      "thought": "『未来への挑戦』"
     },
     "name": "アダム",
     "gender": "男性"
