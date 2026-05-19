@@ -34183,5 +34183,28 @@
       "gender": "男性"
     },
     "timestamp": 1779183351394
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightblue'/><rect x='175' y='200' width='50' height='100' fill='pink'/><ellipse cx='200' cy='150' rx='60' ry='40' fill='pink'/><polygon points='160,150 200,100 240,150' fill='pink'/><polygon points='180,150 200,120 220,150' fill='white'/><circle cx='180' cy='140' r='5' fill='black'/><circle cx='220' cy='140' r='5' fill='black'/><path d='M180,230 Q200,250 220,230' fill='none' stroke='black'/><line x1='170' y1='300' x2='160' y2='330' stroke='black' stroke-width='2'/><line x1='230' y1='300' x2='240' y2='330' stroke='black' stroke-width='2'/><ellipse cx='200' cy='250' rx='40' ry='25' fill='pink'/><polygon points='180,250 200,230 220,250' fill='pink'/></svg>",
+      "report": {
+        "appearance": "イヴは、頭部がピンク色の楕円形で、白い小さな角が2本生えた女性の生命体です。体は青色の円形で、中央にピンク色の四角形を持ちます。手足はピンク色の楕円形で、足には白い爪が付いています。",
+        "reason": "進化の理由は、生存環境の変化により、イヴがより柔らかく、優しい特徴を持つことで、新たな生態系に適応する必要があったためです。",
+        "thought": "『慈愛』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightgreen'/><rect x='175' y='200' width='50' height='100' fill='lightgrey'/><ellipse cx='200' cy='150' rx='60' ry='40' fill='lightgrey'/><polygon points='160,150 200,100 240,150' fill='lightgrey'/><polygon points='180,150 200,120 220,150' fill='white'/><circle cx='180' cy='140' r='5' fill='black'/><circle cx='220' cy='140' r='5' fill='black'/><path d='M180,230 Q200,250 220,230' fill='none' stroke='black'/><line x1='170' y1='300' x2='160' y2='330' stroke='black' stroke-width='2'/><line x1='230' y1='300' x2='240' y2='330' stroke='black' stroke-width='2'/><ellipse cx='200' cy='250' rx='40' ry='25' fill='lightgrey'/><polygon points='180,250 200,230 220,250' fill='lightgrey'/></svg>",
+      "report": {
+        "appearance": "アダムは、頭部が灰色の楕円形で、白い小さな角が2本生えた男性の生命体です。体は緑色の円形で、中央に灰色の四角形を持ちます。手足は灰色の楕円形で、足には白い爪が付いています。",
+        "reason": "進化の理由は、アダムがより強靭で頑丈な特徴を持つことで、新たな環境での生存競争に勝利するために進化したためです。",
+        "thought": "『力強さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1779202369868
   }
 ]
