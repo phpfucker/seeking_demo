@@ -34252,5 +34252,28 @@
       "gender": "男性"
     },
     "timestamp": 1779245544716
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffcccb'/><circle cx='200' cy='150' r='100' fill='#ff9999'/><ellipse cx='150' cy='250' rx='50' ry='30' fill='#ff6666'/><path d='M180 220 L170 240 L190 240 Z' fill='#ff6666'/><polygon points='180,120 160,140 200,140' fill='#ff6666'/><line x1='160' y1='330' x2='180' y2='400' stroke='#ff6666' stroke-width='5'/><line x1='240' y1='330' x2='220' y2='400' stroke='#ff6666' stroke-width='5'/></svg>",
+      "report": {
+        "appearance": "イヴは濃いピンク色の体に、大きな赤い目と小さな口を持つ女性型生命体です。短い前髪と長い後ろ髪が特徴的で、手足はやや丸みを帯びています。",
+        "reason": "イヴは新たな環境に適応するため、より柔軟な身体と洞察力を持つ必要があったため、進化した。",
+        "thought": "『新たなる知識への探求』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#add8e6'/><circle cx='200' cy='150' r='100' fill='#87ceeb'/><ellipse cx='250' cy='250' rx='50' ry='30' fill='#6ca6cd'/><path d='M220 220 L230 240 L210 240 Z' fill='#6ca6cd'/><polygon points='220,120 240,140 200,140' fill='#6ca6cd'/><line x1='240' y1='330' x2='260' y2='400' stroke='#6ca6cd' stroke-width='5'/><line x1='160' y1='330' x2='140' y2='400' stroke='#6ca6cd' stroke-width='5'/></svg>",
+      "report": {
+        "appearance": "アダムは淡い水色の体に、大きな青い目と小さな口を持つ男性型生命体です。短い前髪と長い後ろ髪が特徴的で、手足は細長く引き締まっています。",
+        "reason": "アダムは新たな狩猟技術を発展させるため、俊敏性と瞬発力を高める必要があったため、進化した。",
+        "thought": "『瞬きの間に輝く狩人』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1779269016071
   }
 ]
