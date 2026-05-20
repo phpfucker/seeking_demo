@@ -34298,5 +34298,28 @@
       "gender": "男性"
     },
     "timestamp": 1779288894041
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='250' rx='90' ry='120' fill='#ffd1dc'/><path d='M150 220 Q190 130 250 220 Q310 310 250 220 Z' fill='#ffffff'/><circle cx='160' cy='240' r='15' fill='#000'/><circle cx='240' cy='240' r='15' fill='#000'/><path d='M180 290 C180 320 220 320 220 290' fill='none' stroke='#000' stroke-width='2'/><path d='M220 290 C220 320 260 320 260 290' fill='none' stroke='#000' stroke-width='2'/><path d='M190 200 Q200 190 210 200 Q200 210 190 200' fill='#ffcccb'/><path d='M205 205 Q215 195 225 205 Q215 215 205 205' fill='#ffcccb'/><circle cx='185' cy='215' r='5' fill='#000'/><circle cx='215' cy='215' r='5' fill='#000'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな体に大きな目と、優雅な角を持つ女性的な姿をしています。",
+        "reason": "環境の変化により、柔らかな色合いと優美な特徴が生存に適しているため進化しました。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#b0e57c'/><ellipse cx='200' cy='250' rx='90' ry='120' fill='#c1ffa0'/><path d='M150 220 Q190 130 250 220 Q310 310 250 220 Z' fill='#ffffff'/><circle cx='160' cy='240' r='15' fill='#000'/><circle cx='240' cy='240' r='15' fill='#000'/><path d='M180 290 C180 320 220 320 220 290' fill='none' stroke='#000' stroke-width='2'/><path d='M220 290 C220 320 260 320 260 290' fill='none' stroke='#000' stroke-width='2'/><polygon points='180,200 190,190 210,190 220,200 210,210 190,210' fill='#b0e57c'/><polygon points='200,190 210,180 230,190 240,200 230,210 210,200' fill='#b0e57c'/><circle cx='195' cy='215' r='5' fill='#000'/><circle cx='225' cy='215' r='5' fill='#000'/></svg>",
+      "report": {
+        "appearance": "アダムは、緑色の体に大きな目と、力強い角を持つ男性的な姿をしています。",
+        "reason": "緑色の体と力強い特徴が環境に有利であるため、進化の過程で強靭な外見となりました。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1779307760541
   }
 ]
