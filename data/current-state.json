@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"50\" width=\"200\" height=\"300\" fill=\"#ffc0cb\"/><ellipse cx=\"200\" cy=\"150\" rx=\"80\" ry=\"100\" fill=\"#ffb6c1\"/><path d=\"M170 220 L200 290 L230 220 Z\" fill=\"#ff69b4\"/><circle cx=\"170\" cy=\"150\" r=\"10\" fill=\"#000\"/><circle cx=\"230\" cy=\"150\" r=\"10\" fill=\"#000\"/><polygon points=\"180,280 190,270 220,270 230,280\" fill=\"#ff69b4\"/><rect x=\"180\" y=\"350\" width=\"40\" height=\"20\" fill=\"#ff69b4\"/><rect x=\"150\" y=\"320\" width=\"100\" height=\"20\" fill=\"#ff69b4\"/><rect x=\"150\" y=\"320\" width=\"100\" height=\"20\" fill=\"#ff69b4\"/><circle cx=\"150\" cy=\"350\" r=\"5\" fill=\"#000\"/><circle cx=\"250\" cy=\"350\" r=\"5\" fill=\"#000\"/><line x1=\"150\" y1=\"50\" x2=\"100\" y2=\"100\" stroke=\"#000\" stroke-width=\"5\"/><line x1=\"250\" y1=\"50\" x2=\"300\" y2=\"100\" stroke=\"#000\" stroke-width=\"5\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffcccb'/><circle cx='200' cy='150' r='100' fill='#ff9999'/><ellipse cx='150' cy='250' rx='50' ry='30' fill='#ff6666'/><path d='M180 220 L170 240 L190 240 Z' fill='#ff6666'/><polygon points='180,120 160,140 200,140' fill='#ff6666'/><line x1='160' y1='330' x2='180' y2='400' stroke='#ff6666' stroke-width='5'/><line x1='240' y1='330' x2='220' y2='400' stroke='#ff6666' stroke-width='5'/></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の優しく曲線の美しい体を持ち、大きな赤い目と華やかな花のような模様が特徴です。手足は短く丸く、しっぽがあります。",
-      "reason": "イヴは、新たな生命を生み出す花のような美しさと守護の力を身につけるために進化しました。",
-      "thought": "『愛と美しさを守る』"
+      "appearance": "イヴは濃いピンク色の体に、大きな赤い目と小さな口を持つ女性型生命体です。短い前髪と長い後ろ髪が特徴的で、手足はやや丸みを帯びています。",
+      "reason": "イヴは新たな環境に適応するため、より柔軟な身体と洞察力を持つ必要があったため、進化した。",
+      "thought": "『新たなる知識への探求』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"100\" y=\"50\" width=\"200\" height=\"300\" fill=\"#87cefa\"/><ellipse cx=\"200\" cy=\"150\" rx=\"80\" ry=\"100\" fill=\"#add8e6\"/><path d=\"M170 220 L200 290 L230 220 Z\" fill=\"#4682b4\"/><circle cx=\"170\" cy=\"150\" r=\"10\" fill=\"#000\"/><circle cx=\"230\" cy=\"150\" r=\"10\" fill=\"#000\"/><polygon points=\"180,280 190,270 220,270 230,280\" fill=\"#4682b4\"/><rect x=\"180\" y=\"350\" width=\"40\" height=\"20\" fill=\"#4682b4\"/><rect x=\"150\" y=\"320\" width=\"100\" height=\"20\" fill=\"#4682b4\"/><circle cx=\"150\" cy=\"350\" r=\"5\" fill=\"#000\"/><circle cx=\"250\" cy=\"350\" r=\"5\" fill=\"#000\"/><line x1=\"150\" y1=\"50\" x2=\"100\" y2=\"100\" stroke=\"#000\" stroke-width=\"5\"/><line x1=\"250\" y1=\"50\" x2=\"300\" y2=\"100\" stroke=\"#000\" stroke-width=\"5\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#add8e6'/><circle cx='200' cy='150' r='100' fill='#87ceeb'/><ellipse cx='250' cy='250' rx='50' ry='30' fill='#6ca6cd'/><path d='M220 220 L230 240 L210 240 Z' fill='#6ca6cd'/><polygon points='220,120 240,140 200,140' fill='#6ca6cd'/><line x1='240' y1='330' x2='260' y2='400' stroke='#6ca6cd' stroke-width='5'/><line x1='160' y1='330' x2='140' y2='400' stroke='#6ca6cd' stroke-width='5'/></svg>",
     "report": {
-      "appearance": "アダムは、青色の力強く角のある体を持ち、冷静さを表す青い目と波のような模様が特徴です。四肢はがっしりとし、頭部には角があります。",
-      "reason": "アダムは、新たな領域を開拓し、冷静な判断力と力強い姿で未来を切り開くために進化しました。",
-      "thought": "『進化と創造の力』"
+      "appearance": "アダムは淡い水色の体に、大きな青い目と小さな口を持つ男性型生命体です。短い前髪と長い後ろ髪が特徴的で、手足は細長く引き締まっています。",
+      "reason": "アダムは新たな狩猟技術を発展させるため、俊敏性と瞬発力を高める必要があったため、進化した。",
+      "thought": "『瞬きの間に輝く狩人』"
     },
     "name": "アダム",
     "gender": "男性"
