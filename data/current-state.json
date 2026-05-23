@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99' /><ellipse cx='200' cy='180' rx='120' ry='150' fill='#ffddcc' /><polygon points='180,230 220,230 200,280' fill='#ff9966' /><rect x='165' y='270' width='70' height='40' fill='#ff9966' /><circle cx='150' cy='190' r='15' fill='#333' /><circle cx='250' cy='190' r='15' fill='#333' /><path d='M180 230 Q200 280 220 230' fill='none' stroke='#333' stroke-width='2' /><line x1='180' y1='230' x2='165' y2='270' stroke='#333' stroke-width='2' /><line x1='220' y1='230' x2='235' y2='270' stroke='#333' stroke-width='2' /><line x1='200' y1='180' x2='200' y2='230' stroke='#333' stroke-width='2' /><line x1='180' y1='100' x2='200' y2='140' x3='220' y3='100' stroke='#333' stroke-width='2' /><line x1='180' y1='100' x2='220' y2='100' stroke='#333' stroke-width='2' /><line x1='190' y1='90' x2='210' y2='90' stroke='#333' stroke-width='2' /><line x1='190' y1='80' x2='210' y2='80' stroke='#333' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,125,125);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,200,200);stop-opacity:1' /></linearGradient></defs><rect x='150' y='100' width='100' height='200' fill='url(#gradA)' /><ellipse cx='200' cy='100' rx='50' ry='30' fill='url(#gradA)' /><path d='M200 150 L180 200 L220 200 Z' fill='rgb(255,200,200)' /><circle cx='180' cy='170' r='5' fill='black' /><circle cx='220' cy='170' r='5' fill='black' /><path d='M190 250 Q200 300 210 250' fill='rgb(255,200,200)' /><path d='M150 150 L130 200 L170 200 Z' fill='rgb(255,200,200)' /><path d='M250 150 L230 200 L270 200 Z' fill='rgb(255,200,200)' /></svg>",
     "report": {
-      "appearance": "イヴは、オレンジとピンクの色合いの美しい毛皮を持ち、長い耳と短い足が特徴です。優雅な雰囲気を醸し出しており、愛らしい姿をしています。",
-      "reason": "イヴは新たな環境に適応するため、可愛らしさと優雅さが融合した姿に進化しました。",
-      "thought": "『愛と美しさ』"
+      "appearance": "イヴは、ピンク色の柔らかな体に美しい曲線を持ち、優雅な雰囲気が漂います。顔は柔らかな表情で、愛らしい特徴が際立っています。",
+      "reason": "生態系の変化により、イヴはより美しく、優雅な姿へ進化しました。",
+      "thought": "『愛と美しさの融合』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='180' rx='130' ry='170' fill='#6699cc' /><polygon points='180,250 220,250 200,300' fill='#336699' /><rect x='165' y='290' width='70' height='40' fill='#336699' /><circle cx='160' cy='180' r='20' fill='#333' /><circle cx='240' cy='180' r='20' fill='#333' /><path d='M180 250 Q200 300 220 250' fill='none' stroke='#333' stroke-width='2' /><line x1='180' y1='250' x2='165' y2='290' stroke='#333' stroke-width='2' /><line x1='220' y1='250' x2='235' y2='290' stroke='#333' stroke-width='2' /><line x1='200' y1='180' x2='200' y2='250' stroke='#333' stroke-width='2' /><line x1='180' y1='100' x2='200' y2='140' x3='220' y3='100' stroke='#333' stroke-width='2' /><line x1='180' y1='100' x2='220' y2='100' stroke='#333' stroke-width='2' /><line x1='190' y1='90' x2='210' y2='90' stroke='#333' stroke-width='2' /><line x1='190' y1='80' x2='210' y2='80' stroke='#333' stroke-width='2' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(125,125,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(200,200,255);stop-opacity:1' /></linearGradient></defs><rect x='150' y='100' width='100' height='200' fill='url(#gradB)' /><ellipse cx='200' cy='100' rx='50' ry='30' fill='url(#gradB)' /><path d='M200 150 L180 200 L220 200 Z' fill='rgb(200,200,255)' /><circle cx='180' cy='170' r='5' fill='black' /><circle cx='220' cy='170' r='5' fill='black' /><polygon points='190,250 180,280 185,280 175,310 190,280 205,310 195,280 200,280' fill='rgb(200,200,255)' /><path d='M150 150 L130 200 L170 200 Z' fill='rgb(200,200,255)' /><path d='M250 150 L230 200 L270 200 Z' fill='rgb(200,200,255)' /></svg>",
     "report": {
-      "appearance": "アダムは、青と紫の色調を持つ厚い鱗で覆われた体と強靭な足が特徴です。凛々しい雰囲気を漂わせ、力強い外見をしています。",
-      "reason": "アダムは新たな獲物との競争に勝ち抜くため、力強さと堅牢さを備えた姿に進化しました。",
-      "thought": "『力と勇気』"
+      "appearance": "アダムは、ブルーの煌びやかな体に力強い筋肉と重厚な雰囲気を持ち、威厳が感じられます。顔は整った特徴で、知性と力強さがにじみ出ています。",
+      "reason": "環境の厳しさに適応するため、アダムはより力強く、堂々とした姿へ進化しました。",
+      "thought": "『知性と力の調和』"
     },
     "name": "アダム",
     "gender": "男性"

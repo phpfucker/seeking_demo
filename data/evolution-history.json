@@ -34505,5 +34505,28 @@
       "gender": "男性"
     },
     "timestamp": 1779478763401
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99' /><ellipse cx='200' cy='180' rx='120' ry='150' fill='#ffddcc' /><polygon points='180,230 220,230 200,280' fill='#ff9966' /><rect x='165' y='270' width='70' height='40' fill='#ff9966' /><circle cx='150' cy='190' r='15' fill='#333' /><circle cx='250' cy='190' r='15' fill='#333' /><path d='M180 230 Q200 280 220 230' fill='none' stroke='#333' stroke-width='2' /><line x1='180' y1='230' x2='165' y2='270' stroke='#333' stroke-width='2' /><line x1='220' y1='230' x2='235' y2='270' stroke='#333' stroke-width='2' /><line x1='200' y1='180' x2='200' y2='230' stroke='#333' stroke-width='2' /><line x1='180' y1='100' x2='200' y2='140' x3='220' y3='100' stroke='#333' stroke-width='2' /><line x1='180' y1='100' x2='220' y2='100' stroke='#333' stroke-width='2' /><line x1='190' y1='90' x2='210' y2='90' stroke='#333' stroke-width='2' /><line x1='190' y1='80' x2='210' y2='80' stroke='#333' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、オレンジとピンクの色合いの美しい毛皮を持ち、長い耳と短い足が特徴です。優雅な雰囲気を醸し出しており、愛らしい姿をしています。",
+        "reason": "イヴは新たな環境に適応するため、可愛らしさと優雅さが融合した姿に進化しました。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='180' rx='130' ry='170' fill='#6699cc' /><polygon points='180,250 220,250 200,300' fill='#336699' /><rect x='165' y='290' width='70' height='40' fill='#336699' /><circle cx='160' cy='180' r='20' fill='#333' /><circle cx='240' cy='180' r='20' fill='#333' /><path d='M180 250 Q200 300 220 250' fill='none' stroke='#333' stroke-width='2' /><line x1='180' y1='250' x2='165' y2='290' stroke='#333' stroke-width='2' /><line x1='220' y1='250' x2='235' y2='290' stroke='#333' stroke-width='2' /><line x1='200' y1='180' x2='200' y2='250' stroke='#333' stroke-width='2' /><line x1='180' y1='100' x2='200' y2='140' x3='220' y3='100' stroke='#333' stroke-width='2' /><line x1='180' y1='100' x2='220' y2='100' stroke='#333' stroke-width='2' /><line x1='190' y1='90' x2='210' y2='90' stroke='#333' stroke-width='2' /><line x1='190' y1='80' x2='210' y2='80' stroke='#333' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と紫の色調を持つ厚い鱗で覆われた体と強靭な足が特徴です。凛々しい雰囲気を漂わせ、力強い外見をしています。",
+        "reason": "アダムは新たな獲物との競争に勝ち抜くため、力強さと堅牢さを備えた姿に進化しました。",
+        "thought": "『力と勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1779504061359
   }
 ]
