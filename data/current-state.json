@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"120\" y=\"80\" width=\"160\" height=\"240\" fill=\"#ffcccb\"/><ellipse cx=\"200\" cy=\"100\" rx=\"80\" ry=\"100\" fill=\"#ffd1dc\"/><circle cx=\"160\" cy=\"240\" r=\"20\" fill=\"#ffd1dc\"/><circle cx=\"240\" cy=\"240\" r=\"20\" fill=\"#ffd1dc\"/><path d=\"M180 220 Q200 260 220 220\" fill=\"none\" stroke=\"#e84a5f\" stroke-width=\"4\"/><path d=\"M170 320 Q200 340 230 320\" fill=\"none\" stroke=\"#e84a5f\" stroke-width=\"4\"/><polygon points=\"180,160 200,140 220,160\" fill=\"#ffaaaa\"/><line x1=\"150\" y1=\"90\" x2=\"130\" y2=\"120\" stroke=\"#e84a5f\" stroke-width=\"4\"/><line x1=\"250\" y1=\"90\" x2=\"270\" y2=\"120\" stroke=\"#e84a5f\" stroke-width=\"4\"/><line x1=\"130\" y1=\"240\" x2=\"110\" y2=\"260\" stroke=\"#e84a5f\" stroke-width=\"4\"/><line x1=\"270\" y1=\"240\" x2=\"290\" y2=\"260\" stroke=\"#e84a5f\" stroke-width=\"4\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='200' width='100' height='150' fill='#FFB6C1' /><ellipse cx='100' cy='70' rx='45' ry='60' fill='#FFC0CB' /><path d='M100 70 L90 75 L110 50 Q130 20 150 50 L170 75 L160 70 Q140 40 100 70' fill='#F08080' /><line x1='70' y1='200' x2='70' y2='250' stroke='#FFB6C1' stroke-width='6' /><line x1='150' y1='200' x2='150' y2='250' stroke='#FFB6C1' stroke-width='6' /><polygon points='80,200 100,160 120,200' fill='#FF69B4' /><polygon points='70,250 90,300 80,300 60,250' fill='#FF69B4' /><polygon points='140,250 160,300 150,300 130,250' fill='#FF69B4' /><line x1='100' y1='250' x2='100' y2='300' stroke='#FFB6C1' stroke-width='6' /><rect x='80' y='300' width='40' height='20' fill='#FFB6C1' /><rect x='70' y='320' width='60' height='20' fill='#FFB6C1' /></svg>",
     "report": {
-      "appearance": "イヴはピンク色の体に、大きな赤い目と小さな口を持つ女性の姿をしている。繊細な体つきと優雅なしっぽが特徴で、手足にはピンク色の爪が生えている。",
-      "reason": "進化の過程で、イヴはより優美で美しい外見を持つようになりました。",
-      "thought": "『優雅な美しさ』"
+      "appearance": "イヴはピンク色の体に赤い顔を持ち、背中には薄い赤い模様がある。腕と脚はピンク色で、しっぽは三角形の形状で赤く、短い角がある。",
+      "reason": "イヴは自然と調和した色彩と模様を持つよう進化した。その美しい外観は環境への適応と個体間の美的選択に起因する。",
+      "thought": "『自然の美しさを体現する』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"120\" y=\"80\" width=\"160\" height=\"240\" fill=\"#afeeee\"/><ellipse cx=\"200\" cy=\"100\" rx=\"80\" ry=\"100\" fill=\"#87cefa\"/><circle cx=\"160\" cy=\"240\" r=\"20\" fill=\"#87cefa\"/><circle cx=\"240\" cy=\"240\" r=\"20\" fill=\"#87cefa\"/><path d=\"M180 220 Q200 260 220 220\" fill=\"none\" stroke=\"#4682b4\" stroke-width=\"4\"/><path d=\"M170 320 Q200 340 230 320\" fill=\"none\" stroke=\"#4682b4\" stroke-width=\"4\"/><polygon points=\"180,160 200,140 220,160\" fill=\"#b0e0e6\"/><line x1=\"150\" y1=\"90\" x2=\"130\" y2=\"120\" stroke=\"#4682b4\" stroke-width=\"4\"/><line x1=\"250\" y1=\"90\" x2=\"270\" y2=\"120\" stroke=\"#4682b4\" stroke-width=\"4\"/><line x1=\"130\" y1=\"240\" x2=\"110\" y2=\"260\" stroke=\"#4682b4\" stroke-width=\"4\"/><line x1=\"270\" y1=\"240\" x2=\"290\" y2=\"260\" stroke=\"#4682b4\" stroke-width=\"4\"/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='250' y='200' width='100' height='150' fill='#ADD8E6' /><ellipse cx='300' cy='70' rx='45' ry='60' fill='#B0E0E6' /><path d='M300 70 L290 75 L310 50 Q330 20 350 50 L370 75 L360 70 Q340 40 300 70' fill='#87CEEB' /><line x1='270' y1='200' x2='270' y2='250' stroke='#ADD8E6' stroke-width='6' /><line x1='350' y1='200' x2='350' y2='250' stroke='#ADD8E6' stroke-width='6' /><polygon points='280,200 300,160 320,200' fill='#00BFFF' /><polygon points='270,250 290,300 280,300 260,250' fill='#00BFFF' /><polygon points='340,250 360,300 350,300 330,250' fill='#00BFFF' /><line x1='300' y1='250' x2='300' y2='300' stroke='#ADD8E6' stroke-width='6' /><rect x='280' y='300' width='40' height='20' fill='#ADD8E6' /><rect x='270' y='320' width='60' height='20' fill='#ADD8E6' /></svg>",
     "report": {
-      "appearance": "アダムは青色の体に、大きな青い目と小さな口を持つ男性の姿をしている。引き締まった体つきと力強い角が特徴で、手足には青色の爪が生えている。",
-      "reason": "進化の過程で、アダムはより力強く健康的な外見を持つようになりました。",
-      "thought": "『力強さと健康』"
+      "appearance": "アダムは青色の体に水色の顔を持ち、背中には薄い青い模様がある。腕と脚は青色で、しっぽは三角形の形状で水色で、短い角がある。",
+      "reason": "アダムは水と空を象徴する色彩と模様を持つよう進化した。その清らかな外観は生存戦略と環境適応に営まれた。",
+      "thought": "『清浄なる空気を吸い込む』"
     },
     "name": "アダム",
     "gender": "男性"

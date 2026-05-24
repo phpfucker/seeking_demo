@@ -34666,5 +34666,28 @@
       "gender": "男性"
     },
     "timestamp": 1779628675303
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"120\" y=\"80\" width=\"160\" height=\"240\" fill=\"#ffcccb\"/><ellipse cx=\"200\" cy=\"100\" rx=\"80\" ry=\"100\" fill=\"#ffd1dc\"/><circle cx=\"160\" cy=\"240\" r=\"20\" fill=\"#ffd1dc\"/><circle cx=\"240\" cy=\"240\" r=\"20\" fill=\"#ffd1dc\"/><path d=\"M180 220 Q200 260 220 220\" fill=\"none\" stroke=\"#e84a5f\" stroke-width=\"4\"/><path d=\"M170 320 Q200 340 230 320\" fill=\"none\" stroke=\"#e84a5f\" stroke-width=\"4\"/><polygon points=\"180,160 200,140 220,160\" fill=\"#ffaaaa\"/><line x1=\"150\" y1=\"90\" x2=\"130\" y2=\"120\" stroke=\"#e84a5f\" stroke-width=\"4\"/><line x1=\"250\" y1=\"90\" x2=\"270\" y2=\"120\" stroke=\"#e84a5f\" stroke-width=\"4\"/><line x1=\"130\" y1=\"240\" x2=\"110\" y2=\"260\" stroke=\"#e84a5f\" stroke-width=\"4\"/><line x1=\"270\" y1=\"240\" x2=\"290\" y2=\"260\" stroke=\"#e84a5f\" stroke-width=\"4\"/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体に、大きな赤い目と小さな口を持つ女性の姿をしている。繊細な体つきと優雅なしっぽが特徴で、手足にはピンク色の爪が生えている。",
+        "reason": "進化の過程で、イヴはより優美で美しい外見を持つようになりました。",
+        "thought": "『優雅な美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg viewBox=\"0 0 400 400\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"120\" y=\"80\" width=\"160\" height=\"240\" fill=\"#afeeee\"/><ellipse cx=\"200\" cy=\"100\" rx=\"80\" ry=\"100\" fill=\"#87cefa\"/><circle cx=\"160\" cy=\"240\" r=\"20\" fill=\"#87cefa\"/><circle cx=\"240\" cy=\"240\" r=\"20\" fill=\"#87cefa\"/><path d=\"M180 220 Q200 260 220 220\" fill=\"none\" stroke=\"#4682b4\" stroke-width=\"4\"/><path d=\"M170 320 Q200 340 230 320\" fill=\"none\" stroke=\"#4682b4\" stroke-width=\"4\"/><polygon points=\"180,160 200,140 220,160\" fill=\"#b0e0e6\"/><line x1=\"150\" y1=\"90\" x2=\"130\" y2=\"120\" stroke=\"#4682b4\" stroke-width=\"4\"/><line x1=\"250\" y1=\"90\" x2=\"270\" y2=\"120\" stroke=\"#4682b4\" stroke-width=\"4\"/><line x1=\"130\" y1=\"240\" x2=\"110\" y2=\"260\" stroke=\"#4682b4\" stroke-width=\"4\"/><line x1=\"270\" y1=\"240\" x2=\"290\" y2=\"260\" stroke=\"#4682b4\" stroke-width=\"4\"/></svg>",
+      "report": {
+        "appearance": "アダムは青色の体に、大きな青い目と小さな口を持つ男性の姿をしている。引き締まった体つきと力強い角が特徴で、手足には青色の爪が生えている。",
+        "reason": "進化の過程で、アダムはより力強く健康的な外見を持つようになりました。",
+        "thought": "『力強さと健康』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1779649920805
   }
 ]
