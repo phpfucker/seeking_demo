@@ -34643,5 +34643,28 @@
       "gender": "男性"
     },
     "timestamp": 1779611073000
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' gradientTransform='rotate(90)'><stop offset='0%' stop-color='#ff77a9' /><stop offset='100%' stop-color='#ffccaa' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradA)' /><ellipse cx='200' cy='250' rx='80' ry='50' fill='#ff99cc' /><circle cx='160' cy='230' r='10' fill='#663333' /><circle cx='240' cy='230' r='10' fill='#663333' /><path d='M180 280 Q200 290 220 280' stroke='#663333' stroke-width='2' fill='none' /><path d='M180 285 Q200 295 220 285' stroke='#663333' stroke-width='2' fill='none' /><polygon points='180,230 220,230 200,240' fill='#ff99cc' /><path d='M150 180 C160 160, 240 160, 250 180' stroke='#663333' stroke-width='2' fill='none' /><ellipse cx='160' cy='200' rx='10' ry='20' fill='#ff99cc' /><ellipse cx='240' cy='200' rx='10' ry='20' fill='#ff99cc' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとオレンジのグラデーションが美しい体を持ち、優雅な女性らしい特徴が際立っています。頭部には円形の赤い目があり、長い角のような突起物が生えています。胴体は細く、腰から下に向かってしっぽが伸びています。四肢は優美で滑らかなラインを描き、全体的に柔らかな雰囲気を醸し出しています。",
+        "reason": "イヴは新たな進化を果たし、美しさと気品を更に高めるため、体の色合いやパーツ構成が変化しました。",
+        "thought": "『優美なる生命の誕生』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' gradientTransform='rotate(90)'><stop offset='0%' stop-color='#77a9ff' /><stop offset='100%' stop-color='#aaccff' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradB)' /><ellipse cx='200' cy='250' rx='80' ry='50' fill='#99ccff' /><circle cx='160' cy='230' r='10' fill='#333366' /><circle cx='240' cy='230' r='10' fill='#333366' /><path d='M180 280 Q200 290 220 280' stroke='#333366' stroke-width='2' fill='none' /><path d='M180 285 Q200 295 220 285' stroke='#333366' stroke-width='2' fill='none' /><polygon points='180,230 220,230 200,240' fill='#99ccff' /><path d='M150 180 C160 160, 240 160, 250 180' stroke='#333366' stroke-width='2' fill='none' /><ellipse cx='160' cy='200' rx='10' ry='20' fill='#99ccff' /><ellipse cx='240' cy='200' rx='10' ry='20' fill='#99ccff' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色のグラデーションが美しい体を持ち、男性らしい力強い特徴が際立っています。頭部には円形の青い目があり、短い角のような突起物が生えています。胴体は引き締まり、腰から下に向かってしっぽが伸びています。四肢は力強く引き締まった筋肉を持ち、全体的に力強い印象を与えます。",
+        "reason": "アダムは新たな進化を果たし、力強さと男性らしさを更に強調するため、体の色合いやパーツ構成が変化しました。",
+        "thought": "『力強き生命の誕生』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1779628675303
   }
 ]
