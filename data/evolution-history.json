@@ -34597,5 +34597,28 @@
       "gender": "男性"
     },
     "timestamp": 1779563054415
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='lightcoral' /><ellipse cx='200' cy='120' rx='100' ry='60' fill='pink' /><ellipse cx='155' cy='120' rx='20' ry='35' fill='pink' /><ellipse cx='245' cy='120' rx='20' ry='35' fill='pink' /><path d='M180 180 Q200 150 220 180 Q200 210 180 180' fill='pink' /><circle cx='170' cy='140' r='5' fill='black' /><circle cx='230' cy='140' r='5' fill='black' /><polygon points='175,140 205,160 195,160 225,140' fill='white' /><rect x='190' y='230' width='20' height='70' fill='pink' /><rect x='180' y='300' width='40' height='20' fill='pink' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとライトコーラルの色合いを持つ美しい女性の姿をしています。体は大きな円形で、顔には柔らかい表情が描かれ、ピンクのエレガントな服を身にまとっています。手足は細く、しっぽがあります。",
+        "reason": "進化の過程で、イヴはより優美で繊細な特徴を身につけることで、生存において魅力的な存在となり、環境に適応するための新たな戦略を獲得しました。",
+        "thought": "『愛と美しさの象徴』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='lightskyblue' /><ellipse cx='200' cy='90' rx='60' ry='40' fill='lightblue' /><circle cx='180' cy='85' r='10' fill='black' /><circle cx='220' cy='85' r='10' fill='black' /><polygon points='180,100 220,100 210,140 190,140' fill='white' /><line x1='190' y1='300' x2='200' y2='320' stroke='blue' stroke-width='5' /><line x1='210' y1='300' x2='200' y2='320' stroke='blue' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "アダムは、ライトスカイブルーの体に、軽やかなライトブルーの顔と複数の模様を持つ男性の姿をしています。体は四角形で頑丈で、顔にはやや強い表情が描かれ、ブルーの衣装を身に着けています。手足は太く、青い角が生えています。",
+        "reason": "アダムの進化は、より強靭で堅牢な特徴を身につけ、環境での競争力を高めるために進んだものであり、新たな捕食戦略や領土争いに適応するための進化です。",
+        "thought": "『力と勇気の象徴』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1779591170070
   }
 ]
