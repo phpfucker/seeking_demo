@@ -34620,5 +34620,28 @@
       "gender": "男性"
     },
     "timestamp": 1779591170070
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcc99' /><ellipse cx='200' cy='180' rx='80' ry='100' fill='#ffddb3' /><circle cx='150' cy='150' r='10' fill='#664422' /><circle cx='250' cy='150' r='10' fill='#664422' /><polygon points='160,220 200,260 240,220' fill='#ffddb3' /><path d='M180,280 Q200,320 220,280' fill='none' stroke='#664422' stroke-width='5' /><line x1='170' y1='180' x2='130' y2='220' stroke='#664422' stroke-width='5' /><line x1='230' y1='180' x2='270' y2='220' stroke='#664422' stroke-width='5' /><line x1='200' y1='290' x2='200' y2='330' stroke='#664422' stroke-width='5' /><line x1='200' y1='330' x2='180' y2='350' stroke='#664422' stroke-width='5' /><line x1='200' y1='330' x2='220' y2='350' stroke='#664422' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "イヴは、橙色の体にピンク色の顔を持ち、大きな眼と角、太い腕と足を持つ女性の生命体です。胴体は長方形であり、足は細長い楕円形です。",
+        "reason": "新たな環境への適応により、イヴはより大きな頭部と強靭な腕を発達させ、鮮やかな色彩を身に纏うよう進化しました。",
+        "thought": "『未来への希望』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#668cff' /><ellipse cx='200' cy='180' rx='80' ry='100' fill='#85a8ff' /><circle cx='150' cy='150' r='10' fill='#3333ff' /><circle cx='250' cy='150' r='10' fill='#3333ff' /><polygon points='160,220 200,260 240,220' fill='#85a8ff' /><path d='M180,280 Q200,320 220,280' fill='none' stroke='#3333ff' stroke-width='5' /><line x1='170' y1='180' x2='130' y2='220' stroke='#3333ff' stroke-width='5' /><line x1='230' y1='180' x2='270' y2='220' stroke='#3333ff' stroke-width='5' /><line x1='200' y1='290' x2='200' y2='330' stroke='#3333ff' stroke-width='5' /><line x1='200' y1='330' x2='180' y2='350' stroke='#3333ff' stroke-width='5' /><line x1='200' y1='330' x2='220' y2='350' stroke='#3333ff' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い体に水色の顔を持ち、大きな眼と角、太い腕と足を持つ男性の生命体です。胴体は長方形であり、足は細長い楕円形です。",
+        "reason": "生存競争の激化により、アダムはより頑丈な体と俊敏な足を得るために進化し、青と水色の色彩を身に纏うようになりました。",
+        "thought": "『次の挑戦へ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1779611073000
   }
 ]

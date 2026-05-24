@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcc99' /><ellipse cx='200' cy='180' rx='80' ry='100' fill='#ffddb3' /><circle cx='150' cy='150' r='10' fill='#664422' /><circle cx='250' cy='150' r='10' fill='#664422' /><polygon points='160,220 200,260 240,220' fill='#ffddb3' /><path d='M180,280 Q200,320 220,280' fill='none' stroke='#664422' stroke-width='5' /><line x1='170' y1='180' x2='130' y2='220' stroke='#664422' stroke-width='5' /><line x1='230' y1='180' x2='270' y2='220' stroke='#664422' stroke-width='5' /><line x1='200' y1='290' x2='200' y2='330' stroke='#664422' stroke-width='5' /><line x1='200' y1='330' x2='180' y2='350' stroke='#664422' stroke-width='5' /><line x1='200' y1='330' x2='220' y2='350' stroke='#664422' stroke-width='5' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' gradientTransform='rotate(90)'><stop offset='0%' stop-color='#ff77a9' /><stop offset='100%' stop-color='#ffccaa' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradA)' /><ellipse cx='200' cy='250' rx='80' ry='50' fill='#ff99cc' /><circle cx='160' cy='230' r='10' fill='#663333' /><circle cx='240' cy='230' r='10' fill='#663333' /><path d='M180 280 Q200 290 220 280' stroke='#663333' stroke-width='2' fill='none' /><path d='M180 285 Q200 295 220 285' stroke='#663333' stroke-width='2' fill='none' /><polygon points='180,230 220,230 200,240' fill='#ff99cc' /><path d='M150 180 C160 160, 240 160, 250 180' stroke='#663333' stroke-width='2' fill='none' /><ellipse cx='160' cy='200' rx='10' ry='20' fill='#ff99cc' /><ellipse cx='240' cy='200' rx='10' ry='20' fill='#ff99cc' /></svg>",
     "report": {
-      "appearance": "イヴは、橙色の体にピンク色の顔を持ち、大きな眼と角、太い腕と足を持つ女性の生命体です。胴体は長方形であり、足は細長い楕円形です。",
-      "reason": "新たな環境への適応により、イヴはより大きな頭部と強靭な腕を発達させ、鮮やかな色彩を身に纏うよう進化しました。",
-      "thought": "『未来への希望』"
+      "appearance": "イヴは、ピンクとオレンジのグラデーションが美しい体を持ち、優雅な女性らしい特徴が際立っています。頭部には円形の赤い目があり、長い角のような突起物が生えています。胴体は細く、腰から下に向かってしっぽが伸びています。四肢は優美で滑らかなラインを描き、全体的に柔らかな雰囲気を醸し出しています。",
+      "reason": "イヴは新たな進化を果たし、美しさと気品を更に高めるため、体の色合いやパーツ構成が変化しました。",
+      "thought": "『優美なる生命の誕生』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#668cff' /><ellipse cx='200' cy='180' rx='80' ry='100' fill='#85a8ff' /><circle cx='150' cy='150' r='10' fill='#3333ff' /><circle cx='250' cy='150' r='10' fill='#3333ff' /><polygon points='160,220 200,260 240,220' fill='#85a8ff' /><path d='M180,280 Q200,320 220,280' fill='none' stroke='#3333ff' stroke-width='5' /><line x1='170' y1='180' x2='130' y2='220' stroke='#3333ff' stroke-width='5' /><line x1='230' y1='180' x2='270' y2='220' stroke='#3333ff' stroke-width='5' /><line x1='200' y1='290' x2='200' y2='330' stroke='#3333ff' stroke-width='5' /><line x1='200' y1='330' x2='180' y2='350' stroke='#3333ff' stroke-width='5' /><line x1='200' y1='330' x2='220' y2='350' stroke='#3333ff' stroke-width='5' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' gradientTransform='rotate(90)'><stop offset='0%' stop-color='#77a9ff' /><stop offset='100%' stop-color='#aaccff' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradB)' /><ellipse cx='200' cy='250' rx='80' ry='50' fill='#99ccff' /><circle cx='160' cy='230' r='10' fill='#333366' /><circle cx='240' cy='230' r='10' fill='#333366' /><path d='M180 280 Q200 290 220 280' stroke='#333366' stroke-width='2' fill='none' /><path d='M180 285 Q200 295 220 285' stroke='#333366' stroke-width='2' fill='none' /><polygon points='180,230 220,230 200,240' fill='#99ccff' /><path d='M150 180 C160 160, 240 160, 250 180' stroke='#333366' stroke-width='2' fill='none' /><ellipse cx='160' cy='200' rx='10' ry='20' fill='#99ccff' /><ellipse cx='240' cy='200' rx='10' ry='20' fill='#99ccff' /></svg>",
     "report": {
-      "appearance": "アダムは、青い体に水色の顔を持ち、大きな眼と角、太い腕と足を持つ男性の生命体です。胴体は長方形であり、足は細長い楕円形です。",
-      "reason": "生存競争の激化により、アダムはより頑丈な体と俊敏な足を得るために進化し、青と水色の色彩を身に纏うようになりました。",
-      "thought": "『次の挑戦へ』"
+      "appearance": "アダムは、青と水色のグラデーションが美しい体を持ち、男性らしい力強い特徴が際立っています。頭部には円形の青い目があり、短い角のような突起物が生えています。胴体は引き締まり、腰から下に向かってしっぽが伸びています。四肢は力強く引き締まった筋肉を持ち、全体的に力強い印象を与えます。",
+      "reason": "アダムは新たな進化を果たし、力強さと男性らしさを更に強調するため、体の色合いやパーツ構成が変化しました。",
+      "thought": "『力強き生命の誕生』"
     },
     "name": "アダム",
     "gender": "男性"
