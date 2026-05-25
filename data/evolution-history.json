@@ -34712,5 +34712,28 @@
       "gender": "男性"
     },
     "timestamp": 1779679705770
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcc99' /><ellipse cx='200' cy='180' rx='80' ry='100' fill='#ffcc99' /><path d='M160 220 Q200 300 240 220 Q200 260 160 220 Z' fill='#ffaa66' /><polygon points='190,180 210,180 200,190' fill='#996633' /><circle cx='170' cy='180' r='10' fill='#000' /><circle cx='230' cy='180' r='10' fill='#000' /><rect x='190' y='240' width='20' height='40' fill='#996633' /><path d='M190 280 Q200 320 210 280' fill='none' stroke='#996633' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、オレンジ色の肌を持ち、大きな卵型の体と細長い腕を持つ。頭部は楕円形で、口や目を持っており、足は4本の指を持つ。全体的に温かみのある色彩と柔らかな曲線が特徴。",
+        "reason": "イヴは新たな生態系への適応を果たすため、姿を変える進化を遂げた。",
+        "thought": "『新たな未来への一歩』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#6699ff' /><path d='M160 220 Q200 300 240 220 Q200 260 160 220 Z' fill='#3366cc' /><ellipse cx='180' cy='190' rx='80' ry='100' fill='#6699ff' /><polygon points='190,180 210,180 200,190' fill='#3366cc' /><circle cx='170' cy='180' r='10' fill='#000' /><circle cx='230' cy='180' r='10' fill='#000' /><rect x='190' y='240' width='20' height='40' fill='#3366cc' /><path d='M190 280 Q200 320 210 280' fill='none' stroke='#3366cc' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌を持ち、大きな卵型の体と複雑な青の模様が施されている。頭部は楕円形で、口や目を持ち、4本の指を持つ足があり、全体的に力強い印象を受ける。",
+        "reason": "アダムは環境の変化に対応するため、身体能力や警戒心を高める進化を遂げた。",
+        "thought": "『強さと知恵を兼ね備えた者』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1779703085479
   }
 ]
