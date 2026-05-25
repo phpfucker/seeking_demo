@@ -34758,5 +34758,28 @@
       "gender": "男性"
     },
     "timestamp": 1779720429538
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='140' rx='100' ry='120' fill='#ffc0cb'/><path d='M150,220 Q200,320 250,220 Q200,280 150,220 Z' fill='#ff99cc'/><ellipse cx='150' cy='140' rx='20' ry='30' fill='#ff99cc'/><ellipse cx='250' cy='140' rx='20' ry='30' fill='#ff99cc'/><rect x='180' y='200' width='40' height='60' fill='#ff99cc'/><polygon points='190,200 210,200 200,180' fill='#ff99cc'/><polygon points='190,260 210,260 200,280' fill='#ff99cc'/><path d='M180,260 Q200,280 220,260 Z' fill='#ff99cc'/><line x1='185' y1='220' x2='215' y2='220' stroke='#e60073' stroke-width='2'/><line x1='185' y1='230' x2='215' y2='230' stroke='#e60073' stroke-width='2'/><line x1='185' y1='240' x2='215' y2='240' stroke='#e60073' stroke-width='2'/><text x='200' y='350' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌と大きな赤い目を持つ女性型生命体です。体の一部にはピンクと紫のグラデーションが施され、優美な曲線を描いています。顔には小さな鼻と口があり、柔らかな表情をしています。四肢は繊細で、ピンクの装飾と共に存在します。",
+        "reason": "生態系の変化により、イヴは新たな環境に適応するため、美しい色彩と繊細な特徴を備えるよう進化しました。",
+        "thought": "『愛と美しさが宇宙を満たす』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#87ceeb'/><ellipse cx='200' cy='100' rx='50' ry='70' fill='#4682b4'/><path d='M150,220 Q200,320 250,220 Q200,280 150,220 Z' fill='#87cefa'/><polygon points='190,100 210,100 200,80' fill='#4682b4'/><polygon points='190,300 210,300 200,320' fill='#4682b4'/><path d='M180,300 Q200,320 220,300 Z' fill='#4682b4'/><line x1='185' y1='260' x2='215' y2='260' stroke='#4169e1' stroke-width='2'/><line x1='185' y1='270' x2='215' y2='270' stroke='#4169e1' stroke-width='2'/><line x1='185' y1='280' x2='215' y2='280' stroke='#4169e1' stroke-width='2'/><text x='200' y='350' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色の体毛を持つ男性型生命体です。体は青空を思わせる色合いで、幾何学的な形状と曲線が調和しています。顔には大きな青い目と鋭い角が特徴で、力強く見えます。四肢は堅牢で、青と紺のパターンが施されています。",
+        "reason": "環境の変化に伴い、アダムは新たな状況に順応するため、強靭な外観と洗練された色彩を身につける進化を遂げました。",
+        "thought": "『力強く、誇り高き存在』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1779737049728
   }
 ]
