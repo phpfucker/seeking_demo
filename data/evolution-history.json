@@ -34689,5 +34689,28 @@
       "gender": "男性"
     },
     "timestamp": 1779649920805
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='200' width='100' height='150' fill='#FFB6C1' /><ellipse cx='100' cy='70' rx='45' ry='60' fill='#FFC0CB' /><path d='M100 70 L90 75 L110 50 Q130 20 150 50 L170 75 L160 70 Q140 40 100 70' fill='#F08080' /><line x1='70' y1='200' x2='70' y2='250' stroke='#FFB6C1' stroke-width='6' /><line x1='150' y1='200' x2='150' y2='250' stroke='#FFB6C1' stroke-width='6' /><polygon points='80,200 100,160 120,200' fill='#FF69B4' /><polygon points='70,250 90,300 80,300 60,250' fill='#FF69B4' /><polygon points='140,250 160,300 150,300 130,250' fill='#FF69B4' /><line x1='100' y1='250' x2='100' y2='300' stroke='#FFB6C1' stroke-width='6' /><rect x='80' y='300' width='40' height='20' fill='#FFB6C1' /><rect x='70' y='320' width='60' height='20' fill='#FFB6C1' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体に赤い顔を持ち、背中には薄い赤い模様がある。腕と脚はピンク色で、しっぽは三角形の形状で赤く、短い角がある。",
+        "reason": "イヴは自然と調和した色彩と模様を持つよう進化した。その美しい外観は環境への適応と個体間の美的選択に起因する。",
+        "thought": "『自然の美しさを体現する』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='250' y='200' width='100' height='150' fill='#ADD8E6' /><ellipse cx='300' cy='70' rx='45' ry='60' fill='#B0E0E6' /><path d='M300 70 L290 75 L310 50 Q330 20 350 50 L370 75 L360 70 Q340 40 300 70' fill='#87CEEB' /><line x1='270' y1='200' x2='270' y2='250' stroke='#ADD8E6' stroke-width='6' /><line x1='350' y1='200' x2='350' y2='250' stroke='#ADD8E6' stroke-width='6' /><polygon points='280,200 300,160 320,200' fill='#00BFFF' /><polygon points='270,250 290,300 280,300 260,250' fill='#00BFFF' /><polygon points='340,250 360,300 350,300 330,250' fill='#00BFFF' /><line x1='300' y1='250' x2='300' y2='300' stroke='#ADD8E6' stroke-width='6' /><rect x='280' y='300' width='40' height='20' fill='#ADD8E6' /><rect x='270' y='320' width='60' height='20' fill='#ADD8E6' /></svg>",
+      "report": {
+        "appearance": "アダムは青色の体に水色の顔を持ち、背中には薄い青い模様がある。腕と脚は青色で、しっぽは三角形の形状で水色で、短い角がある。",
+        "reason": "アダムは水と空を象徴する色彩と模様を持つよう進化した。その清らかな外観は生存戦略と環境適応に営まれた。",
+        "thought": "『清浄なる空気を吸い込む』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1779679705770
   }
 ]
