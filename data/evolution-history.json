@@ -34735,5 +34735,28 @@
       "gender": "男性"
     },
     "timestamp": 1779703085479
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='80' width='120' height='200' fill='#ffcccb' /><ellipse cx='200' cy='50' rx='80' ry='40' fill='#f1c27d' /><ellipse cx='200' cy='280' rx='60' ry='20' fill='#f1c27d' /><ellipse cx='160' cy='200' rx='20' ry='40' fill='#f1c27d' /><ellipse cx='240' cy='200' rx='20' ry='40' fill='#f1c27d' /><path d='M190 80 L160 100 L220 100 Z' fill='#ffcccb' /><path d='M210 80 L240 100 L180 100 Z' fill='#ffcccb' /><path d='M180 280 Q200 330 220 280 L180 280 Z' fill='#ffcccb' /><path d='M220 280 Q200 330 180 280 L220 280 Z' fill='#ffcccb' /><ellipse cx='190' cy='160' rx='20' ry='10' fill='#ffffff' /><ellipse cx='210' cy='160' rx='20' ry='10' fill='#ffffff' /><ellipse cx='200' cy='170' rx='15' ry='5' fill='#000000' /><path d='M200 170 Q190 180 200 190 Q210 180 200 170 Z' fill='#ffcccb' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌を持つ女性で、丸い顔に大きな目と柔らかい表情が特徴です。頭には2本の小さな角が生え、体はやや丸みを帯びた形状で、手足は短く愛らしいです。背中には薄いピンクのしっぽが生えています。",
+        "reason": "周囲の環境がより温暖になり、生物が柔らかく愛らしい特徴を持つ方が繁殖に適しているため進化しました。",
+        "thought": "『優しさが力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='80' width='120' height='200' fill='#87cefa' /><ellipse cx='200' cy='50' rx='80' ry='40' fill='#deb887' /><ellipse cx='200' cy='280' rx='60' ry='20' fill='#deb887' /><ellipse cx='160' cy='200' rx='20' ry='40' fill='#deb887' /><ellipse cx='240' cy='200' rx='20' ry='40' fill='#deb887' /><polygon points='200,80 180,120 220,120' fill='#87cefa' /><polygon points='200,80 220,120 180,120' fill='#87cefa' /><polygon points='200,280 180,320 220,320' fill='#87cefa' /><polygon points='200,280 220,320 180,320' fill='#87cefa' /><ellipse cx='190' cy='160' rx='20' ry='10' fill='#ffffff' /><ellipse cx='210' cy='160' rx='20' ry='10' fill='#ffffff' /><ellipse cx='200' cy='170' rx='15' ry='5' fill='#000000' /><path d='M200 170 Q190 180 200 190 Q210 180 200 170 Z' fill='#deb887' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌を持つ男性で、丸い顔に大きな目と落ち着いた表情が特徴です。頭には2本の角が生え、体はがっしりとした形状で、手足は筋肉質で力強い印象です。背中には薄い青色のしっぽが生えています。",
+        "reason": "食物の確保や狩りのため、力強い体格や威厳を持つ方が生存に有利であったため進化しました。",
+        "thought": "『静かなる力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1779720429538
   }
 ]

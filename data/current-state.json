@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='80' width='120' height='200' fill='#ffcccb' /><ellipse cx='200' cy='50' rx='80' ry='40' fill='#f1c27d' /><ellipse cx='200' cy='280' rx='60' ry='20' fill='#f1c27d' /><ellipse cx='160' cy='200' rx='20' ry='40' fill='#f1c27d' /><ellipse cx='240' cy='200' rx='20' ry='40' fill='#f1c27d' /><path d='M190 80 L160 100 L220 100 Z' fill='#ffcccb' /><path d='M210 80 L240 100 L180 100 Z' fill='#ffcccb' /><path d='M180 280 Q200 330 220 280 L180 280 Z' fill='#ffcccb' /><path d='M220 280 Q200 330 180 280 L220 280 Z' fill='#ffcccb' /><ellipse cx='190' cy='160' rx='20' ry='10' fill='#ffffff' /><ellipse cx='210' cy='160' rx='20' ry='10' fill='#ffffff' /><ellipse cx='200' cy='170' rx='15' ry='5' fill='#000000' /><path d='M200 170 Q190 180 200 190 Q210 180 200 170 Z' fill='#ffcccb' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='140' rx='100' ry='120' fill='#ffc0cb'/><path d='M150,220 Q200,320 250,220 Q200,280 150,220 Z' fill='#ff99cc'/><ellipse cx='150' cy='140' rx='20' ry='30' fill='#ff99cc'/><ellipse cx='250' cy='140' rx='20' ry='30' fill='#ff99cc'/><rect x='180' y='200' width='40' height='60' fill='#ff99cc'/><polygon points='190,200 210,200 200,180' fill='#ff99cc'/><polygon points='190,260 210,260 200,280' fill='#ff99cc'/><path d='M180,260 Q200,280 220,260 Z' fill='#ff99cc'/><line x1='185' y1='220' x2='215' y2='220' stroke='#e60073' stroke-width='2'/><line x1='185' y1='230' x2='215' y2='230' stroke='#e60073' stroke-width='2'/><line x1='185' y1='240' x2='215' y2='240' stroke='#e60073' stroke-width='2'/><text x='200' y='350' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の肌を持つ女性で、丸い顔に大きな目と柔らかい表情が特徴です。頭には2本の小さな角が生え、体はやや丸みを帯びた形状で、手足は短く愛らしいです。背中には薄いピンクのしっぽが生えています。",
-      "reason": "周囲の環境がより温暖になり、生物が柔らかく愛らしい特徴を持つ方が繁殖に適しているため進化しました。",
-      "thought": "『優しさが力』"
+      "appearance": "イヴは、ピンク色の肌と大きな赤い目を持つ女性型生命体です。体の一部にはピンクと紫のグラデーションが施され、優美な曲線を描いています。顔には小さな鼻と口があり、柔らかな表情をしています。四肢は繊細で、ピンクの装飾と共に存在します。",
+      "reason": "生態系の変化により、イヴは新たな環境に適応するため、美しい色彩と繊細な特徴を備えるよう進化しました。",
+      "thought": "『愛と美しさが宇宙を満たす』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='80' width='120' height='200' fill='#87cefa' /><ellipse cx='200' cy='50' rx='80' ry='40' fill='#deb887' /><ellipse cx='200' cy='280' rx='60' ry='20' fill='#deb887' /><ellipse cx='160' cy='200' rx='20' ry='40' fill='#deb887' /><ellipse cx='240' cy='200' rx='20' ry='40' fill='#deb887' /><polygon points='200,80 180,120 220,120' fill='#87cefa' /><polygon points='200,80 220,120 180,120' fill='#87cefa' /><polygon points='200,280 180,320 220,320' fill='#87cefa' /><polygon points='200,280 220,320 180,320' fill='#87cefa' /><ellipse cx='190' cy='160' rx='20' ry='10' fill='#ffffff' /><ellipse cx='210' cy='160' rx='20' ry='10' fill='#ffffff' /><ellipse cx='200' cy='170' rx='15' ry='5' fill='#000000' /><path d='M200 170 Q190 180 200 190 Q210 180 200 170 Z' fill='#deb887' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#87ceeb'/><ellipse cx='200' cy='100' rx='50' ry='70' fill='#4682b4'/><path d='M150,220 Q200,320 250,220 Q200,280 150,220 Z' fill='#87cefa'/><polygon points='190,100 210,100 200,80' fill='#4682b4'/><polygon points='190,300 210,300 200,320' fill='#4682b4'/><path d='M180,300 Q200,320 220,300 Z' fill='#4682b4'/><line x1='185' y1='260' x2='215' y2='260' stroke='#4169e1' stroke-width='2'/><line x1='185' y1='270' x2='215' y2='270' stroke='#4169e1' stroke-width='2'/><line x1='185' y1='280' x2='215' y2='280' stroke='#4169e1' stroke-width='2'/><text x='200' y='350' font-family='Arial' font-size='20' fill='black' text-anchor='middle'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは、青色の肌を持つ男性で、丸い顔に大きな目と落ち着いた表情が特徴です。頭には2本の角が生え、体はがっしりとした形状で、手足は筋肉質で力強い印象です。背中には薄い青色のしっぽが生えています。",
-      "reason": "食物の確保や狩りのため、力強い体格や威厳を持つ方が生存に有利であったため進化しました。",
-      "thought": "『静かなる力』"
+      "appearance": "アダムは、青と水色の体毛を持つ男性型生命体です。体は青空を思わせる色合いで、幾何学的な形状と曲線が調和しています。顔には大きな青い目と鋭い角が特徴で、力強く見えます。四肢は堅牢で、青と紺のパターンが施されています。",
+      "reason": "環境の変化に伴い、アダムは新たな状況に順応するため、強靭な外観と洗練された色彩を身につける進化を遂げました。",
+      "thought": "『力強く、誇り高き存在』"
     },
     "name": "アダム",
     "gender": "男性"
