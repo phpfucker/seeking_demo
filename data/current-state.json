@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff99cc' /><ellipse cx='200' cy='200' rx='120' ry='180' fill='#ffccff' /><path d='M150,250 L200,350 L250,250 Z' fill='#ff66cc' /><path d='M170,170 Q200,120 230,170' fill='none' stroke='#cc3399' stroke-width='5' /><rect x='180' y='300' width='40' height='60' fill='#ff99cc' /><line x1='160' y1='300' x2='140' y2='350' stroke='#cc3399' stroke-width='5' /><line x1='240' y1='300' x2='260' y2='350' stroke='#cc3399' stroke-width='5' /><polygon points='180,100 200,50 220,100' fill='#ff66cc' /><circle cx='180' cy='180' r='10' fill='#cc3399' /><circle cx='220' cy='180' r='10' fill='#cc3399' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='180' rx='100' ry='140' fill='#ff99cc' /><path d='M150,250 Q200,320 250,250' fill='none' stroke='#ff66cc' stroke-width='12' /><rect x='180' y='120' width='40' height='30' fill='#ff66cc' /><polygon points='170,180 200,220 230,180' fill='none' stroke='#ff66cc' stroke-width='8' /><line x1='180' y1='190' x2='220' y2='190' stroke='#ff66cc' stroke-width='8' /><circle cx='175' cy='175' r='5' fill='#000' /><circle cx='225' cy='175' r='5' fill='#000' /><path d='M180,230 Q200,220 220,230' fill='none' stroke='#000' stroke-width='4' /><path d='M150,200 Q200,170 250,200' fill='none' stroke='#000' stroke-width='6' /><path d='M200,230 Q180,250 220,250' fill='none' stroke='#000' stroke-width='6' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンクと紫色の美しい体を持つ女性で、優雅な体型と大きな目が特徴です。角のような飾りが頭部にあり、華やかな装飾が施されています。体の下部には柔らかな色のしっぽが生えています。",
-      "reason": "環境の変化により、イヴの進化は美的な要素が重視されるようになりました。彼女の美しさは種の繁栄に貢献し、仲間を惹きつける魅力を持つことが求められました。",
-      "thought": "『優しさが全てを変える』"
+      "appearance": "イヴはピンク色の肌と、大きな紫色の瞳を持つ女性型生命体です。体は楕円形で、髪の毛は薄い紫色で長く伸びています。頭部には角が2本生え、背中にはピンクのしっぽがあります。",
+      "reason": "イヴは進化の過程で、感情をより豊かに表現するために瞳の色が変化し、より柔らかな色調となりました。",
+      "thought": "『幸せな未来へ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='50' width='100' height='150' fill='#66ccff' /><circle cx='200' cy='200' r='120' fill='#99ccff' /><path d='M150,250 L200,350 L250,250 Z' fill='#3366ff' /><path d='M170,170 Q200,120 230,170' fill='none' stroke='#0033cc' stroke-width='5' /><rect x='180' y='300' width='40' height='60' fill='#66ccff' /><line x1='160' y1='300' x2='140' y2='350' stroke='#0033cc' stroke-width='5' /><line x1='240' y1='300' x2='260' y2='350' stroke='#0033cc' stroke-width='5' /><polygon points='180,100 200,50 220,100' fill='#3366ff' /><circle cx='180' cy='180' r='10' fill='#0033cc' /><circle cx='220' cy='180' r='10' fill='#0033cc' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#b3e0ff' /><ellipse cx='200' cy='180' rx='100' ry='140' fill='#80bfff' /><path d='M150,250 Q200,320 250,250' fill='none' stroke='#3385ff' stroke-width='12' /><rect x='180' y='120' width='40' height='30' fill='#3385ff' /><polygon points='170,190 200,230 230,190' fill='none' stroke='#3385ff' stroke-width='8' /><line x1='180' y1='200' x2='220' y2='200' stroke='#3385ff' stroke-width='8' /><circle cx='175' cy='195' r='5' fill='#000' /><circle cx='225' cy='195' r='5' fill='#000' /><path d='M180,240 Q200,230 220,240' fill='none' stroke='#000' stroke-width='4' /><path d='M150,210 Q200,180 250,210' fill='none' stroke='#000' stroke-width='6' /><path d='M200,240 Q180,260 220,260' fill='none' stroke='#000' stroke-width='6' /></svg>",
     "report": {
-      "appearance": "アダムは、青色の体を持つ男性で、力強い体つきと頑丈な外見が特徴です。頭部に角のような飾りを持ち、シンプルな装飾が施されています。しっかりとした足としっぽがあり、逞しい印象を与えます。",
-      "reason": "生存競争が激化し、アダムの進化は力強さと防衛の能力が重視されるようになりました。彼の強さは仲間や獲物からの脅威を排除し、生存を確保するために進化しました。",
-      "thought": "『力強く生き抜く』"
+      "appearance": "アダムは青色の肌と、大きな青色の瞳を持つ男性型生命体です。体は楕円形で、頭部には1本の角があります。背中には青いしっぽが生えています。",
+      "reason": "アダムは進化の過程で、知性と洞察力を高めるために瞳の色が変化し、より冷静な色調となりました。",
+      "thought": "『知恵と力』"
     },
     "name": "アダム",
     "gender": "男性"
