@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'> <ellipse cx='200' cy='200' rx='120' ry='160' fill='#ffccff'/> <circle cx='150' cy='140' r='20' fill='#ffffff'/> <circle cx='250' cy='140' r='20' fill='#ffffff'/> <path d='M150 250 Q200 300 250 250' fill='none' stroke='#ff99ff' stroke-width='10'/> <line x1='140' y1='220' x2='120' y2='270' stroke='#ff99ff' stroke-width='10'/> <line x1='260' y1='220' x2='280' y2='270' stroke='#ff99ff' stroke-width='10'/> <polygon points='170,170 180,160 190,170' fill='#ff99ff'/> <polygon points='210,170 220,160 230,170' fill='#ff99ff'/> <rect x='180' y='230' width='40' height='20' fill='#ffccff'/> <rect x='180' y='270' width='40' height='10' fill='#ffccff'/> <rect x='180' y='290' width='40' height='10' fill='#ffccff'/> <rect x='180' y='310' width='40' height='10' fill='#ffccff'/> </svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff99cc' /><ellipse cx='200' cy='200' rx='120' ry='180' fill='#ffccff' /><path d='M150,250 L200,350 L250,250 Z' fill='#ff66cc' /><path d='M170,170 Q200,120 230,170' fill='none' stroke='#cc3399' stroke-width='5' /><rect x='180' y='300' width='40' height='60' fill='#ff99cc' /><line x1='160' y1='300' x2='140' y2='350' stroke='#cc3399' stroke-width='5' /><line x1='240' y1='300' x2='260' y2='350' stroke='#cc3399' stroke-width='5' /><polygon points='180,100 200,50 220,100' fill='#ff66cc' /><circle cx='180' cy='180' r='10' fill='#cc3399' /><circle cx='220' cy='180' r='10' fill='#cc3399' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色のふわふわな体に二つの白い目玉と長い脚を持つ生命体です。体の下部には紫色の模様が施され、頭部には角があります。",
-      "reason": "女性的な特徴をより強調するため、体の色合いを柔らかいピンクに変え、細長い脚を持つよう進化させました。",
-      "thought": "『美しさは内面から』"
+      "appearance": "イヴは、ピンクと紫色の美しい体を持つ女性で、優雅な体型と大きな目が特徴です。角のような飾りが頭部にあり、華やかな装飾が施されています。体の下部には柔らかな色のしっぽが生えています。",
+      "reason": "環境の変化により、イヴの進化は美的な要素が重視されるようになりました。彼女の美しさは種の繁栄に貢献し、仲間を惹きつける魅力を持つことが求められました。",
+      "thought": "『優しさが全てを変える』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'> <ellipse cx='200' cy='200' rx='140' ry='160' fill='#99ccff'/> <circle cx='150' cy='140' r='20' fill='#ffffff'/> <circle cx='250' cy='140' r='20' fill='#ffffff'/> <path d='M150 250 Q200 300 250 250' fill='none' stroke='#6699ff' stroke-width='10'/> <line x1='140' y1='220' x2='120' y2='270' stroke='#6699ff' stroke-width='10'/> <line x1='260' y1='220' x2='280' y2='270' stroke='#6699ff' stroke-width='10'/> <polygon points='160,170 170,160 180,170' fill='#6699ff'/> <polygon points='240,170 250,160 260,170' fill='#6699ff'/> <rect x='170' y='230' width='60' height='20' fill='#99ccff'/> <rect x='170' y='270' width='60' height='10' fill='#99ccff'/> <rect x='170' y='290' width='60' height='10' fill='#99ccff'/> <rect x='170' y='310' width='60' height='10' fill='#99ccff'/> </svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='50' width='100' height='150' fill='#66ccff' /><circle cx='200' cy='200' r='120' fill='#99ccff' /><path d='M150,250 L200,350 L250,250 Z' fill='#3366ff' /><path d='M170,170 Q200,120 230,170' fill='none' stroke='#0033cc' stroke-width='5' /><rect x='180' y='300' width='40' height='60' fill='#66ccff' /><line x1='160' y1='300' x2='140' y2='350' stroke='#0033cc' stroke-width='5' /><line x1='240' y1='300' x2='260' y2='350' stroke='#0033cc' stroke-width='5' /><polygon points='180,100 200,50 220,100' fill='#3366ff' /><circle cx='180' cy='180' r='10' fill='#0033cc' /><circle cx='220' cy='180' r='10' fill='#0033cc' /></svg>",
     "report": {
-      "appearance": "アダムは、青色の丸い体に二つの白い目玉と長い脚を持つ生命体です。体には青色の模様が施され、頭部にも角があります。",
-      "reason": "男性的な特徴をより強調するため、体を大きくし力強い印象を与えるように進化させました。",
-      "thought": "『力強さが生命の証』"
+      "appearance": "アダムは、青色の体を持つ男性で、力強い体つきと頑丈な外見が特徴です。頭部に角のような飾りを持ち、シンプルな装飾が施されています。しっかりとした足としっぽがあり、逞しい印象を与えます。",
+      "reason": "生存競争が激化し、アダムの進化は力強さと防衛の能力が重視されるようになりました。彼の強さは仲間や獲物からの脅威を排除し、生存を確保するために進化しました。",
+      "thought": "『力強く生き抜く』"
     },
     "name": "アダム",
     "gender": "男性"
