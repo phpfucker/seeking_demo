@@ -34873,5 +34873,28 @@
       "gender": "男性"
     },
     "timestamp": 1779825842340
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='150' rx='100' ry='120' fill='#ffd1dc' /><path d='M150,220 Q200,320 250,220' fill='none' stroke='#ff69b4' stroke-width='4' /><polygon points='180,160 200,140 220,160' fill='#ff69b4' /><polygon points='170,250 200,280 230,250' fill='#ff69b4' /><line x1='160' y1='180' x2='180' y2='190' stroke='#000' stroke-width='2' /><line x1='240' y1='180' x2='220' y2='190' stroke='#000' stroke-width='2' /><rect x='190' y='240' width='20' height='30' fill='#ffd1dc' /><rect x='190' y='270' width='20' height='10' fill='#ff69b4' /><polygon points='200,120 190,140 210,140' fill='#fff' /><path d='M190,140 Q200,120 210,140' fill='none' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴはピンクと白で彩られた体に、赤い角や薄紫色の眼を持つ女性の姿をしています。体は楕円形で、優雅なカーブを描き、足元には赤い爪が生えています。頭部には濃いピンク色の長い髪の毛があり、目元には華やかなメイクが施されています。",
+        "reason": "イヴは自然界の美しさと優雅さを表現するため、より洗練された色彩とデザインに進化しました。",
+        "thought": "『生命の美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='150' ry='180' fill='#87ceeb' /><rect x='170' y='240' width='60' height='100' fill='#6495ed' /><polygon points='190,220 200,200 210,220' fill='#6495ed' /><path d='M180,220 Q200,280 220,220' fill='none' stroke='#4682b4' stroke-width='4' /><line x1='160' y1='180' x2='180' y2='220' stroke='#000' stroke-width='2' /><line x1='240' y1='180' x2='220' y2='220' stroke='#000' stroke-width='2' /><polygon points='180,300 200,280 220,300' fill='#6495ed' /><path d='M190,280 Q200,260 210,280' fill='none' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは水色と青で彩られた体に、青い角を持つ男性の姿をしています。体は楕円形でマッスルを感じさせ、力強い脚と大きな手を持っています。顔には優しい表情が浮かび、背中には青い翼が生えています。",
+        "reason": "アダムは力強さと穏やかさを併せ持つ進化を遂げ、より強靭な体つきと優しい表情が特徴となりました。",
+        "thought": "『力と優しさ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1779852370778
   }
 ]
