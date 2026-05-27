@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><polygon points='200,50 350,150 350,250 200,350 50,250 50,150' fill='#ff99cc' /><ellipse cx='200' cy='200' rx='120' ry='160' fill='#ff66cc' /><circle cx='130' cy='150' r='20' fill='#ff66cc' /><circle cx='270' cy='150' r='20' fill='#ff66cc' /><path d='M170,220 Q200,250 230,220' stroke='#cc3399' stroke-width='3' fill='none' /><path d='M200,230 Q230,260 260,230' stroke='#cc3399' stroke-width='3' fill='none' /><rect x='180' y='280' width='40' height='50' fill='#ff99cc' /><line x1='200' y1='330' x2='200' y2='380' stroke='#cc3399' stroke-width='3' /><polygon points='190,50 210,50 200,70' fill='#cc3399' /><polygon points='190,350 210,350 200,330' fill='#cc3399' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradA)' /><ellipse cx='200' cy='150' rx='45' ry='30' fill='rgb(255,217,217)' /><ellipse cx='170' cy='150' rx='10' ry='15' fill='rgb(0,0,0)' /><ellipse cx='230' cy='150' rx='10' ry='15' fill='rgb(0,0,0)' /><path d='M200,180 Q220,200 200,220 Q180,200 200,180 Z' fill='rgb(255,192,203)' /><polygon points='190,140 200,130 210,140' fill='rgb(255,217,217)' /><path d='M190,170 C190,160 210,160 210,170' fill='none' stroke='rgb(0,0,0)' stroke-width='2' /><polygon points='150,180 180,200 210,180 180,160' fill='rgb(255,192,203)' /><path d='M180,160 Q170,150 160,160 Q170,170 180,160 Z' fill='rgb(255,217,217)' /><rect x='175' y='220' width='50' height='15' fill='rgb(255,192,203)' /><rect x='170' y='235' width='10' height='15' fill='rgb(255,217,217)' /><rect x='220' y='235' width='10' height='15' fill='rgb(255,217,217)' /></svg>",
     "report": {
-      "appearance": "イヴは、蝶々のような翼を持つ美しい女性。体の色は桃色で、柔らかな卵形の体に細長い脚が特徴。鮮やかなピンク色の翼が優雅に広がり、愛らしい表情を浮かべている。",
-      "reason": "イヴは新たな環境に適応するため、花や植物からエネルギーを取り入れられるよう進化した。",
-      "thought": "『自然と調和して生きる』"
+      "appearance": "イヴは、ピンクからオレンジへとグラデーションする肌を持ち、柔らかな表情の顔と、花のような模様が特徴の生命体です。頭部には二つの小さな角が生えており、愛らしい雰囲気を醸し出しています。体全体に優しい色彩と曲線が調和し、女性らしい優美さを放っています。",
+      "reason": "イヴは自然との調和を象徴し、進化の過程で花や色彩を取り入れた美しい姿に変化しました。",
+      "thought": "『生命の美しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='200' fill='#3366ff' /><circle cx='200' cy='100' r='50' fill='#3366ff' /><circle cx='150' cy='150' r='20' fill='#3366ff' /><circle cx='250' cy='150' r='20' fill='#3366ff' /><line x1='200' y1='250' x2='200' y2='350' stroke='#0033cc' stroke-width='3' /><polygon points='190,150 210,150 200,130' fill='#0033cc' /><polygon points='190,350 210,350 200,370' fill='#0033cc' /><path d='M175,150 Q200,100 225,150' stroke='#0033cc' stroke-width='3' fill='none' /><path d='M160,250 Q200,200 240,250' stroke='#0033cc' stroke-width='3' fill='none' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(173,216,230);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><rect x='100' y='100' width='200' height='200' fill='url(#gradB)' /><polygon points='200,100 150,200 250,200' fill='rgb(30,144,255)' /><path d='M180,200 Q200,220 220,200 Q200,180 180,200 Z' fill='rgb(176,224,230)' /><rect x='185' y='200' width='30' height='40' fill='rgb(176,224,230)' /><circle cx='200' cy='240' r='5' fill='rgb(30,144,255)' /><circle cx='190' cy='240' r='5' fill='rgb(30,144,255)' /><circle cx='210' cy='240' r='5' fill='rgb(30,144,255)' /><line x1='185' y1='220' x2='160' y2='250' stroke='rgb(30,144,255)' stroke-width='2' /><line x1='215' y1='220' x2='240' y2='250' stroke='rgb(30,144,255)' stroke-width='2' /><polygon points='160,250 200,240 240,250' fill='rgb(176,224,230)' /></svg>",
     "report": {
-      "appearance": "アダムは、青い鱗に覆われた鍾乳石のような肌を持つ男性。背中には大きな羽根が生え、頭部には円形の水晶が輝いている。力強い足と大きな青い瞳が特徴。",
-      "reason": "アダムは深海に生息するようになり、鱗や羽根で保護されることで適応性を高めた。",
-      "thought": "『未知の深海を探検する』"
+      "appearance": "アダムは、青から水色へとグラデーションする肌を持ち、三角形の体型と凛とした表情が特徴の生命体です。頭部には小さな水滴のような模様が配され、頭頂部には三角形の尖った角が生えています。全体的にシャープなラインと涼やかな色調が印象的です。",
+      "reason": "アダムは知恵と力を象徴し、進化の過程で水や空の色彩を取り入れた凛とした姿に変化しました。",
+      "thought": "『知恵と力』"
     },
     "name": "アダム",
     "gender": "男性"
