@@ -34942,5 +34942,28 @@
       "gender": "男性"
     },
     "timestamp": 1779912573371
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='160' fill='#ffcccb'/><ellipse cx='200' cy='180' rx='100' ry='150' fill='#ffc0cb'/><polygon points='140,220 260,220 200,320' fill='#ff99cc'/><circle cx='150' cy='150' r='20' fill='#ffffff'/><circle cx='250' cy='150' r='20' fill='#ffffff'/><rect x='170' y='250' width='60' height='40' fill='#ff99cc'/><ellipse cx='180' cy='240' rx='10' ry='20' fill='#ffffff'/><ellipse cx='220' cy='240' rx='10' ry='20' fill='#ffffff'/><polygon points='180,320 220,320 200,340' fill='#ff99cc'/><path d='M190 160 Q200 140 210 160' fill='none' stroke='#ff66cc' stroke-width='4'/><text x='180' y='30' font-family='Arial' font-size='20' fill='#000000'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌と優美な体型を持つ女性の生命体です。体には白い模様が描かれ、優雅な雰囲気を醸し出しています。繊細で美しい姿が特徴です。",
+        "reason": "イヴは自然と調和し、美しさと優しさを象徴する進化を遂げました。",
+        "thought": "『優しさが強さを生む』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='150' fill='#87ceeb'/><circle cx='200' cy='120' r='80' fill='#4682b4'/><polygon points='130,220 270,220 200,320' fill='#4169e1'/><circle cx='170' cy='150' r='20' fill='#ffffff'/><circle cx='230' cy='150' r='20' fill='#ffffff'/><rect x='170' y='250' width='60' height='40' fill='#4169e1'/><ellipse cx='180' cy='240' rx='10' ry='20' fill='#ffffff'/><ellipse cx='220' cy='240' rx='10' ry='20' fill='#ffffff'/><polygon points='180,320 220,320 200,340' fill='#4169e1'/><line x1='195' y1='160' x2='205' y2='160' stroke='#4682b4' stroke-width='4'/><text x='180' y='30' font-family='Arial' font-size='20' fill='#000000'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青い体色と力強い体つきを持つ男性の生命体です。体は濃い青から淡い青へのグラデーションで表現され、たくましさと力強さが感じられます。重厚な印象を与える外見を持っています。",
+        "reason": "アダムは力強さと逞しさを示す進化を遂げました。",
+        "thought": "『力強さと優しさは両立できる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1779936437850
   }
 ]
