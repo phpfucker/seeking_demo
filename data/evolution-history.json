@@ -34965,5 +34965,28 @@
       "gender": "男性"
     },
     "timestamp": 1779936437850
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffb6c1'/><ellipse cx='150' cy='180' rx='30' ry='20' fill='#f9c5d1'/><ellipse cx='250' cy='180' rx='30' ry='20' fill='#f9c5d1'/><path d='M190,250 Q200,270 210,250' fill='none' stroke='#000' stroke-width='2'/><path d='M160,210 Q200,230 240,210' fill='none' stroke='#000' stroke-width='3'/><path d='M170,230 Q200,250 230,230' fill='none' stroke='#000' stroke-width='3'/><path d='M170,290 Q200,310 230,290' fill='none' stroke='#000' stroke-width='3'/><polygon points='190,300 210,300 200,320' fill='#fff'/><circle cx='185' cy='175' r='5' fill='#000'/><circle cx='215' cy='175' r='5' fill='#000'/><text x='170' y='230' font-family='Arial' font-size='20' fill='#000'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体を持ち、背中には白い羽が生えています。頭部には短いピンク色の角があり、愛らしい表情をしています。",
+        "reason": "進化の過程で、エレガントで優美な特徴が強調され、より魅力的な姿に変化しました。",
+        "thought": "『幸せな時を過ごそう』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='160' y='170' width='80' height='140' fill='#4682b4'/><ellipse cx='200' cy='150' rx='30' ry='20' fill='#87ceeb'/><path d='M150,250 Q200,280 250,250' fill='none' stroke='#000' stroke-width='2'/><path d='M160,210 Q200,230 240,210' fill='none' stroke='#000' stroke-width='3'/><path d='M170,230 Q200,250 230,230' fill='none' stroke='#000' stroke-width='3'/><path d='M170,290 Q200,310 230,290' fill='none' stroke='#000' stroke-width='3'/><polygon points='190,300 210,300 200,320' fill='#fff'/><circle cx='185' cy='155' r='5' fill='#000'/><circle cx='215' cy='155' r='5' fill='#000'/><text x='160' y='200' font-family='Arial' font-size='20' fill='#000'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青色の体を持ち、頭部には水色の鱗が装飾されています。背中には大きな青い羽が生え、強靭な体つきをしています。",
+        "reason": "進化のプロセスにより、力強く頼もしい特徴が発達し、より優れた生存能力を備えた姿に変化しました。",
+        "thought": "『未来を切り拓く力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1779962088129
   }
 ]
