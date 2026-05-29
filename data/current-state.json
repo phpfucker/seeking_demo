@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb' /><ellipse cx='200' cy='250' rx='80' ry='100' fill='#ff99cc' /><path d='M150 300 Q200 350 250 300 Q200 320 150 300' fill='#ff66b2' /><path d='M160 210 Q150 180 200 180 Q250 180 240 210 Q200 240 160 210' fill='#ff3399' /><circle cx='200' cy='220' r='5' fill='#cc0066' /><circle cx='200' cy='220' r='3' fill='#660033' /><path d='M170 280 Q180 250 200 250 Q220 250 230 280 Q180 270 170 280' fill='#ff3399' /><path d='M230 280 Q240 250 260 250 Q280 250 290 280 Q240 270 230 280' fill='#ff3399' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#ffcccb'/><circle cx='200' cy='150' r='50' fill='#ff99aa'/><ellipse cx='200' cy='280' rx='80' ry='40' fill='#ff99aa'/><path d='M150,200 L170,220 L160,240 L190,240 L180,220 L200,200 Z' fill='#ff66cc'/><path d='M220,200 L240,220 L230,240 L260,240 L250,220 L270,200 Z' fill='#ff66cc'/><ellipse cx='180' cy='140' rx='20' ry='10' fill='#cc6699'/><ellipse cx='220' cy='140' rx='20' ry='10' fill='#cc6699'/><path d='M180,280 Q200,320 220,280' fill='none' stroke='#ff66cc' stroke-width='5'/><line x1='170' y1='290' x2='180' y2='290' stroke='#cc6699' stroke-width='3'/><line x1='220' y1='290' x2='230' y2='290' stroke='#cc6699' stroke-width='3'/></svg>",
     "report": {
-      "appearance": "イヴはピンク色の体に赤い顔を持ち、背中には大きな桃色の楕円形の模様があります。大きな赤い目とピンクの角を持ち、サーモンピンクの脚と腕が特徴です。",
-      "reason": "イヴは深海に棲む生物から進化し、より多くの色彩を持つようになりました。新しい模様は仲間とのコミュニケーションを助け、獲物からの警告にも役立ちます。",
-      "thought": "『色と模様で心を表現する』"
+      "appearance": "イヴは、ピンク色の肌を持ち、頭部に大きな円形の目と優しい表情を持つ女性型生命体です。体の一部には淡い赤色の模様が施され、腰から二股に分かれたしっぽが特徴です。",
+      "reason": "環境の変化により、イヴの進化が起こり、より優れた視認性と共感力を持つようになりました。",
+      "thought": "『愛と平和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#87cefa' /><ellipse cx='200' cy='250' rx='80' ry='100' fill='#4682b4' /><path d='M150 300 Q200 350 250 300 Q200 320 150 300' fill='#4169e1' /><path d='M160 210 Q150 180 200 180 Q250 180 240 210 Q200 240 160 210' fill='#6495ed' /><circle cx='200' cy='220' r='5' fill='#87ceeb' /><circle cx='200' cy='220' r='3' fill='#4682b4' /><path d='M170 280 Q180 250 200 250 Q220 250 230 280 Q180 270 170 280' fill='#6495ed' /><path d='M230 280 Q240 250 260 250 Q280 250 290 280 Q240 270 230 280' fill='#6495ed' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='50' width='200' height='300' fill='#add8e6'/><circle cx='200' cy='150' r='50' fill='#87ceeb'/><ellipse cx='200' cy='280' rx='80' ry='40' fill='#87ceeb'/><polygon points='150,250 250,250 200,330' fill='#4169e1'/><ellipse cx='180' cy='140' rx='20' ry='10' fill='#4682b4'/><ellipse cx='220' cy='140' rx='20' ry='10' fill='#4682b4'/><path d='M180,280 Q200,320 220,280' fill='none' stroke='#4169e1' stroke-width='5'/><line x1='170' y1='290' x2='180' y2='290' stroke='#4682b4' stroke-width='3'/><line x1='220' y1='290' x2='230' y2='290' stroke='#4682b4' stroke-width='3'/></svg>",
     "report": {
-      "appearance": "アダムは青い体に濃い青い顔と腕を持ち、体中に水色の細かい模様が散りばめられています。大きな青い目と青い角が特徴で、足は水色から青へとグラデーションになっています。",
-      "reason": "アダムは高山地帯に住む生物から進化し、青色の体表を持つようになりました。新しい模様は保護色としての機能を果たし、周囲の岩や氷との調和を生み出します。",
-      "thought": "『自然と一体化する喜び』"
+      "appearance": "アダムは、青色の肌を持ち、円形の大きな目と穏やかな表情を持つ男性型生命体です。体の一部に濃い青色の模様が施され、水平に長い尾びれが特徴です。",
+      "reason": "繁殖のための色彩とパターンの変化により、アダムの進化が起こり、相手とのコミュニケーションを促進するための特徴が付加されました。",
+      "thought": "『平和と調和』"
     },
     "name": "アダム",
     "gender": "男性"
