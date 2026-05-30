@@ -35172,5 +35172,28 @@
       "gender": "男性"
     },
     "timestamp": 1780129408571
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffd6e0' /><ellipse cx='200' cy='200' rx='120' ry='170' fill='#ffafc7' /><path d='M100,230 L130,150 L170,230 L200,170 L230,230 L270,150 L300,230' fill='#ff75a1' /><path d='M170,250 Q200,220 230,250' fill='none' stroke='#ff4b6d' stroke-width='4' /><polygon points='190,160 210,160 200,150' fill='#ff4b6d' /><circle cx='170' cy='160' r='10' fill='#ff4b6d' /><circle cx='230' cy='160' r='10' fill='#ff4b6d' /><path d='M150,320 Q200,370 250,320' fill='none' stroke='#ffafc7' stroke-width='10' /><line x1='150' y1='320' x2='250' y2='320' stroke='#ff75a1' stroke-width='10' /><line x1='180' y1='320' x2='180' y2='360' stroke='#ff75a1' stroke-width='10' /><line x1='220' y1='320' x2='220' y2='360' stroke='#ff75a1' stroke-width='10' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかな皮膚を持ち、長い角を頭に生やしています。体は丸みを帯びており、グレイッシュピンクの模様が施されています。四肢はしなやかで、しっぽが優雅に広がっています。",
+        "reason": "生態系において、イヴは花や植物との共生を深めるため、より自然に溶け込む外見に進化しました。",
+        "thought": "『自然と調和する』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='50' width='160' height='300' fill='#b2e1ff' /><polygon points='120,50 200,20 280,50' fill='#80c3ff' /><ellipse cx='200' cy='200' rx='50' ry='100' fill='#55aadd' /><path d='M160,220 Q200,180 240,220' fill='none' stroke='#3e8ac3' stroke-width='4' /><line x1='160' y1='260' x2='240' y2='260' stroke='#3e8ac3' stroke-width='10' /><line x1='160' y1='260' x2='160' y2='320' stroke='#3e8ac3' stroke-width='10' /><line x1='240' y1='260' x2='240' y2='320' stroke='#3e8ac3' stroke-width='10' /></svg>",
+      "report": {
+        "appearance": "アダムは青い肌を持ち、頭に三角形の突起があります。体は四角く筋肉質で、青い鱗が輝いています。四肢は頑丈で、尾は水平に広がっています。",
+        "reason": "アダムは海洋生物との競争に勝ち抜くため、より泳ぎやすい体つきに進化しました。",
+        "thought": "『生き残りをかけて』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1780147273190
   }
 ]
