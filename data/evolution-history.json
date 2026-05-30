@@ -35149,5 +35149,28 @@
       "gender": "男性"
     },
     "timestamp": 1780109072658
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><rect x='125' y='250' width='150' height='100' fill='#ffb6c1'/><polygon points='200,50 250,150 150,150' fill='#ff69b4'/><ellipse cx='150' cy='230' rx='30' ry='20' fill='#ff69b4'/><ellipse cx='250' cy='230' rx='30' ry='20' fill='#ff69b4'/><path d='M175,150 Q200,100 225,150 T275,150 Z' fill='#ff69b4'/><line x1='175' y1='250' x2='225' y2='250' stroke='#000' stroke-width='2'/><line x1='275' y1='250' x2='325' y2='250' stroke='#000' stroke-width='2'/><rect x='175' y='250' width='50' height='20' fill='#fff'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の全身に大きな円形の顔を持ち、頭部に2つの楕円形の耳が付いています。体の中央に赤い長方形の装飾があり、両腕はピンク色の三角形の模様で飾られています。",
+        "reason": "イヴは自然界の色彩と調和した美しい外観を持つ進化を遂げました。",
+        "thought": "『自然の一部となること』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6'/><rect x='175' y='250' width='50' height='100' fill='#87ceeb'/><polygon points='200,50 250,150 150,150' fill='#4682b4'/><ellipse cx='150' cy='230' rx='30' ry='20' fill='#4682b4'/><ellipse cx='250' cy='230' rx='30' ry='20' fill='#4682b4'/><path d='M175,150 Q200,100 225,150 T275,150 Z' fill='#4682b4'/><line x1='175' y1='250' x2='225' y2='250' stroke='#000' stroke-width='2'/><line x1='275' y1='250' x2='325' y2='250' stroke='#000' stroke-width='2'/><rect x='225' y='250' width='50' height='20' fill='#fff'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の全身に大きな円形の顔を持ち、頭部に2つの楕円形の耳が付いています。体の中央に水色の長方形の装飾があり、両腕は青色の三角形の模様で飾られています。",
+        "reason": "アダムは海の色彩と調和した魅力的な外観を持つ進化を遂げました。",
+        "thought": "『蒼い未来への希望』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1780129408571
   }
 ]

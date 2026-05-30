@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><rect x='125' y='250' width='150' height='100' fill='#ffb6c1'/><polygon points='200,50 250,150 150,150' fill='#ff69b4'/><ellipse cx='150' cy='230' rx='30' ry='20' fill='#ff69b4'/><ellipse cx='250' cy='230' rx='30' ry='20' fill='#ff69b4'/><path d='M175,150 Q200,100 225,150 T275,150 Z' fill='#ff69b4'/><line x1='175' y1='250' x2='225' y2='250' stroke='#000' stroke-width='2'/><line x1='275' y1='250' x2='325' y2='250' stroke='#000' stroke-width='2'/><rect x='175' y='250' width='50' height='20' fill='#fff'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffd6e0' /><ellipse cx='200' cy='200' rx='120' ry='170' fill='#ffafc7' /><path d='M100,230 L130,150 L170,230 L200,170 L230,230 L270,150 L300,230' fill='#ff75a1' /><path d='M170,250 Q200,220 230,250' fill='none' stroke='#ff4b6d' stroke-width='4' /><polygon points='190,160 210,160 200,150' fill='#ff4b6d' /><circle cx='170' cy='160' r='10' fill='#ff4b6d' /><circle cx='230' cy='160' r='10' fill='#ff4b6d' /><path d='M150,320 Q200,370 250,320' fill='none' stroke='#ffafc7' stroke-width='10' /><line x1='150' y1='320' x2='250' y2='320' stroke='#ff75a1' stroke-width='10' /><line x1='180' y1='320' x2='180' y2='360' stroke='#ff75a1' stroke-width='10' /><line x1='220' y1='320' x2='220' y2='360' stroke='#ff75a1' stroke-width='10' /></svg>",
     "report": {
-      "appearance": "イヴはピンク色の全身に大きな円形の顔を持ち、頭部に2つの楕円形の耳が付いています。体の中央に赤い長方形の装飾があり、両腕はピンク色の三角形の模様で飾られています。",
-      "reason": "イヴは自然界の色彩と調和した美しい外観を持つ進化を遂げました。",
-      "thought": "『自然の一部となること』"
+      "appearance": "イヴはピンク色の柔らかな皮膚を持ち、長い角を頭に生やしています。体は丸みを帯びており、グレイッシュピンクの模様が施されています。四肢はしなやかで、しっぽが優雅に広がっています。",
+      "reason": "生態系において、イヴは花や植物との共生を深めるため、より自然に溶け込む外見に進化しました。",
+      "thought": "『自然と調和する』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#add8e6'/><rect x='175' y='250' width='50' height='100' fill='#87ceeb'/><polygon points='200,50 250,150 150,150' fill='#4682b4'/><ellipse cx='150' cy='230' rx='30' ry='20' fill='#4682b4'/><ellipse cx='250' cy='230' rx='30' ry='20' fill='#4682b4'/><path d='M175,150 Q200,100 225,150 T275,150 Z' fill='#4682b4'/><line x1='175' y1='250' x2='225' y2='250' stroke='#000' stroke-width='2'/><line x1='275' y1='250' x2='325' y2='250' stroke='#000' stroke-width='2'/><rect x='225' y='250' width='50' height='20' fill='#fff'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='50' width='160' height='300' fill='#b2e1ff' /><polygon points='120,50 200,20 280,50' fill='#80c3ff' /><ellipse cx='200' cy='200' rx='50' ry='100' fill='#55aadd' /><path d='M160,220 Q200,180 240,220' fill='none' stroke='#3e8ac3' stroke-width='4' /><line x1='160' y1='260' x2='240' y2='260' stroke='#3e8ac3' stroke-width='10' /><line x1='160' y1='260' x2='160' y2='320' stroke='#3e8ac3' stroke-width='10' /><line x1='240' y1='260' x2='240' y2='320' stroke='#3e8ac3' stroke-width='10' /></svg>",
     "report": {
-      "appearance": "アダムは青色の全身に大きな円形の顔を持ち、頭部に2つの楕円形の耳が付いています。体の中央に水色の長方形の装飾があり、両腕は青色の三角形の模様で飾られています。",
-      "reason": "アダムは海の色彩と調和した魅力的な外観を持つ進化を遂げました。",
-      "thought": "『蒼い未来への希望』"
+      "appearance": "アダムは青い肌を持ち、頭に三角形の突起があります。体は四角く筋肉質で、青い鱗が輝いています。四肢は頑丈で、尾は水平に広がっています。",
+      "reason": "アダムは海洋生物との競争に勝ち抜くため、より泳ぎやすい体つきに進化しました。",
+      "thought": "『生き残りをかけて』"
     },
     "name": "アダム",
     "gender": "男性"
