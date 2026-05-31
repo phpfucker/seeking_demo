@@ -35241,5 +35241,28 @@
       "gender": "男性"
     },
     "timestamp": 1780197987476
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcc99'/><ellipse cx='200' cy='200' rx='80' ry='50' fill='#e57373'/><rect x='160' y='210' width='20' height='40' fill='#bf360c'/><rect x='220' y='210' width='20' height='40' fill='#bf360c'/><path d='M180 220 Q200 250 220 220' fill='none' stroke='#8d6e63'/><circle cx='180' cy='180' r='5' fill='#000'/><circle cx='220' cy='180' r='5' fill='#000'/><rect x='180' y='280' width='40' height='10' fill='#6d4c41'/></svg>",
+      "report": {
+        "appearance": "イヴは、柔らかなオレンジ色の体に赤い顔と白い目を持つ女性型生命体です。手足は濃い茶色で、表情は優しさと知性を感じさせます。",
+        "reason": "女性型生命体の進化は、より社会的なコミュニケーションや知恵の共有が重要となったためです。",
+        "thought": "『愛と知恵』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#80cbc4'/><ellipse cx='200' cy='200' rx='80' ry='50' fill='#4db6ac'/><rect x='160' y='210' width='20' height='40' fill='#004d40'/><rect x='220' y='210' width='20' height='40' fill='#004d40'/><line x1='180' y1='220' x2='220' y2='220' stroke='#263238' stroke-width='5'/><circle cx='180' cy='180' r='5' fill='#000'/><circle cx='220' cy='180' r='5' fill='#000'/><polygon points='180,280 190,280 195,290 185,290' fill='#455a64'/><polygon points='210,280 220,280 225,290 215,290' fill='#455a64'/></svg>",
+      "report": {
+        "appearance": "アダムは、爽やかな水色の体に緑色の顔を持つ男性型生命体です。手足は濃い緑色で、真剣な表情をしています。",
+        "reason": "男性型生命体の進化は、より物理的な力や防衛の必要性が高まったためです。",
+        "thought": "『勇気と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1780216810299
   }
 ]
