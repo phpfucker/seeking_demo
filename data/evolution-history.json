@@ -35287,5 +35287,28 @@
       "gender": "男性"
     },
     "timestamp": 1780234063939
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='170' rx='80' ry='110' fill='#ffcce6' /><ellipse cx='160' cy='170' rx='20' ry='40' fill='#ff99cc' /><ellipse cx='240' cy='170' rx='20' ry='40' fill='#ff99cc' /><path d='M190 230 Q200 250 210 230' stroke='#ff99cc' stroke-width='3' fill='none' /><path d='M160 180 Q200 230 240 180' stroke='#ff99cc' stroke-width='3' fill='none' /><circle cx='160' cy='170' r='10' fill='#993366' /><circle cx='240' cy='170' r='10' fill='#993366' /><circle cx='200' cy='160' r='5' fill='#ffffff' /><ellipse cx='190' cy='160' rx='5' ry='10' fill='#ff99cc' /><ellipse cx='210' cy='160' rx='5' ry='10' fill='#ff99cc' /><rect x='180' y='250' width='40' height='20' fill='#ff99cc' /><rect x='160' y='260' width='80' height='10' fill='#ff99cc' /><line x1='180' y1='250' x2='160' y2='230' stroke='#ff99cc' stroke-width='3' /><line x1='220' y1='250' x2='240' y2='230' stroke='#ff99cc' stroke-width='3' /><polygon points='190,160 195,155 205,155 210,160' fill='#ffffff' /><polygon points='190,160 195,165 205,165 210,160' fill='#ffffff' /><text x='110' y='300' font-family='Arial' font-size='20' fill='#993366'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の大きな楕円形の体を持ち、紫色の眼と口が描かれた姿をしています。頭部には斜めに配置された2本の角があり、体の両側に短い腕が伸びています。腕は手首から細く尖った指を持っています。下半身は2本の太い脚で支えられ、足元には2つの紫色の足があります。",
+        "reason": "イヴは生態系の変化に適応するため、より優れた運動能力と視覚を獲得しました。",
+        "thought": "『進化は未来への準備』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#66ccff' /><ellipse cx='200' cy='170' rx='50' ry='70' fill='#85d6ff' /><ellipse cx='175' cy='165' rx='20' ry='30' fill='#4da6ff' /><ellipse cx='225' cy='165' rx='20' ry='30' fill='#4da6ff' /><path d='M190 220 Q200 240 210 220' stroke='#4da6ff' stroke-width='3' fill='none' /><path d='M175 170 Q200 200 225 170' stroke='#4da6ff' stroke-width='3' fill='none' /><circle cx='175' cy='165' r='8' fill='#3366ff' /><circle cx='225' cy='165' r='8' fill='#3366ff' /><circle cx='200' cy='160' r='5' fill='#ffffff' /><ellipse cx='190' cy='160' rx='5' ry='8' fill='#4da6ff' /><ellipse cx='210' cy='160' rx='5' ry='8' fill='#4da6ff' /><line x1='200' y1='300' x2='180' y2='320' stroke='#3366ff' stroke-width='5' /><line x1='200' y1='300' x2='220' y2='320' stroke='#3366ff' stroke-width='5' /><polygon points='190,160 195,155 205,155 210,160' fill='#ffffff' /><polygon points='190,160 195,165 205,165 210,160' fill='#ffffff' /><text x='150' y='80' font-family='Arial' font-size='20' fill='#3366ff'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青色の四角い体を持ち、水色の大きな楕円形の頭部が特徴です。頭部には2つの短い角が生えており、口元は幅広く描かれています。腕は上半身に位置し、太い脚で地面にしっかりと立っています。足元には2つの青色の足があります。",
+        "reason": "アダムは適応力を高めるため、より安定した姿勢とバランス感覚を獲得しました。",
+        "thought": "『力強く進化する』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1780254671162
   }
 ]
