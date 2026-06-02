@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,191,228);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(229,121,180);stop-opacity:1' /></linearGradient></defs><ellipse cx='200' cy='200' rx='150' ry='180' fill='url(#gradA)' /><polygon points='140,160 140,240 180,200' fill='rgb(255,191,228)' /><polygon points='260,160 260,240 220,200' fill='rgb(255,191,228)' /><circle cx='180' cy='200' r='10' fill='white' /><circle cx='220' cy='200' r='10' fill='white' /><path d='M200 220 Q180 250 200 280 Q220 250 200 220' fill='rgb(229,121,180)' /><path d='M180 160 Q160 120 140 160 Q150 140 180 160' fill='rgb(255,191,228)' /><path d='M220 160 Q240 120 260 160 Q250 140 220 160' fill='rgb(255,191,228)' /><ellipse cx='200' cy='250' rx='30' ry='15' fill='rgb(229,121,180)' /><path d='M190 260 Q200 270 210 260' fill='white' /><line x1='195' y1='267' x2='205' y2='267' stroke='black' stroke-width='2' /><text x='190' y='310' font-family='Arial' font-size='20' fill='black'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcc99' /><circle cx='200' cy='150' r='80' fill='#ff99cc' /><ellipse cx='150' cy='250' rx='20' ry='40' fill='#ffcccc' /><path d='M200 200 L180 250 L220 250 Z' fill='#ff9999' /><polygon points='190,140 210,140 200,130' fill='#ff9999' /><line x1='180' y1='270' x2='220' y2='270' stroke='#ff9999' stroke-width='5' /><path d='M150 150 Q200 50 250 150 Q200 250 150 150 Z' fill='#ffcc99' /><rect x='180' y='180' width='40' height='20' fill='#ff99cc' /><circle cx='170' cy='150' r='5' fill='#ff99cc' /><circle cx='230' cy='150' r='5' fill='#ff99cc' /><line x1='170' y1='220' x2='160' y2='250' stroke='#cc9933' stroke-width='5' /><line x1='230' y1='220' x2='240' y2='250' stroke='#cc9933' stroke-width='5' /></svg>",
     "report": {
-      "appearance": "イヴは、大きな瞳を持つピンクと紫色のグラデーションが美しい女性の姿をしています。体の色は淡いピンクで、耳にはピンクのリボンが飾られています。しなやかなしっぽとユニークな足が特徴です。",
-      "reason": "イヴは内なる美しさと優しさをより表現するために、優雅で柔らかな特徴を進化させました。",
-      "thought": "『優しさと愛が世界を彩ります』"
+      "appearance": "イヴは、ピンク色の体にオレンジ色の顔と、ピンク色の体とパステルピンクの背景との調和が美しい女性の姿をしています。長い髪や柔らかい曲線の特徴があり、優雅で気品のある雰囲気を持っています。",
+      "reason": "イヴは、自然界の美しさと調和を表現するために、より柔らかく優しい色合いと形状に進化しました。",
+      "thought": "『調和と美しさの中に幸せを見つける』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(118,191,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,131,215);stop-opacity:1' /></linearGradient></defs><rect x='150' y='140' width='100' height='120' fill='url(#gradB)' /><polygon points='160,160 160,240 200,200' fill='rgb(118,191,255)' /><polygon points='240,160 240,240 200,200' fill='rgb(118,191,255)' /><polygon points='160,160 200,100 240,160' fill='rgb(65,131,215)' /><polygon points='160,240 200,280 240,240' fill='rgb(65,131,215)' /><circle cx='180' cy='200' r='10' fill='white' /><circle cx='220' cy='200' r='10' fill='white' /><path d='M200 220 Q180 250 200 280 Q220 250 200 220' fill='rgb(65,131,215)' /><polygon points='180,260 205,270 185,290' fill='rgb(118,191,255)' /><polygon points='220,260 195,270 215,290' fill='rgb(118,191,255)' /><text x='150' y='330' font-family='Arial' font-size='20' fill='black'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#6699ff' /><circle cx='200' cy='150' r='80' fill='#99ccff' /><ellipse cx='150' cy='250' rx='20' ry='40' fill='#99ccff' /><path d='M200 200 L180 250 L220 250 Z' fill='#6699ff' /><polygon points='190,140 210,140 200,130' fill='#6699ff' /><line x1='180' y1='270' x2='220' y2='270' stroke='#6699ff' stroke-width='5' /><path d='M150 150 Q200 50 250 150 Q200 250 150 150 Z' fill='#99ccff' /><rect x='180' y='180' width='40' height='20' fill='#99ccff' /><circle cx='170' cy='150' r='5' fill='#99ccff' /><circle cx='230' cy='150' r='5' fill='#99ccff' /><line x1='170' y1='220' x2='160' y2='250' stroke='#336699' stroke-width='5' /><line x1='230' y1='220' x2='240' y2='250' stroke='#336699' stroke-width='5' /></svg>",
     "report": {
-      "appearance": "アダムは、青と紺色のグラデーションが特徴的な男性の姿をしています。頭部は濃い青色で、体は淡い青色になっております。四角い頭部と特徴的な足が目立ちます。",
-      "reason": "アダムは力強さと知性をより表現するために、シンプルかつダイナミックな特徴を進化させました。",
-      "thought": "『強さと知性が未来を切り拓く』"
+      "appearance": "アダムは、青色の体に青白い顔と、青色の体と淡い青色の背景との調和が美しい男性の姿をしています。力強い筋肉や凛々しい角の特徴があり、精悍で頼もしい雰囲気を持っています。",
+      "reason": "アダムは、自然界の強さと誇りを表現するために、より力強く凛々しい色合いと形状に進化しました。",
+      "thought": "『誇り高く、強さと知恵を併せ持つ』"
     },
     "name": "アダム",
     "gender": "男性"
