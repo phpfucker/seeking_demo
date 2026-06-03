@@ -35540,5 +35540,28 @@
       "gender": "男性"
     },
     "timestamp": 1780483891790
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ff6381' /><circle cx='200' cy='80' r='50' fill='#ffc3a0' /><circle cx='140' cy='240' r='30' fill='#ffafc0' /><circle cx='260' cy='240' r='30' fill='#ffafc0' /><path d='M150 300 Q200 360 250 300' fill='none' stroke='#ff6381' stroke-width='5' /><path d='M160 320 Q200 360 240 320' fill='none' stroke='#ff6381' stroke-width='5' /><polygon points='175,210 225,210 200,230' fill='#ffafc0' /><polygon points='170,130 190,130 180,140' fill='#ffafc0' /><polygon points='210,130 230,130 220,140' fill='#ffafc0' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の肌を持つ女性。頭に大きな円形の耳があり、長いピンクの髪が背中まで続く。四肢には円形の手足があり、胴体は大きな赤い矩形で覆われている。しっぽは曲線を描いており、優雅な印象を与える。",
+        "reason": "イヴは新たな進化の中で自然の美しさと力強さを組み合わせ、より鮮やかな色彩と複雑なパターンで自己表現を広げた。",
+        "thought": "『愛と力を融合したい』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#4a90e2' /><ellipse cx='200' cy='80' rx='40' ry='60' fill='#5ec9f8' /><circle cx='160' cy='240' r='20' fill='#4a90e2' /><circle cx='240' cy='240' r='20' fill='#4a90e2' /><path d='M160 300 Q200 330 240 300' fill='none' stroke='#4a90e2' stroke-width='5' /><path d='M165 320 Q200 340 235 320' fill='none' stroke='#4a90e2' stroke-width='5' /><line x1='180' y1='130' x2='220' y2='130' stroke='#5ec9f8' stroke-width='10' /><polygon points='175,210 225,210 200,230' fill='#5ec9f8' /></svg>",
+      "report": {
+        "appearance": "アダムは青色の体に、楕円形の顔と長い脚を持つ男性。頭部には大きな楕円形の目があり、複雑な模様の耳が両脇に広がる。手足は円形で短く、胴体は頑丈な青い矩形で覆われている。背中には青いひれがあり、優雅な印象を醸し出す。",
+        "reason": "アダムは進化により力強さと知性を調和させ、美しさと機能性を融合させて新たな形に進化した。",
+        "thought": "『知恵と力を共に』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1780504816999
   }
 ]
