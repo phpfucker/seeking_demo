@@ -35563,5 +35563,28 @@
       "gender": "男性"
     },
     "timestamp": 1780504816999
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='120' rx='80' ry='100' fill='#ffebcd'/><path d='M150,220 C170,280 230,280 250,220 Q200,280 150,220 Z' fill='#ffd700'/><polygon points='180,180 220,180 200,200' fill='#ff1493'/><circle cx='190' cy='150' r='10' fill='#ffffff'/><circle cx='210' cy='150' r='10' fill='#ffffff'/><path d='M160,270 C180,260 220,260 240,270' fill='none' stroke='#000000'/><path d='M180,240 Q200,260 220,240' fill='none' stroke='#000000'/><rect x='185' y='300' width='30' height='40' fill='#ffd700'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の肌を持ち、優雅な女性の特徴を持ちながら、金髪の長い髪と金色の装飾を身につけた美しい姿をしています。足元には金色の付け爪があり、しっぽは太くて長めです。",
+        "reason": "進化の過程でイヴは、美しさと優雅さを強調し、金色の要素を取り入れることで、より高貴で華やかな存在に進化しました。",
+        "thought": "『調和と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='120' width='100' height='150' fill='#9acd32'/><ellipse cx='200' cy='100' rx='60' ry='80' fill='#87ceeb'/><path d='M150,220 C170,280 230,280 250,220 Q200,280 150,220 Z' fill='#f4a460'/><polygon points='180,180 220,180 200,200' fill='#ffd700'/><rect x='175' y='270' width='50' height='20' fill='#ffd700'/><polygon points='180,270 185,290 200,280 215,290 220,270 200,250' fill='#ffffff'/><polygon points='175,270 180,240 200,260 220,240 225,270 200,300' fill='#ffffff'/></svg>",
+      "report": {
+        "appearance": "アダムは緑色の体と葉の模様を持ち、男性らしい特徴を残しつつ、青い装飾と金色の角を身につけた姿となっています。葉っぱの手足や葉っぱのしっぽが特徴的です。",
+        "reason": "アダムの進化では、緑と青を基調に、自然と生命への愛着を表現するとともに、金色の角を追加することで力強さと尊厳を示しました。",
+        "thought": "『自然と調和した力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1780519885264
   }
 ]
