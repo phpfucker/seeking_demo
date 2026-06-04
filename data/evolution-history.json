@@ -35586,5 +35586,28 @@
       "gender": "男性"
     },
     "timestamp": 1780519885264
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ff85a2' /><rect x='125' y='200' width='150' height='150' fill='#ffafc0' /><polygon points='125,200 275,200 200,50' fill='#ffafc0' /><ellipse cx='200' cy='230' rx='80' ry='110' fill='#ffafc0' /><circle cx='170' cy='180' r='10' fill='#fff' /><circle cx='230' cy='180' r='10' fill='#fff' /><circle cx='170' cy='180' r='5' fill='#000' /><circle cx='230' cy='180' r='5' fill='#000' /><rect x='160' y='250' width='80' height='20' fill='#fff' /><rect x='185' y='250' width='30' height='80' fill='#fff' /><rect x='165' y='320' width='10' height='30' fill='#ffafc0' /><rect x='225' y='320' width='10' height='30' fill='#ffafc0' /><circle cx='200' cy='280' r='10' fill='#000' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと白で構成された優美な女性の姿をしています。体の丸みと優しい色合いが特徴で、顔には二つの大きな目と小さな口があります。手は白く、足はピンクの装飾が施されています。",
+        "reason": "新たな進化が、イヴの内なる優しさと美しさがより際立つようにするために起こりました。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><polygon points='200,50 200,150 125,200 200,250 275,200' fill='#a8d0e6' /><polygon points='170,150 230,150 200,50' fill='#a8d0e6' /><rect x='175' y='150' width='50' height='50' fill='#fff' /><circle cx='190' cy='180' r='8' fill='#000' /><circle cx='210' cy='180' r='8' fill='#000' /><rect x='170' y='200' width='60' height='50' fill='#fff' /><rect x='165' y='250' width='10' height='30' fill='#a8d0e6' /><rect x='225' y='250' width='10' height='30' fill='#a8d0e6' /><rect x='185' y='300' width='30' height='80' fill='#fff' /><circle cx='200' cy='280' r='10' fill='#000' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と白の爽やかな男性の姿をしています。体には青と白のコントラストが美しく映え、顔には大きな一対の目と短い口が配置されています。手と足には白い模様が施されています。",
+        "reason": "アダムの進化は、力強さと優雅さが調和した新たな姿を得るために生じました。",
+        "thought": "『誇りと調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1780544281498
   }
 ]
