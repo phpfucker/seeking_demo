@@ -35655,5 +35655,28 @@
       "gender": "男性"
     },
     "timestamp": 1780584643120
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='150' rx='100' ry='140' fill='#ffc0cb'/><path d='M150,200 Q200,280 250,200' fill='none' stroke='#ff69b4' stroke-width='10'/><circle cx='170' cy='120' r='10' fill='#ff69b4'/><circle cx='230' cy='120' r='10' fill='#ff69b4'/><path d='M180,260 Q200,300 220,260' fill='none' stroke='#ff69b4' stroke-width='8'/><path d='M150,240 Q200,280 250,240' fill='none' stroke='#ff69b4' stroke-width='8'/><line x1='180' y1='320' x2='140' y2='380' stroke='#ff69b4' stroke-width='10'/><line x1='220' y1='320' x2='260' y2='380' stroke='#ff69b4' stroke-width='10'/><path d='M170,170 Q200,130 230,170' fill='none' stroke='#ff69b4' stroke-width='8'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな毛皮を身にまとい、頭部には大きな桃色の耳と角があります。四肢は流れるような曲線で描かれ、しなやかなしっぽを持っています。",
+        "reason": "進化の過程で、イヴが自然と調和し、花々の美しさと色彩を取り入れて新たな特徴を身に着けたためです。",
+        "thought": "『優しさと美しさを守りたい』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='150' rx='100' ry='140' fill='#6495ed'/><path d='M150,200 Q200,280 250,200' fill='none' stroke='#4169e1' stroke-width='10'/><circle cx='170' cy='120' r='10' fill='#4169e1'/><circle cx='230' cy='120' r='10' fill='#4169e1'/><path d='M180,260 Q200,300 220,260' fill='none' stroke='#4169e1' stroke-width='8'/><path d='M150,240 Q200,280 250,240' fill='none' stroke='#4169e1' stroke-width='8'/><line x1='180' y1='320' x2='140' y2='380' stroke='#4169e1' stroke-width='10'/><line x1='220' y1='320' x2='260' y2='380' stroke='#4169e1' stroke-width='10'/><path d='M170,170 Q200,130 230,170' fill='none' stroke='#4169e1' stroke-width='8'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の滑らかな皮膚を持ち、頭部には紺色の大きな角と特徴的な青色の眼があります。四肢は力強く描かれ、立派な尾と複雑な模様が彩りを添えています。",
+        "reason": "アダムは自然界の豊かさを求め、深海の謎めいた美しさと強さからインスピレーションを受け、進化したためです。",
+        "thought": "『深い青の底からの力を感じる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1780603218250
   }
 ]
