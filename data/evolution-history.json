@@ -35724,5 +35724,28 @@
       "gender": "男性"
     },
     "timestamp": 1780652340136
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' width='400' height='400'><rect x='100' y='50' width='200' height='300' fill='#ffcccb' /><ellipse cx='200' cy='150' rx='80' ry='70' fill='#ffb6c1' /><circle cx='160' cy='120' r='10' fill='#333333' /><circle cx='240' cy='120' r='10' fill='#333333' /><path d='M170 200 Q200 230 230 200' fill='none' stroke='#333333' stroke-width='2' /><path d='M190 220 Q200 230 210 220' fill='none' stroke='#333333' stroke-width='2' /><polygon points='150,250 200,330 250,250' fill='#ff69b4' /><line x1='160' y1='250' x2='240' y2='250' stroke='#333333' stroke-width='2' /><line x1='200' y1='330' x2='180' y2='370' stroke='#333333' stroke-width='2' /><line x1='200' y1='330' x2='220' y2='370' stroke='#333333' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかい肌を持ち、大きな赤い目を持つ女性型生命体です。体は丸みを帯びており、頭部には長い角が生えています。背中にはピンクの蝶のような模様があり、足には薄紫色のふんわりとした毛が生えています。",
+        "reason": "イヴは自然界の色彩と植物の美しさからインスピレーションを受け、より優美で魅力的な姿に進化しました。",
+        "thought": "『自然の美しさを体現する』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' width='400' height='400'><rect x='100' y='50' width='200' height='300' fill='#add8e6' /><ellipse cx='200' cy='150' rx='80' ry='70' fill='#87ceeb' /><circle cx='160' cy='120' r='10' fill='#333333' /><circle cx='240' cy='120' r='10' fill='#333333' /><path d='M170 200 Q200 230 230 200' fill='none' stroke='#333333' stroke-width='2' /><path d='M190 220 Q200 230 210 220' fill='none' stroke='#333333' stroke-width='2' /><polygon points='150,250 200,330 250,250' fill='#87cefa' /><line x1='160' y1='250' x2='240' y2='250' stroke='#333333' stroke-width='2' /><line x1='200' y1='330' x2='180' y2='370' stroke='#333333' stroke-width='2' /><line x1='200' y1='330' x2='220' y2='370' stroke='#333333' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは青色の肌を持ち、優しげな表情をした男性型生命体です。体のラインはすらりと伸びており、背中には青い水滴のような模様があります。足には白いビーズ状の装飾があり、手には青い炎のような模様が描かれています。",
+        "reason": "アダムは空や海の色彩からインスピレーションを受け、より穏やかで美しい姿に進化しました。",
+        "thought": "『安らぎと調和を象徴する』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1780670508991
   }
 ]
