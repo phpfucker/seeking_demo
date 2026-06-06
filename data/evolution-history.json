@@ -35770,5 +35770,28 @@
       "gender": "男性"
     },
     "timestamp": 1780688936184
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ffcc99'/><circle cx='200' cy='100' r='80' fill='#ff99cc'/><path d='M150,250 L200,350 L250,250 Z' fill='#ff66cc'/><ellipse cx='150' cy='220' rx='20' ry='30' fill='#ff99cc'/><ellipse cx='250' cy='220' rx='20' ry='30' fill='#ff99cc'/><line x1='150' y1='300' x2='100' y2='350' stroke='#ff6699' stroke-width='3'/><line x1='250' y1='300' x2='300' y2='350' stroke='#ff6699' stroke-width='3'/><circle cx='170' cy='90' r='5' fill='#000'/><circle cx='230' cy='90' r='5' fill='#000'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとオレンジのグラデーションの肌を持ち、丸い顔に大きな目を持つ女性型生命体です。胴体は四角い形状であり、背中にふたつのピンクの楕円形の模様があります。短い足とクリーム色の手を持ち、さりげなく笑顔を浮かべています。",
+        "reason": "イヴは自然界の色彩と調和した外観が進化しました。進化のプロセスにおいて、色彩は種の健康状態や繁殖能力を示すため、美しい色彩を持つことが選択された結果です。",
+        "thought": "『自然の一部として、誇り高い存在』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#66ccff'/><circle cx='200' cy='100' r='80' fill='#99ccff'/><polygon points='150,250 200,350 250,250' fill='#66a3ff'/><ellipse cx='150' cy='220' rx='20' ry='30' fill='#99ccff'/><ellipse cx='250' cy='220' rx='20' ry='30' fill='#99ccff'/><line x1='150' y1='300' x2='100' y2='350' stroke='#6699ff' stroke-width='3'/><line x1='250' y1='300' x2='300' y2='350' stroke='#6699ff' stroke-width='3'/><rect x='190' y='90' width='20' height='30' fill='#000'/></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色のグラデーションの肌を持ち、大きな円形の顔に丸い目を持つ男性型生命体です。胴体は四角い形状で、背中に三角形の模様があります。短い足と黒い手を持ち、真剣な表情をしています。",
+        "reason": "アダムは生存競争において、強さや気品を示す色合いが進化しました。進化のプロセスにおいて、強い色彩は他の生命体への優位性を示すため、生存に有利な特徴として選択された結果です。",
+        "thought": "『強さと誇りを胸に、未来へ進む』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1780714043818
   }
 ]
