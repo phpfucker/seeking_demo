@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,165,0);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,215,0);stop-opacity:1' /></linearGradient></defs><rect x='100' y='200' width='200' height='150' fill='url(#gradA)' /><ellipse cx='200' cy='150' rx='100' ry='150' fill='#ffcc99' /><path d='M150 300 L100 350 L300 350 L250 300 Z' fill='#ff9966' /><polygon points='200,50 150,200 250,200' fill='#ffcc99' /><circle cx='160' cy='150' r='10' fill='#ff9966' /><circle cx='240' cy='150' r='10' fill='#ff9966' /><line x1='170' y1='250' x2='130' y2='300' stroke='#ff9966' stroke-width='5' /><line x1='230' y1='250' x2='270' y2='300' stroke='#ff9966' stroke-width='5' /><path d='M150 200 Q200 100 250 200' fill='none' stroke='#ff9966' stroke-width='5' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='#ff99c9'/><polygon points='180,180 220,180 200,210' fill='#ff66a3'/><path d='M150 240 Q200 290 250 240 Q200 290 150 240 Z' fill='#ff66a3'/><path d='M180 220 Q200 210 220 220 Q200 250 180 220 Z' fill='#fff'/><circle cx='170' cy='190' r='5' fill='#000'/><circle cx='230' cy='190' r='5' fill='#000'/><path d='M180 230 Q200 240 220 230' fill='none' stroke='#000' stroke-width='2'/><rect x='180' y='260' width='40' height='20' fill='#fff'/></svg>",
     "report": {
-      "appearance": "イヴは、オレンジと黄色のグラデーションがかったピーチ色の体を持ち、丸い顔に赤いチークがあります。頭部にはオレンジの角が生え、ボディは円形と長方形のパーツで構成されています。胸にはオレンジの模様があり、足は四角い形状で表現されています。",
-      "reason": "イヴは、新たな色彩と幾何学的なパーツの複雑さを持つ進化を遂げました。これにより、より美しく複雑な姿を手に入れ、生存競争においてより強力な存在となる可能性が高まりました。",
-      "thought": "『輝く未来へ』"
+      "appearance": "イヴは、ピンク色の体を持ち、大きな楕円形の目と三角形の鼻を持つ女性。体の中央には白い模様があり、優雅な雰囲気を醸し出している。",
+      "reason": "環境の変化により、イヴの進化は美しさと優雅さを重視するようになったため、ピンク色の柔らかい体と模様が発達した。",
+      "thought": "『愛と美しさが宇宙を満たす』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><radialGradient id='gradB' cx='50%' cy='50%' r='50%' fx='50%' fy='50%'><stop offset='0%' style='stop-color:rgb(100,149,237);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(135,206,250);stop-opacity:1' /></radialGradient></defs><rect x='100' y='200' width='200' height='150' fill='url(#gradB)' /><ellipse cx='200' cy='150' rx='100' ry='150' fill='#87cefa' /><path d='M150 300 L100 350 L300 350 L250 300 Z' fill='#4682b4' /><polygon points='200,50 150,200 250,200' fill='#87cefa' /><circle cx='160' cy='150' r='10' fill='#4682b4' /><circle cx='240' cy='150' r='10' fill='#4682b4' /><line x1='170' y1='250' x2='130' y2='300' stroke='#4682b4' stroke-width='5' /><line x1='230' y1='250' x2='270' y2='300' stroke='#4682b4' stroke-width='5' /><path d='M150 200 Q200 100 250 200' fill='none' stroke='#4682b4' stroke-width='5' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#add8e6'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='#6eb5ff'/><polygon points='180,180 220,180 200,210' fill='#3e82fc'/><path d='M150 240 Q200 290 250 240 Q200 290 150 240 Z' fill='#3e82fc'/><path d='M180 220 Q200 210 220 220 Q200 250 180 220 Z' fill='#fff'/><circle cx='170' cy='190' r='5' fill='#000'/><circle cx='230' cy='190' r='5' fill='#000'/><line x1='180' y1='230' x2='200' y2='240' stroke='#000' stroke-width='2'/><line x1='200' y1='240' x2='220' y2='230' stroke='#000' stroke-width='2'/><rect x='180' y='260' width='40' height='20' fill='#fff'/></svg>",
     "report": {
-      "appearance": "アダムは、青と水色のグラデーションを持つ体を持ち、楕円形の顔に青い瞳を持ちます。頭部には青い角がつき、ボディは円形と長方形のパーツで表現されています。胸には水色の模様があり、四角い形状の足があります。",
-      "reason": "アダムは、より涼やかな色合いと幾何学的なデザインの進化を遂げました。これにより、視覚的にも魅力的でありながら、強固な体を持つことで生存戦略において有利となるでしょう。",
-      "thought": "『静かな力』"
+      "appearance": "アダムは、水色の体を持ち、大きな楕円形の目と三角形の鼻を持つ男性。体の中央には白い模様があり、穏やかな雰囲気を漂わせている。",
+      "reason": "環境の変化により、アダムの進化は穏やかさと知性を重視するようになったため、水色の柔らかい体と模様が発達した。",
+      "thought": "『知性と平和が未来を築く』"
     },
     "name": "アダム",
     "gender": "男性"
