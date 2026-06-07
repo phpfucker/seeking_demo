@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='200' rx='120' ry='180' fill='#ffd9e6' /><path d='M150,200 L100,250 L150,250 L200,300 L250,250 L300,250 L250,200 Z' fill='#ff99cc' /><polygon points='160,200 200,100 240,200' fill='#ff66a3' /><rect x='180' y='280' width='40' height='60' fill='#ff99cc' /><circle cx='180' cy='260' r='10' fill='#ff66a3' /><circle cx='220' cy='260' r='10' fill='#ff66a3' /><line x1='150' y1='180' x2='130' y2='160' stroke='#ff66a3' stroke-width='5' /><line x1='250' y1='180' x2='270' y2='160' stroke='#ff66a3' stroke-width='5' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><polygon points='200,50 300,200 100,200' fill='#ff99cc' /><path d='M200,100 L250,150 L200,200 L150,150 Z' fill='#ff66b2' /><ellipse cx='150' cy='250' rx='50' ry='30' fill='#ff33a6' /><ellipse cx='250' cy='250' rx='50' ry='30' fill='#ff33a6' /><rect x='175' y='250' width='50' height='100' fill='#ff66b2' /><circle cx='175' cy='350' r='15' fill='#ff99cc' /><circle cx='225' cy='350' r='15' fill='#ff99cc' /><circle cx='190' cy='230' r='10' fill='#ffffff' /><circle cx='210' cy='230' r='10' fill='#ffffff' /><path d='M190,230 Q200,210 210,230' fill='none' stroke='#000000' /><text x='200' y='380' text-anchor='middle' font-family='Arial' font-size='20' fill='#000000'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の体と赤い目を持つ美しい女性型生命体です。体は楕円形で、頭部には逆三角形の特徴的な模様があります。手足は丸いパーツで構成され、しっぽが長く優雅に流れています。",
-      "reason": "進化の過程で、イヴはより優美さと美しさを追求しました。新しい特徴を取り入れることで、自らの生存と繁栄を目指しました。",
-      "thought": "『永遠の美しさ』"
+      "appearance": "イヴはピンク色の円形の体に、ピンクから薄いピンクへとグラデーションがかかった頭部を持ち、胴体には薄いピンクの模様がある。4本の脚は楕円形であり、先端には円形の足がついている。尾は大きな円形であり、白い模様が入っている。",
+      "reason": "イヴは内面からの輝きを表現するために、より洗練された美しい特徴を身に纏った。",
+      "thought": "『愛と美しさが宇宙を満たす』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#99ccff' /><circle cx='200' cy='100' r='50' fill='#b3d9ff' /><circle cx='200' cy='300' r='50' fill='#b3d9ff' /><polygon points='150,200 200,300 250,200' fill='#66a3ff' /><path d='M180,300 Q200,330 220,300' fill='none' stroke='#3366ff' stroke-width='5' /><path d='M190,100 Q200,80 210,100' fill='none' stroke='#3366ff' stroke-width='5' /></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#668cff' /><polygon points='200,50 300,200 100,200' fill='#3366ff' /><path d='M200,100 L250,150 L200,200 L150,150 Z' fill='#0044ff' /><circle cx='175' cy='300' r='25' fill='#668cff' /><circle cx='225' cy='300' r='25' fill='#668cff' /><circle cx='175' cy='100' r='15' fill='#ffffff' /><circle cx='225' cy='100' r='15' fill='#ffffff' /><line x1='175' y1='150' x2='200' y2='175' stroke='#ffffff' stroke-width='5' /><line x1='225' y1='150' x2='200' y2='175' stroke='#ffffff' stroke-width='5' /><text x='200' y='350' text-anchor='middle' font-family='Arial' font-size='20' fill='#ffffff'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは、青色の大きな体と丸い頭部を持つ男性型生命体です。体の中央には胴体を示す四角形のパーツがあり、顔には優しい笑顔が浮かんでいます。手足は円形で、角が少し丸みを帯びています。",
-      "reason": "アダムは、力強さと優しさを兼ね備える新たな進化を遂げました。外見だけでなく、内面の強さも表現することで、生存競争に勝利するための力を得ました。",
-      "thought": "『力と優しさの融合』"
+      "appearance": "アダムは青色の四角形の胴体に、青から薄い青へとグラデーションがかかった頭部を持ち、胴体には濃い青の模様がある。4本の脚は円形であり、先端には大きな円形の足がついている。尾は2つの大きな円形で構成され、白い模様が施されている。",
+      "reason": "アダムは強靭な外観を示すことで、生存能力と支配力を象徴した。",
+      "thought": "『力と知恵が未来を切り開く』"
     },
     "name": "アダム",
     "gender": "男性"
