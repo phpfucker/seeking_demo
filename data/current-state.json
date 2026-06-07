@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><polygon points='200,50 300,200 100,200' fill='#ff99cc' /><path d='M200,100 L250,150 L200,200 L150,150 Z' fill='#ff66b2' /><ellipse cx='150' cy='250' rx='50' ry='30' fill='#ff33a6' /><ellipse cx='250' cy='250' rx='50' ry='30' fill='#ff33a6' /><rect x='175' y='250' width='50' height='100' fill='#ff66b2' /><circle cx='175' cy='350' r='15' fill='#ff99cc' /><circle cx='225' cy='350' r='15' fill='#ff99cc' /><circle cx='190' cy='230' r='10' fill='#ffffff' /><circle cx='210' cy='230' r='10' fill='#ffffff' /><path d='M190,230 Q200,210 210,230' fill='none' stroke='#000000' /><text x='200' y='380' text-anchor='middle' font-family='Arial' font-size='20' fill='#000000'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffaec0' /><ellipse cx='135' cy='170' rx='25' ry='40' fill='#ff9bb4' /><ellipse cx='265' cy='170' rx='25' ry='40' fill='#ff9bb4' /><path d='M160,250 C160,280 240,280 240,250 Q200,275 160,250' fill='none' stroke='#ff9bb4' stroke-width='8' /><path d='M240,250 C240,280 320,280 320,250 Q280,275 240,250' fill='none' stroke='#ff9bb4' stroke-width='8' /><rect x='170' y='300' width='60' height='30' fill='#ff9bb4' /><rect x='170' y='330' width='60' height='20' rx='10' fill='#ff9bb4' /><rect x='170' y='300' width='10' height='30' fill='#d9819e' /><rect x='220' y='300' width='10' height='30' fill='#d9819e' /><path d='M200,220 Q190,200 180,220 Q190,240 200,220' fill='none' stroke='#333' stroke-width='2' /><path d='M220,220 Q230,200 240,220 Q230,240 220,220' fill='none' stroke='#333' stroke-width='2' /><path d='M160,190 Q140,170 120,190 Q140,210 160,190' fill='none' stroke='#333' stroke-width='2' /><path d='M240,190 Q260,170 280,190 Q260,210 240,190' fill='none' stroke='#333' stroke-width='2' /></svg>",
     "report": {
-      "appearance": "イヴはピンク色の円形の体に、ピンクから薄いピンクへとグラデーションがかかった頭部を持ち、胴体には薄いピンクの模様がある。4本の脚は楕円形であり、先端には円形の足がついている。尾は大きな円形であり、白い模様が入っている。",
-      "reason": "イヴは内面からの輝きを表現するために、より洗練された美しい特徴を身に纏った。",
-      "thought": "『愛と美しさが宇宙を満たす』"
+      "appearance": "イヴは、ピンク色の柔らかな毛並みを持つ女性型生命体です。体には赤いリボンが付いており、優雅で優しい印象を与えます。手足は薄いピンク色で、柔らかな曲線を描いています。",
+      "reason": "女性型生命体であるイヴは、環境における新たな生存戦略を模索し、柔らかな色合いと美しい模様への進化を遂げました。",
+      "thought": "『優しさと美しさが生命を育む』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#668cff' /><polygon points='200,50 300,200 100,200' fill='#3366ff' /><path d='M200,100 L250,150 L200,200 L150,150 Z' fill='#0044ff' /><circle cx='175' cy='300' r='25' fill='#668cff' /><circle cx='225' cy='300' r='25' fill='#668cff' /><circle cx='175' cy='100' r='15' fill='#ffffff' /><circle cx='225' cy='100' r='15' fill='#ffffff' /><line x1='175' y1='150' x2='200' y2='175' stroke='#ffffff' stroke-width='5' /><line x1='225' y1='150' x2='200' y2='175' stroke='#ffffff' stroke-width='5' /><text x='200' y='350' text-anchor='middle' font-family='Arial' font-size='20' fill='#ffffff'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='140' y='100' width='120' height='200' fill='#5ea7d2' /><polygon points='200,100 140,200 260,200' fill='#5ea7d2' /><ellipse cx='200' cy='140' rx='40' ry='20' fill='#4b8ecf' /><path d='M160,200 Q140,220 160,240 Q180,220 160,200' fill='none' stroke='#333' stroke-width='2' /><path d='M240,200 Q260,220 240,240 Q220,220 240,200' fill='none' stroke='#333' stroke-width='2' /><ellipse cx='170' cy='300' rx='15' ry='10' fill='#4b8ecf' /><ellipse cx='230' cy='300' rx='15' ry='10' fill='#4b8ecf' /><line x1='180' y1='300' x2='220' y2='300' stroke='#333' stroke-width='4' /><line x1='160' y1='300' x2='140' y2='320' stroke='#333' stroke-width='4' /><line x1='240' y1='300' x2='260' y2='320' stroke='#333' stroke-width='4' /><line x1='200' y1='180' x2='200' y2='240' stroke='#333' stroke-width='4' /><ellipse cx='200' cy='250' rx='15' ry='10' fill='#4b8ecf' /></svg>",
     "report": {
-      "appearance": "アダムは青色の四角形の胴体に、青から薄い青へとグラデーションがかかった頭部を持ち、胴体には濃い青の模様がある。4本の脚は円形であり、先端には大きな円形の足がついている。尾は2つの大きな円形で構成され、白い模様が施されている。",
-      "reason": "アダムは強靭な外観を示すことで、生存能力と支配力を象徴した。",
-      "thought": "『力と知恵が未来を切り開く』"
+      "appearance": "アダムは、青い鱗片を持つ男性型生命体です。体の一部には羽があり、大きな青い三角形の背びれが特徴的です。体色は濃淡の青で、力強さと優美さを併せ持っています。",
+      "reason": "男性型生命体であるアダムは、環境における新たな生存戦略を模索し、力強さと俊敏さを表現するために青い鱗片と背びれの進化を遂げました。",
+      "thought": "『力強さと美しさが未来を切り拓く』"
     },
     "name": "アダム",
     "gender": "男性"
