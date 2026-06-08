@@ -35954,5 +35954,28 @@
       "gender": "男性"
     },
     "timestamp": 1780859802577
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='#ff99c9'/><polygon points='180,180 220,180 200,210' fill='#ff66a3'/><path d='M150 240 Q200 290 250 240 Q200 290 150 240 Z' fill='#ff66a3'/><path d='M180 220 Q200 210 220 220 Q200 250 180 220 Z' fill='#fff'/><circle cx='170' cy='190' r='5' fill='#000'/><circle cx='230' cy='190' r='5' fill='#000'/><path d='M180 230 Q200 240 220 230' fill='none' stroke='#000' stroke-width='2'/><rect x='180' y='260' width='40' height='20' fill='#fff'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体を持ち、大きな楕円形の目と三角形の鼻を持つ女性。体の中央には白い模様があり、優雅な雰囲気を醸し出している。",
+        "reason": "環境の変化により、イヴの進化は美しさと優雅さを重視するようになったため、ピンク色の柔らかい体と模様が発達した。",
+        "thought": "『愛と美しさが宇宙を満たす』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#add8e6'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='#6eb5ff'/><polygon points='180,180 220,180 200,210' fill='#3e82fc'/><path d='M150 240 Q200 290 250 240 Q200 290 150 240 Z' fill='#3e82fc'/><path d='M180 220 Q200 210 220 220 Q200 250 180 220 Z' fill='#fff'/><circle cx='170' cy='190' r='5' fill='#000'/><circle cx='230' cy='190' r='5' fill='#000'/><line x1='180' y1='230' x2='200' y2='240' stroke='#000' stroke-width='2'/><line x1='200' y1='240' x2='220' y2='230' stroke='#000' stroke-width='2'/><rect x='180' y='260' width='40' height='20' fill='#fff'/></svg>",
+      "report": {
+        "appearance": "アダムは、水色の体を持ち、大きな楕円形の目と三角形の鼻を持つ男性。体の中央には白い模様があり、穏やかな雰囲気を漂わせている。",
+        "reason": "環境の変化により、アダムの進化は穏やかさと知性を重視するようになったため、水色の柔らかい体と模様が発達した。",
+        "thought": "『知性と平和が未来を築く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1780889796331
   }
 ]
