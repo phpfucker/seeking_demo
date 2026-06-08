@@ -35977,5 +35977,28 @@
       "gender": "男性"
     },
     "timestamp": 1780889796331
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='150' ry='200' fill='#ffcccb' /><circle cx='130' cy='150' r='25' fill='#ff99cc' /><circle cx='270' cy='150' r='25' fill='#ff99cc' /><path d='M180 230 Q200 250 220 230' stroke='#000' stroke-width='2' fill='none' /><path d='M180 240 Q200 260 220 240' stroke='#000' stroke-width='2' fill='none' /><path d='M160 220 Q200 280 240 220' stroke='#000' stroke-width='2' fill='none' /><path d='M200 280 Q240 320 280 280' stroke='#000' stroke-width='2' fill='none' /><polygon points='170,180 180,140 190,180' fill='#ffd700' /><polygon points='210,180 220,140 230,180' fill='#ffd700' /><rect x='160' y='320' width='80' height='30' fill='#ffcccb' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかい毛並みを持つ女性の生命体です。体は楕円形で、長い鼻と顔に特徴的な金色の模様があります。四肢は緑色の葉のような形状で、しっぽは黄色い光沢のある鱗で覆われています。",
+        "reason": "イヴは、自然と調和し環境にやさしい生命体として進化しました。",
+        "thought": "『自然の中で生きる喜び』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='200' rx='150' ry='200' fill='#add8e6' /><circle cx='130' cy='150' r='25' fill='#87ceeb' /><circle cx='270' cy='150' r='25' fill='#87ceeb' /><path d='M180 230 Q200 250 220 230' stroke='#000' stroke-width='2' fill='none' /><path d='M180 240 Q200 260 220 240' stroke='#000' stroke-width='2' fill='none' /><path d='M160 220 Q200 280 240 220' stroke='#000' stroke-width='2' fill='none' /><path d='M200 280 Q240 320 280 280' stroke='#000' stroke-width='2' fill='none' /><line x1='170' y1='320' x2='190' y2='320' stroke='#87ceeb' stroke-width='10' /><line x1='210' y1='320' x2='230' y2='320' stroke='#87ceeb' stroke-width='10' /><polygon points='180,160 190,120 200,160' fill='#ffd700' /><rect x='160' y='320' width='80' height='30' fill='#add8e6' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体に水色の鱗が特徴的な男性の生命体です。体は楕円形で、顔にはやや尖った形の耳と青い角があります。四肢は水色のひれ状で、しっぽは青い色合いの太い線で描かれています。",
+        "reason": "アダムは、水辺で生活し泳ぐ能力を持つ生命体として進化しました。",
+        "thought": "『青い水の中で自由に泳ぐ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1780915540676
   }
 ]
