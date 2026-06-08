@@ -36000,5 +36000,28 @@
       "gender": "男性"
     },
     "timestamp": 1780915540676
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,168,212);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,102,204);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradA)' /><circle cx='200' cy='150' r='80' fill='url(#gradA)' /><ellipse cx='160' cy='130' rx='15' ry='10' fill='white' /><ellipse cx='240' cy='130' rx='15' ry='10' fill='white' /><rect x='180' y='180' width='40' height='90' fill='url(#gradA)' /><path d='M180 180 L200 230 L220 180 Z' fill='url(#gradA)' /><polygon points='160,250 200,320 240,250' fill='url(#gradA)' /><line x1='150' y1='330' x2='250' y2='330' stroke='black' stroke-width='3' /><line x1='160' y1='270' x2='140' y2='250' stroke='black' stroke-width='3' /><line x1='240' y1='270' x2='260' y2='250' stroke='black' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと紫のグラデーションで彩られた美しい女性の姿をしています。彼女は長い髪と優雅な体つきを持ち、白い目と穏やかな表情が印象的です。手足は華奢で、複雑な模様が身体全体を覆っています。",
+        "reason": "生態系において、新たな繁殖戦略を模索するため、イヴは美的な特徴を進化させました。",
+        "thought": "『愛と美が未来を導く』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><radialGradient id='gradB' cx='50%' cy='50%' r='50%' fx='50%' fy='50%'><stop offset='0%' style='stop-color:rgb(0,204,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,102,255);stop-opacity:1' /></radialGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradB)' /><circle cx='200' cy='150' r='80' fill='url(#gradB)' /><ellipse cx='160' cy='130' rx='15' ry='10' fill='white' /><ellipse cx='240' cy='130' rx='15' ry='10' fill='white' /><rect x='180' y='180' width='40' height='90' fill='url(#gradB)' /><path d='M180 180 L200 230 L220 180 Z' fill='url(#gradB)' /><polygon points='160,250 200,320 240,250' fill='url(#gradB)' /><line x1='150' y1='330' x2='250' y2='330' stroke='black' stroke-width='3' /><line x1='160' y1='270' x2='140' y2='250' stroke='black' stroke-width='3' /><line x1='240' y1='270' x2='260' y2='250' stroke='black' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色のグラデーションで描かれた魅力的な男性の姿をしています。彼は筋肉質な体つきと威厳ある表情を持ち、逞しい手足や立派な角が特徴です。体表には複雑な模様が彩りを添えています。",
+        "reason": "環境の変化において、アダムは生存競争において優位性を持つため、力強い外見を進化させました。",
+        "thought": "『力強さと知恵を併せ持つ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1780933282340
   }
 ]
