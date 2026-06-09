@@ -36069,5 +36069,28 @@
       "gender": "男性"
     },
     "timestamp": 1780973171521
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><rect x='100' y='150' width='200' height='200' fill='url(#gradA)' /><ellipse cx='200' cy='100' rx='70' ry='50' fill='url(#gradA)' /><path d='M160 200 L200 250 L240 200 Z' fill='rgb(255,105,180)' /><circle cx='150' cy='160' r='10' fill='white' /><circle cx='250' cy='160' r='10' fill='white' /><path d='M180 260 Q200 290 220 260' fill='none' stroke='black' stroke-width='2' /><path d='M195 180 Q200 220 205 180' fill='none' stroke='black' stroke-width='2' /><line x1='150' y1='300' x2='170' y2='320' stroke='black' stroke-width='4' /><line x1='250' y1='300' x2='230' y2='320' stroke='black' stroke-width='4' /><polyline points='170,220 180,230 190,220 200,230 210,220 220,230' fill='none' stroke='black' stroke-width='2' /><text x='200' y='380' fill='black' text-anchor='middle' font-size='20' font-family='Arial'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクと白のグラデーションが美しい女性的な姿をしています。体の中央には円形の模様があり、優雅な印象を与えます。頭部には楕円形の顔と、繊細なピンク色の模様が描かれています。",
+        "reason": "イヴは他の生物とのコミュニケーション能力を向上させるため、感情表現が豊かな新たな特徴を獲得しました。",
+        "thought": "『愛と調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(173,216,230);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,191,255);stop-opacity:1' /></linearGradient></defs><rect x='100' y='150' width='200' height='200' fill='url(#gradB)' /><ellipse cx='200' cy='100' rx='60' ry='40' fill='url(#gradB)' /><path d='M160 200 L200 240 L240 200 Z' fill='rgb(30,144,255)' /><circle cx='150' cy='160' r='10' fill='white' /><circle cx='250' cy='160' r='10' fill='white' /><path d='M180 260 Q200 290 220 260' fill='none' stroke='black' stroke-width='2' /><path d='M195 180 Q200 220 205 180' fill='none' stroke='black' stroke-width='2' /><line x1='150' y1='300' x2='170' y2='320' stroke='black' stroke-width='4' /><line x1='250' y1='300' x2='230' y2='320' stroke='black' stroke-width='4' /><polyline points='170,220 180,230 190,220 200,230 210,220 220,230' fill='none' stroke='black' stroke-width='2' /><text x='200' y='380' fill='black' text-anchor='middle' font-size='20' font-family='Arial'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色のグラデーションが美しい男性的な姿をしています。体の中央には三角形状の模様があり、力強さを表現しています。頭部には楕円形の顔と、クールな青色の模様が描かれています。",
+        "reason": "アダムは狩猟能力を向上させるため、視覚情報処理が優れた新たな特徴を獲得しました。",
+        "thought": "『勇気と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1780997716066
   }
 ]

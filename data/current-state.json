@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><rect x='100' y='150' width='200' height='200' fill='url(#gradA)' /><ellipse cx='200' cy='100' rx='70' ry='50' fill='url(#gradA)' /><path d='M160 200 L200 250 L240 200 Z' fill='rgb(255,105,180)' /><circle cx='150' cy='160' r='10' fill='white' /><circle cx='250' cy='160' r='10' fill='white' /><path d='M180 260 Q200 290 220 260' fill='none' stroke='black' stroke-width='2' /><path d='M195 180 Q200 220 205 180' fill='none' stroke='black' stroke-width='2' /><line x1='150' y1='300' x2='170' y2='320' stroke='black' stroke-width='4' /><line x1='250' y1='300' x2='230' y2='320' stroke='black' stroke-width='4' /><polyline points='170,220 180,230 190,220 200,230 210,220 220,230' fill='none' stroke='black' stroke-width='2' /><text x='200' y='380' fill='black' text-anchor='middle' font-size='20' font-family='Arial'>イヴ</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb' /><ellipse cx='200' cy='250' rx='80' ry='100' fill='#ffd700' /><circle cx='170' cy='220' r='10' fill='#000' /><circle cx='230' cy='220' r='10' fill='#000' /><path d='M160 280 Q200 300 240 280' fill='none' stroke='#000' stroke-width='2' /><line x1='140' y1='150' x2='180' y2='150' stroke='#000' stroke-width='2' /><line x1='220' y1='150' x2='260' y2='150' stroke='#000' stroke-width='2' /><line x1='180' y1='300' x2='180' y2='340' stroke='#000' stroke-width='2' /><line x1='220' y1='300' x2='220' y2='340' stroke='#000' stroke-width='2' /><polygon points='180,340 220,340 200,380' fill='#ffd700' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンクと白のグラデーションが美しい女性的な姿をしています。体の中央には円形の模様があり、優雅な印象を与えます。頭部には楕円形の顔と、繊細なピンク色の模様が描かれています。",
-      "reason": "イヴは他の生物とのコミュニケーション能力を向上させるため、感情表現が豊かな新たな特徴を獲得しました。",
-      "thought": "『愛と調和』"
+      "appearance": "イヴは、ピンク色の柔らかい皮膚を持ち、黄色い丸い目を持つ女性の生命体です。全身が丸みを帯びたフォルムで、優しさと温かさを感じさせます。",
+      "reason": "進化の過程で、イヴはより美しく、愛らしい特徴を身につけ、他者とのつながりやコミュニケーションをより円滑に行うために進化しました。",
+      "thought": "『幸せと調和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(173,216,230);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,191,255);stop-opacity:1' /></linearGradient></defs><rect x='100' y='150' width='200' height='200' fill='url(#gradB)' /><ellipse cx='200' cy='100' rx='60' ry='40' fill='url(#gradB)' /><path d='M160 200 L200 240 L240 200 Z' fill='rgb(30,144,255)' /><circle cx='150' cy='160' r='10' fill='white' /><circle cx='250' cy='160' r='10' fill='white' /><path d='M180 260 Q200 290 220 260' fill='none' stroke='black' stroke-width='2' /><path d='M195 180 Q200 220 205 180' fill='none' stroke='black' stroke-width='2' /><line x1='150' y1='300' x2='170' y2='320' stroke='black' stroke-width='4' /><line x1='250' y1='300' x2='230' y2='320' stroke='black' stroke-width='4' /><polyline points='170,220 180,230 190,220 200,230 210,220 220,230' fill='none' stroke='black' stroke-width='2' /><text x='200' y='380' fill='black' text-anchor='middle' font-size='20' font-family='Arial'>アダム</text></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#6495ed' /><ellipse cx='200' cy='250' rx='80' ry='100' fill='#ff8c00' /><circle cx='170' cy='220' r='10' fill='#000' /><circle cx='230' cy='220' r='10' fill='#000' /><path d='M160 280 Q200 300 240 280' fill='none' stroke='#000' stroke-width='2' /><line x1='170' y1='150' x2='130' y2='170' stroke='#000' stroke-width='2' /><line x1='230' y1='150' x2='270' y2='170' stroke='#000' stroke-width='2' /><line x1='170' y1='300' x2='170' y2='340' stroke='#000' stroke-width='2' /><line x1='230' y1='300' x2='230' y2='340' stroke='#000' stroke-width='2' /><polygon points='230,340 170,340 200,380' fill='#ff8c00' /></svg>",
     "report": {
-      "appearance": "アダムは、青と水色のグラデーションが美しい男性的な姿をしています。体の中央には三角形状の模様があり、力強さを表現しています。頭部には楕円形の顔と、クールな青色の模様が描かれています。",
-      "reason": "アダムは狩猟能力を向上させるため、視覚情報処理が優れた新たな特徴を獲得しました。",
-      "thought": "『勇気と誇り』"
+      "appearance": "アダムは、青色の皮膚とオレンジ色の目を持つ男性の生命体です。全体的に角張ったフォルムを持ち、力強さと冷静さを感じさせます。",
+      "reason": "アダムはより強靭で目立つ特徴を身につけ、狩りや生存競争において優位に立つために進化しました。",
+      "thought": "『力と勇気』"
     },
     "name": "アダム",
     "gender": "男性"
