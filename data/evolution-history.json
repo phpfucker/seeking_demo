@@ -36046,5 +36046,28 @@
       "gender": "男性"
     },
     "timestamp": 1780949349305
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb' /><ellipse cx='200' cy='150' rx='100' ry='130' fill='#ffdab9' /><rect x='170' y='250' width='60' height='25' fill='#ffcccb' /><rect x='170' y='290' width='20' height='60' fill='#ffcccb' /><rect x='210' y='290' width='20' height='60' fill='#ffcccb' /><polygon points='200,160 180,140 220,140' fill='#000' /><polygon points='185,165 170,155 175,145' fill='#000' /><polygon points='215,165 230,155 225,145' fill='#000' /><circle cx='180' cy='130' r='5' fill='#000' /><circle cx='220' cy='130' r='5' fill='#000' /><line x1='185' y1='150' x2='215' y2='150' stroke='#000' stroke-width='2' /><rect x='180' y='250' width='40' height='10' fill='#000' /><polygon points='160,220 150,260 180,250' fill='#000' /><polygon points='240,220 250,260 220,250' fill='#000' /><polygon points='150,260 160,300 180,270' fill='#000' /><polygon points='250,260 240,300 220,270' fill='#000' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかな皮膚を持つ女性で、優雅な雰囲気を醸し出す。体の上部が楕円形で、下半身は2本の脚と尻尾があり、顔には小さな口と目が配置されている。",
+        "reason": "進化の過程で、イヴはより優美な外観を持つように進化した。美しい色合いと柔らかな形状が、生存に有利な特性として選択された。",
+        "thought": "『優しさが力となる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='150' fill='#87ceeb' /><ellipse cx='200' cy='140' rx='80' ry='100' fill='#add8e6' /><path d='M200 300 Q180 330 160 300' fill='none' stroke='#000' stroke-width='2' /><path d='M200 300 Q220 330 240 300' fill='none' stroke='#000' stroke-width='2' /><circle cx='180' cy='140' r='5' fill='#000' /><circle cx='220' cy='140' r='5' fill='#000' /><line x1='180' y1='290' x2='200' y2='260' stroke='#000' stroke-width='3' /><line x1='220' y1='290' x2='200' y2='260' stroke='#000' stroke-width='3' /><polygon points='150,150 140,190 170,180' fill='#000' /><polygon points='250,150 260,190 230,180' fill='#000' /><polygon points='140,190 150,230 170,200' fill='#000' /><polygon points='260,190 250,230 230,200' fill='#000' /><text x='200' y='350' font-family='Arial' font-size='20' fill='#000' text-anchor='middle'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは青色の体を持つ男性で、力強くたくましい印象を与える。四角形の体と楕円形の頭部、そして大きな脚や角が特徴的である。",
+        "reason": "進化の過程で、アダムはより強靭な姿に進化した。力強い外観が生存競争において有利であり、環境への適応を促した。",
+        "thought": "『力強さは守るべきもののために』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1780973171521
   }
 ]
