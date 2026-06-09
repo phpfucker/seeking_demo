@@ -36115,5 +36115,28 @@
       "gender": "男性"
     },
     "timestamp": 1781016054941
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><circle cx='200' cy='150' r='50' fill='#ff99cc'/><polygon points='150,200 200,250 250,200' fill='#ff6699'/><ellipse cx='160' cy='220' rx='20' ry='10' fill='#ff3366'/><ellipse cx='240' cy='220' rx='20' ry='10' fill='#ff3366'/><path d='M180,280 Q200,320 220,280' fill='none' stroke='#ff0033'/><path d='M160,160 Q180,180 200,160 Q220,180 240,160' fill='none' stroke='#ff0033'/><line x1='160' y1='280' x2='240' y2='280' stroke='#ff0033' stroke-width='2'/><line x1='200' y1='250' x2='200' y2='280' stroke='#ff0033' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に大きな赤い目と、ふたつの小さなピンク色の耳を持つ女性の姿をしています。短いピンク色の髪の毛が背中に流れ、まるで花のような装飾が施されています。",
+        "reason": "イヴは、自然界の美しさと調和を表現するために、花と動物の特徴を組み合わせた進化を遂げました。",
+        "thought": "『自然と共に生きる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#add8e6'/><circle cx='200' cy='150' r='50' fill='#87ceeb'/><polygon points='150,200 200,250 250,200' fill='#6495ed'/><ellipse cx='160' cy='220' rx='20' ry='10' fill='#4169e1'/><ellipse cx='240' cy='220' rx='20' ry='10' fill='#4169e1'/><path d='M180,280 Q200,320 220,280' fill='none' stroke='#0000ff'/><path d='M160,160 Q180,180 200,160 Q220,180 240,160' fill='none' stroke='#0000ff'/><line x1='160' y1='280' x2='240' y2='280' stroke='#0000ff' stroke-width='2'/><line x1='200' y1='250' x2='200' y2='280' stroke='#0000ff' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、淡い青色の体に大きな青い目と、ふたつの小さな青色の耳を持つ男性の姿をしています。短い青色の髪の毛が背中に流れ、海をイメージさせる模様が描かれています。",
+        "reason": "アダムは、穏やかな海のイメージと知的な特徴を組み合わせた進化を遂げました。",
+        "thought": "『知識と平和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1781035369813
   }
 ]
