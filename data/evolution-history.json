@@ -36138,5 +36138,28 @@
       "gender": "男性"
     },
     "timestamp": 1781035369813
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#ffd1dc' /><path d='M150,250 Q200,310 250,250 Q200,290 150,250' fill='#ffafc8' /><ellipse cx='150' cy='180' rx='25' ry='15' fill='#ffd1dc' /><ellipse cx='250' cy='180' rx='25' ry='15' fill='#ffd1dc' /><circle cx='175' cy='170' r='5' fill='#000' /><circle cx='225' cy='170' r='5' fill='#000' /><path d='M175,300 Q200,330 225,300' fill='none' stroke='#000' stroke-width='2' /><rect x='185' y='300' width='30' height='10' fill='#ffd1dc' /><line x1='185' y1='300' x2='175' y2='305' stroke='#000' stroke-width='2' /><line x1='215' y1='300' x2='225' y2='305' stroke='#000' stroke-width='2' /><path d='M185,190 Q200,210 215,190' fill='none' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは柔らかなピンク色の体に、優雅で柔らかな曲線を持つ女性像です。顔には優しい表情があり、長いエレガントな髪と柔らかな瞳が特徴です。手足は繊細で、しなやかなしっぽが優雅に流れています。",
+        "reason": "生態系の変化により、イヴはより優雅かつ美しい姿へ進化しました。環境の安定と個体間のコミュニケーションの重要性が高まったため、これらの特徴が選択されました。",
+        "thought": "『優しさと美しさが力を持つ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#5ea9ff' /><circle cx='200' cy='100' r='50' fill='#5ea9ff' /><circle cx='175' cy='125' r='10' fill='#000' /><circle cx='225' cy='125' r='10' fill='#000' /><path d='M150,300 Q200,370 250,300 Q200,350 150,300' fill='#4c85d7' /><rect x='160' y='300' width='80' height='20' fill='#5ea9ff' /><line x1='160' y1='300' x2='150' y2='305' stroke='#000' stroke-width='2' /><line x1='240' y1='300' x2='250' y2='305' stroke='#000' stroke-width='2' /><polygon points='160,120 180,160 200,160 220,120' fill='#5ea9ff' /><polygon points='160,220 200,260 240,220' fill='#5ea9ff' /></svg>",
+      "report": {
+        "appearance": "アダムは強靭な青色の体を持つ男性像で、力強い角や筋肉質な手足が特徴です。顔つきは堅く、凛々しい表情をしており、鋭い視線を持っています。しっかりとしたしっぽと青色の角が特徴的です。",
+        "reason": "環境の厳しさと競争の激化により、アダムはより強靭で力強い体つきが選択されました。生存に必要な力と防衛手段を持つことが進化の理由です。",
+        "thought": "『強く生き抜く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1781061755594
   }
 ]
