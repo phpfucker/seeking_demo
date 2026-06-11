@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ff99cc'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#ff66cc'/><rect x='120' y='200' width='160' height='50' fill='#ff66cc'/><polygon points='150,150 200,100 250,150' fill='#ffffff'/><rect x='170' y='240' width='60' height='110' fill='#ffffff'/><path d='M200,120 Q220,100 240,120' fill='none' stroke='#000000'/><path d='M150,200 Q200,250 250,200' fill='none' stroke='#000000'/><circle cx='180' cy='135' r='5' fill='#000000'/><circle cx='220' cy='135' r='5' fill='#000000'/><line x1='170' y1='190' x2='180' y2='190' stroke='#000000'/><line x1='220' y1='190' x2='230' y2='190' stroke='#000000'/><line x1='190' y1='270' x2='190' y2='320' stroke='#000000'/><line x1='210' y1='270' x2='210' y2='320' stroke='#000000'/><line x1='160' y1='250' x2='140' y2='290' stroke='#000000'/><line x1='240' y1='250' x2='260' y2='290' stroke='#000000'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><rect x='150' y='200' width='100' height='150' fill='#ffc0cb'/><ellipse cx='200' cy='120' rx='60' ry='30' fill='#ff69b4'/><path d='M180 250 L200 300 L220 250 Z' fill='#ff69b4'/><ellipse cx='165' cy='140' rx='10' ry='20' fill='#000'/><ellipse cx='235' cy='140' rx='10' ry='20' fill='#000'/><rect x='160' y='280' width='80' height='20' fill='#000'/><polygon points='180,350 200,400 220,350' fill='#000'/><text x='130' y='50' font-family='Arial' font-size='20' fill='#000'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、大きな白い目を持つ女性の姿をしています。体には明るいピンク色の長い髪が生え、背中には大きな白い翼がついています。手足は細くしなやかで、手には指の先が丸い爪があります。",
-      "reason": "進化の過程で、イヴは翼を手に入れ、より優美で自由な存在となることで、空を自在に飛び回り、新たな世界を発見できるようになりました。",
-      "thought": "『自由』"
+      "appearance": "イヴは、ピンク色の柔らかな肌を持つ女性型の生命体です。体は丸みを帯び、背中には小さな尻尾があります。顔には大きな赤い目と口があり、上半身には小さな腕が付いています。下半身は大きな足がついており、全体的に柔らかな雰囲気を醸し出しています。",
+      "reason": "イヴは自然界の力を更に取り込むため、より優れた柔らかさと可愛らしさを手に入れました。",
+      "thought": "『愛と優しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#6699ff'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#3366ff'/><rect x='120' y='200' width='160' height='50' fill='#3366ff'/><polygon points='150,150 200,100 250,150' fill='#ffffff'/><rect x='170' y='240' width='60' height='110' fill='#ffffff'/><path d='M200,120 Q220,100 240,120' fill='none' stroke='#000000'/><path d='M150,200 Q200,250 250,200' fill='none' stroke='#000000'/><circle cx='180' cy='135' r='5' fill='#000000'/><circle cx='220' cy='135' r='5' fill='#000000'/><line x1='170' y1='190' x2='180' y2='190' stroke='#000000'/><line x1='220' y1='190' x2='230' y2='190' stroke='#000000'/><line x1='190' y1='270' x2='190' y2='320' stroke='#000000'/><line x1='210' y1='270' x2='210' y2='320' stroke='#000000'/><line x1='160' y1='250' x2='140' y2='290' stroke='#000000'/><line x1='240' y1='250' x2='260' y2='290' stroke='#000000'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#00bfff'/><rect x='150' y='200' width='100' height='150' fill='#00a5ff'/><ellipse cx='200' cy='120' rx='60' ry='30' fill='#1e90ff'/><path d='M180 250 L200 300 L220 250 Z' fill='#1e90ff'/><ellipse cx='165' cy='140' rx='10' ry='20' fill='#000'/><ellipse cx='235' cy='140' rx='10' ry='20' fill='#000'/><line x1='160' y1='280' x2='240' y2='280' stroke='#000' stroke-width='20' stroke-linecap='round'/><polygon points='180,350 200,400 220,350' fill='#000'/><text x='130' y='50' font-family='Arial' font-size='20' fill='#000'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは、青色の堅い外皮を持ち、大きな白い目を持つ男性の姿をしています。頭部には濃い青色の短い髪が生え、背中には大きな青い翼がついています。手足は筋肉質でがっしりとしており、手には鋭い爪が生えています。",
-      "reason": "進化により、アダムは翼を手に入れ、力強さと高い飛行能力を得ることで、広大な土地を見渡し、新たな世界を探索できるように進化しました。",
-      "thought": "『力強さ』"
+      "appearance": "アダムは、青色の肌を持つ男性型の生命体です。体は筋肉質で力強く、背中には小さな尻尾があります。顔には大きな青い目と口があり、上半身には太い腕が付いています。下半身は太い足がついており、全体的に力強い印象を与えます。",
+      "reason": "アダムは状況に対処する力を強化し、より強靭で頼りになる存在となりました。",
+      "thought": "『力と勇気』"
     },
     "name": "アダム",
     "gender": "男性"

@@ -36299,5 +36299,28 @@
       "gender": "男性"
     },
     "timestamp": 1781193119435
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ff99cc'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#ff66cc'/><rect x='120' y='200' width='160' height='50' fill='#ff66cc'/><polygon points='150,150 200,100 250,150' fill='#ffffff'/><rect x='170' y='240' width='60' height='110' fill='#ffffff'/><path d='M200,120 Q220,100 240,120' fill='none' stroke='#000000'/><path d='M150,200 Q200,250 250,200' fill='none' stroke='#000000'/><circle cx='180' cy='135' r='5' fill='#000000'/><circle cx='220' cy='135' r='5' fill='#000000'/><line x1='170' y1='190' x2='180' y2='190' stroke='#000000'/><line x1='220' y1='190' x2='230' y2='190' stroke='#000000'/><line x1='190' y1='270' x2='190' y2='320' stroke='#000000'/><line x1='210' y1='270' x2='210' y2='320' stroke='#000000'/><line x1='160' y1='250' x2='140' y2='290' stroke='#000000'/><line x1='240' y1='250' x2='260' y2='290' stroke='#000000'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな皮膚を持ち、大きな白い目を持つ女性の姿をしています。体には明るいピンク色の長い髪が生え、背中には大きな白い翼がついています。手足は細くしなやかで、手には指の先が丸い爪があります。",
+        "reason": "進化の過程で、イヴは翼を手に入れ、より優美で自由な存在となることで、空を自在に飛び回り、新たな世界を発見できるようになりました。",
+        "thought": "『自由』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#6699ff'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#3366ff'/><rect x='120' y='200' width='160' height='50' fill='#3366ff'/><polygon points='150,150 200,100 250,150' fill='#ffffff'/><rect x='170' y='240' width='60' height='110' fill='#ffffff'/><path d='M200,120 Q220,100 240,120' fill='none' stroke='#000000'/><path d='M150,200 Q200,250 250,200' fill='none' stroke='#000000'/><circle cx='180' cy='135' r='5' fill='#000000'/><circle cx='220' cy='135' r='5' fill='#000000'/><line x1='170' y1='190' x2='180' y2='190' stroke='#000000'/><line x1='220' y1='190' x2='230' y2='190' stroke='#000000'/><line x1='190' y1='270' x2='190' y2='320' stroke='#000000'/><line x1='210' y1='270' x2='210' y2='320' stroke='#000000'/><line x1='160' y1='250' x2='140' y2='290' stroke='#000000'/><line x1='240' y1='250' x2='260' y2='290' stroke='#000000'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の堅い外皮を持ち、大きな白い目を持つ男性の姿をしています。頭部には濃い青色の短い髪が生え、背中には大きな青い翼がついています。手足は筋肉質でがっしりとしており、手には鋭い爪が生えています。",
+        "reason": "進化により、アダムは翼を手に入れ、力強さと高い飛行能力を得ることで、広大な土地を見渡し、新たな世界を探索できるように進化しました。",
+        "thought": "『力強さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1781208929406
   }
 ]
