@@ -36276,5 +36276,28 @@
       "gender": "男性"
     },
     "timestamp": 1781172999723
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><circle cx='200' cy='150' r='50' fill='#ffb6c1'/><circle cx='160' cy='150' r='10' fill='#000'/><circle cx='240' cy='150' r='10' fill='#000'/><path d='M150 220 Q200 250 250 220' stroke='#000' stroke-width='5' fill='none'/><path d='M150 200 Q200 180 250 200' stroke='#000' stroke-width='5' fill='none'/><line x1='160' y1='280' x2='220' y2='280' stroke='#000' stroke-width='10'/><line x1='160' y1='300' x2='220' y2='300' stroke='#000' stroke-width='10'/><polygon points='180,100 200,80 220,100' fill='#000'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体に赤い顔を持ち、大きな目と優しい笑顔が特徴です。頭部には短い角が生え、しっぽとして尖った形の尾があります。四肢はしなやかで柔らかな曲線を描き、全体的に優雅な印象を与えます。",
+        "reason": "イヴは新たな進化を遂げ、より優美で美しい容姿を手に入れました。この進化は生存競争において魅力的な特徴を持つことで、仲間を引き寄せ、繁栄するために起こりました。",
+        "thought": "『愛と美しさの力』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#87ceeb'/><circle cx='200' cy='150' r='50' fill='#4682b4'/><circle cx='160' cy='150' r='10' fill='#000'/><circle cx='240' cy='150' r='10' fill='#000'/><path d='M150 220 Q200 250 250 220' stroke='#000' stroke-width='5' fill='none'/><path d='M150 200 Q200 180 250 200' stroke='#000' stroke-width='5' fill='none'/><line x1='160' y1='280' x2='220' y2='280' stroke='#000' stroke-width='10'/><line x1='160' y1='300' x2='220' y2='300' stroke='#000' stroke-width='10'/><polygon points='180,100 200,80 220,100' fill='#000'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の体に濃い青い顔を持ち、力強い表情と鋭い目つきが特徴です。頭部には長い角が生え、しっぽとして分厚い尾があります。四肢は筋肉質でたくましい形状をしており、全体的に力強い雰囲気を醸し出します。",
+        "reason": "アダムは進化によりより力強く堅固な外見を手に入れました。この進化は生存競争において優れた身体能力を持つことで、敵から身を守り、獲物を狩るために起こりました。",
+        "thought": "『力と勇気の誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1781193119435
   }
 ]
