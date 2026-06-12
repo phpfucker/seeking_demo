@@ -36345,5 +36345,28 @@
       "gender": "男性"
     },
     "timestamp": 1781235251422
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ffcccb'/><circle cx='200' cy='100' r='80' fill='#ff9999'/><path d='M150 200 L130 250 L170 250 Z' fill='#ff6666'/><path d='M250 200 L230 250 L270 250 Z' fill='#ff6666'/><ellipse cx='180' cy='300' rx='20' ry='10' fill='#ff6666'/><ellipse cx='220' cy='300' rx='20' ry='10' fill='#ff6666'/><ellipse cx='200' cy='180' rx='15' ry='10' fill='#ffd699'/><rect x='170' y='170' width='60' height='10' fill='#ffd699'/><ellipse cx='180' cy='190' rx='3' ry='6' fill='#663300'/><ellipse cx='220' cy='190' rx='3' ry='6' fill='#663300'/><path d='M180 220 Q200 230 220 220' fill='none' stroke='#663300' stroke-width='3'/><path d='M180 220 Q200 240 220 220' fill='none' stroke='#663300' stroke-width='3'/><text x='150' y='350' font-family='Arial' font-size='18' fill='#663300'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクの肌と赤い髪を持ち、全体的に温かみのある色合いをしています。頭には2本の赤い角があり、表情豊かな顔つきと大きな目が特徴です。体には赤い装飾が施され、しっかりとした体つきと優雅な足があります。",
+        "reason": "進化の過程で、イヴはより美しく魅力的な外見を求め、装飾や色彩が豊かになりました。感性や知性の発展に伴い、内面の豊かさを外見に反映させるように進化しました。",
+        "thought": "『愛と美の融合』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#b3e0ff'/><ellipse cx='200' cy='100' rx='80' ry='60' fill='#66ccff'/><path d='M150 200 L130 250 L170 250 Z' fill='#3399ff'/><path d='M250 200 L230 250 L270 250 Z' fill='#3399ff'/><polygon points='190,240 210,240 200,260' fill='#3366ff'/><polygon points='180,300 200,320 220,300' fill='#3366ff'/><ellipse cx='180' cy='300' rx='10' ry='20' fill='#6699ff'/><ellipse cx='220' cy='300' rx='10' ry='20' fill='#6699ff'/><rect x='190' y='165' width='20' height='40' fill='#b3e0ff'/><ellipse cx='190' cy='160' rx='6' ry='12' fill='#1a1aff'/><ellipse cx='210' cy='160' rx='6' ry='12' fill='#1a1aff'/><path d='M190 220 Q200 230 210 220' fill='none' stroke='#1a1aff' stroke-width='3'/><path d='M190 220 Q200 240 210 220' fill='none' stroke='#1a1aff' stroke-width='3'/><text x='150' y='350' font-family='Arial' font-size='18' fill='#1a1aff'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青い肌と水色の髪を持ち、涼やかな雰囲気を放っています。角を持たず、穏やかな表情と大きな目が特徴です。体つきはがっしりしており、しっかりとした足があります。",
+        "reason": "アダムの進化は、力強く安定感のある外見を重視しました。青や水色の色彩は、知性や力強さを表す色として選ばれ、内面の成熟と安定が外見に反映された進化となりました。",
+        "thought": "『知性と力の調和』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1781258677608
   }
 ]
