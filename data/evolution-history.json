@@ -36322,5 +36322,28 @@
       "gender": "男性"
     },
     "timestamp": 1781208929406
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><rect x='150' y='200' width='100' height='150' fill='#ffc0cb'/><ellipse cx='200' cy='120' rx='60' ry='30' fill='#ff69b4'/><path d='M180 250 L200 300 L220 250 Z' fill='#ff69b4'/><ellipse cx='165' cy='140' rx='10' ry='20' fill='#000'/><ellipse cx='235' cy='140' rx='10' ry='20' fill='#000'/><rect x='160' y='280' width='80' height='20' fill='#000'/><polygon points='180,350 200,400 220,350' fill='#000'/><text x='130' y='50' font-family='Arial' font-size='20' fill='#000'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持つ女性型の生命体です。体は丸みを帯び、背中には小さな尻尾があります。顔には大きな赤い目と口があり、上半身には小さな腕が付いています。下半身は大きな足がついており、全体的に柔らかな雰囲気を醸し出しています。",
+        "reason": "イヴは自然界の力を更に取り込むため、より優れた柔らかさと可愛らしさを手に入れました。",
+        "thought": "『愛と優しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#00bfff'/><rect x='150' y='200' width='100' height='150' fill='#00a5ff'/><ellipse cx='200' cy='120' rx='60' ry='30' fill='#1e90ff'/><path d='M180 250 L200 300 L220 250 Z' fill='#1e90ff'/><ellipse cx='165' cy='140' rx='10' ry='20' fill='#000'/><ellipse cx='235' cy='140' rx='10' ry='20' fill='#000'/><line x1='160' y1='280' x2='240' y2='280' stroke='#000' stroke-width='20' stroke-linecap='round'/><polygon points='180,350 200,400 220,350' fill='#000'/><text x='130' y='50' font-family='Arial' font-size='20' fill='#000'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌を持つ男性型の生命体です。体は筋肉質で力強く、背中には小さな尻尾があります。顔には大きな青い目と口があり、上半身には太い腕が付いています。下半身は太い足がついており、全体的に力強い印象を与えます。",
+        "reason": "アダムは状況に対処する力を強化し、より強靭で頼りになる存在となりました。",
+        "thought": "『力と勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1781235251422
   }
 ]
