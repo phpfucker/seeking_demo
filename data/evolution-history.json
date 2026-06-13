@@ -36414,5 +36414,28 @@
       "gender": "男性"
     },
     "timestamp": 1781294678513
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#FFD700'/><rect x='150' y='300' width='100' height='50' fill='#FFD700'/><ellipse cx='200' cy='150' rx='50' ry='70' fill='#FFD700'/><path d='M175 220 L200 280 L225 220 Z' fill='#FFD700'/><polygon points='150,100 200,50 250,100' fill='#FFD700'/><line x1='150' y1='100' x2='250' y2='100' stroke='#000' stroke-width='2'/><line x1='150' y1='120' x2='250' y2='120' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴは、金色の体毛を持つ美しい女性型生命体です。体は黄金色の滑らかな皮膚で覆われ、長い金髪が優雅に広がっています。奇妙な形状の角を持ち、手足は人間のような形状をしています。",
+        "reason": "イヴは太陽の光を浴び、光り輝く女性へと進化しました。",
+        "thought": "『輝きを持つ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='100' width='300' height='200' fill='#4169E1'/><rect x='150' y='300' width='100' height='50' fill='#4169E1'/><ellipse cx='200' cy='150' rx='50' ry='70' fill='#4169E1'/><path d='M175 220 L200 280 L225 220 Z' fill='#4169E1'/><polygon points='150,100 200,50 250,100' fill='#4169E1'/><line x1='150' y1='100' x2='250' y2='100' stroke='#000' stroke-width='2'/><line x1='150' y1='120' x2='250' y2='120' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い体色を持つ男性型生命体です。体は深い青色で覆われ、短い青髪が頭部に生えています。頭部には角があり、手足は筋肉質で頑丈な造りとなっています。",
+        "reason": "アダムは海の神秘からインスピレーションを受け、深海の力強い男性へと進化しました。",
+        "thought": "『深海の力を宿す』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1781320914419
   }
 ]
