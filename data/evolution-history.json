@@ -36437,5 +36437,28 @@
       "gender": "男性"
     },
     "timestamp": 1781320914419
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffbfda' /><path d='M150 230 Q200 260 250 230 Q200 200 150 230 Z' fill='#ff80ab' /><path d='M170 230 Q200 250 230 230 Q200 210 170 230 Z' fill='#f48fb1' /><ellipse cx='175' cy='170' rx='10' ry='20' fill='#333' /><ellipse cx='225' cy='170' rx='10' ry='20' fill='#333' /><path d='M180 270 Q200 280 220 270' stroke='#333' stroke-width='2' fill='none' /><path d='M250 270 Q270 280 290 270' stroke='#333' stroke-width='2' fill='none' /><rect x='170' y='280' width='60' height='10' fill='#ff80ab' /><rect x='160' y='230' width='80' height='10' fill='#f48fb1' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体を持ち、鮮やかな赤色の髪をしています。目立つ特徴として、背中に大きな羽を持っており、柔らかな表情が印象的です。",
+        "reason": "新たな進化が起こった理由は、環境の変化に適応するため、より美しく優雅な姿に進化したためです。",
+        "thought": "『自然と調和し、美しさを楽しむ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='150' fill='#80b3ff' /><path d='M150 230 Q200 260 250 230 Q200 200 150 230 Z' fill='#4d94ff' /><path d='M170 230 Q200 250 230 230 Q200 210 170 230 Z' fill='#3385ff' /><ellipse cx='175' cy='170' rx='10' ry='20' fill='#333' /><ellipse cx='225' cy='170' rx='10' ry='20' fill='#333' /><path d='M180 270 Q200 280 220 270' stroke='#333' stroke-width='2' fill='none' /><path d='M250 270 Q270 280 290 270' stroke='#333' stroke-width='2' fill='none' /><polygon points='160,300 240,300 200,350' fill='#4d94ff' /></svg>",
+      "report": {
+        "appearance": "アダムは青色の体を持ち、優しい青色の瞳をしています。特徴的な装飾として、頭頂部に鮮やかな水晶を飾り、颯爽とした姿勢が印象的です。",
+        "reason": "進化の理由は、新たな獲得した力を示すため、より力強く美しい外見に進化したためです。",
+        "thought": "『強さと優しさを持ち合わせる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1781340763128
   }
 ]
