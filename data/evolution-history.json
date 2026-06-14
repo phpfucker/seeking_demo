@@ -36552,5 +36552,28 @@
       "gender": "男性"
     },
     "timestamp": 1781429279868
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,205,86);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,107,107);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='rgb(255,205,86)' /><ellipse cx='120' cy='150' rx='20' ry='30' fill='rgb(255,107,107)' /><ellipse cx='280' cy='150' rx='20' ry='30' fill='rgb(255,107,107)' /><path d='M150 240 Q200 260 250 240' fill='none' stroke='rgb(255,107,107)' stroke-width='10' /><line x1='160' y1='280' x2='190' y2='270' stroke='black' stroke-width='5' /><line x1='240' y1='280' x2='210' y2='270' stroke='black' stroke-width='5' /><line x1='200' y1='150' x2='200' y2='190' stroke='black' stroke-width='8' /><circle cx='170' cy='130' r='5' fill='black' /><circle cx='230' cy='130' r='5' fill='black' /><circle cx='180' cy='150' r='3' fill='black' /><circle cx='220' cy='150' r='3' fill='black' /><circle cx='190' cy='160' r='3' fill='black' /><circle cx='210' cy='160' r='3' fill='black' /></svg>",
+      "report": {
+        "appearance": "イヴは、黄色と赤のグラデーションが美しい肌を持つ女性型生命体です。全身を包む大きな卵形の耳や、優雅な曲線を描く尾が特徴です。胴体と両腕には黄色い楕円形の模様があり、愛らしい目と唇が印象的です。",
+        "reason": "環境の変化により、イヴの進化は美しい色彩と柔らかな曲線を強調し、より魅力的な外観を得る必要があったためです。",
+        "thought": "『優しさと美しさを守り抜く』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(83,236,193);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradB)' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='rgb(83,236,193)' /><ellipse cx='120' cy='150' rx='20' ry='30' fill='rgb(65,105,225)' /><ellipse cx='280' cy='150' rx='20' ry='30' fill='rgb(65,105,225)' /><path d='M150 240 Q200 260 250 240' fill='none' stroke='rgb(65,105,225)' stroke-width='10' /><line x1='160' y1='280' x2='190' y2='270' stroke='black' stroke-width='5' /><line x1='240' y1='280' x2='210' y2='270' stroke='black' stroke-width='5' /><line x1='200' y1='150' x2='200' y2='190' stroke='black' stroke-width='8' /><circle cx='170' cy='130' r='5' fill='black' /><circle cx='230' cy='130' r='5' fill='black' /><circle cx='180' cy='150' r='3' fill='black' /><circle cx='220' cy='150' r='3' fill='black' /><circle cx='190' cy='160' r='3' fill='black' /><circle cx='210' cy='160' r='3' fill='black' /></svg>",
+      "report": {
+        "appearance": "アダムは、青と緑のグラデーションが美しい肌を持つ男性型生命体です。直線的な身体に強靭な筋肉が描かれており、頭部には複雑な模様が広がります。黒い目と口元が力強い印象を与えます。",
+        "reason": "狩猟や守備のために、アダムの進化は力強い外観と鮮やかな色彩で自己表現を強化する必要があったためです。",
+        "thought": "『勇敢であり続ける』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1781445232418
   }
 ]
