@@ -36667,5 +36667,28 @@
       "gender": "男性"
     },
     "timestamp": 1781543483485
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='150' rx='100' ry='140' fill='#ffccd6' /><path d='M160 170 C160 50 240 50 240 170 L220 220 L180 220 Z' fill='#ff99aa' /><rect x='170' y='220' width='60' height='40' fill='#ffccd6' /><polygon points='230,220 240,220 240,260 230,260' fill='#ffccd6' /><circle cx='180' cy='200' r='10' fill='#fff' /><circle cx='220' cy='200' r='10' fill='#fff' /><path d='M180 220 Q190 240 200 220 Q210 240 220 220' fill='none' stroke='#000' stroke-width='2' /><line x1='160' y1='170' x2='240' y2='170' stroke='#000' stroke-width='2' /><line x1='160' y1='170' x2='200' y2='100' stroke='#000' stroke-width='2' /><line x1='240' y1='170' x2='200' y2='100' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の体に白い腹部を持つ女性の生命体です。顔には赤い卵形の模様があり、角を持たず、しっぽと小さな手足があります。",
+        "reason": "自然界の繁栄とバランスを保つために、新たな生態系での生存に適応するため進化しました。",
+        "thought": "『自然の美しさを感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><ellipse cx='200' cy='150' rx='100' ry='140' fill='#aad8e6' /><path d='M160 170 C160 50 240 50 240 170 L220 220 L180 220 Z' fill='#85c7dc' /><rect x='170' y='220' width='60' height='40' fill='#aad8e6' /><polygon points='230,220 240,220 240,260 230,260' fill='#aad8e6' /><circle cx='180' cy='200' r='10' fill='#fff' /><circle cx='220' cy='200' r='10' fill='#fff' /><path d='M180 220 Q190 240 200 220 Q210 240 220 220' fill='none' stroke='#000' stroke-width='2' /><line x1='160' y1='170' x2='240' y2='170' stroke='#000' stroke-width='2' /><line x1='160' y1='170' x2='200' y2='100' stroke='#000' stroke-width='2' /><line x1='240' y1='170' x2='200' y2='100' stroke='#000' stroke-width='2' /></svg>",
+      "report": {
+        "appearance": "アダムは、水色の体に白い腹部を持つ男性の生命体です。顔には青い卵形の模様があり、角を持たず、しっぽと小さな手足があります。",
+        "reason": "環境の変化に適応するため、新たな生態系での生存戦略を模索するために進化しました。",
+        "thought": "『未来への希望』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1781556661697
   }
 ]
