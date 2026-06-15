@@ -36644,5 +36644,28 @@
       "gender": "男性"
     },
     "timestamp": 1781524558305
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(255,255,0);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,0,0);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='200' cy='160' rx='100' ry='120' fill='white' /><ellipse cx='160' cy='160' rx='20' ry='30' fill='black' /><ellipse cx='240' cy='160' rx='20' ry='30' fill='black' /><path d='M180,220 Q200,280 220,220' fill='none' stroke='black' stroke-width='2' /><path d='M200,220 Q220,280 240,220' fill='none' stroke='black' stroke-width='2' /><rect x='180' y='220' width='40' height='10' fill='black' /><rect x='170' y='240' width='60' height='20' fill='white' /><polygon points='180,240 220,240 200,260' fill='black' /><polygon points='180,270 200,300 220,270' fill='black' /><circle cx='180' cy='200' r='10' fill='white' /><circle cx='220' cy='200' r='10' fill='white' /></svg>",
+      "report": {
+        "appearance": "イヴは、金色と赤色のグラデーションが美しい女性で、体は大きな円形で白色の胴体と、黒色の手足を持っています。顔には大きな黒い瞳があり、印象的な曲線の口元が特徴です。しっかりとした黒い眉と長い黒いまつ毛が顔を引き立てています。",
+        "reason": "進化の結果、イヴはより美しく、優雅な色合いと曲線を持つようになりました。これは、生存競争において美しさが適応的な利益をもたらすためです。",
+        "thought": "『輝く未来へ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:rgb(0,0,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,255,255);stop-opacity:1' /></linearGradient></defs><rect x='150' y='100' width='100' height='150' fill='url(#gradB)' /><circle cx='200' cy='250' r='50' fill='white' /><path d='M180,250 Q200,300 220,250' fill='none' stroke='black' stroke-width='2' /><path d='M170,250 Q200,290 230,250' fill='none' stroke='black' stroke-width='2' /><rect x='180' y='280' width='40' height='10' fill='black' /><polygon points='180,280 220,280 200,300' fill='black' /><polygon points='180,310 200,340 220,310' fill='black' /><circle cx='180' cy='250' r='10' fill='white' /><circle cx='220' cy='250' r='10' fill='white' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色と水色のグラデーションが美しい男性で、胴体は四角形の青色で覆われ、白い丸い顔を持っています。顔には大きな白い眼と、黒い鼻があり、顔全体が丸みを帯びています。水色の手足は力強く、青い胴体と調和しています。",
+        "reason": "アダムの進化は、より強さと力強さを象徴する色と形状に変化しました。これは、環境への適応と生存競争において有利な特徴であるためです。",
+        "thought": "『未来を切り拓く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1781543483485
   }
 ]
