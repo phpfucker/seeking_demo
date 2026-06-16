@@ -36690,5 +36690,28 @@
       "gender": "男性"
     },
     "timestamp": 1781556661697
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffb6c1'/><ellipse cx='200' cy='120' rx='80' ry='100' fill='#f0c6d2'/><path d='M200 230 l-40 70 h80z' fill='#f093b0'/><path d='M160 160 q-20 -30 0 -60 q20 30 0 60z' fill='#ffbfd4'/><path d='M200 220 q-40 -30 80 0z' fill='#d72323'/><circle cx='150' cy='120' r='20' fill='#ffffff'/><circle cx='250' cy='120' r='20' fill='#ffffff'/><circle cx='180' cy='115' r='5' fill='#000000'/><circle cx='220' cy='115' r='5' fill='#000000'/><ellipse cx='180' cy='230' rx='10' ry='5' fill='#ffffff'/><ellipse cx='220' cy='230' rx='10' ry='5' fill='#ffffff'/><line x1='170' y1='180' x2='190' y2='180' stroke-width='5' stroke='#000000'/><line x1='210' y1='180' x2='230' y2='180' stroke-width='5' stroke='#000000'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな毛皮を持ち、優雅な曲線を描く体と大きなくりくりした目が特徴の女性型生命体です。顔には赤いハート形の模様があり、耳には白いフワフワの飾り毛が生えています。",
+        "reason": "新たな進化の過程で、イヴはより華やかな外見と優美な姿を手に入れ、自らの美しさをさらに際立たせるために進化しました。",
+        "thought": "『優美なる美しき』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='100' width='160' height='200' fill='#4682b4'/><circle cx='200' cy='100' r='80' fill='#87ceeb'/><polygon points='150,300 250,300 200,380' fill='#4682b4'/><path d='M180 100 q-40 40 0 80 q40 -40 0 -80z' fill='#87ceeb'/><path d='M220 100 q40 40 0 80 q-40 -40 0 -80z' fill='#87ceeb'/><circle cx='170' cy='120' r='20' fill='#ffffff'/><circle cx='230' cy='120' r='20' fill='#ffffff'/><circle cx='180' cy='110' r='10' fill='#000000'/><circle cx='220' cy='110' r='10' fill='#000000'/><line x1='170' y1='150' x2='150' y2='200' stroke-width='5' stroke='#000000'/><line x1='230' y1='150' x2='250' y2='200' stroke-width='5' stroke='#000000'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の鱗状の皮膚を持ち、力強い四角い体と大きな水色の目が特徴の男性型生命体です。頭部には頭部には三角形の飾りとして青い角が生えています。",
+        "reason": "新たな進化の過程で、アダムはより強靭な外見と力強い体躯を手に入れ、自らの力強さをより表現するために進化しました。",
+        "thought": "『力強き未来』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1781581292727
   }
 ]
