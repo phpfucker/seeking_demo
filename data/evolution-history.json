@@ -36713,5 +36713,28 @@
       "gender": "男性"
     },
     "timestamp": 1781581292727
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#ffcc99'/><circle cx='200' cy='150' r='120' fill='#ff9966'/><circle cx='150' cy='150' r='20' fill='#ffd699'/><circle cx='250' cy='150' r='20' fill='#ffd699'/><path d='M180 200 Q200 220 220 200 Q200 180 180 200 Z' fill='#ff9966'/><path d='M150 220 Q170 240 190 220 Q170 200 150 220 Z' fill='#ff9966'/><path d='M210 220 Q230 240 250 220 Q230 200 210 220 Z' fill='#ff9966'/><polygon points='190,250 210,250 200,270' fill='#ff9966'/><polygon points='150,280 250,280 200,330' fill='#ff9966'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持つ女性で、頭部に2つの小さな耳、大きな茶色の瞳を持ちます。体はオレンジ色で、短い手足と長いしっぽがあります。胸元には小さなハート型の装飾があります。",
+        "reason": "遺伝子の進化により、イヴの体色がより鮮やかになり、装飾が華やかに変化しました。",
+        "thought": "『愛と美しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='50' y='50' width='300' height='300' fill='#6699ff'/><ellipse cx='200' cy='200' rx='100' ry='140' fill='#3366ff'/><circle cx='160' cy='150' r='15' fill='#cce0ff'/><circle cx='240' cy='150' r='15' fill='#cce0ff'/><path d='M170 240 Q200 260 230 240 Q200 220 170 240 Z' fill='#3366ff'/><path d='M160 250 Q200 280 240 250 Q200 220 160 250 Z' fill='#3366ff'/><path d='M180 160 Q205 180 230 160 Q205 140 180 160 Z' fill='#3366ff'/><polygon points='175,270 225,270 200,300' fill='#3366ff'/><line x1='150' y1='320' x2='250' y2='320' stroke='#3366ff' stroke-width='20' stroke-linecap='round'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体と濃い青色の長い毛皮を持つ男性で、頭部に大きな角、鋭い目つきを持ちます。体は丸みを帯びた形状で、手足はがっしりとした造りです。尾は短く、背中には三日月型の模様があります。",
+        "reason": "環境の変化に適応するため、アダムはより筋肉質で保護色の強い体となり、角を持つことで敵から身を守るよう進化しました。",
+        "thought": "『力と勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1781607841203
   }
 ]
