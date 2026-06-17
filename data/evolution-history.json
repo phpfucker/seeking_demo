@@ -36805,5 +36805,28 @@
       "gender": "男性"
     },
     "timestamp": 1781667681245
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='140' width='200' height='200' fill='#FFB6C1' /><ellipse cx='200' cy='100' rx='50' ry='40' fill='#F08080' /><path d='M200 140 L220 200 L180 200 Z' fill='#FFC0CB' /><circle cx='170' cy='90' r='5' fill='black' /><circle cx='230' cy='90' r='5' fill='black' /><path d='M180 160 Q200 200 220 160' stroke='black' stroke-width='2' fill='none' /><rect x='180' y='240' width='40' height='100' fill='#FFC0CB' /><rect x='160' y='240' width='80' height='20' fill='#FFB6C1' /><polygon points='180,240 200,220 220,240' fill='#F08080' /></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体に赤い顔を持ち、二つの黒い目があります。背中にはピンク色の模様として大きな赤いポリゴンがあり、腕と脚はピンク色で胴体と同系色の赤い部分があります。",
+        "reason": "新たな進化が起こった理由は、環境の変化によりイヴがより効率的にエネルギーを摂取できるように進化したためです。",
+        "thought": "『調和と美』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='140' width='200' height='200' fill='#4682B4' /><ellipse cx='200' cy='100' rx='50' ry='40' fill='#4169E1' /><path d='M200 140 L220 200 L180 200 Z' fill='#87CEFA' /><circle cx='170' cy='90' r='5' fill='black' /><circle cx='230' cy='90' r='5' fill='black' /><path d='M180 160 Q200 200 220 160' stroke='black' stroke-width='2' fill='none' /><rect x='180' y='240' width='40' height='100' fill='#87CEFA' /><rect x='160' y='240' width='80' height='20' fill='#4682B4' /><polygon points='180,240 200,220 220,240' fill='#4169E1' /></svg>",
+      "report": {
+        "appearance": "アダムは青色の体に濃い青い顔を持ち、二つの黒い目があります。背中には青色の模様として大きな薄い青いポリゴンがあり、腕と脚は青色で胴体と同系色の濃い青い部分があります。",
+        "reason": "アダムの進化は、狩りや敵からの逃走時によりスピーディーに動けるようになるために進化したためです。",
+        "thought": "『自由と力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1781693270240
   }
 ]
