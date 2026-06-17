@@ -36851,5 +36851,28 @@
       "gender": "男性"
     },
     "timestamp": 1781709454086
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='120' width='160' height='160' fill='#FFD700'/><ellipse cx='200' cy='90' rx='50' ry='70' fill='#FFD700'/><path d='M150 200 L200 260 L250 200 Z' fill='#FFD700'/><ellipse cx='170' cy='170' rx='10' ry='20' fill='#FFFFFF'/><ellipse cx='230' cy='170' rx='10' ry='20' fill='#FFFFFF'/><path d='M180 230 Q200 250 220 230' fill='none' stroke='#000' stroke-width='2'/><line x1='175' y1='195' x2='185' y2='195' stroke='#000' stroke-width='2'/><line x1='215' y1='195' x2='225' y2='195' stroke='#000' stroke-width='2'/><polygon points='190,140 210,140 200,150' fill='#FFD700'/><polygon points='170,130 190,130 180,140' fill='#FFD700'/><polygon points='210,130 230,130 220,140' fill='#FFD700'/></svg>",
+      "report": {
+        "appearance": "イヴは金色の肌を持ち、頭部に大きな黄色い楕円形の目を持ち、腹部に白い模様がある。四肢は丸くて短く、手足には鋭い爪が生えている。背中には小さな黄色い羽が生えている。",
+        "reason": "イヴは新たな生存環境への適応を目指して進化し、金色の肌や羽を持つことで視覚的なカモフラージュ効果を持つようになった。",
+        "thought": "『未来への輝かしい夢』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='120' width='160' height='160' fill='#6495ED'/><ellipse cx='200' cy='90' rx='50' ry='70' fill='#6495ED'/><path d='M150 200 L200 260 L250 200 Z' fill='#6495ED'/><ellipse cx='170' cy='170' rx='10' ry='20' fill='#FFFFFF'/><ellipse cx='230' cy='170' rx='10' ry='20' fill='#FFFFFF'/><path d='M180 230 Q200 250 220 230' fill='none' stroke='#000' stroke-width='2'/><line x1='175' y1='195' x2='185' y2='195' stroke='#000' stroke-width='2'/><line x1='215' y1='195' x2='225' y2='195' stroke='#000' stroke-width='2'/><polygon points='190,140 210,140 200,150' fill='#6495ED'/><polygon points='170,130 190,130 180,140' fill='#6495ED'/><polygon points='210,130 230,130 220,140' fill='#6495ED'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の肌を持ち、頭部に大きな青い楕円形の目を持ち、腹部に白い模様がある。四肢は丸くて短く、手足には鋭い爪が生えている。背中には小さな青い鱗が並んでいる。",
+        "reason": "アダムは獲物からの攻撃を回避するために進化し、青色の肌や鱗を持つことで摩擦を減らし、素早く逃げる能力を獲得した。",
+        "thought": "『自然と調和する力』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1781726848311
   }
 ]
