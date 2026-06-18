@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='pink'/><ellipse cx='200' cy='150' rx='80' ry='110' fill='lightcoral'/><ellipse cx='160' cy='140' rx='20' ry='35' fill='white'/><ellipse cx='240' cy='140' rx='20' ry='35' fill='white'/><path d='M200 220 Q180 230 200 240 Q220 230 200 220 Z' fill='pink'/><rect x='180' y='240' width='40' height='20' fill='pink'/><ellipse cx='170' cy='150' rx='10' ry='15' fill='black'/><ellipse cx='230' cy='150' rx='10' ry='15' fill='black'/><path d='M150 180 Q200 220 250 180' fill='none' stroke='black'/><path d='M150 170 Q200 200 250 170' fill='none' stroke='black'/><path d='M150 160 Q200 180 250 160' fill='none' stroke='black'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><rect x='100' y='220' width='200' height='80' fill='#ffb3d9' /><ellipse cx='150' cy='180' rx='30' ry='20' fill='#ff99cc' /><ellipse cx='250' cy='180' rx='30' ry='20' fill='#ff99cc' /><path d='M180,180 Q200,250 220,180 Q200,250 180,180' fill='none' stroke='#ff66b2' stroke-width='3' /><line x1='180' y1='220' x2='150' y2='250' stroke='#ff66b2' stroke-width='3' /><line x1='220' y1='220' x2='250' y2='250' stroke='#ff66b2' stroke-width='3' /><path d='M180,230 Q160,250 200,260 Q240,250 220,230' fill='none' stroke='#ff66b2' stroke-width='3' /><line x1='150' y1='220' x2='130' y2='240' stroke='#ff66b2' stroke-width='3' /><line x1='250' y1='220' x2='270' y2='240' stroke='#ff66b2' stroke-width='3' /><polygon points='180,160 190,160 200,140 210,160 220,160 200,170' fill='#ff99cc' /><circle cx='180' cy='180' r='5' fill='#000' /><circle cx='220' cy='180' r='5' fill='#000' /><circle cx='200' cy='200' r='3' fill='#000' /><text x='140' y='270' font-family='Arial' font-size='20' fill='#333'>'イヴ'</text></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の体にライトコーラル色の胴体を持つ女性の姿をしています。顔には白い目とピンクの口があり、角のような耳がついています。手はピンクで、指には黒い爪があります。",
-      "reason": "イヴは、新たな環境への適応を目指して、より柔らかく華やかな色合いを身にまといました。",
-      "thought": "『守護』"
+      "appearance": "イヴは、ピンク色の体に赤い装飾を施し、豊かな感情を表現した女性の姿をしています。頭部には二つの紫色の角があり、柔らかな表情と大きな目を持っています。胴体と腕はピンクの一体型で、手には紫の装飾が施されています。脚は長く、ピンクのヒールのような形状をしており、背中にはハート型の模様があります。",
+      "reason": "イヴは感情豊かで表情豊かな生命体を目指して進化しました。女性的な特徴と柔らかい色合いが生命体の内面を表現するために選ばれました。",
+      "thought": "『愛と美の調和』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='lightblue'/><circle cx='200' cy='110' r='20' fill='white'/><circle cx='200' cy='150' r='30' fill='white'/><circle cx='200' cy='200' r='40' fill='white'/><path d='M170 230 Q200 250 230 230' fill='none' stroke='black'/><path d='M170 220 Q200 240 230 220' fill='none' stroke='black'/><path d='M170 210 Q200 230 230 210' fill='none' stroke='black'/><ellipse cx='160' cy='100' rx='10' ry='15' fill='black'/><ellipse cx='240' cy='100' rx='10' ry='15' fill='black'/><polygon points='170,100 210,70 250,100' fill='darkblue'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#99ccff' /><rect x='140' y='220' width='120' height='80' fill='#66b3ff' /><rect x='240' y='220' width='20' height='80' fill='#66b3ff' /><polygon points='200,160 180,220 220,220' fill='#66b3ff' /><line x1='180' y1='220' x2='200' y2='250' stroke='#4d94ff' stroke-width='3' /><line x1='220' y1='220' x2='200' y2='250' stroke='#4d94ff' stroke-width='3' /><circle cx='180' cy='180' r='30' fill='#99ccff' /><circle cx='220' cy='180' r='30' fill='#99ccff' /><ellipse cx='200' cy='240' rx='20' ry='10' fill='#66b3ff' /><circle cx='200' cy='200' r='3' fill='#000' /><text x='140' y='270' font-family='Arial' font-size='20' fill='#333'>'アダム'</text></svg>",
     "report": {
-      "appearance": "アダムは、青色の体に白い丸い模様を持つ男性の姿をしています。頭部には3つの白い円が並び、顔には目と口が描かれています。手足は白く、爪には黒い模様があります。",
-      "reason": "アダムは、強さと安定感を象徴する青色を選び、模様を取り入れることで他と差別化を図りました。",
-      "thought": "『堅固』"
+      "appearance": "アダムは、青色の体に青い装飾を持ち、真剣な表情を見せる男性の姿をしています。頭には二つの青い角が付いており、大きな体と力強い腕を持っています。胴体は青と白の組み合わせで構成され、腰には青い装飾が施されています。脚は太く、青い靴を履いています。",
+      "reason": "アダムは力強く、真剣な生命体を目指して進化しました。男性的な特徴と青い色調が生命体の内面を表現するために選ばれました。",
+      "thought": "『力と知恵の調和』"
     },
     "name": "アダム",
     "gender": "男性"
