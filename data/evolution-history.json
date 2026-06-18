@@ -36943,5 +36943,28 @@
       "gender": "男性"
     },
     "timestamp": 1781794724098
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='150' rx='90' ry='120' fill='#ff99ff' /><path d='M150,250 Q200,300 250,250 Q200,200 150,250 Z' fill='#ff99ff' /><path d='M164,150 Q200,100 236,150' fill='none' stroke='#ff66ff' stroke-width='4' /><path d='M180,220 Q200,260 220,220 Q200,240 180,220 Z' fill='#ffccff' /><circle cx='180' cy='180' r='10' fill='black' /><circle cx='220' cy='180' r='10' fill='black' /><path d='M180,240 Q150,260 120,240 Q150,280 180,240 Z' fill='#ffccff' /><circle cx='150' cy='240' r='10' fill='black' /><circle cx='210' cy='240' r='10' fill='black' /><circle cx='200' cy='170' r='10' fill='black' /><circle cx='200' cy='130' r='10' fill='black' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌と紫色の髪を持つ女性型生命体です。体の中心に大きな楕円形の胴体があり、胴体からは光沢のある複数の腕が生えています。胴体の上部には繊細な紫色の頭部があり、大きな目と小さな口を持っています。腰からは細長いしっぽが伸び、全体的に優雅な印象を与えます。",
+        "reason": "イヴは環境の変化に適応するため、新しい肌の色や独特な髪の色を進化させました。また、腕の数やしっぽの存在により、より効率的に生活できるよう進化しました。",
+        "thought": "『神秘的な力を感じる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='200' width='100' height='150' fill='#66ccff' /><ellipse cx='200' cy='130' rx='60' ry='90' fill='#66ccff' /><polygon points='200,50 250,100 150,100' fill='#99ccff' /><polyline points='160,200 200,170 240,200' fill='none' stroke='#3366cc' stroke-width='4' /><line x1='160' y1='200' x2='160' y2='220' stroke='#3366cc' stroke-width='4' /><line x1='240' y1='200' x2='240' y2='220' stroke='#3366cc' stroke-width='4' /><circle cx='180' cy='150' r='10' fill='black' /><circle cx='220' cy='150' r='10' fill='black' /><circle cx='200' cy='170' r='10' fill='black' /><circle cx='200' cy='210' r='10' fill='black' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の体と頭部を持つ男性型生命体です。四角い胴体に幾何学的な腕が付いており、頭部は楕円形であり、角ばった特徴を持っています。頭部には三角形の模様が描かれ、全体的に力強い印象を与えます。",
+        "reason": "アダムは狩りや戦闘をより効果的に行うため、より頑丈な体と腕、頭部の形状を進化させました。頭部の模様は仲間とのコミュニケーションや儀式に役立ち、進化の一環となりました。",
+        "thought": "『未来への強い意志を感じる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1781814057940
   }
 ]
