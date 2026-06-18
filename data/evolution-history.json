@@ -36874,5 +36874,28 @@
       "gender": "男性"
     },
     "timestamp": 1781726848311
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='120' width='200' height='220' fill='#FFB6C1'/><ellipse cx='150' cy='150' rx='30' ry='20' fill='#FF99CC'/><ellipse cx='250' cy='150' rx='30' ry='20' fill='#FF99CC'/><path d='M160 200 Q200 250 240 200' fill='none' stroke='#663399' stroke-width='3'/><polygon points='175,300 225,300 200,350' fill='#FFB6C1'/><rect x='170' y='120' width='60' height='100' fill='#FF99CC'/><rect x='170' y='220' width='60' height='80' fill='#FF99CC'/><circle cx='180' cy='130' r='10' fill='#FFB6C1'/><circle cx='220' cy='130' r='10' fill='#FFB6C1'/><rect x='180' y='230' width='10' height='20' fill='#FFB6C1'/><rect x='210' y='230' width='10' height='20' fill='#FFB6C1'/><line x1='170' y1='200' x2='230' y2='200' stroke='#663399' stroke-width='3'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持つ女性。頭には2つのオーバル形状の耳とピンク色の髪があり、顔には幸せそうな表情が浮かんでいる。全身にはピンクと紫の調和した色彩が広がっており、愛らしい外見を持つ。",
+        "reason": "イヴは内なる美しさと穏やかさを表現するため、より柔らかでやわらかい特徴を進化させた。",
+        "thought": "『幸せと愛が溢れる』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='120' width='200' height='220' fill='#ADD8E6'/><ellipse cx='150' cy='150' rx='30' ry='20' fill='#87CEEB'/><ellipse cx='250' cy='150' rx='30' ry='20' fill='#87CEEB'/><path d='M160 200 Q200 250 240 200' fill='none' stroke='#4169E1' stroke-width='3'/><polygon points='175,300 225,300 200,350' fill='#ADD8E6'/><rect x='170' y='120' width='60' height='100' fill='#87CEEB'/><rect x='170' y='220' width='60' height='80' fill='#87CEEB'/><circle cx='180' cy='130' r='10' fill='#ADD8E6'/><circle cx='220' cy='130' r='10' fill='#ADD8E6'/><rect x='180' y='230' width='10' height='20' fill='#ADD8E6'/><rect x='210' y='230' width='10' height='20' fill='#ADD8E6'/><line x1='170' y1='200' x2='230' y2='200' stroke='#4169E1' stroke-width='3'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の爽やかな肌を持つ男性。頭には2つのオーバル形状の耳と青色の短い髪があり、表情は力強く引き締まっている。全体的に青色系の色彩が広がっており、力強さと知性を感じさせる。",
+        "reason": "アダムは内なる強さと知性を表現するため、より引き締まった特徴と知的な要素を進化させた。",
+        "thought": "『力強さと知性が光る』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1781753590018
   }
 ]
