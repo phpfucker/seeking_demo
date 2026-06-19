@@ -36966,5 +36966,28 @@
       "gender": "男性"
     },
     "timestamp": 1781814057940
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='150' rx='100' ry='120' fill='#ffd1dc'/><path d='M170,170 L130,130 L90,170 Z' fill='#ff99cc'/><path d='M230,170 L270,130 L310,170 Z' fill='#ff99cc'/><ellipse cx='160' cy='150' rx='10' ry='20' fill='#000'/><ellipse cx='240' cy='150' rx='10' ry='20' fill='#000'/><ellipse cx='200' cy='200' rx='40' ry='20' fill='#ff99cc'/><path d='M190,200 Q200,220 210,200 Z' fill='#ff99cc'/><circle cx='170' cy='150' r='10' fill='#fff'/><circle cx='230' cy='150' r='10' fill='#fff'/><circle cx='190' cy='180' r='5' fill='#000'/><circle cx='210' cy='180' r='5' fill='#000'/><path d='M160,220 Q200,240 240,220 Z' fill='#ff99cc'/><path d='M180,250 Q200,260 220,250 Z' fill='#ff99cc'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体に赤い頬を持ち、大きな目と短い脚が特徴です。背中には2つの小さな角があります。しっぽはなく、柔らかい雰囲気を漂わせます。",
+        "reason": "進化の過程で、柔らかな色合いや短い脚、角の生え方が強化され、より可愛らしい外見となりました。",
+        "thought": "『愛と優しさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#87ceeb'/><rect x='140' y='100' width='120' height='150' fill='#b0e0e6'/><polygon points='200,60 220,100 180,100' fill='#87ceeb'/><polygon points='200,300 180,250 220,250' fill='#87ceeb'/><ellipse cx='180' cy='90' rx='10' ry='15' fill='#000'/><ellipse cx='220' cy='90' rx='10' ry='15' fill='#000'/><ellipse cx='190' cy='120' rx='20' ry='10' fill='#b0e0e6'/><ellipse cx='210' cy='120' rx='20' ry='10' fill='#b0e0e6'/><rect x='180' y='150' width='40' height='20' fill='#87ceeb'/><polygon points='190,180 200,160 210,180' fill='#b0e0e6'/><rect x='180' y='220' width='40' height='30' fill='#87ceeb'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の体に水色の腹部を持ち、四角い頭と力強い脚が特徴です。腰回りには波のような模様が入っています。しっぽはなく、重厚な雰囲気を漂わせます。",
+        "reason": "進化の過程で、四角い頭や脚の力強さが強化され、より頑丈な外見となりました。",
+        "thought": "『力と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1781841330790
   }
 ]

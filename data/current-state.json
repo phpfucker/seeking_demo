@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='150' rx='100' ry='120' fill='#ffd1dc'/><path d='M170,170 L130,130 L90,170 Z' fill='#ff99cc'/><path d='M230,170 L270,130 L310,170 Z' fill='#ff99cc'/><ellipse cx='160' cy='150' rx='10' ry='20' fill='#000'/><ellipse cx='240' cy='150' rx='10' ry='20' fill='#000'/><ellipse cx='200' cy='200' rx='40' ry='20' fill='#ff99cc'/><path d='M190,200 Q200,220 210,200 Z' fill='#ff99cc'/><circle cx='170' cy='150' r='10' fill='#fff'/><circle cx='230' cy='150' r='10' fill='#fff'/><circle cx='190' cy='180' r='5' fill='#000'/><circle cx='210' cy='180' r='5' fill='#000'/><path d='M160,220 Q200,240 240,220 Z' fill='#ff99cc'/><path d='M180,250 Q200,260 220,250 Z' fill='#ff99cc'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccbb' /><ellipse cx='200' cy='180' rx='100' ry='140' fill='#ffddcc' /><path d='M160,220 Q200,300 240,220 Q200,240 160,220 Z' fill='#ffaa88' /><circle cx='170' cy='160' r='10' fill='#664422' /><circle cx='230' cy='160' r='10' fill='#664422' /><path d='M180,260 Q200,300 220,260 Q200,280 180,260 Z' fill='#996655' /><rect x='180' y='300' width='40' height='60' fill='#ffaa88' /><line x1='180' y1='300' x2='220' y2='300' stroke='#664422' stroke-width='2' /><line x1='180' y1='320' x2='220' y2='320' stroke='#664422' stroke-width='2' /><line x1='180' y1='340' x2='220' y2='340' stroke='#664422' stroke-width='2' /><text x='200' y='380' font-size='20' fill='#333' text-anchor='middle'>イヴ</text></svg>",
     "report": {
-      "appearance": "イヴはピンク色の体に赤い頬を持ち、大きな目と短い脚が特徴です。背中には2つの小さな角があります。しっぽはなく、柔らかい雰囲気を漂わせます。",
-      "reason": "進化の過程で、柔らかな色合いや短い脚、角の生え方が強化され、より可愛らしい外見となりました。",
-      "thought": "『愛と優しさ』"
+      "appearance": "イヴは、ピンクとオレンジの色合いの柔らかな毛並みを持つ女性の生命体です。体は楕円形で、体の中心にはオレンジ色の滑らかな曲線模様があり、手足は短くて丸みを帯びています。顔には大きな茶色の目と柔らかな笑みが特徴です。",
+      "reason": "イヴは、自然界の美しさと優しさを象徴する新たな特性を取り入れることで、進化しました。",
+      "thought": "『幸せな気持ち』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#87ceeb'/><rect x='140' y='100' width='120' height='150' fill='#b0e0e6'/><polygon points='200,60 220,100 180,100' fill='#87ceeb'/><polygon points='200,300 180,250 220,250' fill='#87ceeb'/><ellipse cx='180' cy='90' rx='10' ry='15' fill='#000'/><ellipse cx='220' cy='90' rx='10' ry='15' fill='#000'/><ellipse cx='190' cy='120' rx='20' ry='10' fill='#b0e0e6'/><ellipse cx='210' cy='120' rx='20' ry='10' fill='#b0e0e6'/><rect x='180' y='150' width='40' height='20' fill='#87ceeb'/><polygon points='190,180 200,160 210,180' fill='#b0e0e6'/><rect x='180' y='220' width='40' height='30' fill='#87ceeb'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#7799aa' /><ellipse cx='200' cy='180' rx='100' ry='140' fill='#88aabb' /><path d='M160,220 Q200,300 240,220 Q200,240 160,220 Z' fill='#556677' /><circle cx='170' cy='160' r='10' fill='#333' /><circle cx='230' cy='160' r='10' fill='#333' /><path d='M180,260 Q200,300 220,260 Q200,280 180,260 Z' fill='#445566' /><rect x='180' y='300' width='40' height='60' fill='#556677' /><line x1='180' y1='300' x2='220' y2='300' stroke='#333' stroke-width='2' /><line x1='180' y1='320' x2='220' y2='320' stroke='#333' stroke-width='2' /><line x1='180' y1='340' x2='220' y2='340' stroke='#333' stroke-width='2' /><text x='200' y='380' font-size='20' fill='#fff' text-anchor='middle'>アダム</text></svg>",
     "report": {
-      "appearance": "アダムは青色の体に水色の腹部を持ち、四角い頭と力強い脚が特徴です。腰回りには波のような模様が入っています。しっぽはなく、重厚な雰囲気を漂わせます。",
-      "reason": "進化の過程で、四角い頭や脚の力強さが強化され、より頑丈な外見となりました。",
-      "thought": "『力と誇り』"
+      "appearance": "アダムは、青と灰色の色調を持つ男性の生命体です。体は円形でスムーズな輪郭を持ち、背中には青い模様が入っています。四肢は筋肉質で頑丈であり、顔には冷静な表情と鋭い視線を持っています。",
+      "reason": "アダムは、知性と力強さを同時に表現する進化を遂げました。",
+      "thought": "『誇り高き存在』"
     },
     "name": "アダム",
     "gender": "男性"
