@@ -37035,5 +37035,28 @@
       "gender": "男性"
     },
     "timestamp": 1781880966882
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ff7eb9'/><ellipse cx='200' cy='100' rx='80' ry='50' fill='#ffc0cb'/><path d='M170 150 L200 100 L230 150 Z' fill='#ff7eb9'/><rect x='165' y='200' width='70' height='40' fill='#ff7eb9'/><rect x='150' y='250' width='100' height='20' fill='#ffc0cb'/><rect x='135' y='270' width='130' height='20' fill='#ff7eb9'/><ellipse cx='160' cy='320' rx='20' ry='10' fill='#ffc0cb'/><ellipse cx='240' cy='320' rx='20' ry='10' fill='#ffc0cb'/><rect x='175' y='150' width='50' height='5' fill='#000'/><rect x='225' y='150' width='50' height='5' fill='#000'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌と大きな赤い目を持つ女性です。頭部にはピンクの楕円形の耳があり、体はピンクとライトピンクの装飾で覆われています。手は小さく、足首には短いピンクの装飾があります。",
+        "reason": "進化が起こった理由は、生態系の変化による適応であり、より効率的に獲得したエネルギーを利用するためです。",
+        "thought": "『命の輝き』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#87ceeb'/><path d='M200 120 L150 150 L200 180 Z' fill='#4682b4'/><path d='M200 120 L250 150 L200 180 Z' fill='#4682b4'/><rect x='165' y='200' width='70' height='40' fill='#87ceeb'/><rect x='150' y='250' width='100' height='20' fill='#4682b4'/><rect x='135' y='270' width='130' height='20' fill='#87ceeb'/><ellipse cx='160' cy='320' rx='20' ry='10' fill='#4682b4'/><ellipse cx='240' cy='320' rx='20' ry='10' fill='#4682b4'/><rect x='175' y='150' width='50' height='5' fill='#000'/><rect x='225' y='150' width='50' height='5' fill='#000'/></svg>",
+      "report": {
+        "appearance": "アダムは、青色の皮膚と大きな青い目を持つ男性です。頭部には青色の三角形の耳があり、体は青と水色の模様で覆われています。手は小さく、足首には短い青色の模様があります。",
+        "reason": "進化が起こった理由は、環境の変化による適応であり、より効率的に生息地での生存を支援するためです。",
+        "thought": "『未来への希望』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1781898252194
   }
 ]
