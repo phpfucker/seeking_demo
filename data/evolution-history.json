@@ -37081,5 +37081,28 @@
       "gender": "男性"
     },
     "timestamp": 1781924231577
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='180' rx='120' ry='80' fill='#ff99ff' /><path d='M180,220 Q200,260 220,220' fill='none' stroke='#993399' stroke-width='5' /><rect x='170' y='160' width='60' height='20' fill='#993399' /><polygon points='200,200 180,220 220,220' fill='#ff66ff' /><line x1='180' y1='120' x2='200' y2='100' stroke='#993399' stroke-width='5' /><line x1='220' y1='120' x2='200' y2='100' stroke='#993399' stroke-width='5' /><line x1='170' y1='220' x2='160' y2='230' stroke='#993399' stroke-width='5' /><line x1='230' y1='220' x2='240' y2='230' stroke='#993399' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "イヴは、淡いピンク色の大きな円形の胴体を持ち、柔らかな紫色の楕円形の頭部を持っています。頭部には暗紫色のしっかりした口元があり、目に相当するものは描かれていません。首から胴体にかけて、紫色の曲線の模様が描かれています。四肢は短く、軽いピンクと紫のグラデーションで塗られています。",
+        "reason": "イヴは内面からの輝きを表現するために進化し、優しさと包容力をより強調するようになりました。",
+        "thought": "『やさしさ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='160' y='100' width='80' height='120' fill='#3366cc' /><rect x='165' y='100' width='70' height='20' fill='#0055cc' /><rect x='165' y='220' width='70' height='20' fill='#0055cc' /><polygon points='200,100 160,140 240,140' fill='#3366cc' /><ellipse cx='200' cy='180' rx='50' ry='70' fill='#66a3ff' /><path d='M180,220 Q200,260 220,220' fill='none' stroke='#0055cc' stroke-width='5' /><line x1='180' y1='100' x2='160' y2='80' stroke='#3366cc' stroke-width='5' /><line x1='220' y1='100' x2='240' y2='80' stroke='#3366cc' stroke-width='5' /><line x1='160' y1='220' x2='150' y2='230' stroke='#0055cc' stroke-width='5' /><line x1='240' y1='220' x2='250' y2='230' stroke='#0055cc' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "アダムは、深い青色の四角形の胴体と、青と灰色のグラデーションが入った楕円形の頭部を持っています。口元は描かれておらず、頭部の中央に小さな青い三角形があります。体の中央には青い三角形の背びれがあり、胴体には青い三角形の模様が描かれています。四肢は頑丈で短く、青と灰色のグラデーションで塗られています。",
+        "reason": "アダムは力強さと勇気を表現するために進化し、より頼りになる姿となりました。",
+        "thought": "『勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1781945348989
   }
 ]
