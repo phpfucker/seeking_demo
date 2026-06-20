@@ -37058,5 +37058,28 @@
       "gender": "男性"
     },
     "timestamp": 1781898252194
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccff' /><ellipse cx='200' cy='150' rx='80' ry='100' fill='#ffd1dc' /><ellipse cx='120' cy='150' rx='20' ry='30' fill='#ffffff' /><ellipse cx='280' cy='150' rx='20' ry='30' fill='#ffffff' /><path d='M150 220 Q200 260 250 220' stroke='#ff1493' stroke-width='3' fill='none' /><path d='M150 230 Q200 270 250 230' stroke='#ff1493' stroke-width='3' fill='none' /><path d='M150 240 Q200 280 250 240' stroke='#ff1493' stroke-width='3' fill='none' /><path d='M150 250 Q200 290 250 250' stroke='#ff1493' stroke-width='3' fill='none' /><path d='M150 260 Q200 300 250 260' stroke='#ff1493' stroke-width='3' fill='none' /><line x1='100' y1='180' x2='120' y2='160' stroke='#ff1493' stroke-width='3' /><line x1='300' y1='180' x2='280' y2='160' stroke='#ff1493' stroke-width='3' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌と大きな目を持つ女性の進化した姿です。流れるような長い髪と優雅なしっぽが特徴で、蝶のように優美な姿をしています。",
+        "reason": "新たな環境への適応により、イヴは美しさと優雅さを強調する進化を遂げました。",
+        "thought": "『優美な姿を持つ』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='50' width='100' height='150' fill='#87ceeb' /><polygon points='150,50 200,10 250,50' fill='#4682b4' /><circle cx='200' cy='200' r='100' fill='#c0c0c0' /><circle cx='170' cy='170' r='10' fill='#ffffff' /><circle cx='230' cy='170' r='10' fill='#ffffff' /><line x1='150' y1='200' x2='100' y2='250' stroke='#696969' stroke-width='3' /><line x1='250' y1='200' x2='300' y2='250' stroke='#696969' stroke-width='3' /><circle cx='150' cy='250' r='15' fill='#4682b4' /><circle cx='250' cy='250' r='15' fill='#4682b4' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い体と頑丈な腕を持つ男性の進化した姿です。頭部には鋭い角が生え、重厚な体つきと力強い足が特徴です。",
+        "reason": "厳しい環境での競争に適応するため、アダムは力強い姿と頑丈な体を持つ進化を遂げました。",
+        "thought": "『力強い者』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1781924231577
   }
 ]
