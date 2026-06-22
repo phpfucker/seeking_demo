@@ -37311,5 +37311,28 @@
       "gender": "男性"
     },
     "timestamp": 1782146897525
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#ffccff' /><ellipse cx='200' cy='140' rx='100' ry='140' fill='#ffcce6' /><circle cx='150' cy='140' r='20' fill='#fff' /><circle cx='250' cy='140' r='20' fill='#fff' /><circle cx='160' cy='135' r='10' fill='#ff66b2' /><circle cx='240' cy='135' r='10' fill='#ff66b2' /><polygon points='180,160 190,160 200,200 210,160 220,160' fill='#ffccff' /><rect x='185' y='200' width='30' height='50' fill='#ffccff' /><polygon points='170,250 190,230 210,230 230,250' fill='#ffccff' /><line x1='170' y1='250' x2='230' y2='250' stroke='#99004d' stroke-width='3' /><path d='M150,200 Q200,300 250,200' fill='none' stroke='#99004d' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "イヴは、大きなピンクの円形の体に、やわらかいピンク色の楕円形の顔を持つ。白い目とほっそりとした二つの腕があり、胴体には薄いピンク色の三角形の模様がある。しなやかな尾と紫色の角が特徴的である。",
+        "reason": "生態系の変化により、イヴは柔らかな美しさと優しさを持つ姿に進化した。",
+        "thought": "『平和と愛を守りたい』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#b3ffff' /><ellipse cx='200' cy='140' rx='100' ry='140' fill='#99e6ff' /><circle cx='150' cy='140' r='20' fill='#fff' /><circle cx='250' cy='140' r='20' fill='#fff' /><circle cx='175' cy='140' r='15' fill='#4da6ff' /><circle cx='225' cy='140' r='15' fill='#4da6ff' /><polygon points='180,160 190,160 200,200 210,160 220,160' fill='#b3ffff' /><rect x='185' y='200' width='30' height='50' fill='#b3ffff' /><polygon points='170,250 190,230 210,230 230,250' fill='#b3ffff' /><line x1='170' y1='250' x2='230' y2='250' stroke='#005cb3' stroke-width='3' /><path d='M150,200 Q200,300 250,200' fill='none' stroke='#005cb3' stroke-width='5' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い円形の体と青色の楕円形の顔を持つ。白い目とほっそりとした二つの腕があり、胴体には濃い青色の三角形の模様がある。しなやかな尾と青い角が特徴的である。",
+        "reason": "環境の変化により、アダムは冷静な知性と力強さを兼ね備えた姿に進化した。",
+        "thought": "『未来に希望を』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1782160840568
   }
 ]
