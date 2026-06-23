@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ff9b9b'/><ellipse cx='200' cy='170' rx='50' ry='70' fill='#ffc4a3'/><path d='M185,210 L200,280 L215,210 Z' fill='#ffc4a3'/><circle cx='150' cy='200' r='12' fill='#5c4e65'/><circle cx='250' cy='200' r='12' fill='#5c4e65'/><polygon points='180,150 200,140 220,150' fill='#5c4e65'/><polygon points='190,170 200,180 210,170' fill='#5c4e65'/><ellipse cx='170' cy='230' rx='10' ry='5' fill='#5c4e65'/><ellipse cx='230' cy='230' rx='10' ry='5' fill='#5c4e65'/><path d='M180,270 Q200,300 220,270 Q200,310 180,270 Z' fill='#5c4e65'/><path d='M150,200 Q140,240 150,280 Q170,260 200,280 Q230,260 250,280 Q260,240 250,200 Q230,220 200,200 Q170,220 150,200 Z' fill='#ffb6b9'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#ff7eb9' /><ellipse cx='200' cy='100' rx='80' ry='60' fill='#ffb6d9' /><circle cx='150' cy='180' r='20' fill='#ffdfba' /><circle cx='250' cy='180' r='20' fill='#ffdfba' /><path d='M170 220 Q200 240 230 220' stroke='#ff7eb9' stroke-width='4' fill='none' /><path d='M210 220 Q200 240 190 220' stroke='#ff7eb9' stroke-width='4' fill='none' /><path d='M180 170 Q200 160 220 170' stroke='#ff7eb9' stroke-width='4' fill='none' /><path d='M170 280 Q200 300 230 280' stroke='#ff7eb9' stroke-width='4' fill='none' /><polygon points='190,140 200,130 210,140' fill='#000' /><polygon points='185,140 200,120 215,140' fill='#000' /><line x1='180' y1='270' x2='220' y2='270' stroke='#000' stroke-width='4' /><line x1='150' y1='350' x2='200' y2='310' stroke='#ff7eb9' stroke-width='4' /><line x1='250' y1='350' x2='200' y2='310' stroke='#ff7eb9' stroke-width='4' /></svg>",
     "report": {
-      "appearance": "イヴはピンク色の体にオレンジ色の長い耳を持つ女性。小さな紫色の目が特徴で、白い装飾のある胴体がしなやかな曲線を描いている。",
-      "reason": "新たな進化が、生命の多様性を追求するために起こった。",
-      "thought": "『変化と美しさの調和』"
+      "appearance": "イヴは、ピンク色の大きな体に、愛らしい卵形の顔と柔らかい笑顔を持つ女性の姿をしています。顔には二つの大きな瞳と小さな口元があり、頭部には長いピンク色の角が2本生えています。四肢は短くて丸みを帯び、手足には小さな丸い指先があります。体全体には淡いピンクとオレンジのグラデーションが施され、愛らしい雰囲気が漂います。",
+      "reason": "イヴは新たな進化を遂げ、より優れたコミュニケーション能力と温かさを持つようになりました。その姿は他者との絆や愛情をより深く感じられるようになるために進化した結果です。",
+      "thought": "『愛と優しさ』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#94d3a2'/><ellipse cx='200' cy='170' rx='50' ry='70' fill='#f4d06f'/><path d='M185,210 L200,280 L215,210 Z' fill='#f4d06f'/><circle cx='150' cy='200' r='12' fill='#5c4e65'/><circle cx='250' cy='200' r='12' fill='#5c4e65'/><polygon points='180,150 200,140 220,150' fill='#5c4e65'/><polygon points='190,170 200,180 210,170' fill='#5c4e65'/><ellipse cx='170' cy='230' rx='10' ry='5' fill='#5c4e65'/><ellipse cx='230' cy='230' rx='10' ry='5' fill='#5c4e65'/><path d='M180,270 Q200,300 220,270 Q200,310 180,270 Z' fill='#5c4e65'/><path d='M150,200 Q140,240 150,280 Q170,260 200,280 Q230,260 250,280 Q260,240 250,200 Q230,220 200,200 Q170,220 150,200 Z' fill='#94d3a2'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='150' width='200' height='200' fill='#7aa6ff' /><ellipse cx='200' cy='100' rx='80' ry='60' fill='#b6d2ff' /><circle cx='150' cy='180' r='20' fill='#bae4ff' /><circle cx='250' cy='180' r='20' fill='#bae4ff' /><path d='M170 220 Q200 240 230 220' stroke='#7aa6ff' stroke-width='4' fill='none' /><path d='M210 220 Q200 240 190 220' stroke='#7aa6ff' stroke-width='4' fill='none' /><path d='M180 170 Q200 160 220 170' stroke='#7aa6ff' stroke-width='4' fill='none' /><path d='M170 280 Q200 300 230 280' stroke='#7aa6ff' stroke-width='4' fill='none' /><polygon points='190,140 200,130 210,140' fill='#000' /><polygon points='185,140 200,120 215,140' fill='#000' /><line x1='180' y1='270' x2='220' y2='270' stroke='#000' stroke-width='4' /><line x1='150' y1='350' x2='200' y2='310' stroke='#7aa6ff' stroke-width='4' /><line x1='250' y1='350' x2='200' y2='310' stroke='#7aa6ff' stroke-width='4' /></svg>",
     "report": {
-      "appearance": "アダムは緑色の体に黄色の大きな耳を持つ男性。黒い目と黄色の顔がコントラストを生み出し、緑色の胴体には細かい模様が施されている。",
-      "reason": "進化は個体の生存戦略に基づいて進行し、アダムは環境への適応を果たした。",
-      "thought": "『変化を受け入れる強さ』"
+      "appearance": "アダムは、青色の大きな体にやさしい卵形の顔と穏やかな表情を持つ男性の姿をしています。顔には二つの柔らかい瞳と微笑む口元があり、頭部には短い青色の角が2本生えています。四肢はがっしりとしており、手足には丸みを帯びた指先があります。体表面は淡い青色と水色のグラデーションで彩られ、穏やかで包容力のある雰囲気を醸し出しています。",
+      "reason": "アダムは内面の成熟と穏やかさが増し、他者との調和やリーダーシップをより効果的に発揮できるようになりました。進化した姿は、より幅広い視点と包括的な思考力を持つために適応した結果です。",
+      "thought": "『穏やかな調和』"
     },
     "name": "アダム",
     "gender": "男性"

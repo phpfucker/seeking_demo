@@ -37357,5 +37357,28 @@
       "gender": "男性"
     },
     "timestamp": 1782183086538
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ff9b9b'/><ellipse cx='200' cy='170' rx='50' ry='70' fill='#ffc4a3'/><path d='M185,210 L200,280 L215,210 Z' fill='#ffc4a3'/><circle cx='150' cy='200' r='12' fill='#5c4e65'/><circle cx='250' cy='200' r='12' fill='#5c4e65'/><polygon points='180,150 200,140 220,150' fill='#5c4e65'/><polygon points='190,170 200,180 210,170' fill='#5c4e65'/><ellipse cx='170' cy='230' rx='10' ry='5' fill='#5c4e65'/><ellipse cx='230' cy='230' rx='10' ry='5' fill='#5c4e65'/><path d='M180,270 Q200,300 220,270 Q200,310 180,270 Z' fill='#5c4e65'/><path d='M150,200 Q140,240 150,280 Q170,260 200,280 Q230,260 250,280 Q260,240 250,200 Q230,220 200,200 Q170,220 150,200 Z' fill='#ffb6b9'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の体にオレンジ色の長い耳を持つ女性。小さな紫色の目が特徴で、白い装飾のある胴体がしなやかな曲線を描いている。",
+        "reason": "新たな進化が、生命の多様性を追求するために起こった。",
+        "thought": "『変化と美しさの調和』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#94d3a2'/><ellipse cx='200' cy='170' rx='50' ry='70' fill='#f4d06f'/><path d='M185,210 L200,280 L215,210 Z' fill='#f4d06f'/><circle cx='150' cy='200' r='12' fill='#5c4e65'/><circle cx='250' cy='200' r='12' fill='#5c4e65'/><polygon points='180,150 200,140 220,150' fill='#5c4e65'/><polygon points='190,170 200,180 210,170' fill='#5c4e65'/><ellipse cx='170' cy='230' rx='10' ry='5' fill='#5c4e65'/><ellipse cx='230' cy='230' rx='10' ry='5' fill='#5c4e65'/><path d='M180,270 Q200,300 220,270 Q200,310 180,270 Z' fill='#5c4e65'/><path d='M150,200 Q140,240 150,280 Q170,260 200,280 Q230,260 250,280 Q260,240 250,200 Q230,220 200,200 Q170,220 150,200 Z' fill='#94d3a2'/></svg>",
+      "report": {
+        "appearance": "アダムは緑色の体に黄色の大きな耳を持つ男性。黒い目と黄色の顔がコントラストを生み出し、緑色の胴体には細かい模様が施されている。",
+        "reason": "進化は個体の生存戦略に基づいて進行し、アダムは環境への適応を果たした。",
+        "thought": "『変化を受け入れる強さ』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1782207120938
   }
 ]
