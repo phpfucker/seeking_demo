@@ -37334,5 +37334,28 @@
       "gender": "男性"
     },
     "timestamp": 1782160840568
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffafaf'/><circle cx='200' cy='200' r='80' fill='#ffcccc'/><path d='M150 300 C130 340, 270 340, 250 300' fill='none' stroke='#ff6666' stroke-width='3'/><ellipse cx='160' cy='180' rx='15' ry='25' fill='#ff6666'/><ellipse cx='240' cy='180' rx='15' ry='25' fill='#ff6666'/><polygon points='190,240 210,240 200,260' fill='#ff6666'/><rect x='170' y='320' width='60' height='30' fill='#ffcccc'/><rect x='150' y='320' width='20' height='50' fill='#ffcccc'/><rect x='230' y='320' width='20' height='50' fill='#ffcccc'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持ち、大きな赤い目と円形の頭部を持つ女性の姿をしています。体はピンク色で、赤い輪郭線が特徴的です。手は3本指で、足は幅広い形状です。尾はなく、代わりに背中に小さな赤い模様があります。",
+        "reason": "イヴは環境の変化により、より柔らかな色調と円形の特徴を進化させました。赤い目は感情豊かさを表し、柔らかいピンク色は穏やかな性格を示しています。",
+        "thought": "『愛と思いやり』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#a0c4ff'/><circle cx='200' cy='200' r='80' fill='#b3d1ff'/><path d='M150 300 C130 340, 270 340, 250 300' fill='none' stroke='#668cff' stroke-width='3'/><ellipse cx='160' cy='180' rx='15' ry='25' fill='#668cff'/><ellipse cx='240' cy='180' rx='15' ry='25' fill='#668cff'/><polygon points='190,240 210,240 200,260' fill='#668cff'/><line x1='170' y1='320' x2='230' y2='320' stroke='#b3d1ff' stroke-width='20'/><rect x='170' y='320' width='60' height='30' fill='#a0c4ff'/></svg>",
+      "report": {
+        "appearance": "アダムは、青い肌を持ち、大きな青い目と円形の頭部を持つ男性の姿をしています。体は青色で、青い輪郭線が特徴的です。手は3本指で、幅広い足があります。尾はなく、代わりに青い模様が背中にあります。",
+        "reason": "アダムは環境の変化により、より青い色調と円形の特徴を進化させました。青い目は知性を表し、青い肌は冷静な性格を示しています。",
+        "thought": "『知恵と勇気』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1782183086538
   }
 ]
