@@ -37426,5 +37426,28 @@
       "gender": "男性"
     },
     "timestamp": 1782244584395
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcccb'/><circle cx='200' cy='150' r='80' fill='#ffc0cb'/><circle cx='150' cy='160' r='10' fill='#000'/><circle cx='250' cy='160' r='10' fill='#000'/><path d='M180 220 Q200 240 220 220' stroke='#000' stroke-width='3' fill='none'/><path d='M150 250 Q200 290 250 250' stroke='#000' stroke-width='3' fill='none'/><line x1='190' y1='200' x2='210' y2='200' stroke='#000' stroke-width='3'/><line x1='170' y1='250' x2='230' y2='250' stroke='#000' stroke-width='3'/><line x1='140' y1='190' x2='160' y2='210' stroke='#000' stroke-width='3'/><line x1='240' y1='210' x2='260' y2='190' stroke='#000' stroke-width='3'/><line x1='190' y1='300' x2='210' y2='300' stroke='#000' stroke-width='3'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の柔らかな肌を持ち、大きな赤い目が特徴です。体は丸く、手足は短く、愛らしい姿をしています。",
+        "reason": "環境の変化から、イヴはより親しみやすい外見を持つように進化しました。",
+        "thought": "『優しさが私たちを繋いでいく』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#add8e6'/><ellipse cx='200' cy='200' rx='80' ry='120' fill='#87ceeb'/><circle cx='180' cy='170' r='10' fill='#000'/><circle cx='220' cy='170' r='10' fill='#000'/><polygon points='200,240 220,260 180,260' fill='#000'/><line x1='180' y1='230' x2='185' y2='240' stroke='#000' stroke-width='3'/><line x1='220' y1='230' x2='215' y2='240' stroke='#000' stroke-width='3'/><line x1='170' y1='170' x2='190' y2='170' stroke='#000' stroke-width='3'/><line x1='210' y1='170' x2='230' y2='170' stroke='#000' stroke-width='3'/><line x1='190' y1='300' x2='210' y2='300' stroke='#000' stroke-width='3'/></svg>",
+      "report": {
+        "appearance": "アダムは青い体と長い水色の尾を持つ。体は楕円形で、大きな青い眼と丸い頭が特徴的です。",
+        "reason": "アダムは狩猟の能力を高めるため、より水中での機動性を持つように進化しました。",
+        "thought": "『未来は自分次第』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1782269526636
   }
 ]
