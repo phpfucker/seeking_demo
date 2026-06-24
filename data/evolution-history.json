@@ -37449,5 +37449,28 @@
       "gender": "男性"
     },
     "timestamp": 1782269526636
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#ffccff' /><rect x='130' y='220' width='140' height='130' fill='#ffd1dc' /><ellipse cx='200' cy='140' rx='50' ry='30' fill='#ffc0cb' /><path d='M150 220 L100 300 L130 240 Z' fill='#ffb6c1' /><path d='M250 220 L300 300 L270 240 Z' fill='#ffb6c1' /><polygon points='150,220 130,240 170,240' fill='#ff99cc' /><polygon points='250,220 270,240 230,240' fill='#ff99cc' /><circle cx='160' cy='160' r='20' fill='#ffcccc' /><circle cx='240' cy='160' r='20' fill='#ffcccc' /><ellipse cx='160' cy='160' rx='7' ry='10' fill='#996699' /><ellipse cx='240' cy='160' rx='7' ry='10' fill='#996699' /><rect x='170' y='260' width='60' height='15' fill='#ffcccc' /><rect x='170' y='280' width='60' height='15' fill='#ffcccc' /><rect x='170' y='300' width='60' height='15' fill='#ffcccc' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の肌と赤い服を身にまとった女性で、繊細な特徴と柔らかな表情を持っています。体の一部には明るいピンク色の模様が描かれ、優雅さと妖艶さを併せ持っています。",
+        "reason": "進化の過程で、イヴはより美しさと優しさを表現するため、肌の色や服の色、模様を変化させました。",
+        "thought": "『愛と美しさが全てを作り出す』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='180' fill='#99ccff' /><rect x='130' y='220' width='140' height='130' fill='#aec6cf' /><ellipse cx='200' cy='140' rx='50' ry='30' fill='#a4c2c5' /><path d='M150 220 L100 300 L130 240 Z' fill='#99afb9' /><path d='M250 220 L300 300 L270 240 Z' fill='#99afb9' /><polygon points='150,220 130,240 170,240' fill='#66a5ad' /><polygon points='250,220 270,240 230,240' fill='#66a5ad' /><circle cx='160' cy='160' r='20' fill='#b0c4de' /><circle cx='240' cy='160' r='20' fill='#b0c4de' /><ellipse cx='160' cy='160' rx='7' ry='10' fill='#6688aa' /><ellipse cx='240' cy='160' rx='7' ry='10' fill='#6688aa' /><line x1='170' y1='260' x2='230' y2='260' stroke='#b0c4de' stroke-width='12' /><line x1='170' y1='280' x2='230' y2='280' stroke='#b0c4de' stroke-width='12' /><line x1='170' y1='300' x2='230' y2='300' stroke='#b0c4de' stroke-width='12' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い肌と灰色の服を身にまとった男性で、力強い特徴と落ち着いた表情を持っています。体の一部には青と灰色の模様が描かれ、知性と力強さを象徴しています。",
+        "reason": "進化の過程で、アダムはより知性と力強さを表現するため、肌の色や服の色、模様を変化させました。",
+        "thought": "『知性と力強さが未来を切り開く』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1782292870859
   }
 ]
