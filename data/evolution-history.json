@@ -37495,5 +37495,28 @@
       "gender": "男性"
     },
     "timestamp": 1782310936410
+  },
+  {
+    "entityA": {
+      "svg": "<svg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'><circle cx='200' cy='200' r='150' fill='pink' /><ellipse cx='200' cy='200' rx='100' ry='140' fill='lightcoral' /><rect x='150' y='250' width='100' height='50' fill='lightcoral' /><rect x='180' y='250' width='40' height='30' fill='pink' /><circle cx='170' cy='170' r='10' fill='darkpink' /><circle cx='230' cy='170' r='10' fill='darkpink' /><path d='M180 220 Q200 250 220 220' stroke='black' fill='none' /><path d='M180 220 Q200 210 220 220' stroke='black' fill='none' /><ellipse cx='185' cy='190' rx='8' ry='5' fill='white' /><ellipse cx='215' cy='190' rx='8' ry='5' fill='white' /><polygon points='180,250 220,250 200,300' fill='lightcoral' /><polygon points='180,250 220,250 200,220' fill='pink' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとライトコーラルの色合いの柔らかな体に、大きな目と繊細な特徴を持つ女性型生命体です。頭部には二つの小さな角があり、優美なしっぽが揺れます。",
+        "reason": "イヴは感性と知性の進化から、美しさと優しさが融合した新たな姿へ進化しました。",
+        "thought": "『愛と包容』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'><circle cx='200' cy='200' r='150' fill='lightblue' /><ellipse cx='200' cy='200' rx='100' ry='140' fill='skyblue' /><rect x='150' y='250' width='100' height='50' fill='skyblue' /><rect x='180' y='250' width='40' height='30' fill='lightblue' /><circle cx='170' cy='170' r='10' fill='blue' /><circle cx='230' cy='170' r='10' fill='blue' /><path d='M180 220 Q200 250 220 220' stroke='black' fill='none' /><path d='M180 220 Q200 210 220 220' stroke='black' fill='none' /><ellipse cx='185' cy='190' rx='8' ry='5' fill='white' /><ellipse cx='215' cy='190' rx='8' ry='5' fill='white' /><polygon points='180,250 220,250 200,300' fill='skyblue' /><polygon points='180,250 220,250 200,220' fill='lightblue' /></svg>",
+      "report": {
+        "appearance": "アダムは、ライトブルーとスカイブルーの色調を持つ男性型生命体で、精悍な特徴と力強い体つきを誇ります。角のある頭部と流麗なしっぽが特徴的です。",
+        "reason": "アダムは知性と力強さの進化によって、優れた身体能力とカリスマ性を兼ね備えた新たな進化を遂げました。",
+        "thought": "『勇気と誇り』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1782330071559
   }
 ]
