@@ -37564,5 +37564,28 @@
       "gender": "男性"
     },
     "timestamp": 1782377696456
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccbb' /><ellipse cx='150' cy='180' rx='40' ry='25' fill='#ffd699' /><ellipse cx='250' cy='180' rx='40' ry='25' fill='#ffd699' /><path d='M200,200 L180,220 L220,220 Z' fill='#ff9999' /><rect x='180' y='250' width='40' height='25' fill='#ffccbb' /><rect x='180' y='275' width='40' height='10' fill='#ffd699' /><rect x='180' y='160' width='40' height='10' fill='#ffd699' /><line x1='190' y1='175' x2='200' y2='175' stroke='#000' stroke-width='2' /><line x1='210' y1='175' x2='220' y2='175' stroke='#000' stroke-width='2' /><polygon points='190,190 210,190 200,205' fill='#ff9999' /><polygon points='180,150 220,150 200,130' fill='#ffccbb' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとオレンジの柔らかな色合いの肌を持つ女性で、大きな円形の体に楕円形の耳、赤い口元と頬、グリーンの目を持ちます。頭部には角状の突起物があり、体の下部には尾があります。手足は丸みを帯びた形状で、全体的に柔らかな印象を与えます。",
+        "reason": "イヴは新たな環境に適応するため、柔らかな色彩と丸みを帯びた特徴を持つよう進化しました。",
+        "thought": "『命という奇跡』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='100' width='100' height='200' fill='#6688ff' /><circle cx='200' cy='80' r='30' fill='#99bbff' /><circle cx='185' cy='90' r='5' fill='#fff' /><circle cx='215' cy='90' r='5' fill='#fff' /><ellipse cx='170' cy='160' rx='10' ry='35' fill='#99bbff' /><ellipse cx='230' cy='160' rx='10' ry='35' fill='#99bbff' /><polygon points='150,100 200,50 250,100' fill='#6688ff' /><line x1='160' y1='100' x2='160' y2='50' stroke='#000' stroke-width='2' /><line x1='240' y1='100' x2='240' y2='50' stroke='#000' stroke-width='2' /><ellipse cx='200' cy='220' rx='30' ry='15' fill='#6688ff' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色系の体色を持つ男性で、四角い体に楕円形の耳、青い眼、白い目玉を持ちます。頭部には角状の突起物があり、手足は太く短い形状です。背中には青いしっぽがあり、全体的に力強い印象を与えます。",
+        "reason": "アダムは生存競争において、力強い体つきと鮮やかな青色が有利であるため、この進化が起こりました。",
+        "thought": "『未来への闘志』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1782397393630
   }
 ]
