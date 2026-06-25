@@ -37587,5 +37587,28 @@
       "gender": "男性"
     },
     "timestamp": 1782397393630
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='200' width='160' height='160' fill='#ffb6c1'/><ellipse cx='200' cy='100' rx='80' ry='100' fill='#ff69b4'/><path d='M200,200 L150,260 L250,260 Z' fill='#ff1493'/><path d='M180,150 Q200,250 220,150 Z' fill='#ff69b4'/><line x1='175' y1='160' x2='155' y2='140' stroke='#000' stroke-width='2'/><line x1='225' y1='160' x2='245' y2='140' stroke='#000' stroke-width='2'/><line x1='160' y1='240' x2='140' y2='230' stroke='#000' stroke-width='2'/><line x1='240' y1='240' x2='260' y2='230' stroke='#000' stroke-width='2'/><line x1='160' y1='320' x2='140' y2='330' stroke='#000' stroke-width='2'/><line x1='240' y1='320' x2='260' y2='330' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の華やかな体を持ち、頭部は赤色の半球状で、大きな目と小さな口を持つ。四肢は柔らかなピンク色で、手足の先には薄いピンクの蹄がある。背中にはピンク色のふわふわした翼があり、優雅なしっぽがある。",
+        "reason": "生存環境の変化により、華やかな色と柔らかな特徴を持つイヴが生まれた。",
+        "thought": "『花々の中で舞い踊る』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='120' y='200' width='160' height='160' fill='#4682b4'/><ellipse cx='200' cy='100' rx='80' ry='100' fill='#4169e1'/><polygon points='200,200 170,260 230,260' fill='#0000cd'/><rect x='182' y='150' width='36' height='100' fill='#4169e1'/><line x1='175' y1='160' x2='155' y2='140' stroke='#000' stroke-width='2'/><line x1='225' y1='160' x2='245' y2='140' stroke='#000' stroke-width='2'/><line x1='160' y1='240' x2='140' y2='230' stroke='#000' stroke-width='2'/><line x1='240' y1='240' x2='260' y2='230' stroke='#000' stroke-width='2'/><line x1='160' y1='320' x2='140' y2='330' stroke='#000' stroke-width='2'/><line x1='240' y1='320' x2='260' y2='330' stroke='#000' stroke-width='2'/></svg>",
+      "report": {
+        "appearance": "アダムは青色の体を持ち、頭部は濃い青色で、鋭い目と大きな口を持つ。四肢は頑丈な青色で、手足の先には黒い爪がある。背中には濃い青色の堅い甲殻があり、力強いしっぽがある。",
+        "reason": "新たな捕食者の出現に対抗するため、力強く頑丈な特徴を持つアダムが進化した。",
+        "thought": "『荒野を駆ける』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1782417242400
   }
 ]
