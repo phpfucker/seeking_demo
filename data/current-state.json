@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffccd6'/><circle cx='200' cy='180' r='130' fill='#ffd6e2'/><ellipse cx='160' cy='200' rx='25' ry='40' fill='#ffccd6'/><ellipse cx='240' cy='200' rx='25' ry='40' fill='#ffccd6'/><path d='M200 210 Q150 230 200 250 Q250 230 200 210 Z' fill='#ff99aa'/><circle cx='175' cy='190' r='10' fill='#774447'/><circle cx='225' cy='190' r='10' fill='#774447'/><polyline points='190 220 200 230 210 220' fill='none' stroke='#774447' stroke-width='3'/><polyline points='160 200 140 190 160 180' fill='none' stroke='#774447' stroke-width='3'/><polyline points='240 200 260 190 240 180' fill='none' stroke='#774447' stroke-width='3'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,192,203);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,105,180);stop-opacity:1' /></linearGradient></defs><circle cx='200' cy='200' r='150' fill='url(#gradA)' /><ellipse cx='200' cy='140' rx='70' ry='90' fill='rgb(255,192,203)' /><ellipse cx='165' cy='140' rx='20' ry='30' fill='white' /><ellipse cx='235' cy='140' rx='20' ry='30' fill='white' /><path d='M180 200 L220 200 L200 240 Z' fill='white' /><path d='M160 250 Q200 280 240 250' stroke='black' stroke-width='2' fill='none' /><path d='M145 270 Q200 320 255 270' stroke='black' stroke-width='2' fill='none' /><path d='M170 220 Q200 260 230 220' stroke='black' stroke-width='2' fill='none' /><path d='M190 220 L180 230 L170 220' fill='black' /><path d='M210 220 L220 230 L230 220' fill='black' /><path d='M160 180 L180 180 L170 175 Z' fill='black' /><path d='M240 175 L220 180 L230 180 Z' fill='black' /><path d='M170 130 Q200 100 230 130' stroke='black' stroke-width='2' fill='none' /><path d='M180 140 Q200 120 220 140' stroke='black' stroke-width='2' fill='none' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンク色の柔らかな肌を持つ女性型生命体です。体の中央には淡いピンク色の胸部があり、丸い顔にはやわらかい色調の特徴的な頬があります。体は曲線的で滑らかな形状を持ち、可憐な雰囲気を醸し出しています。",
-      "reason": "新たな進化が起こり、より柔らかく優雅な特徴を持つようになりました。",
-      "thought": "『優しさと美しさを宿す』"
+      "appearance": "イヴは、ピンク色の柔らかな毛並みを持つ女性の姿をしています。頭部には白い眼と口、猫耳のような耳があり、優雅なしっぽが垂れ下がっています。複雑な模様やグラデーションで彩られた体は、優しさと美しさを感じさせます。",
+      "reason": "進化の過程で、美しさと柔らかさを持つ新たな特徴が優先されました。環境への適応と共に、優雅な姿が生存に有利な要素となりました。",
+      "thought": "『優しさと美しさを守りたい』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='150' width='100' height='100' fill='#aac9ff'/><rect x='170' y='130' width='60' height='60' fill='#b5d6ff'/><rect x='190' y='120' width='20' height='40' fill='#aac9ff'/><rect x='190' y='160' width='20' height='40' fill='#aac9ff'/><rect x='180' y='110' width='10' height='20' fill='#b5d6ff'/><rect x='210' y='110' width='10' height='20' fill='#b5d6ff'/><polygon points='200,250 150,200 250,200' fill='#6699cc'/><circle cx='160' cy='220' r='10' fill='#446699'/><circle cx='240' cy='220' r='10' fill='#446699'/><path d='M175 210 Q200 250 225 210 Q200 220 175 210 Z' fill='#336699'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(173,216,230);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(65,105,225);stop-opacity:1' /></linearGradient></defs><rect x='140' y='100' width='120' height='180' fill='url(#gradB)' /><rect x='140' y='100' width='120' height='60' fill='rgb(255,165,0)' /><path d='M200 90 L160 140 L200 190 L240 140 Z' fill='rgb(255,165,0)' /><ellipse cx='160' cy='140' rx='15' ry='30' fill='white' /><ellipse cx='240' cy='140' rx='15' ry='30' fill='white' /><rect x='185' y='190' width='30' height='10' fill='white' /><path d='M140 280 Q200 320 260 280' stroke='black' stroke-width='2' fill='none' /><ellipse cx='185' cy='280' rx='10' ry='20' fill='rgb(139,69,19)' /><ellipse cx='215' cy='280' rx='10' ry='20' fill='rgb(139,69,19)' /><path d='M160 90 L140 110 L160 130 Z' fill='rgb(139,69,19)' /><path d='M240 90 L220 110 L240 130 Z' fill='rgb(139,69,19)' /></svg>",
     "report": {
-      "appearance": "アダムは、ブルー色の頑丈な体躯を持つ男性型生命体です。四角い形状の体には複数の角や隆起があり、頭部は丸くて大きく、顔には強い輪郭が特徴的です。力強い雰囲気を持ち、安定感のある外観をしています。",
-      "reason": "進化の過程で、より頑丈で強靭な特徴が強調され、生存能力が高まりました。",
-      "thought": "『力と安定の象徴』"
+      "appearance": "アダムは、オレンジ色の体と青色の頭部を持つ男性の姿をしています。四角い頭部には白い眼と口、耳のような突起があり、たくましい腕と脚が特徴です。褐色の蹄と尾は力強さを象徴しています。",
+      "reason": "進化の過程で、力強さと堅牢さを持つ新たな特徴が優先されました。厳しい環境での生存に必要な要素として、頑丈な体つきが選ばれました。",
+      "thought": "『力強さと堅牢さを誇りに思う』"
     },
     "name": "アダム",
     "gender": "男性"
