@@ -37679,5 +37679,28 @@
       "gender": "男性"
     },
     "timestamp": 1782483339837
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#FFC0CB' /><ellipse cx='200' cy='250' rx='80' ry='100' fill='#FF69B4' /><circle cx='150' cy='200' r='10' fill='#FF1493' /><circle cx='250' cy='200' r='10' fill='#FF1493' /><path d='M150 300 Q200 350 250 300' fill='none' stroke='#FF69B4' stroke-width='3' /><path d='M150 300 Q200 270 250 300' fill='none' stroke='#FF69B4' stroke-width='3' /><polygon points='170,230 200,220 230,230' fill='white' /><polygon points='150,350 180,320 220,320 250,350' fill='#FFFF00' /><polygon points='150,300 200,280 250,300' fill='#FF1493' /><polygon points='190,365 200,375 210,365' fill='#FF69B4' /><polygon points='195,350 205,355 210,345' fill='#FF69B4' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかい肌と、紫色の華やかな服を身に纏った女性。頭部には二つの大きな角があり、透明な翼が背中に広がっている。腰まで届く長い金髪が優雅に揺れる。",
+        "reason": "イヴは、自然界の美しさと優雅さを象徴する進化を遂げた。",
+        "thought": "『自然の中に美を見出す』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#87CEEB' /><ellipse cx='200' cy='250' rx='80' ry='100' fill='#4682B4' /><circle cx='150' cy='200' r='10' fill='#0000CD' /><circle cx='250' cy='200' r='10' fill='#0000CD' /><path d='M150 300 Q200 350 250 300' fill='none' stroke='#4682B4' stroke-width='3' /><path d='M150 300 Q200 270 250 300' fill='none' stroke='#4682B4' stroke-width='3' /><polygon points='170,230 200,220 230,230' fill='white' /><polygon points='150,350 180,320 220,320 250,350' fill='#FFD700' /><polygon points='150,300 200,280 250,300' fill='#0000CD' /><polygon points='190,365 200,375 210,365' fill='#4682B4' /><polygon points='195,350 205,355 210,345' fill='#4682B4' /></svg>",
+      "report": {
+        "appearance": "アダムは、青色の肌と、濃い青色の衣装を身に纏った男性。頭部には二本の鋭い角があり、背中には水色の鱗が輝いている。黒い瞳が冷たさを漂わせる。",
+        "reason": "アダムは、力強さと知性を兼ね備えた進化を遂げた。",
+        "thought": "『強さと知恵の融合』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1782502931024
   }
 ]
