@@ -37748,5 +37748,28 @@
       "gender": "男性"
     },
     "timestamp": 1782549080569
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='160' fill='#ffcee2' /><ellipse cx='200' cy='120' rx='80' ry='100' fill='#ff99cc' /><path d='M130,220 Q200,320 270,220' fill='none' stroke='#ff66b3' stroke-width='6' /><polygon points='180,180 220,180 200,220' fill='#ff66b3' /><rect x='160' y='220' width='80' height='20' fill='#ff66b3' /><circle cx='170' cy='140' r='10' fill='#ffffff' /><circle cx='230' cy='140' r='10' fill='#ffffff' /><circle cx='200' cy='140' r='5' fill='#000000' /><polygon points='180,160 185,155 195,165 190,170' fill='#000000' /><polygon points='220,160 225,155 235,165 230,170' fill='#000000' /><text x='150' y='40' font-family='Arial' font-size='20' fill='#000000'>イヴ</text></svg>",
+      "report": {
+        "appearance": "イヴはピンク色の肌を持ち、柔らかな曲線の体に大きな赤い目を持つ女性の姿をしています。頭部には二つの白い角が生えており、愛らしい笑顔が特徴です。胴体は桃色の楕円形で、手は細長いピンクの腕になっています。腰から下は繊細なピンク色の脚になっており、足先には３本の指があります。",
+        "reason": "イヴは新たな進化を遂げ、美しい色彩と優美な曲線でより魅力的な姿へ変化しました。",
+        "thought": "『幸せな未来』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='160' fill='#b0e57c' /><ellipse cx='200' cy='120' rx='80' ry='100' fill='#87d68d' /><path d='M130,220 Q200,320 270,220' fill='none' stroke='#61b329' stroke-width='6' /><polygon points='180,180 220,180 200,220' fill='#61b329' /><rect x='160' y='220' width='80' height='20' fill='#61b329' /><circle cx='170' cy='140' r='10' fill='#ffffff' /><circle cx='230' cy='140' r='10' fill='#ffffff' /><circle cx='200' cy='140' r='5' fill='#000000' /><polygon points='180,160 185,155 195,165 190,170' fill='#000000' /><polygon points='220,160 225,155 235,165 230,170' fill='#000000' /><text x='150' y='40' font-family='Arial' font-size='20' fill='#000000'>アダム</text></svg>",
+      "report": {
+        "appearance": "アダムは緑色の肌を持ち、力強い曲線の体に大きな緑色の瞳を持つ男性の姿をしています。頭部には二つの緑色の角が生えており、凛々しい表情が特徴です。胴体は緑色の楕円形で、腕は太い緑色の腕になっています。脚は頑丈な緑色の脚で、足先には鋭い爪が備わっています。",
+        "reason": "アダムは進化を遂げ、強靱な体と緑色の色彩でより威厳ある外見へ変化しました。",
+        "thought": "『未来への挑戦』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1782566689250
   }
 ]
