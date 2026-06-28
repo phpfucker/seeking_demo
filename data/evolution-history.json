@@ -37863,5 +37863,28 @@
       "gender": "男性"
     },
     "timestamp": 1782653296130
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='pink'/><ellipse cx='200' cy='150' rx='80' ry='110' fill='lightcoral'/><path d='M180 250 L220 250 L200 280 Z' fill='gray'/><circle cx='160' cy='180' r='10' fill='black'/><circle cx='240' cy='180' r='10' fill='black'/><polygon points='160,210 220,210 200,230' fill='red'/></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクの体にライトコーラル色の楕円形の胸部を持ち、グレーの模様が入っています。顔には黒い目と赤い口があります。",
+        "reason": "進化が起こった理由は、新しい環境への適応と生存戦略の変化によるものです。",
+        "thought": "『未来への希望』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='lightblue'/><ellipse cx='200' cy='150' rx='80' ry='110' fill='skyblue'/><path d='M180 250 L220 250 L200 280 Z' fill='gray'/><circle cx='160' cy='180' r='10' fill='black'/><circle cx='240' cy='180' r='10' fill='black'/><polygon points='160,210 220,210 200,230' fill='blue'/></svg>",
+      "report": {
+        "appearance": "アダムは、ライトブルーの体にスカイブルー色の楕円形の胸部を持ち、グレーの模様が入っています。顔には黒い目と青い口があります。",
+        "reason": "進化が起こった理由は、繁殖競争と獲得した新たな生態系での立ち位置の変化によるものです。",
+        "thought": "『新たな挑戦』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1782673970806
   }
 ]
