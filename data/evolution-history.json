@@ -37955,5 +37955,28 @@
       "gender": "男性"
     },
     "timestamp": 1782747552501
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#ffcc99' /><circle cx='200' cy='200' r='80' fill='#ffddcc' /><ellipse cx='150' cy='180' rx='30' ry='20' fill='#ffb3ba' /><ellipse cx='250' cy='180' rx='30' ry='20' fill='#ffb3ba' /><path d='M180,250 Q200,270 220,250' fill='none' stroke='#a0522d' stroke-width='3' /><path d='M160,270 Q200,300 240,270' fill='none' stroke='#a0522d' stroke-width='3' /><polygon points='150,170 160,160 240,160 250,170' fill='#ffffff' stroke='#000000' /><polygon points='150,170 155,165 245,165 250,170' fill='#000000' /><circle cx='175' cy='190' r='5' fill='#000000' /><circle cx='225' cy='190' r='5' fill='#000000' /></svg>",
+      "report": {
+        "appearance": "イヴは、ピンク色の柔らかな肌を持つ女性で、顔には桃色の頬があります。長い髪と優しげな目を持ち、腰まで届く美しいドレスを身につけています。",
+        "reason": "女性性をより際立たせるために、優雅で繊細な特徴が強調されました。",
+        "thought": "『穏やかな愛を育みます』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='100' y='100' width='200' height='200' fill='#b3c6ff' /><circle cx='200' cy='200' r='80' fill='#aec6cf' /><ellipse cx='150' cy='180' rx='30' ry='20' fill='#8aa1b5' /><ellipse cx='250' cy='180' rx='30' ry='20' fill='#8aa1b5' /><path d='M180,250 Q200,270 220,250' fill='none' stroke='#666666' stroke-width='3' /><path d='M160,270 Q200,300 240,270' fill='none' stroke='#666666' stroke-width='3' /><polygon points='150,170 160,160 240,160 250,170' fill='#ffffff' stroke='#000000' /><polygon points='150,170 155,165 245,165 250,170' fill='#000000' /><circle cx='175' cy='190' r='5' fill='#000000' /><circle cx='225' cy='190' r='5' fill='#000000' /></svg>",
+      "report": {
+        "appearance": "アダムは、青い肌を持つ男性で、筋肉質な体つきと鋭い眼差しを持っています。短い黒髪とシャープな顔立ちが特徴で、背中に大きな羽根が生えています。",
+        "reason": "男性的な特徴をより強調するために、力強く凛々しい外見が採用されました。",
+        "thought": "『未来への力強い歩み』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1782762672192
   }
 ]
