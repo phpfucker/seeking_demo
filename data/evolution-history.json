@@ -37909,5 +37909,28 @@
       "gender": "男性"
     },
     "timestamp": 1782703910830
+  },
+  {
+    "entityA": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><rect x='100' y='150' width='200' height='200' fill='#ffcc99'/><circle cx='200' cy='100' r='50' fill='#ff99cc'/><circle cx='150' cy='200' r='20' fill='#ff3366'/><circle cx='250' cy='200' r='20' fill='#ff3366'/><path d='M150 250 Q200 300 250 250' fill='none' stroke='#ff3366' stroke-width='5'/><path d='M160 120 Q200 50 240 120' fill='none' stroke='#ff99cc' stroke-width='5'/><circle cx='170' cy='100' r='10' fill='white'/><circle cx='230' cy='100' r='10' fill='white'/></g></svg>",
+      "report": {
+        "appearance": "イヴは、ピンクとオレンジの色合いを持つ美しい女性型生命体です。体は大きな四角形の胴体と、円形の頭部が特徴で、頭には小さな角があります。手足は細長く、柔らかな曲線で描かれています。",
+        "reason": "進化の理由は、イヴが新たな環境に適応するために、より優れた知覚能力を得る必要が生じたためです。",
+        "thought": "『奥深い世界を見つけたい』"
+      },
+      "name": "イヴ",
+      "gender": "女性"
+    },
+    "entityB": {
+      "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><g><rect x='100' y='150' width='200' height='200' fill='#6699ff'/><circle cx='200' cy='100' r='50' fill='#99ccff'/><path d='M150 250 Q200 300 250 250' fill='none' stroke='#3366ff' stroke-width='5'/><path d='M160 120 Q200 50 240 120' fill='none' stroke='#6699ff' stroke-width='5'/><polygon points='180,220 200,240 220,220' fill='#3366ff'/><polygon points='180,240 200,260 220,240' fill='#3366ff'/></g></svg>",
+      "report": {
+        "appearance": "アダムは、青と水色の色調を持つ男性型生命体です。頭部は大きな円形で、四角形の胴体に細い手足がついています。特徴的なのは、背中に生えた角と、しっぽのような突起があります。",
+        "reason": "アダムの進化は、狩りや防衛のための優れた運動能力と、環境への適応性を高める必要があったためです。",
+        "thought": "『未来に向けて強くなる』"
+      },
+      "name": "アダム",
+      "gender": "男性"
+    },
+    "timestamp": 1782730154413
   }
 ]
