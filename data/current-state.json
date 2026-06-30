@@ -1,20 +1,20 @@
 {
   "entityA": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><circle cx='200' cy='200' r='150' fill='#ffcccb'/><ellipse cx='200' cy='190' rx='100' ry='150' fill='#ffd1dc'/><path d='M150,250 Q200,320 250,250' fill='none' stroke='#ff1493' stroke-width='8'/><path d='M150,250 Q200,380 250,250' fill='none' stroke='#ff1493' stroke-width='8'/><path d='M160,180 Q200,100 240,180' fill='none' stroke='#ff1493' stroke-width='8'/><path d='M160,220 Q200,100 240,220' fill='none' stroke='#ff1493' stroke-width='8'/><path d='M180,190 Q200,250 220,190' fill='none' stroke='#ff69b4' stroke-width='8'/><path d='M180,210 Q200,250 220,210' fill='none' stroke='#ff69b4' stroke-width='8'/><path d='M200,280 Q230,240 200,200 Q170,240 200,280' fill='#8a2be2'/><path d='M180,150 Q200,140 220,150' fill='none' stroke='#9400d3' stroke-width='6'/><path d='M200,160 Q210,150 220,160' fill='none' stroke='#9400d3' stroke-width='4'/><path d='M220,120 Q200,110 180,120' fill='none' stroke='#9932cc' stroke-width='6'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradA' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(255,255,255);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(255,192,203);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradA)' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='rgb(255,192,203)' /><path d='M200,270 L180,320 L220,320 Z' fill='rgb(255,192,203)' /><path d='M150,150 Q200,50 250,150 Q200,200 150,150 Z' fill='rgb(255,105,180)' /><circle cx='170' cy='150' r='10' fill='black' /><circle cx='230' cy='150' r='10' fill='black' /><path d='M180,200 C200,240 200,240 220,200 Z' fill='rgb(255,182,193)' /></svg>",
     "report": {
-      "appearance": "イヴは、ピンクと紫色の美しい体色を持つ女性型生命体です。身体は楕円形で繊細なラインが特徴で、角のような突起物が頭部にあります。複雑な曲線と色彩が美しい姿です。",
-      "reason": "環境の変化により、イヴは新たな色彩を取り入れて進化しました。美しさと独自の特徴を持つ姿が、生存に有利となったためです。",
-      "thought": "『輝く色彩が未来を示す』"
+      "appearance": "イヴは、ピンクと白のグラデーションが美しい体を持つ女性で、大きな目と柔らかい曲線を特徴とする。体の中央には薄いピンクの羽が生えており、優雅な印象を与える。",
+      "reason": "イヴは、環境の変化に適応するため、より優美で柔らかな特徴を発達させた。",
+      "thought": "『命の美しさを守りたい』"
     },
     "name": "イヴ",
     "gender": "女性"
   },
   "entityB": {
-    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><rect x='150' y='120' width='100' height='180' fill='#87ceeb'/><polygon points='150,120 200,50 250,120' fill='#afeeee'/><polygon points='150,300 200,350 250,300' fill='#afeeee'/><ellipse cx='200' cy='100' rx='30' ry='20' fill='#4682b4'/><circle cx='180' cy='150' r='20' fill='#4169e1'/><circle cx='220' cy='150' r='20' fill='#4169e1'/><path d='M180,200 Q200,220 220,200' fill='none' stroke='#4169e1' stroke-width='8'/><circle cx='200' cy='240' r='20' fill='#4169e1'/><path d='M180,250 Q200,260 220,250' fill='none' stroke='#4169e1' stroke-width='6'/><path d='M180,270 Q200,280 220,270' fill='none' stroke='#4169e1' stroke-width='6'/><polygon points='190,230 200,210 210,230' fill='#4169e1'/></svg>",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'><defs><linearGradient id='gradB' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:rgb(159,226,191);stop-opacity:1' /><stop offset='100%' style='stop-color:rgb(0,128,0);stop-opacity:1' /></linearGradient></defs><rect x='100' y='50' width='200' height='300' fill='url(#gradB)' /><ellipse cx='200' cy='150' rx='80' ry='120' fill='rgb(0,128,0)' /><path d='M200,270 L180,320 L220,320 Z' fill='rgb(0,128,0)' /><path d='M150,150 Q200,50 250,150 Q200,200 150,150 Z' fill='rgb(0,100,0)' /><circle cx='170' cy='150' r='10' fill='white' /><circle cx='230' cy='150' r='10' fill='white' /><path d='M180,200 C200,240 200,240 220,200 Z' fill='rgb(152,251,152)' /></svg>",
     "report": {
-      "appearance": "アダムは、青色系の体色を持つ男性型生命体です。四角い体型と直線的なパーツが特徴で、頭部には楕円形の突起物があります。シンプルな形状と色彩が印象的な姿です。",
-      "reason": "環境の変化により、アダムはシンプルで効率的なデザインに進化しました。直感的な形状と明確な特徴が、生存に寄与したためです。",
-      "thought": "『力強い姿勢が未来を切り拓く』"
+      "appearance": "アダムは、緑色の体に包まれた男性で、力強い印象を与える。緑の体色には濃淡があり、筋肉質な体つきが特徴的。背中には明るい緑の羽が生えている。",
+      "reason": "アダムは、生存競争においてより力強く、環境に適応しやすい特性を身につけた。",
+      "thought": "『未来への力強い意志』"
     },
     "name": "アダム",
     "gender": "男性"
